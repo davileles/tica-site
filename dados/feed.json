@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T14:59:02.575Z",
+  "atualizadoEm": "2026-09-16T15:19:23.004Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19117",
+      "loja": "Mercado Livre",
+      "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
+      "link": "https://meli.la/2RSASUs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
+      "preco": 86.35,
+      "precoDe": 159.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T15:09:23.003Z"
+    },
+    {
+      "id": "19116",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Feminino Infantil Lilo E Stitch Com Chaveiro Junto",
+      "link": "https://meli.la/11Yzam2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_931172-MLB108883656639_032026-O.webp",
+      "preco": 47.74,
+      "precoDe": 117.68,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T15:08:17.367Z"
+    },
     {
       "id": "19109",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-09-15T14:45:23.983Z"
-    },
-    {
-      "id": "18513",
-      "loja": "Mercado Livre",
-      "titulo": "TAURINA com 1000mg por Dose - Fórmula Exclusiva com Máxima Concentração e Absorção - 60 Cápsulas",
-      "link": "https://meli.la/1jM29Se",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_858535-MLA113497815056_072026-F.jpg",
-      "preco": 28.809999999999995,
-      "precoDe": 89.77,
-      "desconto": 54,
-      "cupom": "ECONOMIALOCAL",
-      "enviadoEm": "2026-09-15T14:42:10.581Z"
-    },
-    {
-      "id": "18507",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
-      "link": "https://meli.la/1g3rcFF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800756-MLB114124488109_072026-O.webp",
-      "preco": 43.27,
-      "precoDe": 149.99,
-      "desconto": 65,
-      "cupom": "PAGUEMENOS",
-      "enviadoEm": "2026-09-15T14:38:57.096Z"
     }
   ]
 }
