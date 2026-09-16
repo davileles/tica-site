@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-16T16:19:18.740Z",
+  "atualizadoEm": "2026-09-16T16:59:22.047Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19156",
+      "loja": "Amazon",
+      "titulo": "Ricca, Pente para Fitagem, Dentes Flexíveis, Cabo divisor de Mechas, Para Cabelos Cacheados e Ondulados, Cor Roxo",
+      "link": "https://www.amazon.com.br/dp/B0FJGDMTCJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21Dm0UCdzYL._SL400_.jpg",
+      "preco": 10.42,
+      "precoDe": 12.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T16:59:17.601Z"
+    },
+    {
+      "id": "19153",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Core Insider",
+      "link": "https://meli.la/1Zu1JZN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742722-MLB85730033360_062025-O.webp",
+      "preco": 66.84,
+      "precoDe": 189,
+      "desconto": 57,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-16T16:52:13.420Z"
+    },
+    {
+      "id": "19151",
+      "loja": "Amazon",
+      "titulo": "LYOR - Bandeja Retangular Absorvente para Pia 25cm x 10cm Granilite Pedra Diatomita",
+      "link": "https://www.amazon.com.br/dp/B0FVHSSZKR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Bb-PYPlVL._SL400_.jpg",
+      "preco": 15.99,
+      "precoDe": 22.7,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T16:42:54.646Z"
+    },
+    {
+      "id": "19146",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes De Vidro Hermético Com Tampa Tigela Redondo Freezer Micro-ondas Marmita Ideal para Alimentos e Refeições VYROX",
+      "link": "https://meli.la/2nDARUp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877949-MLA109464293215_032026-F.jpg",
+      "preco": 26.6,
+      "precoDe": 66.65,
+      "desconto": 43,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-16T16:34:02.920Z"
+    },
     {
       "id": "19134",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-15T15:23:46.163Z"
-    },
-    {
-      "id": "18557",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Lacoste Ultra Dry Lacoste Tennis X Daniil Medvedev",
-      "link": "https://meli.la/2Dg1jsw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865598-MLB111786397288_062026-O.webp",
-      "preco": 144.26,
-      "precoDe": 449,
-      "desconto": 54,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T15:18:00.606Z"
-    },
-    {
-      "id": "18550",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo 4 Tapete de Banheiro Antiderrapante 60x40cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/AKabfSAd8V",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 28.97,
-      "precoDe": 47.49,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T15:10:15.742Z"
-    },
-    {
-      "id": "18538",
-      "loja": "Amazon",
-      "titulo": "Trator Giant Escavator Até 50Kg, Roma, Multicor",
-      "link": "https://www.amazon.com.br/dp/B078HQ7FK1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fXU5wxDLL._SL400_.jpg",
-      "preco": 154.99,
-      "precoDe": 224.96,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T14:59:57.560Z"
-    },
-    {
-      "id": "18537",
-      "loja": "Amazon",
-      "titulo": "EcoLapis de Cor Faber-Castell 60 Cores, Faber-Castell, 120160G, Multicor",
-      "link": "https://www.amazon.com.br/dp/B078YCYYWR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51umuMN0f0L._SL400_.jpg",
-      "preco": 89.89,
-      "precoDe": 163.17,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T14:59:09.518Z"
     }
   ]
 }
