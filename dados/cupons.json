@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T18:43:46.669Z",
+  "atualizadoEm": "2026-09-16T19:08:18.773Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1071,18 +1071,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTOEMCASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-16T18:52:46.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CALVIN20OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1320,18 +1308,6 @@
       "limite": null,
       "observacao": "Válido para Mercado e Farmácia no iFood",
       "validadeAte": "2026-09-16T19:44:23.000Z",
-      "url": null
-    },
-    {
-      "codigo": "CORREFARMA",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido em Farmácias pelo iFood",
-      "validadeAte": "2026-09-16T18:56:47.000Z",
       "url": null
     },
     {
