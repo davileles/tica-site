@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-16T20:15:15.707Z",
+  "atualizadoEm": "2026-09-16T20:34:29.320Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19210",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
+      "link": "https://meli.la/2sTjywp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707426-MLU72340464209_102023-F.jpg",
+      "preco": 287.54,
+      "precoDe": 433.06,
+      "desconto": 17,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-16T20:31:05.007Z"
+    },
+    {
+      "id": "19206",
+      "loja": "Mercado Livre",
+      "titulo": "Varal Dobrável De Chão 3 Andares De Roupas Grande Com Rodinha Aba Lateral Retrátil Para Cabide Irsina",
+      "link": "https://meli.la/25x1k8Y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_909863-MLA89943157034_082025-F.jpg",
+      "preco": 67.54,
+      "precoDe": 129.99,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:27:35.117Z"
+    },
+    {
+      "id": "19203",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 59.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:24:15.971Z"
+    },
+    {
+      "id": "19202",
+      "loja": "Amazon",
+      "titulo": "KNUT - Kit Presente Milk com Shampoo 250ml, Condicionador 200ml e Mini Máscara 30g - Hidratação Profunda para Cabelos Quimicamente Tratados - Sem Parabenos, Sem Ftalatos, Cruelty F",
+      "link": "https://www.amazon.com.br/dp/B0F4K9YJ34?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fk1YJ9LpL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 119.5,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:20:42.258Z"
+    },
+    {
+      "id": "19200",
+      "loja": "Amazon",
+      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
+      "preco": 40.32,
+      "precoDe": 55.92,
+      "desconto": 15,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-16T20:17:18.798Z"
+    },
     {
       "id": "19198",
       "loja": "Amazon",
@@ -939,18 +999,6 @@
       "enviadoEm": "2026-09-15T21:03:55.449Z"
     },
     {
-      "id": "18835",
-      "loja": "Amazon",
-      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
-      "preco": 29.78,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-15T21:00:49.708Z"
-    },
-    {
       "id": "18834",
       "loja": "Shopee",
       "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
@@ -1393,54 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-09-15T16:53:01.212Z"
-    },
-    {
-      "id": "18644",
-      "loja": "Shopee",
-      "titulo": "Kit Dolce Gusto Queridinhos - 40 cápsulas - Espresso, Canela, Au Lait e Cappuccino",
-      "link": "https://s.shopee.com.br/8AW7C9AAdw",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82634-mjhhmn775v5w3b_tn",
-      "preco": 71.6,
-      "precoDe": 99.44,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T16:49:45.480Z"
-    },
-    {
-      "id": "18639",
-      "loja": "Shopee",
-      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
-      "link": "https://s.shopee.com.br/9Ki4a9rMYs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
-      "preco": 159.9,
-      "precoDe": 227.72,
-      "desconto": 21,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T16:46:07.941Z"
-    },
-    {
-      "id": "18636",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
-      "link": "https://meli.la/1VjQJ2a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711114-MLB108433295675_032026-O.webp",
-      "preco": null,
-      "precoDe": 392.46,
-      "desconto": 59,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T16:42:43.656Z"
-    },
-    {
-      "id": "18635",
-      "loja": "Mercado Livre",
-      "titulo": "Closet Aberto IRSINA 2 Divisórias Preto com 6 Prateleiras Aço Inox",
-      "link": "https://meli.la/1R4JuNC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_993636-MLA96891623866_112025-F.jpg",
-      "preco": 67.54,
-      "precoDe": 98.99,
-      "desconto": 24,
-      "cupom": "COMPRASFULL",
-      "enviadoEm": "2026-09-15T16:39:07.857Z"
     }
   ]
 }
