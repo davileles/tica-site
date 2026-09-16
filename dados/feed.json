@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T21:32:10.644Z",
+  "atualizadoEm": "2026-09-16T21:49:29.762Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19236",
+      "loja": "Shopee",
+      "titulo": "Pistola De Cola Quente Pequena Bivolt + 10 Bastões De Cola Quente Fino",
+      "link": "https://s.shopee.com.br/1VzFApQmvf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mrbvaxurr1mv50_tn",
+      "preco": 19.99,
+      "precoDe": 45.43,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T21:39:29.761Z"
+    },
+    {
+      "id": "19234",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/50Z7LBO95Y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-16T21:36:03.005Z"
+    },
     {
       "id": "19229",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-15T17:30:02.310Z"
-    },
-    {
-      "id": "18689",
-      "loja": "Amazon",
-      "titulo": "Canetinha Hidrográfica, Faber-Castell, 15.0136VVZF, Vai E Vem, 36 Cores Neon, Cor: Multicor",
-      "link": "https://www.amazon.com.br/dp/B0BB36TLTP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51rRwUg4pWL._SL400_.jpg",
-      "preco": 63.6,
-      "precoDe": 113.72,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T17:28:49.934Z"
-    },
-    {
-      "id": "18684",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Boxer Reebok Classic Microfibra Sem Costura",
-      "link": "https://meli.la/1DTj7Vt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991274-MLB110972283976_052026-O.webp",
-      "preco": 40.67,
-      "precoDe": 99.99,
-      "desconto": 42,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T17:27:31.694Z"
     }
   ]
 }
