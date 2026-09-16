@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T14:13:51.092Z",
+  "atualizadoEm": "2026-09-16T14:24:14.560Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19084",
+      "loja": "Amazon",
+      "titulo": "Canetinhas Jumbo Little Creatives, Faber-Castell, Coloridas, Laváveis, Pré-escola, 6 Cores",
+      "link": "https://www.amazon.com.br/dp/B0D1GNM4NC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TpHjnvsYL._SL400_.jpg",
+      "preco": 32.29,
+      "precoDe": 39.81,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T14:14:14.559Z"
+    },
     {
       "id": "19081",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
       "enviadoEm": "2026-09-15T14:28:11.622Z"
-    },
-    {
-      "id": "18497",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 10 Cuecas Boxer Masculina Microfibra Original ",
-      "link": "https://meli.la/1DMcCtB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882952-MLB106804965837_022026-O.webp",
-      "preco": 62.309999999999995,
-      "precoDe": 138,
-      "desconto": 45,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T14:25:03.204Z"
     }
   ]
 }
