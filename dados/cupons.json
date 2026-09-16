@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T17:23:42.906Z",
+  "atualizadoEm": "2026-09-16T18:01:29.758Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1107,18 +1107,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ESTOQUEMELI123",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-16T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTOEMCASA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1512,18 +1500,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-17T13:03:05.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "DESCONTO20BAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 65,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T18:00:42.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
