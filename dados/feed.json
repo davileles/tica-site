@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-16T19:37:16.695Z",
+  "atualizadoEm": "2026-09-16T20:07:16.695Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19196",
+      "loja": "Mercado Livre",
+      "titulo": "Whisky Johnnie Walker Black Label de 1L",
+      "link": "https://meli.la/2kRuqTK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
+      "preco": 138,
+      "precoDe": 222.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:04:13.915Z"
+    },
+    {
+      "id": "19193",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/4VcqdPqfpV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 34.9,
+      "precoDe": 56.2,
+      "desconto": 29,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-16T20:00:30.275Z"
+    },
+    {
+      "id": "19191",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXW6ZYB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41A3ELm8gAL._SL400_.jpg",
+      "preco": 48.86,
+      "precoDe": 67.08,
+      "desconto": 14,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-16T19:53:13.565Z"
+    },
+    {
+      "id": "19190",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Esportiva Flamengo Compartimento Térmico - Xeryus",
+      "link": "https://meli.la/2T6S9Xp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644289-MLA95844310727_102025-F.jpg",
+      "preco": 186,
+      "precoDe": 236.56,
+      "desconto": 9,
+      "cupom": "MOCHILA20OFF",
+      "enviadoEm": "2026-09-16T19:49:15.269Z"
+    },
+    {
+      "id": "19189",
+      "loja": "Amazon",
+      "titulo": "Vinho Argentino Bodega Argento Minimalista Pinot Grigio 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CGPYNVN2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21euzMXYelL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 49,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T19:45:30.562Z"
+    },
     {
       "id": "19187",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-15T16:32:19.344Z"
-    },
-    {
-      "id": "18622",
-      "loja": "Amazon",
-      "titulo": "Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta",
-      "link": "https://www.amazon.com.br/dp/B07NVZWGMW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pHq6psUpS._SL400_.jpg",
-      "preco": 764.97,
-      "precoDe": 850,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T16:28:50.857Z"
-    },
-    {
-      "id": "18621",
-      "loja": "Mercado Livre",
-      "titulo": "Xilofone Infantil C/ 8 Notas Colorido",
-      "link": "https://meli.la/1EeGQNt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788148-MLA110048711311_042026-F.jpg",
-      "preco": 16.1,
-      "precoDe": 26.9,
-      "desconto": 14,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-09-15T16:25:25.884Z"
-    },
-    {
-      "id": "18618",
-      "loja": "Mercado Livre",
-      "titulo": "Assento Redutor Infantil Jhamba com Escada Dobrável para Vaso Sanitário",
-      "link": "https://meli.la/1eGLzgE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989245-MLA110233647945_042026-F.jpg",
-      "preco": 55.230000000000004,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-09-15T16:24:35.384Z"
-    },
-    {
-      "id": "18614",
-      "loja": "Mercado Livre",
-      "titulo": "Cortador Fatiador Ralador De Legumes Frutas Vegetais Triturador Picador Manual 16 Peças para Cozinha Mandolin Inox Sólar",
-      "link": "https://meli.la/1vSNEop",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894077-MLA115247245255_072026-F.jpg",
-      "preco": 39.77,
-      "precoDe": 59.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T16:23:46.773Z"
-    },
-    {
-      "id": "18613",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/80CgyA8onK",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 347.99,
-      "precoDe": 603.26,
-      "desconto": 39,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T16:20:40.646Z"
     }
   ]
 }
