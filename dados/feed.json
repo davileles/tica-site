@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-16T15:29:22.046Z",
+  "atualizadoEm": "2026-09-16T16:19:18.740Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19134",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/8KpYwqJeYx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 30.990000000000002,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-16T16:09:18.738Z"
+    },
+    {
+      "id": "19131",
+      "loja": "Amazon",
+      "titulo": "Óleo de Coco Extra Vigem (Sache) Softhair - 15ml, Soft Hair",
+      "link": "https://www.amazon.com.br/dp/B07LFC56QY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QGDIa4RsL._SL400_.jpg",
+      "preco": 1.93,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T16:03:18.983Z"
+    },
+    {
+      "id": "19129",
+      "loja": "Amazon",
+      "titulo": "Desodorizador Glade Gel Pequenos Ambientes Toque de Maciez 70g",
+      "link": "https://www.amazon.com.br/dp/B07FN5L9S8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410nFuL6e6L._SL400_.jpg",
+      "preco": 7.26,
+      "precoDe": 9.02,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T16:00:14.702Z"
+    },
     {
       "id": "19121",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-15T14:59:09.518Z"
-    },
-    {
-      "id": "18534",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
-      "preco": 452,
-      "precoDe": 899.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T14:57:55.370Z"
-    },
-    {
-      "id": "18523",
-      "loja": "Amazon",
-      "titulo": "Tubes Free Natural Life - Recheado com Pasta de Amendoim - Sem Glúten - 50g",
-      "link": "https://www.amazon.com.br/dp/B08G5FFX6D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-170ppUGL._SL400_.jpg",
-      "preco": 7.75,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
-      "enviadoEm": "2026-09-15T14:52:46.425Z"
-    },
-    {
-      "id": "18522",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Urbana Feminina Spector Rosa 16.5L com Chaveiro Pelinho",
-      "link": "https://meli.la/2QfAkGE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725992-MLA99501140250_112025-F.jpg",
-      "preco": 58.739999999999995,
-      "precoDe": 197.88,
-      "desconto": 61,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T14:49:28.610Z"
     }
   ]
 }
