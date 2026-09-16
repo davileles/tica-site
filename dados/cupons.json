@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T11:58:19.427Z",
+  "atualizadoEm": "2026-09-16T12:03:52.792Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -132,18 +132,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-22T17:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "CLIENTE",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -579,15 +567,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TVSESPECIAL",
+      "codigo": "TODOSITE2001609",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
+      "valor": 200,
+      "minimo": 1299,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-16T12:00:02.000Z",
+      "observacao": null,
+      "validadeAte": "2026-09-17T12:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -600,6 +588,18 @@
       "limite": null,
       "observacao": "Desconto de R$ 63,90 (de R$ 119,90 para R$ 56,00). Cupom mencionado na base, mas com aviso de possível inconsistência de preço entre plataforma e loja.",
       "validadeAte": "2026-09-16T18:38:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ALLSITE1609",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-17T12:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -780,6 +780,30 @@
       "limite": null,
       "observacao": "Cupom de 30% OFF aplicável na tela do produto ou no carrinho. Válido para itens vendidos por Personal Baby. Promoção por tempo limitado.",
       "validadeAte": "2026-09-16T20:01:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRECINHOBOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
+      "validadeAte": "2026-09-17T12:00:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BATEDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
+      "validadeAte": "2026-09-17T12:00:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -987,6 +1011,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "DESCONTOBOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
+      "validadeAte": "2026-09-17T12:00:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1083,6 +1119,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PEGANOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
+      "validadeAte": "2026-09-17T12:00:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SUPERPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1164,6 +1212,18 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-16T22:17:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE1609",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-17T12:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1368,6 +1428,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-17T02:41:25.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
+      "validadeAte": "2026-09-17T12:00:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
