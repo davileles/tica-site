@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T13:28:24.049Z",
+  "atualizadoEm": "2026-09-16T13:54:50.957Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19066",
+      "loja": "Mercado Livre",
+      "titulo": "Poltrona Decorativa Amamentação Para Sala Recepção Manicure Confortável Cadeira Reforçada Alice Suede Bege Suede Liso",
+      "link": "https://meli.la/2W415aa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650762-MLA100574852146_122025-F.jpg",
+      "preco": 154.91,
+      "precoDe": 292.34,
+      "desconto": 34,
+      "cupom": "DESCONTOEMCASA",
+      "enviadoEm": "2026-09-16T13:44:50.955Z"
+    },
+    {
+      "id": "19065",
+      "loja": "Shopee",
+      "titulo": "Dispositivo Elétrico De Enxágue Nasal 360 ° Limpador De Sinusite Portátil Giratório De Cabeça Dupla Para Recuperação Aut",
+      "link": "https://s.shopee.com.br/4VcqDeSkIU",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjme2wakn8qt69_tn",
+      "preco": 300,
+      "precoDe": 533.33,
+      "desconto": 40,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-16T13:41:17.043Z"
+    },
     {
       "id": "19054",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-15T14:21:23.887Z"
-    },
-    {
-      "id": "18495",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jogger Cargo Masculina Sarja Calca Streetwear Punho",
-      "link": "https://meli.la/1H3bojo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666946-MLB95966617051_102025-O.webp",
-      "preco": 45.959999999999994,
-      "precoDe": 98.9,
-      "desconto": 43,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T14:17:39.522Z"
-    },
-    {
-      "id": "18493",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina B12 120 cáps. Growth Supplements",
-      "link": "https://meli.la/2mDBius",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_843068-MLA106388657212_022026-F.jpg",
-      "preco": 37.9,
-      "precoDe": 39.9,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T14:14:10.883Z"
     }
   ]
 }
