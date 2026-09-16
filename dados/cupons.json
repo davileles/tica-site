@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T18:04:43.609Z",
+  "atualizadoEm": "2026-09-16T18:34:18.121Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODOSITE2001609",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-17T12:00:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAMELI123",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -540,18 +528,6 @@
       "limite": null,
       "observacao": "Desconto de R$ 63,90 (de R$ 119,90 para R$ 56,00). Cupom mencionado na base, mas com aviso de possível inconsistência de preço entre plataforma e loja.",
       "validadeAte": "2026-09-16T18:38:47.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ALLSITE1609",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-17T12:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1119,30 +1095,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERPROMO20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-16T22:17:30.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE1609",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-17T12:00:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CALVIN20OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1227,18 +1179,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MLDEBOA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de 18% aplicado no produto de pneus. Preço original R$ 1.068,00, preço final com cupom R$ 877,71.",
-      "validadeAte": "2026-09-16T18:22:49.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ISDIN15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1296,54 +1236,6 @@
       "limite": 300,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FUTMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-16T22:48:24.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FUTEBOLVIVO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-17T01:16:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CONQUISTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-17T02:41:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons de desconto em porcentagem com limite máximo de desconto",
-      "validadeAte": "2026-09-17T12:00:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
