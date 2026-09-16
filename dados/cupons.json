@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T13:28:26.481Z",
+  "atualizadoEm": "2026-09-16T13:54:53.288Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -795,6 +795,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "30LIVEMELIBASICS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 10,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-17T13:46:39.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCOTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1188,6 +1200,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-17T12:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CALVIN20OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79.99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-17T13:46:39.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOCHILA20OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79.99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-17T13:46:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
