@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T22:11:08.581Z",
+  "atualizadoEm": "2026-09-16T22:24:46.631Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19245",
+      "loja": "Shopee",
+      "titulo": "Mop Com Centrifuga Inox e Cabo em Inox Com Refil De Microfibra 9 Litros Mopi",
+      "link": "https://s.shopee.com.br/1gIfQL2goI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqdqvf8wjr4316_tn",
+      "preco": 40.35,
+      "precoDe": 82.45,
+      "desconto": 45,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-16T22:23:46.250Z"
+    },
     {
       "id": "19242",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "S1NT0CH31R0D3CUP0M",
       "enviadoEm": "2026-09-15T18:19:07.441Z"
-    },
-    {
-      "id": "18706",
-      "loja": "Mercado Livre",
-      "titulo": "Bota Botina Segurança Bracol Sapato Coturno Nobuck Com Ca",
-      "link": "https://meli.la/1qhGCev",
-      "imagem": null,
-      "preco": 129.52,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ESTOQUEMELI123",
-      "enviadoEm": "2026-09-15T18:06:16.458Z"
     }
   ]
 }
