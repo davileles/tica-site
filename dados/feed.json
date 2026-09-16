@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-16T21:03:29.573Z",
+  "atualizadoEm": "2026-09-16T21:32:10.644Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19229",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 69,
+      "precoDe": 92.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T21:22:10.640Z"
+    },
+    {
+      "id": "19228",
+      "loja": "Amazon",
+      "titulo": "Mili Fralda Infantil Love & Care Recém Nascido RN, Alta Absorção, Ajuste Confortável, 18 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09CDXRQJL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41magrkGvJL._SL400_.jpg",
+      "preco": 13.99,
+      "precoDe": 27.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T21:17:34.862Z"
+    },
+    {
+      "id": "19227",
+      "loja": "Amazon",
+      "titulo": "Libere di Bere Bene Vinho Tinto Italiano Liberi Di Bere Bene 750Ml",
+      "link": "https://www.amazon.com.br/dp/B097S4452Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21x7GPUlk8L._SL400_.jpg",
+      "preco": 44.91,
+      "precoDe": 49.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T21:16:41.232Z"
+    },
+    {
+      "id": "19225",
+      "loja": "Shopee",
+      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
+      "link": "https://s.shopee.com.br/80CisrJFLZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
+      "preco": 269.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-09-16T21:13:19.473Z"
+    },
+    {
+      "id": "19220",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 35.290000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-16T21:06:30.384Z"
+    },
     {
       "id": "19219",
       "loja": "Mercado Livre",
@@ -1023,18 +1083,6 @@
       "enviadoEm": "2026-09-15T21:19:23.271Z"
     },
     {
-      "id": "18848",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 35.290000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-15T21:18:34.769Z"
-    },
-    {
       "id": "18846",
       "loja": "Amazon",
       "titulo": "Whisky Johnnie Walker Red Label 1L",
@@ -1393,54 +1441,6 @@
       "desconto": 42,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-15T17:27:31.694Z"
-    },
-    {
-      "id": "18680",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Travesseiros Oaktex 50x70 Antialérgico Fibra Siliconada Branco",
-      "link": "https://meli.la/1eYuX4F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_614653-MLA99937755967_112025-F.jpg",
-      "preco": 77.88999999999999,
-      "precoDe": 175.4,
-      "desconto": 46,
-      "cupom": "DESCONTONAREDA",
-      "enviadoEm": "2026-09-15T17:24:03.215Z"
-    },
-    {
-      "id": "18677",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Renno Classic Sl (2 cores)",
-      "link": "https://meli.la/2n6JukG",
-      "imagem": null,
-      "preco": 147.59,
-      "precoDe": 384.99,
-      "desconto": 53,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T17:20:25.477Z"
-    },
-    {
-      "id": "18674",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Samba Canção De Liganete Cueca Short Malha Fria Pijama",
-      "link": "https://meli.la/1f3aJoF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690915-MLB104484132577_012026-O.webp",
-      "preco": 25.83,
-      "precoDe": 49.9,
-      "desconto": 26,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T17:13:27.157Z"
-    },
-    {
-      "id": "18672",
-      "loja": "Amazon",
-      "titulo": "Bluey Maletinha Divertida",
-      "link": "https://www.amazon.com.br/dp/6561263146?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51qgCjUxFmL._SL400_.jpg",
-      "preco": 25.52,
-      "precoDe": 49.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T17:10:11.163Z"
     }
   ]
 }
