@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T17:23:40.468Z",
+  "atualizadoEm": "2026-09-16T18:01:26.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19163",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pares Meias Mash Invisível Soquete Sapatilha Algodão",
+      "link": "https://meli.la/33xxRrQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610097-MLB83101538254_032025-O.webp",
+      "preco": 49.17999999999999,
+      "precoDe": 99.99,
+      "desconto": 40,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-16T17:54:43.046Z"
+    },
     {
       "id": "19159",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-15T15:35:45.156Z"
-    },
-    {
-      "id": "18567",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749739-MLB116040608078_092026-O.webp",
-      "preco": 60.19,
-      "precoDe": 229.99,
-      "desconto": 63,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T15:32:25.137Z"
     }
   ]
 }
