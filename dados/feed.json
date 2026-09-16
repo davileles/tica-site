@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T12:59:21.959Z",
+  "atualizadoEm": "2026-09-16T13:28:24.049Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19054",
+      "loja": "Shopee",
+      "titulo": "Cooktop a Gás Atlas 4 Bocas Agile Up Preto - Bivolt",
+      "link": "https://s.shopee.com.br/70KBAgRc8G",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ras9-ma4hfpfmk0x7c7_tn",
+      "preco": 418.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-16T13:18:24.047Z"
+    },
+    {
+      "id": "19047",
+      "loja": "Mercado Livre",
+      "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
+      "link": "https://meli.la/1oFLqqi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662466-MLA99384545902_112025-F.jpg",
+      "preco": 332.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS",
+      "enviadoEm": "2026-09-16T13:08:58.372Z"
+    },
     {
       "id": "19036",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-09-15T14:14:10.883Z"
-    },
-    {
-      "id": "18487",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Adidas Adizero Pacer",
-      "link": "https://meli.la/2gqXTRZ",
-      "imagem": null,
-      "preco": 597.99,
-      "precoDe": 699.99,
-      "desconto": 7,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T14:09:24.486Z"
-    },
-    {
-      "id": "18471",
-      "loja": "Amazon",
-      "titulo": "Pasta de Amendoim Integral Crocante Zero Açúcar 1kg - Natural Proteica",
-      "link": "https://www.amazon.com.br/dp/B09TTR6V5J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qM5IwWT3L._SL400_.jpg",
-      "preco": 22.4,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONCO AO COLOCAR NO CARRINHO",
-      "enviadoEm": "2026-09-15T13:57:42.206Z"
     }
   ]
 }
