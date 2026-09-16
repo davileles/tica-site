@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-09-16T16:19:21.092Z",
+  "atualizadoEm": "2026-09-16T16:29:22.523Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "DESCUBRA20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom mencionado no post: DESCUBRA20. Desconto adicional ao preço já reduzido.",
-      "validadeAte": "2026-09-16T16:25:29.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "CORRE15",
       "loja": "ASICS",
