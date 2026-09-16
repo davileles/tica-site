@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T14:39:39.977Z",
+  "atualizadoEm": "2026-09-16T14:59:02.575Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19109",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/80CiSkmXvR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msykg0bri8skfd_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-16T14:49:02.574Z"
+    },
     {
       "id": "19090",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 65,
       "cupom": "PAGUEMENOS",
       "enviadoEm": "2026-09-15T14:38:57.096Z"
-    },
-    {
-      "id": "18505",
-      "loja": "Amazon",
-      "titulo": "Bancada Penteadeira Infantil 3 em 1 Maleta 21 Peça Maxi Toys",
-      "link": "https://www.amazon.com.br/dp/B0FQG8WBGZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dhYcfYu4L._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 129.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T14:35:47.271Z"
     }
   ]
 }
