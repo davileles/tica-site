@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T19:31:55.140Z",
+  "atualizadoEm": "2026-09-16T19:37:16.695Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19187",
+      "loja": "Shopee",
+      "titulo": "Kit Até 4 Sacos de Lixo Perfumados Lavanda | 160 Sacos | Pia e Banheiro | 34x38cm | Neutraliza Odores",
+      "link": "https://s.shopee.com.br/7VGSBMnMaF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mlpok0p0fg933f_tn",
+      "preco": 11.9,
+      "precoDe": 24.29,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T19:33:34.644Z"
+    },
     {
       "id": "19186",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": "S1NT0CH31R0D3CUP0M",
       "enviadoEm": "2026-09-15T16:20:40.646Z"
-    },
-    {
-      "id": "18609",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Bermuda Short Moletom Masculino Bolso Academia Corrida",
-      "link": "https://meli.la/1Xu4GhW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854159-MLB85158642076_052025-O.webp",
-      "preco": 77.88999999999999,
-      "precoDe": 99.99,
-      "desconto": 5,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T16:09:48.431Z"
     }
   ]
 }
