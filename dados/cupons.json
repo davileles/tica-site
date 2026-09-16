@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T19:08:18.773Z",
+  "atualizadoEm": "2026-09-16T20:07:21.118Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -267,30 +267,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
-      "codigo": "PEDIUBEBEU",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T19:58:07.000Z",
-      "url": null
-    },
-    {
-      "codigo": "MIAUPEDIU",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T19:58:07.000Z",
-      "url": null
-    },
-    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -507,18 +483,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "DIADOCLIENTE16H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T19:47:56.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -672,18 +636,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-06T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "30% OFF em Suzano",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom de 30% OFF aplicável na tela do produto ou no carrinho. Válido para itens vendidos por Personal Baby. Promoção por tempo limitado.",
-      "validadeAte": "2026-09-16T20:01:21.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1299,18 +1251,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "VEMMERCADO",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para Mercado e Farmácia no iFood",
-      "validadeAte": "2026-09-16T19:44:23.000Z",
-      "url": null
-    },
-    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1392,6 +1332,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-16T20:48:53.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OFERTAS10",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-09-17T19:46:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
