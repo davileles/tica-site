@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T21:49:31.930Z",
+  "atualizadoEm": "2026-09-16T22:54:49.050Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1176,6 +1176,30 @@
       "limite": 20,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-09-17T18:01:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "JOGOCERTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-17T22:48:46.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FUTMELI10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-17T22:53:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
