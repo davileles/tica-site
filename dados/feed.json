@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T18:01:26.923Z",
+  "atualizadoEm": "2026-09-16T18:34:15.749Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19168",
+      "loja": "Mercado Livre",
+      "titulo": "Technic Carro F1® Aston Martin Aramco #42240 (1547 Peças) LEGO",
+      "link": "https://meli.la/2cq39S4",
+      "imagem": null,
+      "preco": 1239,
+      "precoDe": 1999,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T18:24:15.747Z"
+    },
     {
       "id": "19163",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-15T15:39:14.240Z"
-    },
-    {
-      "id": "18568",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/2gB92fcO7i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 49.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T15:35:45.156Z"
     }
   ]
 }
