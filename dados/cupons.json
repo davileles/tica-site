@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T16:29:22.523Z",
+  "atualizadoEm": "2026-09-16T16:59:24.617Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1455,18 +1455,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "TANACESTA",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido se ativado agora ou a partir das 14h",
-      "validadeAte": "2026-09-16T16:57:02.000Z",
-      "url": null
-    },
-    {
       "codigo": "VEMMERCADO",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1488,18 +1476,6 @@
       "limite": null,
       "observacao": "Desconto válido em Farmácias pelo iFood",
       "validadeAte": "2026-09-16T18:56:47.000Z",
-      "url": null
-    },
-    {
-      "codigo": "TANACESTA",
-      "loja": "Outro: iFood Mercados",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T16:56:58.000Z",
       "url": null
     },
     {
