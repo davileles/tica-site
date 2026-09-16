@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T20:07:16.695Z",
+  "atualizadoEm": "2026-09-16T20:15:15.707Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19198",
+      "loja": "Amazon",
+      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
+      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
+      "preco": 94.9,
+      "precoDe": 119,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:11:26.473Z"
+    },
+    {
+      "id": "19197",
+      "loja": "Mercado Livre",
+      "titulo": "Cadiveu Professional Kit Quartzo Shine (3 Produtos)",
+      "link": "https://meli.la/2PcBVSp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911790-MLB113403363629_062026-O.webp",
+      "preco": 63.12,
+      "precoDe": 324.99,
+      "desconto": 81,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T20:07:57.103Z"
+    },
     {
       "id": "19196",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": "COMPRASFULL",
       "enviadoEm": "2026-09-15T16:39:07.857Z"
-    },
-    {
-      "id": "18626",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Infantil Menina Calce Fácil Casual Conforto Original",
-      "link": "https://meli.la/1KrsNsZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999233-MLB113767716729_062026-O.webp",
-      "preco": null,
-      "precoDe": 129.9,
-      "desconto": 46,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T16:35:55.232Z"
-    },
-    {
-      "id": "18625",
-      "loja": "Amazon",
-      "titulo": "Relógio Inteligente Amazfit Balance 46mm A2287 ZEPP FOLOW Composição Corporal, GPS, Step Tracking, Alexa Built-In, Chamada Bluetooth, Duração da Bateria de 14 Dias (Black)",
-      "link": "https://www.amazon.com.br/dp/B0D2NPSGH5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41huFJtcHAL._SL400_.jpg",
-      "preco": 931.94,
-      "precoDe": 1069.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T16:32:19.344Z"
     }
   ]
 }
