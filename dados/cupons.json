@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T12:30:24.562Z",
+  "atualizadoEm": "2026-09-16T12:59:24.218Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1465,18 +1465,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "CLIENTE50",
-      "loja": "Outro: Farmácia Pague Menos",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código do consultor: cuponsofertas",
-      "validadeAte": "2026-09-16T12:33:55.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
       "codigo": "TANACESTA",
