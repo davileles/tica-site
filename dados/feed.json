@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-16T19:08:16.519Z",
+  "atualizadoEm": "2026-09-16T19:31:55.140Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19186",
+      "loja": "Amazon",
+      "titulo": "Banheira Dobrável Com Suporte Termômetro e Redutor Assento Ergonômico 20kg Melon Maxi Baby",
+      "link": "https://www.amazon.com.br/dp/B0H4WPWNGL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31cu1gE6yaL._SL400_.jpg",
+      "preco": 399.9,
+      "precoDe": 549.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T19:21:55.138Z"
+    },
+    {
+      "id": "19184",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira de Impacto Makita 220V 760W HP1640 Azul-turquesa",
+      "link": "https://meli.la/1R99fSP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906595-MLA115299967217_072026-F.jpg",
+      "preco": 305.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELITUDOBOM",
+      "enviadoEm": "2026-09-16T19:19:53.666Z"
+    },
+    {
+      "id": "19182",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
+      "link": "https://s.shopee.com.br/4qFgyt26rx",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
+      "preco": 23.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-16T19:10:53.736Z"
+    },
     {
       "id": "19181",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 5,
       "cupom": "PAGUEMENOSJA",
       "enviadoEm": "2026-09-15T16:09:48.431Z"
-    },
-    {
-      "id": "18599",
-      "loja": "Mercado Livre",
-      "titulo": "Attracione Men perfume Masculino Com Feromônios Ativados 25 mL",
-      "link": "https://meli.la/1GfFXRu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948198-MLA81769955450_012025-F.jpg",
-      "preco": 50.44,
-      "precoDe": 149,
-      "desconto": 62,
-      "cupom": "COMPRASFULL",
-      "enviadoEm": "2026-09-15T16:06:14.999Z"
-    },
-    {
-      "id": "18594",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/5VVKTRQORG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 129.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T15:58:09.060Z"
-    },
-    {
-      "id": "18585",
-      "loja": "Shopee",
-      "titulo": "Kit Chocolates Dolce Gusto 40 cápsulas - KitKat, Alpino, Galak e Nesquik",
-      "link": "https://s.shopee.com.br/6q0jY7z3yn",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225s-mhkknlwmucch4c_tn",
-      "preco": 75.6,
-      "precoDe": 111.18,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T15:53:24.208Z"
     }
   ]
 }
