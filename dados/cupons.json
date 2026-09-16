@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T14:29:24.174Z",
+  "atualizadoEm": "2026-09-16T15:19:25.174Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -528,18 +528,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-16T17:11:50.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "DIADOCLIENTE12H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T15:02:21.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1347,18 +1335,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 10,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-16T15:00:12.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FUTMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1407,6 +1383,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODA1609",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em selecionados de Moda e Bem-estar",
+      "validadeAte": "2026-09-17T15:01:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1428,18 +1416,6 @@
       "limite": null,
       "observacao": "Cupons mencionados no post original (CLIENTETOP e SITELANDING) para promoção de Black Friday em kit de roupa de cama. Desconto final resultante: de R$52,00 para R$19,80. Valores específicos de desconto por cupom não informados.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "KAPPAPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Dois cupons: PAGUEMENOSJA + KAPPAPROMO. Desconto total observado: R$ 187,99 (de R$ 289,99 para R$ 102,00), mas valores individuais de cada cupom não são informados separadamente",
-      "validadeAte": "2026-09-16T15:12:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1635,18 +1611,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "F4SH10N10",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T15:00:51.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "DIACUPOM10AF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1656,6 +1620,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-16T16:00:14.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "S3M4N4M3B",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-17T15:00:08.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
