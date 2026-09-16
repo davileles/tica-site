@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-16T16:59:22.047Z",
+  "atualizadoEm": "2026-09-16T17:23:40.468Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19159",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 5 Refletores LED 100W IP67 à Prova D'Água 6500K Branco Frio Bivolt",
+      "link": "https://meli.la/2ZEHN1V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748329-MLA113147902233_062026-F.jpg",
+      "preco": 63.989999999999995,
+      "precoDe": 199.98,
+      "desconto": 60,
+      "cupom": "DESCONTOEMCASA",
+      "enviadoEm": "2026-09-16T17:13:40.467Z"
+    },
+    {
+      "id": "19158",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calças Jeans Masculina Com Elastano Super Confortável",
+      "link": "https://meli.la/1oC3UfY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723695-MLB91226456692_092025-O.webp",
+      "preco": 95.94,
+      "precoDe": 189.99,
+      "desconto": 38,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-16T17:06:25.217Z"
+    },
     {
       "id": "19156",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 63,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-15T15:32:25.137Z"
-    },
-    {
-      "id": "18566",
-      "loja": "Mercado Livre",
-      "titulo": "Os Tênis Aramis Flow Knit estão com um precinho pra lá de especial.",
-      "link": "https://meli.la/1bSUfj8",
-      "imagem": null,
-      "preco": 149.1,
-      "precoDe": 399.99,
-      "desconto": 47,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-15T15:29:01.274Z"
-    },
-    {
-      "id": "18563",
-      "loja": "Amazon",
-      "titulo": "Dr. Peanut Pasta de Amendoim Bueníssimo 250g - Com Whey Protein",
-      "link": "https://www.amazon.com.br/dp/B0BKH7R8Y2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BXOd5WiiL._SL400_.jpg",
-      "preco": 17.39,
-      "precoDe": 24.6,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T15:23:46.163Z"
     }
   ]
 }
