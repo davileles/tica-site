@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-16T14:29:21.960Z",
+  "atualizadoEm": "2026-09-16T14:39:39.977Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19090",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camiseta Manga Longa Masculina Slim Algodão 30.1 Zaroc",
+      "link": "https://meli.la/1itWypm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621217-MLB115723974989_082026-O.webp",
+      "preco": 65.17999999999999,
+      "precoDe": 149.99,
+      "desconto": 47,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-16T14:29:39.975Z"
+    },
     {
       "id": "19089",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-09-15T14:35:47.271Z"
-    },
-    {
-      "id": "18502",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Uplift Sc Masculino",
-      "link": "https://meli.la/1BG1HRU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727351-MLB110979590156_052026-O.webp",
-      "preco": 242.99,
-      "precoDe": 499.99,
-      "desconto": 41,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T14:31:15.697Z"
     }
   ]
 }
