@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T16:59:24.617Z",
+  "atualizadoEm": "2026-09-16T17:23:42.906Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -504,18 +504,6 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-09-16T21:11:52.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "DIADOCLIENTE14H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 2500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-16T17:11:50.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1404,18 +1392,6 @@
       "limite": null,
       "observacao": "Cupons mencionados no post original (CLIENTETOP e SITELANDING) para promoção de Black Friday em kit de roupa de cama. Desconto final resultante: de R$52,00 para R$19,80. Valores específicos de desconto por cupom não informados.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MERCADOTOP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom identificado, mas a mensagem não especifica o tipo de desconto (% ou R$), valor, mínimo de compra ou outras condições.",
-      "validadeAte": "2026-09-16T17:01:21.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
