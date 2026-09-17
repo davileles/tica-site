@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-17T17:19:05.537Z",
+  "atualizadoEm": "2026-09-17T17:49:05.543Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19581",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
+      "preco": 452,
+      "precoDe": 899.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:48:17.460Z"
+    },
+    {
+      "id": "19578",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Maleta Mochila De Ferramentas Oficina Infantil Criança Com 22 Peças Brinquedo Menino 3 em 1 Kizumba",
+      "link": "https://meli.la/14G4UYr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891305-MLA111682233792_062026-F.jpg",
+      "preco": 42.9,
+      "precoDe": 69.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:47:21.880Z"
+    },
+    {
+      "id": "19574",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Facial Para Pele Oleosa Neutrogena Sun Fresh Derm Care Pele Negra FPS 70, 40g",
+      "link": "https://www.amazon.com.br/dp/B08NVJDTZK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31U++t0Hz9L._SL400_.jpg",
+      "preco": 51.989999999999995,
+      "precoDe": 83.99,
+      "desconto": 23,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T17:44:34.580Z"
+    },
+    {
+      "id": "19573",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
+      "link": "https://meli.la/2hVnG8v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
+      "preco": 35.9,
+      "precoDe": 59.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:36:30.224Z"
+    },
+    {
+      "id": "19572",
+      "loja": "Amazon",
+      "titulo": "GGB Quebra-Cabeça Sistema Solar 300 Peças",
+      "link": "https://www.amazon.com.br/dp/B09JL8WTX9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515inIba5AL._SL400_.jpg",
+      "preco": 10.99,
+      "precoDe": 18.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:33:20.626Z"
+    },
+    {
+      "id": "19571",
+      "loja": "Mercado Livre",
+      "titulo": "Guitarra E Microfone Infantil Instrumento Brinquedo Musical Cor Rosa Atentu",
+      "link": "https://meli.la/2sbEfTb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730827-MLA99450704588_112025-F.jpg",
+      "preco": 94.9,
+      "precoDe": 197.79,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:32:28.322Z"
+    },
+    {
+      "id": "19570",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/8plrEJgd7X",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 39.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": "R4P1D1NH0",
+      "enviadoEm": "2026-09-17T17:31:15.626Z"
+    },
+    {
+      "id": "19569",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Lenços Umedecidos Recém Nascido, 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 53.09,
+      "desconto": 6,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T17:21:52.452Z"
+    },
     {
       "id": "19563",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "PROVAR",
       "enviadoEm": "2026-09-16T20:42:55.027Z"
-    },
-    {
-      "id": "19213",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-      "link": "https://meli.la/15Zhi6o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
-      "preco": 279.99,
-      "precoDe": 429.9,
-      "desconto": 19,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-16T20:39:24.275Z"
-    },
-    {
-      "id": "19212",
-      "loja": "Amazon",
-      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.08,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:36:24.222Z"
-    },
-    {
-      "id": "19210",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
-      "link": "https://meli.la/2sTjywp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707426-MLU72340464209_102023-F.jpg",
-      "preco": 287.54,
-      "precoDe": 433.06,
-      "desconto": 17,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-16T20:31:05.007Z"
-    },
-    {
-      "id": "19206",
-      "loja": "Mercado Livre",
-      "titulo": "Varal Dobrável De Chão 3 Andares De Roupas Grande Com Rodinha Aba Lateral Retrátil Para Cabide Irsina",
-      "link": "https://meli.la/25x1k8Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_909863-MLA89943157034_082025-F.jpg",
-      "preco": 67.54,
-      "precoDe": 129.99,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:27:35.117Z"
-    },
-    {
-      "id": "19203",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
-      "preco": 44.9,
-      "precoDe": 59.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:24:15.971Z"
-    },
-    {
-      "id": "19202",
-      "loja": "Amazon",
-      "titulo": "KNUT - Kit Presente Milk com Shampoo 250ml, Condicionador 200ml e Mini Máscara 30g - Hidratação Profunda para Cabelos Quimicamente Tratados - Sem Parabenos, Sem Ftalatos, Cruelty F",
-      "link": "https://www.amazon.com.br/dp/B0F4K9YJ34?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fk1YJ9LpL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 119.5,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:20:42.258Z"
-    },
-    {
-      "id": "19200",
-      "loja": "Amazon",
-      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
-      "preco": 40.32,
-      "precoDe": 55.92,
-      "desconto": 15,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-16T20:17:18.798Z"
-    },
-    {
-      "id": "19198",
-      "loja": "Amazon",
-      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
-      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
-      "preco": 94.9,
-      "precoDe": 119,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:11:26.473Z"
     }
   ]
 }
