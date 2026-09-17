@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-17T13:42:25.119Z",
+  "atualizadoEm": "2026-09-17T14:01:45.456Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19433",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Facial Para Pele Oleosa Neutrogena Sun Derm Care sem cor FPS 30, 40g",
+      "link": "https://www.amazon.com.br/dp/B08NVMQJ24?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-mSCdiP3L._SL400_.jpg",
+      "preco": 45.519999999999996,
+      "precoDe": 76.99,
+      "desconto": 26,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T13:55:28.946Z"
+    },
+    {
+      "id": "19430",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Ventilador de Mão Basike Ba-FAN327 Portátil Recarregável USB com Resfriamento de Gelo 10W Alta Potência Turbo Silencioso para Verão 6000mAh，Branco Com Display Digital e 100 Ve",
+      "link": "https://meli.la/1kDxoUi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777379-MLA99466338134_112025-F.jpg",
+      "preco": 78.92,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-09-17T13:51:58.549Z"
+    },
+    {
+      "id": "19429",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira De Impacto Profissional 1/2 13mm 900w",
+      "link": "https://meli.la/2PN5D7m",
+      "imagem": null,
+      "preco": 87.5,
+      "precoDe": 189.99,
+      "desconto": 34,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-09-17T13:48:23.469Z"
+    },
+    {
+      "id": "19427",
+      "loja": "Shopee",
+      "titulo": "Ugreen - Hub USB-C 7X1 Multifunctional  1*HDMI 4K 60@ -  2*USB-C 3.2 - 1*USB-A 3.2 - SD/TF - 100W PD",
+      "link": "https://s.shopee.com.br/70KCnO3Ek4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdam700q9q8106_tn",
+      "preco": 278.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-09-17T13:44:51.818Z"
+    },
     {
       "id": "19419",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 33,
       "cupom": "OFERTAS",
       "enviadoEm": "2026-09-16T12:14:15.894Z"
-    },
-    {
-      "id": "18997",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/2qUaW8zJTi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 99.99,
-      "precoDe": 324.3,
-      "desconto": 63,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-16T12:10:46.655Z"
-    },
-    {
-      "id": "18973",
-      "loja": "Shopee",
-      "titulo": "Cápsula Nespresso Chocolate Cappuccino Cacau Café Italle 30 Capsulas",
-      "link": "https://s.shopee.com.br/W6hKYe5SZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18gyik2bp7k43_tn",
-      "preco": 45.93,
-      "precoDe": 79.9,
-      "desconto": 30,
-      "cupom": "DIACUPOM10AF",
-      "enviadoEm": "2026-09-16T11:48:17.187Z"
-    },
-    {
-      "id": "18961",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/50Z6fFnH7C",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 139.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-16T11:25:42.031Z"
-    },
-    {
-      "id": "18960",
-      "loja": "Amazon",
-      "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-      "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DtpwlWPkL._SL400_.jpg",
-      "preco": 46.19,
-      "precoDe": 88.63,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T11:20:16.347Z"
     }
   ]
 }
