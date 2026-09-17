@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-17T20:46:23.520Z",
+  "atualizadoEm": "2026-09-17T21:01:34.067Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19704",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto By Total 20v Brushless 66 Azul",
+      "link": "https://meli.la/19wv3EQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747869-MLA111138424404_052026-F.jpg",
+      "preco": 412.43,
+      "precoDe": 460,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:59:08.794Z"
+    },
+    {
+      "id": "19702",
+      "loja": "Shopee",
+      "titulo": "Regata Canelada Masculina Americana Slim Academia Unidade e Kit",
+      "link": "https://s.shopee.com.br/6Al6Hc9HfL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mt58luejxo93ea_tn",
+      "preco": 29.97,
+      "precoDe": 39.96,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:58:02.714Z"
+    },
+    {
+      "id": "19700",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:50:16.360Z"
+    },
     {
       "id": "19694",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 8,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-09-17T12:20:06.299Z"
-    },
-    {
-      "id": "19343",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV LG UHD AI UA75 43 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
-      "link": "https://meli.la/2CgwETu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879007-MLA107588019293_022026-F.jpg",
-      "preco": 1984,
-      "precoDe": 2099,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T12:17:02.888Z"
-    },
-    {
-      "id": "19342",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/1VzG8p9yHd",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 47.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T12:13:24.376Z"
-    },
-    {
-      "id": "19340",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira Espresso Double Digital Oster Cor Aço escovado e Preto",
-      "link": "https://meli.la/2K5FPLZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651674-MLA99991798659_112025-F.jpg",
-      "preco": 376.68,
-      "precoDe": 1049,
-      "desconto": 49,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-09-17T12:10:00.362Z"
     }
   ]
 }
