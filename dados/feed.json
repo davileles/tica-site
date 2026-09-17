@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T13:31:45.441Z",
+  "atualizadoEm": "2026-09-17T13:42:25.119Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19419",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Sabonete Líquido Glicerina Da Cabeça Aos Pés, 200ml",
+      "link": "https://www.amazon.com.br/dp/B077C399CK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316c69qLMXL._SL400_.jpg",
+      "preco": 13.79,
+      "precoDe": 26.39,
+      "desconto": 35,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T13:32:25.118Z"
+    },
     {
       "id": "19418",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-09-16T11:20:16.347Z"
-    },
-    {
-      "id": "18959",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Aspirador De Pó Portátil Recarregável Soprador Usb Automotivo 3em1 Sem Fio Premium Vácuo Limpeza Carro Multifuncional Casa Dr Hank",
-      "link": "https://meli.la/1JM5gZd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739911-MLA111969831660_062026-F.jpg",
-      "preco": 29.97,
-      "precoDe": 59.99,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T11:19:06.831Z"
     }
   ]
 }
