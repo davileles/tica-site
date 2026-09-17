@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T22:29:05.027Z",
+  "atualizadoEm": "2026-09-17T22:51:36.227Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19736",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
+      "preco": 138,
+      "precoDe": 222.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T22:41:36.224Z"
+    },
     {
       "id": "19732",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
       "enviadoEm": "2026-09-17T12:47:01.014Z"
-    },
-    {
-      "id": "19383",
-      "loja": "Mercado Livre",
-      "titulo": "Glutamina - Pote 300g Dux Nutrition Sabor Natural",
-      "link": "https://meli.la/11h4ZFJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700485-MLA115342237379_072026-F.jpg",
-      "preco": 40.03,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-17T12:43:32.543Z"
     }
   ]
 }
