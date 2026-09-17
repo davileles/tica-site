@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-17T13:31:48.027Z",
+  "atualizadoEm": "2026-09-17T14:01:48.399Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,18 +627,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "30LIVEMELIBASICS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 10,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-09-17T13:46:39.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MLVANTAGEM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -855,6 +843,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AVANT25OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 147,
+      "observacao": null,
+      "validadeAte": "2026-09-18T14:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -996,30 +996,6 @@
       "limite": 100,
       "observacao": "Desconto de R$ 106,98 (de R$ 157,98 para R$ 51,00). Cupom MELITUDOBOM garante o valor. Pagamento em Pix.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CALVIN20OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79.99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-09-17T13:46:39.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MOCHILA20OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79.99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-09-17T13:46:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
