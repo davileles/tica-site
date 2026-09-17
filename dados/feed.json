@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T21:31:18.682Z",
+  "atualizadoEm": "2026-09-17T21:43:22.506Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19722",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
+      "preco": 31.16,
+      "precoDe": 41.96,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T21:33:22.506Z"
+    },
     {
       "id": "19720",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-09-17T12:33:43.270Z"
-    },
-    {
-      "id": "19356",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A26 5g 256gb, 8gb Ram, Câmera De 50mp, Ip67, Tela Super Amoled 6.7 , Nfc - Preto",
-      "link": "https://meli.la/2GPzg6N",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792472-MLA100025549859_122025-F.jpg",
-      "preco": 1399,
-      "precoDe": 2167,
-      "desconto": 12,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-09-17T12:30:41.301Z"
     }
   ]
 }
