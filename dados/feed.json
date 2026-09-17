@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T20:20:58.417Z",
+  "atualizadoEm": "2026-09-17T20:31:34.067Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19687",
+      "loja": "Amazon",
+      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
+      "preco": 21.8,
+      "precoDe": 30.8,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:27:46.504Z"
+    },
     {
       "id": "19679",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 7,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-09-17T11:51:01.962Z"
-    },
-    {
-      "id": "19309",
-      "loja": "Shopee",
-      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
-      "link": "https://s.shopee.com.br/1BMPieJQ0z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
-      "preco": 139.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-17T11:48:03.422Z"
     }
   ]
 }
