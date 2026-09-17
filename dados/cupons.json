@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-17T19:01:36.048Z",
+  "atualizadoEm": "2026-09-17T20:01:36.269Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1263,6 +1263,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
+      "codigo": "PORCOGANHOU",
+      "loja": "Outro: Keeta",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 60,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "50% OFF em compras a partir de R$60, com desconto máximo limitado a R$60",
+      "validadeAte": "2026-09-18T19:55:58.000Z",
+      "url": null
+    },
+    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1332,18 +1344,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-18T16:02:02.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "OFERTAS10",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-09-17T19:46:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
