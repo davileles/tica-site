@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-17T17:49:05.543Z",
+  "atualizadoEm": "2026-09-17T18:19:05.547Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19612",
+      "loja": "Shopee",
+      "titulo": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
+      "link": "https://s.shopee.com.br/5fopVbcJqh",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d_tn",
+      "preco": 74.99,
+      "precoDe": 179.23,
+      "desconto": 47,
+      "cupom": "B44UTY15",
+      "enviadoEm": "2026-09-17T18:16:32.303Z"
+    },
+    {
+      "id": "19606",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 35.290000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-17T18:11:05.842Z"
+    },
+    {
+      "id": "19603",
+      "loja": "Mercado Livre",
+      "titulo": "Pista De Carrinhos Infantil Com 2 Carrinhos Inclusos, Rampa Em Espiral, Garagem, Placas, Cones E Brincadeira De Corrida",
+      "link": "https://meli.la/33oHF7y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995768-MLA117324992595_092026-F.jpg",
+      "preco": 119.9,
+      "precoDe": 159.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T18:10:10.714Z"
+    },
+    {
+      "id": "19600",
+      "loja": "Amazon",
+      "titulo": "Sabonete Nutritivo Derma Protect JOHNSON'S® Baby 200mL",
+      "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VXhamiFDL._SL400_.jpg",
+      "preco": 29.39,
+      "precoDe": 53.99,
+      "desconto": 32,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T18:08:58.073Z"
+    },
+    {
+      "id": "19597",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/1JVBYQL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "preco": 59.17,
+      "precoDe": 159.9,
+      "desconto": 51,
+      "cupom": "DESCONTOSML",
+      "enviadoEm": "2026-09-17T18:02:13.429Z"
+    },
+    {
+      "id": "19594",
+      "loja": "Mercado Livre",
+      "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
+      "link": "https://meli.la/2GKYb2F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
+      "preco": 416.95,
+      "precoDe": 1999,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:55:56.204Z"
+    },
+    {
+      "id": "19593",
+      "loja": "Amazon",
+      "titulo": "GGB Brinquedo Educativo Infantil Bingo dos Animais",
+      "link": "https://www.amazon.com.br/dp/B09JNB5C1D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518-rQm-WmL._SL400_.jpg",
+      "preco": 13.88,
+      "precoDe": 19.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:54:52.238Z"
+    },
+    {
+      "id": "19591",
+      "loja": "Shopee",
+      "titulo": "Manta Casal Soft Antialérgica 2,00m X1,80m  Lisa Várias Cores",
+      "link": "https://s.shopee.com.br/4Vcs5tkkKr",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m858jxe787bl51_tn",
+      "preco": 24.89,
+      "precoDe": 40.15,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T17:53:59.986Z"
+    },
     {
       "id": "19581",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-16T21:16:41.232Z"
-    },
-    {
-      "id": "19225",
-      "loja": "Shopee",
-      "titulo": "Mala Pequena de Bordo 10kg TSA Polipropileno Giro 360º Munique Polo King",
-      "link": "https://s.shopee.com.br/80CisrJFLZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfrbrzcgpqtj8e_tn",
-      "preco": 269.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAS10",
-      "enviadoEm": "2026-09-16T21:13:19.473Z"
-    },
-    {
-      "id": "19220",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 35.290000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-16T21:06:30.384Z"
-    },
-    {
-      "id": "19219",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira Bateria Gsr120-li Com Kit 15 Brocas Bosch",
-      "link": "https://meli.la/2GJ94uQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717573-MLA99416682996_112025-F.jpg",
-      "preco": 513.14,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-16T21:02:45.625Z"
-    },
-    {
-      "id": "19218",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 138,
-      "precoDe": 222.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:59:07.631Z"
-    },
-    {
-      "id": "19217",
-      "loja": "Mercado Livre",
-      "titulo": "Produto MLB5205063617",
-      "link": "https://meli.la/25UrXFR",
-      "imagem": null,
-      "preco": 473.11,
-      "precoDe": 731.74,
-      "desconto": 22,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-16T20:53:25.841Z"
-    },
-    {
-      "id": "19216",
-      "loja": "Amazon",
-      "titulo": "Cerveja Paulaner Weissbier Sem Álcool 500ml",
-      "link": "https://www.amazon.com.br/dp/B08WX1HYRG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tcVZf18vL._SL400_.jpg",
-      "preco": 20.42,
-      "precoDe": 21.5,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T20:49:35.007Z"
-    },
-    {
-      "id": "19215",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
-      "link": "https://s.shopee.com.br/7ptIev7g1M",
-      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
-      "preco": 93.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-16T20:46:06.471Z"
-    },
-    {
-      "id": "19214",
-      "loja": "Amazon",
-      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
-      "preco": 121.46000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-16T20:42:55.027Z"
     }
   ]
 }
