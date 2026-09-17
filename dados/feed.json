@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-17T21:01:34.067Z",
+  "atualizadoEm": "2026-09-17T21:31:18.682Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19720",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional 2 Baterias Com Maleta + Kit Acessórios 145 Peças Tbkit19",
+      "link": "https://meli.la/2RoJB18",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_909899-MLA110797840878_052026-F.jpg",
+      "preco": 329.9,
+      "precoDe": 499.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T21:21:18.681Z"
+    },
+    {
+      "id": "19713",
+      "loja": "Shopee",
+      "titulo": "Seringa de Segurança Retrátil para Insulina (1ml) com Agulha Fixa 0,3x13mm (30G 1/2) c/10 | - SOL",
+      "link": "https://s.shopee.com.br/60Rg6qxT8n",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnepe0233aptdf_tn",
+      "preco": 15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T21:20:27.902Z"
+    },
+    {
+      "id": "19708",
+      "loja": "Amazon",
+      "titulo": "Vinho Tinto Português Meio Seco Arcos do Convento Adega de Azueira 5L",
+      "link": "https://www.amazon.com.br/dp/B0H2NHR771?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NYwvEeHPL._SL400_.jpg",
+      "preco": 113.4,
+      "precoDe": 220,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T21:10:39.293Z"
+    },
     {
       "id": "19704",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 12,
       "cupom": "ECONOMIZEI",
       "enviadoEm": "2026-09-17T12:30:41.301Z"
-    },
-    {
-      "id": "19351",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Infantil Menina Calce Fácil Casual Conforto Original",
-      "link": "https://meli.la/1KrsNsZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999233-MLB113767716729_062026-O.webp",
-      "preco": 61.42,
-      "precoDe": 129.9,
-      "desconto": 42,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-17T12:26:57.343Z"
-    },
-    {
-      "id": "19349",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV LG UHD AI UA75 43 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
-      "link": "https://meli.la/2eBry4j",
-      "imagem": null,
-      "preco": 2002,
-      "precoDe": 5000,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T12:23:47.953Z"
-    },
-    {
-      "id": "19347",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Portátil Power Bank 10.000 Mah Rápido Usb Turbo Universal Cor Sortida Diggicom",
-      "link": "https://meli.la/1dz27Ki",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963738-MLA100064024353_122025-F.jpg",
-      "preco": 41.93,
-      "precoDe": 65.44,
-      "desconto": 8,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-17T12:20:06.299Z"
     }
   ]
 }
