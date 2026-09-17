@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-17T14:01:45.456Z",
+  "atualizadoEm": "2026-09-17T14:27:59.759Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19439",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Shampoo Glicerina Para Bebê, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07DHSCLPR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313ZV4fsiWL._SL400_.jpg",
+      "preco": 35.99,
+      "precoDe": 62.99,
+      "desconto": 29,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T14:17:59.758Z"
+    },
+    {
+      "id": "19438",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/AKaenUG83P",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 89.99,
+      "precoDe": 322.55,
+      "desconto": 69,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-09-17T14:14:20.000Z"
+    },
+    {
+      "id": "19437",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 3 Peças Tapete Passadeira Antiderrapante Impermeável",
+      "link": "https://meli.la/1tg3KMJ",
+      "imagem": null,
+      "preco": 36.33,
+      "precoDe": 59.9,
+      "desconto": 13,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-09-17T14:10:52.978Z"
+    },
     {
       "id": "19433",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "OFERTAS",
       "enviadoEm": "2026-09-16T12:24:20.342Z"
-    },
-    {
-      "id": "19006",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Gamer Mancer Cv450, Mini Tower, 9 Fans, Vidro Preto",
-      "link": "https://meli.la/2JF3829",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626617-MLA96660481369_102025-F.jpg",
-      "preco": 387.45,
-      "precoDe": 658.81,
-      "desconto": 35,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-09-16T12:20:42.946Z"
-    },
-    {
-      "id": "19002",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips de 23.8\" Full HD IPS com 200Hz",
-      "link": "https://meli.la/2HHP9R4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642739-MLA109096803510_042026-F.jpg",
-      "preco": 624.8900000000001,
-      "precoDe": 1269,
-      "desconto": 45,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-09-16T12:17:32.723Z"
-    },
-    {
-      "id": "18998",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Acer Nitro 23.8 200hz 2ms FHD HDMI VA KG241Y-X3Bip Preto",
-      "link": "https://meli.la/2nKCuka",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660563-MLA109412855062_042026-F.jpg",
-      "preco": 588.6600000000001,
-      "precoDe": 969,
-      "desconto": 33,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-09-16T12:14:15.894Z"
     }
   ]
 }
