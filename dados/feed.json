@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T22:01:34.067Z",
+  "atualizadoEm": "2026-09-17T22:14:12.936Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19728",
+      "loja": "Mercado Livre",
+      "titulo": "Porta Tempero De Vidro 10 Peças Brinox Lock & Preto",
+      "link": "https://meli.la/31aBcEq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791510-MLA114710325195_072026-F.jpg",
+      "preco": 29.35,
+      "precoDe": 30.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T22:04:12.935Z"
+    },
     {
       "id": "19727",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "S3M4N4M3B",
       "enviadoEm": "2026-09-17T12:40:23.560Z"
-    },
-    {
-      "id": "19358",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/4fwHvvnONk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T12:36:55.945Z"
     }
   ]
 }
