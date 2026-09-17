@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-17T22:14:12.936Z",
+  "atualizadoEm": "2026-09-17T22:29:05.027Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19732",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
+      "preco": 75,
+      "precoDe": 105.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T22:19:05.025Z"
+    },
     {
       "id": "19728",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-09-17T12:43:32.543Z"
-    },
-    {
-      "id": "19376",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/30o3xYTm3u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 20,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T12:40:23.560Z"
     }
   ]
 }
