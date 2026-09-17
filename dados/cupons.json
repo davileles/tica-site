@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-16T22:54:49.050Z",
+  "atualizadoEm": "2026-09-17T01:24:47.112Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1200,6 +1200,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-17T22:53:32.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GOLMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-18T01:17:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
