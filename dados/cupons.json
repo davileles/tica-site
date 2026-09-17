@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-17T20:31:36.315Z",
+  "atualizadoEm": "2026-09-17T22:01:36.263Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1296,6 +1296,18 @@
       "limite": 60,
       "observacao": "50% OFF em compras a partir de R$60, com desconto máximo limitado a R$60",
       "validadeAte": "2026-09-18T19:55:58.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PICDAY50",
+      "loja": "Outro: PicPay Delivery",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 70,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-18T21:51:29.000Z",
       "url": null
     },
     {
