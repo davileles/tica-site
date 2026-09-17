@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-17T14:50:05.325Z",
+  "atualizadoEm": "2026-09-17T15:19:05.514Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19470",
+      "loja": "Mercado Livre",
+      "titulo": "Pre Treino Venom 300g Limão Dark Lab - 60 Doses",
+      "link": "https://meli.la/2nA1AbL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665577-MLA100021635731_122025-F.jpg",
+      "preco": 69.93,
+      "precoDe": 139.9,
+      "desconto": 29,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-09-17T15:18:44.506Z"
+    },
+    {
+      "id": "19469",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa de treino Nike Brasilia 95 60lts cor preta",
+      "link": "https://meli.la/2hKyi9F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695731-MLU75712452571_042024-F.jpg",
+      "preco": 180.39000000000001,
+      "precoDe": 399.99,
+      "desconto": 45,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-17T15:15:15.722Z"
+    },
+    {
+      "id": "19467",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Hardcore 100% Pura 120 Capsulas Energia e Força - Integralmedica",
+      "link": "https://meli.la/2KJHZo9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833789-MLA100590939374_122025-F.jpg",
+      "preco": 32.64,
+      "precoDe": 58,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T15:10:23.967Z"
+    },
+    {
+      "id": "19466",
+      "loja": "Mercado Livre",
+      "titulo": "CÚRCUMA 130mg + COLÁGENO Tipo Ii 45mg - Fórmula com Máxima Concentração e Pureza - 60 Cápsulas",
+      "link": "https://meli.la/1ap6xmv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_647967-MLA114761117319_072026-F.jpg",
+      "preco": 32.43,
+      "precoDe": 88.77,
+      "desconto": 48,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-17T15:06:54.603Z"
+    },
+    {
+      "id": "19465",
+      "loja": "Amazon",
+      "titulo": "Listerine Enxaguante Bucal Cool Mint, 1L",
+      "link": "https://www.amazon.com.br/dp/B0DQ1YWD4K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41doiPM4lEL._SL400_.jpg",
+      "preco": 27.74,
+      "precoDe": 41.99,
+      "desconto": 17,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T15:03:38.045Z"
+    },
+    {
+      "id": "19464",
+      "loja": "Shopee",
+      "titulo": "HEROI Banco Dobrável Para Exercícios Em Casa, Multifuncional com Banco Pastor Removível + Até 150kg",
+      "link": "https://s.shopee.com.br/9Ki7eqakRf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgq65zdx3i84f2_tn",
+      "preco": 449.1,
+      "precoDe": 998,
+      "desconto": 50,
+      "cupom": "OFERTAS10",
+      "enviadoEm": "2026-09-17T15:00:36.407Z"
+    },
+    {
+      "id": "19459",
+      "loja": "Amazon",
+      "titulo": "Buba, Máquina Fotográfica Com Projetor",
+      "link": "https://www.amazon.com.br/dp/B0DH9L38ZM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41byrOoWIEL._SL400_.jpg",
+      "preco": 62.25,
+      "precoDe": 141.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T14:57:16.579Z"
+    },
+    {
+      "id": "19457",
+      "loja": "Mercado Livre",
+      "titulo": "Meia Puma Poliamida Esportiva Corrida Dry Academia Soquete",
+      "link": "https://meli.la/15Ge7DT",
+      "imagem": null,
+      "preco": 20.3,
+      "precoDe": 39.9,
+      "desconto": 27,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-09-17T14:56:15.967Z"
+    },
     {
       "id": "19456",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "S1NT0CH31R0D3CUP0M",
       "enviadoEm": "2026-09-16T13:18:24.047Z"
-    },
-    {
-      "id": "19047",
-      "loja": "Mercado Livre",
-      "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
-      "link": "https://meli.la/1oFLqqi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662466-MLA99384545902_112025-F.jpg",
-      "preco": 332.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-09-16T13:08:58.372Z"
-    },
-    {
-      "id": "19036",
-      "loja": "Shopee",
-      "titulo": "Conjunto Tal Mãe e Filha Baby Doll Preto Pijama Feminino Lua Cinza",
-      "link": "https://s.shopee.com.br/1VzEb1zCvE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mso1k48pgqo716_tn",
-      "preco": 35.5,
-      "precoDe": 65,
-      "desconto": 30,
-      "cupom": "DIACUPOM10AF",
-      "enviadoEm": "2026-09-16T12:55:44.957Z"
-    },
-    {
-      "id": "19033",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Jubinha Infantil Shampoo Condicionador E Creme - Widi Care",
-      "link": "https://meli.la/2zYmsPs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868058-MLA104054571243_012026-F.jpg",
-      "preco": 56.64,
-      "precoDe": 89.9,
-      "desconto": 10,
-      "cupom": "BATEDESCONTO",
-      "enviadoEm": "2026-09-16T12:51:33.123Z"
-    },
-    {
-      "id": "19032",
-      "loja": "Amazon",
-      "titulo": "Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
-      "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jgCYP6HYL._SL400_.jpg",
-      "preco": 698.9,
-      "precoDe": 828.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T12:50:42.682Z"
-    },
-    {
-      "id": "19031",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
-      "link": "https://meli.la/1z7kAM7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734286-MLA115263082370_082026-F.jpg",
-      "preco": 37.42,
-      "precoDe": 99.8,
-      "desconto": 50,
-      "cupom": "DESCONTOSML",
-      "enviadoEm": "2026-09-16T12:49:30.369Z"
-    },
-    {
-      "id": "19029",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Gamdias Aura Gl360 Lite Preto Argb Am5 Lga 1851",
-      "link": "https://meli.la/2DZzMX2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_600224-MLA111310080200_052026-F.jpg",
-      "preco": 278.9,
-      "precoDe": 599.89,
-      "desconto": 48,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-09-16T12:45:59.368Z"
-    },
-    {
-      "id": "19025",
-      "loja": "Amazon",
-      "titulo": "SSD Sandisk Plus - 2TB, NVMe, M.2 2280, Leitura até 3200MB/s, Gravação até 3000MB/s",
-      "link": "https://www.amazon.com.br/dp/B0CN3MNWM4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21QHRskZq1L._SL400_.jpg",
-      "preco": 1598.9,
-      "precoDe": 1699,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-16T12:42:35.740Z"
-    },
-    {
-      "id": "19022",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Presidente Ergonômica Certificada Nr17 Toledo Preto Mesh",
-      "link": "https://meli.la/2GTDT3b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741776-MLA106598062395_022026-F.jpg",
-      "preco": 605.98,
-      "precoDe": 989,
-      "desconto": 33,
-      "cupom": "ALLSITE1609",
-      "enviadoEm": "2026-09-16T12:39:30.837Z"
     }
   ]
 }
