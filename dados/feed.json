@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-17T20:01:34.066Z",
+  "atualizadoEm": "2026-09-17T20:20:58.417Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19679",
+      "loja": "Mercado Livre",
+      "titulo": "Kit2 Profissional Parafusadeira Chave De Impacto Brushless",
+      "link": "https://meli.la/1Y1uKBM",
+      "imagem": null,
+      "preco": 387.63,
+      "precoDe": 899,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:10:58.415Z"
+    },
+    {
+      "id": "19678",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/7ptJeNyN7l",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "B44UTY15",
+      "enviadoEm": "2026-09-17T20:09:51.957Z"
+    },
+    {
+      "id": "19677",
+      "loja": "Amazon",
+      "titulo": "Granado Kit Pink Spa Relaxante Para os Pés",
+      "link": "https://www.amazon.com.br/dp/B00RIZHZEE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/513bNwNm9NL._SL400_.jpg",
+      "preco": 77.17,
+      "precoDe": 142,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:05:18.992Z"
+    },
     {
       "id": "19667",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": "S1NT0CH31R0D3CUP0M",
       "enviadoEm": "2026-09-17T11:48:03.422Z"
-    },
-    {
-      "id": "19304",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/7ptJeNyN7l",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-17T11:40:30.469Z"
-    },
-    {
-      "id": "19299",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T11:36:24.585Z"
-    },
-    {
-      "id": "19296",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T11:35:25.112Z"
     }
   ]
 }
