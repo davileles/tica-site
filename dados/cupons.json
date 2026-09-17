@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-17T16:49:07.754Z",
+  "atualizadoEm": "2026-09-17T17:49:07.950Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -396,6 +396,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DRAMOFF15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-18T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
