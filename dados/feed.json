@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-17T12:01:45.405Z",
+  "atualizadoEm": "2026-09-17T12:31:45.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19356",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Samsung Galaxy A26 5g 256gb, 8gb Ram, Câmera De 50mp, Ip67, Tela Super Amoled 6.7 , Nfc - Preto",
+      "link": "https://meli.la/2GPzg6N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792472-MLA100025549859_122025-F.jpg",
+      "preco": 1399,
+      "precoDe": 2167,
+      "desconto": 12,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-09-17T12:30:41.301Z"
+    },
+    {
+      "id": "19351",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Infantil Menina Calce Fácil Casual Conforto Original",
+      "link": "https://meli.la/1KrsNsZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999233-MLB113767716729_062026-O.webp",
+      "preco": 61.42,
+      "precoDe": 129.9,
+      "desconto": 42,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-17T12:26:57.343Z"
+    },
+    {
+      "id": "19349",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV LG UHD AI UA75 43 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
+      "link": "https://meli.la/2eBry4j",
+      "imagem": null,
+      "preco": 2002,
+      "precoDe": 5000,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T12:23:47.953Z"
+    },
+    {
+      "id": "19347",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador Portátil Power Bank 10.000 Mah Rápido Usb Turbo Universal Cor Sortida Diggicom",
+      "link": "https://meli.la/1dz27Ki",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963738-MLA100064024353_122025-F.jpg",
+      "preco": 41.93,
+      "precoDe": 65.44,
+      "desconto": 8,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-09-17T12:20:06.299Z"
+    },
+    {
+      "id": "19343",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV LG UHD AI UA75 43 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
+      "link": "https://meli.la/2CgwETu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879007-MLA107588019293_022026-F.jpg",
+      "preco": 1984,
+      "precoDe": 2099,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T12:17:02.888Z"
+    },
+    {
+      "id": "19342",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/1VzG8p9yHd",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 47.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-17T12:13:24.376Z"
+    },
+    {
+      "id": "19340",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeteira Espresso Double Digital Oster Cor Aço escovado e Preto",
+      "link": "https://meli.la/2K5FPLZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651674-MLA99991798659_112025-F.jpg",
+      "preco": 376.68,
+      "precoDe": 1049,
+      "desconto": 49,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-09-17T12:10:00.362Z"
+    },
+    {
+      "id": "19331",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/LnIk9EL0D",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 27.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-17T12:02:58.517Z"
+    },
     {
       "id": "19324",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 9,
       "cupom": null,
       "enviadoEm": "2026-09-15T22:01:29.582Z"
-    },
-    {
-      "id": "18866",
-      "loja": "Amazon",
-      "titulo": "Kess, Fio Dental Individual, sem sabor, 50 unidades",
-      "link": "https://www.amazon.com.br/dp/B09BFJ3FMB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dOaE6OnxL._SL400_.jpg",
-      "preco": 14.83,
-      "precoDe": 16.4,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T21:47:28.785Z"
-    },
-    {
-      "id": "18849",
-      "loja": "Amazon",
-      "titulo": "Kit com 2 Seringas de Sucção Nasal 10ml para Lavagem e Higiene Nasal, Limpeza Suave, Reutilizável e Fácil de Usar (2)",
-      "link": "https://www.amazon.com.br/dp/B0G84FWHV2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31VT-ldXRWL._SL400_.jpg",
-      "preco": 15.21,
-      "precoDe": 17.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T21:19:23.271Z"
-    },
-    {
-      "id": "18846",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 88.97,
-      "precoDe": 115.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T21:15:08.928Z"
-    },
-    {
-      "id": "18815",
-      "loja": "Amazon",
-      "titulo": "Capsula de Cappuccino Doce De Leite TRES 3 Corações 10 unid",
-      "link": "https://www.amazon.com.br/dp/B08JR724Y1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JlHTukYEL._SL400_.jpg",
-      "preco": 15.1,
-      "precoDe": 26.95,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T21:10:46.277Z"
-    },
-    {
-      "id": "18821",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Lavagem Shampoo Cera Tok Final Intense Sintra Fast Vonix",
-      "link": "https://meli.la/11b6A4u",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_659633-MLA117032776949_092026-F.jpg",
-      "preco": 71,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MLDEBOA",
-      "enviadoEm": "2026-09-15T21:07:17.885Z"
-    },
-    {
-      "id": "18832",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina De Solda Inversora MMA 250A Sem Gás",
-      "link": "https://meli.la/28ASgd4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690563-MLA117629333003_092026-F.jpg",
-      "preco": 159.6,
-      "precoDe": 498,
-      "desconto": 68,
-      "cupom": "MELITUDOBOM",
-      "enviadoEm": "2026-09-15T21:03:55.449Z"
-    },
-    {
-      "id": "18834",
-      "loja": "Shopee",
-      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
-      "link": "https://s.shopee.com.br/4fwFJ0zN2d",
-      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
-      "preco": 114.63,
-      "precoDe": 269.26,
-      "desconto": 50,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T20:56:57.378Z"
-    },
-    {
-      "id": "18826",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 700mL 70 Proof",
-      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
-      "preco": 118.49,
-      "precoDe": 144.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T20:43:10.263Z"
     }
   ]
 }
