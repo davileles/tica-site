@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-17T20:31:34.067Z",
+  "atualizadoEm": "2026-09-17T20:46:23.520Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19694",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira Bosch 12v Gsb120li + Kit 300 Peças - Azul - 60hz",
+      "link": "https://meli.la/1RBfWMs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856921-MLA99469929186_112025-F.jpg",
+      "preco": 519.9,
+      "precoDe": 818,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:36:23.518Z"
+    },
+    {
+      "id": "19692",
+      "loja": "Shopee",
+      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
+      "link": "https://s.shopee.com.br/5LBzGKYUMG",
+      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
+      "preco": 14.99,
+      "precoDe": 22.04,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T20:35:32.045Z"
+    },
+    {
+      "id": "19691",
+      "loja": "Amazon",
+      "titulo": "Boneca Monster High Draculaura Self-Scare Secrets Mattel",
+      "link": "https://www.amazon.com.br/dp/B0FDH3XRQN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JUenuFkDL._SL400_.jpg",
+      "preco": 127.92,
+      "precoDe": 249.99,
+      "desconto": 36,
+      "cupom": "20BRINCA",
+      "enviadoEm": "2026-09-17T20:32:21.772Z"
+    },
     {
       "id": "19687",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 49,
       "cupom": "ECONOMIZEI",
       "enviadoEm": "2026-09-17T12:10:00.362Z"
-    },
-    {
-      "id": "19331",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/LnIk9EL0D",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 27.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T12:02:58.517Z"
-    },
-    {
-      "id": "19324",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Renno Classic Sl Masculino Leve Confortável",
-      "link": "https://meli.la/2n6JukG",
-      "imagem": null,
-      "preco": 147.59,
-      "precoDe": 384.99,
-      "desconto": 53,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-17T11:56:45.302Z"
-    },
-    {
-      "id": "19320",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Comfort Minimal Club",
-      "link": "https://meli.la/1MEJX3Q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893362-MLB109893235634_042026-O.webp",
-      "preco": 331.95,
-      "precoDe": 509.9,
-      "desconto": 7,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-17T11:51:01.962Z"
     }
   ]
 }
