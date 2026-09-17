@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-17T11:31:45.399Z",
+  "atualizadoEm": "2026-09-17T12:01:45.405Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19324",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Renno Classic Sl Masculino Leve Confortável",
+      "link": "https://meli.la/2n6JukG",
+      "imagem": null,
+      "preco": 147.59,
+      "precoDe": 384.99,
+      "desconto": 53,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-17T11:56:45.302Z"
+    },
+    {
+      "id": "19320",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Comfort Minimal Club",
+      "link": "https://meli.la/1MEJX3Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893362-MLB109893235634_042026-O.webp",
+      "preco": 331.95,
+      "precoDe": 509.9,
+      "desconto": 7,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-09-17T11:51:01.962Z"
+    },
+    {
+      "id": "19309",
+      "loja": "Shopee",
+      "titulo": "Assento Massageador Elétrico Controle Aliviar Dores Lombar Coluna Pescoço Veicular Escritório 8 Modos 3 Intensidade 3036",
+      "link": "https://s.shopee.com.br/1BMPieJQ0z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83r5tij7p5d46_tn",
+      "preco": 139.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-17T11:48:03.422Z"
+    },
+    {
+      "id": "19304",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/7ptJeNyN7l",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S1NT0CH31R0D3CUP0M",
+      "enviadoEm": "2026-09-17T11:40:30.469Z"
+    },
+    {
+      "id": "19299",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T11:36:24.585Z"
+    },
+    {
+      "id": "19296",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T11:35:25.112Z"
+    },
+    {
+      "id": "19291",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
+      "link": "https://meli.la/1VjQJ2a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711114-MLB108433295675_032026-O.webp",
+      "preco": 131.19,
+      "precoDe": 392.46,
+      "desconto": 59,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-17T11:34:14.044Z"
+    },
     {
       "id": "19290",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-15T20:43:10.263Z"
-    },
-    {
-      "id": "18825",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/3LQrh1Gl4i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 49.989999999999995,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T20:34:33.154Z"
-    },
-    {
-      "id": "18809",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Dri-fit Nike Run Swoosh Masculina",
-      "link": "https://meli.la/2xyeJWE",
-      "imagem": null,
-      "preco": 81.99,
-      "precoDe": 149.99,
-      "desconto": 33,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-15T20:15:34.968Z"
-    },
-    {
-      "id": "18808",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/70KA2DFFTy",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 259.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T20:12:08.747Z"
-    },
-    {
-      "id": "18807",
-      "loja": "Amazon",
-      "titulo": "+Mu Chocowheyfer Proteico Sabor Cookies - Display com 12 unidades - 300g",
-      "link": "https://www.amazon.com.br/dp/B0BBK1R34Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ewILjYEYL._SL400_.jpg",
-      "preco": 52.33,
-      "precoDe": 87.88,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T20:06:51.363Z"
-    },
-    {
-      "id": "18797",
-      "loja": "Amazon",
-      "titulo": "Brinquedo Musical Cante e Aprenda Bebês Fisher-Price. Ensina letras, formas, cores e números com músicas, luzes e alça. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B07DD52QJH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TOR4vqFdL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 183.6,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T20:01:17.225Z"
-    },
-    {
-      "id": "18793",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
-      "preco": 31.16,
-      "precoDe": 41.96,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T20:00:13.481Z"
-    },
-    {
-      "id": "18788",
-      "loja": "Shopee",
-      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
-      "link": "https://s.shopee.com.br/7Kx0PFIERW",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
-      "preco": 449,
-      "precoDe": 651.39,
-      "desconto": 28,
-      "cupom": "S1NT0CH31R0D3CUP0M",
-      "enviadoEm": "2026-09-15T19:49:29.817Z"
     }
   ]
 }
