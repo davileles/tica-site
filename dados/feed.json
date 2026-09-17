@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-17T12:31:45.418Z",
+  "atualizadoEm": "2026-09-17T12:57:01.015Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19388",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Colônia Refrescante Lavanda Para Bebês,200ml",
+      "link": "https://www.amazon.com.br/dp/B0080GYTC6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jACqbyppL._SL400_.jpg",
+      "preco": 25.749999999999996,
+      "precoDe": 40.99,
+      "desconto": 21,
+      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
+      "enviadoEm": "2026-09-17T12:47:01.014Z"
+    },
+    {
+      "id": "19383",
+      "loja": "Mercado Livre",
+      "titulo": "Glutamina - Pote 300g Dux Nutrition Sabor Natural",
+      "link": "https://meli.la/11h4ZFJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700485-MLA115342237379_072026-F.jpg",
+      "preco": 40.03,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-09-17T12:43:32.543Z"
+    },
+    {
+      "id": "19376",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/30o3xYTm3u",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 20,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "S3M4N4M3B",
+      "enviadoEm": "2026-09-17T12:40:23.560Z"
+    },
+    {
+      "id": "19358",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/4fwHvvnONk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T12:36:55.945Z"
+    },
+    {
+      "id": "19357",
+      "loja": "Shopee",
+      "titulo": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
+      "link": "https://s.shopee.com.br/4fwHvmQd4T",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933_tn",
+      "preco": 340,
+      "precoDe": 803.75,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T12:33:43.270Z"
+    },
     {
       "id": "19356",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": null,
       "cupom": "LEVOUBARATO",
       "enviadoEm": "2026-09-15T22:26:20.004Z"
-    },
-    {
-      "id": "18885",
-      "loja": "Amazon",
-      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
-      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
-      "preco": 26.99,
-      "precoDe": 52.76,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T22:19:44.377Z"
-    },
-    {
-      "id": "18884",
-      "loja": "Amazon",
-      "titulo": "KitKat Creme Crocante de Chocolate – Pasta para Passar, 330 g",
-      "link": "https://www.amazon.com.br/dp/B0FMLBQ136?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41shRXXiQyL._SL400_.jpg",
-      "preco": 20.61,
-      "precoDe": 27.99,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T22:16:32.955Z"
-    },
-    {
-      "id": "18878",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 45.44,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-15T22:08:06.041Z"
-    },
-    {
-      "id": "18877",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
-      "link": "https://meli.la/1C9bQRv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906529-MLA115584916886_092026-F.jpg",
-      "preco": 38.66,
-      "precoDe": 59.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T22:04:39.574Z"
-    },
-    {
-      "id": "18876",
-      "loja": "Amazon",
-      "titulo": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
-      "link": "https://www.amazon.com.br/dp/B0H7H2K9Q8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wTg7BnGtL._SL400_.jpg",
-      "preco": 3282.21,
-      "precoDe": 3599.99,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-09-15T22:01:29.582Z"
     }
   ]
 }
