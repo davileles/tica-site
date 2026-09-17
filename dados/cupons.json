@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-17T18:19:07.763Z",
+  "atualizadoEm": "2026-09-17T19:01:36.048Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -927,18 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AVANT25OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 147,
-      "observacao": null,
-      "validadeAte": "2026-09-18T14:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1212,18 +1200,6 @@
       "limite": 10,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-18T03:02:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIZEIML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-09-18T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
