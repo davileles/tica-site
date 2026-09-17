@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-17T19:31:34.065Z",
+  "atualizadoEm": "2026-09-17T20:01:34.066Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19667",
+      "loja": "Amazon",
+      "titulo": "ECOLAPIS 12+3 CARAS & CORES, Faber-Castell, 120112CC, Tons de pele",
+      "link": "https://www.amazon.com.br/dp/B07GRD3HCM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yWZu+k9WL._SL400_.jpg",
+      "preco": 17.13,
+      "precoDe": 27.83,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:56:31.380Z"
+    },
+    {
+      "id": "19666",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido de Glicerina Frutas Vermelhas JOHNSON'S® Baby 200mL",
+      "link": "https://www.amazon.com.br/dp/B0HBR5KJWX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mb28WUB8L._SL400_.jpg",
+      "preco": 17.24,
+      "precoDe": 26.39,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:55:18.668Z"
+    },
+    {
+      "id": "19665",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo de Ferramentas Tramontina Master 43650/099",
+      "link": "https://meli.la/33aZkc6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779731-MLA99416607104_112025-F.jpg",
+      "preco": 634.69,
+      "precoDe": 675.19,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:49:23.044Z"
+    },
+    {
+      "id": "19663",
+      "loja": "Shopee",
+      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
+      "link": "https://s.shopee.com.br/905H0ckKbz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
+      "preco": 27.89,
+      "precoDe": 71.51,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:47:22.435Z"
+    },
+    {
+      "id": "19662",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 126.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:42:38.812Z"
+    },
+    {
+      "id": "19661",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 47.89,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-17T19:39:19.789Z"
+    },
     {
       "id": "19658",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-17T11:35:25.112Z"
-    },
-    {
-      "id": "19291",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
-      "link": "https://meli.la/1VjQJ2a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711114-MLB108433295675_032026-O.webp",
-      "preco": 131.19,
-      "precoDe": 392.46,
-      "desconto": 59,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-17T11:34:14.044Z"
-    },
-    {
-      "id": "19290",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T11:30:52.660Z"
-    },
-    {
-      "id": "19289",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T11:29:47.835Z"
-    },
-    {
-      "id": "19286",
-      "loja": "Mercado Livre",
-      "titulo": "Basike Air Tag Rastreador Bluetooth Gps Com Alarme Sonoro Localizador Objetos Rastreador Smart Tag Para Apple Compatível App Buscar, Chaveiro Moto Veicular Pet Gato Bike Mala IPX67",
-      "link": "https://meli.la/2UtJUYX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960339-MLA111784247481_052026-F.jpg",
-      "preco": 66.25999999999999,
-      "precoDe": 152.92,
-      "desconto": 38,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-17T11:28:37.209Z"
-    },
-    {
-      "id": "19285",
-      "loja": "Shopee",
-      "titulo": "1080° Torneira Giratória de Braço Robótico Chuveiro À Prova De Respingos Banheiro Cozinha Do Aerador Dois Modos",
-      "link": "https://s.shopee.com.br/2BEwswRzbt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5hs72r2mac1_tn",
-      "preco": 23.98,
-      "precoDe": 55.73,
-      "desconto": 48,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T11:25:24.310Z"
-    },
-    {
-      "id": "19281",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/905H0ckKbz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 22.89,
-      "precoDe": 71.51,
-      "desconto": 61,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T11:17:56.749Z"
     }
   ]
 }
