@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-17T20:21:00.537Z",
+  "atualizadoEm": "2026-09-17T20:31:36.315Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "20BRINCA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-18T20:26:57.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "20MATTEL",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-18T20:26:57.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "CORRE15",
       "loja": "ASICS",
