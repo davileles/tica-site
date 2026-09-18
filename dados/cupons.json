@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T15:00:12.719Z",
+  "atualizadoEm": "2026-09-18T15:29:14.539Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,6 +1167,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-09-19T15:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CACIFE12",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,6 +1248,18 @@
       "limite": 200,
       "observacao": "Cupons em selecionados conforme lista fornecida",
       "validadeAte": "2026-09-19T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL1809",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-19T15:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1416,6 +1440,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-18T16:38:02.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "N4D4M34B4L4",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-19T15:00:59.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ZELDANASHO",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 400,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-09-19T15:00:28.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
