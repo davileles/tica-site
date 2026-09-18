@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-18T22:59:12.025Z",
+  "atualizadoEm": "2026-09-18T23:11:07.067Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20185",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador Torre Arno Eole Infinite Preto 127",
+      "link": "https://meli.la/2kBsiyZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816971-MLA99968283881_112025-F.jpg",
+      "preco": 248,
+      "precoDe": 399.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T23:01:07.065Z"
+    },
     {
       "id": "20184",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": "MELIBAIXOU",
       "enviadoEm": "2026-09-18T13:46:42.373Z"
-    },
-    {
-      "id": "19855",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qtE7HMkaL._SL400_.jpg",
-      "preco": 18.89,
-      "precoDe": 27.49,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T13:36:34.934Z"
     }
   ]
 }
