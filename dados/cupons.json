@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T13:21:53.514Z",
+  "atualizadoEm": "2026-09-18T14:51:53.316Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -565,18 +565,6 @@
       "observacao": null,
       "validadeAte": "2026-09-18T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SITE100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-19T12:00:12.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
@@ -1191,15 +1179,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TENISCERTOMELI12",
+      "codigo": "CACIFE12",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 12,
-      "minimo": null,
+      "minimo": 55,
       "maximo": null,
-      "limite": 80,
-      "observacao": "Válido para produtos selecionados",
-      "validadeAte": "2026-09-18T22:09:35.000Z",
+      "limite": 100,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T14:42:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1248,18 +1236,6 @@
       "limite": 300,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GOLMELI10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-09-19T01:15:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
