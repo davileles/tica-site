@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T03:07:24.209Z",
+  "atualizadoEm": "2026-09-18T12:05:16.934Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -567,6 +567,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "SITE100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-19T12:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -723,15 +735,39 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MLVANTAGEM",
+      "codigo": "MLCOMPRANDO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-09-18T12:00:02.000Z",
+      "observacao": "Cupons em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CARRINHOCHEIOJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO30",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-19T12:00:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -927,15 +963,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BARRATINHOAQUI",
+      "codigo": "VALEMUITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-09-18T12:00:02.000Z",
+      "observacao": "Cupons em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1023,15 +1059,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRANOMELI",
+      "codigo": "DESCONTOJUSTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-09-18T12:00:02.000Z",
+      "observacao": "Cupons em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1143,6 +1179,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOSITE1809",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-19T12:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TENISCERTOMELI12",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1212,6 +1260,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-19T01:15:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTANOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-19T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
