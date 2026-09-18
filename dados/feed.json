@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-18T20:29:12.024Z",
+  "atualizadoEm": "2026-09-18T20:59:12.023Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20135",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/20vYuTm4ij",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 10.79,
+      "precoDe": 32.12,
+      "desconto": 58,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T20:52:50.358Z"
+    },
+    {
+      "id": "20131",
+      "loja": "Amazon",
+      "titulo": "Condicionador Pantene Equilíbrio 150ml",
+      "link": "https://www.amazon.com.br/dp/B0CBDH19YL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fNSsCvrjL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 16.85,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T20:43:21.583Z"
+    },
+    {
+      "id": "20125",
+      "loja": "Amazon",
+      "titulo": "Apple iPhone 17 Pro Max (512 GB) - Prateado",
+      "link": "https://www.amazon.com.br/dp/B0FQH3X8R8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L7O+9pfcL._SL400_.jpg",
+      "preco": 10892.26,
+      "precoDe": 13999,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T20:33:44.308Z"
+    },
+    {
+      "id": "20123",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/2LYNZ1PQfD",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 59,
+      "precoDe": 197.5,
+      "desconto": 60,
+      "cupom": "TXLM46QKVA",
+      "enviadoEm": "2026-09-18T20:30:09.049Z"
+    },
     {
       "id": "20118",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": "OFERTANOML",
       "enviadoEm": "2026-09-18T12:45:59.101Z"
-    },
-    {
-      "id": "19798",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Victoria Lattafa EDP 100ml",
-      "link": "https://meli.la/27pzxwn",
-      "imagem": null,
-      "preco": 160.8,
-      "precoDe": 329.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T12:42:40.659Z"
-    },
-    {
-      "id": "19796",
-      "loja": "Amazon",
-      "titulo": "Furby Gold Glam - Brinquedo interativo",
-      "link": "https://www.amazon.com.br/dp/B0F4RQ9PVQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gHlrqNkpL._SL400_.jpg",
-      "preco": 275,
-      "precoDe": 699.99,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T12:39:07.151Z"
-    },
-    {
-      "id": "19794",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Masculina Essentials Big Logo Adidas",
-      "link": "https://meli.la/1cQesxR",
-      "imagem": null,
-      "preco": 103.92,
-      "precoDe": 149.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T12:38:20.340Z"
-    },
-    {
-      "id": "19793",
-      "loja": "Shopee",
-      "titulo": "Batom Natura Faces Matte de Longa Duração 5,5ml",
-      "link": "https://s.shopee.com.br/1gIhx4aJc1",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpsbwee9lt732b_tn",
-      "preco": 19.96,
-      "precoDe": 49.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T12:34:47.321Z"
     }
   ]
 }
