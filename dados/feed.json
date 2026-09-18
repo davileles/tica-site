@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-18T17:29:12.007Z",
+  "atualizadoEm": "2026-09-18T17:53:59.491Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20018",
+      "loja": "Amazon",
+      "titulo": "Whisky Bourbon Maker's Mark 750ml",
+      "link": "https://www.amazon.com.br/dp/B000WLN7AM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415pvxzAvGL._SL400_.jpg",
+      "preco": 155.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T17:43:59.489Z"
+    },
+    {
+      "id": "20016",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/8plsppihyE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 119.92,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T17:41:14.657Z"
+    },
+    {
+      "id": "20015",
+      "loja": "Amazon",
+      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
+      "preco": 99.99,
+      "precoDe": 140.45,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T17:37:56.721Z"
+    },
     {
       "id": "20007",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-17T19:56:31.380Z"
-    },
-    {
-      "id": "19666",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido de Glicerina Frutas Vermelhas JOHNSON'S® Baby 200mL",
-      "link": "https://www.amazon.com.br/dp/B0HBR5KJWX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mb28WUB8L._SL400_.jpg",
-      "preco": 17.24,
-      "precoDe": 26.39,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T19:55:18.668Z"
-    },
-    {
-      "id": "19665",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Ferramentas Tramontina Master 43650/099",
-      "link": "https://meli.la/33aZkc6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779731-MLA99416607104_112025-F.jpg",
-      "preco": 634.69,
-      "precoDe": 675.19,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T19:49:23.044Z"
-    },
-    {
-      "id": "19663",
-      "loja": "Shopee",
-      "titulo": "Organizador de Geladeira Multiuso Plasutil Para Armario Dispensa Cozinha",
-      "link": "https://s.shopee.com.br/905H0ckKbz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuk-mkxr03l1t53609_tn",
-      "preco": 27.89,
-      "precoDe": 71.51,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T19:47:22.435Z"
     }
   ]
 }
