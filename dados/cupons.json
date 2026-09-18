@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T19:11:28.171Z",
+  "atualizadoEm": "2026-09-18T19:59:12.642Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1381,18 +1381,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "PORCOGANHOU",
-      "loja": "Outro: Keeta",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 60,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "50% OFF em compras a partir de R$60, com desconto máximo limitado a R$60",
-      "validadeAte": "2026-09-18T19:55:58.000Z",
-      "url": null
     },
     {
       "codigo": "PICDAY50",
