@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-18T13:51:51.152Z",
+  "atualizadoEm": "2026-09-18T14:06:00.922Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19870",
+      "loja": "Amazon",
+      "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
+      "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31S4Jlf1aeL._SL400_.jpg",
+      "preco": 66.56,
+      "precoDe": 123.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T13:56:00.920Z"
+    },
+    {
+      "id": "19867",
+      "loja": "Shopee",
+      "titulo": "Creme Desodorante Antitranspirante Herbíssimo Care Rosa Mosqueta E Niacinamida Bisnaga 55g",
+      "link": "https://s.shopee.com.br/6q0oCaxUgD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmrumknuvu2s97_tn",
+      "preco": 10.82,
+      "precoDe": 15.91,
+      "desconto": 15,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T13:54:53.118Z"
+    },
     {
       "id": "19864",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-09-17T16:09:55.245Z"
-    },
-    {
-      "id": "19494",
-      "loja": "Amazon",
-      "titulo": "Mega Dha - 120 Cápsulas - Vitafor, Vitafor",
-      "link": "https://www.amazon.com.br/dp/B07L5V8FFF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31AdYCYokqL._SL400_.jpg",
-      "preco": 126.7,
-      "precoDe": 151.1,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T16:06:26.322Z"
-    },
-    {
-      "id": "19493",
-      "loja": "Amazon",
-      "titulo": "Loção Hidratante Relaxante Para Uso Diário Johnson's Baby Hora Do Sono, 200mL",
-      "link": "https://www.amazon.com.br/dp/B07DHRV94V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uNM0YIAtL._SL400_.jpg",
-      "preco": 29.409999999999997,
-      "precoDe": 48.99,
-      "desconto": 25,
-      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-17T16:02:48.945Z"
     }
   ]
 }
