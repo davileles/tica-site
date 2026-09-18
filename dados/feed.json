@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-18T17:53:59.491Z",
+  "atualizadoEm": "2026-09-18T18:29:12.024Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20040",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
+      "preco": 142.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T18:26:33.092Z"
+    },
+    {
+      "id": "20038",
+      "loja": "Amazon",
+      "titulo": "Cafeteira Oster Inox 1,2L - 220V",
+      "link": "https://www.amazon.com.br/dp/B093RF2W3T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31X-xa7H6HL._SL400_.jpg",
+      "preco": 125.26,
+      "precoDe": 259.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T18:20:01.291Z"
+    },
+    {
+      "id": "20036",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
+      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
+      "preco": 114.9,
+      "precoDe": 178.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T18:13:10.200Z"
+    },
+    {
+      "id": "20034",
+      "loja": "Amazon",
+      "titulo": "TRICICLO AVESPA MARAL PINK",
+      "link": "https://www.amazon.com.br/dp/B091664YFV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41D6WzS6x6L._SL400_.jpg",
+      "preco": 258.11,
+      "precoDe": 314.95,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T18:12:01.036Z"
+    },
+    {
+      "id": "20029",
+      "loja": "Shopee",
+      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
+      "link": "https://s.shopee.com.br/1AULNxtZz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
+      "preco": 117.82000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T18:11:07.225Z"
+    },
+    {
+      "id": "20027",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 35.290000000000006,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROVAR",
+      "enviadoEm": "2026-09-18T18:03:44.279Z"
+    },
     {
       "id": "20018",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-17T20:35:32.045Z"
-    },
-    {
-      "id": "19691",
-      "loja": "Amazon",
-      "titulo": "Boneca Monster High Draculaura Self-Scare Secrets Mattel",
-      "link": "https://www.amazon.com.br/dp/B0FDH3XRQN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JUenuFkDL._SL400_.jpg",
-      "preco": 127.92,
-      "precoDe": 249.99,
-      "desconto": 36,
-      "cupom": "20BRINCA",
-      "enviadoEm": "2026-09-17T20:32:21.772Z"
-    },
-    {
-      "id": "19687",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
-      "preco": 21.8,
-      "precoDe": 30.8,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T20:27:46.504Z"
-    },
-    {
-      "id": "19679",
-      "loja": "Mercado Livre",
-      "titulo": "Kit2 Profissional Parafusadeira Chave De Impacto Brushless",
-      "link": "https://meli.la/1Y1uKBM",
-      "imagem": null,
-      "preco": 387.63,
-      "precoDe": 899,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T20:10:58.415Z"
-    },
-    {
-      "id": "19678",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/7ptJeNyN7l",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "B44UTY15",
-      "enviadoEm": "2026-09-17T20:09:51.957Z"
-    },
-    {
-      "id": "19677",
-      "loja": "Amazon",
-      "titulo": "Granado Kit Pink Spa Relaxante Para os Pés",
-      "link": "https://www.amazon.com.br/dp/B00RIZHZEE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/513bNwNm9NL._SL400_.jpg",
-      "preco": 77.17,
-      "precoDe": 142,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T20:05:18.992Z"
-    },
-    {
-      "id": "19667",
-      "loja": "Amazon",
-      "titulo": "ECOLAPIS 12+3 CARAS & CORES, Faber-Castell, 120112CC, Tons de pele",
-      "link": "https://www.amazon.com.br/dp/B07GRD3HCM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yWZu+k9WL._SL400_.jpg",
-      "preco": 17.13,
-      "precoDe": 27.83,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T19:56:31.380Z"
     }
   ]
 }
