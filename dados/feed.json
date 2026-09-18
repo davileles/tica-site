@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-18T13:21:51.105Z",
+  "atualizadoEm": "2026-09-18T13:46:34.935Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19855",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
+      "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31qtE7HMkaL._SL400_.jpg",
+      "preco": 18.89,
+      "precoDe": 27.49,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T13:36:34.934Z"
+    },
+    {
+      "id": "19854",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Álcool Budweiser, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNN2482?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NnWG7JmDL._SL400_.jpg",
+      "preco": 29.84,
+      "precoDe": 36.72,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T13:35:46.361Z"
+    },
+    {
+      "id": "19850",
+      "loja": "Mercado Livre",
+      "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
+      "link": "https://meli.la/1veK9kF",
+      "imagem": null,
+      "preco": 589,
+      "precoDe": 1099,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T13:34:50.573Z"
+    },
+    {
+      "id": "19847",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/9zxpwnhu6E",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 32.9,
+      "precoDe": 99.77,
+      "desconto": 57,
+      "cupom": "R4P1D1NH0",
+      "enviadoEm": "2026-09-18T13:31:03.442Z"
+    },
+    {
+      "id": "19846",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Feminino E Masculino Adissage Adidas",
+      "link": "https://meli.la/2j7jymW",
+      "imagem": null,
+      "preco": 168.99,
+      "precoDe": 199.99,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T13:27:31.145Z"
+    },
+    {
+      "id": "19840",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Travesseiros Luxo Matelado Fibra Antialérgica 70x50cm Branco",
+      "link": "https://meli.la/1nuiU4c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_950931-MLA99448686486_112025-F.jpg",
+      "preco": 41.17,
+      "precoDe": 79.99,
+      "desconto": 31,
+      "cupom": "MELIBAIXOU",
+      "enviadoEm": "2026-09-18T13:23:59.425Z"
+    },
     {
       "id": "19836",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 50,
       "cupom": "OFERTAS10",
       "enviadoEm": "2026-09-17T15:48:50.926Z"
-    },
-    {
-      "id": "19483",
-      "loja": "Shopee",
-      "titulo": "Percarbonato de Sódio 100% Puro Clareador Multiuso tira manchas Roupas Brancas Coloridas Limpeza",
-      "link": "https://s.shopee.com.br/8fSQugkGga",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfireq94bggc6_tn",
-      "preco": 19.72,
-      "precoDe": 29,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T15:45:25.189Z"
-    },
-    {
-      "id": "19482",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital Para Cozinha Home Utilidades 10 kg Com Sensibilidade de 1 g",
-      "link": "https://meli.la/2XBPFgN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889317-MLA114855281809_072026-F.jpg",
-      "preco": 18,
-      "precoDe": 19,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T15:42:07.974Z"
-    },
-    {
-      "id": "19481",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 5 Cuecas Boxer Masculina Microfibra Original ",
-      "link": "https://meli.la/1icjKnC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724220-MLB105700958883_012026-O.webp",
-      "preco": 34.93,
-      "precoDe": 69,
-      "desconto": 28,
-      "cupom": "GARANTINOTOP",
-      "enviadoEm": "2026-09-17T15:38:56.717Z"
-    },
-    {
-      "id": "19477",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi",
-      "link": "https://meli.la/23vyvKw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973356-MLB115027669247_072026-O.webp",
-      "preco": 47.06,
-      "precoDe": 69.99,
-      "desconto": 18,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-17T15:35:16.954Z"
-    },
-    {
-      "id": "19475",
-      "loja": "Amazon",
-      "titulo": "LISTERINE® Melancia & Hortelã Enxaguante Bucal Sem Álcool, 500mL",
-      "link": "https://www.amazon.com.br/dp/B0CHZBLSRQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ngSZcd9QL._SL400_.jpg",
-      "preco": 15.189999999999998,
-      "precoDe": 26.19,
-      "desconto": 27,
-      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-17T15:32:03.042Z"
-    },
-    {
-      "id": "19474",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 4 Camisetas Polo Wear",
-      "link": "https://meli.la/2hs9RRF",
-      "imagem": null,
-      "preco": 95.11,
-      "precoDe": 239.99,
-      "desconto": 52,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-17T15:28:41.370Z"
     }
   ]
 }
