@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-18T15:29:12.005Z",
+  "atualizadoEm": "2026-09-18T15:59:12.006Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19939",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Árabe Durrat Al Aroos Feminino 85ml Edp Original",
+      "link": "https://meli.la/2MRNZVz",
+      "imagem": null,
+      "preco": 118.01,
+      "precoDe": 219.9,
+      "desconto": 40,
+      "cupom": "FULL1809",
+      "enviadoEm": "2026-09-18T15:57:15.427Z"
+    },
+    {
+      "id": "19938",
+      "loja": "Shopee",
+      "titulo": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
+      "link": "https://s.shopee.com.br/qjbBlUiQw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035_tn",
+      "preco": 47.92,
+      "precoDe": 99.83,
+      "desconto": 40,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T15:53:47.359Z"
+    },
+    {
+      "id": "19937",
+      "loja": "Shopee",
+      "titulo": "Alicate Automático Decapador Crimpador Eletricista Descacador Fios Decapador Fio Automático 18 Em 1",
+      "link": "https://s.shopee.com.br/7ptLWSQ2fF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mpnn4ka92dxe25_tn",
+      "preco": 23.99,
+      "precoDe": 38.08,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T15:50:34.942Z"
+    },
+    {
+      "id": "19936",
+      "loja": "Amazon",
+      "titulo": "Pack Cerveja Brahma Duplo Malte Lata Sleek - com 12 unidades 350ml",
+      "link": "https://www.amazon.com.br/dp/B08GB1PRM9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413ShTFEzUL._SL400_.jpg",
+      "preco": 45.13,
+      "precoDe": 52.69,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T15:42:58.244Z"
+    },
+    {
+      "id": "19934",
+      "loja": "Mercado Livre",
+      "titulo": "Inova Caixa De Som Mini Bluetooth Tws Grave Potent Com Radio",
+      "link": "https://meli.la/138eqLF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782189-MLB93785190853_092025-O.webp",
+      "preco": 58.31999999999999,
+      "precoDe": 120,
+      "desconto": 46,
+      "cupom": "FULL1809",
+      "enviadoEm": "2026-09-18T15:41:46.718Z"
+    },
+    {
+      "id": "19933",
+      "loja": "Mercado Livre",
+      "titulo": "Ollie Bastão Protetor Solar Facial FPS 95, na cor 30, é o item que faltava pra sua rotina!",
+      "link": "https://meli.la/2bCNGWs",
+      "imagem": null,
+      "preco": 100.08,
+      "precoDe": 139,
+      "desconto": 20,
+      "cupom": "FULL1809",
+      "enviadoEm": "2026-09-18T15:38:45.503Z"
+    },
+    {
+      "id": "19929",
+      "loja": "Mercado Livre",
+      "titulo": "Portãozinho Pet Cães Crianças Bebês 68 A 78 E 78 A 88 Cm",
+      "link": "https://meli.la/1v18JWZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_765499-MLB99893992498_122025-O.webp",
+      "preco": 52.43000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CARRINHOCHEIOJA",
+      "enviadoEm": "2026-09-18T15:32:55.146Z"
+    },
+    {
+      "id": "19926",
+      "loja": "Shopee",
+      "titulo": "Kit 12un Anti Mofo Secar 180g - Desumidificador Original, Guarda Roupas, Armarios",
+      "link": "https://s.shopee.com.br/9AOj5E1JIZ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qvdg-ljwg19cbopsn4d_tn",
+      "preco": 120.25999999999999,
+      "precoDe": 187.9,
+      "desconto": 20,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T15:29:30.437Z"
+    },
     {
       "id": "19925",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-17T17:36:30.224Z"
-    },
-    {
-      "id": "19572",
-      "loja": "Amazon",
-      "titulo": "GGB Quebra-Cabeça Sistema Solar 300 Peças",
-      "link": "https://www.amazon.com.br/dp/B09JL8WTX9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/515inIba5AL._SL400_.jpg",
-      "preco": 10.99,
-      "precoDe": 18.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T17:33:20.626Z"
-    },
-    {
-      "id": "19571",
-      "loja": "Mercado Livre",
-      "titulo": "Guitarra E Microfone Infantil Instrumento Brinquedo Musical Cor Rosa Atentu",
-      "link": "https://meli.la/2sbEfTb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730827-MLA99450704588_112025-F.jpg",
-      "preco": 94.9,
-      "precoDe": 197.79,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T17:32:28.322Z"
-    },
-    {
-      "id": "19570",
-      "loja": "Shopee",
-      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
-      "link": "https://s.shopee.com.br/8plrEJgd7X",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
-      "preco": 39.33,
-      "precoDe": 65.77,
-      "desconto": 25,
-      "cupom": "R4P1D1NH0",
-      "enviadoEm": "2026-09-17T17:31:15.626Z"
-    },
-    {
-      "id": "19569",
-      "loja": "Amazon",
-      "titulo": "Johnson's Baby Lenços Umedecidos Recém Nascido, 192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
-      "preco": 39.92,
-      "precoDe": 53.09,
-      "desconto": 6,
-      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-17T17:21:52.452Z"
-    },
-    {
-      "id": "19563",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Macaquinho Curto Fitness Poli Academia",
-      "link": "https://meli.la/12MC3io",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837065-MLB90029944053_082025-O.webp",
-      "preco": 38.93,
-      "precoDe": 199.99,
-      "desconto": 72,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-17T17:17:47.301Z"
-    },
-    {
-      "id": "19562",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital Bioimpedância Bluetooth Corporal Aparelho Alta Capacidade Balança De Banheiro Academia App Para Android E Para Ios Cor Preto Marca Davely",
-      "link": "https://meli.la/1S8JUz1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934432-MLA95533070350_102025-F.jpg",
-      "preco": 31.99,
-      "precoDe": 39.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T17:14:14.302Z"
-    },
-    {
-      "id": "19561",
-      "loja": "Amazon",
-      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
-      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
-      "preco": 24.49,
-      "precoDe": 49.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T17:10:34.639Z"
-    },
-    {
-      "id": "19560",
-      "loja": "Shopee",
-      "titulo": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
-      "link": "https://s.shopee.com.br/AKaezX0QkS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
-      "preco": 8200,
-      "precoDe": 14909.09,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T17:09:33.460Z"
     }
   ]
 }
