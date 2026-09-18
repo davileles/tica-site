@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-18T19:29:12.024Z",
+  "atualizadoEm": "2026-09-18T19:54:39.975Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20092",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Canguru Bebê Ergonômica Mochila Frente Costas Até 25kg",
+      "link": "https://meli.la/1AUpB4g",
+      "imagem": null,
+      "preco": 124,
+      "precoDe": 219,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:44:39.973Z"
+    },
+    {
+      "id": "20091",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/W6l2scZxf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 118.8,
+      "precoDe": 270,
+      "desconto": 45,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T19:43:26.392Z"
+    },
+    {
+      "id": "20090",
+      "loja": "Amazon",
+      "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista gigante com lançador, rampas e ataque do T-Rex motorizado. Para crianças a partir de 4 anos.",
+      "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Uewj7cHrL._SL400_.jpg",
+      "preco": 899.99,
+      "precoDe": 1359.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:40:01.633Z"
+    },
+    {
+      "id": "20089",
+      "loja": "Mercado Livre",
+      "titulo": "Saída Maternidade 6 Peças Nossa Senhora Aparecida Personalizado",
+      "link": "https://meli.la/1CF8mdq",
+      "imagem": null,
+      "preco": 281.08,
+      "precoDe": 349,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:39:03.289Z"
+    },
+    {
+      "id": "20088",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Infantil Social Festa Confortável (20 a 27)",
+      "link": "https://meli.la/2K7nFVV",
+      "imagem": null,
+      "preco": 76.61,
+      "precoDe": 109.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:38:00.639Z"
+    },
+    {
+      "id": "20087",
+      "loja": "Amazon",
+      "titulo": "NUK Copo Treinamento Fc Temp. Control 150 Ml - Neutral Branco",
+      "link": "https://www.amazon.com.br/dp/B08KBH3W1X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Dmm-hdWbL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 79.07,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:36:57.489Z"
+    },
+    {
+      "id": "20086",
+      "loja": "Amazon",
+      "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
+      "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51-483l4JfL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 41.59,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:35:43.707Z"
+    },
+    {
+      "id": "20085",
+      "loja": "Amazon",
+      "titulo": "Caneca Antivazamento Magia Lillo, Lilás",
+      "link": "https://www.amazon.com.br/dp/B07DX86HMV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41pnF4Pa2fS._SL400_.jpg",
+      "preco": 25.9,
+      "precoDe": 41.59,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:34:34.833Z"
+    },
     {
       "id": "20076",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-09-18T11:59:32.411Z"
-    },
-    {
-      "id": "19768",
-      "loja": "Amazon",
-      "titulo": "Cadeira Para Auto 0-36 Kg Mass Preta Litet - BB456",
-      "link": "https://www.amazon.com.br/dp/B0C5F2T4Q2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JOSkB7WgL._SL400_.jpg",
-      "preco": 529,
-      "precoDe": 599,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:52:04.633Z"
-    },
-    {
-      "id": "19767",
-      "loja": "Amazon",
-      "titulo": "GGB Brinquedo Martelo do Trovão",
-      "link": "https://www.amazon.com.br/dp/B09Q7QY2X8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31g37ng-KpL._SL400_.jpg",
-      "preco": 9.73,
-      "precoDe": 13.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:50:56.172Z"
-    },
-    {
-      "id": "19765",
-      "loja": "Shopee",
-      "titulo": "Carrinho De Passeio Infantil Quadriciclo Lady Star Maral Cor Rosa",
-      "link": "https://s.shopee.com.br/AUu6QfpCQf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep4-m8wfeh8k5b2x22_tn",
-      "preco": 420,
-      "precoDe": 586.67,
-      "desconto": 25,
-      "cupom": "B44UTY15",
-      "enviadoEm": "2026-09-18T11:47:37.946Z"
-    },
-    {
-      "id": "19764",
-      "loja": "Amazon",
-      "titulo": "Conjunto de chaves de fenda de precisão 115 em 1 kit de ferramentas de reparo com kit de driver magnético, conjunto de chaves de fenda de precisão eletrônica com bolsa portátil par",
-      "link": "https://www.amazon.com.br/dp/B092SPZFYT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51APugFLBKS._SL400_.jpg",
-      "preco": 26,
-      "precoDe": 27.79,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:39:29.361Z"
-    },
-    {
-      "id": "19762",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 46.9,
-      "precoDe": 59.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:25:56.720Z"
-    },
-    {
-      "id": "19761",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/30o3xYTm3u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:25:07.722Z"
-    },
-    {
-      "id": "19759",
-      "loja": "Amazon",
-      "titulo": "Mustela Shampoo Infantil 500Ml - Fragrância Suave Para Não Arder Os Olhos Dos Bebês - Fórmula Biodegradável Com 93% De Ingredientes De Origem Natural - Bebê E Criança",
-      "link": "https://www.amazon.com.br/dp/B09J56YKXG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312mJ8KmiSL._SL400_.jpg",
-      "preco": 72.9,
-      "precoDe": 78.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:11:26.674Z"
-    },
-    {
-      "id": "19753",
-      "loja": "Amazon",
-      "titulo": "Bosch Kit de Pontas e Brocas X-Line 33 unidades",
-      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
-      "preco": 76.1,
-      "precoDe": 169.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:06:55.290Z"
     }
   ]
 }
