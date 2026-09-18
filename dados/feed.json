@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-18T19:11:25.735Z",
+  "atualizadoEm": "2026-09-18T19:29:12.024Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20076",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 69,
+      "precoDe": 92.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:23:26.761Z"
+    },
+    {
+      "id": "20075",
+      "loja": "Amazon",
+      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
+      "preco": 30.99,
+      "precoDe": 50,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T19:22:26.993Z"
+    },
+    {
+      "id": "20074",
+      "loja": "Shopee",
+      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
+      "link": "https://s.shopee.com.br/1AUQPqely",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
+      "preco": 47.99,
+      "precoDe": 99.98,
+      "desconto": 40,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T19:19:32.355Z"
+    },
     {
       "id": "20065",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-09-18T11:06:55.290Z"
-    },
-    {
-      "id": "19752",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 53.99,
-      "precoDe": 63.87,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T11:03:43.408Z"
-    },
-    {
-      "id": "19751",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/1VzG8p9yHd",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 42.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "R4P1D1NH0",
-      "enviadoEm": "2026-09-18T11:02:42.294Z"
-    },
-    {
-      "id": "19736",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 138,
-      "precoDe": 222.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T22:41:36.224Z"
     }
   ]
 }
