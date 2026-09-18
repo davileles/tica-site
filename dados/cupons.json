@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T19:59:12.642Z",
+  "atualizadoEm": "2026-09-18T20:29:15.002Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -49,30 +49,6 @@
       "observacao": null,
       "validadeAte": "2026-09-21T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "20BRINCA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-18T20:26:57.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "20MATTEL",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-18T20:26:57.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "CORRE15",
