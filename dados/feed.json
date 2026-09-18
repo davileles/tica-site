@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-18T21:59:12.023Z",
+  "atualizadoEm": "2026-09-18T22:12:39.471Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20169",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo resistente 20/40/60/100 Litros direto da fábrica",
+      "link": "https://s.shopee.com.br/8plt7goqX1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luz0raa04k0w98_tn",
+      "preco": 7.19,
+      "precoDe": 19.98,
+      "desconto": 55,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-18T22:02:39.469Z"
+    },
+    {
+      "id": "20168",
+      "loja": "Amazon",
+      "titulo": "Processador AMD Ryzen 5 5500 100100000457BOX, Cerâmica Cinza",
+      "link": "https://www.amazon.com.br/dp/B09VCJ171S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31EzTuimorL._SL400_.jpg",
+      "preco": 539.9,
+      "precoDe": 1166.64,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T21:59:16.135Z"
+    },
     {
       "id": "20167",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 57,
       "cupom": "R4P1D1NH0",
       "enviadoEm": "2026-09-18T13:31:03.442Z"
-    },
-    {
-      "id": "19846",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Feminino E Masculino Adissage Adidas",
-      "link": "https://meli.la/2j7jymW",
-      "imagem": null,
-      "preco": 168.99,
-      "precoDe": 199.99,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T13:27:31.145Z"
-    },
-    {
-      "id": "19840",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Travesseiros Luxo Matelado Fibra Antialérgica 70x50cm Branco",
-      "link": "https://meli.la/1nuiU4c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_950931-MLA99448686486_112025-F.jpg",
-      "preco": 41.17,
-      "precoDe": 79.99,
-      "desconto": 31,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-18T13:23:59.425Z"
     }
   ]
 }
