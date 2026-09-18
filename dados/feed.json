@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-18T11:21:26.675Z",
+  "atualizadoEm": "2026-09-18T11:35:14.943Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19762",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Bitter Campari 748ml",
+      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
+      "preco": 46.9,
+      "precoDe": 59.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T11:25:56.720Z"
+    },
+    {
+      "id": "19761",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/30o3xYTm3u",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T11:25:07.722Z"
+    },
     {
       "id": "19759",
       "loja": "Amazon",
@@ -433,18 +457,6 @@
       "desconto": null,
       "cupom": "PROVAR",
       "enviadoEm": "2026-09-17T18:58:33.709Z"
-    },
-    {
-      "id": "19631",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 46.99,
-      "precoDe": 59.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T18:57:19.425Z"
     },
     {
       "id": "19629",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
       "enviadoEm": "2026-09-17T13:09:51.734Z"
-    },
-    {
-      "id": "19403",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Capas De Travesseiro Antiácaro Impermeável Importado Com Zíper",
-      "link": "https://meli.la/2FLLaTJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_835932-MLA116127366746_092026-F.jpg",
-      "preco": 48.989999999999995,
-      "precoDe": 77.98,
-      "desconto": 10,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-17T13:06:22.115Z"
     }
   ]
 }
