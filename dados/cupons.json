@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T01:37:24.774Z",
+  "atualizadoEm": "2026-09-18T03:07:24.209Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -432,18 +432,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T15:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DRAMOFF15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-18T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -963,18 +951,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEROJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1227,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1709",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 10,
-      "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-18T03:02:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "GOLMELI10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1333,18 +1297,6 @@
       "observacao": null,
       "validadeAte": "2026-09-18T21:51:29.000Z",
       "url": null
-    },
-    {
-      "codigo": "ADORO",
-      "loja": "Posthaus",
-      "tipo": "pct",
-      "valor": 70,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-18T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
