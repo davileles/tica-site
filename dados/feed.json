@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-18T11:05:14.942Z",
+  "atualizadoEm": "2026-09-18T11:21:26.675Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19759",
+      "loja": "Amazon",
+      "titulo": "Mustela Shampoo Infantil 500Ml - Fragrância Suave Para Não Arder Os Olhos Dos Bebês - Fórmula Biodegradável Com 93% De Ingredientes De Origem Natural - Bebê E Criança",
+      "link": "https://www.amazon.com.br/dp/B09J56YKXG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312mJ8KmiSL._SL400_.jpg",
+      "preco": 72.9,
+      "precoDe": 78.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T11:11:26.674Z"
+    },
+    {
+      "id": "19753",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit de Pontas e Brocas X-Line 33 unidades",
+      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
+      "preco": 76.1,
+      "precoDe": 169.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T11:06:55.290Z"
+    },
     {
       "id": "19752",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-09-17T13:06:22.115Z"
-    },
-    {
-      "id": "19397",
-      "loja": "Shopee",
-      "titulo": "Cadeirinha Infantil para Carro Omni 0-36Kg (40-150cm) Preto e Cinza Multikids - BB712",
-      "link": "https://s.shopee.com.br/3qNAyhUCkf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mn4nj7f94z5vbe_tn",
-      "preco": 774.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAS10",
-      "enviadoEm": "2026-09-17T13:02:50.140Z"
-    },
-    {
-      "id": "19396",
-      "loja": "Shopee",
-      "titulo": "Sutiã Santa Passion Tomara que Caia com Bojo e Aro Liso de Alta Sustentação Push Up Confortável",
-      "link": "https://s.shopee.com.br/9Ki7WZFG0O",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822z4-mi3ba3rgqmfbee_tn",
-      "preco": 52.9,
-      "precoDe": 99.83,
-      "desconto": 42,
-      "cupom": "S3M4N4M3B",
-      "enviadoEm": "2026-09-17T12:59:36.264Z"
     }
   ]
 }
