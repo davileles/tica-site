@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-18T14:06:00.922Z",
+  "atualizadoEm": "2026-09-18T14:21:51.164Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "19888",
+      "loja": "Amazon",
+      "titulo": "Buba Bolsa Termica Instantanea Em Gel Modelo:14517, Cor: Azul",
+      "link": "https://www.amazon.com.br/dp/B0BBJTNTKH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/513ag94DfFL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 27.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T14:20:53.828Z"
+    },
+    {
+      "id": "19887",
+      "loja": "Amazon",
+      "titulo": "Copo Térmico Infantil Inox 354ml Tubarão Contigo",
+      "link": "https://www.amazon.com.br/dp/B0977T66Z7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Mq8D30frL._SL400_.jpg",
+      "preco": 66.89,
+      "precoDe": 129.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T14:19:52.935Z"
+    },
+    {
+      "id": "19886",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 84.99,
+      "precoDe": 124.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T14:19:02.017Z"
+    },
+    {
+      "id": "19884",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "link": "https://s.shopee.com.br/1AU5fZR6n",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
+      "preco": 52.989999999999995,
+      "precoDe": 99.99,
+      "desconto": 27,
+      "cupom": "TXLM46QKVA",
+      "enviadoEm": "2026-09-18T14:17:47.559Z"
+    },
+    {
+      "id": "19875",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto Motor Brushless 50n.m 2 Baterias 2000mah 21v E Mandril De Aço Tb-21bx The Black Tools",
+      "link": "https://meli.la/1MVuvVA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866644-MLA107943758051_032026-F.jpg",
+      "preco": 179.92000000000002,
+      "precoDe": 359.9,
+      "desconto": 33,
+      "cupom": "MELIBAIXOU",
+      "enviadoEm": "2026-09-18T14:10:52.706Z"
+    },
+    {
+      "id": "19874",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Parafusadeira Multifuncional Kit Go De Ferramentas Bits",
+      "link": "https://meli.la/2LQoVFC",
+      "imagem": null,
+      "preco": 98.15,
+      "precoDe": 176.98,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-18T14:07:17.976Z"
+    },
     {
       "id": "19870",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-09-17T16:30:50.432Z"
-    },
-    {
-      "id": "19516",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Painel Led Plafon Aluminio Embutir Quadrado 6500K Branco Frio 18w 22x22Cm",
-      "link": "https://meli.la/32m9Zbt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_865249-MLA117377920925_092026-F.jpg",
-      "preco": 44.03999999999999,
-      "precoDe": 112.71,
-      "desconto": 44,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-17T16:29:55.314Z"
-    },
-    {
-      "id": "19515",
-      "loja": "Amazon",
-      "titulo": "Neutrogena Hidratante Facial Matte 3 em 1 Face Care Intensive, 100g",
-      "link": "https://www.amazon.com.br/dp/B08YZJZF3S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41wGJenRAxL._SL400_.jpg",
-      "preco": 25.86,
-      "precoDe": 48.99,
-      "desconto": 34,
-      "cupom": "20% OFF NA FINALIZAÇÃO DO PEDIDO",
-      "enviadoEm": "2026-09-17T16:26:41.849Z"
-    },
-    {
-      "id": "19512",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Court Vision Low Masculino",
-      "link": "https://meli.la/14Mp4ta",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796652-MLB100243073597_122025-O.webp",
-      "preco": 332.49,
-      "precoDe": 549.99,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T16:23:19.273Z"
-    },
-    {
-      "id": "19504",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/3qNBBeQsNG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msykg0bri8skfd_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "B44UTY15",
-      "enviadoEm": "2026-09-17T16:19:51.106Z"
-    },
-    {
-      "id": "19503",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Travesseiro Pena Pluma de Ganso Sintetica Siliconada Lavavel Toque Macio 70x50cm",
-      "link": "https://meli.la/2p6H9oQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790316-MLA95710243594_102025-F.jpg",
-      "preco": 29.89,
-      "precoDe": 44.29,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T16:16:27.068Z"
-    },
-    {
-      "id": "19495",
-      "loja": "Amazon",
-      "titulo": "Tangle Teezer - Escova de cabelo desembaraçadora The Wet Detangler Black para todos os tipos de cabelo, seco e úmido. Cor: Preta",
-      "link": "https://www.amazon.com.br/dp/B07D38HKCS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41G5ukdTBsL._SL400_.jpg",
-      "preco": 104,
-      "precoDe": 160,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-17T16:09:55.245Z"
     }
   ]
 }
