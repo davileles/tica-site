@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-18T23:11:07.067Z",
+  "atualizadoEm": "2026-09-19T11:21:50.181Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20202",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Light T-shirt Insider Masculino",
+      "link": "https://meli.la/2nKY1UA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638890-MLB112361363786_062026-O.webp",
+      "preco": 63.96,
+      "precoDe": 189,
+      "desconto": 59,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T11:11:50.179Z"
+    },
+    {
+      "id": "20200",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Lacoste Ultra Dry Sport - Original",
+      "link": "https://meli.la/2hQaJh2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841853-MLB93712817766_102025-O.webp",
+      "preco": 206.8,
+      "precoDe": 399.99,
+      "desconto": 37,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T11:08:13.950Z"
+    },
+    {
+      "id": "20199",
+      "loja": "Shopee",
+      "titulo": "(110V) Pipoqueira Elétrica Ar Quente Máquina Fazer Pipoca Sem Óleo Minijoy - (110v) TOP",
+      "link": "https://s.shopee.com.br/4LJUd8tXqC",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-luz7g0s3pj96b9_tn",
+      "preco": 120,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-19T11:02:53.414Z"
+    },
     {
       "id": "20185",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 15,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T13:54:53.118Z"
-    },
-    {
-      "id": "19864",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis De Corrida Masculino Duramo Rc 2 Adidas",
-      "link": "https://meli.la/1SLyubQ",
-      "imagem": null,
-      "preco": 264.99,
-      "precoDe": 379.99,
-      "desconto": 26,
-      "cupom": "TODOSITE1809",
-      "enviadoEm": "2026-09-18T13:51:06.383Z"
-    },
-    {
-      "id": "19863",
-      "loja": "Amazon",
-      "titulo": "Buba, Gel Para Aliviar a Febre",
-      "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SDu+SUjLL._SL400_.jpg",
-      "preco": 19.7,
-      "precoDe": 26.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T13:47:53.688Z"
-    },
-    {
-      "id": "19861",
-      "loja": "Mercado Livre",
-      "titulo": "Lanterna Led Tática Mais Forte Do Mundo 2km Militar Potente",
-      "link": "https://meli.la/2K1t3qR",
-      "imagem": null,
-      "preco": 127.47999999999999,
-      "precoDe": 278.65,
-      "desconto": 39,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-18T13:46:42.373Z"
     }
   ]
 }
