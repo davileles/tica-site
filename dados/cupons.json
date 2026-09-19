@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T02:29:12.703Z",
+  "atualizadoEm": "2026-09-19T02:59:12.913Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -855,18 +855,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CHEGOUCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTOSML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1044,18 +1032,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PEGUEIJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
