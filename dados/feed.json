@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T17:29:07.062Z",
+  "atualizadoEm": "2026-09-19T18:17:22.700Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20349",
+      "loja": "Shopee",
+      "titulo": "Kit com 3 Cetrilan Creme Infantil Protetor para Prevenção de Assaduras 120g - Theraskin",
+      "link": "https://s.shopee.com.br/2Vrquvrjs5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mnojxdtx53408d_tn",
+      "preco": 145.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T18:07:22.699Z"
+    },
     {
       "id": "20342",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-18T18:31:05.965Z"
-    },
-    {
-      "id": "20042",
-      "loja": "Amazon",
-      "titulo": "Lysoform Lavanda, Desinfetante Líquido, Limpeza Casa, 5L",
-      "link": "https://www.amazon.com.br/dp/B0CVSBKF4N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31CMvysoYPL._SL400_.jpg",
-      "preco": 50.6,
-      "precoDe": 62.03,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:30:02.941Z"
     }
   ]
 }
