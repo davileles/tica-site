@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T11:21:50.181Z",
+  "atualizadoEm": "2026-09-19T11:29:12.067Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20205",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/6L4Z2NdTXb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 10.149999999999999,
+      "precoDe": 42.3,
+      "desconto": 70,
+      "cupom": "SHOPEE20BAF",
+      "enviadoEm": "2026-09-19T11:25:18.185Z"
+    },
     {
       "id": "20202",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-09-18T13:56:00.920Z"
-    },
-    {
-      "id": "19867",
-      "loja": "Shopee",
-      "titulo": "Creme Desodorante Antitranspirante Herbíssimo Care Rosa Mosqueta E Niacinamida Bisnaga 55g",
-      "link": "https://s.shopee.com.br/6q0oCaxUgD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mmrumknuvu2s97_tn",
-      "preco": 10.82,
-      "precoDe": 15.91,
-      "desconto": 15,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T13:54:53.118Z"
     }
   ]
 }
