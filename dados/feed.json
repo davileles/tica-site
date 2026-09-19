@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-19T11:29:12.067Z",
+  "atualizadoEm": "2026-09-19T11:59:12.067Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20215",
+      "loja": "Amazon",
+      "titulo": "Café Arara Orfeu em Grãos, 100% Arabica 250g",
+      "link": "https://www.amazon.com.br/dp/B0CPQS1LKS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31KjhHze9eL._SL400_.jpg",
+      "preco": 35.19,
+      "precoDe": 48.7,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T11:57:53.755Z"
+    },
+    {
+      "id": "20211",
+      "loja": "Mercado Livre",
+      "titulo": "Deo Corporal Natura Homem Coragio 100ml Volume da unidade 100 mL",
+      "link": "https://meli.la/2vaRDYQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637174-MLA106812613304_022026-F.jpg",
+      "preco": 33.11,
+      "precoDe": 72.77,
+      "desconto": 35,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-19T11:52:58.501Z"
+    },
+    {
+      "id": "20210",
+      "loja": "Shopee",
+      "titulo": "10M tecido para decoração  chita, chitão,euroleen 100% poliéster  (10,00m x 1,50m )",
+      "link": "https://s.shopee.com.br/40geHdZyij",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl0o31l70g10f_tn",
+      "preco": 55.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TXLM46QKVA",
+      "enviadoEm": "2026-09-19T11:49:31.984Z"
+    },
+    {
+      "id": "20209",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Feminina Dry Fit Proteção Uv50+ Academia Caminhada",
+      "link": "https://meli.la/14B5jbW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689707-MLB114545781500_082026-O.webp",
+      "preco": 34.05,
+      "precoDe": 49.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T11:46:12.709Z"
+    },
     {
       "id": "20205",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-09-18T14:19:02.017Z"
-    },
-    {
-      "id": "19884",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
-      "link": "https://s.shopee.com.br/1AU5fZR6n",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmb-lo8gotg960in6f_tn",
-      "preco": 52.989999999999995,
-      "precoDe": 99.99,
-      "desconto": 27,
-      "cupom": "TXLM46QKVA",
-      "enviadoEm": "2026-09-18T14:17:47.559Z"
-    },
-    {
-      "id": "19875",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto Motor Brushless 50n.m 2 Baterias 2000mah 21v E Mandril De Aço Tb-21bx The Black Tools",
-      "link": "https://meli.la/1MVuvVA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_866644-MLA107943758051_032026-F.jpg",
-      "preco": 179.92000000000002,
-      "precoDe": 359.9,
-      "desconto": 33,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-18T14:10:52.706Z"
-    },
-    {
-      "id": "19874",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Parafusadeira Multifuncional Kit Go De Ferramentas Bits",
-      "link": "https://meli.la/2LQoVFC",
-      "imagem": null,
-      "preco": 98.15,
-      "precoDe": 176.98,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T14:07:17.976Z"
-    },
-    {
-      "id": "19870",
-      "loja": "Amazon",
-      "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
-      "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31S4Jlf1aeL._SL400_.jpg",
-      "preco": 66.56,
-      "precoDe": 123.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T13:56:00.920Z"
     }
   ]
 }
