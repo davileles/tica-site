@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-19T15:09:56.126Z",
+  "atualizadoEm": "2026-09-19T15:29:14.613Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20290",
+      "loja": "Shopee",
+      "titulo": "Goma Gomets Sortido Dori 500g",
+      "link": "https://s.shopee.com.br/80CnHyWj7x",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825at-ms1t8jbg6ltw24_tn",
+      "preco": 8.57,
+      "precoDe": 12.24,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:27:14.423Z"
+    },
+    {
+      "id": "20289",
+      "loja": "Mercado Livre",
+      "titulo": "Mala de Bordo Rígida Sweet Studio Bege para Viagem, 55 cm, com Rodas Duplas e Cadeado",
+      "link": "https://meli.la/2EpX9Uj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813734-MLA112637790114_062026-F.jpg",
+      "preco": 135.12,
+      "precoDe": 289.99,
+      "desconto": 33,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-09-19T15:23:45.017Z"
+    },
+    {
+      "id": "20288",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
+      "link": "https://s.shopee.com.br/40geW3eA8x",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msykg0bri8skfd_tn",
+      "preco": 79.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-19T15:20:25.232Z"
+    },
+    {
+      "id": "20287",
+      "loja": "Amazon",
+      "titulo": "Isotônico Gatorade, Limão, Garrafa 500ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY4QBRK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kcUcma7EL._SL400_.jpg",
+      "preco": 28.51,
+      "precoDe": 32.94,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:17:04.975Z"
+    },
     {
       "id": "20282",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-09-18T16:30:20.434Z"
-    },
-    {
-      "id": "19963",
-      "loja": "Mercado Livre",
-      "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
-      "link": "https://meli.la/32dwMuq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-O.webp",
-      "preco": 92.13000000000002,
-      "precoDe": 212,
-      "desconto": 38,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-18T16:29:22.915Z"
-    },
-    {
-      "id": "19961",
-      "loja": "Shopee",
-      "titulo": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular",
-      "link": "https://s.shopee.com.br/6Al7ZjHoKK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mljuj1myuio7a9_tn",
-      "preco": 34.8,
-      "precoDe": 72.5,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:25:42.764Z"
-    },
-    {
-      "id": "19957",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/1LfroHSHTR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 39.33,
-      "precoDe": 66.66,
-      "desconto": 26,
-      "cupom": "R4P1D1NH0",
-      "enviadoEm": "2026-09-18T16:21:57.581Z"
-    },
-    {
-      "id": "19956",
-      "loja": "Mercado Livre",
-      "titulo": "Prancha de Cabelo Britânia Revestimento Cerâmico 200°C BPR03A",
-      "link": "https://meli.la/21m8HGX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988973-MLA96841852791_102025-F.jpg",
-      "preco": 58.410000000000004,
-      "precoDe": 78.9,
-      "desconto": 18,
-      "cupom": "FULL1809",
-      "enviadoEm": "2026-09-18T16:18:49.977Z"
     }
   ]
 }
