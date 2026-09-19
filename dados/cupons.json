@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T19:48:16.594Z",
+  "atualizadoEm": "2026-09-19T21:18:56.518Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -588,6 +588,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-20T11:35:43.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMCAZETV",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido no app Magazine Luiza",
+      "validadeAte": "2026-09-20T21:13:13.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
