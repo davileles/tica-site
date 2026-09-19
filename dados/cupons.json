@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T21:18:56.518Z",
+  "atualizadoEm": "2026-09-19T23:31:40.961Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1369,18 +1369,6 @@
       "observacao": "Cupom pode ser usado várias vezes alterando o email",
       "validadeAte": "2026-09-20T02:03:25.000Z",
       "url": null
-    },
-    {
-      "codigo": "DESCONTAO40",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-09-19T23:13:48.000Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "BEMVINDA",
