@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T14:59:17.081Z",
+  "atualizadoEm": "2026-09-19T15:09:58.634Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1083,6 +1083,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROS1909",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-20T15:01:28.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1140,18 +1152,6 @@
       "limite": 50,
       "observacao": "Desconto de R$ 167,99 (de R$ 299,99 para R$ 132,00). Cupom PAGUEMENOSJA aplicável com pagamento via Pix.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTOEFERRAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-09-19T15:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1227,18 +1227,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1809",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-19T15:00:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,6 +1248,18 @@
       "limite": 25,
       "observacao": null,
       "validadeAte": "2026-09-20T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFICIAIS1909",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-20T15:01:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1428,30 +1428,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-19T16:40:08.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "N4D4M34B4L4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-19T15:00:59.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "ZELDANASHO",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 400,
-      "maximo": null,
-      "limite": 25,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-09-19T15:00:28.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
