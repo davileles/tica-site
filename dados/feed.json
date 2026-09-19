@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-19T15:29:14.613Z",
+  "atualizadoEm": "2026-09-19T15:59:14.614Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20303",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Camisetas Aramis Preta/branca/azul Marinho - Original",
+      "link": "https://meli.la/2X7HSEd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899500-MLB100376210522_122025-O.webp",
+      "preco": 269.69,
+      "precoDe": 675.99,
+      "desconto": 53,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T15:57:31.941Z"
+    },
+    {
+      "id": "20302",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Phase Small Sports Puma",
+      "link": "https://meli.la/1kC6NHZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_972259-MLA99998688341_112025-F.jpg",
+      "preco": 124.63000000000001,
+      "precoDe": 229.99,
+      "desconto": 34,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T15:54:09.339Z"
+    },
+    {
+      "id": "20299",
+      "loja": "Amazon",
+      "titulo": "Dr. Peanut Pasta de Amendoim Bueníssimo 250g - Com Whey Protein",
+      "link": "https://www.amazon.com.br/dp/B0BKH7R8Y2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BXOd5WiiL._SL400_.jpg",
+      "preco": 17.39,
+      "precoDe": 24.6,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:50:53.350Z"
+    },
+    {
+      "id": "20298",
+      "loja": "Shopee",
+      "titulo": "Baggio Café Cappuccino - 200g",
+      "link": "https://s.shopee.com.br/905KUyQIr6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9msleucgef3c_tn",
+      "preco": 16.9,
+      "precoDe": 19.88,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:47:38.112Z"
+    },
+    {
+      "id": "20297",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
+      "link": "https://s.shopee.com.br/9zxrgnipTw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
+      "preco": 36.9,
+      "precoDe": 80.22,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:44:07.328Z"
+    },
+    {
+      "id": "20296",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Wella Professionals Invigo Nutri-enrich Trio Pequeno",
+      "link": "https://meli.la/2V3nPgZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997511-MLA99827391437_112025-F.jpg",
+      "preco": 194,
+      "precoDe": 350,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:40:37.197Z"
+    },
+    {
+      "id": "20295",
+      "loja": "Mercado Livre",
+      "titulo": "Barra Whey Grego 40g Display com 12 unidades Morango com Chantilly Nutrata",
+      "link": "https://meli.la/29K4nUP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815130-MLA115386149009_072026-F.jpg",
+      "preco": 63,
+      "precoDe": 85.5,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T15:37:33.794Z"
+    },
+    {
+      "id": "20291",
+      "loja": "Mercado Livre",
+      "titulo": "Blusa Moletom Umbro D. Essential Masculino",
+      "link": "https://meli.la/2DbY2kk",
+      "imagem": null,
+      "preco": 131.12,
+      "precoDe": 219.99,
+      "desconto": 27,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T15:30:49.839Z"
+    },
     {
       "id": "20290",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-18T17:01:20.346Z"
-    },
-    {
-      "id": "19991",
-      "loja": "Amazon",
-      "titulo": "God of War Ragnarök - Edição Standard - PlayStation 4",
-      "link": "https://www.amazon.com.br/dp/B0BH58QPYN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51FJOm7YdhL._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 339.9,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:57:54.695Z"
-    },
-    {
-      "id": "19980",
-      "loja": "Mercado Livre",
-      "titulo": "Bermuda Sarja Alfaiataria Masculino Chino Sport Fino Social",
-      "link": "https://meli.la/2XPFhnz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618312-MLB116172440454_092026-O.webp",
-      "preco": 69.9,
-      "precoDe": 78.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:53:38.086Z"
-    },
-    {
-      "id": "19978",
-      "loja": "Mercado Livre",
-      "titulo": "Cueca Slip Infantil Atacado Revenda 100% Algodão Kit 12 Uni.",
-      "link": "https://meli.la/2YeSGAN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636552-MLB83678982744_042025-O.webp",
-      "preco": 35.92,
-      "precoDe": 44.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:50:31.300Z"
-    },
-    {
-      "id": "19977",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário para Cozinha Multiuso Taças Pratos Prateleiras Aramado Aço Dicarlo 5 Peças",
-      "link": "https://s.shopee.com.br/8fSSZhI1Xy",
-      "imagem": "https://cf.shopee.com.br/file/0913c6b2091f5d1f1b53d3b9e5624b4e_tn",
-      "preco": 90.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T16:49:22.058Z"
-    },
-    {
-      "id": "19974",
-      "loja": "Amazon",
-      "titulo": "Meu Primeiro Livro - Cores",
-      "link": "https://www.amazon.com.br/dp/6555474890?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fsx-Tqt5L._SL400_.jpg",
-      "preco": 12.35,
-      "precoDe": 19.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:42:38.339Z"
-    },
-    {
-      "id": "19973",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Jarra e 6 Copos Âmbar 7 Peças Vidro Acrílico 900ml",
-      "link": "https://meli.la/1yXaLGA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626029-MLA116373951803_082026-F.jpg",
-      "preco": 55.9,
-      "precoDe": 110.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:41:38.746Z"
-    },
-    {
-      "id": "19972",
-      "loja": "Amazon",
-      "titulo": "Hellmann’s Molho pra Chuchar sabor Cheddar",
-      "link": "https://www.amazon.com.br/dp/B0GWFR7ZFL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41M2byAw3PL._SL400_.jpg",
-      "preco": 12.59,
-      "precoDe": 17.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:35:33.364Z"
-    },
-    {
-      "id": "19964",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 136.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:30:20.434Z"
     }
   ]
 }
