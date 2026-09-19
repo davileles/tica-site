@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-19T13:12:05.613Z",
+  "atualizadoEm": "2026-09-19T13:29:14.607Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20263",
+      "loja": "Shopee",
+      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
+      "link": "https://s.shopee.com.br/5LC1yjMvww",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
+      "preco": 79.99,
+      "precoDe": 322.55,
+      "desconto": 69,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-19T13:24:43.298Z"
+    },
+    {
+      "id": "20262",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T13:14:50.866Z"
+    },
     {
       "id": "20259",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-09-18T15:42:58.244Z"
-    },
-    {
-      "id": "19934",
-      "loja": "Mercado Livre",
-      "titulo": "Inova Caixa De Som Mini Bluetooth Tws Grave Potent Com Radio",
-      "link": "https://meli.la/138eqLF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782189-MLB93785190853_092025-O.webp",
-      "preco": 58.31999999999999,
-      "precoDe": 120,
-      "desconto": 46,
-      "cupom": "FULL1809",
-      "enviadoEm": "2026-09-18T15:41:46.718Z"
-    },
-    {
-      "id": "19933",
-      "loja": "Mercado Livre",
-      "titulo": "Ollie Bastão Protetor Solar Facial FPS 95, na cor 30, é o item que faltava pra sua rotina!",
-      "link": "https://meli.la/2bCNGWs",
-      "imagem": null,
-      "preco": 100.08,
-      "precoDe": 139,
-      "desconto": 20,
-      "cupom": "FULL1809",
-      "enviadoEm": "2026-09-18T15:38:45.503Z"
     }
   ]
 }
