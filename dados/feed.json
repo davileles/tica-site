@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T18:17:22.700Z",
+  "atualizadoEm": "2026-09-19T18:40:10.846Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20350",
+      "loja": "Shopee",
+      "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn Várias Cores Macio",
+      "link": "https://s.shopee.com.br/2qUhL6i9ah",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mqqbq5jvx1c3e8_tn",
+      "preco": 19.99,
+      "precoDe": 25.96,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T18:30:10.846Z"
+    },
     {
       "id": "20349",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T18:34:30.458Z"
-    },
-    {
-      "id": "20046",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Cinza",
-      "link": "https://meli.la/2kRux7P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652694-MLA96101740983_102025-F.jpg",
-      "preco": 120.89,
-      "precoDe": 209,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:31:05.965Z"
     }
   ]
 }
