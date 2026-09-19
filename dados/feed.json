@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T13:00:14.520Z",
+  "atualizadoEm": "2026-09-19T13:12:05.613Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20259",
+      "loja": "Shopee",
+      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
+      "link": "https://s.shopee.com.br/8KpdWBatAT",
+      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
+      "preco": 89.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TXLM46QKVA",
+      "enviadoEm": "2026-09-19T13:02:05.611Z"
+    },
     {
       "id": "20251",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": "FULL1809",
       "enviadoEm": "2026-09-18T15:38:45.503Z"
-    },
-    {
-      "id": "19929",
-      "loja": "Mercado Livre",
-      "titulo": "Portãozinho Pet Cães Crianças Bebês 68 A 78 E 78 A 88 Cm",
-      "link": "https://meli.la/1v18JWZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_765499-MLB99893992498_122025-O.webp",
-      "preco": 52.43000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CARRINHOCHEIOJA",
-      "enviadoEm": "2026-09-18T15:32:55.146Z"
     }
   ]
 }
