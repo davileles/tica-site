@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T14:29:14.610Z",
+  "atualizadoEm": "2026-09-19T14:42:30.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20274",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/1AVha9xBU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 59.980000000000004,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-19T14:32:30.756Z"
+    },
     {
       "id": "20272",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": "OFERTANOML",
       "enviadoEm": "2026-09-18T16:00:41.229Z"
-    },
-    {
-      "id": "19939",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Durrat Al Aroos Feminino 85ml Edp Original",
-      "link": "https://meli.la/2MRNZVz",
-      "imagem": null,
-      "preco": 118.01,
-      "precoDe": 219.9,
-      "desconto": 40,
-      "cupom": "FULL1809",
-      "enviadoEm": "2026-09-18T15:57:15.427Z"
     }
   ]
 }
