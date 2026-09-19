@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T02:59:12.913Z",
+  "atualizadoEm": "2026-09-19T03:29:12.685Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -543,18 +543,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "10OFFNOKIT",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-19T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "TCL10OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -1092,6 +1080,18 @@
       "limite": 100,
       "observacao": "Desconto de R$ 106,98 (de R$ 157,98 para R$ 51,00). Cupom MELITUDOBOM garante o valor. Pagamento em Pix.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODARESGATE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-09-20T03:00:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
