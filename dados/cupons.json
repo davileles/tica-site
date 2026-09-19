@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-18T23:29:12.791Z",
+  "atualizadoEm": "2026-09-19T02:29:12.703Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1357,6 +1357,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "INBZ7F3BC1",
+      "loja": "Outro: Insider",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom pode ser usado várias vezes alterando o email",
+      "validadeAte": "2026-09-20T02:03:25.000Z",
+      "url": null
     },
     {
       "codigo": "DESCONTAO40",
