@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T12:29:14.208Z",
+  "atualizadoEm": "2026-09-19T13:00:16.542Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1407,15 +1407,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
     },
     {
-      "codigo": "SHOPEE20BAF",
+      "codigo": "NASCAR2026",
       "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 120,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-09-19T12:41:30.000Z",
+      "validadeAte": "2026-09-20T12:41:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
