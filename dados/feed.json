@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-19T16:29:14.614Z",
+  "atualizadoEm": "2026-09-19T17:00:07.042Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20332",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Elétrica Oster Ofrt650 de 4,8L, 1500W, Inox e Painel Touch",
+      "link": "https://meli.la/2Vg9wRa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718976-MLA100030480711_122025-F.jpg",
+      "preco": 274.36,
+      "precoDe": 374.47,
+      "desconto": 19,
+      "cupom": "PROMOHOJE",
+      "enviadoEm": "2026-09-19T16:56:56.082Z"
+    },
+    {
+      "id": "20331",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Life Formatura Feminino Aço Dourado Prateado Dourado",
+      "link": "https://meli.la/2yhpVaZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625078-MLA111791331725_052026-F.jpg",
+      "preco": 405,
+      "precoDe": 750,
+      "desconto": 40,
+      "cupom": "PROMOHOJE",
+      "enviadoEm": "2026-09-19T16:53:46.058Z"
+    },
+    {
+      "id": "20329",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto 5 Potes Vidro Hermético Marmita Mantimentos 640ml Gato Panda",
+      "link": "https://meli.la/1sveUg2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709710-MLA117258027841_092026-F.jpg",
+      "preco": 55.29,
+      "precoDe": 67.67,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T16:46:48.248Z"
+    },
+    {
+      "id": "20328",
+      "loja": "Mercado Livre",
+      "titulo": "Top Puma Academia Fitness Original Nadador Alta Sustentação",
+      "link": "https://meli.la/1kd3hww",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961178-MLB112153608802_062026-O.webp",
+      "preco": 34.84,
+      "precoDe": 78.57,
+      "desconto": 37,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-19T16:42:57.615Z"
+    },
+    {
+      "id": "20327",
+      "loja": "Mercado Livre",
+      "titulo": "Bermuda Shorts Legging Compressão Anti Assadura Esporte",
+      "link": "https://meli.la/19uuECY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667639-MLB84465953550_052025-O.webp",
+      "preco": 77.83,
+      "precoDe": 124.89,
+      "desconto": 24,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-19T16:39:16.879Z"
+    },
+    {
+      "id": "20324",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Asad Elixir 100ml Eau De Parfum Original Edp Lançamento 2026",
+      "link": "https://meli.la/2EkPWtn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736701-MLA110591850157_042026-F.jpg",
+      "preco": 153.94,
+      "precoDe": 369.9,
+      "desconto": 41,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-19T16:35:47.162Z"
+    },
+    {
+      "id": "20321",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/9AOkkY57og",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 35.99,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T16:32:11.205Z"
+    },
     {
       "id": "20320",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-09-18T18:20:01.291Z"
-    },
-    {
-      "id": "20036",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
-      "preco": 114.9,
-      "precoDe": 178.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:13:10.200Z"
-    },
-    {
-      "id": "20034",
-      "loja": "Amazon",
-      "titulo": "TRICICLO AVESPA MARAL PINK",
-      "link": "https://www.amazon.com.br/dp/B091664YFV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41D6WzS6x6L._SL400_.jpg",
-      "preco": 258.11,
-      "precoDe": 314.95,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:12:01.036Z"
-    },
-    {
-      "id": "20029",
-      "loja": "Shopee",
-      "titulo": "Lente de Contato Uso Diário Clariti - Coopervision + Estojo De Lentes",
-      "link": "https://s.shopee.com.br/1AULNxtZz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-lui6b2ll3hph86_tn",
-      "preco": 117.82000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T18:11:07.225Z"
-    },
-    {
-      "id": "20027",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 35.290000000000006,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-09-18T18:03:44.279Z"
-    },
-    {
-      "id": "20018",
-      "loja": "Amazon",
-      "titulo": "Whisky Bourbon Maker's Mark 750ml",
-      "link": "https://www.amazon.com.br/dp/B000WLN7AM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415pvxzAvGL._SL400_.jpg",
-      "preco": 155.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T17:43:59.489Z"
-    },
-    {
-      "id": "20016",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/8plsppihyE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 119.92,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T17:41:14.657Z"
-    },
-    {
-      "id": "20015",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
-      "preco": 99.99,
-      "precoDe": 140.45,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T17:37:56.721Z"
     }
   ]
 }
