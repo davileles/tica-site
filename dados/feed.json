@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T14:59:14.613Z",
+  "atualizadoEm": "2026-09-19T15:09:56.126Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20282",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
+      "link": "https://meli.la/1LfcZm6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
+      "preco": 81.22,
+      "precoDe": 189.86,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T14:59:56.123Z"
+    },
     {
       "id": "20281",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": "FULL1809",
       "enviadoEm": "2026-09-18T16:18:49.977Z"
-    },
-    {
-      "id": "19955",
-      "loja": "Mercado Livre",
-      "titulo": "Deo Corporal Kriska Drama 100ml - Natura",
-      "link": "https://meli.la/2vZdaoh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774315-MLU78670635121_082024-F.jpg",
-      "preco": 28.45,
-      "precoDe": 56.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:15:28.616Z"
     }
   ]
 }
