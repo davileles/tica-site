@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-19T13:29:14.607Z",
+  "atualizadoEm": "2026-09-19T13:57:14.039Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20266",
+      "loja": "Shopee",
+      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
+      "link": "https://s.shopee.com.br/1LftEvPdxA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
+      "preco": 318,
+      "precoDe": 600,
+      "desconto": 42,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T13:47:14.038Z"
+    },
+    {
+      "id": "20265",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Carta Blanca 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
+      "preco": 36.56,
+      "precoDe": 52.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T13:37:34.701Z"
+    },
     {
       "id": "20263",
       "loja": "Shopee",
@@ -1347,18 +1371,6 @@
       "enviadoEm": "2026-09-18T16:12:09.498Z"
     },
     {
-      "id": "19948",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Carta Blanca 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
-      "preco": 36.56,
-      "precoDe": 52.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:08:38.086Z"
-    },
-    {
       "id": "19947",
       "loja": "Mercado Livre",
       "titulo": "Edredom Casal Queen Manta Pele Lã Carneiro Grosso Quentinho",
@@ -1429,18 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-09-18T15:50:34.942Z"
-    },
-    {
-      "id": "19936",
-      "loja": "Amazon",
-      "titulo": "Pack Cerveja Brahma Duplo Malte Lata Sleek - com 12 unidades 350ml",
-      "link": "https://www.amazon.com.br/dp/B08GB1PRM9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413ShTFEzUL._SL400_.jpg",
-      "preco": 45.13,
-      "precoDe": 52.69,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T15:42:58.244Z"
     }
   ]
 }
