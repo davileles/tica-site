@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T18:40:10.846Z",
+  "atualizadoEm": "2026-09-19T18:59:07.098Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20353",
+      "loja": "Shopee",
+      "titulo": "Mala De Bordo N18 Duplo Zíper ANAC 10 kilos Expansível Mala De Viagem 10Kg ABS Roda Dupla Com Senha",
+      "link": "https://s.shopee.com.br/gQCmghoMJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnaywrpaj2a01_tn",
+      "preco": 139,
+      "precoDe": 260,
+      "desconto": 35,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T18:52:53.295Z"
+    },
     {
       "id": "20350",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-18T18:35:18.593Z"
-    },
-    {
-      "id": "20048",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Premium Mondial - CE-06-R",
-      "link": "https://s.shopee.com.br/4VctjWiItr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mszx5ewy1eyvd5_tn",
-      "preco": 103.92,
-      "precoDe": 173.2,
-      "desconto": 25,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T18:34:30.458Z"
     }
   ]
 }
