@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T17:12:02.154Z",
+  "atualizadoEm": "2026-09-19T17:29:07.062Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20342",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
+      "link": "https://s.shopee.com.br/40geekkkhK",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
+      "preco": 23.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T17:24:36.799Z"
+    },
     {
       "id": "20339",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-18T18:30:02.941Z"
-    },
-    {
-      "id": "20040",
-      "loja": "Amazon",
-      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
-      "preco": 142.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:26:33.092Z"
     }
   ]
 }
