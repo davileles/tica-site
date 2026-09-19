@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-19T14:42:30.923Z",
+  "atualizadoEm": "2026-09-19T14:59:14.613Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20281",
+      "loja": "Mercado Livre",
+      "titulo": "Cubo De Atividade Educativo 7 em 1 Brinquedo Sensorial",
+      "link": "https://meli.la/29M2btH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913669-MLA115724518475_082026-F.jpg",
+      "preco": 87.27,
+      "precoDe": 134.9,
+      "desconto": 28,
+      "cupom": "SITETODO1909",
+      "enviadoEm": "2026-09-19T14:59:03.976Z"
+    },
+    {
+      "id": "20280",
+      "loja": "Shopee",
+      "titulo": "jaqueta masculina de sarja toda forrada por dentro com capus removível",
+      "link": "https://s.shopee.com.br/8pluFNTwOc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lunnr64z39et7a_tn",
+      "preco": 123.99000000000001,
+      "precoDe": 179.06,
+      "desconto": 14,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T14:55:21.545Z"
+    },
+    {
+      "id": "20279",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gtkGdKp9L._SL400_.jpg",
+      "preco": 55.19,
+      "precoDe": 64.98,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T14:48:57.033Z"
+    },
+    {
+      "id": "20278",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
+      "preco": 55.19,
+      "precoDe": 64.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T14:48:02.627Z"
+    },
     {
       "id": "20274",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-09-18T16:15:28.616Z"
-    },
-    {
-      "id": "19952",
-      "loja": "Mercado Livre",
-      "titulo": "Short Praia Masculino Bermuda Verão Academia Corrida Voker",
-      "link": "https://meli.la/27Lo6bB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_762167-MLB115307457694_082026-O.webp",
-      "preco": 24.490000000000002,
-      "precoDe": 49.9,
-      "desconto": 30,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-09-18T16:12:09.498Z"
-    },
-    {
-      "id": "19947",
-      "loja": "Mercado Livre",
-      "titulo": "Edredom Casal Queen Manta Pele Lã Carneiro Grosso Quentinho",
-      "link": "https://meli.la/11WgBHx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_752609-MLB85384225032_062025-O.webp",
-      "preco": 97.99000000000001,
-      "precoDe": 159.09,
-      "desconto": 12,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-18T16:07:34.402Z"
-    },
-    {
-      "id": "19946",
-      "loja": "Amazon",
-      "titulo": "GGB Jogo Infantil 2 em 1 Quem Sou Eu? e Mímica",
-      "link": "https://www.amazon.com.br/dp/B0C7LV6L4H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51l1TOLlvdL._SL400_.jpg",
-      "preco": 10.07,
-      "precoDe": 11.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T16:04:14.115Z"
-    },
-    {
-      "id": "19942",
-      "loja": "Mercado Livre",
-      "titulo": "Placa De Vídeo Asrock Rx 7600 Challenger 8gb Gddr6 Oc",
-      "link": "https://meli.la/1WQQs6u",
-      "imagem": null,
-      "preco": 1799.1,
-      "precoDe": 2305,
-      "desconto": 13,
-      "cupom": "OFERTANOML",
-      "enviadoEm": "2026-09-18T16:00:41.229Z"
     }
   ]
 }
