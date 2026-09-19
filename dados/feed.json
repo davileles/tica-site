@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T18:59:07.098Z",
+  "atualizadoEm": "2026-09-19T19:25:31.351Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20355",
+      "loja": "Shopee",
+      "titulo": "Massageador muscular elétrico profissional de alta frequência, emparelhado com um relógio eletrônico",
+      "link": "https://s.shopee.com.br/W6mbwa87y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mrkjn04g53bad3_tn",
+      "preco": 30.99,
+      "precoDe": 119.19,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T19:15:31.348Z"
+    },
     {
       "id": "20353",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": "GARANTINOTOP",
       "enviadoEm": "2026-09-18T18:43:35.786Z"
-    },
-    {
-      "id": "20049",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FShfyP5iL._SL400_.jpg",
-      "preco": 127.99,
-      "precoDe": 177.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:35:18.593Z"
     }
   ]
 }
