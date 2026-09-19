@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T17:00:07.042Z",
+  "atualizadoEm": "2026-09-19T17:12:02.154Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20339",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
+      "link": "https://s.shopee.com.br/4LJV1JZG0P",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
+      "preco": 124.99000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T17:02:02.144Z"
+    },
     {
       "id": "20332",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-18T18:26:33.092Z"
-    },
-    {
-      "id": "20038",
-      "loja": "Amazon",
-      "titulo": "Cafeteira Oster Inox 1,2L - 220V",
-      "link": "https://www.amazon.com.br/dp/B093RF2W3T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31X-xa7H6HL._SL400_.jpg",
-      "preco": 125.26,
-      "precoDe": 259.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:20:01.291Z"
     }
   ]
 }
