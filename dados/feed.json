@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T21:18:54.455Z",
+  "atualizadoEm": "2026-09-19T21:32:40.591Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20368",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/70KGVEJPkI",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-19T21:31:33.636Z"
+    },
     {
       "id": "20365",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-18T19:01:25.734Z"
-    },
-    {
-      "id": "20064",
-      "loja": "Amazon",
-      "titulo": "GGB Quebra-Cabeça Vilarejo Japonês 1000 Peças",
-      "link": "https://www.amazon.com.br/dp/B0CZZBC865?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ff4UQQkkL._SL400_.jpg",
-      "preco": 26.67,
-      "precoDe": 37.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:00:16.410Z"
     }
   ]
 }
