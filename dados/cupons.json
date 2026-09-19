@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T18:17:25.176Z",
+  "atualizadoEm": "2026-09-19T19:48:16.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1333,6 +1333,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "QUERO30",
+      "loja": "Outro: C&A",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de 30% OFF na finalização. Promoção também oferece até 50% OFF em seleção de produtos.",
+      "validadeAte": "2026-09-20T19:42:17.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "INBZ7F3BC1",
