@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-19T22:01:40.650Z",
+  "atualizadoEm": "2026-09-19T22:31:40.667Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20378",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Faixa E Tag De Mala Etiqueta De Identificação De Bagagem",
+      "link": "https://meli.la/2fS6yTM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_835790-MLB115077502657_072026-O.webp",
+      "preco": 42.87,
+      "precoDe": 77.8,
+      "desconto": 35,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-19T22:23:17.824Z"
+    },
+    {
+      "id": "20377",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Esportivo Masculino Flyer Flex Bdp Puma",
+      "link": "https://meli.la/1kAzpgJ",
+      "imagem": null,
+      "preco": 179.54,
+      "precoDe": 379.99,
+      "desconto": 44,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-19T22:19:54.506Z"
+    },
+    {
+      "id": "20376",
+      "loja": "Shopee",
+      "titulo": "Processador Processadores 3 Laminas De Alimentos Manual 500ml Multiuso Universal",
+      "link": "https://s.shopee.com.br/3g3oaCKkRZ",
+      "imagem": "https://cf.shopee.com.br/file/ec94a44236e11acb0440dc5bd1a79843_tn",
+      "preco": 14.99,
+      "precoDe": 22.04,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T22:16:40.440Z"
+    },
+    {
+      "id": "20375",
+      "loja": "Mercado Livre",
+      "titulo": "Chaleira Elétrica Elgin Slim Branca 110v 1,8 Litros 1.200w Branco",
+      "link": "https://meli.la/2QmKwFr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876177-MLA109922865103_042026-F.jpg",
+      "preco": 69.99,
+      "precoDe": 105.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T22:12:50.465Z"
+    },
+    {
+      "id": "20374",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Whey Leite Café Espuma Shake Drinks Capuccino Suco Comica",
+      "link": "https://meli.la/1s38QLi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896126-MLA115949165434_092026-F.jpg",
+      "preco": 19.88,
+      "precoDe": 49.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T22:09:36.196Z"
+    },
     {
       "id": "20370",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-09-18T19:36:57.489Z"
-    },
-    {
-      "id": "20086",
-      "loja": "Amazon",
-      "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
-      "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-483l4JfL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 41.59,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:35:43.707Z"
-    },
-    {
-      "id": "20085",
-      "loja": "Amazon",
-      "titulo": "Caneca Antivazamento Magia Lillo, Lilás",
-      "link": "https://www.amazon.com.br/dp/B07DX86HMV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pnF4Pa2fS._SL400_.jpg",
-      "preco": 25.9,
-      "precoDe": 41.59,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:34:34.833Z"
-    },
-    {
-      "id": "20076",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 69,
-      "precoDe": 92.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:23:26.761Z"
-    },
-    {
-      "id": "20075",
-      "loja": "Amazon",
-      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
-      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
-      "preco": 30.99,
-      "precoDe": 50,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:22:26.993Z"
-    },
-    {
-      "id": "20074",
-      "loja": "Shopee",
-      "titulo": "Macacão Feminino Longo Pantalona Elegante Premium Assimétrico Duna Tomara Que Caia Solto Alfaiataria Social Moda Casual",
-      "link": "https://s.shopee.com.br/1AUQPqely",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-moy6w5u9jf2e9a_tn",
-      "preco": 47.99,
-      "precoDe": 99.98,
-      "desconto": 40,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-18T19:19:32.355Z"
     }
   ]
 }
