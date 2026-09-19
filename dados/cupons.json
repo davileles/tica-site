@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T03:29:12.685Z",
+  "atualizadoEm": "2026-09-19T11:59:14.312Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -577,6 +577,30 @@
       "observacao": null,
       "validadeAte": "2026-09-20T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DESCONTA100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-20T11:35:43.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TOMA30",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-20T11:35:43.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "GARIMPEI",
