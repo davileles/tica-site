@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T21:32:40.591Z",
+  "atualizadoEm": "2026-09-19T22:01:40.650Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20370",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/8fSUVqE1dV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-19T21:53:58.614Z"
+    },
     {
       "id": "20368",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 40,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T19:19:32.355Z"
-    },
-    {
-      "id": "20065",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 88.87,
-      "precoDe": 115.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:01:25.734Z"
     }
   ]
 }
