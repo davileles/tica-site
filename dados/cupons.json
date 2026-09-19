@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T17:59:07.540Z",
+  "atualizadoEm": "2026-09-19T18:17:25.176Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,18 +1167,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MOBILIA1809",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-19T18:00:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1272,6 +1260,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-20T15:01:28.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL1909",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em entregas Full. Clique em 'Mostrar mais' para ver a lista completa de produtos selecionados.",
+      "validadeAte": "2026-09-20T18:00:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
