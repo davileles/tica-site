@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T20:29:07.100Z",
+  "atualizadoEm": "2026-09-19T20:56:13.365Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20363",
+      "loja": "Shopee",
+      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
+      "link": "https://s.shopee.com.br/7Kx6qiUiqt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-19T20:46:13.364Z"
+    },
     {
       "id": "20361",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T18:57:09.315Z"
-    },
-    {
-      "id": "20058",
-      "loja": "Mercado Livre",
-      "titulo": "Mousepad Gamer Antiderrapante 80x30cm Jogos Dragão Chinês",
-      "link": "https://meli.la/2iTqEo9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820496-MLB94542866797_102025-O.webp",
-      "preco": 19.599999999999998,
-      "precoDe": 59.9,
-      "desconto": 60,
-      "cupom": "MEUMELI",
-      "enviadoEm": "2026-09-18T18:53:41.605Z"
     }
   ]
 }
