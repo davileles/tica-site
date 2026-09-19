@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-19T20:10:47.025Z",
+  "atualizadoEm": "2026-09-19T20:29:07.100Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20361",
+      "loja": "Shopee",
+      "titulo": "Mixer Power Inox 3 Em 1 Elgin 600w Batedor Processador 127v",
+      "link": "https://s.shopee.com.br/7Kx6p9hMv2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ok5c2tre2qbd_tn",
+      "preco": 122,
+      "precoDe": 180.95,
+      "desconto": 16,
+      "cupom": "NASCAR2026",
+      "enviadoEm": "2026-09-19T20:23:33.100Z"
+    },
     {
       "id": "20359",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": "MEUMELI",
       "enviadoEm": "2026-09-18T18:53:41.605Z"
-    },
-    {
-      "id": "20056",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 53.46,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T18:49:22.801Z"
     }
   ]
 }
