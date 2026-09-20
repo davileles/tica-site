@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-20T14:35:17.613Z",
+  "atualizadoEm": "2026-09-20T15:04:17.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20454",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/9zxtEuiLtQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 330,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-20T15:02:15.936Z"
+    },
+    {
+      "id": "20451",
+      "loja": "Mercado Livre",
+      "titulo": "Leva 3 bermudas de tactel com um precinho que não dá pra acreditar.",
+      "link": "https://meli.la/1bv26E3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978892-MLB83729493149_042025-O.webp",
+      "preco": 46.88999999999999,
+      "precoDe": 131.48,
+      "desconto": 49,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-20T14:53:15.588Z"
+    },
+    {
+      "id": "20450",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 157.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T14:45:59.434Z"
+    },
+    {
+      "id": "20448",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis De Corrida Masculino Duramo Rc 2 Adidas",
+      "link": "https://meli.la/1SLyubQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776808-MLB89711148085_082025-O.webp",
+      "preco": 279.99,
+      "precoDe": 379.99,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T14:42:35.470Z"
+    },
     {
       "id": "20450",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 35,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-19T11:52:58.501Z"
-    },
-    {
-      "id": "20210",
-      "loja": "Shopee",
-      "titulo": "10M tecido para decoração  chita, chitão,euroleen 100% poliéster  (10,00m x 1,50m )",
-      "link": "https://s.shopee.com.br/40geHdZyij",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl0o31l70g10f_tn",
-      "preco": 55.989999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TXLM46QKVA",
-      "enviadoEm": "2026-09-19T11:49:31.984Z"
-    },
-    {
-      "id": "20209",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Feminina Dry Fit Proteção Uv50+ Academia Caminhada",
-      "link": "https://meli.la/14B5jbW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689707-MLB114545781500_082026-O.webp",
-      "preco": 34.05,
-      "precoDe": 49.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T11:46:12.709Z"
-    },
-    {
-      "id": "20205",
-      "loja": "Shopee",
-      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
-      "link": "https://s.shopee.com.br/6L4Z2NdTXb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
-      "preco": 10.149999999999999,
-      "precoDe": 42.3,
-      "desconto": 70,
-      "cupom": "SHOPEE20BAF",
-      "enviadoEm": "2026-09-19T11:25:18.185Z"
-    },
-    {
-      "id": "20202",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Light T-shirt Insider Masculino",
-      "link": "https://meli.la/2nKY1UA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638890-MLB112361363786_062026-O.webp",
-      "preco": 63.96,
-      "precoDe": 189,
-      "desconto": 59,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T11:11:50.179Z"
     }
   ]
 }
