@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-20T13:15:43.355Z",
+  "atualizadoEm": "2026-09-20T13:43:59.776Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20439",
+      "loja": "Shopee",
+      "titulo": "Jaqueta De Algodão Quente Com Zíper L-5XL Casaco De Lã Gola De Inverno Para Homens .",
+      "link": "https://s.shopee.com.br/1LfuoporWE",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp24prvw74sv2a_tn",
+      "preco": 59,
+      "precoDe": 158,
+      "desconto": 50,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-20T13:33:59.774Z"
+    },
+    {
+      "id": "20438",
+      "loja": "Amazon",
+      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
+      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
+      "preco": 35.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T13:30:21.608Z"
+    },
+    {
+      "id": "20437",
+      "loja": "Mercado Livre",
+      "titulo": "Espelho Redondo 80cm Com Pendurador Para Parede",
+      "link": "https://meli.la/21ubsxn",
+      "imagem": null,
+      "preco": 138.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BATEUPRONTOCUPOM",
+      "enviadoEm": "2026-09-20T13:26:57.150Z"
+    },
+    {
+      "id": "20436",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Jogo De Ferramentas 300 Peças C/ Maleta Multiuso + Epis",
+      "link": "https://meli.la/21GwnWr",
+      "imagem": null,
+      "preco": 78.99,
+      "precoDe": 121.39,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T13:23:16.105Z"
+    },
     {
       "id": "20434",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-09-18T21:59:16.135Z"
-    },
-    {
-      "id": "20167",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Descanso Para bebê Nap Time 0-11kgs Rosa Cinto de 3 pontos Com Acessórios Interativos Multikids Baby BB291",
-      "link": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51AZ42g1FxL._SL400_.jpg",
-      "preco": 118.98,
-      "precoDe": 299.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T21:55:54.634Z"
-    },
-    {
-      "id": "20164",
-      "loja": "Amazon",
-      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE, Galaxy AI, Titânio Aeroespacial, Titânio Cinza",
-      "link": "https://www.amazon.com.br/dp/B0FJPQ3VPM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-HCrGjZML._SL400_.jpg",
-      "preco": 1999,
-      "precoDe": 4999,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T21:52:18.868Z"
-    },
-    {
-      "id": "20163",
-      "loja": "Amazon",
-      "titulo": "Balança com Bioimpedância Bio Health Multi Saúde - HC059N",
-      "link": "https://www.amazon.com.br/dp/B0CM6RMYMQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21Y53VINd4L._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 159.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T21:48:42.813Z"
-    },
-    {
-      "id": "20162",
-      "loja": "Amazon",
-      "titulo": "GGB Brinquedo Blocos de Montar Kit com 24 Peças Coloridas",
-      "link": "https://www.amazon.com.br/dp/B09MJRRL2R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41b5vGMhRbL._SL400_.jpg",
-      "preco": 13,
-      "precoDe": 22.03,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T21:45:23.578Z"
     }
   ]
 }
