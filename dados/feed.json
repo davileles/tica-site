@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-20T11:46:43.353Z",
+  "atualizadoEm": "2026-09-20T12:15:43.353Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20412",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
+      "link": "https://meli.la/1na5zcz",
+      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
+      "preco": 289,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T12:13:50.215Z"
+    },
+    {
+      "id": "20410",
+      "loja": "Mercado Livre",
+      "titulo": "Cortina Rolo Blackout De Medida 1,40x1,40 Blecaute 0% Luz",
+      "link": "https://meli.la/2X5j9Yz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795655-MLB77974779835_072024-O.webp",
+      "preco": 138.88,
+      "precoDe": 191.9,
+      "desconto": 4,
+      "cupom": "BARRATINHOAQUI",
+      "enviadoEm": "2026-09-20T12:09:39.528Z"
+    },
+    {
+      "id": "20407",
+      "loja": "Shopee",
+      "titulo": "Mesa Para Home Office de Apoio de Sofá Notebook Estudos",
+      "link": "https://s.shopee.com.br/6L4afqNkZN",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raui-mabcf5ytxnp034_tn",
+      "preco": 76.98,
+      "precoDe": 93.88,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T12:02:56.720Z"
+    },
     {
       "id": "20404",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 48,
       "cupom": "20BRINCA",
       "enviadoEm": "2026-09-18T20:14:42.100Z"
-    },
-    {
-      "id": "20116",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Educativo Trenzinho De Madeira Com Ímã Montessori",
-      "link": "https://meli.la/2d8czyn",
-      "imagem": null,
-      "preco": 24.99,
-      "precoDe": 30.99,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:13:38.660Z"
-    },
-    {
-      "id": "20109",
-      "loja": "Mercado Livre",
-      "titulo": "Piscina Tapete Fonte Chafariz Infantil Animais Pet 1m",
-      "link": "https://meli.la/1tHpfv4",
-      "imagem": null,
-      "preco": 35.97,
-      "precoDe": 57.1,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:12:44.667Z"
-    },
-    {
-      "id": "20105",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta BMX 20\" Pro-X Série 1 Aço Carbono Freio V-Brake Azul",
-      "link": "https://meli.la/1UXvWkb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936416-MLA99962582289_112025-F.jpg",
-      "preco": 466.58,
-      "precoDe": 799,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:11:49.692Z"
     }
   ]
 }
