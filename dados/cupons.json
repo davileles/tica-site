@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T23:31:40.961Z",
+  "atualizadoEm": "2026-09-20T01:01:41.119Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -612,6 +612,18 @@
       "limite": null,
       "observacao": "Cupom para Magalu Mercado",
       "validadeAte": "2026-09-20T17:56:59.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SAUDADE40",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-21T00:55:02.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
