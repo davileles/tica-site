@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T16:55:10.980Z",
+  "atualizadoEm": "2026-09-20T17:04:17.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20489",
+      "loja": "Shopee",
+      "titulo": "Kit Zípers de Reparo Universal Conserto Instantâneo Sem costura Prático",
+      "link": "https://s.shopee.com.br/8fSVmIFpWH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1u55wybuzze95_tn",
+      "preco": 10.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:56:23.444Z"
+    },
     {
       "id": "20488",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 69,
       "cupom": "0F35T4S3CUP0M",
       "enviadoEm": "2026-09-19T13:24:43.298Z"
-    },
-    {
-      "id": "20262",
-      "loja": "Amazon",
-      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.08,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T13:14:50.866Z"
     }
   ]
 }
