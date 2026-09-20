@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T03:31:41.154Z",
+  "atualizadoEm": "2026-09-20T09:31:41.157Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -984,6 +984,18 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-10-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BARRATINHOAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-09-21T09:23:20.019Z",
       "url": "https://meli.la/2xystLt"
     },
     {
