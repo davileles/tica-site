@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T21:21:50.184Z",
+  "atualizadoEm": "2026-09-20T21:34:17.622Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20530",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Bermudas 2 Em 1 Masculino Corrida Academia Treino",
+      "link": "https://meli.la/2YmfLro",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814442-MLB111037471262_052026-O.webp",
+      "preco": 96.02,
+      "precoDe": 179.9,
+      "desconto": 37,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-20T21:30:12.586Z"
+    },
     {
       "id": "20528",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-09-19T15:44:07.328Z"
-    },
-    {
-      "id": "20296",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Wella Professionals Invigo Nutri-enrich Trio Pequeno",
-      "link": "https://meli.la/2V3nPgZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997511-MLA99827391437_112025-F.jpg",
-      "preco": 194,
-      "precoDe": 350,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:40:37.197Z"
     }
   ]
 }
