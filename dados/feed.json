@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-20T12:15:43.353Z",
+  "atualizadoEm": "2026-09-20T12:45:43.354Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20425",
+      "loja": "Mercado Livre",
+      "titulo": "Whey Protein Concentrado - Pote 900g Dux Nutrition - Sabor Chocolate",
+      "link": "https://meli.la/2WnmZs6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728880-MLA107260069950_032026-F.jpg",
+      "preco": 182.69,
+      "precoDe": 344,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T12:42:21.020Z"
+    },
+    {
+      "id": "20419",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Prateleiras Arredondadas De 60x15 Suporte Invisível",
+      "link": "https://meli.la/1TDB6C9",
+      "imagem": null,
+      "preco": 130.88,
+      "precoDe": 193.9,
+      "desconto": 10,
+      "cupom": "BARRATINHOAQUI",
+      "enviadoEm": "2026-09-20T12:34:25.536Z"
+    },
+    {
+      "id": "20418",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+      "link": "https://meli.la/2F5vUDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-F.jpg",
+      "preco": 380.04999999999995,
+      "precoDe": 712.86,
+      "desconto": 41,
+      "cupom": "OFFHOJE",
+      "enviadoEm": "2026-09-20T12:30:52.035Z"
+    },
+    {
+      "id": "20417",
+      "loja": "Mercado Livre",
+      "titulo": "Kaiak Urbe Natura Desodorante Colônia Perfume Masculino Original 100ml",
+      "link": "https://meli.la/316NWTL",
+      "imagem": null,
+      "preco": 79.13,
+      "precoDe": 170.9,
+      "desconto": 49,
+      "cupom": "TODOSITE2009",
+      "enviadoEm": "2026-09-20T12:27:18.837Z"
+    },
+    {
+      "id": "20416",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
+      "link": "https://s.shopee.com.br/3VkPJnrqdJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
+      "preco": 25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T12:20:51.948Z"
+    },
+    {
+      "id": "20414",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
+      "preco": 37.51,
+      "precoDe": 69.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T12:17:24.629Z"
+    },
     {
       "id": "20412",
       "loja": "Mercado Livre",
@@ -951,18 +1023,6 @@
       "enviadoEm": "2026-09-19T12:41:22.125Z"
     },
     {
-      "id": "20241",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
-      "preco": 37.89,
-      "precoDe": 69.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T12:37:58.074Z"
-    },
-    {
       "id": "20239",
       "loja": "Mercado Livre",
       "titulo": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
@@ -1381,66 +1441,6 @@
       "desconto": 58,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T20:52:50.358Z"
-    },
-    {
-      "id": "20131",
-      "loja": "Amazon",
-      "titulo": "Condicionador Pantene Equilíbrio 150ml",
-      "link": "https://www.amazon.com.br/dp/B0CBDH19YL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fNSsCvrjL._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 16.85,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:43:21.583Z"
-    },
-    {
-      "id": "20125",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 17 Pro Max (512 GB) - Prateado",
-      "link": "https://www.amazon.com.br/dp/B0FQH3X8R8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31L7O+9pfcL._SL400_.jpg",
-      "preco": 10892.26,
-      "precoDe": 13999,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:33:44.308Z"
-    },
-    {
-      "id": "20123",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/2LYNZ1PQfD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 59,
-      "precoDe": 197.5,
-      "desconto": 60,
-      "cupom": "TXLM46QKVA",
-      "enviadoEm": "2026-09-18T20:30:09.049Z"
-    },
-    {
-      "id": "20118",
-      "loja": "Shopee",
-      "titulo": "Kit 3x Caixas Bombom Moranguete com 12un de 9g Bel Sabor Morango com Cobertura Sabor Chocolate",
-      "link": "https://s.shopee.com.br/2VrpT9IWG5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mo8byeeffsaqea_tn",
-      "preco": 19.35,
-      "precoDe": 29.77,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:20:05.546Z"
-    },
-    {
-      "id": "20117",
-      "loja": "Amazon",
-      "titulo": "Casa de Bonecas Barbie Malibu Dois Andares Rosa Mattel",
-      "link": "https://www.amazon.com.br/dp/B09QLH5SHB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Ohl28JDsL._SL400_.jpg",
-      "preco": 479.99,
-      "precoDe": 1159.99,
-      "desconto": 48,
-      "cupom": "20BRINCA",
-      "enviadoEm": "2026-09-18T20:14:42.100Z"
     }
   ]
 }
