@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-20T15:44:46.421Z",
+  "atualizadoEm": "2026-09-20T16:04:17.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20478",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Ultra 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CQD3CQHY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-nWL7sdWL._SL400_.jpg",
+      "preco": 53.94,
+      "precoDe": 62.94,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:03:28.518Z"
+    },
+    {
+      "id": "20476",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Grand Court Base 3.0 Adidas",
+      "link": "https://meli.la/2MLJKMH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744275-MLB104668646911_012026-O.webp",
+      "preco": 296.99,
+      "precoDe": 349.99,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:00:04.545Z"
+    },
+    {
+      "id": "20475",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Gkd Zero Transparência Legging Cós Alto Top Duplo",
+      "link": "https://meli.la/1XX2t1c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861485-MLB108325937552_032026-O.webp",
+      "preco": 41.99,
+      "precoDe": 84.99,
+      "desconto": 29,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-20T15:56:53.286Z"
+    },
+    {
+      "id": "20474",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Sem Fio Makita Df001dw Com 80 Acessórios",
+      "link": "https://meli.la/1wc8oJH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940495-MLB102089800295_122025-O.webp",
+      "preco": 361.71,
+      "precoDe": 513.63,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T15:53:20.417Z"
+    },
+    {
+      "id": "20472",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/1AXNjJdQW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 39.33,
+      "precoDe": 66.66,
+      "desconto": 26,
+      "cupom": "R4P1D1NH0",
+      "enviadoEm": "2026-09-20T15:48:54.982Z"
+    },
     {
       "id": "20470",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 29,
       "cupom": "PROMOHOJE",
       "enviadoEm": "2026-09-19T12:44:33.309Z"
-    },
-    {
-      "id": "20243",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas Philco Pmo123a 20l 1100w 127v",
-      "link": "https://meli.la/1gCZPhU",
-      "imagem": null,
-      "preco": 316.01,
-      "precoDe": 670,
-      "desconto": 48,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T12:41:22.125Z"
-    },
-    {
-      "id": "20239",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
-      "link": "https://meli.la/1Wfrysx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
-      "preco": 1619.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T12:34:43.695Z"
-    },
-    {
-      "id": "20234",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 484.67999999999995,
-      "precoDe": 1049,
-      "desconto": 49,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T12:31:28.544Z"
-    },
-    {
-      "id": "20233",
-      "loja": "Mercado Livre",
-      "titulo": "Deo Parfum Natura Una Instinct 75ml",
-      "link": "https://meli.la/1FkVLPn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892958-MLA84857035257_052025-F.jpg",
-      "preco": 89.57,
-      "precoDe": 319.9,
-      "desconto": 60,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-19T12:28:12.562Z"
-    },
-    {
-      "id": "20229",
-      "loja": "Mercado Livre",
-      "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
-      "link": "https://meli.la/18i82YF",
-      "imagem": null,
-      "preco": 84.99,
-      "precoDe": 299,
-      "desconto": 67,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-19T12:24:41.761Z"
     }
   ]
 }
