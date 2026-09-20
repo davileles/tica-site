@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T16:34:17.616Z",
+  "atualizadoEm": "2026-09-20T16:55:10.980Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20488",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Vl Court 3.0 Adidas",
+      "link": "https://meli.la/2kKv654",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975304-MLB114072768254_072026-O.webp",
+      "preco": 268.41,
+      "precoDe": 399.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:45:10.979Z"
+    },
+    {
+      "id": "20487",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Mojito 700ml",
+      "link": "https://www.amazon.com.br/dp/B0DLXNN8LM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31KYuZyiQoL._SL400_.jpg",
+      "preco": 33.31,
+      "precoDe": 45.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:39:19.579Z"
+    },
     {
       "id": "20484",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-09-19T13:14:50.866Z"
-    },
-    {
-      "id": "20259",
-      "loja": "Shopee",
-      "titulo": "Bateria selada 12v 4.5ah Planet Selada Recarregavel",
-      "link": "https://s.shopee.com.br/8KpdWBatAT",
-      "imagem": "https://cf.shopee.com.br/file/5a3c47c37f809c852f6ab2e1f1b42c39_tn",
-      "preco": 89.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TXLM46QKVA",
-      "enviadoEm": "2026-09-19T13:02:05.611Z"
-    },
-    {
-      "id": "20251",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas Philco Pmo123a 20l 1100w 127v",
-      "link": "https://meli.la/2RdPxYx",
-      "imagem": null,
-      "preco": 359.1,
-      "precoDe": 670,
-      "desconto": 40,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T12:55:33.711Z"
     }
   ]
 }
