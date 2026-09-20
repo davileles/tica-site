@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-20T20:04:17.621Z",
+  "atualizadoEm": "2026-09-20T20:27:18.332Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20522",
+      "loja": "Amazon",
+      "titulo": "Whisky Royal Salute 21 Anos 700ml",
+      "link": "https://www.amazon.com.br/dp/B001TZAO6U?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PqrmHPBDL._SL400_.jpg",
+      "preco": 809,
+      "precoDe": 999,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T20:17:18.330Z"
+    },
+    {
+      "id": "20521",
+      "loja": "Mercado Livre",
+      "titulo": "Secador De Cabelos Motor Ac Profissional Easy 1700w Taiff Preto",
+      "link": "https://meli.la/1dnQr4k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739630-MLA99499868524_112025-F.jpg",
+      "preco": 140.76,
+      "precoDe": 310.94,
+      "desconto": 50,
+      "cupom": "MODA2009",
+      "enviadoEm": "2026-09-20T20:13:48.074Z"
+    },
+    {
+      "id": "20520",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W de Potência com Bocal de Sopro",
+      "link": "https://meli.la/2SsKY6Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985627-MLA100060225801_122025-F.jpg",
+      "preco": 223.08,
+      "precoDe": 485.57,
+      "desconto": 49,
+      "cupom": "OFFHOJE",
+      "enviadoEm": "2026-09-20T20:10:36.920Z"
+    },
+    {
+      "id": "20518",
+      "loja": "Mercado Livre",
+      "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
+      "link": "https://meli.la/32dwMuq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-O.webp",
+      "preco": 131.55,
+      "precoDe": 212,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T20:06:24.191Z"
+    },
     {
       "id": "20516",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-09-19T15:37:33.794Z"
-    },
-    {
-      "id": "20291",
-      "loja": "Mercado Livre",
-      "titulo": "Blusa Moletom Umbro D. Essential Masculino",
-      "link": "https://meli.la/2DbY2kk",
-      "imagem": null,
-      "preco": 131.12,
-      "precoDe": 219.99,
-      "desconto": 27,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T15:30:49.839Z"
-    },
-    {
-      "id": "20290",
-      "loja": "Shopee",
-      "titulo": "Goma Gomets Sortido Dori 500g",
-      "link": "https://s.shopee.com.br/80CnHyWj7x",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825at-ms1t8jbg6ltw24_tn",
-      "preco": 8.57,
-      "precoDe": 12.24,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:27:14.423Z"
-    },
-    {
-      "id": "20289",
-      "loja": "Mercado Livre",
-      "titulo": "Mala de Bordo Rígida Sweet Studio Bege para Viagem, 55 cm, com Rodas Duplas e Cadeado",
-      "link": "https://meli.la/2EpX9Uj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813734-MLA112637790114_062026-F.jpg",
-      "preco": 135.12,
-      "precoDe": 289.99,
-      "desconto": 33,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-09-19T15:23:45.017Z"
-    },
-    {
-      "id": "20288",
-      "loja": "Shopee",
-      "titulo": "Jaqueta Masculina Forrada Peluciada do P ao G6",
-      "link": "https://s.shopee.com.br/40geW3eA8x",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-msykg0bri8skfd_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T15:20:25.232Z"
     }
   ]
 }
