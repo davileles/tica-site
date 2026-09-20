@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T03:01:41.204Z",
+  "atualizadoEm": "2026-09-20T03:31:41.154Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1116,6 +1116,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-20T15:01:28.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEMODAEBELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Válido em Moda e Beleza (selecionados)",
+      "validadeAte": "2026-09-21T03:00:50.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
