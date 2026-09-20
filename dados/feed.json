@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-19T22:31:40.667Z",
+  "atualizadoEm": "2026-09-20T11:12:48.236Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20392",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Premium Dermacare XG - 38 Un",
+      "link": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fgx9coSQL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 106.4,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T11:06:03.028Z"
+    },
+    {
+      "id": "20391",
+      "loja": "Mercado Livre",
+      "titulo": "Basike Fone De Ouvido Sem Fio Esportivo Bluetooth6.0 Tws, Corrida Gancho, À Prova D&#x27;água, Com Gan, Tela Led Dupla, Suporta Chamadas De Voz, Adequadas Para Android E Ios, Cor P",
+      "link": "https://meli.la/11BHeiJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785284-MLA99986240343_112025-O.webp",
+      "preco": 116.58999999999999,
+      "precoDe": 299,
+      "desconto": 50,
+      "cupom": "DESCONTOJUSTO",
+      "enviadoEm": "2026-09-20T11:04:57.383Z"
+    },
+    {
+      "id": "20390",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Ferramentas Bosch Kit X-line 70 Peças Titânio",
+      "link": "https://meli.la/1qEWgFz",
+      "imagem": null,
+      "preco": 189.99,
+      "precoDe": 304.73,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T11:01:35.545Z"
+    },
+    {
+      "id": "20389",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
+      "preco": 49.99,
+      "precoDe": 71.67,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T11:00:26.741Z"
+    },
     {
       "id": "20378",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 45,
       "cupom": "SHOPEE20BAF",
       "enviadoEm": "2026-09-18T19:43:26.392Z"
-    },
-    {
-      "id": "20090",
-      "loja": "Amazon",
-      "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista gigante com lançador, rampas e ataque do T-Rex motorizado. Para crianças a partir de 4 anos.",
-      "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Uewj7cHrL._SL400_.jpg",
-      "preco": 899.99,
-      "precoDe": 1359.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:40:01.633Z"
-    },
-    {
-      "id": "20089",
-      "loja": "Mercado Livre",
-      "titulo": "Saída Maternidade 6 Peças Nossa Senhora Aparecida Personalizado",
-      "link": "https://meli.la/1CF8mdq",
-      "imagem": null,
-      "preco": 281.08,
-      "precoDe": 349,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:39:03.289Z"
-    },
-    {
-      "id": "20088",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Infantil Social Festa Confortável (20 a 27)",
-      "link": "https://meli.la/2K7nFVV",
-      "imagem": null,
-      "preco": 76.61,
-      "precoDe": 109.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:38:00.639Z"
-    },
-    {
-      "id": "20087",
-      "loja": "Amazon",
-      "titulo": "NUK Copo Treinamento Fc Temp. Control 150 Ml - Neutral Branco",
-      "link": "https://www.amazon.com.br/dp/B08KBH3W1X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Dmm-hdWbL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 79.07,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T19:36:57.489Z"
     }
   ]
 }
