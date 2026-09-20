@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T19:49:57.951Z",
+  "atualizadoEm": "2026-09-20T20:04:17.621Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20516",
+      "loja": "Shopee",
+      "titulo": "Regata feminina adulto kit 2 unidades cores variadas malha premium academia e dia a dia",
+      "link": "https://s.shopee.com.br/6fhRbAPx9G",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mp9xiwp3c3k0c4_tn",
+      "preco": 22.48,
+      "precoDe": 54.83,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T19:59:11.583Z"
+    },
     {
       "id": "20513",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "0F35T4S3CUP0M",
       "enviadoEm": "2026-09-19T15:20:25.232Z"
-    },
-    {
-      "id": "20287",
-      "loja": "Amazon",
-      "titulo": "Isotônico Gatorade, Limão, Garrafa 500ml, Pack com 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGY4QBRK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kcUcma7EL._SL400_.jpg",
-      "preco": 28.51,
-      "precoDe": 32.94,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:17:04.975Z"
     }
   ]
 }
