@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T22:04:17.624Z",
+  "atualizadoEm": "2026-09-20T22:34:17.624Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20541",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Feminina Manga Curta Super Cotton Hering",
+      "link": "https://meli.la/226gmft",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_754826-MLB112700917117_062026-O.webp",
+      "preco": 50.99,
+      "precoDe": 89.99,
+      "desconto": 33,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-20T22:28:08.295Z"
+    },
+    {
+      "id": "20540",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo Lençol Casal 3pç 400 Fios Hipercal Conforto Macio Cor Azul-marinho Desenho do tecido Liso",
+      "link": "https://meli.la/1Hh9CM8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613311-MLA114198186300_082026-F.jpg",
+      "preco": 27,
+      "precoDe": 51.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T22:20:43.099Z"
+    },
     {
       "id": "20535",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 58,
       "cupom": "PAGUEMENOSJA",
       "enviadoEm": "2026-09-19T16:01:09.948Z"
-    },
-    {
-      "id": "20303",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Camisetas Aramis Preta/branca/azul Marinho - Original",
-      "link": "https://meli.la/2X7HSEd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899500-MLB100376210522_122025-O.webp",
-      "preco": 269.69,
-      "precoDe": 675.99,
-      "desconto": 53,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T15:57:31.941Z"
-    },
-    {
-      "id": "20302",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Phase Small Sports Puma",
-      "link": "https://meli.la/1kC6NHZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_972259-MLA99998688341_112025-F.jpg",
-      "preco": 124.63000000000001,
-      "precoDe": 229.99,
-      "desconto": 34,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T15:54:09.339Z"
     }
   ]
 }
