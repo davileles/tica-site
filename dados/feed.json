@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T18:15:58.250Z",
+  "atualizadoEm": "2026-09-20T18:34:17.617Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20504",
+      "loja": "Shopee",
+      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
+      "link": "https://s.shopee.com.br/905MHDsftP",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
+      "preco": 25.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T18:29:16.525Z"
+    },
+    {
+      "id": "20503",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 74.9,
+      "precoDe": 117.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T18:26:01.338Z"
+    },
     {
       "id": "20501",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-09-19T14:48:57.033Z"
-    },
-    {
-      "id": "20278",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T14:48:02.627Z"
-    },
-    {
-      "id": "20274",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/1AVha9xBU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.980000000000004,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T14:32:30.756Z"
     }
   ]
 }
