@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T21:34:17.622Z",
+  "atualizadoEm": "2026-09-20T21:49:43.813Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20533",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina Acabamento Kemei KM-032 Barba Cabelo Bivolt",
+      "link": "https://meli.la/31xbzeh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936620-MLA96756403100_112025-F.jpg",
+      "preco": 37.63,
+      "precoDe": 78.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T21:39:43.806Z"
+    },
+    {
+      "id": "20531",
+      "loja": "Amazon",
+      "titulo": "Powermaid Mop Spray com Gatilho e Dispenser para Produtos",
+      "link": "https://www.amazon.com.br/dp/B0BPK5SJW6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21OLNq8v1CL._SL400_.jpg",
+      "preco": 35.3,
+      "precoDe": 61.02,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T21:35:30.152Z"
+    },
     {
       "id": "20530",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-19T15:50:53.350Z"
-    },
-    {
-      "id": "20298",
-      "loja": "Shopee",
-      "titulo": "Baggio Café Cappuccino - 200g",
-      "link": "https://s.shopee.com.br/905KUyQIr6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9msleucgef3c_tn",
-      "preco": 16.9,
-      "precoDe": 19.88,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:47:38.112Z"
-    },
-    {
-      "id": "20297",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Marmitas 900ml com Travas Potes Herméticos - Livres de BPA para Alimentos organiza congelador",
-      "link": "https://s.shopee.com.br/9zxrgnipTw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-ms4svnxflfd31d_tn",
-      "preco": 36.9,
-      "precoDe": 80.22,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:44:07.328Z"
     }
   ]
 }
