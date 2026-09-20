@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T17:04:17.616Z",
+  "atualizadoEm": "2026-09-20T17:28:52.859Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20495",
+      "loja": "Shopee",
+      "titulo": "Massageador Elétrico 6 em 1 Corporal Potente Ergonômico Multifuncional Terapia 10 Velocidades",
+      "link": "https://s.shopee.com.br/6fhRQA6axo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mr6qsdj7sydi4b_tn",
+      "preco": 175.98,
+      "precoDe": 244.42,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T17:18:52.855Z"
+    },
+    {
+      "id": "20494",
+      "loja": "Amazon",
+      "titulo": "Vinho Francês Merlot Tinto Garrafa 750ml - J.P Chenet",
+      "link": "https://www.amazon.com.br/dp/B003CG2NI6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TmlCK2+-L._SL400_.jpg",
+      "preco": 85.39,
+      "precoDe": 109.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T17:14:57.267Z"
+    },
     {
       "id": "20489",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-09-19T13:47:14.038Z"
-    },
-    {
-      "id": "20265",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Carta Blanca 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
-      "preco": 36.56,
-      "precoDe": 52.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T13:37:34.701Z"
-    },
-    {
-      "id": "20263",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/5LC1yjMvww",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 79.99,
-      "precoDe": 322.55,
-      "desconto": 69,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T13:24:43.298Z"
     }
   ]
 }
