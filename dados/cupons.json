@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T17:28:54.925Z",
+  "atualizadoEm": "2026-09-20T18:04:20.019Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -579,18 +579,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CUPOMLUMERCADO",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 80,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para Magalu Mercado",
-      "validadeAte": "2026-09-20T17:56:59.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "SAUDADE40",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -613,6 +601,18 @@
       "observacao": null,
       "validadeAte": "2026-09-21T11:36:06.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TVS2009",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-21T18:00:17.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
@@ -1131,6 +1131,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELHORCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Reativado pelo operador — confirmado ativo no ML em 20/09",
+      "validadeAte": "2026-09-21T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MOBILIA2009",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,6 +1248,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-09-21T15:01:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA2009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-21T18:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
