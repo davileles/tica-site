@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-20T17:28:52.859Z",
+  "atualizadoEm": "2026-09-20T18:04:17.618Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20492",
+      "loja": "Mercado Livre",
+      "titulo": "Confiram este conjunto com 3 Camisetas Femininas Polo Wear.",
+      "link": "https://meli.la/1NnPDHx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878306-MLB115772250123_082026-O.webp",
+      "preco": 71.4,
+      "precoDe": 199.99,
+      "desconto": 64,
+      "cupom": "PAGUEMENOSJA",
+      "enviadoEm": "2026-09-20T17:56:05.648Z"
+    },
+    {
+      "id": "20499",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Tabasco 750ml",
+      "link": "https://www.amazon.com.br/dp/B0F6B9J986?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NnJstSriL._SL400_.jpg",
+      "preco": 74.9,
+      "precoDe": 117.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T17:50:30.293Z"
+    },
+    {
+      "id": "20498",
+      "loja": "Shopee",
+      "titulo": "Mini Blocos de Montar Cachorro Fofo Kawaii Presente Pinscher Poodle Shiba Ibu Schnauzer Infantil",
+      "link": "https://s.shopee.com.br/4B06T73nh9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mrr89ftyrwnad8_tn",
+      "preco": 17.99,
+      "precoDe": 29.98,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T17:41:32.405Z"
+    },
     {
       "id": "20495",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-19T14:23:26.591Z"
-    },
-    {
-      "id": "20271",
-      "loja": "Shopee",
-      "titulo": "Conjunto Moletom Infantil Canguru Brooklyn New York 1989  Calça Conjunto Inverno Quentinho Estiloso",
-      "link": "https://s.shopee.com.br/gQCTFBbid",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mnk1nztbj2ted2_tn",
-      "preco": 55.349999999999994,
-      "precoDe": 129.91,
-      "desconto": 42,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T14:09:50.018Z"
-    },
-    {
-      "id": "20269",
-      "loja": "Amazon",
-      "titulo": "Vodka Skyy 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
-      "preco": 27.39,
-      "precoDe": 46.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T14:00:41.187Z"
-    },
-    {
-      "id": "20266",
-      "loja": "Shopee",
-      "titulo": "Colchão Inflável Queen Casal KAYOOSI Elétrico 203x152x40cm com Bomba Embutida  Cama De Campanha",
-      "link": "https://s.shopee.com.br/1LftEvPdxA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm0ksn1gpvn4b_tn",
-      "preco": 318,
-      "precoDe": 600,
-      "desconto": 42,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-09-19T13:47:14.038Z"
     }
   ]
 }
