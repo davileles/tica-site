@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T19:04:17.618Z",
+  "atualizadoEm": "2026-09-20T19:24:13.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20510",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
+      "link": "https://s.shopee.com.br/905MKMflJm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
+      "preco": 32.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T19:14:13.919Z"
+    },
     {
       "id": "20508",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "SITETODO1909",
       "enviadoEm": "2026-09-19T14:59:03.976Z"
-    },
-    {
-      "id": "20280",
-      "loja": "Shopee",
-      "titulo": "jaqueta masculina de sarja toda forrada por dentro com capus removível",
-      "link": "https://s.shopee.com.br/8pluFNTwOc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lunnr64z39et7a_tn",
-      "preco": 123.99000000000001,
-      "precoDe": 179.06,
-      "desconto": 14,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-09-19T14:55:21.545Z"
     }
   ]
 }
