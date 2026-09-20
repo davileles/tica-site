@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T15:34:17.615Z",
+  "atualizadoEm": "2026-09-20T15:44:46.421Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20470",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Esportivo Tribase Reps Under Armour pgray Liso 40",
+      "link": "https://meli.la/1DkVH9g",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700881-MLA99481398878_112025-F.jpg",
+      "preco": 319.99,
+      "precoDe": 499.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T15:34:46.419Z"
+    },
     {
       "id": "20469",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": "MELHORCUPOM",
       "enviadoEm": "2026-09-19T12:24:41.761Z"
-    },
-    {
-      "id": "20228",
-      "loja": "Shopee",
-      "titulo": "3 Pacotes  Lenços Panos Umedecidos Cuidado Para as Mãos Álcool Coperalcool ( 3 x 50 Unidades )",
-      "link": "https://s.shopee.com.br/20vZvd1eK2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqpy6uh5yl547_tn",
-      "preco": 59.980000000000004,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TXLM46QKVA",
-      "enviadoEm": "2026-09-19T12:21:28.472Z"
     }
   ]
 }
