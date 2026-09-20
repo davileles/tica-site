@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-20T16:21:23.440Z",
+  "atualizadoEm": "2026-09-20T16:34:17.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20484",
+      "loja": "Shopee",
+      "titulo": "Kit Pampers Glicerina Shampoo 350ml + Condicionador 200ml + Loção Hidratante 350ml + Sabonete Líquido 200ml",
+      "link": "https://s.shopee.com.br/BTxd7uJ7n",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g3-mptqk2z79y4v6b_tn",
+      "preco": 115.69999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "0F35T4S3CUP0M",
+      "enviadoEm": "2026-09-20T16:33:49.241Z"
+    },
+    {
+      "id": "20482",
+      "loja": "Mercado Livre",
+      "titulo": "Tupia manual 530 watts com pinça de 6mm M3700b Makita",
+      "link": "https://meli.la/2UHsRQy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628815-MLA113722227463_062026-F.jpg",
+      "preco": 399.45,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:26:35.840Z"
+    },
+    {
+      "id": "20481",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Grand Court Base 3.0 Adidas",
+      "link": "https://meli.la/2HoUKcv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927974-MLB115073143387_072026-O.webp",
+      "preco": 349.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T16:22:43.870Z"
+    },
     {
       "id": "20480",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 40,
       "cupom": "PROMOHOJE",
       "enviadoEm": "2026-09-19T12:55:33.711Z"
-    },
-    {
-      "id": "20250",
-      "loja": "Amazon",
-      "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
-      "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31S4Jlf1aeL._SL400_.jpg",
-      "preco": 66.56,
-      "precoDe": 123.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T12:52:06.975Z"
-    },
-    {
-      "id": "20249",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
-      "link": "https://meli.la/2JzchhC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741585-MLA108095507002_032026-F.jpg",
-      "preco": 121.7,
-      "precoDe": 249.9,
-      "desconto": 46,
-      "cupom": "SITETODO1909",
-      "enviadoEm": "2026-09-19T12:48:48.590Z"
-    },
-    {
-      "id": "20247",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ziNqPIFlL._SL400_.jpg",
-      "preco": 219,
-      "precoDe": 289,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T12:45:27.025Z"
     }
   ]
 }
