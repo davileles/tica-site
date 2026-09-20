@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-20T18:34:17.617Z",
+  "atualizadoEm": "2026-09-20T19:04:17.618Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20508",
+      "loja": "Amazon",
+      "titulo": "Vodka Dubar Zvonka Melancia 900 ml",
+      "link": "https://www.amazon.com.br/dp/B0H4NNZR1P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31agbOvb3ML._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T19:01:22.926Z"
+    },
+    {
+      "id": "20507",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/70KGVEJPkI",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T18:51:36.356Z"
+    },
     {
       "id": "20504",
       "loja": "Shopee",
@@ -915,18 +939,6 @@
       "enviadoEm": "2026-09-19T21:53:58.614Z"
     },
     {
-      "id": "20368",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/70KGVEJPkI",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 54.989999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T21:31:33.636Z"
-    },
-    {
       "id": "20365",
       "loja": "Shopee",
       "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
@@ -1429,18 +1441,6 @@
       "desconto": 14,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-09-19T14:55:21.545Z"
-    },
-    {
-      "id": "20279",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gtkGdKp9L._SL400_.jpg",
-      "preco": 55.19,
-      "precoDe": 64.98,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T14:48:57.033Z"
     }
   ]
 }
