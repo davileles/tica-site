@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T11:42:48.236Z",
+  "atualizadoEm": "2026-09-20T11:46:43.353Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20404",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/70KHRtJpgn",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 42.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "R4P1D1NH0",
+      "enviadoEm": "2026-09-20T11:45:37.095Z"
+    },
     {
       "id": "20402",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-18T20:11:49.692Z"
-    },
-    {
-      "id": "20104",
-      "loja": "Mercado Livre",
-      "titulo": "Sapatinho Bebê Tênis Menino Bebêmania Direto Da Fabrica71305",
-      "link": "https://meli.la/1YtyZse",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685233-MLA104754891923_012026-O.webp",
-      "preco": 21.9,
-      "precoDe": 35.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-18T20:08:19.761Z"
     }
   ]
 }
