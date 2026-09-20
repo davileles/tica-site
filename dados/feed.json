@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T21:49:43.813Z",
+  "atualizadoEm": "2026-09-20T22:04:17.624Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20535",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l",
+      "link": "https://meli.la/2UroscM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652495-MLA97031196806_112025-F.jpg",
+      "preco": 250,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MODA2009",
+      "enviadoEm": "2026-09-20T21:54:23.376Z"
+    },
     {
       "id": "20533",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": "PAGUEMENOSJA",
       "enviadoEm": "2026-09-19T15:54:09.339Z"
-    },
-    {
-      "id": "20299",
-      "loja": "Amazon",
-      "titulo": "Dr. Peanut Pasta de Amendoim Bueníssimo 250g - Com Whey Protein",
-      "link": "https://www.amazon.com.br/dp/B0BKH7R8Y2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BXOd5WiiL._SL400_.jpg",
-      "preco": 17.39,
-      "precoDe": 24.6,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:50:53.350Z"
     }
   ]
 }
