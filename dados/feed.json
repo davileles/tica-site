@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T18:04:17.618Z",
+  "atualizadoEm": "2026-09-20T18:15:58.250Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20501",
+      "loja": "Shopee",
+      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
+      "link": "https://s.shopee.com.br/7fZyf5e1mE",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
+      "preco": 79,
+      "precoDe": 197.5,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-20T18:05:58.249Z"
+    },
     {
       "id": "20492",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": "0F35T4S3CUP0M",
       "enviadoEm": "2026-09-19T14:32:30.756Z"
-    },
-    {
-      "id": "20272",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 122.47,
-      "precoDe": 174.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T14:23:26.591Z"
     }
   ]
 }
