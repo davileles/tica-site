@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T20:27:18.332Z",
+  "atualizadoEm": "2026-09-20T21:21:50.184Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20528",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Shammy 2.0 Olympikus",
+      "link": "https://meli.la/1DoaYCg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945290-MLA92733484239_092025-F.jpg",
+      "preco": 52.47,
+      "precoDe": 139.99,
+      "desconto": 63,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-20T21:11:50.181Z"
+    },
     {
       "id": "20522",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-19T15:40:37.197Z"
-    },
-    {
-      "id": "20295",
-      "loja": "Mercado Livre",
-      "titulo": "Barra Whey Grego 40g Display com 12 unidades Morango com Chantilly Nutrata",
-      "link": "https://meli.la/29K4nUP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815130-MLA115386149009_072026-F.jpg",
-      "preco": 63,
-      "precoDe": 85.5,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T15:37:33.794Z"
     }
   ]
 }
