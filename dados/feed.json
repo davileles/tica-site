@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T22:34:17.624Z",
+  "atualizadoEm": "2026-09-20T23:02:14.174Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20546",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
+      "link": "https://meli.la/1vWBfPf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.webp",
+      "preco": 109.65,
+      "precoDe": 338,
+      "desconto": 62,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-20T22:52:14.171Z"
+    },
     {
       "id": "20541",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 29,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-19T16:04:45.909Z"
-    },
-    {
-      "id": "20305",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Puffer Bobojaco De Frio Blusa Impermeável Inverno",
-      "link": "https://meli.la/1oi2hR6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988027-MLB112888122117_062026-O.webp",
-      "preco": 45.019999999999996,
-      "precoDe": 129.9,
-      "desconto": 58,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T16:01:09.948Z"
     }
   ]
 }
