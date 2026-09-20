@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T13:15:45.428Z",
+  "atualizadoEm": "2026-09-20T15:04:19.806Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,6 +1131,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MOBILIA2009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-21T15:01:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1200,6 +1212,18 @@
       "limite": 25,
       "observacao": null,
       "validadeAte": "2026-09-21T12:00:51.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-21T15:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
