@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T02:31:41.107Z",
+  "atualizadoEm": "2026-09-20T03:01:41.204Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1092,18 +1092,6 @@
       "limite": 100,
       "observacao": "Desconto de R$ 106,98 (de R$ 157,98 para R$ 51,00). Cupom MELITUDOBOM garante o valor. Pagamento em Pix.",
       "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODARESGATE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 35,
-      "observacao": "Válido em produtos selecionados conforme lista",
-      "validadeAte": "2026-09-20T03:00:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
