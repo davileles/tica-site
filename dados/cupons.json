@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T11:42:50.398Z",
+  "atualizadoEm": "2026-09-20T12:15:45.781Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1203,15 +1203,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOHOJE",
+      "codigo": "OFFHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
       "minimo": 149,
       "maximo": null,
       "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-21T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 25,
       "observacao": null,
-      "validadeAte": "2026-09-20T12:00:00.000Z",
+      "validadeAte": "2026-09-21T12:00:51.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
