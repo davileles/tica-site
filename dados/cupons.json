@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T15:04:19.806Z",
+  "atualizadoEm": "2026-09-20T16:04:19.727Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1140,6 +1140,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-09-21T15:01:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MANTECORP15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Válido para produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-21T15:47:58.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
