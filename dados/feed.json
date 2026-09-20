@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T16:04:17.615Z",
+  "atualizadoEm": "2026-09-20T16:21:23.440Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20480",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/4qFnA9ovFu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 39.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": "R4P1D1NH0",
+      "enviadoEm": "2026-09-20T16:11:23.333Z"
+    },
     {
       "id": "20478",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-19T12:45:27.025Z"
-    },
-    {
-      "id": "20246",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Gamer Acer Nitro V15 ANV15-52-52VN Intel® Core™ i5-13420H 13ªG 512 GB SSD 16 GB RAM RTX 4060 15.6”",
-      "link": "https://meli.la/2PjL6TF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968548-MLA99943896901_112025-F.jpg",
-      "preco": 6199,
-      "precoDe": 8999,
-      "desconto": 29,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T12:44:33.309Z"
     }
   ]
 }
