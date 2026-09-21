@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-21T13:05:13.865Z",
+  "atualizadoEm": "2026-09-21T13:22:57.977Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20681",
+      "loja": "Amazon",
+      "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
+      "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412-h5gqGmL._SL400_.jpg",
+      "preco": 33.63,
+      "precoDe": 59.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T13:12:57.975Z"
+    },
+    {
+      "id": "20680",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 5 Camisetas Básica Hering Algodão Masculina Original",
+      "link": "https://meli.la/2vwF48y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948094-MLB110688997268_052026-O.webp",
+      "preco": 126,
+      "precoDe": 139.44,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T13:11:44.920Z"
+    },
+    {
+      "id": "20676",
+      "loja": "Shopee",
+      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
+      "link": "https://s.shopee.com.br/20vdB8EjyX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
+      "preco": 1309,
+      "precoDe": 3497.37,
+      "desconto": 62,
+      "cupom": "PLXN24GJHC",
+      "enviadoEm": "2026-09-21T13:08:17.209Z"
+    },
     {
       "id": "20658",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-19T21:53:58.614Z"
-    },
-    {
-      "id": "20365",
-      "loja": "Shopee",
-      "titulo": "Organizador de Mala Viagem, Nécessaire Feminina, Kit para viagem com 3 unidades",
-      "link": "https://s.shopee.com.br/4LJVIlXgpF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3j5nb4hr5fcb4_tn",
-      "preco": 32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T21:08:54.454Z"
-    },
-    {
-      "id": "20363",
-      "loja": "Shopee",
-      "titulo": "Organizador De Mala Viagem 7 Peças Necessaire Roupas",
-      "link": "https://s.shopee.com.br/7Kx6qiUiqt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18t36yddyo038_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "0F35T4S3CUP0M",
-      "enviadoEm": "2026-09-19T20:46:13.364Z"
-    },
-    {
-      "id": "20361",
-      "loja": "Shopee",
-      "titulo": "Mixer Power Inox 3 Em 1 Elgin 600w Batedor Processador 127v",
-      "link": "https://s.shopee.com.br/7Kx6p9hMv2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ok5c2tre2qbd_tn",
-      "preco": 122,
-      "precoDe": 180.95,
-      "desconto": 16,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-09-19T20:23:33.100Z"
     }
   ]
 }
