@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-21T18:25:01.802Z",
+  "atualizadoEm": "2026-09-21T18:31:26.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20864",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/2BF3jQzonC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T18:26:46.493Z"
+    },
     {
       "id": "20857",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-09-20T18:05:58.249Z"
-    },
-    {
-      "id": "20492",
-      "loja": "Mercado Livre",
-      "titulo": "Confiram este conjunto com 3 Camisetas Femininas Polo Wear.",
-      "link": "https://meli.la/1NnPDHx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878306-MLB115772250123_082026-O.webp",
-      "preco": 71.4,
-      "precoDe": 199.99,
-      "desconto": 64,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-20T17:56:05.648Z"
     }
   ]
 }
