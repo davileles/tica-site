@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-21T12:04:20.158Z",
+  "atualizadoEm": "2026-09-21T13:05:15.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -951,6 +951,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BELEZA20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-09-22T12:53:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -996,6 +1008,30 @@
       "limite": 150,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-21T15:47:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "EPISOL15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-09-22T12:53:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "EPIDRAT15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-09-22T12:53:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1116,6 +1152,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-22T00:28:57.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "V4M0S4PR0V31T4R",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-22T13:01:50.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
