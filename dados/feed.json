@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-09-21T14:35:13.914Z",
+  "atualizadoEm": "2026-09-21T15:05:13.915Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20731",
+      "loja": "Amazon",
+      "titulo": "O livro das virtudes para crianças",
+      "link": "https://www.amazon.com.br/dp/6556402583?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Qp3GPT7qL._SL400_.jpg",
+      "preco": 40.82,
+      "precoDe": 79.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:59:47.071Z"
+    },
+    {
+      "id": "20730",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 47.89,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:58:31.935Z"
+    },
+    {
+      "id": "20723",
+      "loja": "Amazon",
+      "titulo": "Brilhante Sabão Líquido Perfume e Cuidado Extraordinário 3L",
+      "link": "https://www.amazon.com.br/dp/B0FNQ2TPDZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412u1ISvtCL._SL400_.jpg",
+      "preco": 24.99,
+      "precoDe": 34.99,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:57:07.942Z"
+    },
+    {
+      "id": "20722",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis De Corrida Masculino Duramo Rc 2 Adidas",
+      "link": "https://meli.la/1SLyubQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776808-MLB89711148085_082025-O.webp",
+      "preco": 279.99,
+      "precoDe": 379.99,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:51:09.239Z"
+    },
+    {
+      "id": "20720",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
+      "link": "https://meli.la/1BjKh3a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
+      "preco": 454.5,
+      "precoDe": 899,
+      "desconto": 44,
+      "cupom": "MELIACHAHOJE",
+      "enviadoEm": "2026-09-21T14:43:53.915Z"
+    },
+    {
+      "id": "20718",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Tripla Proteção Fralda g 78 Unidades",
+      "link": "https://meli.la/2YKWGr9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907479-MLA100242913347_122025-F.jpg",
+      "preco": 67.19,
+      "precoDe": 74.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:39:40.171Z"
+    },
+    {
+      "id": "20717",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
+      "link": "https://meli.la/2GcWmTQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625506-MLA96889901808_112025-F.jpg",
+      "preco": 64.9,
+      "precoDe": 74.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:38:39.069Z"
+    },
+    {
+      "id": "20715",
+      "loja": "Mercado Livre",
+      "titulo": "Barbie Veterinária com Animais de Estimação e Acessórios",
+      "link": "https://meli.la/2i5JTPm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922274-MLA114940832788_082026-F.jpg",
+      "preco": 268.05,
+      "precoDe": 299.99,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T14:37:42.560Z"
+    },
+    {
+      "id": "20713",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Hidratante Dermatológico Darrow Nutriol Peles Extrasecas 400g",
+      "link": "https://meli.la/31YKyqd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833676-MLA94448025359_102025-F.jpg",
+      "preco": 59.989999999999995,
+      "precoDe": 130,
+      "desconto": 42,
+      "cupom": "BELEZA20",
+      "enviadoEm": "2026-09-21T14:36:48.632Z"
+    },
     {
       "id": "20712",
       "loja": "Mercado Livre",
@@ -1107,18 +1215,6 @@
       "enviadoEm": "2026-09-20T14:45:59.434Z"
     },
     {
-      "id": "20448",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis De Corrida Masculino Duramo Rc 2 Adidas",
-      "link": "https://meli.la/1SLyubQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776808-MLB89711148085_082025-O.webp",
-      "preco": 279.99,
-      "precoDe": 379.99,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T14:42:35.470Z"
-    },
-    {
       "id": "20450",
       "loja": "Mercado Livre",
       "titulo": "Parafusadeira Furadeira De Impacto 2 Baterias 20v Fonte Carregamento Bivolt Pfv238i Vonder",
@@ -1345,102 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-09-20T12:42:21.020Z"
-    },
-    {
-      "id": "20419",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Prateleiras Arredondadas De 60x15 Suporte Invisível",
-      "link": "https://meli.la/1TDB6C9",
-      "imagem": null,
-      "preco": 130.88,
-      "precoDe": 193.9,
-      "desconto": 10,
-      "cupom": "BARRATINHOAQUI",
-      "enviadoEm": "2026-09-20T12:34:25.536Z"
-    },
-    {
-      "id": "20418",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
-      "link": "https://meli.la/2F5vUDc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-F.jpg",
-      "preco": 380.04999999999995,
-      "precoDe": 712.86,
-      "desconto": 41,
-      "cupom": "OFFHOJE",
-      "enviadoEm": "2026-09-20T12:30:52.035Z"
-    },
-    {
-      "id": "20417",
-      "loja": "Mercado Livre",
-      "titulo": "Kaiak Urbe Natura Desodorante Colônia Perfume Masculino Original 100ml",
-      "link": "https://meli.la/316NWTL",
-      "imagem": null,
-      "preco": 79.13,
-      "precoDe": 170.9,
-      "desconto": 49,
-      "cupom": "TODOSITE2009",
-      "enviadoEm": "2026-09-20T12:27:18.837Z"
-    },
-    {
-      "id": "20416",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo Infantil 30 Peças Poly",
-      "link": "https://s.shopee.com.br/3VkPJnrqdJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-k1jd7z81yzkv2f_tn",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:20:51.948Z"
-    },
-    {
-      "id": "20414",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
-      "preco": 37.51,
-      "precoDe": 69.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:17:24.629Z"
-    },
-    {
-      "id": "20412",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
-      "link": "https://meli.la/1na5zcz",
-      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
-      "preco": 289,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:13:50.215Z"
-    },
-    {
-      "id": "20410",
-      "loja": "Mercado Livre",
-      "titulo": "Cortina Rolo Blackout De Medida 1,40x1,40 Blecaute 0% Luz",
-      "link": "https://meli.la/2X5j9Yz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795655-MLB77974779835_072024-O.webp",
-      "preco": 138.88,
-      "precoDe": 191.9,
-      "desconto": 4,
-      "cupom": "BARRATINHOAQUI",
-      "enviadoEm": "2026-09-20T12:09:39.528Z"
-    },
-    {
-      "id": "20407",
-      "loja": "Shopee",
-      "titulo": "Mesa Para Home Office de Apoio de Sofá Notebook Estudos",
-      "link": "https://s.shopee.com.br/6L4afqNkZN",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raui-mabcf5ytxnp034_tn",
-      "preco": 76.98,
-      "precoDe": 93.88,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:02:56.720Z"
     }
   ]
 }
