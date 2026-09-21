@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-21T18:31:26.870Z",
+  "atualizadoEm": "2026-09-21T19:00:27.142Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20883",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/40ghwMOf76",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 39.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T18:56:53.216Z"
+    },
+    {
+      "id": "20880",
+      "loja": "Shopee",
+      "titulo": "PC Gamer Forge, Intel Core i5, GT 1030 2GB, 8GB DE RAM, SSD 240GB, Fonte 500W",
+      "link": "https://s.shopee.com.br/9V1eUAkOGg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mqgfxesm76rm3f_tn",
+      "preco": 1485.9,
+      "precoDe": 2122.71,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T18:49:59.833Z"
+    },
+    {
+      "id": "20878",
+      "loja": "Mercado Livre",
+      "titulo": "Pillow Top Casal C/ Elástico Algodão 400 Fios Protetor Cor Branco Desenho Do Tecido Liso",
+      "link": "https://meli.la/2fteKuw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789182-MLA111034649075_042026-F.jpg",
+      "preco": 76.74000000000001,
+      "precoDe": 129.99,
+      "desconto": 28,
+      "cupom": "TEMAQUI",
+      "enviadoEm": "2026-09-21T18:46:31.240Z"
+    },
+    {
+      "id": "20877",
+      "loja": "Shopee",
+      "titulo": "Notebook VAIO FE16 AMD® Ryzen 5-5625U Linux 8GB RAM 256GB SSD 16\" IPS WUXGA Antirreflexo - Cinza",
+      "link": "https://s.shopee.com.br/1gIn9NJuVV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddnfm1jsj5t93_tn",
+      "preco": 3259.78,
+      "precoDe": 4527.47,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T18:42:36.755Z"
+    },
+    {
+      "id": "20876",
+      "loja": "Mercado Livre",
+      "titulo": "Mesa Escritório Industrial 150x60 Reforçado Ferro Homeoffice",
+      "link": "https://meli.la/1XFVZto",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789427-MLB109415561252_042026-O.webp",
+      "preco": 181.22,
+      "precoDe": 271.99,
+      "desconto": 19,
+      "cupom": "TEMAQUI",
+      "enviadoEm": "2026-09-21T18:39:10.719Z"
+    },
+    {
+      "id": "20869",
+      "loja": "Mercado Livre",
+      "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+      "link": "https://meli.la/17qr8KY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+      "preco": 47.6,
+      "precoDe": 249,
+      "desconto": 78,
+      "cupom": "MELIGOODMOOD",
+      "enviadoEm": "2026-09-21T18:35:08.250Z"
+    },
+    {
+      "id": "20868",
+      "loja": "Mercado Livre",
+      "titulo": "Bebê Reborn Realista Antonella Menina + Ursinho",
+      "link": "https://meli.la/2Sav7NQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917325-MLA108431597623_032026-F.jpg",
+      "preco": 81.53,
+      "precoDe": 199.9,
+      "desconto": 52,
+      "cupom": "MELIADORA",
+      "enviadoEm": "2026-09-21T18:34:16.964Z"
+    },
+    {
+      "id": "20866",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Cinza Bosco",
+      "link": "https://meli.la/34eCKAH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814876-MLA95676723136_102025-F.jpg",
+      "preco": 139.9,
+      "precoDe": 149.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T18:33:17.237Z"
+    },
     {
       "id": "20864",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-09-20T19:59:11.583Z"
-    },
-    {
-      "id": "20513",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B001HUBXJO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41j33+YOTPL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 149.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T19:39:57.950Z"
-    },
-    {
-      "id": "20511",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/5LC3zAhLCB",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 28.16,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T19:36:40.175Z"
-    },
-    {
-      "id": "20510",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/905MKMflJm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 32.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T19:14:13.919Z"
-    },
-    {
-      "id": "20508",
-      "loja": "Amazon",
-      "titulo": "Vodka Dubar Zvonka Melancia 900 ml",
-      "link": "https://www.amazon.com.br/dp/B0H4NNZR1P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31agbOvb3ML._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T19:01:22.926Z"
-    },
-    {
-      "id": "20507",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/70KGVEJPkI",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 74.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T18:51:36.356Z"
-    },
-    {
-      "id": "20504",
-      "loja": "Shopee",
-      "titulo": "mini processador de alimentos elétrico picador de alho triturador de pimenta 350ml",
-      "link": "https://s.shopee.com.br/905MHDsftP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262a-mjeyzg7g2e4na3_tn",
-      "preco": 25.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T18:29:16.525Z"
-    },
-    {
-      "id": "20503",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Vanilia - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
-      "preco": 74.9,
-      "precoDe": 117.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T18:26:01.338Z"
-    },
-    {
-      "id": "20501",
-      "loja": "Shopee",
-      "titulo": "Mini Multi Processador De Alimentos 350ml Triturador Cozinha",
-      "link": "https://s.shopee.com.br/7fZyf5e1mE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnevkg5qdb7s19_tn",
-      "preco": 79,
-      "precoDe": 197.5,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T18:05:58.249Z"
     }
   ]
 }
