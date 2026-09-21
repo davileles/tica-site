@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-21T00:34:18.070Z",
+  "atualizadoEm": "2026-09-21T01:04:18.087Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -495,18 +495,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CLIQUE10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T01:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "CLIENTE10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -552,18 +540,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-21T11:36:06.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "SAUDADE40",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T00:55:02.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
