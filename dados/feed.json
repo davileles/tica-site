@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-20T23:02:14.174Z",
+  "atualizadoEm": "2026-09-21T11:04:17.661Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20564",
+      "loja": "Shopee",
+      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
+      "link": "https://s.shopee.com.br/8fSWytUn3C",
+      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
+      "preco": 52.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T11:02:54.602Z"
+    },
     {
       "id": "20546",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-19T16:08:03.562Z"
-    },
-    {
-      "id": "20308",
-      "loja": "Mercado Livre",
-      "titulo": "Pessoal, prestem atenção nesse perfume!",
-      "link": "https://meli.la/17Wnfkn",
-      "imagem": null,
-      "preco": 129.43,
-      "precoDe": 258.9,
-      "desconto": 29,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-19T16:04:45.909Z"
     }
   ]
 }
