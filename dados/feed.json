@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-21T19:30:27.142Z",
+  "atualizadoEm": "2026-09-21T20:00:27.142Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20928",
+      "loja": "Amazon",
+      "titulo": "Meu Livro Fofinho: Histórias de Princesas",
+      "link": "https://www.amazon.com.br/dp/6556178357?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51SuIg5nOcL._SL400_.jpg",
+      "preco": 9.01,
+      "precoDe": 14.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T19:59:23.949Z"
+    },
+    {
+      "id": "20924",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
+      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
+      "preco": 20.22,
+      "precoDe": 36.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T19:58:17.616Z"
+    },
+    {
+      "id": "20923",
+      "loja": "Mercado Livre",
+      "titulo": "Pista De Carrinho Posto De Gasolina Garagem Estacionamento Cor Vermelha",
+      "link": "https://meli.la/2YcPYbq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784471-MLA81725580938_012025-F.jpg",
+      "preco": 102.2,
+      "precoDe": 199.9,
+      "desconto": 40,
+      "cupom": "MELIKIDS",
+      "enviadoEm": "2026-09-21T19:57:30.160Z"
+    },
+    {
+      "id": "20922",
+      "loja": "Mercado Livre",
+      "titulo": "Blocos Magnéticos Construção Brinquedo Educativo 129 Peças 129",
+      "link": "https://meli.la/2EWherf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958069-MLA99416632724_112025-F.jpg",
+      "preco": 163.34,
+      "precoDe": 329.9,
+      "desconto": 42,
+      "cupom": "MELIKIDS",
+      "enviadoEm": "2026-09-21T19:56:23.167Z"
+    },
+    {
+      "id": "20917",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Carmenere 750ml",
+      "link": "https://www.amazon.com.br/dp/B077HHG6MM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LGIH1otKL._SL400_.jpg",
+      "preco": 22.2,
+      "precoDe": 36.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T19:51:49.217Z"
+    },
+    {
+      "id": "20916",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/70KGVEJPkI",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PLXN24GJHC",
+      "enviadoEm": "2026-09-21T19:42:50.001Z"
+    },
+    {
+      "id": "20915",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira E Parafusadeira De Impacto 2 Baterias 2000mah 21v 3/8 Tb-21pkx The Black Tools Com Maleta E Acessorios",
+      "link": "https://meli.la/1ZdpMcC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621527-MLA116307522743_082026-F.jpg",
+      "preco": 160.51,
+      "precoDe": 249.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T19:39:18.678Z"
+    },
+    {
+      "id": "20914",
+      "loja": "Amazon",
+      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
+      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
+      "preco": 67.14,
+      "precoDe": 98.29,
+      "desconto": 20,
+      "cupom": "15% OFF NO CARRINHO",
+      "enviadoEm": "2026-09-21T19:38:31.021Z"
+    },
     {
       "id": "20909",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-09-21T11:31:08.946Z"
-    },
-    {
-      "id": "20573",
-      "loja": "Shopee",
-      "titulo": "Bolsa de Viagem Mala Dobrável Capacidade Impermeável",
-      "link": "https://s.shopee.com.br/1qcCrtmDFy",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmx-lp6czwvd0b9k6f_tn",
-      "preco": 13.41,
-      "precoDe": 39.44,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T11:25:42.803Z"
-    },
-    {
-      "id": "20569",
-      "loja": "Amazon",
-      "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-      "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nP8EFUzHS._SL400_.jpg",
-      "preco": 67.07,
-      "precoDe": 100.24,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T11:15:53.638Z"
-    },
-    {
-      "id": "20565",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Core Insider",
-      "link": "https://meli.la/1Zu1JZN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940060-MLB86042491923_062025-O.webp",
-      "preco": 69.16999999999999,
-      "precoDe": 189,
-      "desconto": 57,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-21T11:06:11.103Z"
-    },
-    {
-      "id": "20564",
-      "loja": "Shopee",
-      "titulo": "Blocos De Montar Brinquedo Educativo 176 Peças Infantil  Didatico",
-      "link": "https://s.shopee.com.br/8fSWytUn3C",
-      "imagem": "https://cf.shopee.com.br/file/4d1c4334f123e72169c0c63ad65fc22f_tn",
-      "preco": 52.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T11:02:54.602Z"
-    },
-    {
-      "id": "20541",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Feminina Manga Curta Super Cotton Hering",
-      "link": "https://meli.la/226gmft",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_754826-MLB112700917117_062026-O.webp",
-      "preco": 50.99,
-      "precoDe": 89.99,
-      "desconto": 33,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-20T22:28:08.295Z"
-    },
-    {
-      "id": "20540",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Lençol Casal 3pç 400 Fios Hipercal Conforto Macio Cor Azul-marinho Desenho do tecido Liso",
-      "link": "https://meli.la/1Hh9CM8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613311-MLA114198186300_082026-F.jpg",
-      "preco": 27,
-      "precoDe": 51.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T22:20:43.099Z"
-    },
-    {
-      "id": "20535",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l",
-      "link": "https://meli.la/2UroscM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652495-MLA97031196806_112025-F.jpg",
-      "preco": 250,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MODA2009",
-      "enviadoEm": "2026-09-20T21:54:23.376Z"
-    },
-    {
-      "id": "20533",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina Acabamento Kemei KM-032 Barba Cabelo Bivolt",
-      "link": "https://meli.la/31xbzeh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936620-MLA96756403100_112025-F.jpg",
-      "preco": 37.63,
-      "precoDe": 78.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T21:39:43.806Z"
     }
   ]
 }
