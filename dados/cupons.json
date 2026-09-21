@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-21T14:35:16.033Z",
+  "atualizadoEm": "2026-09-21T15:05:16.186Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BDBR10",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 5500,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BDBR06",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 3300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BDBR04",
+      "loja": "Aliexpress",
+      "tipo": "reais",
+      "valor": 2300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BDBR30",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BDBR15",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "CORRE15",
       "loja": "ASICS",
@@ -1152,6 +1212,30 @@
       "limite": 300,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
       "validadeAte": "2026-09-22T14:21:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO2109",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 10,
+      "observacao": null,
+      "validadeAte": "2026-09-22T15:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-22T14:38:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
