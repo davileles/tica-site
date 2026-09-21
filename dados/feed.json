@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-21T21:21:34.645Z",
+  "atualizadoEm": "2026-09-21T21:26:28.459Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20990",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira De Impacto 1/4 (6,35 Mm) 16v 170 Tramontina",
+      "link": "https://meli.la/1oqffD4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998645-MLA111079767274_052026-F.jpg",
+      "preco": 682.74,
+      "precoDe": 810,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:24:45.086Z"
+    },
+    {
+      "id": "20987",
+      "loja": "Amazon",
+      "titulo": "Vinho Francês Merlot Tinto Garrafa 750ml - J.P Chenet",
+      "link": "https://www.amazon.com.br/dp/B003CG2NI6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TmlCK2+-L._SL400_.jpg",
+      "preco": 85.39,
+      "precoDe": 109.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:22:55.931Z"
+    },
     {
       "id": "20986",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-21T13:11:44.920Z"
-    },
-    {
-      "id": "20676",
-      "loja": "Shopee",
-      "titulo": "HUAWEI WATCH FIT 5 Pro| Smartwatch Relogio | Tela FullView AMOLED de 1,92\"| Mini Treino | 64 GB ECG",
-      "link": "https://s.shopee.com.br/20vdB8EjyX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqeruyatf3eq58_tn",
-      "preco": 1309,
-      "precoDe": 3497.37,
-      "desconto": 62,
-      "cupom": "PLXN24GJHC",
-      "enviadoEm": "2026-09-21T13:08:17.209Z"
-    },
-    {
-      "id": "20658",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
-      "preco": 199.99,
-      "precoDe": 349.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:55:15.683Z"
     }
   ]
 }
