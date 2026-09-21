@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-21T22:57:29.755Z",
+  "atualizadoEm": "2026-09-21T23:20:43.140Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21024",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Homem Aromáticos Deo Colônia 100 Ml",
+      "link": "https://meli.la/2UuKUmq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834245-MLA84848492011_052025-F.jpg",
+      "preco": 64.47,
+      "precoDe": 214.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T23:10:43.132Z"
+    },
+    {
+      "id": "21022",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Tododia Noz Pecã e Cacau Feminino Body Splash 200ml",
+      "link": "https://meli.la/2drX1b8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710121-MLA115619065337_082026-F.jpg",
+      "preco": 28.17,
+      "precoDe": 93.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T23:07:21.226Z"
+    },
+    {
+      "id": "21021",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Natura Tododia Flores Essenciais - presente",
+      "link": "https://meli.la/2Ywgy65",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616349-MLA109729501799_032026-F.jpg",
+      "preco": 41.97,
+      "precoDe": 139.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T23:04:19.367Z"
+    },
+    {
+      "id": "21019",
+      "loja": "Mercado Livre",
+      "titulo": "Desodorante Corporal Natura Homem Elo 100ml",
+      "link": "https://meli.la/1FeuY3D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924245-MLA99827051865_112025-F.jpg",
+      "preco": 21.87,
+      "precoDe": 72.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T22:57:54.993Z"
+    },
     {
       "id": "21018",
       "loja": "Mercado Livre",
@@ -25,18 +73,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-09-21T22:51:13.467Z"
-    },
-    {
-      "id": "21016",
-      "loja": "Mercado Livre",
-      "titulo": "Desodorante Corporal Natura Homem Elo 100ml",
-      "link": "https://meli.la/1FeuY3D",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924245-MLA99827051865_112025-F.jpg",
-      "preco": 21.87,
-      "precoDe": 72.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:47:52.335Z"
     },
     {
       "id": "21015",
@@ -1405,42 +1441,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-09-21T14:37:42.560Z"
-    },
-    {
-      "id": "20713",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Hidratante Dermatológico Darrow Nutriol Peles Extrasecas 400g",
-      "link": "https://meli.la/31YKyqd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833676-MLA94448025359_102025-F.jpg",
-      "preco": 59.989999999999995,
-      "precoDe": 130,
-      "desconto": 42,
-      "cupom": "BELEZA20",
-      "enviadoEm": "2026-09-21T14:36:48.632Z"
-    },
-    {
-      "id": "20712",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804480-MLB85360107863_052025-O.webp",
-      "preco": 99.89,
-      "precoDe": 229.99,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T14:33:26.604Z"
-    },
-    {
-      "id": "20710",
-      "loja": "Mercado Livre",
-      "titulo": "Hidratante Facial Epidrat Calm 120ml Mantecorp Skincare Todo Tipo De Pele Dia/noite",
-      "link": "https://meli.la/28tSZk4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850052-MLU75979015385_042024-F.jpg",
-      "preco": 118.91000000000001,
-      "precoDe": 199.9,
-      "desconto": 30,
-      "cupom": "EPIDRAT15",
-      "enviadoEm": "2026-09-21T14:26:22.642Z"
     }
   ]
 }
