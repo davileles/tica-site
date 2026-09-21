@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-21T15:20:20.122Z",
+  "atualizadoEm": "2026-09-21T15:35:13.915Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20748",
+      "loja": "Shopee",
+      "titulo": "KIT 20/10 CANETAS MARCADORA PERMANENTE DE PONTA LONGA MARCAR FURAÇÃO PAREDE  PARA TRABALHO PEDREIRO!",
+      "link": "https://s.shopee.com.br/4qFoiFJugY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4gxg7e6adfc0_tn",
+      "preco": 33.9,
+      "precoDe": 47.08,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T15:31:36.465Z"
+    },
+    {
+      "id": "20747",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Barreda Decode Adidas",
+      "link": "https://meli.la/16ymmQf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613265-MLB110047365410_042026-O.webp",
+      "preco": 347.36,
+      "precoDe": 449.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T15:28:05.298Z"
+    },
     {
       "id": "20740",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 12,
       "cupom": "BARRATINHOAQUI",
       "enviadoEm": "2026-09-20T12:57:14.485Z"
-    },
-    {
-      "id": "20430",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Barril 5L",
-      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
-      "preco": 97.91,
-      "precoDe": 119.99,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:53:36.613Z"
-    },
-    {
-      "id": "20429",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Ferramentas 151 Peças Soquetes Aço Cr-v Para Carro Casa",
-      "link": "https://meli.la/2afTeKH",
-      "imagem": null,
-      "preco": 599.9,
-      "precoDe": 1019.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:50:05.402Z"
     }
   ]
 }
