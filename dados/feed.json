@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-21T21:28:29.458Z",
+  "atualizadoEm": "2026-09-21T21:42:57.200Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20991",
+      "loja": "Amazon",
+      "titulo": "Baby Alive, Boneca, Bebê Shampoo, Sophia Sparkle - Cabelos Castanhos",
+      "link": "https://www.amazon.com.br/dp/B0CCQVZMQF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aLsWxtmeL._SL400_.jpg",
+      "preco": 78.99,
+      "precoDe": 149.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:32:57.199Z"
+    },
     {
       "id": "20990",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-09-21T13:12:57.975Z"
-    },
-    {
-      "id": "20680",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Camisetas Básica Hering Algodão Masculina Original",
-      "link": "https://meli.la/2vwF48y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948094-MLB110688997268_052026-O.webp",
-      "preco": 126,
-      "precoDe": 139.44,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T13:11:44.920Z"
     }
   ]
 }
