@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-21T15:05:16.186Z",
+  "atualizadoEm": "2026-09-21T16:05:16.415Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1095,18 +1095,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MANTECORP15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-21T15:47:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "EPISOL15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,6 +1140,102 @@
       "limite": 50,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
       "validadeAte": "2026-09-22T14:21:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAXITOYS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIGOODMOOD",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIATENTU",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIADORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIBRASTOY",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIBRINQUEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em selecionados. Clique em Mostrar mais para ver a lista completa",
+      "validadeAte": "2026-09-22T15:36:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "INTERNACIONALMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-22T15:38:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIWHALE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-22T15:38:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
