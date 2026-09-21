@@ -1,55 +1,7 @@
 {
-  "atualizadoEm": "2026-09-21T01:04:18.087Z",
+  "atualizadoEm": "2026-09-21T03:04:18.077Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BRAE13",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 796521,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRAE7",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 246563,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRAE5",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 170413,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRAE10",
-      "loja": "Aliexpress",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
     {
       "codigo": "CORRE15",
       "loja": "ASICS",
@@ -747,18 +699,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MIMOTOP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORNOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1011,15 +951,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELITUDOBOM",
+      "codigo": "QUEIMADEESTOQUE2109",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 19,
+      "minimo": 49,
       "maximo": null,
-      "limite": 100,
-      "observacao": "Desconto de R$ 106,98 (de R$ 157,98 para R$ 51,00). Cupom MELITUDOBOM garante o valor. Pagamento em Pix.",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-22T03:00:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1056,30 +996,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTONAREDA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Desconto de 33% aplicado ao produto Churrasqueira Movel Mor Com Rodinhas California Cor Preto, reduzindo o preço de R$ 229,90 para R$ 154,59",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PAGUEMENOSJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Desconto de R$ 167,99 (de R$ 299,99 para R$ 132,00). Cupom PAGUEMENOSJA aplicável com pagamento via Pix.",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1143,30 +1059,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LEVOUBARATO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Desconto de R$ 54 (de R$ 531 para R$ 477). Cupom LEVOUBARATO aplicável na Loja Oficial Magalu no Mercado Livre.",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRECINHOAMIGO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1212,30 +1104,6 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-09-21T18:00:17.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PAGUEMENOS",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 9.72,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom PAGUEMENOS aplicado ao produto. Desconto de R$9,72 no preço final (de R$54,00 para R$44,27). Também mencionado código adicional SITELANDING no post original.",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CLIENTETOP",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons mencionados no post original (CLIENTETOP e SITELANDING) para promoção de Black Friday em kit de roupa de cama. Desconto final resultante: de R$52,00 para R$19,80. Valores específicos de desconto por cupom não informados.",
-      "validadeAte": "2026-09-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1356,18 +1224,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
-    },
-    {
-      "codigo": "ENDLESS",
-      "loja": "Under Armour",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-21T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
     },
     {
