@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-21T20:30:27.179Z",
+  "atualizadoEm": "2026-09-21T21:00:27.180Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20979",
+      "loja": "Amazon",
+      "titulo": "Mionetto Prosecco Orange Label D.O.C. Brut 750ml",
+      "link": "https://www.amazon.com.br/dp/B00QURGOSE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IqKuzlsRL._SL400_.jpg",
+      "preco": 108,
+      "precoDe": 139.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:00:13.525Z"
+    },
+    {
+      "id": "20978",
+      "loja": "Amazon",
+      "titulo": "Scott Duramax Pano Reutilizável em Rolo, Antibac, 48 Folhas",
+      "link": "https://www.amazon.com.br/dp/B0D2J7QK2K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JoO77aEmL._SL400_.jpg",
+      "preco": 17.08,
+      "precoDe": 19.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:56:43.838Z"
+    },
+    {
+      "id": "20976",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/8AWH2Suubg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:52:18.605Z"
+    },
+    {
+      "id": "20974",
+      "loja": "Mercado Livre",
+      "titulo": "Sapatilha Aquática Tenis Hibrido Pescaria Cachoeira Neoprene",
+      "link": "https://meli.la/1UaJfV8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975858-MLB106472269396_022026-O.webp",
+      "preco": 37.99,
+      "precoDe": 56.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:46:42.947Z"
+    },
+    {
+      "id": "20973",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Jogo De Ferramentas Completo C/ Soquetes Chaves Aço Crv Cinza",
+      "link": "https://meli.la/1CmsdPS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757303-MLA100212647277_122025-F.jpg",
+      "preco": 109.99,
+      "precoDe": 189.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:42:29.335Z"
+    },
+    {
+      "id": "20969",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Copos Oca Nadir 300ml Vidro para Água e Suco",
+      "link": "https://meli.la/2HgJJbq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_976859-MLA100083781775_122025-F.jpg",
+      "preco": 19.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:36:50.044Z"
+    },
+    {
+      "id": "20967",
+      "loja": "Mercado Livre",
+      "titulo": "Sabonete Em Barra Natura Tododia Flores E Jasmim 2un 90g",
+      "link": "https://meli.la/1J52cB4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761701-MLB99142789314_112025-O.webp",
+      "preco": 12.54,
+      "precoDe": 20.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T20:33:23.885Z"
+    },
     {
       "id": "20966",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-21T12:43:45.219Z"
-    },
-    {
-      "id": "20647",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
-      "link": "https://meli.la/1TrsZTH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-F.jpg",
-      "preco": 479.2,
-      "precoDe": 1199,
-      "desconto": 50,
-      "cupom": "ECONOMIA",
-      "enviadoEm": "2026-09-21T12:40:19.701Z"
-    },
-    {
-      "id": "20628",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Split Electrolux 12.000 Btus (ni12r/ne12r",
-      "link": "https://meli.la/1SQ5qTJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958358-MLA113469518231_062026-F.jpg",
-      "preco": 1599,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-09-21T12:32:29.836Z"
-    },
-    {
-      "id": "20627",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Cuecas Boxer Puma Sem Costura Microfibra Premium",
-      "link": "https://meli.la/1i2yexW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725826-MLB111249164582_052026-O.webp",
-      "preco": 199.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:28:47.707Z"
-    },
-    {
-      "id": "20622",
-      "loja": "Amazon",
-      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos, Som JBL Pro Sound, 160W RMS - Branco",
-      "link": "https://www.amazon.com.br/dp/B0DJ1QNM1R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/419yf4jE7eL._SL400_.jpg",
-      "preco": 1999,
-      "precoDe": 2699,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:25:23.199Z"
-    },
-    {
-      "id": "20619",
-      "loja": "Mercado Livre",
-      "titulo": "Câmera de Segurança Ip A8 App Icsee Full Hd Wifi 360 Branco/Preto G.Eye",
-      "link": "https://meli.la/2pJAmJa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735829-MLA96136658633_102025-F.jpg",
-      "preco": 76.51,
-      "precoDe": 159,
-      "desconto": 40,
-      "cupom": "MAISDESCONTO",
-      "enviadoEm": "2026-09-21T12:21:55.473Z"
-    },
-    {
-      "id": "20618",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Tcl 25 Polegadas Qd-Mini Led Full Hd G64 300hz 1ms (Gtg) Freesync Hdr 600 Nits 25g64",
-      "link": "https://meli.la/2JapqS9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
-      "preco": 1103.2,
-      "precoDe": 1499,
-      "desconto": 8,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-09-21T12:20:58.807Z"
-    },
-    {
-      "id": "20614",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/7VGY6lgI8v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 42.9,
-      "precoDe": 99.77,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:17:31.520Z"
     }
   ]
 }
