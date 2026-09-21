@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-21T21:00:27.180Z",
+  "atualizadoEm": "2026-09-21T21:21:34.645Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20986",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 84.99,
+      "precoDe": 124.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:11:34.642Z"
+    },
+    {
+      "id": "20983",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Bonés Dad E Mom Algodão Bordado Pai e Mãe Ajustável Unissex Cor Bege Com Branco Marca Zeltrix",
+      "link": "https://meli.la/2pCD3Sd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719667-MLA111857024707_052026-F.jpg",
+      "preco": 69.9,
+      "precoDe": 149.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:08:02.692Z"
+    },
+    {
+      "id": "20982",
+      "loja": "Mercado Livre",
+      "titulo": "Lixadeira De Parede, Teto E Drywall Profissional Com Led Cor Preto Frequência 60Hz",
+      "link": "https://meli.la/2rzXtif",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911794-MLA79788009572_102024-F.jpg",
+      "preco": 699.9,
+      "precoDe": 1229.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:04:34.773Z"
+    },
+    {
+      "id": "20980",
+      "loja": "Mercado Livre",
+      "titulo": "REBITADOR MANUAL REBITADEIRA DE ALICATE 4 BICOS REBITE ALICATE DE REPUXO ALUMÍNIO KIT 100 REBITES UNIVERSAL PROFISSIONAL STRONEX",
+      "link": "https://meli.la/1ZCjwfi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777659-MLA115309884424_082026-F.jpg",
+      "preco": 29.99,
+      "precoDe": 59,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T21:03:41.462Z"
+    },
     {
       "id": "20979",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-21T12:55:15.683Z"
-    },
-    {
-      "id": "20657",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Shorts Masculino Bermuda Linho Verão Envio Imediato",
-      "link": "https://meli.la/1kJVbKo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703852-MLB93401645900_092025-O.webp",
-      "preco": 79.9,
-      "precoDe": 119.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:54:07.306Z"
-    },
-    {
-      "id": "20652",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Samsung ViewFinity S5 34” UWQHD VA LS34C500GALMZD 100Hz 5(GTG) HDMI Headphone Display Port",
-      "link": "https://meli.la/2kPnjNu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_819833-MLA93742154947_092025-F.jpg",
-      "preco": 1167.2,
-      "precoDe": 2499,
-      "desconto": 42,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-09-21T12:50:35.645Z"
-    },
-    {
-      "id": "20651",
-      "loja": "Shopee",
-      "titulo": "Conjunto 2 Peças Banheiro Clover Cerâmica Preto Wolff para Sabonete Organização Decoração Banheiro Lavabo Elegante Atual",
-      "link": "https://s.shopee.com.br/7AdjJ3GzWl",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgi-m3pfzqu0r9zr39_tn",
-      "preco": 19.99,
-      "precoDe": 54.03,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:47:08.638Z"
-    },
-    {
-      "id": "20648",
-      "loja": "Shopee",
-      "titulo": "forma pudim banho maria n 18 panela 2 em 1",
-      "link": "https://s.shopee.com.br/9peUTizMb1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mox9kud7btadec_tn",
-      "preco": 40.9,
-      "precoDe": 53.82,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T12:43:45.219Z"
     }
   ]
 }
