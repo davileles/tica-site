@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-21T21:57:29.749Z",
+  "atualizadoEm": "2026-09-21T22:18:12.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21007",
+      "loja": "Amazon",
+      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
+      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
+      "preco": 88.87,
+      "precoDe": 129.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T22:08:12.056Z"
+    },
     {
       "id": "21002",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-09-21T13:47:20.577Z"
-    },
-    {
-      "id": "20692",
-      "loja": "Amazon",
-      "titulo": "Box - Sentimentos e Virtudes (4 Livros)",
-      "link": "https://www.amazon.com.br/dp/6558889633?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Z+VfuzOWL._SL400_.jpg",
-      "preco": 23.03,
-      "precoDe": 119.99,
-      "desconto": 81,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T13:38:41.903Z"
     }
   ]
 }
