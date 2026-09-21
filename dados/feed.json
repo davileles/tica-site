@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-09-21T12:04:17.706Z",
+  "atualizadoEm": "2026-09-21T12:34:17.707Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20628",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Split Electrolux 12.000 Btus (ni12r/ne12r",
+      "link": "https://meli.la/1SQ5qTJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958358-MLA113469518231_062026-F.jpg",
+      "preco": 1599,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-09-21T12:32:29.836Z"
+    },
+    {
+      "id": "20627",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Cuecas Boxer Puma Sem Costura Microfibra Premium",
+      "link": "https://meli.la/1i2yexW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725826-MLB111249164582_052026-O.webp",
+      "preco": 199.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:28:47.707Z"
+    },
+    {
+      "id": "20622",
+      "loja": "Amazon",
+      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos, Som JBL Pro Sound, 160W RMS - Branco",
+      "link": "https://www.amazon.com.br/dp/B0DJ1QNM1R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419yf4jE7eL._SL400_.jpg",
+      "preco": 1999,
+      "precoDe": 2699,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:25:23.199Z"
+    },
+    {
+      "id": "20619",
+      "loja": "Mercado Livre",
+      "titulo": "Câmera de Segurança Ip A8 App Icsee Full Hd Wifi 360 Branco/Preto G.Eye",
+      "link": "https://meli.la/2pJAmJa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735829-MLA96136658633_102025-F.jpg",
+      "preco": 76.51,
+      "precoDe": 159,
+      "desconto": 40,
+      "cupom": "MAISDESCONTO",
+      "enviadoEm": "2026-09-21T12:21:55.473Z"
+    },
+    {
+      "id": "20618",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Tcl 25 Polegadas Qd-Mini Led Full Hd G64 300hz 1ms (Gtg) Freesync Hdr 600 Nits 25g64",
+      "link": "https://meli.la/2JapqS9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
+      "preco": 1103.2,
+      "precoDe": 1499,
+      "desconto": 8,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-09-21T12:20:58.807Z"
+    },
+    {
+      "id": "20614",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
+      "link": "https://s.shopee.com.br/7VGY6lgI8v",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
+      "preco": 42.9,
+      "precoDe": 99.77,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:17:31.520Z"
+    },
+    {
+      "id": "20611",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira à Bateria Makita + KIT com 81 Acessórios Df001dw - Cor Azul-turquesa Frequência 60Hz",
+      "link": "https://meli.la/12W297m",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799122-MLA99933372389_112025-F.jpg",
+      "preco": 303.2,
+      "precoDe": 415.23,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:13:59.868Z"
+    },
+    {
+      "id": "20607",
+      "loja": "Shopee",
+      "titulo": "Jarra Wolff Mauve 750ml Cristal Wolff - Design Clássico e Lapidado para Sua Mesa Posta Ideal para Água Sucos e Bebidas",
+      "link": "https://s.shopee.com.br/9zxudacGjM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-mk1c49y7pn2ccb_tn",
+      "preco": 19.99,
+      "precoDe": 60.58,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:10:05.394Z"
+    },
+    {
+      "id": "20606",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 6 Taças Cerveja Vidro Cristalino 400ml M&K Home - Bares e Restaurantes",
+      "link": "https://meli.la/1DEtUo2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906905-MLA98121061783_112025-F.jpg",
+      "preco": 45.49,
+      "precoDe": 69.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T12:06:21.097Z"
+    },
     {
       "id": "20599",
       "loja": "Mercado Livre",
@@ -927,18 +1035,6 @@
       "enviadoEm": "2026-09-20T12:49:18.395Z"
     },
     {
-      "id": "20426",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Inox Jarra Térmica 1000W Ferve Água e Café Chá Desligamento Automático Rápida",
-      "link": "https://s.shopee.com.br/7VGY6lgI8v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms49lbchdmh1a1_tn",
-      "preco": 32.9,
-      "precoDe": 99.77,
-      "desconto": 57,
-      "cupom": "R4P1D1NH0",
-      "enviadoEm": "2026-09-20T12:45:55.701Z"
-    },
-    {
       "id": "20425",
       "loja": "Mercado Livre",
       "titulo": "Whey Protein Concentrado - Pote 900g Dux Nutrition - Sabor Chocolate",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "NASCAR2026",
       "enviadoEm": "2026-09-19T18:07:22.699Z"
-    },
-    {
-      "id": "20342",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/40geekkkhK",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T17:24:36.799Z"
-    },
-    {
-      "id": "20339",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Calças Jeans Feminina Skinny Lycra Cintura Alta Modelo Empina Bumbum Lançamento Promoção",
-      "link": "https://s.shopee.com.br/4LJV1JZG0P",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9keeu5abgopdd_tn",
-      "preco": 124.99000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "NASCAR2026",
-      "enviadoEm": "2026-09-19T17:02:02.144Z"
-    },
-    {
-      "id": "20332",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Elétrica Oster Ofrt650 de 4,8L, 1500W, Inox e Painel Touch",
-      "link": "https://meli.la/2Vg9wRa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718976-MLA100030480711_122025-F.jpg",
-      "preco": 274.36,
-      "precoDe": 374.47,
-      "desconto": 19,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T16:56:56.082Z"
-    },
-    {
-      "id": "20331",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Life Formatura Feminino Aço Dourado Prateado Dourado",
-      "link": "https://meli.la/2yhpVaZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625078-MLA111791331725_052026-F.jpg",
-      "preco": 405,
-      "precoDe": 750,
-      "desconto": 40,
-      "cupom": "PROMOHOJE",
-      "enviadoEm": "2026-09-19T16:53:46.058Z"
-    },
-    {
-      "id": "20329",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto 5 Potes Vidro Hermético Marmita Mantimentos 640ml Gato Panda",
-      "link": "https://meli.la/1sveUg2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709710-MLA117258027841_092026-F.jpg",
-      "preco": 55.29,
-      "precoDe": 67.67,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T16:46:48.248Z"
-    },
-    {
-      "id": "20328",
-      "loja": "Mercado Livre",
-      "titulo": "Top Puma Academia Fitness Original Nadador Alta Sustentação",
-      "link": "https://meli.la/1kd3hww",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961178-MLB112153608802_062026-O.webp",
-      "preco": 34.84,
-      "precoDe": 78.57,
-      "desconto": 37,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-19T16:42:57.615Z"
-    },
-    {
-      "id": "20327",
-      "loja": "Mercado Livre",
-      "titulo": "Bermuda Shorts Legging Compressão Anti Assadura Esporte",
-      "link": "https://meli.la/19uuECY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_667639-MLB84465953550_052025-O.webp",
-      "preco": 77.83,
-      "precoDe": 124.89,
-      "desconto": 24,
-      "cupom": "PAGUEMENOSJA",
-      "enviadoEm": "2026-09-19T16:39:16.879Z"
-    },
-    {
-      "id": "20324",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Asad Elixir 100ml Eau De Parfum Original Edp Lançamento 2026",
-      "link": "https://meli.la/2EkPWtn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736701-MLA110591850157_042026-F.jpg",
-      "preco": 153.94,
-      "precoDe": 369.9,
-      "desconto": 41,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-19T16:35:47.162Z"
     }
   ]
 }
