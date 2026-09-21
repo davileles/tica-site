@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-21T11:34:17.661Z",
+  "atualizadoEm": "2026-09-21T12:04:17.706Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20599",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
+      "link": "https://meli.la/1vWBfPf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.webp",
+      "preco": 109.65,
+      "precoDe": 338,
+      "desconto": 62,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-21T11:56:47.543Z"
+    },
+    {
+      "id": "20598",
+      "loja": "Amazon",
+      "titulo": "Coleção Bluey Universo das Cores",
+      "link": "https://www.amazon.com.br/dp/6561260686?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QzRA+T4XL._SL400_.jpg",
+      "preco": 27.75,
+      "precoDe": 59.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T11:53:21.439Z"
+    },
+    {
+      "id": "20590",
+      "loja": "Shopee",
+      "titulo": "Calça Legging Feminina Grossa Flanelada Suplex Térmica Peluciada –Leg Inverno",
+      "link": "https://s.shopee.com.br/3B7aTuYxSA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mnxayzevqhvo24_tn",
+      "preco": 31.89,
+      "precoDe": 49.83,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T11:48:23.160Z"
+    },
+    {
+      "id": "20588",
+      "loja": "Amazon",
+      "titulo": "Coleção Cores Mágicas - Bluey",
+      "link": "https://www.amazon.com.br/dp/6561264053?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51oK-3ZYdHL._SL400_.jpg",
+      "preco": 14,
+      "precoDe": 29.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T11:44:47.340Z"
+    },
+    {
+      "id": "20580",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Cuecas Algodão Polo Wear Sortido",
+      "link": "https://meli.la/2mWoh45",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-O.webp",
+      "preco": 103.69,
+      "precoDe": 299.99,
+      "desconto": 59,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-21T11:38:59.524Z"
+    },
     {
       "id": "20574",
       "loja": "Amazon",
@@ -61,18 +121,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-21T11:02:54.602Z"
-    },
-    {
-      "id": "20546",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
-      "link": "https://meli.la/1vWBfPf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.webp",
-      "preco": 109.65,
-      "precoDe": 338,
-      "desconto": 62,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-20T22:52:14.171Z"
     },
     {
       "id": "20541",
@@ -1393,54 +1441,6 @@
       "desconto": 41,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-19T16:35:47.162Z"
-    },
-    {
-      "id": "20321",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/9AOkkY57og",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T16:32:11.205Z"
-    },
-    {
-      "id": "20320",
-      "loja": "Amazon",
-      "titulo": "PRO STICK PROTETOR SOLAR MULTIFUNCIONAL FPS95 PRO10 14G",
-      "link": "https://www.amazon.com.br/dp/B0B3STWN1Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kEyrGF7AL._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 119.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T16:28:47.093Z"
-    },
-    {
-      "id": "20319",
-      "loja": "Amazon",
-      "titulo": "Fogão Portátil 4 Bocas Asiatico Junior Braslar Preto",
-      "link": "https://www.amazon.com.br/dp/B07QB4X554?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41z84gpgIcL._SL400_.jpg",
-      "preco": 167.1,
-      "precoDe": 209.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T16:25:08.267Z"
-    },
-    {
-      "id": "20318",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Lattafa Fakhar Gold Extrait EDP 100ml",
-      "link": "https://meli.la/17QU6hg",
-      "imagem": null,
-      "preco": 171.29,
-      "precoDe": 294.9,
-      "desconto": 35,
-      "cupom": "SITETODO1909",
-      "enviadoEm": "2026-09-19T16:21:20.670Z"
     }
   ]
 }
