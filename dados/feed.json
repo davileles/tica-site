@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-21T17:05:14.112Z",
+  "atualizadoEm": "2026-09-21T17:28:01.678Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20828",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Mc Trainer 3 Masculino",
+      "link": "https://meli.la/1vwAQPW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_623887-MLB100241409643_122025-O.webp",
+      "preco": 440.99,
+      "precoDe": 499.99,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T17:20:32.128Z"
+    },
+    {
+      "id": "20827",
+      "loja": "Shopee",
+      "titulo": "Kit Organizadores de Armario Aramado Cozinha Prateleira Pratos Copos Armário",
+      "link": "https://s.shopee.com.br/8plxasP1xD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm3008dhuyp1f_tn",
+      "preco": 49.33,
+      "precoDe": 65.77,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T17:16:57.662Z"
+    },
+    {
+      "id": "20823",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4un Saco Organizador Edredon Cobertor Multiuso Dobrável",
+      "link": "https://meli.la/1nvYBgy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944458-MLB105918078522_022026-O.webp",
+      "preco": 51.279999999999994,
+      "precoDe": 104.6,
+      "desconto": 46,
+      "cupom": "SITETODO2109",
+      "enviadoEm": "2026-09-21T17:08:57.254Z"
+    },
+    {
+      "id": "20820",
+      "loja": "Mercado Livre",
+      "titulo": "Cozinha Bancada Infantil Mini Chef Com 46 Peças Maxi Toys",
+      "link": "https://meli.la/334NFEj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981736-MLA105346112667_012026-F.jpg",
+      "preco": 42.41,
+      "precoDe": 159.9,
+      "desconto": 69,
+      "cupom": "MELIMAXITOYS",
+      "enviadoEm": "2026-09-21T17:05:36.940Z"
+    },
     {
       "id": "20816",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-09-20T16:00:04.545Z"
-    },
-    {
-      "id": "20475",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Gkd Zero Transparência Legging Cós Alto Top Duplo",
-      "link": "https://meli.la/1XX2t1c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861485-MLB108325937552_032026-O.webp",
-      "preco": 41.99,
-      "precoDe": 84.99,
-      "desconto": 29,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-20T15:56:53.286Z"
-    },
-    {
-      "id": "20474",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Sem Fio Makita Df001dw Com 80 Acessórios",
-      "link": "https://meli.la/1wc8oJH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940495-MLB102089800295_122025-O.webp",
-      "preco": 361.71,
-      "precoDe": 513.63,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T15:53:20.417Z"
-    },
-    {
-      "id": "20472",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/1AXNjJdQW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 39.33,
-      "precoDe": 66.66,
-      "desconto": 26,
-      "cupom": "R4P1D1NH0",
-      "enviadoEm": "2026-09-20T15:48:54.982Z"
-    },
-    {
-      "id": "20470",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Esportivo Tribase Reps Under Armour pgray Liso 40",
-      "link": "https://meli.la/1DkVH9g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700881-MLA99481398878_112025-F.jpg",
-      "preco": 319.99,
-      "precoDe": 499.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T15:34:46.419Z"
     }
   ]
 }
