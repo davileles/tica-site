@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-21T15:05:13.915Z",
+  "atualizadoEm": "2026-09-21T15:20:20.122Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20740",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
+      "link": "https://meli.la/1JiKxUW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676335-MLB117966752223_092026-O.webp",
+      "preco": 89.6,
+      "precoDe": 169.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T15:10:20.116Z"
+    },
+    {
+      "id": "20737",
+      "loja": "Shopee",
+      "titulo": "Jaqueta Plus Size Feminina Acolchoada com Capuz – Inverno Quente e Confortável",
+      "link": "https://s.shopee.com.br/AAHL2JTy61",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlzn02kws0zod4_tn",
+      "preco": 93.99,
+      "precoDe": 119.99,
+      "desconto": 5,
+      "cupom": "PLXN24GJHC",
+      "enviadoEm": "2026-09-21T15:07:00.065Z"
+    },
     {
       "id": "20731",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-20T12:50:05.402Z"
-    },
-    {
-      "id": "20427",
-      "loja": "Mercado Livre",
-      "titulo": "Loção Hidratante Corporal Sem Perfume, com Ceramidas Essenciais e Ácido Hialurônico, Textura Fluida CeraVe 473ml",
-      "link": "https://meli.la/1mLMtRm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744669-MLA110746875502_052026-F.jpg",
-      "preco": 84.36,
-      "precoDe": 143.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:49:18.395Z"
-    },
-    {
-      "id": "20425",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Protein Concentrado - Pote 900g Dux Nutrition - Sabor Chocolate",
-      "link": "https://meli.la/2WnmZs6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728880-MLA107260069950_032026-F.jpg",
-      "preco": 182.69,
-      "precoDe": 344,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-20T12:42:21.020Z"
     }
   ]
 }
