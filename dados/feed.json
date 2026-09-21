@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-21T13:22:57.977Z",
+  "atualizadoEm": "2026-09-21T13:35:13.914Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "20688",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/6q0sxmZpu4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 59.980000000000004,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": "PLXN24GJHC",
+      "enviadoEm": "2026-09-21T13:33:10.437Z"
+    },
+    {
+      "id": "20687",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+      "link": "https://meli.la/2d5Q5NR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946503-MLB82989859698_032025-O.webp",
+      "preco": 135.44,
+      "precoDe": 288.63,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-21T13:29:36.934Z"
+    },
     {
       "id": "20681",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-19T22:12:50.465Z"
-    },
-    {
-      "id": "20374",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Whey Leite Café Espuma Shake Drinks Capuccino Suco Comica",
-      "link": "https://meli.la/1s38QLi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896126-MLA115949165434_092026-F.jpg",
-      "preco": 19.88,
-      "precoDe": 49.99,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T22:09:36.196Z"
-    },
-    {
-      "id": "20370",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/8fSUVqE1dV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-19T21:53:58.614Z"
     }
   ]
 }
