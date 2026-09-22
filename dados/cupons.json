@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T13:24:22.673Z",
+  "atualizadoEm": "2026-09-22T14:24:21.608Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -927,30 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIACHAPROMOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BATEUAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -972,42 +948,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TEMAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AMODESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIKIDS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1128,30 +1068,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VIPNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ACHADINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
