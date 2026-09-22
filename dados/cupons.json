@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T00:57:30.258Z",
+  "atualizadoEm": "2026-09-22T02:57:30.279Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1092,6 +1092,18 @@
       "limite": 60,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
       "validadeAte": "2026-09-22T14:21:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "20BELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupom válido em selecionados. Lista completa disponível no link.",
+      "validadeAte": "2026-09-23T02:33:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
