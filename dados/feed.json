@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T15:18:52.640Z",
+  "atualizadoEm": "2026-09-22T15:35:25.221Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21231",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/2BF57shn7s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 54.31,
+      "precoDe": 73.39,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T15:25:25.219Z"
+    },
     {
       "id": "21228",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-09-21T19:16:35.870Z"
-    },
-    {
-      "id": "20898",
-      "loja": "Amazon",
-      "titulo": "Pack YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 24 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CXF9FZ94?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cUmKwcucL._SL400_.jpg",
-      "preco": 141.66,
-      "precoDe": 192.19,
-      "desconto": 13,
-      "cupom": "15% OFF NO CARRINHO",
-      "enviadoEm": "2026-09-21T19:15:36.723Z"
     }
   ]
 }
