@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T17:59:15.742Z",
+  "atualizadoEm": "2026-09-22T18:16:27.994Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21305",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/9zxwdhigao",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 54.989999999999995,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T18:13:34.137Z"
+    },
+    {
+      "id": "21304",
+      "loja": "Mercado Livre",
+      "titulo": "Bicicleta Ergométrica Spinning Inércia 5kg Velocron V500 Preto",
+      "link": "https://meli.la/115Nvgc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699115-MLA107760441255_022026-F.jpg",
+      "preco": 583.11,
+      "precoDe": 2000,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T18:10:04.326Z"
+    },
+    {
+      "id": "21301",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
+      "link": "https://meli.la/15Zhi6o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
+      "preco": 271.44,
+      "precoDe": 429.9,
+      "desconto": 21,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-22T18:04:50.252Z"
+    },
     {
       "id": "21297",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-21T20:36:50.044Z"
-    },
-    {
-      "id": "20967",
-      "loja": "Mercado Livre",
-      "titulo": "Sabonete Em Barra Natura Tododia Flores E Jasmim 2un 90g",
-      "link": "https://meli.la/1J52cB4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761701-MLB99142789314_112025-O.webp",
-      "preco": 12.54,
-      "precoDe": 20.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:33:23.885Z"
-    },
-    {
-      "id": "20966",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/7Adjp1uv2Y",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 11.98,
-      "precoDe": 49.92,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:29:54.904Z"
-    },
-    {
-      "id": "20965",
-      "loja": "Mercado Livre",
-      "titulo": "Nintendo Gift Card eShop R$ 100 (Digital)",
-      "link": "https://meli.la/13TFqeo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_840768-MLA116552789387_082026-F.jpg",
-      "preco": 75,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DEMORA26",
-      "enviadoEm": "2026-09-21T20:26:49.577Z"
     }
   ]
 }
