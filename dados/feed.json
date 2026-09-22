@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T19:07:25.375Z",
+  "atualizadoEm": "2026-09-22T19:19:46.710Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21343",
+      "loja": "Amazon",
+      "titulo": "Fantasia Infantil Princesa com Vestido Longo Lilás e Rosa + Tiara com Trança Luxo para Festa Aniversário e Carnaval G 130 cm",
+      "link": "https://www.amazon.com.br/dp/B0G8QJCRYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VibAKgv2L._SL400_.jpg",
+      "preco": 89.21,
+      "precoDe": 129.21,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T19:18:06.659Z"
+    },
     {
       "id": "21338",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-21T21:45:37.094Z"
-    },
-    {
-      "id": "20991",
-      "loja": "Amazon",
-      "titulo": "Baby Alive, Boneca, Bebê Shampoo, Sophia Sparkle - Cabelos Castanhos",
-      "link": "https://www.amazon.com.br/dp/B0CCQVZMQF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aLsWxtmeL._SL400_.jpg",
-      "preco": 78.99,
-      "precoDe": 149.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T21:32:57.199Z"
     }
   ]
 }
