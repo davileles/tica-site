@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T17:06:55.644Z",
+  "atualizadoEm": "2026-09-22T17:30:12.405Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21289",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/AKamz3F1R1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T17:25:22.641Z"
+    },
+    {
+      "id": "21288",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira Bosch 12v Gsb120li + Kit 300 Peças - Azul - 60hz",
+      "link": "https://meli.la/1RBfWMs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856921-MLA99469929186_112025-F.jpg",
+      "preco": 338.46,
+      "precoDe": 818,
+      "desconto": 41,
+      "cupom": "GARIMPEI",
+      "enviadoEm": "2026-09-22T17:21:48.998Z"
+    },
+    {
+      "id": "21284",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Raspberri - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
+      "preco": 74.9,
+      "precoDe": 117.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T17:16:58.855Z"
+    },
     {
       "id": "21279",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-09-21T20:22:21.458Z"
-    },
-    {
-      "id": "20956",
-      "loja": "Mercado Livre",
-      "titulo": "Google Play Gift Card R$ 100 (Digital)",
-      "link": "https://meli.la/1K1NZLg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688857-MLA115054827596_082026-F.jpg",
-      "preco": 75,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DEMORA26",
-      "enviadoEm": "2026-09-21T20:21:33.038Z"
-    },
-    {
-      "id": "20955",
-      "loja": "Mercado Livre",
-      "titulo": "Uber Gift Card R$100 (digital)",
-      "link": "https://meli.la/1GjAbqS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887703-MLA115055002292_082026-F.jpg",
-      "preco": 75,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DEMORA26",
-      "enviadoEm": "2026-09-21T20:18:31.104Z"
-    },
-    {
-      "id": "20950",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray London Dry, 750ml",
-      "link": "https://www.amazon.com.br/dp/B006I1M8ZU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31mKO5ZVn0L._SL400_.jpg",
-      "preco": 99.98,
-      "precoDe": 142.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:14:21.786Z"
     }
   ]
 }
