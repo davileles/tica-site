@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T11:49:19.393Z",
+  "atualizadoEm": "2026-09-22T12:24:21.259Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELICOMPRAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-23T12:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIDESCONTEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-23T12:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -831,6 +855,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MLCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-23T12:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -876,6 +912,18 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-10-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELINOCARRINHO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-23T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1152,6 +1200,18 @@
       "limite": 10,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-23T03:00:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAHJ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-23T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
