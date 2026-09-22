@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T21:46:39.113Z",
+  "atualizadoEm": "2026-09-22T22:05:36.089Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21438",
+      "loja": "Amazon",
+      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
+      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
+      "preco": 284.94,
+      "precoDe": 617.38,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T21:56:53.689Z"
+    },
+    {
+      "id": "21437",
+      "loja": "Amazon",
+      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 50.32,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T21:55:40.497Z"
+    },
+    {
+      "id": "21424",
+      "loja": "Amazon",
+      "titulo": "Top Feminino Fila Nadador Essential, Cinza Azulado, P",
+      "link": "https://www.amazon.com.br/dp/B0H6QLT4D5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31EQVnTzbBL._SL400_.jpg",
+      "preco": 59.92,
+      "precoDe": 119.99,
+      "desconto": 33,
+      "cupom": "25MODAPRIME",
+      "enviadoEm": "2026-09-22T21:52:09.823Z"
+    },
     {
       "id": "21423",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-22T12:26:00.185Z"
-    },
-    {
-      "id": "21087",
-      "loja": "Mercado Livre",
-      "titulo": "Ilía Flor De Laranjeira 50ml Deo Parfum Feminino Natura",
-      "link": "https://meli.la/1sj7XJF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642201-MLU72605881861_102023-F.jpg",
-      "preco": 119.94,
-      "precoDe": 199.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:22:34.717Z"
-    },
-    {
-      "id": "21084",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Portátil 15.6 1080p Fhd Ips Com Hdmi Usb Preto 127/220v",
-      "link": "https://meli.la/2wg2BsL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653941-MLB97526232737_112025-O.webp",
-      "preco": 320.84000000000003,
-      "precoDe": 699,
-      "desconto": 49,
-      "cupom": "OFERTAHJ",
-      "enviadoEm": "2026-09-22T12:15:16.431Z"
-    },
-    {
-      "id": "21082",
-      "loja": "Mercado Livre",
-      "titulo": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 125g",
-      "link": "https://meli.la/2smxt3b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658983-MLA114006492841_072026-F.jpg",
-      "preco": 60.27,
-      "precoDe": 98.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:11:45.492Z"
     }
   ]
 }
