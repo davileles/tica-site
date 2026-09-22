@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T17:30:12.405Z",
+  "atualizadoEm": "2026-09-22T17:59:15.742Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21297",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/9KiFopVMsH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T17:49:15.740Z"
+    },
     {
       "id": "21289",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "DEMORA26",
       "enviadoEm": "2026-09-21T20:26:49.577Z"
-    },
-    {
-      "id": "20957",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Ferramentas e Furadeira de Impacto B-Tek BT-658 com 120 Peças e 2 Baterias",
-      "link": "https://meli.la/1kP7md6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674286-MLA114064477207_072026-F.jpg",
-      "preco": 289,
-      "precoDe": 699.9,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:22:21.458Z"
     }
   ]
 }
