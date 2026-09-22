@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-21T23:20:43.140Z",
+  "atualizadoEm": "2026-09-22T09:50:16.087Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21023",
+      "loja": "Wine",
+      "titulo": "Kit 6 - Refrescantes Esteban Martín por R$199",
+      "link": "https://tidd.ly/4yLiF6l",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FUCH128-01.png&feedId=47333&k=55d55d4f69a7a93403eb19ca5c1a0e1e014b69f7",
+      "preco": 199.06,
+      "precoDe": 599.4,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T09:46:01.956Z"
+    },
     {
       "id": "21024",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-21T14:38:39.069Z"
-    },
-    {
-      "id": "20715",
-      "loja": "Mercado Livre",
-      "titulo": "Barbie Veterinária com Animais de Estimação e Acessórios",
-      "link": "https://meli.la/2i5JTPm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922274-MLA114940832788_082026-F.jpg",
-      "preco": 268.05,
-      "precoDe": 299.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T14:37:42.560Z"
     }
   ]
 }
