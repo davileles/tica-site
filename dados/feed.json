@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T14:54:19.044Z",
+  "atualizadoEm": "2026-09-22T15:18:52.640Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21228",
+      "loja": "Shopee",
+      "titulo": "Kit coala Home Chá Branco - 4 Itens",
+      "link": "https://s.shopee.com.br/9fL62WDBsn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93_tn",
+      "preco": 49.9,
+      "precoDe": 89.11,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T15:08:52.639Z"
+    },
+    {
+      "id": "21226",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/4fwQ4sYfQW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 28.97,
+      "precoDe": 46.73,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T15:02:52.440Z"
+    },
+    {
+      "id": "21224",
+      "loja": "Amazon",
+      "titulo": "Verden Bicicleta Infantil Casa Magica Da Gabby Aro 12 com cestinha rodinhas de apoio e garrafinha",
+      "link": "https://www.amazon.com.br/dp/B0DYB4M3ZZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XJWIehUlL._SL400_.jpg",
+      "preco": 208.85,
+      "precoDe": 299.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:58:30.875Z"
+    },
     {
       "id": "21221",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 13,
       "cupom": "15% OFF NO CARRINHO",
       "enviadoEm": "2026-09-21T19:15:36.723Z"
-    },
-    {
-      "id": "20889",
-      "loja": "Amazon",
-      "titulo": "Bourbon Whiskey Jim Beam White 1L",
-      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
-      "preco": 78,
-      "precoDe": 109,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T19:04:50.418Z"
-    },
-    {
-      "id": "20883",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/40ghwMOf76",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T18:56:53.216Z"
-    },
-    {
-      "id": "20880",
-      "loja": "Shopee",
-      "titulo": "PC Gamer Forge, Intel Core i5, GT 1030 2GB, 8GB DE RAM, SSD 240GB, Fonte 500W",
-      "link": "https://s.shopee.com.br/9V1eUAkOGg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mqgfxesm76rm3f_tn",
-      "preco": 1485.9,
-      "precoDe": 2122.71,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T18:49:59.833Z"
     }
   ]
 }
