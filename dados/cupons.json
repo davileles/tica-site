@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T19:07:27.884Z",
+  "atualizadoEm": "2026-09-22T19:19:49.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1009,6 +1009,18 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
+    },
+    {
+      "codigo": "OLYKIDS20",
+      "loja": "Olympikus",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
       "codigo": "AQUECE20",
