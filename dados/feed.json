@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-09-22T12:24:18.940Z",
+  "atualizadoEm": "2026-09-22T12:54:19.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21139",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Esmalte Rosa Nude Faces Vegano Caballito Lotengo Color Rosa Claro",
+      "link": "https://meli.la/1T6soxL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_996331-MLU73663951523_122023-F.jpg",
+      "preco": 9.96,
+      "precoDe": 24.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:52:36.333Z"
+    },
+    {
+      "id": "21138",
+      "loja": "Amazon",
+      "titulo": "Bluey - 365 Atividades e Desenhos para Colorir",
+      "link": "https://www.amazon.com.br/dp/656126407X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51kzB7CvFiL._SL400_.jpg",
+      "preco": 13.29,
+      "precoDe": 29.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:49:06.372Z"
+    },
+    {
+      "id": "21130",
+      "loja": "Mercado Livre",
+      "titulo": "Tesoura Profissional Cabeleireiro Navalha/laser  Mofashi",
+      "link": "https://meli.la/2g2fhbw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683826-MLB116423058612_092026-O.webp",
+      "preco": 64.74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELINOCARRINHO",
+      "enviadoEm": "2026-09-22T12:44:35.646Z"
+    },
+    {
+      "id": "21129",
+      "loja": "Amazon",
+      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
+      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
+      "preco": 28.99,
+      "precoDe": 52.76,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:41:10.284Z"
+    },
+    {
+      "id": "21120",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",
+      "link": "https://meli.la/1SPy8su",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821317-MLA113071923402_072026-F.jpg",
+      "preco": 2845,
+      "precoDe": 3399,
+      "desconto": 10,
+      "cupom": "OFERTAHJ",
+      "enviadoEm": "2026-09-22T12:37:56.470Z"
+    },
+    {
+      "id": "21119",
+      "loja": "Amazon",
+      "titulo": "Leite Pó Instantâneo Integral Ninho Lata 380g",
+      "link": "https://www.amazon.com.br/dp/B0CVNKZJFZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51e1yrjVOXL._SL400_.jpg",
+      "preco": 18.49,
+      "precoDe": 23.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:34:21.758Z"
+    },
+    {
+      "id": "21112",
+      "loja": "Mercado Livre",
+      "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
+      "link": "https://meli.la/32dwMuq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-O.webp",
+      "preco": 107.92000000000002,
+      "precoDe": 212,
+      "desconto": 38,
+      "cupom": "TEMAQUI",
+      "enviadoEm": "2026-09-22T12:33:24.840Z"
+    },
+    {
+      "id": "21109",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Cuidados Multicolorido",
+      "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wIZ687WKL._SL400_.jpg",
+      "preco": 28.89,
+      "precoDe": 47.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:30:13.701Z"
+    },
+    {
+      "id": "21096",
+      "loja": "Mercado Livre",
+      "titulo": "Deo Corporal Kriska Drama 100ml - Natura",
+      "link": "https://meli.la/2vZdaoh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774315-MLU78670635121_082024-F.jpg",
+      "preco": 22.76,
+      "precoDe": 56.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:29:06.169Z"
+    },
+    {
+      "id": "21088",
+      "loja": "Amazon",
+      "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290",
+      "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21p1ocly8YL._SL400_.jpg",
+      "preco": 78.72,
+      "precoDe": 119.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T12:26:00.185Z"
+    },
     {
       "id": "21087",
       "loja": "Mercado Livre",
@@ -13,18 +133,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-22T12:22:34.717Z"
-    },
-    {
-      "id": "21086",
-      "loja": "Amazon",
-      "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290",
-      "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21p1ocly8YL._SL400_.jpg",
-      "preco": 78.72,
-      "precoDe": 119.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:18:44.435Z"
     },
     {
       "id": "21084",
@@ -61,18 +169,6 @@
       "desconto": 60,
       "cupom": "V4M0S4PR0V31T4R",
       "enviadoEm": "2026-09-22T12:08:37.248Z"
-    },
-    {
-      "id": "21065",
-      "loja": "Mercado Livre",
-      "titulo": "Deo Corporal Kriska Drama 100ml - Natura",
-      "link": "https://meli.la/2vZdaoh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774315-MLU78670635121_082024-F.jpg",
-      "preco": 28.45,
-      "precoDe": 56.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T11:49:31.396Z"
     },
     {
       "id": "21064",
@@ -1345,102 +1441,6 @@
       "desconto": 34,
       "cupom": "MELIBRASTOY",
       "enviadoEm": "2026-09-21T16:34:02.555Z"
-    },
-    {
-      "id": "20782",
-      "loja": "Mercado Livre",
-      "titulo": "CREATINA MONOHIDRATADA 500g - 100% Pura - 3VS Nutrition",
-      "link": "https://meli.la/1jZ5Jok",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816758-MLA97552844798_112025-F.jpg",
-      "preco": 41.7,
-      "precoDe": 97.99,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T16:30:15.185Z"
-    },
-    {
-      "id": "20781",
-      "loja": "Shopee",
-      "titulo": "Kit 6/12/18/24 Panos De Limpeza  Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável",
-      "link": "https://s.shopee.com.br/70KJLpium8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctxxpi1l4qad6_tn",
-      "preco": 10,
-      "precoDe": 25,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T16:26:57.325Z"
-    },
-    {
-      "id": "20780",
-      "loja": "Mercado Livre",
-      "titulo": "LEGO City 60404 Conjunto de construção de 194 peças em caixa",
-      "link": "https://meli.la/2rXZVCZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799986-MLA100014646767_122025-F.jpg",
-      "preco": 129.9,
-      "precoDe": 199.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T16:23:29.220Z"
-    },
-    {
-      "id": "20778",
-      "loja": "Mercado Livre",
-      "titulo": "Boneca Adora Reborn 48cm Silicone Pode Dar Banho",
-      "link": "https://meli.la/2odXKrH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746653-MLB109019481701_032026-O.webp",
-      "preco": 72.61,
-      "precoDe": 109.9,
-      "desconto": 22,
-      "cupom": "MELIADORA",
-      "enviadoEm": "2026-09-21T16:22:13.437Z"
-    },
-    {
-      "id": "20777",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 T-shirts Oversized Classic Algodão Cléa Store",
-      "link": "https://meli.la/2SdbXYH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_635641-MLB113144873198_072026-O.webp",
-      "preco": 110.32000000000001,
-      "precoDe": 387,
-      "desconto": 64,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-21T16:18:28.376Z"
-    },
-    {
-      "id": "20776",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino E Feminino Response Runner 2 Adidas",
-      "link": "https://meli.la/1naeNiG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867418-MLB114319935420_082026-O.webp",
-      "preco": 302.99,
-      "precoDe": 399.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T16:14:51.806Z"
-    },
-    {
-      "id": "20771",
-      "loja": "Mercado Livre",
-      "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
-      "link": "https://meli.la/1H8twaW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
-      "preco": 94.66,
-      "precoDe": 128,
-      "desconto": 13,
-      "cupom": "MELIATENTU",
-      "enviadoEm": "2026-09-21T16:11:39.522Z"
-    },
-    {
-      "id": "20769",
-      "loja": "Amazon",
-      "titulo": "WAP Ventilador Vertical AIR BREEZE 3 Velocidades, Oscilação De 60°, Motor Silencioso E Alça de Transporte 60W 127v",
-      "link": "https://www.amazon.com.br/dp/B0G62KQWFK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21SiN80IsBL._SL400_.jpg",
-      "preco": 302.84,
-      "precoDe": 399.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T16:08:08.315Z"
     }
   ]
 }
