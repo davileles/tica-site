@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-22T20:18:55.141Z",
+  "atualizadoEm": "2026-09-22T20:35:36.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21397",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 126.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T20:34:49.432Z"
+    },
+    {
+      "id": "21393",
+      "loja": "Mercado Livre",
+      "titulo": "Aquecedor Caloventor Elétrico Good&Go GG-AQ01 2000W Portátil Com Termostato Branco",
+      "link": "https://meli.la/2aeyRi6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743989-MLA99460848018_112025-F.jpg",
+      "preco": 62.22,
+      "precoDe": 119,
+      "desconto": 35,
+      "cupom": "ESTOQUE2209",
+      "enviadoEm": "2026-09-22T20:34:02.714Z"
+    },
+    {
+      "id": "21392",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/1AaslDRCJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 49.989999999999995,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T20:30:39.734Z"
+    },
+    {
+      "id": "21390",
+      "loja": "Mercado Livre",
+      "titulo": "Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto",
+      "link": "https://meli.la/1KgwgjT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737097-MLA108177568778_032026-F.jpg",
+      "preco": 68.77,
+      "precoDe": 119.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T20:27:19.066Z"
+    },
+    {
+      "id": "21388",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto a Bateria Profissional Recarregável 4ah Brushless Parafusadeira Furadeira Alta Potência Sem Escova 2 Baterias MESTRI",
+      "link": "https://meli.la/19rwanj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965537-MLA113910780116_072026-F.jpg",
+      "preco": 172.25,
+      "precoDe": 640.17,
+      "desconto": 66,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-22T20:24:12.300Z"
+    },
+    {
+      "id": "21387",
+      "loja": "Mercado Livre",
+      "titulo": "Pré-treino Adaptogen Panic 300g Abacaxi com Creatina e Cafeína",
+      "link": "https://meli.la/1Xwjgem",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA99578754596_122025-F.jpg",
+      "preco": 55.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ESTOQUE2209",
+      "enviadoEm": "2026-09-22T20:20:53.727Z"
+    },
     {
       "id": "21379",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-22T11:03:32.368Z"
-    },
-    {
-      "id": "21023",
-      "loja": "Wine",
-      "titulo": "Kit 6 - Refrescantes Esteban Martín por R$199",
-      "link": "https://tidd.ly/4yLiF6l",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FUCH128-01.png&feedId=47333&k=55d55d4f69a7a93403eb19ca5c1a0e1e014b69f7",
-      "preco": 199.06,
-      "precoDe": 599.4,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T09:46:01.956Z"
-    },
-    {
-      "id": "21024",
-      "loja": "Mercado Livre",
-      "titulo": "Natura Homem Aromáticos Deo Colônia 100 Ml",
-      "link": "https://meli.la/2UuKUmq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834245-MLA84848492011_052025-F.jpg",
-      "preco": 64.47,
-      "precoDe": 214.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T23:10:43.132Z"
-    },
-    {
-      "id": "21022",
-      "loja": "Mercado Livre",
-      "titulo": "Natura Tododia Noz Pecã e Cacau Feminino Body Splash 200ml",
-      "link": "https://meli.la/2drX1b8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710121-MLA115619065337_082026-F.jpg",
-      "preco": 28.17,
-      "precoDe": 93.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T23:07:21.226Z"
-    },
-    {
-      "id": "21021",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Natura Tododia Flores Essenciais - presente",
-      "link": "https://meli.la/2Ywgy65",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616349-MLA109729501799_032026-F.jpg",
-      "preco": 41.97,
-      "precoDe": 139.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T23:04:19.367Z"
-    },
-    {
-      "id": "21019",
-      "loja": "Mercado Livre",
-      "titulo": "Desodorante Corporal Natura Homem Elo 100ml",
-      "link": "https://meli.la/1FeuY3D",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924245-MLA99827051865_112025-F.jpg",
-      "preco": 21.87,
-      "precoDe": 72.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:57:54.993Z"
-    },
-    {
-      "id": "21018",
-      "loja": "Mercado Livre",
-      "titulo": "Spray Corporal Luna Body Splash Natura -200ml",
-      "link": "https://meli.la/1JHMzvt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945419-MLU74562336095_022024-F.jpg",
-      "preco": 26.48,
-      "precoDe": 92.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:54:35.173Z"
     }
   ]
 }
