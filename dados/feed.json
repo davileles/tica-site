@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-22T22:05:36.089Z",
+  "atualizadoEm": "2026-09-22T22:27:03.091Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21446",
+      "loja": "Shopee",
+      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
+      "link": "https://s.shopee.com.br/905PirjF7B",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
+      "preco": 28.99,
+      "precoDe": 87.85,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:17:03.089Z"
+    },
+    {
+      "id": "21445",
+      "loja": "Amazon",
+      "titulo": "Gin Bulldog London Dry 750ml",
+      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
+      "preco": 81.47,
+      "precoDe": 156.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:15:48.222Z"
+    },
     {
       "id": "21438",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-22T12:30:13.701Z"
-    },
-    {
-      "id": "21096",
-      "loja": "Mercado Livre",
-      "titulo": "Deo Corporal Kriska Drama 100ml - Natura",
-      "link": "https://meli.la/2vZdaoh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774315-MLU78670635121_082024-F.jpg",
-      "preco": 22.76,
-      "precoDe": 56.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:29:06.169Z"
-    },
-    {
-      "id": "21088",
-      "loja": "Amazon",
-      "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290",
-      "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21p1ocly8YL._SL400_.jpg",
-      "preco": 78.72,
-      "precoDe": 119.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:26:00.185Z"
     }
   ]
 }
