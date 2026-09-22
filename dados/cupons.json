@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-22T03:27:30.363Z",
+  "atualizadoEm": "2026-09-22T11:49:19.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -831,18 +831,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DEMORA26",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Gift Card com R$25 de desconto",
-      "validadeAte": "2026-09-22T19:51:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -891,66 +879,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 1100,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-09-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 240,
-      "maximo": null,
-      "limite": 145,
-      "observacao": null,
-      "validadeAte": "2026-09-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MEUVALE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAISDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-09-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VALEPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-09-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZA20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -984,18 +912,6 @@
       "limite": 60,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
       "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "20BELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupom válido em selecionados. Lista completa disponível no link.",
-      "validadeAte": "2026-09-23T02:33:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1203,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIACHAHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
-      "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VIPNOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,18 +1140,6 @@
       "limite": 300,
       "observacao": "Múltiplos cupons para Mercado Livre com diferentes percentuais de desconto, valores mínimos e limites de desconto",
       "validadeAte": "2026-09-22T14:21:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO2109",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 10,
-      "observacao": null,
-      "validadeAte": "2026-09-22T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
