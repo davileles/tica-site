@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-22T16:36:55.279Z",
+  "atualizadoEm": "2026-09-22T17:06:55.644Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21279",
+      "loja": "Amazon",
+      "titulo": "Cadeira De Escritório, Cadeira De Com Apoio Para Os Pés E Encosto Ajustável（Preto）",
+      "link": "https://www.amazon.com.br/dp/B0CSD46QVZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZbAUh9rzL._SL400_.jpg",
+      "preco": 398.04,
+      "precoDe": 421,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T17:03:23.017Z"
+    },
+    {
+      "id": "21276",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/6VO2rr0AeV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 177.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T17:00:15.625Z"
+    },
+    {
+      "id": "21275",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Sweet Red 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMFLFH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311X9CEzTTL._SL400_.jpg",
+      "preco": 22.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T16:56:43.070Z"
+    },
+    {
+      "id": "21270",
+      "loja": "Mercado Livre",
+      "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
+      "link": "https://meli.la/28EutED",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
+      "preco": 56.85,
+      "precoDe": 99.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T16:53:30.621Z"
+    },
+    {
+      "id": "21263",
+      "loja": "Mercado Livre",
+      "titulo": "Barras Nutrata Whey Grego 40g Display com 12 unidades Beijinho",
+      "link": "https://meli.la/1reooSH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701001-MLA99949093193_112025-F.jpg",
+      "preco": 65,
+      "precoDe": 85.5,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T16:49:22.447Z"
+    },
+    {
+      "id": "21261",
+      "loja": "Amazon",
+      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
+      "preco": 751.82,
+      "precoDe": 1364.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T16:39:41.594Z"
+    },
     {
       "id": "21260",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-21T20:14:21.786Z"
-    },
-    {
-      "id": "20947",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Mini Portátil 6 Níveis Silenciosa Recarregável USB 4 Cabeças",
-      "link": "https://s.shopee.com.br/9peUyIdAYv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mptg0wjf4sg016_tn",
-      "preco": 32.29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:06:40.232Z"
-    },
-    {
-      "id": "20936",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
-      "link": "https://meli.la/1U1Yvd6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
-      "preco": 44.900000000000006,
-      "precoDe": 239.9,
-      "desconto": 71,
-      "cupom": "DEMORA26",
-      "enviadoEm": "2026-09-21T20:03:37.640Z"
-    },
-    {
-      "id": "20933",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 47 De Acessorios Ferramentas Completo Para Impressão 3d Manuais Orginal Novo Estilete Pinças Agulha Inox Agulhas De Limpeza De Bico Alicate Para Bambu Labs 0.2/0.25/0.3/0.35/0.",
-      "link": "https://meli.la/1kaj73o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758490-MLA109974216256_042026-F.jpg",
-      "preco": 117.95,
-      "precoDe": 337,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T20:00:28.622Z"
-    },
-    {
-      "id": "20928",
-      "loja": "Amazon",
-      "titulo": "Meu Livro Fofinho: Histórias de Princesas",
-      "link": "https://www.amazon.com.br/dp/6556178357?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51SuIg5nOcL._SL400_.jpg",
-      "preco": 9.01,
-      "precoDe": 14.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T19:59:23.949Z"
-    },
-    {
-      "id": "20924",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
-      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
-      "preco": 20.22,
-      "precoDe": 36.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T19:58:17.616Z"
-    },
-    {
-      "id": "20923",
-      "loja": "Mercado Livre",
-      "titulo": "Pista De Carrinho Posto De Gasolina Garagem Estacionamento Cor Vermelha",
-      "link": "https://meli.la/2YcPYbq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784471-MLA81725580938_012025-F.jpg",
-      "preco": 102.2,
-      "precoDe": 199.9,
-      "desconto": 40,
-      "cupom": "MELIKIDS",
-      "enviadoEm": "2026-09-21T19:57:30.160Z"
     }
   ]
 }
