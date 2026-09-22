@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T14:24:19.045Z",
+  "atualizadoEm": "2026-09-22T14:49:39.254Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21216",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/3LR2Srm3k7",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:39:39.226Z"
+    },
+    {
+      "id": "21212",
+      "loja": "Amazon",
+      "titulo": "Minhas 100 Primeiras Palavras",
+      "link": "https://www.amazon.com.br/dp/8538060872?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51lg612YYUL._SL400_.jpg",
+      "preco": 11.82,
+      "precoDe": 24.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:35:37.218Z"
+    },
+    {
+      "id": "21211",
+      "loja": "Amazon",
+      "titulo": "Jogo Detetive com Aplicativo, Estrela",
+      "link": "https://www.amazon.com.br/dp/B077PLGRBY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51l4fwtLC7L._SL400_.jpg",
+      "preco": 71.99,
+      "precoDe": 119.99,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:34:46.197Z"
+    },
     {
       "id": "21209",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-21T18:42:36.755Z"
-    },
-    {
-      "id": "20876",
-      "loja": "Mercado Livre",
-      "titulo": "Mesa Escritório Industrial 150x60 Reforçado Ferro Homeoffice",
-      "link": "https://meli.la/1XFVZto",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789427-MLB109415561252_042026-O.webp",
-      "preco": 181.22,
-      "precoDe": 271.99,
-      "desconto": 19,
-      "cupom": "TEMAQUI",
-      "enviadoEm": "2026-09-21T18:39:10.719Z"
-    },
-    {
-      "id": "20869",
-      "loja": "Mercado Livre",
-      "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
-      "link": "https://meli.la/17qr8KY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
-      "preco": 47.6,
-      "precoDe": 249,
-      "desconto": 78,
-      "cupom": "MELIGOODMOOD",
-      "enviadoEm": "2026-09-21T18:35:08.250Z"
-    },
-    {
-      "id": "20868",
-      "loja": "Mercado Livre",
-      "titulo": "Bebê Reborn Realista Antonella Menina + Ursinho",
-      "link": "https://meli.la/2Sav7NQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917325-MLA108431597623_032026-F.jpg",
-      "preco": 81.53,
-      "precoDe": 199.9,
-      "desconto": 52,
-      "cupom": "MELIADORA",
-      "enviadoEm": "2026-09-21T18:34:16.964Z"
     }
   ]
 }
