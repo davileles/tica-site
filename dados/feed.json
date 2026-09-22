@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T11:49:16.127Z",
+  "atualizadoEm": "2026-09-22T11:54:09.896Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21065",
+      "loja": "Mercado Livre",
+      "titulo": "Deo Corporal Kriska Drama 100ml - Natura",
+      "link": "https://meli.la/2vZdaoh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774315-MLU78670635121_082024-F.jpg",
+      "preco": 28.45,
+      "precoDe": 56.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T11:49:31.396Z"
+    },
     {
       "id": "21064",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 36,
       "cupom": "MELIACHAHOJE",
       "enviadoEm": "2026-09-21T15:46:05.743Z"
-    },
-    {
-      "id": "20751",
-      "loja": "Amazon",
-      "titulo": "Air Cooler GamerStorm X Redragon AK400 RD Preto 4 Heatpipes Fan 120 mm R-AK400-BKNNMD-AJG",
-      "link": "https://www.amazon.com.br/dp/B0G5RDXV7N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fMGLCl4DL._SL400_.jpg",
-      "preco": 148,
-      "precoDe": 199,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T15:38:47.338Z"
     }
   ]
 }
