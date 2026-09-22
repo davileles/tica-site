@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T21:35:36.086Z",
+  "atualizadoEm": "2026-09-22T21:46:39.113Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21423",
+      "loja": "Amazon",
+      "titulo": "Conjunto de chaves de fenda de precisão 115 em 1 kit de ferramentas de reparo com kit de driver magnético, conjunto de chaves de fenda de precisão eletrônica com bolsa portátil par",
+      "link": "https://www.amazon.com.br/dp/B092SPZFYT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51APugFLBKS._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 27.79,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T21:36:39.112Z"
+    },
     {
       "id": "21421",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-09-22T12:11:45.492Z"
-    },
-    {
-      "id": "21081",
-      "loja": "Shopee",
-      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
-      "link": "https://s.shopee.com.br/AKamdMLZ73",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
-      "preco": 59.980000000000004,
-      "precoDe": 199.95,
-      "desconto": 60,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T12:08:37.248Z"
     }
   ]
 }
