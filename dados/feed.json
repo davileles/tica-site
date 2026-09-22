@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-22T22:47:10.017Z",
+  "atualizadoEm": "2026-09-22T23:02:38.249Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21457",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit de Pontas e Brocas X-Line 33 unidades",
+      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
+      "preco": 76.1,
+      "precoDe": 169.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:57:25.777Z"
+    },
+    {
+      "id": "21456",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 136.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:56:12.054Z"
+    },
     {
       "id": "21454",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "MELINOCARRINHO",
       "enviadoEm": "2026-09-22T12:44:35.646Z"
-    },
-    {
-      "id": "21129",
-      "loja": "Amazon",
-      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
-      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
-      "preco": 28.99,
-      "precoDe": 52.76,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:41:10.284Z"
-    },
-    {
-      "id": "21120",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Samsung Galaxy Book4 Intel® U300 (1.20 Ghz, até 4.4GHz, 8 MB L3 Cache), Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg",
-      "link": "https://meli.la/1SPy8su",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821317-MLA113071923402_072026-F.jpg",
-      "preco": 2845,
-      "precoDe": 3399,
-      "desconto": 10,
-      "cupom": "OFERTAHJ",
-      "enviadoEm": "2026-09-22T12:37:56.470Z"
     }
   ]
 }
