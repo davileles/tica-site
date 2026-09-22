@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-22T22:33:38.240Z",
+  "atualizadoEm": "2026-09-22T22:47:10.017Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21454",
+      "loja": "Amazon",
+      "titulo": "Vonder, Óculos De Segurança Boxer Verde.",
+      "link": "https://www.amazon.com.br/dp/B08K9BMLWB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQMe+HuSL._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": 12.11,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:37:10.015Z"
+    },
+    {
+      "id": "21453",
+      "loja": "Amazon",
+      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
+      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
+      "preco": 99.99,
+      "precoDe": 141.84,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T22:35:56.672Z"
+    },
     {
       "id": "21452",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": "OFERTAHJ",
       "enviadoEm": "2026-09-22T12:37:56.470Z"
-    },
-    {
-      "id": "21119",
-      "loja": "Amazon",
-      "titulo": "Leite Pó Instantâneo Integral Ninho Lata 380g",
-      "link": "https://www.amazon.com.br/dp/B0CVNKZJFZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51e1yrjVOXL._SL400_.jpg",
-      "preco": 18.49,
-      "precoDe": 23.99,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:34:21.758Z"
-    },
-    {
-      "id": "21112",
-      "loja": "Mercado Livre",
-      "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
-      "link": "https://meli.la/32dwMuq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-O.webp",
-      "preco": 107.92000000000002,
-      "precoDe": 212,
-      "desconto": 38,
-      "cupom": "TEMAQUI",
-      "enviadoEm": "2026-09-22T12:33:24.840Z"
     }
   ]
 }
