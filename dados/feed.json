@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T09:50:16.087Z",
+  "atualizadoEm": "2026-09-22T11:19:16.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21049",
+      "loja": "Amazon",
+      "titulo": "Panela de Arroz Elétrica Elgin Capacidade 5 Xícaras 1 Litro 400W 110V",
+      "link": "https://www.amazon.com.br/dp/B0BV4Y6N8G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41H8ezgtHJL._SL400_.jpg",
+      "preco": 119,
+      "precoDe": 215,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T11:17:00.557Z"
+    },
+    {
+      "id": "21047",
+      "loja": "Amazon",
+      "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De",
+      "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sDeUv76NL._SL400_.jpg",
+      "preco": 68.99,
+      "precoDe": 90.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T11:13:31.766Z"
+    },
+    {
+      "id": "21044",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Para Mãos Essencial Exclusivo Floral Feminino 40 G",
+      "link": "https://meli.la/2qGJbDe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606075-MLB110278771129_042026-O.webp",
+      "preco": 29.16,
+      "precoDe": 48.6,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T11:03:32.368Z"
+    },
     {
       "id": "21023",
       "loja": "Wine",
@@ -1405,42 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-09-21T14:51:09.239Z"
-    },
-    {
-      "id": "20720",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
-      "link": "https://meli.la/1BjKh3a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
-      "preco": 454.5,
-      "precoDe": 899,
-      "desconto": 44,
-      "cupom": "MELIACHAHOJE",
-      "enviadoEm": "2026-09-21T14:43:53.915Z"
-    },
-    {
-      "id": "20718",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Tripla Proteção Fralda g 78 Unidades",
-      "link": "https://meli.la/2YKWGr9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907479-MLA100242913347_122025-F.jpg",
-      "preco": 67.19,
-      "precoDe": 74.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T14:39:40.171Z"
-    },
-    {
-      "id": "20717",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
-      "link": "https://meli.la/2GcWmTQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625506-MLA96889901808_112025-F.jpg",
-      "preco": 64.9,
-      "precoDe": 74.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T14:38:39.069Z"
     }
   ]
 }
