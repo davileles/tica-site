@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-22T15:35:25.221Z",
+  "atualizadoEm": "2026-09-22T15:54:19.045Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21237",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/1AaZRi7y4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 129.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T15:48:09.033Z"
+    },
     {
       "id": "21231",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-09-21T19:19:54.979Z"
-    },
-    {
-      "id": "20899",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300 Peças",
-      "link": "https://meli.la/2mswG7x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705500-MLA99899450981_112025-F.jpg",
-      "preco": 319.9,
-      "precoDe": 492.71,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T19:16:35.870Z"
     }
   ]
 }
