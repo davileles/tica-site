@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-22T19:36:35.593Z",
+  "atualizadoEm": "2026-09-22T20:02:52.030Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21367",
+      "loja": "Amazon",
+      "titulo": "Camiseta Oakley Mark Ii Ss Tee, Cinza Mescla, P",
+      "link": "https://www.amazon.com.br/dp/B0H995C1BF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31dFqX92-QL._SL400_.jpg",
+      "preco": 59.92,
+      "precoDe": 129.9,
+      "desconto": 38,
+      "cupom": "25MODAPRIME",
+      "enviadoEm": "2026-09-22T19:52:52.027Z"
+    },
+    {
+      "id": "21358",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Parafusadeira Multifuncional Kit Go De Ferramentas Bits",
+      "link": "https://meli.la/2LQoVFC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990970-MLB92443904875_092025-O.webp",
+      "preco": 78.52000000000001,
+      "precoDe": 176.98,
+      "desconto": 45,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-22T19:48:03.838Z"
+    },
+    {
+      "id": "21357",
+      "loja": "Amazon",
+      "titulo": "Perigoso! Este livro contém coelhos!",
+      "link": "https://www.amazon.com.br/dp/6526113427?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51XFPBjphdL._SL400_.jpg",
+      "preco": 17.8,
+      "precoDe": 39.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T19:46:59.959Z"
+    },
+    {
+      "id": "21356",
+      "loja": "Mercado Livre",
+      "titulo": "Whisky Johnnie Walker Black Label de 1L",
+      "link": "https://meli.la/2kRuqTK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
+      "preco": 103.6,
+      "precoDe": 229.98,
+      "desconto": 36,
+      "cupom": "GARIMPEI",
+      "enviadoEm": "2026-09-22T19:46:06.538Z"
+    },
+    {
+      "id": "21355",
+      "loja": "Amazon",
+      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
+      "preco": 21.93,
+      "precoDe": 49.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T19:45:06.080Z"
+    },
+    {
+      "id": "21354",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/3g3tCPJqAe",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 449,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T19:44:20.196Z"
+    },
     {
       "id": "21350",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-09-21T22:37:47.129Z"
-    },
-    {
-      "id": "21013",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
-      "link": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51E6UoPIAiL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 181.64,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:36:57.855Z"
-    },
-    {
-      "id": "21011",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+eg7tByTL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 181.64,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:35:46.546Z"
-    },
-    {
-      "id": "21010",
-      "loja": "Mercado Livre",
-      "titulo": "Body Splash Maçã Caramelada E Baunilha 200ml Natura Tododia",
-      "link": "https://meli.la/1SK5QR4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893965-MLA115156277264_082026-F.jpg",
-      "preco": 29.07,
-      "precoDe": 96.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:34:39.284Z"
-    },
-    {
-      "id": "21009",
-      "loja": "Mercado Livre",
-      "titulo": "Soprador De Ar Eletrico Automotivo Folhas Potente Turbo 350W Com 2 Baterias 160000 RPM De Potencia Sem Fio Recarregavel Multiuso Landara",
-      "link": "https://meli.la/1hCkDxd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738403-MLA117131785987_092026-F.jpg",
-      "preco": 98,
-      "precoDe": 199.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:31:33.298Z"
-    },
-    {
-      "id": "21007",
-      "loja": "Amazon",
-      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
-      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
-      "preco": 88.87,
-      "precoDe": 129.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:08:12.056Z"
-    },
-    {
-      "id": "21002",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast Cabo Blindado Tipo U",
-      "link": "https://meli.la/1fKSiGB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923598-MLA113044313715_062026-F.jpg",
-      "preco": 29,
-      "precoDe": 78.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T21:56:41.184Z"
     }
   ]
 }
