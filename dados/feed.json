@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-22T20:02:52.030Z",
+  "atualizadoEm": "2026-09-22T20:18:55.141Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21379",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola de Pintura HVLP Deko 600W LED 1,2L 3 Bicos",
+      "link": "https://meli.la/2eqgqdF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680609-MLA100031211051_122025-F.jpg",
+      "preco": 263.76,
+      "precoDe": 388.99,
+      "desconto": 15,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-22T20:08:55.139Z"
+    },
+    {
+      "id": "21378",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 59.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T20:07:43.960Z"
+    },
+    {
+      "id": "21377",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/4qFqc67HSx",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 194,
+      "precoDe": 281.58,
+      "desconto": 24,
+      "cupom": "V4M0S4PR0V31T4R",
+      "enviadoEm": "2026-09-22T20:06:44.005Z"
+    },
     {
       "id": "21367",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-09-21T22:54:35.173Z"
-    },
-    {
-      "id": "21017",
-      "loja": "Mercado Livre",
-      "titulo": "Desodorante Corporal Natura Homem Nós - 100ml",
-      "link": "https://meli.la/1bCLyjY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_972467-MLA88805780100_082025-F.jpg",
-      "preco": 21.87,
-      "precoDe": 72.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:51:13.467Z"
-    },
-    {
-      "id": "21015",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Escritório Ergonômica Python Fly B07 Cinza Com Suporte Lombar",
-      "link": "https://meli.la/145dbU4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655101-MLA114169346640_082026-F.jpg",
-      "preco": 339,
-      "precoDe": 749.99,
-      "desconto": 47,
-      "cupom": "TEMAQUI",
-      "enviadoEm": "2026-09-21T22:44:07.678Z"
-    },
-    {
-      "id": "21014",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51qfKiTDxyL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 181.64,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T22:37:47.129Z"
     }
   ]
 }
