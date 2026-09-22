@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-22T14:49:39.254Z",
+  "atualizadoEm": "2026-09-22T14:54:19.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21221",
+      "loja": "Amazon",
+      "titulo": "O Grande Livro de Química do Manual do Mundo",
+      "link": "https://www.amazon.com.br/dp/6555646454?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514RR15wZnL._SL400_.jpg",
+      "preco": 55.84,
+      "precoDe": 99.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:51:15.757Z"
+    },
+    {
+      "id": "21220",
+      "loja": "Amazon",
+      "titulo": "Bluey Maletinha Divertida",
+      "link": "https://www.amazon.com.br/dp/6561260643?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DbF9p2j0L._SL400_.jpg",
+      "preco": 19.79,
+      "precoDe": 49.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-22T14:50:02.066Z"
+    },
     {
       "id": "21216",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-21T18:49:59.833Z"
-    },
-    {
-      "id": "20878",
-      "loja": "Mercado Livre",
-      "titulo": "Pillow Top Casal C/ Elástico Algodão 400 Fios Protetor Cor Branco Desenho Do Tecido Liso",
-      "link": "https://meli.la/2fteKuw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789182-MLA111034649075_042026-F.jpg",
-      "preco": 76.74000000000001,
-      "precoDe": 129.99,
-      "desconto": 28,
-      "cupom": "TEMAQUI",
-      "enviadoEm": "2026-09-21T18:46:31.240Z"
-    },
-    {
-      "id": "20877",
-      "loja": "Shopee",
-      "titulo": "Notebook VAIO FE16 AMD® Ryzen 5-5625U Linux 8GB RAM 256GB SSD 16\" IPS WUXGA Antirreflexo - Cinza",
-      "link": "https://s.shopee.com.br/1gIn9NJuVV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddnfm1jsj5t93_tn",
-      "preco": 3259.78,
-      "precoDe": 4527.47,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-21T18:42:36.755Z"
     }
   ]
 }
