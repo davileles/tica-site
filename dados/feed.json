@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-23T15:20:28.741Z",
+  "atualizadoEm": "2026-09-23T15:39:14.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21683",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Ilía Laços Deo Parfum 50ml Feminino",
+      "link": "https://meli.la/1zvpLJk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992412-MLA84548822206_052025-F.jpg",
+      "preco": 85.94,
+      "precoDe": 199.9,
+      "desconto": 50,
+      "cupom": "LOJASOFICIAIS",
+      "enviadoEm": "2026-09-23T15:36:41.346Z"
+    },
+    {
+      "id": "21681",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Parafusadeira à Bateria Íon Lítio 4V BD40K4 Bivolt",
+      "link": "https://www.amazon.com.br/dp/B07WF9CDTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417qz5L36pL._SL400_.jpg",
+      "preco": 207.63,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:33:11.623Z"
+    },
+    {
+      "id": "21680",
+      "loja": "Amazon",
+      "titulo": "Pack de SCHWEPPES Tônica 350ml 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTQHNSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41O-VpfJiwL._SL400_.jpg",
+      "preco": 20.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:32:08.578Z"
+    },
+    {
+      "id": "21679",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "link": "https://s.shopee.com.br/3VkUJbyBlA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
+      "preco": 46.99,
+      "precoDe": 99.98,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:31:11.940Z"
+    },
+    {
+      "id": "21675",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Luna Força Deo Colônia Feminina 75 ml.",
+      "link": "https://meli.la/1n4auqe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_851051-MLA84210655180_052025-F.jpg",
+      "preco": 77.95,
+      "precoDe": 185.9,
+      "desconto": 50,
+      "cupom": "LOJASOFICIAIS",
+      "enviadoEm": "2026-09-23T15:25:52.004Z"
+    },
     {
       "id": "21672",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 41,
       "cupom": "GARIMPEI",
       "enviadoEm": "2026-09-22T17:21:48.998Z"
-    },
-    {
-      "id": "21284",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Raspberri - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
-      "preco": 74.9,
-      "precoDe": 117.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T17:16:58.855Z"
-    },
-    {
-      "id": "21279",
-      "loja": "Amazon",
-      "titulo": "Cadeira De Escritório, Cadeira De Com Apoio Para Os Pés E Encosto Ajustável（Preto）",
-      "link": "https://www.amazon.com.br/dp/B0CSD46QVZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZbAUh9rzL._SL400_.jpg",
-      "preco": 398.04,
-      "precoDe": 421,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T17:03:23.017Z"
-    },
-    {
-      "id": "21276",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/6VO2rr0AeV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 177.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T17:00:15.625Z"
-    },
-    {
-      "id": "21275",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Sweet Red 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMFLFH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311X9CEzTTL._SL400_.jpg",
-      "preco": 22.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:56:43.070Z"
-    },
-    {
-      "id": "21270",
-      "loja": "Mercado Livre",
-      "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
-      "link": "https://meli.la/28EutED",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
-      "preco": 56.85,
-      "precoDe": 99.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:53:30.621Z"
     }
   ]
 }
