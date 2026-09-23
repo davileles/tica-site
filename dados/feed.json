@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-23T14:22:19.996Z",
+  "atualizadoEm": "2026-09-23T14:40:29.377Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21653",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
+      "preco": 44.99,
+      "precoDe": 77.27,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T14:34:53.761Z"
+    },
+    {
+      "id": "21652",
+      "loja": "Amazon",
+      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
+      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
+      "preco": 999,
+      "precoDe": 1169,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T14:26:32.421Z"
+    },
+    {
+      "id": "21650",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
+      "link": "https://s.shopee.com.br/6VO5oXZxxV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
+      "preco": 114,
+      "precoDe": 438.46,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T14:23:51.721Z"
+    },
+    {
+      "id": "21649",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/W6sfDqsaS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.32,
+      "precoDe": 35.05,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T14:22:45.021Z"
+    },
     {
       "id": "21643",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-22T16:23:58.194Z"
-    },
-    {
-      "id": "21248",
-      "loja": "Amazon",
-      "titulo": "Absorventes Descartáveis para Seios Ultra Respiráveis Medela | Altamente Absorventes, Respiráveis e Discretos para maior Conforto, 30 unidades/caixa",
-      "link": "https://www.amazon.com.br/dp/B0F4P1TC2N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yTOxqpgtL._SL400_.jpg",
-      "preco": 25.5,
-      "precoDe": 29.99,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:23:11.251Z"
-    },
-    {
-      "id": "21247",
-      "loja": "Amazon",
-      "titulo": "Mimo Style Prato Bus Bambu, com Divisória, com Ventosa, Marrom",
-      "link": "https://www.amazon.com.br/dp/B0DCW7VCPG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ASwzHphaL._SL400_.jpg",
-      "preco": 48.34,
-      "precoDe": 62.12,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:22:25.748Z"
-    },
-    {
-      "id": "21244",
-      "loja": "Amazon",
-      "titulo": "Cerveja Sem Álcool Budweiser, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNN2482?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NnWG7JmDL._SL400_.jpg",
-      "preco": 26.8,
-      "precoDe": 36.72,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:15:18.799Z"
-    },
-    {
-      "id": "21242",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/4B09YeXPnP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 346.99,
-      "precoDe": 601.62,
-      "desconto": 39,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T16:14:09.118Z"
     }
   ]
 }
