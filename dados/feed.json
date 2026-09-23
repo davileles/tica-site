@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-23T16:24:25.972Z",
+  "atualizadoEm": "2026-09-23T16:53:26.005Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21753",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Aqua Power I, Mondial 1400W - LAP-01-GY",
+      "link": "https://meli.la/31ypUap",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675015-MLA99956902451_112025-F.jpg",
+      "preco": 275.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-23T16:52:36.153Z"
+    },
+    {
+      "id": "21748",
+      "loja": "Shopee",
+      "titulo": "SSD WD Green 480GB INTERNO WESTERN DIGITAL SATA3 WD GREEN WDS480G3G0A 480GB VERDE",
+      "link": "https://s.shopee.com.br/7AdmlhiFSI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbdw44pnd21b0b_tn",
+      "preco": 329,
+      "precoDe": 438.46,
+      "desconto": 9,
+      "cupom": "C0D1G070",
+      "enviadoEm": "2026-09-23T16:49:20.691Z"
+    },
+    {
+      "id": "21736",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Tico-Tico Black+Decker BES602 de 400W para Madeira e Aço",
+      "link": "https://meli.la/2RFVtVj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936468-MLA100016994427_122025-F.jpg",
+      "preco": 208,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:40:55.616Z"
+    },
+    {
+      "id": "21730",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/5AsiNIz6Uy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.49,
+      "precoDe": 30.19,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:39:48.518Z"
+    },
+    {
+      "id": "21727",
+      "loja": "Mercado Livre",
+      "titulo": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth",
+      "link": "https://meli.la/33cH6aF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828936-MLB88748640584_082025-O.webp",
+      "preco": 153.25,
+      "precoDe": 349.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:36:27.678Z"
+    },
+    {
+      "id": "21725",
+      "loja": "Amazon",
+      "titulo": "Balde de Gelo Inox Isolado 3L com Tampa, Colher, Pinça e Coador",
+      "link": "https://www.amazon.com.br/dp/B0DC6HF3RV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41YOx56-b7L._SL400_.jpg",
+      "preco": 170.99,
+      "precoDe": 199.99,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:32:42.498Z"
+    },
     {
       "id": "21713",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-09-22T18:54:24.631Z"
-    },
-    {
-      "id": "21323",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira Bateria Gsr120-li Com Kit 15 Brocas Bosch",
-      "link": "https://meli.la/2GJ94uQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717573-MLA99416682996_112025-F.jpg",
-      "preco": 513.14,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T18:45:12.077Z"
-    },
-    {
-      "id": "21322",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 700mL 70 Proof",
-      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
-      "preco": 117.73,
-      "precoDe": 144.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:37:43.363Z"
-    },
-    {
-      "id": "21322",
-      "loja": "Shopee",
-      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
-      "link": "https://s.shopee.com.br/4fwQJZIZyj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
-      "preco": 95,
-      "precoDe": 132.18,
-      "desconto": 13,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T18:36:02.386Z"
-    },
-    {
-      "id": "21313",
-      "loja": "Amazon",
-      "titulo": "Kits Educativos de Ciências - Kit de Cristais e Poções Mágicas Atóxico, Brinquedo STEAM e Presente Criativo para Meninos e Meninas para Brincar com Mais de 6 Anos",
-      "link": "https://www.amazon.com.br/dp/B0H5BYM6RZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51SQydkLQ5L._SL400_.jpg",
-      "preco": 63.51,
-      "precoDe": 115,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:28:20.221Z"
-    },
-    {
-      "id": "21311",
-      "loja": "Mercado Livre",
-      "titulo": "Produto MLB5205063617",
-      "link": "https://meli.la/25UrXFR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684402-MLB117375979281_092026-O.webp",
-      "preco": 473.11,
-      "precoDe": 731.74,
-      "desconto": 22,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T18:25:01.231Z"
-    },
-    {
-      "id": "21309",
-      "loja": "Amazon",
-      "titulo": "Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
-      "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jgCYP6HYL._SL400_.jpg",
-      "preco": 698.9,
-      "precoDe": 828.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:22:04.456Z"
     }
   ]
 }
