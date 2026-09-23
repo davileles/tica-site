@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T14:10:29.376Z",
+  "atualizadoEm": "2026-09-23T14:22:19.996Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21643",
+      "loja": "Shopee",
+      "titulo": "Poltrona Orgânica Chloe - Poltrona Para Decoração E Sala De Estar E Recepção - Poltrona Boucle Luxo",
+      "link": "https://s.shopee.com.br/2Vrx2JtXtk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk223ezlk3k4d_tn",
+      "preco": 319,
+      "precoDe": 550,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T14:12:19.994Z"
+    },
     {
       "id": "21632",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": "V4M0S4PR0V31T4R",
       "enviadoEm": "2026-09-22T16:14:09.118Z"
-    },
-    {
-      "id": "21237",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/1AaZRi7y4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 129.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T15:48:09.033Z"
     }
   ]
 }
