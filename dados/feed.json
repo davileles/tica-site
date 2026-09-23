@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-23T18:51:22.576Z",
+  "atualizadoEm": "2026-09-23T19:21:22.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21853",
+      "loja": "Shopee",
+      "titulo": "Kit Para Cachorro Caminha Pet Sanitário Comedouro Para Cães Pequeno",
+      "link": "https://s.shopee.com.br/905R7WUcu8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
+      "preco": 59.99,
+      "precoDe": 68.17,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:21:14.106Z"
+    },
+    {
+      "id": "21852",
+      "loja": "Amazon",
+      "titulo": "Kit 4 Unidades Forma Com Tampa Gelo Ice Flexivel Forminha Fundo Silicone 14 Cubos Alimentos Frutas Papinha",
+      "link": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41b4hPLnzJL._SL400_.jpg",
+      "preco": 19,
+      "precoDe": 29.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:17:44.739Z"
+    },
+    {
+      "id": "21849",
+      "loja": "Amazon",
+      "titulo": "Troninho Penico Infantil Musical Princesas Rosa Maxi Baby",
+      "link": "https://www.amazon.com.br/dp/B0GFGHL5CD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VTXGiV3HL._SL400_.jpg",
+      "preco": 58.89,
+      "precoDe": 78.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:12:00.322Z"
+    },
+    {
+      "id": "21844",
+      "loja": "Amazon",
+      "titulo": "Cachaça Sagatiba Pura 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8H5SY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UzMMVTWnL._SL400_.jpg",
+      "preco": 23.99,
+      "precoDe": 25.28,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:07:31.725Z"
+    },
+    {
+      "id": "21843",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Daily T-shirt Insider",
+      "link": "https://meli.la/31LNiPY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619105-MLB86042487045_062025-O.webp",
+      "preco": 71.4,
+      "precoDe": 139,
+      "desconto": 40,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T19:06:24.034Z"
+    },
+    {
+      "id": "21842",
+      "loja": "Amazon",
+      "titulo": "Johnson's Baby Lenços Umedecidos Recém Nascido, 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 53.09,
+      "desconto": 6,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-23T19:03:02.058Z"
+    },
+    {
+      "id": "21836",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit de pontas e brocas em titânio X-Line com 100 peças",
+      "link": "https://www.amazon.com.br/dp/B07CVCHHHW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51QToYgeEIL._SL400_.jpg",
+      "preco": 275.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:59:31.553Z"
+    },
+    {
+      "id": "21835",
+      "loja": "Shopee",
+      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
+      "link": "https://s.shopee.com.br/W6syMDQyb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
+      "preco": 19.9,
+      "precoDe": 39.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:58:42.134Z"
+    },
     {
       "id": "21828",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-22T21:35:24.104Z"
-    },
-    {
-      "id": "21417",
-      "loja": "Amazon",
-      "titulo": "Tênis Puma Nyra Sd Feminino, Preto e Dourado, 34",
-      "link": "https://www.amazon.com.br/dp/B0H4RDG3X3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31XueU-dS7L._SL400_.jpg",
-      "preco": 209.25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T21:29:08.712Z"
-    },
-    {
-      "id": "21416",
-      "loja": "Amazon",
-      "titulo": "Mala de Viagem Sestini Média com Rodas 360° Basic, Grafite",
-      "link": "https://www.amazon.com.br/dp/B0GX2Y1HZH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319y39Pw5XL._SL400_.jpg",
-      "preco": 269.91999999999996,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T21:25:57.155Z"
-    },
-    {
-      "id": "21415",
-      "loja": "Amazon",
-      "titulo": "Bepantol Derma Protetor Labial Hidratante Diário FPS50 4,5g",
-      "link": "https://www.amazon.com.br/dp/B08LFTPL6M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41PwvIHvmvL._SL400_.jpg",
-      "preco": 28.87,
-      "precoDe": 34.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:22:42.742Z"
-    },
-    {
-      "id": "21414",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
-      "link": "https://meli.la/1na5zcz",
-      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
-      "preco": 231.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T21:16:23.435Z"
-    },
-    {
-      "id": "21413",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 53.99,
-      "precoDe": 63.87,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:15:08.241Z"
-    },
-    {
-      "id": "21407",
-      "loja": "Amazon",
-      "titulo": "Insider Tech T-Shirt Gola V Masculina, Maple Brown, Tamanho PP",
-      "link": "https://www.amazon.com.br/dp/B0H5MT63SG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-pOqkrsuL._SL400_.jpg",
-      "preco": 67.42,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T21:05:26.164Z"
-    },
-    {
-      "id": "21405",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Ferramentas Kit Com 110 Ferramentas C Maleta Vonder",
-      "link": "https://meli.la/1cgJrEz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850659-MLB86519227066_062025-O.webp",
-      "preco": 442.9,
-      "precoDe": 684.18,
-      "desconto": 21,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T20:56:09.119Z"
-    },
-    {
-      "id": "21404",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
-      "preco": 75,
-      "precoDe": 105.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T20:54:53.145Z"
     }
   ]
 }
