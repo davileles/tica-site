@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-23T18:22:22.314Z",
+  "atualizadoEm": "2026-09-23T18:51:22.576Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21828",
+      "loja": "Amazon",
+      "titulo": "Cachaça Espírito de Minas Tradicional Artesanal de Alambique 700ml",
+      "link": "https://www.amazon.com.br/dp/B001HUBWKE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Cve9d1-wL._SL400_.jpg",
+      "preco": 56.3,
+      "precoDe": 89.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:41:25.497Z"
+    },
+    {
+      "id": "21827",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Caven 2.0 Puma",
+      "link": "https://meli.la/1aSSff3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652047-MLB72356338463_102023-O.webp",
+      "preco": 188.69,
+      "precoDe": 449.99,
+      "desconto": 51,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T18:40:19.151Z"
+    },
+    {
+      "id": "21819",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit Parafusadeira GSR 120-LI e Chave de Impacto GDR 120-LI, 12V com 2 baterias, 1 carregador e 1 maleta",
+      "link": "https://www.amazon.com.br/dp/B0877YWTK5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Z3jSm0goL._SL400_.jpg",
+      "preco": 860.32,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:37:05.461Z"
+    },
+    {
+      "id": "21818",
+      "loja": "Shopee",
+      "titulo": "Saco Plástico PP Transparente Incolor Brilhante Embalagem Kit 50 Celofane Unidades Diversas Medidas",
+      "link": "https://s.shopee.com.br/9AOrGZAX7N",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg0ecfh7hyiv98_tn",
+      "preco": 6.98,
+      "precoDe": 12.25,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:36:07.776Z"
+    },
+    {
+      "id": "21817",
+      "loja": "Amazon",
+      "titulo": "Gabinete Gamer Lian Li Vector V100 Preto Sem Fans V100X",
+      "link": "https://www.amazon.com.br/dp/B0FDQ7TTKX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41pP7G0d+9L._SL400_.jpg",
+      "preco": 406.8,
+      "precoDe": 499,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:32:54.944Z"
+    },
+    {
+      "id": "21813",
+      "loja": "Amazon",
+      "titulo": "Calcinha Absorvente Menstrual Pantys Xodó, Fluxo Moderado, Feminino, Preta, M, 1 Unidade",
+      "link": "https://www.amazon.com.br/dp/B0CQDGFNBP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314RVdeYiOL._SL400_.jpg",
+      "preco": 37.9,
+      "precoDe": 59,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:25:26.645Z"
+    },
     {
       "id": "21811",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-22T20:54:53.145Z"
-    },
-    {
-      "id": "21403",
-      "loja": "Shopee",
-      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
-      "link": "https://s.shopee.com.br/7KxBdsx7CC",
-      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
-      "preco": 99.9,
-      "precoDe": 267.68,
-      "desconto": 44,
-      "cupom": "M35D0SH0P33L0V3R",
-      "enviadoEm": "2026-09-22T20:53:09.285Z"
-    },
-    {
-      "id": "21401",
-      "loja": "Amazon",
-      "titulo": "Insider Tech T-Shirt Gola U Feminina, Evergreen, Tamanho M",
-      "link": "https://www.amazon.com.br/dp/B0H5127KM5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319ahdJx42L._SL400_.jpg",
-      "preco": 52.42,
-      "precoDe": 175,
-      "desconto": 60,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T20:42:56.512Z"
-    },
-    {
-      "id": "21398",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Ferramentas Bosch Kit X-line 70 Peças Titânio",
-      "link": "https://meli.la/1qEWgFz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_623601-MLB98100207187_112025-O.webp",
-      "preco": 151.99,
-      "precoDe": 304.73,
-      "desconto": 38,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T20:35:59.858Z"
-    },
-    {
-      "id": "21397",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": 78.9,
-      "precoDe": 126.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T20:34:49.432Z"
-    },
-    {
-      "id": "21393",
-      "loja": "Mercado Livre",
-      "titulo": "Aquecedor Caloventor Elétrico Good&Go GG-AQ01 2000W Portátil Com Termostato Branco",
-      "link": "https://meli.la/2aeyRi6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743989-MLA99460848018_112025-F.jpg",
-      "preco": 62.22,
-      "precoDe": 119,
-      "desconto": 35,
-      "cupom": "ESTOQUE2209",
-      "enviadoEm": "2026-09-22T20:34:02.714Z"
-    },
-    {
-      "id": "21392",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/1AaslDRCJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 49.989999999999995,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T20:30:39.734Z"
     }
   ]
 }
