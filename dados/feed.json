@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T11:57:16.206Z",
+  "atualizadoEm": "2026-09-23T12:16:02.229Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21503",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Maçarico Portátil Automático Liderança Ferro E Aço para 1300°C com 4 Refis de Gás Butano",
+      "link": "https://meli.la/1exaGNF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_622785-MLA112944719817_062026-F.jpg",
+      "preco": 41.8,
+      "precoDe": 99,
+      "desconto": 47,
+      "cupom": "MELIACHAPROMOS",
+      "enviadoEm": "2026-09-23T12:06:02.225Z"
+    },
     {
       "id": "21500",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-22T13:19:08.406Z"
-    },
-    {
-      "id": "21164",
-      "loja": "Mercado Livre",
-      "titulo": "Natura Kaiak Tradicional Masculino Miniatura 25ml",
-      "link": "https://meli.la/2v6dLtD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674515-MLA81127683267_122024-F.jpg",
-      "preco": 39.42,
-      "precoDe": 65.7,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T13:15:07.144Z"
     }
   ]
 }
