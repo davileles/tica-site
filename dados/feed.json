@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-23T21:21:22.717Z",
+  "atualizadoEm": "2026-09-23T21:48:22.913Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21937",
+      "loja": "Mercado Livre",
+      "titulo": "Trena Laser Bosch Glm 150-27 C Alcance 150m Com Bluetooth",
+      "link": "https://meli.la/2R1Z36d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796494-MLA99506163420_112025-F.jpg",
+      "preco": 2200,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:38:22.911Z"
+    },
+    {
+      "id": "21936",
+      "loja": "Shopee",
+      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+      "link": "https://s.shopee.com.br/20vgvwn3VG",
+      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
+      "preco": 14.84,
+      "precoDe": 40.11,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:37:23.229Z"
+    },
+    {
+      "id": "21934",
+      "loja": "Amazon",
+      "titulo": "Celular Samsung Galaxy A57 5G 128GB + Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
+      "link": "https://www.amazon.com.br/dp/B0HDYWK7ZH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21ofr-NGODL._SL400_.jpg",
+      "preco": 2079,
+      "precoDe": 3998,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:33:51.667Z"
+    },
+    {
+      "id": "21933",
+      "loja": "Amazon",
+      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
+      "preco": 24.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:30:19.574Z"
+    },
+    {
+      "id": "21932",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Básica Lupo Masculina Fitness Academia -confortável",
+      "link": "https://meli.la/1ayYJFV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918908-MLB110751999575_042026-O.webp",
+      "preco": 55.160000000000004,
+      "precoDe": 68.9,
+      "desconto": 6,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T21:29:25.457Z"
+    },
     {
       "id": "21929",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-23T13:02:48.797Z"
-    },
-    {
-      "id": "21564",
-      "loja": "Amazon",
-      "titulo": "Comfort Amaciante Concentrado Frescor Intenso 1 L",
-      "link": "https://www.amazon.com.br/dp/B07DTLS9M7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xl21s8GzL._SL400_.jpg",
-      "preco": 17.07,
-      "precoDe": 23.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T13:00:45.058Z"
-    },
-    {
-      "id": "21561",
-      "loja": "Shopee",
-      "titulo": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
-      "link": "https://s.shopee.com.br/4LJb7mOp0T",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbl8-m5vxjacwdty663_tn",
-      "preco": 339,
-      "precoDe": 529.69,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:54:03.734Z"
-    },
-    {
-      "id": "21559",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
-      "link": "https://meli.la/1RYNcPD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-F.jpg",
-      "preco": 943.2,
-      "precoDe": 1699,
-      "desconto": 38,
-      "cupom": "SONOML",
-      "enviadoEm": "2026-09-23T12:52:56.803Z"
-    },
-    {
-      "id": "21558",
-      "loja": "Amazon",
-      "titulo": "Brilhante Limpeza Total - Sabão Em Pó 2 2Kg",
-      "link": "https://www.amazon.com.br/dp/B0B94SLNXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cgFYSi6TL._SL400_.jpg",
-      "preco": 18.49,
-      "precoDe": 25.49,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:49:27.139Z"
-    },
-    {
-      "id": "21551",
-      "loja": "Amazon",
-      "titulo": "Erdinger Cerveja Pikantus - Gfa 500Ml 500Ml",
-      "link": "https://www.amazon.com.br/dp/B07Y2CF95S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Cug7mOclL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 27.79,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:46:10.216Z"
     }
   ]
 }
