@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T11:08:13.184Z",
+  "atualizadoEm": "2026-09-23T11:18:42.315Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21487",
+      "loja": "Amazon",
+      "titulo": "Pack YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 24 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CXF9FZ94?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cUmKwcucL._SL400_.jpg",
+      "preco": 141.66,
+      "precoDe": 192.19,
+      "desconto": 13,
+      "cupom": "YOPRO15",
+      "enviadoEm": "2026-09-23T11:08:42.314Z"
+    },
     {
       "id": "21486",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-22T12:59:36.483Z"
-    },
-    {
-      "id": "21141",
-      "loja": "Amazon",
-      "titulo": "Philco Panela Elétrica Multifuncional 1,7 litros",
-      "link": "https://www.amazon.com.br/dp/B07WV64WNL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cfNi2MOmL._SL400_.jpg",
-      "preco": 150.3,
-      "precoDe": 221.09,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:55:54.346Z"
     }
   ]
 }
