@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T16:12:58.663Z",
+  "atualizadoEm": "2026-09-23T17:23:29.213Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -145,18 +145,6 @@
       "observacao": null,
       "validadeAte": "9999-02-23T03:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "JEANS",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-23T17:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "RELOGIO20",
@@ -1200,6 +1188,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-23T20:35:01.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "10D010L0J4S50F1C14IS",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T16:54:42.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
