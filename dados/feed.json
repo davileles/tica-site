@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-23T23:23:29.966Z",
+  "atualizadoEm": "2026-09-23T23:44:03.323Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21972",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
+      "preco": 55.160000000000004,
+      "precoDe": 84.9,
+      "desconto": 24,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T23:34:03.321Z"
+    },
+    {
+      "id": "21971",
+      "loja": "Amazon",
+      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
+      "preco": 98.51,
+      "precoDe": 134.9,
+      "desconto": 14,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T23:26:48.115Z"
+    },
     {
       "id": "21970",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-09-23T14:58:14.272Z"
-    },
-    {
-      "id": "21663",
-      "loja": "Amazon",
-      "titulo": "Fisher Price Banheira Deluxe 4 em 1, Banho para bebê, Estágio de desenvolvimento",
-      "link": "https://www.amazon.com.br/dp/B0856SSQ1X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uBL4LsJbL._SL400_.jpg",
-      "preco": 164.99,
-      "precoDe": 549.99,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:57:10.152Z"
-    },
-    {
-      "id": "21658",
-      "loja": "Amazon",
-      "titulo": "Adega Climatizada 12 Garrafas Midea Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0F7TFM927?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFVjRAHmL._SL400_.jpg",
-      "preco": 847.32,
-      "precoDe": 1099,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:47:27.642Z"
     }
   ]
 }
