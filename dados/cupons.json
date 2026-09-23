@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T18:07:17.770Z",
+  "atualizadoEm": "2026-09-23T18:22:24.982Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -891,6 +891,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPERPETSHOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Múltiplos cupons para categorias selecionadas no Mercado Livre",
+      "validadeAte": "2026-09-24T18:14:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUIDADO20OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Múltiplos cupons para categorias selecionadas no Mercado Livre",
+      "validadeAte": "2026-09-24T18:14:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -924,6 +948,18 @@
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-24T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Reativado pelo operador — confirmado ativo no ML em 20/09",
+      "validadeAte": "2026-09-24T18:08:12.634Z",
       "url": "https://meli.la/2xystLt"
     },
     {
