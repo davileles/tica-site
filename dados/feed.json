@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-23T15:08:14.275Z",
+  "atualizadoEm": "2026-09-23T15:10:14.496Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21671",
+      "loja": "Amazon",
+      "titulo": "Tônica Antarctica 350ml 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
+      "preco": 61.68,
+      "precoDe": 81.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:09:35.688Z"
+    },
+    {
+      "id": "21671",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/AUuEctbzxm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
+      "preco": 29.9,
+      "precoDe": 61.02,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:08:36.882Z"
+    },
     {
       "id": "21664",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-22T16:49:22.447Z"
-    },
-    {
-      "id": "21261",
-      "loja": "Amazon",
-      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
-      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
-      "preco": 751.82,
-      "precoDe": 1364.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:39:41.594Z"
-    },
-    {
-      "id": "21260",
-      "loja": "Shopee",
-      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
-      "link": "https://s.shopee.com.br/50ZGZyBjXp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
-      "preco": 159.9,
-      "precoDe": 227.72,
-      "desconto": 21,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T16:36:37.454Z"
     }
   ]
 }
