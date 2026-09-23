@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-23T22:53:29.967Z",
+  "atualizadoEm": "2026-09-23T23:23:29.966Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21970",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosso 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
+      "preco": 37.39,
+      "precoDe": 47.9,
+      "desconto": 8,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T23:19:32.838Z"
+    },
+    {
+      "id": "21969",
+      "loja": "Amazon",
+      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
+      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
+      "preco": 39.05,
+      "precoDe": 59.9,
+      "desconto": 23,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T23:12:17.303Z"
+    },
+    {
+      "id": "21968",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Big Apple 700ml",
+      "link": "https://www.amazon.com.br/dp/B0DLX423SX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Ps1OawuuL._SL400_.jpg",
+      "preco": 28.310000000000002,
+      "precoDe": 45.9,
+      "desconto": 27,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T23:05:02.019Z"
+    },
+    {
+      "id": "21964",
+      "loja": "Amazon",
+      "titulo": "Cerveja Original, Pilsen, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJXKGL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BiZFuLLIL._SL400_.jpg",
+      "preco": 69.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T23:02:31.884Z"
+    },
+    {
+      "id": "21963",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Barreda Adidas",
+      "link": "https://meli.la/2fGEM3Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916152-MLB87842830052_072025-O.webp",
+      "preco": 288.99,
+      "precoDe": 399.99,
+      "desconto": 15,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T23:01:32.101Z"
+    },
+    {
+      "id": "21962",
+      "loja": "Amazon",
+      "titulo": "Licor 43 Chocolate 700ml",
+      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
+      "preco": 151.1,
+      "precoDe": 189.9,
+      "desconto": 6,
+      "cupom": "BEBIDA15",
+      "enviadoEm": "2026-09-23T22:57:47.392Z"
+    },
     {
       "id": "21959",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-23T14:47:27.642Z"
-    },
-    {
-      "id": "21656",
-      "loja": "Amazon",
-      "titulo": "Tramontina 41001118, Alicate Universal 8'', Amarelo",
-      "link": "https://www.amazon.com.br/dp/B076KK1RW8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LOlxI2XnL._SL400_.jpg",
-      "preco": 31.86,
-      "precoDe": 44,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:46:22.973Z"
-    },
-    {
-      "id": "21655",
-      "loja": "Shopee",
-      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
-      "link": "https://s.shopee.com.br/3LR44ABjcS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
-      "preco": 39.89,
-      "precoDe": 66.48,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:45:32.446Z"
-    },
-    {
-      "id": "21653",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
-      "preco": 44.99,
-      "precoDe": 77.27,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:34:53.761Z"
-    },
-    {
-      "id": "21652",
-      "loja": "Amazon",
-      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
-      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
-      "preco": 999,
-      "precoDe": 1169,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:26:32.421Z"
-    },
-    {
-      "id": "21650",
-      "loja": "Shopee",
-      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "link": "https://s.shopee.com.br/6VO5oXZxxV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
-      "preco": 114,
-      "precoDe": 438.46,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:23:51.721Z"
-    },
-    {
-      "id": "21649",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/W6sfDqsaS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.32,
-      "precoDe": 35.05,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:22:45.021Z"
     }
   ]
 }
