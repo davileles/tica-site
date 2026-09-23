@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T22:21:24.957Z",
+  "atualizadoEm": "2026-09-23T23:23:32.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -484,6 +484,18 @@
     },
     {
       "codigo": "CPUPROMO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "KORUJAO",
       "loja": "Kabum",
       "tipo": "pct",
       "valor": 10,
