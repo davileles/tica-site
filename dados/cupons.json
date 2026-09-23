@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T14:10:31.813Z",
+  "atualizadoEm": "2026-09-23T14:22:22.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1071,6 +1071,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
+      "codigo": "OFERTA20CAF",
+      "loja": "Outro: não especificada",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de 20% OFF. Contexto de loja não foi fornecido na mensagem.",
+      "validadeAte": "2026-09-24T14:15:43.000Z",
+      "url": null
+    },
+    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1164,6 +1176,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-23T16:07:38.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OFERTA20CAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T14:15:48.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
