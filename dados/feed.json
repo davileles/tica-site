@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T20:51:22.716Z",
+  "atualizadoEm": "2026-09-23T21:01:57.933Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21917",
+      "loja": "Amazon",
+      "titulo": "Bosch Nível a Laser verde GLL 12-22 G 12m 1 bateria + suporte",
+      "link": "https://www.amazon.com.br/dp/B0D2RSCNV4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412G2x9pHwL._SL400_.jpg",
+      "preco": 408,
+      "precoDe": 496,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:51:57.931Z"
+    },
     {
       "id": "21916",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-23T12:22:51.059Z"
-    },
-    {
-      "id": "21512",
-      "loja": "Shopee",
-      "titulo": "Freezer e Conservador Horizontal HQ 105 Litros Preto HQ-105CFHL",
-      "link": "https://s.shopee.com.br/4Vd1HXmHBT",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g7-mfo2u9j7y9l520_tn",
-      "preco": 1070.43,
-      "precoDe": 1982.28,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:16:13.697Z"
     }
   ]
 }
