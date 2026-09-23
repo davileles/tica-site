@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-23T11:38:13.183Z",
+  "atualizadoEm": "2026-09-23T11:57:16.206Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21500",
+      "loja": "Amazon",
+      "titulo": "Pack YoPRO Bebida Láctea UHT Baunilha 15g de Proteínas 250ml - 24 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0D239PCKH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41raqWUh8SL._SL400_.jpg",
+      "preco": 139.7,
+      "precoDe": 192.19,
+      "desconto": 14,
+      "cupom": "YOPRO15",
+      "enviadoEm": "2026-09-23T11:54:14.617Z"
+    },
+    {
+      "id": "21499",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FShfyP5iL._SL400_.jpg",
+      "preco": 127.99,
+      "precoDe": 177.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T11:50:27.021Z"
+    },
     {
       "id": "21491",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-22T13:15:07.144Z"
-    },
-    {
-      "id": "21160",
-      "loja": "Amazon",
-      "titulo": "91 Truques Matemáticos Legais",
-      "link": "https://www.amazon.com.br/dp/6558882078?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418eTJHmvoL._SL400_.jpg",
-      "preco": 18.03,
-      "precoDe": 31.99,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T13:09:29.326Z"
-    },
-    {
-      "id": "21158",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Zebra Blocos Surpresa",
-      "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41N0JtAjXWL._SL400_.jpg",
-      "preco": 85.99,
-      "precoDe": 119.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T13:05:01.055Z"
     }
   ]
 }
