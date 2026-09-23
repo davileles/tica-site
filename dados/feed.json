@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-23T11:18:42.315Z",
+  "atualizadoEm": "2026-09-23T11:38:13.183Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21491",
+      "loja": "Amazon",
+      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
+      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
+      "preco": 67.14,
+      "precoDe": 98.29,
+      "desconto": 20,
+      "cupom": "YOPRO15",
+      "enviadoEm": "2026-09-23T11:31:35.707Z"
+    },
+    {
+      "id": "21490",
+      "loja": "Amazon",
+      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": 68.9,
+      "precoDe": 117.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T11:27:52.365Z"
+    },
+    {
+      "id": "21489",
+      "loja": "Shopee",
+      "titulo": "Kit Ferramentas Mecânica 108 Peças Profissional Completo Jogo de Chaves Soquete com Maleta Resistente",
+      "link": "https://s.shopee.com.br/8AWJbDrs62",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mml952za9qfa63_tn",
+      "preco": 219.99,
+      "precoDe": 399.98,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T11:21:45.306Z"
+    },
     {
       "id": "21487",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-22T13:05:01.055Z"
-    },
-    {
-      "id": "21149",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/3VkSY0ozjF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 58.959999999999994,
-      "precoDe": 136.14,
-      "desconto": 42,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T13:04:11.701Z"
-    },
-    {
-      "id": "21147",
-      "loja": "Mercado Livre",
-      "titulo": "Tenis Casual Masculino Infantil Funfy Force Menino 3475a",
-      "link": "https://meli.la/2f9MX9w",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642578-MLB75281661226_032024-O.webp",
-      "preco": 35.18,
-      "precoDe": 64.99,
-      "desconto": 32,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T13:00:47.165Z"
-    },
-    {
-      "id": "21142",
-      "loja": "Mercado Livre",
-      "titulo": "O Boticário Refil Creme Acetinado Hidratante Desodorante Corporal Lily 250g",
-      "link": "https://meli.la/2MbTyeH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711229-MLA115410595346_082026-F.jpg",
-      "preco": 57.53,
-      "precoDe": 99.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T12:59:36.483Z"
     }
   ]
 }
