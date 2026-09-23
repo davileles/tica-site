@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T13:40:31.892Z",
+  "atualizadoEm": "2026-09-23T14:10:31.813Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1188,6 +1188,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-24T13:25:56.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "QUE3040",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T14:00:26.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
