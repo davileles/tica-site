@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T16:02:12.063Z",
+  "atualizadoEm": "2026-09-23T16:12:56.424Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21709",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Bitter Campari 998ml",
+      "link": "https://www.amazon.com.br/dp/B0CSLM1G3D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FQxc3GWUL._SL400_.jpg",
+      "preco": 62.99,
+      "precoDe": 69.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:12:29.306Z"
+    },
     {
       "id": "21697",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "V4M0S4PR0V31T4R",
       "enviadoEm": "2026-09-22T18:13:34.137Z"
-    },
-    {
-      "id": "21304",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Ergométrica Spinning Inércia 5kg Velocron V500 Preto",
-      "link": "https://meli.la/115Nvgc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699115-MLA107760441255_022026-F.jpg",
-      "preco": 583.11,
-      "precoDe": 2000,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:10:04.326Z"
     }
   ]
 }
