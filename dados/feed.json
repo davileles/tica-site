@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-23T17:46:59.175Z",
+  "atualizadoEm": "2026-09-23T17:53:26.007Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21796",
+      "loja": "Amazon",
+      "titulo": "Brinquedos Estrela - Boneco Vinil Ursinhos Carinhosos, Boa Sorte, Verde, 7,5 cm",
+      "link": "https://www.amazon.com.br/dp/B0B9RB65MY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417Srb77R2L._SL400_.jpg",
+      "preco": 19.91,
+      "precoDe": 49.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:50:25.653Z"
+    },
+    {
+      "id": "21794",
+      "loja": "Amazon",
+      "titulo": "Bosch Furadeira de Impacto GSB 450 RE 450W 127V",
+      "link": "https://www.amazon.com.br/dp/B07JK2YZTY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41C-5c64T3L._SL400_.jpg",
+      "preco": 238.78,
+      "precoDe": 299,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:49:32.569Z"
+    },
+    {
+      "id": "21793",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
+      "link": "https://s.shopee.com.br/2VrxHDGXVc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
+      "preco": 15,
+      "precoDe": 35.71,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:48:46.568Z"
+    },
     {
       "id": "21790",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 24,
       "cupom": "V4M0S4PR0V31T4R",
       "enviadoEm": "2026-09-22T20:06:44.005Z"
-    },
-    {
-      "id": "21367",
-      "loja": "Amazon",
-      "titulo": "Camiseta Oakley Mark Ii Ss Tee, Cinza Mescla, P",
-      "link": "https://www.amazon.com.br/dp/B0H995C1BF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dFqX92-QL._SL400_.jpg",
-      "preco": 59.92,
-      "precoDe": 129.9,
-      "desconto": 38,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T19:52:52.027Z"
-    },
-    {
-      "id": "21358",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Parafusadeira Multifuncional Kit Go De Ferramentas Bits",
-      "link": "https://meli.la/2LQoVFC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990970-MLB92443904875_092025-O.webp",
-      "preco": 78.52000000000001,
-      "precoDe": 176.98,
-      "desconto": 45,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T19:48:03.838Z"
-    },
-    {
-      "id": "21357",
-      "loja": "Amazon",
-      "titulo": "Perigoso! Este livro contém coelhos!",
-      "link": "https://www.amazon.com.br/dp/6526113427?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51XFPBjphdL._SL400_.jpg",
-      "preco": 17.8,
-      "precoDe": 39.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T19:46:59.959Z"
     }
   ]
 }
