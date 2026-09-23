@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T15:10:14.496Z",
+  "atualizadoEm": "2026-09-23T15:20:28.741Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21672",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Furadeira e Parafusadeira 3/8\" LD12SC 12V Com 31 Acessórios e Maleta Bivolt",
+      "link": "https://www.amazon.com.br/dp/B07CG7NS5W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ycfnz2hGL._SL400_.jpg",
+      "preco": 273.9,
+      "precoDe": 293.7,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:10:28.740Z"
+    },
     {
       "id": "21671",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-22T16:53:30.621Z"
-    },
-    {
-      "id": "21263",
-      "loja": "Mercado Livre",
-      "titulo": "Barras Nutrata Whey Grego 40g Display com 12 unidades Beijinho",
-      "link": "https://meli.la/1reooSH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701001-MLA99949093193_112025-F.jpg",
-      "preco": 65,
-      "precoDe": 85.5,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T16:49:22.447Z"
     }
   ]
 }
