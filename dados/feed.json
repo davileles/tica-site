@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-23T16:53:26.005Z",
+  "atualizadoEm": "2026-09-23T17:23:26.006Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21776",
+      "loja": "Amazon",
+      "titulo": "Bebida Mista Beats, Red Mix, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DV5SMHHC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBJpdJcfL._SL400_.jpg",
+      "preco": 54.78,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:16:45.211Z"
+    },
+    {
+      "id": "21775",
+      "loja": "Amazon",
+      "titulo": "EcoLapis de Cor Faber-Castell 60 Cores, Faber-Castell, 120160G, Multicor",
+      "link": "https://www.amazon.com.br/dp/B078YCYYWR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51umuMN0f0L._SL400_.jpg",
+      "preco": 89.89,
+      "precoDe": 163.17,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:10:06.734Z"
+    },
+    {
+      "id": "21773",
+      "loja": "Amazon",
+      "titulo": "Bancada Penteadeira Infantil 3 em 1 Maleta 21 Peça Maxi Toys",
+      "link": "https://www.amazon.com.br/dp/B0FQG8WBGZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dhYcfYu4L._SL400_.jpg",
+      "preco": 66.4,
+      "precoDe": 129.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:08:58.506Z"
+    },
+    {
+      "id": "21771",
+      "loja": "Amazon",
+      "titulo": "Serra Tico Tico Black+Decker BES602 400W 110V",
+      "link": "https://www.amazon.com.br/dp/B0D214Q61X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4125iYm0ICL._SL400_.jpg",
+      "preco": 209,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:07:47.567Z"
+    },
+    {
+      "id": "21770",
+      "loja": "Amazon",
+      "titulo": "Bala Skittles Original - Case com 14 unidades de 38g",
+      "link": "https://www.amazon.com.br/dp/B08FXTMMF9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515YyuE3B5L._SL400_.jpg",
+      "preco": 38.67,
+      "precoDe": 55.86,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:06:58.077Z"
+    },
+    {
+      "id": "21767",
+      "loja": "Shopee",
+      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
+      "link": "https://s.shopee.com.br/70KMaJ4Brj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
+      "preco": 20.7,
+      "precoDe": 20.91,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:03:40.507Z"
+    },
+    {
+      "id": "21758",
+      "loja": "Amazon",
+      "titulo": "Bebida Mista Beats, Gin & Tônica, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B092JN64W9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31RvUhnUOjL._SL400_.jpg",
+      "preco": 52.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:56:39.790Z"
+    },
+    {
+      "id": "21755",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Shorts De Corrida Dry Alpha",
+      "link": "https://meli.la/2izg4Ct",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903817-MLB85553709237_062025-O.webp",
+      "preco": 114.8,
+      "precoDe": 209.7,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:55:48.476Z"
+    },
     {
       "id": "21753",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "MELIACHAPROMOS",
       "enviadoEm": "2026-09-22T19:29:12.387Z"
-    },
-    {
-      "id": "21349",
-      "loja": "Mercado Livre",
-      "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
-      "link": "https://meli.la/1veK9kF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_656839-MLA100037265083_122025-O.webp",
-      "preco": 489,
-      "precoDe": 1099,
-      "desconto": 46,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T19:25:37.643Z"
-    },
-    {
-      "id": "21345",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXW6ZYB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41A3ELm8gAL._SL400_.jpg",
-      "preco": 57.48,
-      "precoDe": 67.08,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T19:22:56.866Z"
-    },
-    {
-      "id": "21344",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/2qUmBHjPB0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T19:21:42.138Z"
-    },
-    {
-      "id": "21343",
-      "loja": "Amazon",
-      "titulo": "Fantasia Infantil Princesa com Vestido Longo Lilás e Rosa + Tiara com Trança Luxo para Festa Aniversário e Carnaval G 130 cm",
-      "link": "https://www.amazon.com.br/dp/B0G8QJCRYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VibAKgv2L._SL400_.jpg",
-      "preco": 89.21,
-      "precoDe": 129.21,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T19:18:06.659Z"
-    },
-    {
-      "id": "21338",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Chaves Ferramentas Jogo Fenda Philips Catraca Soquete Allen 46 Peças Com Maleta Completa Manual Ideal Mecânico Manutenção Casa Carro Profissional Resistente Portátil Compacto Q",
-      "link": "https://meli.la/1pM4wMV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755947-MLA117531032905_092026-F.jpg",
-      "preco": 25.52,
-      "precoDe": 54.9,
-      "desconto": 42,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T19:05:27.366Z"
-    },
-    {
-      "id": "21336",
-      "loja": "Amazon",
-      "titulo": "Vinho Argentino Bodega Argento Minimalista Pinot Grigio 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CGPYNVN2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21euzMXYelL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 49,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:59:24.090Z"
-    },
-    {
-      "id": "21328",
-      "loja": "Shopee",
-      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
-      "link": "https://s.shopee.com.br/2qUm9jviY0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
-      "preco": 329.99,
-      "precoDe": 699.98,
-      "desconto": 50,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T18:58:32.701Z"
-    },
-    {
-      "id": "21326",
-      "loja": "Amazon",
-      "titulo": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
-      "link": "https://www.amazon.com.br/dp/B0FXHQ977Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316qCM8baJL._SL400_.jpg",
-      "preco": 999,
-      "precoDe": 1341.07,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:54:24.631Z"
     }
   ]
 }
