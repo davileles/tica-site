@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-23T16:12:56.424Z",
+  "atualizadoEm": "2026-09-23T16:24:25.972Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21713",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Circular 7.1/4 1500w CS1024-B2 Black + Decker",
+      "link": "https://meli.la/2hPzCtT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_873347-MLA99452134066_112025-F.jpg",
+      "preco": 799,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:20:17.743Z"
+    },
+    {
+      "id": "21712",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calça Jeans Masculina Country Tradicional Rodeio",
+      "link": "https://meli.la/1omJM81",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947037-MLB99390962763_112025-O.webp",
+      "preco": 184.8,
+      "precoDe": 319.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:19:20.412Z"
+    },
+    {
+      "id": "21711",
+      "loja": "Shopee",
+      "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "link": "https://s.shopee.com.br/9fL7i1uQDy",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa_tn",
+      "preco": 42.89,
+      "precoDe": 194.95,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T16:16:00.263Z"
+    },
     {
       "id": "21709",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-09-22T18:22:04.456Z"
-    },
-    {
-      "id": "21308",
-      "loja": "Amazon",
-      "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
-      "link": "https://www.amazon.com.br/dp/B0CQTNGCF9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41YWWeHY8qL._SL400_.jpg",
-      "preco": 43.99,
-      "precoDe": 59.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:20:53.071Z"
-    },
-    {
-      "id": "21307",
-      "loja": "Amazon",
-      "titulo": "GORDON'S Gin Gordon'S 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07WTHV6Y4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MqbmFZIwL._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 78.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T18:17:16.226Z"
-    },
-    {
-      "id": "21305",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/9zxwdhigao",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 54.989999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T18:13:34.137Z"
     }
   ]
 }
