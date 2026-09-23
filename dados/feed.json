@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-23T15:39:14.779Z",
+  "atualizadoEm": "2026-09-23T16:02:12.063Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21697",
+      "loja": "Mercado Livre",
+      "titulo": "Impressora multifuncional cor Epson EcoTank L3250",
+      "link": "https://meli.la/1jo6o5a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827740-MLA99943629541_112025-F.jpg",
+      "preco": 850.5,
+      "precoDe": 1712,
+      "desconto": 29,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-23T15:58:02.557Z"
+    },
+    {
+      "id": "21696",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Parafusadeira e Furadeira de Impacto 10mm 12V BCD712VHDK com 28 Acessórios",
+      "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41G1wJ0fB3L._SL400_.jpg",
+      "preco": 254.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:54:50.630Z"
+    },
+    {
+      "id": "21695",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/9AOr5ZQEh2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T15:53:40.833Z"
+    },
+    {
+      "id": "21693",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LED para jogos Xiaomi Mini G Pro 27qi 2026 preto",
+      "link": "https://meli.la/1NMsAmL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726643-MLA109677329915_032026-F.jpg",
+      "preco": 2360,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SONOML",
+      "enviadoEm": "2026-09-23T15:48:15.600Z"
+    },
     {
       "id": "21683",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-09-22T18:10:04.326Z"
-    },
-    {
-      "id": "21301",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-      "link": "https://meli.la/15Zhi6o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
-      "preco": 271.44,
-      "precoDe": 429.9,
-      "desconto": 21,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T18:04:50.252Z"
-    },
-    {
-      "id": "21297",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/9KiFopVMsH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 23.88,
-      "precoDe": 47.76,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T17:49:15.740Z"
-    },
-    {
-      "id": "21289",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/AKamz3F1R1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 17.99,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T17:25:22.641Z"
-    },
-    {
-      "id": "21288",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira Bosch 12v Gsb120li + Kit 300 Peças - Azul - 60hz",
-      "link": "https://meli.la/1RBfWMs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856921-MLA99469929186_112025-F.jpg",
-      "preco": 338.46,
-      "precoDe": 818,
-      "desconto": 41,
-      "cupom": "GARIMPEI",
-      "enviadoEm": "2026-09-22T17:21:48.998Z"
     }
   ]
 }
