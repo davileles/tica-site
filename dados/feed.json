@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-23T21:01:57.933Z",
+  "atualizadoEm": "2026-09-23T21:21:22.717Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21929",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51qfKiTDxyL._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 181.64,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:16:51.298Z"
+    },
+    {
+      "id": "21928",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+eg7tByTL._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 181.64,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:15:41.252Z"
+    },
+    {
+      "id": "21927",
+      "loja": "Amazon",
+      "titulo": "Bosch Parafusadeira Furadeira GSR 120-LI 12V com 2 baterias, 1 carregador e maleta",
+      "link": "https://www.amazon.com.br/dp/B01JYYXTRI?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518N1pnubLL._SL400_.jpg",
+      "preco": 569.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:14:53.563Z"
+    },
+    {
+      "id": "21926",
+      "loja": "Shopee",
+      "titulo": "Mix Misturador Cafe Bebidas Batedor De Ovos Automático Elétrico Inox",
+      "link": "https://s.shopee.com.br/8AWKFiXtZo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxs2z7sqzut5f_tn",
+      "preco": 10.88,
+      "precoDe": 40.3,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:13:58.979Z"
+    },
+    {
+      "id": "21921",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 55.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:07:39.729Z"
+    },
+    {
+      "id": "21920",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta adidas Small Logo Tee Preta",
+      "link": "https://meli.la/1kxxaye",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_848008-MLB81031647850_122024-O.webp",
+      "preco": 93.41000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T21:06:36.404Z"
+    },
+    {
+      "id": "21919",
+      "loja": "Amazon",
+      "titulo": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/dp/B0GM1LC365?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Lpf5VnvyL._SL400_.jpg",
+      "preco": 2799,
+      "precoDe": 3699,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:03:12.522Z"
+    },
     {
       "id": "21917",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-09-23T12:46:10.216Z"
-    },
-    {
-      "id": "21548",
-      "loja": "Shopee",
-      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
-      "link": "https://s.shopee.com.br/AKaoFtXo3V",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
-      "preco": 12.69,
-      "precoDe": 42.3,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:42:42.130Z"
-    },
-    {
-      "id": "21547",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
-      "link": "https://meli.la/2zQjrgA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-F.jpg",
-      "preco": 898.2,
-      "precoDe": 1499,
-      "desconto": 33,
-      "cupom": "SONOML",
-      "enviadoEm": "2026-09-23T12:39:30.958Z"
-    },
-    {
-      "id": "21538",
-      "loja": "Shopee",
-      "titulo": "Cafeteira Espresso Lov Três Corações 1250W",
-      "link": "https://s.shopee.com.br/3VkU74r5CK",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64_tn",
-      "preco": 399.99,
-      "precoDe": 449.43,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:36:17.678Z"
-    },
-    {
-      "id": "21536",
-      "loja": "Mercado Livre",
-      "titulo": "Varal Dobrável De Chão Vertical 3 Andares De Roupas Grande com Rodinha Resistente até 40kg Durável StarHouse",
-      "link": "https://meli.la/2LyKeLh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988192-MLA116411932758_092026-F.jpg",
-      "preco": 55.96,
-      "precoDe": 139.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:32:57.413Z"
-    },
-    {
-      "id": "21529",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Gamer Acer Nitro V15 ANV15-52-52VN Intel® Core™ i5-13420H 13ªG 512 GB SSD 16 GB RAM RTX 4060 15.6”",
-      "link": "https://meli.la/2PjL6TF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968548-MLA99943896901_112025-F.jpg",
-      "preco": 6199,
-      "precoDe": 8999,
-      "desconto": 29,
-      "cupom": "SONOML",
-      "enviadoEm": "2026-09-23T12:29:39.121Z"
-    },
-    {
-      "id": "21528",
-      "loja": "Shopee",
-      "titulo": "Armário de Cozinha Completa 293cm Branco Emilly Madesa 011",
-      "link": "https://s.shopee.com.br/4LJb5vITlE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hx-mekbcb4znif608_tn",
-      "preco": 999.48,
-      "precoDe": 1233.93,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:26:13.099Z"
-    },
-    {
-      "id": "21518",
-      "loja": "Amazon",
-      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
-      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
-      "preco": 28.99,
-      "precoDe": 52.76,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T12:22:51.059Z"
     }
   ]
 }
