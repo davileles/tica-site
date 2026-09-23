@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-23T19:51:22.636Z",
+  "atualizadoEm": "2026-09-23T20:05:56.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21880",
+      "loja": "Amazon",
+      "titulo": "Cachaça Salinas Umburana 1L",
+      "link": "https://www.amazon.com.br/dp/B07XS8N19L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eakQ+j0kL._SL400_.jpg",
+      "preco": 87.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:55:56.615Z"
+    },
+    {
+      "id": "21879",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
+      "link": "https://meli.la/1vWBfPf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.webp",
+      "preco": 109.65,
+      "precoDe": 338,
+      "desconto": 62,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T19:54:55.445Z"
+    },
+    {
+      "id": "21878",
+      "loja": "Amazon",
+      "titulo": "Neutrogena Hidratante Corporal Hydro Boost Water Gel, Kit com 2 Unidades de 400ml",
+      "link": "https://www.amazon.com.br/dp/B0HFYP1X31?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+CaoCjuFL._SL400_.jpg",
+      "preco": 55.92,
+      "precoDe": 105.78,
+      "desconto": 34,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-23T19:51:46.925Z"
+    },
     {
       "id": "21871",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-22T22:37:10.015Z"
-    },
-    {
-      "id": "21453",
-      "loja": "Amazon",
-      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
-      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
-      "preco": 99.99,
-      "precoDe": 141.84,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:35:56.672Z"
-    },
-    {
-      "id": "21452",
-      "loja": "Mercado Livre",
-      "titulo": "Barra Integralmédica Proteínas Nutricional/esportivo Protein Crisp Bar 12 Unidades 540g Display",
-      "link": "https://meli.la/1AfVMbg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605176-MLA83531378810_042025-O.webp",
-      "preco": 88.44,
-      "precoDe": 154.8,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:30:10.326Z"
-    },
-    {
-      "id": "21446",
-      "loja": "Shopee",
-      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
-      "link": "https://s.shopee.com.br/905PirjF7B",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
-      "preco": 28.99,
-      "precoDe": 87.85,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:17:03.089Z"
     }
   ]
 }
