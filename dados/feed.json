@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-23T19:21:22.615Z",
+  "atualizadoEm": "2026-09-23T19:43:22.264Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21861",
+      "loja": "Amazon",
+      "titulo": "CACHAÇA SALINAS 1L TRADICIONAL",
+      "link": "https://www.amazon.com.br/dp/B07XS8XKKG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Rn74zBmjL._SL400_.jpg",
+      "preco": 64.99,
+      "precoDe": 81.95,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:33:22.262Z"
+    },
+    {
+      "id": "21860",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Core Insider",
+      "link": "https://meli.la/1Zu1JZN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940060-MLB86042491923_062025-O.webp",
+      "preco": 69.99000000000001,
+      "precoDe": 189,
+      "desconto": 56,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T19:32:35.747Z"
+    },
+    {
+      "id": "21857",
+      "loja": "Amazon",
+      "titulo": "Neutrogena Hidratante Corporal Body Care Intensive Hidrata&Repara, Kit com 2 Unidades de 400ml",
+      "link": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4102EXm3qIL._SL400_.jpg",
+      "preco": 43.92,
+      "precoDe": 72.99,
+      "desconto": 25,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-23T19:29:12.474Z"
+    },
+    {
+      "id": "21854",
+      "loja": "Mercado Livre",
+      "titulo": "Kit de pontas e brocas em titânio Bosch X-Line com 30 peças",
+      "link": "https://meli.la/1jeNgVi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857291-MLA99425570042_112025-F.jpg",
+      "preco": 87.64,
+      "precoDe": 97.38,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:22:28.826Z"
+    },
     {
       "id": "21853",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-09-22T21:56:53.689Z"
-    },
-    {
-      "id": "21437",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
-      "preco": 43.9,
-      "precoDe": 50.32,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:55:40.497Z"
-    },
-    {
-      "id": "21424",
-      "loja": "Amazon",
-      "titulo": "Top Feminino Fila Nadador Essential, Cinza Azulado, P",
-      "link": "https://www.amazon.com.br/dp/B0H6QLT4D5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EQVnTzbBL._SL400_.jpg",
-      "preco": 59.92,
-      "precoDe": 119.99,
-      "desconto": 33,
-      "cupom": "25MODAPRIME",
-      "enviadoEm": "2026-09-22T21:52:09.823Z"
-    },
-    {
-      "id": "21423",
-      "loja": "Amazon",
-      "titulo": "Conjunto de chaves de fenda de precisão 115 em 1 kit de ferramentas de reparo com kit de driver magnético, conjunto de chaves de fenda de precisão eletrônica com bolsa portátil par",
-      "link": "https://www.amazon.com.br/dp/B092SPZFYT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51APugFLBKS._SL400_.jpg",
-      "preco": 24.9,
-      "precoDe": 27.79,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:36:39.112Z"
-    },
-    {
-      "id": "21421",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 46.9,
-      "precoDe": 59.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:35:24.104Z"
     }
   ]
 }
