@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T20:21:25.303Z",
+  "atualizadoEm": "2026-09-23T20:51:25.029Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,6 +1167,54 @@
       "url": null
     },
     {
+      "codigo": "CLIENTE",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T20:44:13.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "KIDS",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T20:44:13.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "JEANS",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T20:44:13.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "OUTFIT",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T20:44:13.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1236,18 +1284,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-24T16:03:09.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "M35D0SH0P33L0V3R",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-23T20:35:01.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
