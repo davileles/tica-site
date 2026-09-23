@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T17:23:29.213Z",
+  "atualizadoEm": "2026-09-23T18:07:17.770Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -819,18 +819,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELHORCUPOMML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-09-24T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -888,30 +876,6 @@
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-09-24T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIACHAPROMOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-09-23T17:57:53.068Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESTOQUE2209",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-23T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -975,6 +939,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELHORCUPOMML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-09-24T12:00:00.735Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1032,6 +1008,18 @@
       "limite": 22,
       "observacao": null,
       "validadeAte": "2026-09-24T15:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORACAO2309",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em selecionados de Decoração e Eletros",
+      "validadeAte": "2026-09-24T18:00:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1248,6 +1236,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-24T13:25:56.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "F1MD0D1A",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T18:02:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
