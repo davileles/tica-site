@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-23T20:21:22.655Z",
+  "atualizadoEm": "2026-09-23T20:51:22.716Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21916",
+      "loja": "Shopee",
+      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "link": "https://s.shopee.com.br/3g3uru1PHp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqxmdp0mir5y37_tn",
+      "preco": 24.2,
+      "precoDe": 29.51,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:51:10.354Z"
+    },
+    {
+      "id": "21907",
+      "loja": "Amazon",
+      "titulo": "Cachaça Seleta Prata 1L Seleta Sabor Suave 1000 Ml",
+      "link": "https://www.amazon.com.br/dp/B07Y3SSW1J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41OvrMVslTL._SL400_.jpg",
+      "preco": 37.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:44:02.677Z"
+    },
+    {
+      "id": "21906",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+      "link": "https://meli.la/1YTVYRd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624574-MLA107288145353_022026-F.jpg",
+      "preco": 186.99,
+      "precoDe": 349.99,
+      "desconto": 37,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T20:42:55.583Z"
+    },
+    {
+      "id": "21905",
+      "loja": "Amazon",
+      "titulo": "VULT PROTETOR SOLAR FACIAL FPS 70 40ml",
+      "link": "https://www.amazon.com.br/dp/B0C2ZP91XV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CVbhFi3zL._SL400_.jpg",
+      "preco": 22.39,
+      "precoDe": 45.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:39:29.042Z"
+    },
+    {
+      "id": "21904",
+      "loja": "Amazon",
+      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
+      "preco": 30.99,
+      "precoDe": 50,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:36:01.621Z"
+    },
+    {
+      "id": "21903",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit C/ 2 Gel De Limpeza Facial Gl-02",
+      "link": "https://meli.la/2utXUP5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903047-MLA91754812966_092025-F.jpg",
+      "preco": 54.38,
+      "precoDe": 87.47,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:32:44.686Z"
+    },
+    {
+      "id": "21901",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelo rompedor GBH 220 720W 127V em maleta",
+      "link": "https://www.amazon.com.br/dp/B099NPJPVM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XAKf08k8L._SL400_.jpg",
+      "preco": 648.9,
+      "precoDe": 816.48,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:29:36.835Z"
+    },
+    {
+      "id": "21899",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/7KxDD5zxyF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:28:50.641Z"
+    },
     {
       "id": "21896",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-09-23T12:16:13.697Z"
-    },
-    {
-      "id": "21503",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Maçarico Portátil Automático Liderança Ferro E Aço para 1300°C com 4 Refis de Gás Butano",
-      "link": "https://meli.la/1exaGNF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_622785-MLA112944719817_062026-F.jpg",
-      "preco": 41.8,
-      "precoDe": 99,
-      "desconto": 47,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-23T12:06:02.225Z"
-    },
-    {
-      "id": "21500",
-      "loja": "Amazon",
-      "titulo": "Pack YoPRO Bebida Láctea UHT Baunilha 15g de Proteínas 250ml - 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D239PCKH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41raqWUh8SL._SL400_.jpg",
-      "preco": 139.7,
-      "precoDe": 192.19,
-      "desconto": 14,
-      "cupom": "YOPRO15",
-      "enviadoEm": "2026-09-23T11:54:14.617Z"
-    },
-    {
-      "id": "21499",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FShfyP5iL._SL400_.jpg",
-      "preco": 127.99,
-      "precoDe": 177.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:50:27.021Z"
-    },
-    {
-      "id": "21491",
-      "loja": "Amazon",
-      "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
-      "link": "https://www.amazon.com.br/dp/B0D4RHRR3V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MbkMiFnUL._SL400_.jpg",
-      "preco": 67.14,
-      "precoDe": 98.29,
-      "desconto": 20,
-      "cupom": "YOPRO15",
-      "enviadoEm": "2026-09-23T11:31:35.707Z"
-    },
-    {
-      "id": "21490",
-      "loja": "Amazon",
-      "titulo": "Absolut Vodka Citron Sueca 750ml Absolut Sabor vodka 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
-      "preco": 68.9,
-      "precoDe": 117.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:27:52.365Z"
-    },
-    {
-      "id": "21489",
-      "loja": "Shopee",
-      "titulo": "Kit Ferramentas Mecânica 108 Peças Profissional Completo Jogo de Chaves Soquete com Maleta Resistente",
-      "link": "https://s.shopee.com.br/8AWJbDrs62",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mml952za9qfa63_tn",
-      "preco": 219.99,
-      "precoDe": 399.98,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:21:45.306Z"
-    },
-    {
-      "id": "21487",
-      "loja": "Amazon",
-      "titulo": "Pack YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 24 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CXF9FZ94?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cUmKwcucL._SL400_.jpg",
-      "preco": 141.66,
-      "precoDe": 192.19,
-      "desconto": 13,
-      "cupom": "YOPRO15",
-      "enviadoEm": "2026-09-23T11:08:42.314Z"
-    },
-    {
-      "id": "21486",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 30.8,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:05:17.018Z"
     }
   ]
 }
