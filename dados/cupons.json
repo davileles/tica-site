@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-23T03:02:38.762Z",
+  "atualizadoEm": "2026-09-23T03:32:38.865Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1069,6 +1069,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "3SQUENT4150",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-24T03:03:37.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "M35D0SH0P33L0V3R",
