@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-23T19:43:22.264Z",
+  "atualizadoEm": "2026-09-23T19:51:22.636Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21871",
+      "loja": "Mercado Livre",
+      "titulo": "Kit de pontas e brocas Bosch V-Line 41 peças 2607017396",
+      "link": "https://meli.la/1s7mKSC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737056-MLA99014780530_112025-F.jpg",
+      "preco": 114.9,
+      "precoDe": 127.99,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:44:53.940Z"
+    },
+    {
+      "id": "21867",
+      "loja": "Shopee",
+      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+      "link": "https://s.shopee.com.br/1VzQDHkrmA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mqbxyppmgzya6f_tn",
+      "preco": 79.12,
+      "precoDe": 98.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T19:43:51.415Z"
+    },
     {
       "id": "21861",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-09-22T22:17:03.089Z"
-    },
-    {
-      "id": "21445",
-      "loja": "Amazon",
-      "titulo": "Gin Bulldog London Dry 750ml",
-      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
-      "preco": 81.47,
-      "precoDe": 156.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:15:48.222Z"
-    },
-    {
-      "id": "21438",
-      "loja": "Amazon",
-      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
-      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
-      "preco": 284.94,
-      "precoDe": 617.38,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T21:56:53.689Z"
     }
   ]
 }
