@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-23T13:11:29.193Z",
+  "atualizadoEm": "2026-09-23T13:40:29.346Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21605",
+      "loja": "Shopee",
+      "titulo": "Micro Retifica Elétrica AITOOLZO 600W 202 Peças Com Suporte",
+      "link": "https://s.shopee.com.br/40gkmgPxMh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfota8hsolqd30_tn",
+      "preco": 243.2,
+      "precoDe": 675.56,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T13:39:39.482Z"
+    },
+    {
+      "id": "21603",
+      "loja": "Shopee",
+      "titulo": "Fritadeira Elétrica PAF65A Redstone 6,5L 1700W Air Flow Philco",
+      "link": "https://s.shopee.com.br/6VO5kwXaGl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82621-mlghg11kkpvmbd_tn",
+      "preco": 399.31,
+      "precoDe": 481.1,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T13:38:37.088Z"
+    },
+    {
+      "id": "21588",
+      "loja": "Shopee",
+      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "link": "https://s.shopee.com.br/AAHO7QqUD6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
+      "preco": 38.99,
+      "precoDe": 114.68,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T13:30:12.528Z"
+    },
+    {
+      "id": "21584",
+      "loja": "Amazon",
+      "titulo": "Casal Garcia Vinho Branco Verde Aveleda Sweet 750Ml Trajadura",
+      "link": "https://www.amazon.com.br/dp/B08DPLVQRZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Vp-8omD2L._SL400_.jpg",
+      "preco": 53.75,
+      "precoDe": 76.4,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T13:23:01.325Z"
+    },
+    {
+      "id": "21578",
+      "loja": "Shopee",
+      "titulo": "Kit Martelete Rompedor Perfurador De Concreto 2200w Aitoolzo Laranja",
+      "link": "https://s.shopee.com.br/4Vd1MDAOZc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh74ffpp0tts2f_tn",
+      "preco": 385.7,
+      "precoDe": 1205.31,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T13:14:16.266Z"
+    },
     {
       "id": "21574",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-22T14:19:58.535Z"
-    },
-    {
-      "id": "21207",
-      "loja": "Amazon",
-      "titulo": "Coleção Anne de Green Gables com 8 livros mais Diário de aventuras",
-      "link": "https://www.amazon.com.br/dp/B08N9P9M5L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51teie3cXCL._SL400_.jpg",
-      "preco": 66.47,
-      "precoDe": 179.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T14:19:08.991Z"
-    },
-    {
-      "id": "21206",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Massinha De Modelar Soft Acrilex 12 Cores",
-      "link": "https://meli.la/1CGVLsB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871341-MLB89919485239_082025-O.webp",
-      "preco": 29.24,
-      "precoDe": 32.49,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T14:17:45.821Z"
-    },
-    {
-      "id": "21205",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/2gBLdyZ0WT",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T14:17:00.476Z"
-    },
-    {
-      "id": "21204",
-      "loja": "Amazon",
-      "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
-      "link": "https://www.amazon.com.br/dp/B072BXQK4X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31t9atwbJfL._SL400_.jpg",
-      "preco": 59.36,
-      "precoDe": 72.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T14:13:21.370Z"
-    },
-    {
-      "id": "21203",
-      "loja": "Amazon",
-      "titulo": "GGB Brinquedo Educativo Infantil Bingo dos Animais",
-      "link": "https://www.amazon.com.br/dp/B09JNB5C1D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518-rQm-WmL._SL400_.jpg",
-      "preco": 13.88,
-      "precoDe": 19.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T14:12:12.211Z"
     }
   ]
 }
