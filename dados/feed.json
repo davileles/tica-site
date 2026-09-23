@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-23T18:07:15.330Z",
+  "atualizadoEm": "2026-09-23T18:22:22.314Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21811",
+      "loja": "Amazon",
+      "titulo": "Cachaça Tradicional 51 Garrafa 965ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8THCL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21KoCW3KbUL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 21.99,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:20:17.045Z"
+    },
+    {
+      "id": "21809",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Uplift Sc Masculino",
+      "link": "https://meli.la/1BG1HRU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759705-MLB110979590226_052026-O.webp",
+      "preco": 319.99,
+      "precoDe": 499.99,
+      "desconto": 26,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T18:15:36.681Z"
+    },
+    {
+      "id": "21808",
+      "loja": "Shopee",
+      "titulo": "Bosch GBH 2-28D Martelete Furadeira de Impacto Rotativo 5kg Rompedor Demolidor Perfurador 1600w Com Acessorios",
+      "link": "https://s.shopee.com.br/7KxD3i1sXf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mo9636jk0740b1_tn",
+      "preco": 598.28,
+      "precoDe": 1246.42,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:12:13.136Z"
+    },
+    {
+      "id": "21807",
+      "loja": "Shopee",
+      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
+      "link": "https://s.shopee.com.br/9fL7pwh0dW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f_tn",
+      "preco": 71,
+      "precoDe": 79.78,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T18:11:15.322Z"
+    },
     {
       "id": "21801",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 36,
       "cupom": "V4M0S4PR0V31T4R",
       "enviadoEm": "2026-09-22T20:30:39.734Z"
-    },
-    {
-      "id": "21390",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto",
-      "link": "https://meli.la/1KgwgjT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737097-MLA108177568778_032026-F.jpg",
-      "preco": 68.77,
-      "precoDe": 119.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T20:27:19.066Z"
-    },
-    {
-      "id": "21388",
-      "loja": "Mercado Livre",
-      "titulo": "Chave De Impacto a Bateria Profissional Recarregável 4ah Brushless Parafusadeira Furadeira Alta Potência Sem Escova 2 Baterias MESTRI",
-      "link": "https://meli.la/19rwanj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965537-MLA113910780116_072026-F.jpg",
-      "preco": 172.25,
-      "precoDe": 640.17,
-      "desconto": 66,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T20:24:12.300Z"
-    },
-    {
-      "id": "21387",
-      "loja": "Mercado Livre",
-      "titulo": "Pré-treino Adaptogen Panic 300g Abacaxi com Creatina e Cafeína",
-      "link": "https://meli.la/1Xwjgem",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA99578754596_122025-F.jpg",
-      "preco": 55.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ESTOQUE2209",
-      "enviadoEm": "2026-09-22T20:20:53.727Z"
-    },
-    {
-      "id": "21379",
-      "loja": "Mercado Livre",
-      "titulo": "Pistola de Pintura HVLP Deko 600W LED 1,2L 3 Bicos",
-      "link": "https://meli.la/2eqgqdF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680609-MLA100031211051_122025-F.jpg",
-      "preco": 263.76,
-      "precoDe": 388.99,
-      "desconto": 15,
-      "cupom": "MELIACHAPROMOS",
-      "enviadoEm": "2026-09-22T20:08:55.139Z"
     }
   ]
 }
