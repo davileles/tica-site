@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-23T20:05:56.616Z",
+  "atualizadoEm": "2026-09-23T20:21:22.655Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21896",
+      "loja": "Amazon",
+      "titulo": "Cachaça Santo Grau 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B009NRD09O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31cTul9Yt5L._SL400_.jpg",
+      "preco": 72.11,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:18:34.262Z"
+    },
+    {
+      "id": "21895",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+      "link": "https://meli.la/2DcuUX3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_858666-MLB113204099406_072026-O.webp",
+      "preco": 93.49,
+      "precoDe": 229.99,
+      "desconto": 52,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-23T20:17:23.833Z"
+    },
+    {
+      "id": "21890",
+      "loja": "Amazon",
+      "titulo": "Neutrogena Sun Fresh Protetor Solar Facial Para Pele Oleosa Derm Care, FPS 70, Sem Cor, Kit com 2 Unidades de 40g",
+      "link": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41R4tTw2ngL._SL400_.jpg",
+      "preco": 75.92,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-23T20:14:16.297Z"
+    },
+    {
+      "id": "21884",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelete Perfurador GBH 2-24D 820W 127V com maleta",
+      "link": "https://www.amazon.com.br/dp/B076KPXF6P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
+      "preco": 787.55,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:07:22.769Z"
+    },
+    {
+      "id": "21883",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/6AlFnPGa9o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.31,
+      "precoDe": 65.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T20:06:18.336Z"
+    },
     {
       "id": "21880",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-09-23T11:05:17.018Z"
-    },
-    {
-      "id": "21484",
-      "loja": "Shopee",
-      "titulo": "Alicate Automático Decapador Crimpador Eletricista Descacador Fios Decapador Fio Automático 18 Em 1",
-      "link": "https://s.shopee.com.br/3g3uDWnQLc",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ai-mte20vozrojq8f_tn",
-      "preco": 23.99,
-      "precoDe": 38.08,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:01:34.000Z"
-    },
-    {
-      "id": "21483",
-      "loja": "Amazon",
-      "titulo": "Whisky Bourbon Maker's Mark 750ml",
-      "link": "https://www.amazon.com.br/dp/B000WLN7AM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415pvxzAvGL._SL400_.jpg",
-      "preco": 155.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T11:00:45.087Z"
-    },
-    {
-      "id": "21457",
-      "loja": "Amazon",
-      "titulo": "Bosch Kit de Pontas e Brocas X-Line 33 unidades",
-      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
-      "preco": 76.1,
-      "precoDe": 169.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:57:25.777Z"
-    },
-    {
-      "id": "21456",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 136.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:56:12.054Z"
-    },
-    {
-      "id": "21454",
-      "loja": "Amazon",
-      "titulo": "Vonder, Óculos De Segurança Boxer Verde.",
-      "link": "https://www.amazon.com.br/dp/B08K9BMLWB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JQMe+HuSL._SL400_.jpg",
-      "preco": 9.9,
-      "precoDe": 12.11,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T22:37:10.015Z"
     }
   ]
 }
