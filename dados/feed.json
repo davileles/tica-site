@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-23T21:48:22.913Z",
+  "atualizadoEm": "2026-09-23T21:51:22.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21938",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Escritório Ergonômica Testada conforme NR-17, Duplo Apoio Lombar, Assento Deslizante com Ajuste de Profundidade 5cm, Apoio para Pés Retrátil, Reclinável até 135° para Ho",
+      "link": "https://www.amazon.com.br/dp/B0GC5HPQHX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/516nXHgKwXL._SL400_.jpg",
+      "preco": 664.04,
+      "precoDe": 999,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T21:49:20.258Z"
+    },
     {
       "id": "21937",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 76,
       "cupom": null,
       "enviadoEm": "2026-09-23T13:05:56.032Z"
-    },
-    {
-      "id": "21573",
-      "loja": "Amazon",
-      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
-      "preco": 44.42,
-      "precoDe": 76.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T13:02:48.797Z"
     }
   ]
 }
