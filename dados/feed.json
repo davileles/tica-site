@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-23T17:53:26.007Z",
+  "atualizadoEm": "2026-09-23T18:07:15.330Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21801",
+      "loja": "Amazon",
+      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
+      "preco": 53.34,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:57:15.329Z"
+    },
+    {
+      "id": "21797",
+      "loja": "Amazon",
+      "titulo": "Aspirador de Pó Vertical Britânia 2 em 1 com Filtro Ciclone 1400W BAS30 1,5L Azul 127V",
+      "link": "https://www.amazon.com.br/dp/B0D9PM7MDP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21uhNzwe-9L._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 234.6,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-23T17:54:05.809Z"
+    },
     {
       "id": "21796",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 15,
       "cupom": "MELIACHAPROMOS",
       "enviadoEm": "2026-09-22T20:08:55.139Z"
-    },
-    {
-      "id": "21378",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
-      "preco": 44.9,
-      "precoDe": 59.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-22T20:07:43.960Z"
-    },
-    {
-      "id": "21377",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/4qFqc67HSx",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 194,
-      "precoDe": 281.58,
-      "desconto": 24,
-      "cupom": "V4M0S4PR0V31T4R",
-      "enviadoEm": "2026-09-22T20:06:44.005Z"
     }
   ]
 }
