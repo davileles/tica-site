@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-24T13:43:09.103Z",
+  "atualizadoEm": "2026-09-24T13:54:01.091Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22124",
+      "loja": "Amazon",
+      "titulo": "3 Corações Cappuccino Sabor Chocolate, 200g",
+      "link": "https://www.amazon.com.br/dp/B00MU6E8BY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41OhZWguY2L._SL400_.jpg",
+      "preco": 12.74,
+      "precoDe": 21.72,
+      "desconto": 31,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-24T13:44:01.089Z"
+    },
     {
       "id": "22122",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-09-23T18:32:54.944Z"
-    },
-    {
-      "id": "21813",
-      "loja": "Amazon",
-      "titulo": "Calcinha Absorvente Menstrual Pantys Xodó, Fluxo Moderado, Feminino, Preta, M, 1 Unidade",
-      "link": "https://www.amazon.com.br/dp/B0CQDGFNBP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314RVdeYiOL._SL400_.jpg",
-      "preco": 37.9,
-      "precoDe": 59,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T18:25:26.645Z"
     }
   ]
 }
