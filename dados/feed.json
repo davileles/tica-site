@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-24T18:30:17.835Z",
+  "atualizadoEm": "2026-09-24T19:01:33.412Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22342",
+      "loja": "Shopee",
+      "titulo": "Kit 105 Acessorios Micro Retifica Dremel Compativel Lixar Cortar Polir",
+      "link": "https://s.shopee.com.br/3LR5w7TAX1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225k-mhikkdazyu4ofa_tn",
+      "preco": 22.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T18:51:33.410Z"
+    },
+    {
+      "id": "22341",
+      "loja": "Mercado Livre",
+      "titulo": "Headset Gamer Havit H2015se Drivers 53mm Microfone Removivel Preto",
+      "link": "https://meli.la/1HewKu3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655310-MLA99524005620_122025-F.jpg",
+      "preco": 107.4,
+      "precoDe": 179,
+      "desconto": 25,
+      "cupom": "QUEIMADEESTOQUE24",
+      "enviadoEm": "2026-09-24T18:42:47.917Z"
+    },
+    {
+      "id": "22336",
+      "loja": "Shopee",
+      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "link": "https://s.shopee.com.br/3g3wJgW5ba",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
+      "preco": 55.9,
+      "precoDe": 81.01,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T18:38:55.617Z"
+    },
     {
       "id": "22331",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 8,
       "cupom": "BEBIDA15",
       "enviadoEm": "2026-09-23T23:19:32.838Z"
-    },
-    {
-      "id": "21969",
-      "loja": "Amazon",
-      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
-      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
-      "preco": 39.05,
-      "precoDe": 59.9,
-      "desconto": 23,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T23:12:17.303Z"
-    },
-    {
-      "id": "21968",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Big Apple 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DLX423SX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Ps1OawuuL._SL400_.jpg",
-      "preco": 28.310000000000002,
-      "precoDe": 45.9,
-      "desconto": 27,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T23:05:02.019Z"
-    },
-    {
-      "id": "21964",
-      "loja": "Amazon",
-      "titulo": "Cerveja Original, Pilsen, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLJXKGL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BiZFuLLIL._SL400_.jpg",
-      "preco": 69.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T23:02:31.884Z"
     }
   ]
 }
