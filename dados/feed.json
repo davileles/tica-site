@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T20:04:44.257Z",
+  "atualizadoEm": "2026-09-24T20:21:13.698Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22400",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Suave Rosé 750ml",
+      "link": "https://www.amazon.com.br/dp/B07L17KNVW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DkGCdbT7L._SL400_.jpg",
+      "preco": 22.11,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T20:11:13.696Z"
+    },
+    {
+      "id": "22399",
+      "loja": "Shopee",
+      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "link": "https://s.shopee.com.br/1BMbRLCOij",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
+      "preco": 18.9,
+      "precoDe": 27,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T20:10:00.872Z"
+    },
     {
       "id": "22390",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-09-24T11:24:00.751Z"
-    },
-    {
-      "id": "22008",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:22:45.966Z"
-    },
-    {
-      "id": "22007",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:21:54.761Z"
     }
   ]
 }
