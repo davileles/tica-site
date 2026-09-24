@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-24T14:35:43.961Z",
+  "atualizadoEm": "2026-09-24T15:04:44.064Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22163",
+      "loja": "Amazon",
+      "titulo": "Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
+      "link": "https://www.amazon.com.br/dp/B0D2DPCP55?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417PZxytBcL._SL400_.jpg",
+      "preco": 56.02,
+      "precoDe": 104.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:56:34.054Z"
+    },
+    {
+      "id": "22162",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Branca - 127V",
+      "link": "https://www.amazon.com.br/dp/B0DXMXSQSJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415vQEEvk4L._SL400_.jpg",
+      "preco": 364.39,
+      "precoDe": 499.9,
+      "desconto": 14,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-24T14:52:42.638Z"
+    },
+    {
+      "id": "22159",
+      "loja": "Amazon",
+      "titulo": "Kit Higiene Bucal",
+      "link": "https://www.amazon.com.br/dp/B0BDPGKWXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WDzdgZpAL._SL400_.jpg",
+      "preco": 28.79,
+      "precoDe": 42.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:47:34.128Z"
+    },
+    {
+      "id": "22157",
+      "loja": "Amazon",
+      "titulo": "Whisky Woodford Reserve Bourbon Whiskey 750ml",
+      "link": "https://www.amazon.com.br/dp/B0029ZCQYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TTGrGfRuL._SL400_.jpg",
+      "preco": 189.99,
+      "precoDe": 239.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:46:46.395Z"
+    },
+    {
+      "id": "22156",
+      "loja": "Shopee",
+      "titulo": "Gabarito Para Corte De Círculos Retos Com Tupia Marcenaria",
+      "link": "https://s.shopee.com.br/80Cv3Vaphj",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcaf4hcbach8a1_tn",
+      "preco": 56.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:44:55.245Z"
+    },
+    {
+      "id": "22155",
+      "loja": "Shopee",
+      "titulo": "KY2 Pro Sem Fio Bluetooth 5.3 Fone De Ouvido Único Tampões Ultra Longa Vida Útil Da Bateria Negócios Esportes Fones Com",
+      "link": "https://s.shopee.com.br/AAHPnTOr6K",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lufrk06tgqr7d8_tn",
+      "preco": 7.59,
+      "precoDe": 21.08,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:43:35.129Z"
+    },
     {
       "id": "22151",
       "loja": "Amazon",
@@ -349,18 +421,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-24T12:28:26.057Z"
-    },
-    {
-      "id": "22059",
-      "loja": "Shopee",
-      "titulo": "Gabarito Para Corte De Círculos Retos Com Tupia Marcenaria",
-      "link": "https://s.shopee.com.br/80Cv3Vaphj",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcaf4hcbach8a1_tn",
-      "preco": 56.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:27:13.235Z"
     },
     {
       "id": "22057",
@@ -1381,66 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-23T19:22:28.826Z"
-    },
-    {
-      "id": "21853",
-      "loja": "Shopee",
-      "titulo": "Kit Para Cachorro Caminha Pet Sanitário Comedouro Para Cães Pequeno",
-      "link": "https://s.shopee.com.br/905R7WUcu8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
-      "preco": 59.99,
-      "precoDe": 68.17,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:21:14.106Z"
-    },
-    {
-      "id": "21852",
-      "loja": "Amazon",
-      "titulo": "Kit 4 Unidades Forma Com Tampa Gelo Ice Flexivel Forminha Fundo Silicone 14 Cubos Alimentos Frutas Papinha",
-      "link": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41b4hPLnzJL._SL400_.jpg",
-      "preco": 19,
-      "precoDe": 29.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:17:44.739Z"
-    },
-    {
-      "id": "21849",
-      "loja": "Amazon",
-      "titulo": "Troninho Penico Infantil Musical Princesas Rosa Maxi Baby",
-      "link": "https://www.amazon.com.br/dp/B0GFGHL5CD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VTXGiV3HL._SL400_.jpg",
-      "preco": 58.89,
-      "precoDe": 78.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:12:00.322Z"
-    },
-    {
-      "id": "21844",
-      "loja": "Amazon",
-      "titulo": "Cachaça Sagatiba Pura 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8H5SY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UzMMVTWnL._SL400_.jpg",
-      "preco": 23.99,
-      "precoDe": 25.28,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:07:31.725Z"
-    },
-    {
-      "id": "21843",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Daily T-shirt Insider",
-      "link": "https://meli.la/31LNiPY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619105-MLB86042487045_062025-O.webp",
-      "preco": 71.4,
-      "precoDe": 139,
-      "desconto": 40,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T19:06:24.034Z"
     }
   ]
 }
