@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-24T13:30:55.364Z",
+  "atualizadoEm": "2026-09-24T13:43:09.103Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22122",
+      "loja": "Mercado Livre",
+      "titulo": "Whisky Johnnie Walker Black Label de 1L",
+      "link": "https://meli.la/2kRuqTK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
+      "preco": 137,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T13:37:11.579Z"
+    },
+    {
+      "id": "22121",
+      "loja": "Shopee",
+      "titulo": "Chave de Impacto Sem Fio 350Nm 3200RPM Kit Completo Com Maleta e Soquetes + 2 Baterias Hagra",
+      "link": "https://s.shopee.com.br/1gIrSdrfYS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpxk3o6c8ydc91_tn",
+      "preco": 148,
+      "precoDe": 493.33,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T13:35:48.304Z"
+    },
+    {
+      "id": "22120",
+      "loja": "Shopee",
+      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "link": "https://s.shopee.com.br/3qNMB1OI2E",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
+      "preco": 37.91,
+      "precoDe": 70.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T13:34:32.538Z"
+    },
     {
       "id": "22111",
       "loja": "Amazon",
@@ -337,18 +373,6 @@
       "desconto": 28,
       "cupom": "MELHORCUPOM",
       "enviadoEm": "2026-09-24T11:35:49.344Z"
-    },
-    {
-      "id": "22014",
-      "loja": "Shopee",
-      "titulo": "Chave de Impacto Sem Fio 350Nm 3200RPM Kit Completo Com Maleta e Soquetes + 2 Baterias Hagra",
-      "link": "https://s.shopee.com.br/1gIrSdrfYS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpxk3o6c8ydc91_tn",
-      "preco": 148,
-      "precoDe": 493.33,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:32:27.765Z"
     },
     {
       "id": "22013",
@@ -1417,30 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-09-23T18:25:26.645Z"
-    },
-    {
-      "id": "21811",
-      "loja": "Amazon",
-      "titulo": "Cachaça Tradicional 51 Garrafa 965ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8THCL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KoCW3KbUL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 21.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T18:20:17.045Z"
-    },
-    {
-      "id": "21809",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Uplift Sc Masculino",
-      "link": "https://meli.la/1BG1HRU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759705-MLB110979590226_052026-O.webp",
-      "preco": 319.99,
-      "precoDe": 499.99,
-      "desconto": 26,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T18:15:36.681Z"
     }
   ]
 }
