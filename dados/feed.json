@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-24T19:14:58.081Z",
+  "atualizadoEm": "2026-09-24T19:34:44.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22365",
+      "loja": "Amazon",
+      "titulo": "LEGO Super Mario Game Boy™ 72046 (421 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DX3J6MT7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Q9cp5Ig9L._SL400_.jpg",
+      "preco": 386.98,
+      "precoDe": 559.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:31:52.629Z"
+    },
+    {
+      "id": "22358",
+      "loja": "Mercado Livre",
+      "titulo": "Top Puma Academia Fitness Original Nadador Alta Sustentação",
+      "link": "https://meli.la/1kd3hww",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961178-MLB112153608802_062026-O.webp",
+      "preco": 39.82000000000001,
+      "precoDe": 93.03,
+      "desconto": 47,
+      "cupom": "QUEIMADEESTOQUE24",
+      "enviadoEm": "2026-09-24T19:28:29.231Z"
+    },
+    {
+      "id": "22357",
+      "loja": "Shopee",
+      "titulo": "11 Pçs Mini Lâmina De Serra Circular Ultrafina De Aço Inoxidável 22/25/32Mm Disco De Corte De Moagem Com Haste De 3Mm Pa",
+      "link": "https://s.shopee.com.br/5q8QwrRWS1",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo0nf9doo93cb2_tn",
+      "preco": 11.66,
+      "precoDe": 22.42,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:25:17.872Z"
+    },
+    {
+      "id": "22356",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
+      "link": "https://s.shopee.com.br/1BMbOEXIhw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
+      "preco": 79.99,
+      "precoDe": 99.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:24:26.634Z"
+    },
     {
       "id": "22349",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 38,
       "cupom": "MELHORCUPOM",
       "enviadoEm": "2026-09-24T11:12:02.042Z"
-    },
-    {
-      "id": "21998",
-      "loja": "Amazon",
-      "titulo": "Carrinho De Ferramentas 3 Gavetas Fercar Preto Chaveado C06",
-      "link": "https://www.amazon.com.br/dp/B07JK9ZMFR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41o1TT+uFKL._SL400_.jpg",
-      "preco": 1098.9,
-      "precoDe": 1159,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:08:36.436Z"
-    },
-    {
-      "id": "21997",
-      "loja": "Amazon",
-      "titulo": "Cerveja De Trigo Paulaner Weissbier Original 500ml (12 Und)",
-      "link": "https://www.amazon.com.br/dp/B0F7TBM1J6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51GdKCo3VDL._SL400_.jpg",
-      "preco": 288.7,
-      "precoDe": 379.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:07:44.631Z"
-    },
-    {
-      "id": "21996",
-      "loja": "Shopee",
-      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "link": "https://s.shopee.com.br/9V1il8EO2G",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
-      "preco": 16.99,
-      "precoDe": 22.36,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:06:29.512Z"
-    },
-    {
-      "id": "21995",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "link": "https://s.shopee.com.br/9zxzM14dCV",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m3zbdqna4dhzc0_tn",
-      "preco": 18.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:02:46.783Z"
     }
   ]
 }
