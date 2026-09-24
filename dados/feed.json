@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-24T22:21:51.626Z",
+  "atualizadoEm": "2026-09-24T22:34:44.340Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22440",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Pontas Phillips PH2 Pontas Impacto Anti Derrapante Encaixe Preciso Anti choque (25-150mm)",
+      "link": "https://s.shopee.com.br/4qFty6c6gV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mipa7vseswzne6_tn",
+      "preco": 17.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:33:18.251Z"
+    },
+    {
+      "id": "22439",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Tradicional 2L – Energia em Grande Volume",
+      "link": "https://www.amazon.com.br/dp/B082952S4G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31D3SBf1wiL._SL400_.jpg",
+      "preco": 17.01,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:31:46.853Z"
+    },
+    {
+      "id": "22437",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/6AlHY3f13i",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 25.98,
+      "precoDe": 46.39,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:30:33.991Z"
+    },
     {
       "id": "22435",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 13,
       "cupom": "APROVEITAHJ",
       "enviadoEm": "2026-09-24T12:50:56.296Z"
-    },
-    {
-      "id": "22096",
-      "loja": "Shopee",
-      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "link": "https://s.shopee.com.br/30oF8BvXk0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
-      "preco": 99.9,
-      "precoDe": 199.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:47:27.482Z"
-    },
-    {
-      "id": "22082",
-      "loja": "Amazon",
-      "titulo": "Replay Kids Troninho Penico Infantil Musical Sapinho Verde",
-      "link": "https://www.amazon.com.br/dp/B0DJ3M8JDJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41i6zPQ5ubL._SL400_.jpg",
-      "preco": 55.34,
-      "precoDe": 76.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:42:34.700Z"
-    },
-    {
-      "id": "22077",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Gamer Rise Mode Frost Argb Rainbow 360mm Branco",
-      "link": "https://meli.la/2xh3KWZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806862-MLB115603189260_092026-O.webp",
-      "preco": 239.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAHJ",
-      "enviadoEm": "2026-09-24T12:41:49.257Z"
     }
   ]
 }
