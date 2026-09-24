@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-24T19:04:44.240Z",
+  "atualizadoEm": "2026-09-24T19:14:58.081Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22349",
+      "loja": "Amazon",
+      "titulo": "Lanterna Projetora Infantil com 3 Discos e 24 Imagens Sortidas – Brinquedo Educativo e Divertido - TYDA (AZUL)",
+      "link": "https://www.amazon.com.br/dp/B0F4DT3TTR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31h7SnCOYCL._SL400_.jpg",
+      "preco": 24.47,
+      "precoDe": 32.47,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:04:58.080Z"
+    },
     {
       "id": "22347",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-24T11:02:46.783Z"
-    },
-    {
-      "id": "21972",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
-      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
-      "preco": 55.160000000000004,
-      "precoDe": 84.9,
-      "desconto": 24,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T23:34:03.321Z"
     }
   ]
 }
