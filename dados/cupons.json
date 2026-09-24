@@ -1,67 +1,7 @@
 {
-  "atualizadoEm": "2026-09-23T23:23:32.281Z",
+  "atualizadoEm": "2026-09-24T03:23:30.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BDBR10",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 5500,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BDBR06",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 3300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BDBR04",
-      "loja": "Aliexpress",
-      "tipo": "reais",
-      "valor": 2300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BDBR30",
-      "loja": "Aliexpress",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BDBR15",
-      "loja": "Aliexpress",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
     {
       "codigo": "CORRE15",
       "loja": "ASICS",
@@ -1095,6 +1035,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL2409",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 10,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-25T03:01:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "Cliente20",
       "loja": "Mizuno",
       "tipo": "pct",
@@ -1273,18 +1225,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "3SQUENT4150",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T03:03:37.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "C0D1G070",
