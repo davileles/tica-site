@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T18:09:54.967Z",
+  "atualizadoEm": "2026-09-24T18:30:20.862Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -843,30 +843,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERPETSHOP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Múltiplos cupons para categorias selecionadas no Mercado Livre",
-      "validadeAte": "2026-09-24T18:14:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUIDADO20OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Múltiplos cupons para categorias selecionadas no Mercado Livre",
-      "validadeAte": "2026-09-24T18:14:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "QUEIMADEESTOQUE24",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1117,6 +1093,18 @@
       "observacao": null,
       "validadeAte": "2026-09-24T20:44:13.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
+      "codigo": "DESCONTO40",
+      "loja": "Outro: Zé Delivery",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-09-25T18:20:46.000Z",
+      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
       "codigo": "BEMVINDA",
