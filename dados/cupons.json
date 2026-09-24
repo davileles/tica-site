@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T20:04:47.077Z",
+  "atualizadoEm": "2026-09-24T20:21:16.527Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1129,18 +1129,6 @@
       "observacao": null,
       "validadeAte": "2026-09-25T19:54:46.000Z",
       "url": null
-    },
-    {
-      "codigo": "JOGANOPLAY",
-      "loja": "Outro: KaBuM",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em jogos selecionados",
-      "validadeAte": "2026-09-24T20:10:23.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "dermo26-74ddgfem80g5t2l",
