@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T17:04:46.946Z",
+  "atualizadoEm": "2026-09-24T17:34:46.505Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -972,6 +972,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-09-25T11:59:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "WAPXP26",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-25T17:17:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
