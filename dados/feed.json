@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-24T19:01:33.412Z",
+  "atualizadoEm": "2026-09-24T19:04:44.240Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22347",
+      "loja": "Amazon",
+      "titulo": "Champagne Moët Imperial Brut 750ml",
+      "link": "https://www.amazon.com.br/dp/B006DB3HXM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314I4Bdn1lL._SL400_.jpg",
+      "preco": 392.12,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:03:46.466Z"
+    },
+    {
+      "id": "22346",
+      "loja": "Amazon",
+      "titulo": "Pais E Filhos Pais & Filhos Jogo De Tabuleiro Suspeito Descubra Mistérios",
+      "link": "https://www.amazon.com.br/dp/B07FK5TK82?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51IJifxMdML._SL400_.jpg",
+      "preco": 40,
+      "precoDe": 72.83,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:02:39.875Z"
+    },
+    {
+      "id": "22343",
+      "loja": "Shopee",
+      "titulo": "Shampoo + Condicionadorr Purificador 1L Máscara Hidratação 500g Óleo Reparador 50ml Kameell",
+      "link": "https://s.shopee.com.br/4B0CwALjRf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261r-mkx3ei6xt88x19_tn",
+      "preco": 34,
+      "precoDe": 39.08,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:01:51.493Z"
+    },
     {
       "id": "22342",
       "loja": "Shopee",
@@ -1239,18 +1275,6 @@
       "enviadoEm": "2026-09-24T11:35:49.344Z"
     },
     {
-      "id": "22013",
-      "loja": "Amazon",
-      "titulo": "Champagne Moët Imperial Brut 750ml",
-      "link": "https://www.amazon.com.br/dp/B006DB3HXM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314I4Bdn1lL._SL400_.jpg",
-      "preco": 392.12,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:31:28.663Z"
-    },
-    {
       "id": "22012",
       "loja": "Shopee",
       "titulo": "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": "BEBIDA15",
       "enviadoEm": "2026-09-23T23:34:03.321Z"
-    },
-    {
-      "id": "21971",
-      "loja": "Amazon",
-      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
-      "preco": 98.51,
-      "precoDe": 134.9,
-      "desconto": 14,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T23:26:48.115Z"
-    },
-    {
-      "id": "21970",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 37.39,
-      "precoDe": 47.9,
-      "desconto": 8,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T23:19:32.838Z"
     }
   ]
 }
