@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-24T22:34:44.340Z",
+  "atualizadoEm": "2026-09-24T23:04:44.342Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22446",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
+      "preco": 49.99,
+      "precoDe": 71.67,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:57:06.010Z"
+    },
+    {
+      "id": "22444",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Bolinha Macarrão Dedinho Antiderrapante Várias Cores",
+      "link": "https://s.shopee.com.br/7ptVYowK0Y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckrhbrs1nup9b_tn",
+      "preco": 17.9,
+      "precoDe": 35.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:55:52.322Z"
+    },
+    {
+      "id": "22443",
+      "loja": "Shopee",
+      "titulo": "12 Pçs/Cjto Brinquedos Action Figure Naruto PVC Coleção Anime Boneca",
+      "link": "https://s.shopee.com.br/70KOZEEEv3",
+      "imagem": "https://cf.shopee.com.br/file/6c04aec66e9691472d3dc222c85bafda_tn",
+      "preco": 39.99,
+      "precoDe": 111.08,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:52:25.097Z"
+    },
     {
       "id": "22440",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-24T13:00:42.359Z"
-    },
-    {
-      "id": "22103",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Feminina Infantil Pequena Creche Passeio",
-      "link": "https://meli.la/1TwJJWq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861543-MLB106805853983_022026-O.webp",
-      "preco": 47.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-09-24T12:59:02.561Z"
-    },
-    {
-      "id": "22102",
-      "loja": "Amazon",
-      "titulo": "Café Orfeu Arara em Grãos 250g",
-      "link": "https://www.amazon.com.br/dp/B0CPQS1LKS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31KjhHze9eL._SL400_.jpg",
-      "preco": 29.909999999999997,
-      "precoDe": 48.7,
-      "desconto": 28,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T12:57:56.358Z"
-    },
-    {
-      "id": "22098",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Essential S3, 24\" FHD, 120 Hz, HDMI, Preto",
-      "link": "https://meli.la/2BYcwwX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652104-MLA96195278152_102025-F.jpg",
-      "preco": 424.39000000000004,
-      "precoDe": 542,
-      "desconto": 13,
-      "cupom": "APROVEITAHJ",
-      "enviadoEm": "2026-09-24T12:50:56.296Z"
     }
   ]
 }
