@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-23T23:44:03.323Z",
+  "atualizadoEm": "2026-09-24T11:10:22.055Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "21998",
+      "loja": "Amazon",
+      "titulo": "Carrinho De Ferramentas 3 Gavetas Fercar Preto Chaveado C06",
+      "link": "https://www.amazon.com.br/dp/B07JK9ZMFR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41o1TT+uFKL._SL400_.jpg",
+      "preco": 1098.9,
+      "precoDe": 1159,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T11:08:36.436Z"
+    },
+    {
+      "id": "21997",
+      "loja": "Amazon",
+      "titulo": "Cerveja De Trigo Paulaner Weissbier Original 500ml (12 Und)",
+      "link": "https://www.amazon.com.br/dp/B0F7TBM1J6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51GdKCo3VDL._SL400_.jpg",
+      "preco": 288.7,
+      "precoDe": 379.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T11:07:44.631Z"
+    },
+    {
+      "id": "21996",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/9V1il8EO2G",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 16.99,
+      "precoDe": 22.36,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T11:06:29.512Z"
+    },
+    {
+      "id": "21995",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+      "link": "https://s.shopee.com.br/9zxzM14dCV",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m3zbdqna4dhzc0_tn",
+      "preco": 18.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T11:02:46.783Z"
+    },
     {
       "id": "21972",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 50,
       "cupom": "LOJASOFICIAIS",
       "enviadoEm": "2026-09-23T15:25:52.004Z"
-    },
-    {
-      "id": "21672",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER Furadeira e Parafusadeira 3/8\" LD12SC 12V Com 31 Acessórios e Maleta Bivolt",
-      "link": "https://www.amazon.com.br/dp/B07CG7NS5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ycfnz2hGL._SL400_.jpg",
-      "preco": 273.9,
-      "precoDe": 293.7,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T15:10:28.740Z"
-    },
-    {
-      "id": "21671",
-      "loja": "Amazon",
-      "titulo": "Tônica Antarctica 350ml 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
-      "preco": 61.68,
-      "precoDe": 81.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T15:09:35.688Z"
-    },
-    {
-      "id": "21671",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/AUuEctbzxm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
-      "preco": 29.9,
-      "precoDe": 61.02,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T15:08:36.882Z"
-    },
-    {
-      "id": "21664",
-      "loja": "Amazon",
-      "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-      "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nP8EFUzHS._SL400_.jpg",
-      "preco": 67.07,
-      "precoDe": 100.24,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T14:58:14.272Z"
     }
   ]
 }
