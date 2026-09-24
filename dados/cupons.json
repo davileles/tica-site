@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T15:34:47.070Z",
+  "atualizadoEm": "2026-09-24T16:04:46.605Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -267,6 +267,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "COMPRALOGO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-26T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "JBL25OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -408,6 +420,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "MAGALU10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T20:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1011,6 +1035,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
+      "codigo": "dermo26-74ddgfem80g5t2l",
+      "loja": "Outro: Farmácia Pague Menos",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código de consultor: cuponseofertas",
+      "validadeAte": "2026-09-25T15:43:31.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
+    },
+    {
       "codigo": "JOGANOPLAY",
       "loja": "Outro: KaBuM",
       "tipo": "pct",
@@ -1021,6 +1057,18 @@
       "observacao": "Válido em jogos selecionados",
       "validadeAte": "2026-09-24T20:10:23.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "dermo26-74ddgfem80g5t2l",
+      "loja": "Outro: Pague Menos",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-25T15:45:06.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
       "codigo": "CLIENTE",
@@ -1117,18 +1165,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "C0D1G070",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 70,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T16:03:09.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "10D010L0J4S50F1C14IS",
