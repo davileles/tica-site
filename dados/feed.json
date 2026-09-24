@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-24T15:34:44.096Z",
+  "atualizadoEm": "2026-09-24T16:04:44.097Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22219",
+      "loja": "Shopee",
+      "titulo": "Guia Corte 45° Graus Meia Esquadria Chanfro Serra Mármore Circular Base Suporte Trilho Gabarito Porcelanato",
+      "link": "https://s.shopee.com.br/20vi9Vqq7o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-ms5lj3ko31tz66_tn",
+      "preco": 35.98,
+      "precoDe": 79.96,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T16:01:48.390Z"
+    },
+    {
+      "id": "22218",
+      "loja": "Amazon",
+      "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
+      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
+      "preco": 28.99,
+      "precoDe": 52.76,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T16:00:32.951Z"
+    },
+    {
+      "id": "22203",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Jaquetas Corta Vento Impermeável Liso Unissex",
+      "link": "https://meli.la/1a9Dst6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838755-MLB91813193542_092025-O.webp",
+      "preco": 97.27000000000001,
+      "precoDe": 208.83,
+      "desconto": 45,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-24T15:53:01.739Z"
+    },
+    {
+      "id": "22200",
+      "loja": "Amazon",
+      "titulo": "Café Orfeu Clássico em Grãos 250g",
+      "link": "https://www.amazon.com.br/dp/B077L5XB3R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31szxXb-U+L._SL400_.jpg",
+      "preco": 33.309999999999995,
+      "precoDe": 48.4,
+      "desconto": 19,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-24T15:45:31.038Z"
+    },
+    {
+      "id": "22198",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Cargo Masculina Básica Sarja 100% Algodão",
+      "link": "https://meli.la/1trZykW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637173-MLB93193506735_092025-O.webp",
+      "preco": 47.24,
+      "precoDe": 89,
+      "desconto": 29,
+      "cupom": "SEMPREML",
+      "enviadoEm": "2026-09-24T15:42:07.007Z"
+    },
+    {
+      "id": "22194",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Natura Aura Alba Eau de Parfum Feminino 75ml",
+      "link": "https://meli.la/1TbQdJh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776436-MLA83114532977_032025-F.jpg",
+      "preco": 192,
+      "precoDe": 299,
+      "desconto": 32,
+      "cupom": "FULL2409",
+      "enviadoEm": "2026-09-24T15:38:20.843Z"
+    },
+    {
+      "id": "22185",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
+      "link": "https://s.shopee.com.br/9V1j3VgjCs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T15:34:48.684Z"
+    },
     {
       "id": "22184",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-23T20:29:36.835Z"
-    },
-    {
-      "id": "21899",
-      "loja": "Shopee",
-      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
-      "link": "https://s.shopee.com.br/7KxDD5zxyF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
-      "preco": 7.99,
-      "precoDe": 29.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T20:28:50.641Z"
-    },
-    {
-      "id": "21896",
-      "loja": "Amazon",
-      "titulo": "Cachaça Santo Grau 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B009NRD09O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31cTul9Yt5L._SL400_.jpg",
-      "preco": 72.11,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T20:18:34.262Z"
-    },
-    {
-      "id": "21895",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_858666-MLB113204099406_072026-O.webp",
-      "preco": 93.49,
-      "precoDe": 229.99,
-      "desconto": 52,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T20:17:23.833Z"
-    },
-    {
-      "id": "21890",
-      "loja": "Amazon",
-      "titulo": "Neutrogena Sun Fresh Protetor Solar Facial Para Pele Oleosa Derm Care, FPS 70, Sem Cor, Kit com 2 Unidades de 40g",
-      "link": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41R4tTw2ngL._SL400_.jpg",
-      "preco": 75.92,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-23T20:14:16.297Z"
-    },
-    {
-      "id": "21884",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador GBH 2-24D 820W 127V com maleta",
-      "link": "https://www.amazon.com.br/dp/B076KPXF6P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
-      "preco": 787.55,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T20:07:22.769Z"
-    },
-    {
-      "id": "21883",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/6AlFnPGa9o",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.31,
-      "precoDe": 65.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T20:06:18.336Z"
-    },
-    {
-      "id": "21880",
-      "loja": "Amazon",
-      "titulo": "Cachaça Salinas Umburana 1L",
-      "link": "https://www.amazon.com.br/dp/B07XS8N19L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eakQ+j0kL._SL400_.jpg",
-      "preco": 87.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:55:56.615Z"
     }
   ]
 }
