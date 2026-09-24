@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T19:34:44.258Z",
+  "atualizadoEm": "2026-09-24T19:47:02.618Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22377",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
+      "preco": 22.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:37:02.617Z"
+    },
+    {
+      "id": "22366",
+      "loja": "Amazon",
+      "titulo": "Tech T-shirt Gola U Feminino Beetroot P",
+      "link": "https://www.amazon.com.br/dp/B0DZ36V29J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vzkug-AEL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 165,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T19:35:27.687Z"
+    },
     {
       "id": "22365",
       "loja": "Amazon",
@@ -1275,18 +1299,6 @@
       "enviadoEm": "2026-09-24T11:59:56.533Z"
     },
     {
-      "id": "22030",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
-      "preco": 22.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:54:16.878Z"
-    },
-    {
       "id": "22029",
       "loja": "Shopee",
       "titulo": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
@@ -1429,18 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-09-24T11:13:09.608Z"
-    },
-    {
-      "id": "21999",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Vl Court 3.0 Adidas",
-      "link": "https://meli.la/12AGRSQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748772-MLA97289464788_112025-O.webp",
-      "preco": 210.32,
-      "precoDe": 399.99,
-      "desconto": 38,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-24T11:12:02.042Z"
     }
   ]
 }
