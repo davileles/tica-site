@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-09-24T15:04:44.064Z",
+  "atualizadoEm": "2026-09-24T15:34:44.096Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22184",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Boxer Classic Reebok Microfibra Luxo Original",
+      "link": "https://meli.la/1QdydHk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_862779-MLB92286626352_092025-O.webp",
+      "preco": 41.239999999999995,
+      "precoDe": 76.9,
+      "desconto": 23,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-24T15:31:13.224Z"
+    },
+    {
+      "id": "22179",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Fitness com Bolso Lateral da Polo Wear na cor Preta, tamanho GG.",
+      "link": "https://meli.la/2Vhyqrq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820395-MLA114012678675_072026-O.webp",
+      "preco": 59.489999999999995,
+      "precoDe": 159.99,
+      "desconto": 56,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-24T15:27:54.770Z"
+    },
+    {
+      "id": "22178",
+      "loja": "Amazon",
+      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
+      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
+      "preco": 949.05,
+      "precoDe": 1169,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T15:24:11.522Z"
+    },
+    {
+      "id": "22177",
+      "loja": "Shopee",
+      "titulo": "Guia Bancada Posicionador Multifuncional De Corte Para Serra Circular, Tupia, Tico",
+      "link": "https://s.shopee.com.br/7VGeUlwzup",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgp-m9fjpb28t5w568_tn",
+      "preco": 92.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T15:23:20.854Z"
+    },
+    {
+      "id": "22175",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Preta - 220V",
+      "link": "https://www.amazon.com.br/dp/B08S1ZS6R1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TqYxYMhpS._SL400_.jpg",
+      "preco": 381.65,
+      "precoDe": 499.9,
+      "desconto": 10,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-24T15:22:18.587Z"
+    },
+    {
+      "id": "22174",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Flanelada Grossa Zero Transparência Inverno",
+      "link": "https://meli.la/1WuRBbw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695014-MLB110468212834_052026-O.webp",
+      "preco": 20.93,
+      "precoDe": 49.99,
+      "desconto": 40,
+      "cupom": "FOIBARATO",
+      "enviadoEm": "2026-09-24T15:18:41.893Z"
+    },
+    {
+      "id": "22173",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 4 Camisetas Polo Wear em Cores Variadas",
+      "link": "https://meli.la/2hs9RRF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945321-MLB116324242502_092026-O.webp",
+      "preco": 81.19,
+      "precoDe": 239.99,
+      "desconto": 52,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-24T15:15:19.883Z"
+    },
+    {
+      "id": "22167",
+      "loja": "Shopee",
+      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+      "link": "https://s.shopee.com.br/4qFtTEam5K",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
+      "preco": 15.13,
+      "precoDe": 21.31,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T15:08:16.474Z"
+    },
+    {
+      "id": "22166",
+      "loja": "Mercado Livre",
+      "titulo": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band, Câmera 8MP + Selfie 5MP, 7000mAh, Android 16, com Teclado Magnético de Conexão Inteligente – Preto",
+      "link": "https://meli.la/13pC8WL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-F.jpg",
+      "preco": 1076.4,
+      "precoDe": 2212,
+      "desconto": 46,
+      "cupom": "APROVEITAHJ",
+      "enviadoEm": "2026-09-24T15:05:02.516Z"
+    },
     {
       "id": "22163",
       "loja": "Amazon",
@@ -301,18 +409,6 @@
       "desconto": 28,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-24T12:57:56.358Z"
-    },
-    {
-      "id": "22099",
-      "loja": "Shopee",
-      "titulo": "Guia Bancada Posicionador Multifuncional De Corte Para Serra Circular, Tupia, Tico",
-      "link": "https://s.shopee.com.br/7VGeUlwzup",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgp-m9fjpb28t5w568_tn",
-      "preco": 92.79,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:52:07.749Z"
     },
     {
       "id": "22098",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-23T19:55:56.615Z"
-    },
-    {
-      "id": "21879",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
-      "link": "https://meli.la/1vWBfPf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.webp",
-      "preco": 109.65,
-      "precoDe": 338,
-      "desconto": 62,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T19:54:55.445Z"
-    },
-    {
-      "id": "21878",
-      "loja": "Amazon",
-      "titulo": "Neutrogena Hidratante Corporal Hydro Boost Water Gel, Kit com 2 Unidades de 400ml",
-      "link": "https://www.amazon.com.br/dp/B0HFYP1X31?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+CaoCjuFL._SL400_.jpg",
-      "preco": 55.92,
-      "precoDe": 105.78,
-      "desconto": 34,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-23T19:51:46.925Z"
-    },
-    {
-      "id": "21871",
-      "loja": "Mercado Livre",
-      "titulo": "Kit de pontas e brocas Bosch V-Line 41 peças 2607017396",
-      "link": "https://meli.la/1s7mKSC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737056-MLA99014780530_112025-F.jpg",
-      "preco": 114.9,
-      "precoDe": 127.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:44:53.940Z"
-    },
-    {
-      "id": "21867",
-      "loja": "Shopee",
-      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
-      "link": "https://s.shopee.com.br/1VzQDHkrmA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mqbxyppmgzya6f_tn",
-      "preco": 79.12,
-      "precoDe": 98.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:43:51.415Z"
-    },
-    {
-      "id": "21861",
-      "loja": "Amazon",
-      "titulo": "CACHAÇA SALINAS 1L TRADICIONAL",
-      "link": "https://www.amazon.com.br/dp/B07XS8XKKG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Rn74zBmjL._SL400_.jpg",
-      "preco": 64.99,
-      "precoDe": 81.95,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:33:22.262Z"
-    },
-    {
-      "id": "21860",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Core Insider",
-      "link": "https://meli.la/1Zu1JZN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940060-MLB86042491923_062025-O.webp",
-      "preco": 69.99000000000001,
-      "precoDe": 189,
-      "desconto": 56,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T19:32:35.747Z"
-    },
-    {
-      "id": "21857",
-      "loja": "Amazon",
-      "titulo": "Neutrogena Hidratante Corporal Body Care Intensive Hidrata&Repara, Kit com 2 Unidades de 400ml",
-      "link": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4102EXm3qIL._SL400_.jpg",
-      "preco": 43.92,
-      "precoDe": 72.99,
-      "desconto": 25,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-23T19:29:12.474Z"
-    },
-    {
-      "id": "21854",
-      "loja": "Mercado Livre",
-      "titulo": "Kit de pontas e brocas em titânio Bosch X-Line com 30 peças",
-      "link": "https://meli.la/1jeNgVi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857291-MLA99425570042_112025-F.jpg",
-      "preco": 87.64,
-      "precoDe": 97.38,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T19:22:28.826Z"
     }
   ]
 }
