@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T14:13:11.675Z",
+  "atualizadoEm": "2026-09-24T14:35:46.711Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1047,18 +1047,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "OFERTA20CAF",
-      "loja": "Outro: não especificada",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom de 20% OFF. Contexto de loja não foi fornecido na mensagem.",
-      "validadeAte": "2026-09-24T14:15:43.000Z",
-      "url": null
-    },
-    {
       "codigo": "CLIENTE",
       "loja": "Outro: Riachuelo",
       "tipo": "pct",
@@ -1200,18 +1188,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-24T19:04:01.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "OFERTA20CAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T14:15:48.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
