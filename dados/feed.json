@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-24T21:04:44.272Z",
+  "atualizadoEm": "2026-09-24T21:34:44.293Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22424",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Brocas Fresas Forstner 15 a 35mm para Madeira Furo Preciso para Montagem de Dobradiça Porta Armário",
+      "link": "https://s.shopee.com.br/8fScSrGQwp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-msf8vqjbu9s44f_tn",
+      "preco": 29.99,
+      "precoDe": 69.74,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:30:48.613Z"
+    },
+    {
+      "id": "22423",
+      "loja": "Amazon",
+      "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
+      "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e1hNFMEML._SL400_.jpg",
+      "preco": 369.98,
+      "precoDe": 499.99,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:25:29.655Z"
+    },
+    {
+      "id": "22421",
+      "loja": "Amazon",
+      "titulo": "Pack de Eisenbahn LT 350ml Pielsen 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BW1GMVMD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vO-AYLqPL._SL400_.jpg",
+      "preco": 41.88,
+      "precoDe": 50.28,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:22:02.598Z"
+    },
+    {
+      "id": "22420",
+      "loja": "Shopee",
+      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "link": "https://s.shopee.com.br/50ZK54Yr9l",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
+      "preco": 11.22,
+      "precoDe": 18.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:20:58.822Z"
+    },
+    {
+      "id": "22419",
+      "loja": "Amazon",
+      "titulo": "Neve Papel Higiênico Supreme Folha Tripla, 20m, Leve 24 Pague 21 Rolos",
+      "link": "https://www.amazon.com.br/dp/B07FNFPSWL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41svY6J42yL._SL400_.jpg",
+      "preco": 39.99,
+      "precoDe": 54.99,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:17:32.336Z"
+    },
     {
       "id": "22412",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-09-24T12:28:26.057Z"
-    },
-    {
-      "id": "22057",
-      "loja": "Mercado Livre",
-      "titulo": "Processador Amd Ryzen 5 5500 Am4 3.6ghz 6c 12t Cache 19mb",
-      "link": "https://meli.la/1DZ5pjQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937938-MLA116111847046_092026-F.jpg",
-      "preco": 496.8,
-      "precoDe": 920,
-      "desconto": 40,
-      "cupom": "APROVEITAHJ",
-      "enviadoEm": "2026-09-24T12:26:26.427Z"
-    },
-    {
-      "id": "22055",
-      "loja": "Shopee",
-      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
-      "link": "https://s.shopee.com.br/2qUotdUjSs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
-      "preco": 17.99,
-      "precoDe": 19.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:22:43.719Z"
-    },
-    {
-      "id": "22051",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Escritório Ergonômica Python Fly B07 Cinza Com Suporte Lombar",
-      "link": "https://meli.la/145dbU4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655101-MLA114169346640_082026-F.jpg",
-      "preco": 279.3,
-      "precoDe": 749.99,
-      "desconto": 47,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-24T12:19:23.519Z"
-    },
-    {
-      "id": "22043",
-      "loja": "Mercado Livre",
-      "titulo": "WAP Air Heat FW009371 Aquecedor Elétrico Portátil 3 em 1 220V Potência 2000W Triplo Sistema Segurança",
-      "link": "https://meli.la/2vpPVsv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891709-MLA115068451649_072026-F.jpg",
-      "preco": 46.97,
-      "precoDe": 174,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:10:38.218Z"
-    },
-    {
-      "id": "22034",
-      "loja": "Mercado Livre",
-      "titulo": "Assistente Pessoal Echo Dot Max Com Alexa Branca Amazon Branca",
-      "link": "https://meli.la/2BEnc7H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872642-MLA113361093173_062026-F.jpg",
-      "preco": 655.3,
-      "precoDe": 849,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:59:56.533Z"
     }
   ]
 }
