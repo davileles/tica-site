@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T13:13:11.547Z",
+  "atualizadoEm": "2026-09-24T13:30:58.453Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -433,6 +433,18 @@
       "observacao": null,
       "validadeAte": "2026-09-25T16:30:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "OFERTAJA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1099,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-25T13:27:48.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
@@ -1212,30 +1224,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-24T21:53:55.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "10ESQD3Z10",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T13:22:56.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "FL15ES",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 69,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T13:25:56.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
