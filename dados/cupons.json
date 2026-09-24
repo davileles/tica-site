@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T19:47:05.468Z",
+  "atualizadoEm": "2026-09-24T20:04:47.077Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1119,6 +1119,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
+      "codigo": "FARMA15",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-25T19:54:46.000Z",
+      "url": null
+    },
+    {
       "codigo": "JOGANOPLAY",
       "loja": "Outro: KaBuM",
       "tipo": "pct",
@@ -1296,6 +1308,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
+    },
+    {
+      "codigo": "NIVER30",
+      "loja": "Under Armour",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
     },
     {
