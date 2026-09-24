@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T18:04:44.239Z",
+  "atualizadoEm": "2026-09-24T18:30:17.835Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22331",
+      "loja": "Shopee",
+      "titulo": "Jogo De Chaves Torx Allen Tipo L Com 08 Peças",
+      "link": "https://s.shopee.com.br/3qNMUtSGKQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljhtwbrp1toq38_tn",
+      "preco": 10.91,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T18:20:17.835Z"
+    },
+    {
+      "id": "22330",
+      "loja": "Shopee",
+      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
+      "link": "https://s.shopee.com.br/113B7AcmBE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
+      "preco": 19.54,
+      "precoDe": 22.99,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T18:16:08.064Z"
+    },
     {
       "id": "22324",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-23T23:02:31.884Z"
-    },
-    {
-      "id": "21963",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Barreda Adidas",
-      "link": "https://meli.la/2fGEM3Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916152-MLB87842830052_072025-O.webp",
-      "preco": 288.99,
-      "precoDe": 399.99,
-      "desconto": 15,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-23T23:01:32.101Z"
-    },
-    {
-      "id": "21962",
-      "loja": "Amazon",
-      "titulo": "Licor 43 Chocolate 700ml",
-      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
-      "preco": 151.1,
-      "precoDe": 189.9,
-      "desconto": 6,
-      "cupom": "BEBIDA15",
-      "enviadoEm": "2026-09-23T22:57:47.392Z"
     }
   ]
 }
