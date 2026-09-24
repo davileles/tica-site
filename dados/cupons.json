@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-24T17:34:46.505Z",
+  "atualizadoEm": "2026-09-24T18:04:46.771Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,6 +867,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE24",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom válido em produtos selecionados em queima de estoque",
+      "validadeAte": "2026-09-25T18:00:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -936,18 +948,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECORACAO2309",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em selecionados de Decoração e Eletros",
-      "validadeAte": "2026-09-24T18:00:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1224,18 +1224,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-09-25T15:05:23.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "F1MD0D1A",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-24T18:02:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
