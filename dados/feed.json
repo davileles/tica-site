@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-24T13:54:01.091Z",
+  "atualizadoEm": "2026-09-24T14:13:09.103Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22137",
+      "loja": "Shopee",
+      "titulo": "Esguicho Bocal De Mangueira Regar Jardim Pistola Spray Água Alta Pressão Bico Limpeza Quintal",
+      "link": "https://s.shopee.com.br/6fhXRTkEGm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2xtkrs9f37p17_tn",
+      "preco": 14.99,
+      "precoDe": 40.51,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:12:47.598Z"
+    },
+    {
+      "id": "22136",
+      "loja": "Amazon",
+      "titulo": "Burigotto Carrinho de Bebê Zap Metal, Cobre",
+      "link": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41a8Vogi+TL._SL400_.jpg",
+      "preco": 559,
+      "precoDe": 929,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T14:11:56.267Z"
+    },
+    {
+      "id": "22133",
+      "loja": "Amazon",
+      "titulo": "3 Corações Cápsula Café Filtrado TRES - 10 unidades",
+      "link": "https://www.amazon.com.br/dp/B076T4VY5W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cUMl0S1gL._SL400_.jpg",
+      "preco": 14.439999999999998,
+      "precoDe": 24.99,
+      "desconto": 32,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-24T14:07:00.225Z"
+    },
+    {
+      "id": "22130",
+      "loja": "Shopee",
+      "titulo": "Elástico de Treino Mini Band / Elástico Tensão Extensor Exercício Treino Funcional Fisioterapia em Casa",
+      "link": "https://s.shopee.com.br/20vi1HhKqD",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-mc3e4voqn0187b_tn",
+      "preco": 11.98,
+      "precoDe": 32.38,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T13:57:47.215Z"
+    },
     {
       "id": "22124",
       "loja": "Amazon",
@@ -313,18 +361,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-09-24T11:59:56.533Z"
-    },
-    {
-      "id": "22031",
-      "loja": "Shopee",
-      "titulo": "Esguicho Bocal De Mangueira Regar Jardim Pistola Spray Água Alta Pressão Bico Limpeza Quintal",
-      "link": "https://s.shopee.com.br/6fhXRTkEGm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2xtkrs9f37p17_tn",
-      "preco": 14.99,
-      "precoDe": 40.51,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T11:55:29.372Z"
     },
     {
       "id": "22030",
@@ -1405,42 +1441,6 @@
       "desconto": 51,
       "cupom": "MELHORCUPOM",
       "enviadoEm": "2026-09-23T18:40:19.151Z"
-    },
-    {
-      "id": "21819",
-      "loja": "Amazon",
-      "titulo": "Bosch Kit Parafusadeira GSR 120-LI e Chave de Impacto GDR 120-LI, 12V com 2 baterias, 1 carregador e 1 maleta",
-      "link": "https://www.amazon.com.br/dp/B0877YWTK5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Z3jSm0goL._SL400_.jpg",
-      "preco": 860.32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T18:37:05.461Z"
-    },
-    {
-      "id": "21818",
-      "loja": "Shopee",
-      "titulo": "Saco Plástico PP Transparente Incolor Brilhante Embalagem Kit 50 Celofane Unidades Diversas Medidas",
-      "link": "https://s.shopee.com.br/9AOrGZAX7N",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg0ecfh7hyiv98_tn",
-      "preco": 6.98,
-      "precoDe": 12.25,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T18:36:07.776Z"
-    },
-    {
-      "id": "21817",
-      "loja": "Amazon",
-      "titulo": "Gabinete Gamer Lian Li Vector V100 Preto Sem Fans V100X",
-      "link": "https://www.amazon.com.br/dp/B0FDQ7TTKX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pP7G0d+9L._SL400_.jpg",
-      "preco": 406.8,
-      "precoDe": 499,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T18:32:54.944Z"
     }
   ]
 }
