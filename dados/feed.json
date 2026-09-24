@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T21:53:20.467Z",
+  "atualizadoEm": "2026-09-24T22:04:44.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22432",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Brocas Furo Quadrado + Suporte Fixo Adaptador Furadeira de Bancada",
+      "link": "https://s.shopee.com.br/2Vrz9fhWBe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqpq025pqn0hd9_tn",
+      "preco": 127.35,
+      "precoDe": 249.71,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T22:02:03.519Z"
+    },
+    {
+      "id": "22429",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Morango e Pêssego 2L",
+      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
+      "preco": 17.01,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T21:55:17.914Z"
+    },
     {
       "id": "22426",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 41,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-24T12:34:59.056Z"
-    },
-    {
-      "id": "22069",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 63.99,
-      "precoDe": 92.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:30:40.028Z"
-    },
-    {
-      "id": "22064",
-      "loja": "Amazon",
-      "titulo": "Bosch Trena Laser GLM 25-23 com alcance de 25m",
-      "link": "https://www.amazon.com.br/dp/B0CT41R8CP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418Tz7MvsVL._SL400_.jpg",
-      "preco": 317,
-      "precoDe": 339,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T12:29:30.123Z"
     }
   ]
 }
