@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T12:40:22.113Z",
+  "atualizadoEm": "2026-09-24T12:44:09.089Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22082",
+      "loja": "Amazon",
+      "titulo": "Replay Kids Troninho Penico Infantil Musical Sapinho Verde",
+      "link": "https://www.amazon.com.br/dp/B0DJ3M8JDJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i6zPQ5ubL._SL400_.jpg",
+      "preco": 55.34,
+      "precoDe": 76.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-24T12:42:34.700Z"
+    },
+    {
+      "id": "22077",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Gamer Rise Mode Frost Argb Rainbow 360mm Branco",
+      "link": "https://meli.la/2xh3KWZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806862-MLB115603189260_092026-O.webp",
+      "preco": 239.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "APROVEITAHJ",
+      "enviadoEm": "2026-09-24T12:41:49.257Z"
+    },
     {
       "id": "22072",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-09-23T17:28:57.944Z"
-    },
-    {
-      "id": "21781",
-      "loja": "Mercado Livre",
-      "titulo": "Esmerilhadeira Angular 4.1/2 Pol 700w Gws 700 Bosch",
-      "link": "https://meli.la/1Kh4fyR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682410-MLA99966959247_112025-F.jpg",
-      "preco": 339.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T17:27:58.995Z"
-    },
-    {
-      "id": "21780",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
-      "link": "https://s.shopee.com.br/30oDqaVLZz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
-      "preco": 19.99,
-      "precoDe": 68.93,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-09-23T17:26:08.424Z"
     }
   ]
 }
