@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-25T22:34:47.111Z",
+  "atualizadoEm": "2026-09-25T22:44:07.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1369,6 +1369,30 @@
       "observacao": "Válido apenas em Placas-mãe Selecionadas",
       "validadeAte": "2026-09-26T12:41:52.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "M3GAH1T100",
+      "loja": "Outro: não identificada",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código identificado, mas sem contexto de loja ou termos específicos de aplicação",
+      "validadeAte": "2026-09-26T22:37:20.000Z",
+      "url": null
+    },
+    {
+      "codigo": "H1T100CEM",
+      "loja": "Outro: não identificada",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código de desconto de R$100. Loja não especificada na mensagem.",
+      "validadeAte": "2026-09-26T22:38:55.000Z",
+      "url": null
     },
     {
       "codigo": "NOVABEATS",
