@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-25T20:34:41.204Z",
+  "atualizadoEm": "2026-09-25T20:54:57.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22862",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
+      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
+      "preco": 67.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:44:57.413Z"
+    },
+    {
+      "id": "22859",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/40goRWc4bA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:40:05.105Z"
+    },
     {
       "id": "22854",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-24T21:55:17.914Z"
-    },
-    {
-      "id": "22426",
-      "loja": "Shopee",
-      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
-      "link": "https://s.shopee.com.br/5fp0u35omo",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
-      "preco": 118.95,
-      "precoDe": 158.6,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:43:20.466Z"
-    },
-    {
-      "id": "22424",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Brocas Fresas Forstner 15 a 35mm para Madeira Furo Preciso para Montagem de Dobradiça Porta Armário",
-      "link": "https://s.shopee.com.br/8fScSrGQwp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-msf8vqjbu9s44f_tn",
-      "preco": 29.99,
-      "precoDe": 69.74,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:30:48.613Z"
     }
   ]
 }
