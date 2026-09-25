@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-25T14:34:32.749Z",
+  "atualizadoEm": "2026-09-25T15:04:47.147Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1044,6 +1044,18 @@
       "limite": 200,
       "observacao": "Cupons em selecionados; consulte listas para categorias específicas",
       "validadeAte": "2026-09-26T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2509",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em entregas FUL em produtos selecionados",
+      "validadeAte": "2026-09-26T15:00:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
