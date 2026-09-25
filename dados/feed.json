@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-25T21:04:44.659Z",
+  "atualizadoEm": "2026-09-25T21:34:44.677Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22874",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Escritório Ergonômica Testada conforme NR-17, Duplo Apoio Lombar, Assento Deslizante com Ajuste de Profundidade 5cm, Apoio para Pés Retrátil, Reclinável até 135° para Ho",
+      "link": "https://www.amazon.com.br/dp/B0GC5HPQHX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/516nXHgKwXL._SL400_.jpg",
+      "preco": 664.04,
+      "precoDe": 999,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T21:34:35.878Z"
+    },
+    {
+      "id": "22871",
+      "loja": "Shopee",
+      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+      "link": "https://s.shopee.com.br/AKas2MD6in",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
+      "preco": 75.88,
+      "precoDe": 199.68,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T21:26:37.460Z"
+    },
+    {
+      "id": "22870",
+      "loja": "Amazon",
+      "titulo": "Conjunto 6 Copos de Vidro para Whisky 300ml – Design Lapidado, Fundo Espesso e Brilho Cristalino | Ideal para Drinks, Bourbon, Água e Coquetéis",
+      "link": "https://www.amazon.com.br/dp/B0FKF6GWS2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41agNVpQS5L._SL400_.jpg",
+      "preco": 49.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T21:20:11.610Z"
+    },
     {
       "id": "22864",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-24T22:31:46.853Z"
-    },
-    {
-      "id": "22437",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/6AlHY3f13i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 25.98,
-      "precoDe": 46.39,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T22:30:33.991Z"
-    },
-    {
-      "id": "22435",
-      "loja": "Mercado Livre",
-      "titulo": "Power Protein Bar 41g Display Com 12 Unid Max Titanium Sabor Milk caramel",
-      "link": "https://meli.la/1Azpd4Q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883742-MLA115361036416_082026-F.jpg",
-      "preco": 56.49999999999999,
-      "precoDe": 91.9,
-      "desconto": 23,
-      "cupom": "QUEIMADEESTOQUE24",
-      "enviadoEm": "2026-09-24T22:11:51.624Z"
-    },
-    {
-      "id": "22433",
-      "loja": "Shopee",
-      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "link": "https://s.shopee.com.br/2gBPM54ilO",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
-      "preco": 15.78,
-      "precoDe": 45.09,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T22:05:47.091Z"
     }
   ]
 }
