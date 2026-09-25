@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-25T16:34:47.393Z",
+  "atualizadoEm": "2026-09-25T17:34:46.990Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,18 +1167,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "WAPXP26",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-25T17:17:17.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFMLHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1380,6 +1368,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-26T12:19:11.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "L0J450FICIAIS1010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-26T17:08:12.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
