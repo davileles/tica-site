@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-25T18:57:12.258Z",
+  "atualizadoEm": "2026-09-25T19:27:38.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22822",
+      "loja": "Amazon",
+      "titulo": "Aspirador de Pó Vertical Britânia 2 em 1 com Filtro Ciclone 1400W BAS30 1,5L Azul 127V",
+      "link": "https://www.amazon.com.br/dp/B0D9PM7MDP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21uhNzwe-9L._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 234.6,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:17:38.453Z"
+    },
+    {
+      "id": "22820",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Aluminio Dobrável 3 Degraus Mor",
+      "link": "https://meli.la/2qwi8Ps",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736594-MLA95679961300_102025-F.jpg",
+      "preco": 189,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:14:10.088Z"
+    },
+    {
+      "id": "22819",
+      "loja": "Amazon",
+      "titulo": "Pringles Pack Promo Salgadinho de Batata Frita 3 Sabores - Original, Creme e Cebola e Churrasco",
+      "link": "https://www.amazon.com.br/dp/B0F35GPLGV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41joVKi1nLL._SL400_.jpg",
+      "preco": 25.99,
+      "precoDe": 29.99,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:13:15.006Z"
+    },
+    {
+      "id": "22817",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/2qUqwwRdFw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 329.9,
+      "precoDe": 701.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:09:49.724Z"
+    },
     {
       "id": "22803",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-24T20:55:20.450Z"
-    },
-    {
-      "id": "22407",
-      "loja": "Amazon",
-      "titulo": "Decanter de Cristal 1500ml - Bohemia",
-      "link": "https://www.amazon.com.br/dp/B019H2ZKWY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EYfp2Wi3L._SL400_.jpg",
-      "preco": 94.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:44:18.198Z"
-    },
-    {
-      "id": "22406",
-      "loja": "Shopee",
-      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
-      "link": "https://s.shopee.com.br/1Lg1fE7NH0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
-      "preco": 116.6,
-      "precoDe": 212,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:32:54.242Z"
-    },
-    {
-      "id": "22405",
-      "loja": "Shopee",
-      "titulo": "Kit 30 Discos Lixa 125mm Suporte para Furadeira Lixadeira com Velcro para Furadeira, Lixadeira e Esmerilhadeira parede",
-      "link": "https://s.shopee.com.br/6VO7oaHjs7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqfngr0ov7k3fa_tn",
-      "preco": 27.99,
-      "precoDe": 50.89,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:28:18.938Z"
-    },
-    {
-      "id": "22404",
-      "loja": "Amazon",
-      "titulo": "Adimax Ração Magnus Todo Dia-15 Kg",
-      "link": "https://www.amazon.com.br/dp/B07Y2D7CSV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41umJTpUZQL._SL400_.jpg",
-      "preco": 60.88,
-      "precoDe": 114.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:27:25.386Z"
     }
   ]
 }
