@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-25T16:04:44.569Z",
+  "atualizadoEm": "2026-09-25T16:34:44.569Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22724",
+      "loja": "Shopee",
+      "titulo": "Espelho de Corpo Inteiro Decoração Loja Casa Provador Closet Sala Quarto Lavabo Banheiro 40cm x 80cm",
+      "link": "https://s.shopee.com.br/7VGgKyACew",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lktxzo61eg0oc3_tn",
+      "preco": 64.99,
+      "precoDe": 120.35,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:34:43.586Z"
+    },
+    {
+      "id": "22718",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho de Controle Remoto Robô Transformer Homem Aranha Spider Infantil Transformer Que Vira Robô Recarregavel Kizumba",
+      "link": "https://meli.la/2kSxqhJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994475-MLA114306473592_082026-F.jpg",
+      "preco": 66.6,
+      "precoDe": 169.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:31:09.238Z"
+    },
+    {
+      "id": "22710",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Modal Algodão Malha Peruana",
+      "link": "https://meli.la/15ztJDC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850302-MLB114425778236_082026-O.webp",
+      "preco": 38.5,
+      "precoDe": 119,
+      "desconto": 54,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-25T16:30:02.743Z"
+    },
+    {
+      "id": "22708",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jKT0aXLiL._SL400_.jpg",
+      "preco": 438,
+      "precoDe": 799.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:26:36.159Z"
+    },
+    {
+      "id": "22705",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 8 Camisas Sandrini Dry- Fit Masculina Caminhada Academia",
+      "link": "https://meli.la/1jwkirU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882027-MLB107639375636_032026-O.webp",
+      "preco": 119,
+      "precoDe": 249.99,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:21:39.415Z"
+    },
+    {
+      "id": "22703",
+      "loja": "Shopee",
+      "titulo": "Caminha Cama Pet com Fundo impermeável com Zíper para Cão Gato Grande, Médio e Pequeno",
+      "link": "https://s.shopee.com.br/6q0zWMGTaZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3niuyi7s3kd3_tn",
+      "preco": 58,
+      "precoDe": 90.63,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:18:01.477Z"
+    },
+    {
+      "id": "22701",
+      "loja": "Amazon",
+      "titulo": "Secret Desodorante Antitranspirante em Gel Lavanda 73g",
+      "link": "https://www.amazon.com.br/dp/B0F3K8RJ7R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FMBtfZ++L._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 31.15,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:11:08.101Z"
+    },
+    {
+      "id": "22699",
+      "loja": "Amazon",
+      "titulo": "Creme Hidratante CeraVe para Pele Seca e Extrasseca, Sem Perfume, 50g",
+      "link": "https://www.amazon.com.br/dp/B07MW286JF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rdsAnnwFL._SL400_.jpg",
+      "preco": 35.87,
+      "precoDe": 44.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:07:57.129Z"
+    },
     {
       "id": "22697",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-24T17:44:48.754Z"
-    },
-    {
-      "id": "22316",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Fitness Top Shorts Meia Coxa Alta Compressão",
-      "link": "https://meli.la/2U8yAmA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_983508-MLB99099324253_112025-O.webp",
-      "preco": 65.45,
-      "precoDe": 139.99,
-      "desconto": 45,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-24T17:43:52.857Z"
-    },
-    {
-      "id": "22310",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Facial Kokeshi Completo 3 Passos Olhos de Gueixa, Pele de Porcelana e Gota de Colágeno",
-      "link": "https://meli.la/1fucdtb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980292-MLA115592849216_092026-F.jpg",
-      "preco": 75.9,
-      "precoDe": 93.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:40:31.900Z"
-    },
-    {
-      "id": "22308",
-      "loja": "Amazon",
-      "titulo": "Orfeu Café Bourbon Amarelo em Grãos, 100% Arabica, Torra Média Clara 250g",
-      "link": "https://www.amazon.com.br/dp/B084WLM5TF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EUB7DdS4L._SL400_.jpg",
-      "preco": 31.87,
-      "precoDe": 48.4,
-      "desconto": 23,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T17:37:03.285Z"
-    },
-    {
-      "id": "22305",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Camiseta Masculina Speedo Dry Fit Manga Curta Academia",
-      "link": "https://meli.la/2LbQgbs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_767763-MLB108170213708_032026-O.webp",
-      "preco": 67.14,
-      "precoDe": 146.16,
-      "desconto": 46,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-24T17:33:36.113Z"
-    },
-    {
-      "id": "22298",
-      "loja": "Shopee",
-      "titulo": "Kit com 6/8 Carrinhos Com e Sem Fricção Filme Carros Relâmpago Mcqueen Brinquedo Infantil Envio Imediato",
-      "link": "https://s.shopee.com.br/5LCADjb330",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma8k5h88c0hl95_tn",
-      "preco": 21.9,
-      "precoDe": 60.83,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:29:50.754Z"
-    },
-    {
-      "id": "22297",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 43.77,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:26:03.634Z"
-    },
-    {
-      "id": "22294",
-      "loja": "Amazon",
-      "titulo": "Adega Climatizada 12 Garrafas Midea Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0F7TFM927?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFVjRAHmL._SL400_.jpg",
-      "preco": 814.98,
-      "precoDe": 1099,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:18:53.968Z"
-    },
-    {
-      "id": "22293",
-      "loja": "Shopee",
-      "titulo": "Tira manchas alvejante 1kg + Percarbonato de sódio 1kg",
-      "link": "https://s.shopee.com.br/6L4hOg2WYB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5q7asdx9eiad2_tn",
-      "preco": 17.1,
-      "precoDe": 38,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:17:52.518Z"
     }
   ]
 }
