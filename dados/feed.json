@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-25T19:34:44.659Z",
+  "atualizadoEm": "2026-09-25T20:04:44.660Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22837",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/3LR7bBuq7k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 27.99,
+      "precoDe": 69.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:54:58.999Z"
+    },
+    {
+      "id": "22836",
+      "loja": "Shopee",
+      "titulo": "Kit Parafusadeira Elétrica/Furadeira 48 Peças À Bateria Sem Fio Carregador Usb Portátil Leve",
+      "link": "https://s.shopee.com.br/2Vs0bSC8EG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md1js8nzgjr517_tn",
+      "preco": 37.99,
+      "precoDe": 80.83,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:49:25.278Z"
+    },
     {
       "id": "22833",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-09-24T21:20:58.822Z"
-    },
-    {
-      "id": "22419",
-      "loja": "Amazon",
-      "titulo": "Neve Papel Higiênico Supreme Folha Tripla, 20m, Leve 24 Pague 21 Rolos",
-      "link": "https://www.amazon.com.br/dp/B07FNFPSWL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41svY6J42yL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 54.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:17:32.336Z"
-    },
-    {
-      "id": "22412",
-      "loja": "Shopee",
-      "titulo": "Kit 30 peças Disco Serra Circular Madeira Retifica E Furadeira Parafusadeira Conjunto de mini",
-      "link": "https://s.shopee.com.br/5AskGHQQK8",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkc3jikrek1z46_tn",
-      "preco": 25.49,
-      "precoDe": 27.41,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:59:32.706Z"
     }
   ]
 }
