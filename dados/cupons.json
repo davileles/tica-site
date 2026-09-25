@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-25T18:04:47.219Z",
+  "atualizadoEm": "2026-09-25T18:34:46.803Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1308,18 +1308,6 @@
       "limite": 25,
       "observacao": "Desconto de 50% limitado a R$ 25,00 de economia",
       "validadeAte": "2026-09-26T03:00:17.000Z",
-      "url": "https://ze.onelink.me/qZhP/p8z09c1x"
-    },
-    {
-      "codigo": "DESCONTO40",
-      "loja": "Outro: Zé Delivery",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-09-25T18:20:46.000Z",
       "url": "https://ze.onelink.me/qZhP/p8z09c1x"
     },
     {
