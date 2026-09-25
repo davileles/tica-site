@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T11:34:44.345Z",
+  "atualizadoEm": "2026-09-25T11:45:06.573Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22475",
+      "loja": "Shopee",
+      "titulo": "Kit Micro Retífica 24 Peças Elétrica – Velocidade Variável para Polimento e Retificação",
+      "link": "https://s.shopee.com.br/9AOtzl5Vyx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65gx3ls6cvm10_tn",
+      "preco": 59.96,
+      "precoDe": 119.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T11:35:06.573Z"
+    },
     {
       "id": "22474",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-09-24T13:35:48.304Z"
-    },
-    {
-      "id": "22120",
-      "loja": "Shopee",
-      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "link": "https://s.shopee.com.br/3qNMB1OI2E",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
-      "preco": 37.91,
-      "precoDe": 70.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T13:34:32.538Z"
     }
   ]
 }
