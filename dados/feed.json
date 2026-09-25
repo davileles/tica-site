@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T17:34:44.568Z",
+  "atualizadoEm": "2026-09-25T17:45:25.484Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22766",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissional Ajustável de PVC 280cm - Versatilidade e Durabilidade",
+      "link": "https://s.shopee.com.br/gQMGi39qU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 9.9,
+      "precoDe": 26.05,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T17:35:25.482Z"
+    },
     {
       "id": "22765",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 47,
       "cupom": "QUEIMADEESTOQUE24",
       "enviadoEm": "2026-09-24T19:28:29.231Z"
-    },
-    {
-      "id": "22357",
-      "loja": "Shopee",
-      "titulo": "11 Pçs Mini Lâmina De Serra Circular Ultrafina De Aço Inoxidável 22/25/32Mm Disco De Corte De Moagem Com Haste De 3Mm Pa",
-      "link": "https://s.shopee.com.br/5q8QwrRWS1",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo0nf9doo93cb2_tn",
-      "preco": 11.66,
-      "precoDe": 22.42,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T19:25:17.872Z"
     }
   ]
 }
