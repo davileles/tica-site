@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-25T16:34:44.569Z",
+  "atualizadoEm": "2026-09-25T17:04:44.568Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22743",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Boxer Algodão Polo Wear",
+      "link": "https://meli.la/25qM1X4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745081-MLB116322762968_092026-O.webp",
+      "preco": 65.8,
+      "precoDe": 199.99,
+      "desconto": 53,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-25T17:00:17.605Z"
+    },
+    {
+      "id": "22739",
+      "loja": "Mercado Livre",
+      "titulo": "Penteadeira Infantil Menina Acessórios Princesa Maquiagem Cor Rosa",
+      "link": "https://meli.la/32w7JS6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965274-MLA99622391302_122025-F.jpg",
+      "preco": 46,
+      "precoDe": 119.9,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:56:47.205Z"
+    },
+    {
+      "id": "22736",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes Herméticos De Vidro 640ml Haushop Tampa Vedação Firme Para Geladeira E Despensa Organização Da Cozinha",
+      "link": "https://meli.la/2V5pECp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734014-MLA116673469009_082026-F.jpg",
+      "preco": 57.46000000000001,
+      "precoDe": 149.9,
+      "desconto": 49,
+      "cupom": "DESCONTOESPECIAL",
+      "enviadoEm": "2026-09-25T16:53:11.743Z"
+    },
+    {
+      "id": "22733",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
+      "link": "https://meli.la/2tU5cbu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg",
+      "preco": 45.080000000000005,
+      "precoDe": 149,
+      "desconto": 57,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-25T16:46:17.677Z"
+    },
+    {
+      "id": "22732",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
+      "link": "https://s.shopee.com.br/7KxG9CSEhi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
+      "preco": 40.99,
+      "precoDe": 56.15,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:42:46.735Z"
+    },
+    {
+      "id": "22730",
+      "loja": "Shopee",
+      "titulo": "Mini Torno Bancada Profissional Base Fixa Morsa 40mm Aço Reforçado Starfer Liga Aluminio CTZ",
+      "link": "https://s.shopee.com.br/1Lg304RAjA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtic1qfh9lvkf2_tn",
+      "preco": 34.9,
+      "precoDe": 51.32,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T16:39:15.564Z"
+    },
+    {
+      "id": "22728",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Masculino Natura Essencial Único Deo Parfum 90ml",
+      "link": "https://meli.la/1fR85XY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997812-MLA92288090836_092025-F.jpg",
+      "preco": 163.8,
+      "precoDe": 299.9,
+      "desconto": 39,
+      "cupom": "FULL2509",
+      "enviadoEm": "2026-09-25T16:38:02.296Z"
+    },
     {
       "id": "22724",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-09-24T18:16:08.064Z"
-    },
-    {
-      "id": "22324",
-      "loja": "Amazon",
-      "titulo": "Café Pilão Grãos Espresso Pouch 1kg",
-      "link": "https://www.amazon.com.br/dp/B008S8RLTE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41OjJR54z2L._SL400_.jpg",
-      "preco": 66.25,
-      "precoDe": 129.9,
-      "desconto": 40,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T17:59:54.263Z"
-    },
-    {
-      "id": "22323",
-      "loja": "Amazon",
-      "titulo": "Tônica Antarctica 350ml 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
-      "preco": 61.68,
-      "precoDe": 81.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:54:43.748Z"
-    },
-    {
-      "id": "22322",
-      "loja": "Mercado Livre",
-      "titulo": "Estojo Maleta 68 Peças Crianças Canetinhas Giz Lápis Menina",
-      "link": "https://meli.la/14gk4m4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_842804-MLA100083353023_122025-F.jpg",
-      "preco": 33.91,
-      "precoDe": 39.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:53:51.456Z"
-    },
-    {
-      "id": "22321",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
-      "link": "https://s.shopee.com.br/7KxEdFMufI",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e_tn",
-      "preco": 14.9,
-      "precoDe": 19.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:52:42.591Z"
-    },
-    {
-      "id": "22319",
-      "loja": "Shopee",
-      "titulo": "Jogo Chaves De Fenda Precisão Com 115 peças 1 Kit Ferramentas P/ Manutenção Celular Notebook Tablet Reparação",
-      "link": "https://s.shopee.com.br/3g3wGBN1MS",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260e-mkckphdrad5391_tn",
-      "preco": 25.88,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:49:11.078Z"
-    },
-    {
-      "id": "22318",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Vector Masculino Confortável Estilo Esportivo",
-      "link": "https://meli.la/2D134i4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890716-MLB108412872577_032026-O.webp",
-      "preco": 149.51,
-      "precoDe": 299.99,
-      "desconto": 41,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-24T17:48:03.241Z"
-    },
-    {
-      "id": "22317",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Cesto Organizador Bebê",
-      "link": "https://meli.la/1eDiFFY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619348-MLB116186623075_082026-O.webp",
-      "preco": 35.9,
-      "precoDe": 59.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T17:44:48.754Z"
     }
   ]
 }
