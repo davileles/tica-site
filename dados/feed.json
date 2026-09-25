@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T19:27:38.455Z",
+  "atualizadoEm": "2026-09-25T19:34:44.659Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22833",
+      "loja": "Shopee",
+      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
+      "link": "https://s.shopee.com.br/qjmb3CPIX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
+      "preco": 55.29,
+      "precoDe": 78.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T19:32:11.684Z"
+    },
     {
       "id": "22822",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 7,
       "cupom": null,
       "enviadoEm": "2026-09-24T20:59:32.706Z"
-    },
-    {
-      "id": "22409",
-      "loja": "Shopee",
-      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
-      "link": "https://s.shopee.com.br/5fp0qkihOK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
-      "preco": 28.44,
-      "precoDe": 49.89,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:55:20.450Z"
     }
   ]
 }
