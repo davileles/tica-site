@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-25T11:57:43.875Z",
+  "atualizadoEm": "2026-09-25T12:34:44.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22515",
+      "loja": "Amazon",
+      "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I0pE6RT5L._SL400_.jpg",
+      "preco": 3599,
+      "precoDe": 4838.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T12:31:04.972Z"
+    },
+    {
+      "id": "22514",
+      "loja": "Amazon",
+      "titulo": "Hisense Smart TV 4K 55\" Polegadas 55A6NV",
+      "link": "https://www.amazon.com.br/dp/B0FNXZZTDW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-s-OoGVCL._SL400_.jpg",
+      "preco": 2099.89,
+      "precoDe": 2599,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T12:27:23.989Z"
+    },
+    {
+      "id": "22508",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado High Wall Eco Inverter Iii Wifi 9000 Btus Frio Elgin",
+      "link": "https://meli.la/29h2Lam",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953350-MLA108032205437_032026-F.jpg",
+      "preco": 1394,
+      "precoDe": 3000,
+      "desconto": 47,
+      "cupom": "200SITETODO",
+      "enviadoEm": "2026-09-25T12:20:07.077Z"
+    },
+    {
+      "id": "22501",
+      "loja": "Mercado Livre",
+      "titulo": "Gpu Powercolor Amd Radeon Rx 9060xt 16gb Gddr6 128bits 16g-a",
+      "link": "https://meli.la/2sCxPGL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945424-MLA86954553079_062025-F.jpg",
+      "preco": 3470,
+      "precoDe": 4115,
+      "desconto": 11,
+      "cupom": "OFFMLHOJE",
+      "enviadoEm": "2026-09-25T12:13:31.851Z"
+    },
+    {
+      "id": "22500",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/6q0zFifqMG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T12:10:08.359Z"
+    },
     {
       "id": "22481",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-09-24T14:12:47.598Z"
-    },
-    {
-      "id": "22136",
-      "loja": "Amazon",
-      "titulo": "Burigotto Carrinho de Bebê Zap Metal, Cobre",
-      "link": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41a8Vogi+TL._SL400_.jpg",
-      "preco": 559,
-      "precoDe": 929,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T14:11:56.267Z"
-    },
-    {
-      "id": "22133",
-      "loja": "Amazon",
-      "titulo": "3 Corações Cápsula Café Filtrado TRES - 10 unidades",
-      "link": "https://www.amazon.com.br/dp/B076T4VY5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cUMl0S1gL._SL400_.jpg",
-      "preco": 14.439999999999998,
-      "precoDe": 24.99,
-      "desconto": 32,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T14:07:00.225Z"
-    },
-    {
-      "id": "22130",
-      "loja": "Shopee",
-      "titulo": "Elástico de Treino Mini Band / Elástico Tensão Extensor Exercício Treino Funcional Fisioterapia em Casa",
-      "link": "https://s.shopee.com.br/20vi1HhKqD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-mc3e4voqn0187b_tn",
-      "preco": 11.98,
-      "precoDe": 32.38,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T13:57:47.215Z"
-    },
-    {
-      "id": "22124",
-      "loja": "Amazon",
-      "titulo": "3 Corações Cappuccino Sabor Chocolate, 200g",
-      "link": "https://www.amazon.com.br/dp/B00MU6E8BY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41OhZWguY2L._SL400_.jpg",
-      "preco": 12.74,
-      "precoDe": 21.72,
-      "desconto": 31,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T13:44:01.089Z"
-    },
-    {
-      "id": "22122",
-      "loja": "Mercado Livre",
-      "titulo": "Whisky Johnnie Walker Black Label de 1L",
-      "link": "https://meli.la/2kRuqTK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
-      "preco": 137,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T13:37:11.579Z"
     }
   ]
 }
