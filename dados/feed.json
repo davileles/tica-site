@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-25T13:34:44.346Z",
+  "atualizadoEm": "2026-09-25T14:01:32.176Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22587",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/9zy18Uec4X",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 79.98,
+      "precoDe": 181.77,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:51:32.175Z"
+    },
+    {
+      "id": "22585",
+      "loja": "Amazon",
+      "titulo": "LEGO Ninjago Carro de Corrida de Puxar do Lloyd 71828 (181 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DJ1BKD7Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51DWzgmwpBL._SL400_.jpg",
+      "preco": 131.98,
+      "precoDe": 229.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:47:05.789Z"
+    },
+    {
+      "id": "22584",
+      "loja": "Amazon",
+      "titulo": "LEGO Ninjago Traje de Meca de Batalha do Zane 71827 (92 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DJ17CR8W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UairJkKYL._SL400_.jpg",
+      "preco": 52.23,
+      "precoDe": 89.99,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:46:12.911Z"
+    },
+    {
+      "id": "22580",
+      "loja": "Amazon",
+      "titulo": "Boneca Baby Babilina Mini Soninho 25cm, Bambola",
+      "link": "https://www.amazon.com.br/dp/B09FGZR1VY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ECSko5FyL._SL400_.jpg",
+      "preco": 24,
+      "precoDe": 34.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:43:11.480Z"
+    },
+    {
+      "id": "22579",
+      "loja": "Amazon",
+      "titulo": "Dermodex Prevent Creme para Prevenção de Assaduras 60g",
+      "link": "https://www.amazon.com.br/dp/B07G5SLSPP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ns6gmfvmL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 44.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:42:23.234Z"
+    },
+    {
+      "id": "22578",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor AOC 22\" 120Hz 1ms Gaming HDMI 22B35HM23 Preto",
+      "link": "https://meli.la/2F5vUDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-F.jpg",
+      "preco": 385.02,
+      "precoDe": 712.86,
+      "desconto": 40,
+      "cupom": "OFFMLHOJE",
+      "enviadoEm": "2026-09-25T13:41:20.134Z"
+    },
     {
       "id": "22576",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 23,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-24T15:31:13.224Z"
-    },
-    {
-      "id": "22179",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Fitness com Bolso Lateral da Polo Wear na cor Preta, tamanho GG.",
-      "link": "https://meli.la/2Vhyqrq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820395-MLA114012678675_072026-O.webp",
-      "preco": 59.489999999999995,
-      "precoDe": 159.99,
-      "desconto": 56,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-24T15:27:54.770Z"
-    },
-    {
-      "id": "22178",
-      "loja": "Amazon",
-      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
-      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
-      "preco": 949.05,
-      "precoDe": 1169,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T15:24:11.522Z"
-    },
-    {
-      "id": "22177",
-      "loja": "Shopee",
-      "titulo": "Guia Bancada Posicionador Multifuncional De Corte Para Serra Circular, Tupia, Tico",
-      "link": "https://s.shopee.com.br/7VGeUlwzup",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgp-m9fjpb28t5w568_tn",
-      "preco": 92.79,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T15:23:20.854Z"
-    },
-    {
-      "id": "22175",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Preta - 220V",
-      "link": "https://www.amazon.com.br/dp/B08S1ZS6R1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TqYxYMhpS._SL400_.jpg",
-      "preco": 381.65,
-      "precoDe": 499.9,
-      "desconto": 10,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T15:22:18.587Z"
-    },
-    {
-      "id": "22174",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Flanelada Grossa Zero Transparência Inverno",
-      "link": "https://meli.la/1WuRBbw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695014-MLB110468212834_052026-O.webp",
-      "preco": 20.93,
-      "precoDe": 49.99,
-      "desconto": 40,
-      "cupom": "FOIBARATO",
-      "enviadoEm": "2026-09-24T15:18:41.893Z"
-    },
-    {
-      "id": "22173",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 4 Camisetas Polo Wear em Cores Variadas",
-      "link": "https://meli.la/2hs9RRF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945321-MLB116324242502_092026-O.webp",
-      "preco": 81.19,
-      "precoDe": 239.99,
-      "desconto": 52,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-24T15:15:19.883Z"
     }
   ]
 }
