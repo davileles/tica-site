@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T13:04:44.346Z",
+  "atualizadoEm": "2026-09-25T13:15:59.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22558",
+      "loja": "Shopee",
+      "titulo": "Arranhador Para Gatos Poste Brinquedo Bolinha Interativo",
+      "link": "https://s.shopee.com.br/4LJeKd2pWp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhro7dplle6b02_tn",
+      "preco": 29.81,
+      "precoDe": 39.75,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:05:59.903Z"
+    },
     {
       "id": "22557",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-09-24T14:56:34.054Z"
-    },
-    {
-      "id": "22162",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Branca - 127V",
-      "link": "https://www.amazon.com.br/dp/B0DXMXSQSJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415vQEEvk4L._SL400_.jpg",
-      "preco": 364.39,
-      "precoDe": 499.9,
-      "desconto": 14,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-24T14:52:42.638Z"
     }
   ]
 }
