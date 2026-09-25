@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-25T18:34:44.657Z",
+  "atualizadoEm": "2026-09-25T18:57:12.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22803",
+      "loja": "Amazon",
+      "titulo": "Tramontina Lâmpada Smart​ LED Inteligente E27​ 10W Wi-Fi + Bluetooth​ 16 Milhões de Cores - Compatível com Alexa e Google Assistente",
+      "link": "https://www.amazon.com.br/dp/B09HXWRWB4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41w6n8qto2L._SL400_.jpg",
+      "preco": 27.89,
+      "precoDe": 49.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T18:47:12.257Z"
+    },
+    {
+      "id": "22802",
+      "loja": "Shopee",
+      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+      "link": "https://s.shopee.com.br/4qFvJ3O8qu",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp7x1cv6r7da88_tn",
+      "preco": 15.59,
+      "precoDe": 25.15,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T18:43:40.454Z"
+    },
     {
       "id": "22798",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-09-24T20:27:25.386Z"
-    },
-    {
-      "id": "22403",
-      "loja": "Amazon",
-      "titulo": "Camisa Botafogo Contagiante Preta M",
-      "link": "https://www.amazon.com.br/dp/B0F8JLDQ79?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31I91C5ddPL._SL400_.jpg",
-      "preco": 57.9,
-      "precoDe": 149.9,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:24:03.411Z"
-    },
-    {
-      "id": "22400",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Suave Rosé 750ml",
-      "link": "https://www.amazon.com.br/dp/B07L17KNVW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DkGCdbT7L._SL400_.jpg",
-      "preco": 22.11,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T20:11:13.696Z"
     }
   ]
 }
