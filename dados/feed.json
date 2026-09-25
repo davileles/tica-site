@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T22:34:44.779Z",
+  "atualizadoEm": "2026-09-25T22:57:56.947Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22899",
+      "loja": "Shopee",
+      "titulo": "Mangueira Mágica Expansível Elástica Flexível Tamanhos 15m /30m Metros Jardim Retrátil Multiuso Plantas",
+      "link": "https://s.shopee.com.br/gQMcLOd0W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-msvlad4hbuh2ad_tn",
+      "preco": 29.9,
+      "precoDe": 40.96,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T22:47:56.946Z"
+    },
     {
       "id": "22894",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-09-25T11:35:06.573Z"
-    },
-    {
-      "id": "22474",
-      "loja": "Amazon",
-      "titulo": "Salton Espumante Brut 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B00RGKPDT0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oaptMSSqL._SL400_.jpg",
-      "preco": 31.88,
-      "precoDe": 54,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T11:33:37.018Z"
     }
   ]
 }
