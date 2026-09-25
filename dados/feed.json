@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-25T20:04:44.660Z",
+  "atualizadoEm": "2026-09-25T20:34:41.204Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22854",
+      "loja": "Shopee",
+      "titulo": "Lavadora De Alta Pressão Recarregável Sem Fio 48V 1/2/3 Baterias Linha Premium Para Carros e Jardins",
+      "link": "https://s.shopee.com.br/3VkXpiI7zF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mawcsa5q87m7d9_tn",
+      "preco": 114.9,
+      "precoDe": 396.21,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:24:41.202Z"
+    },
+    {
+      "id": "22851",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/20vk2Iw4G0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 11.99,
+      "precoDe": 22.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:17:30.878Z"
+    },
+    {
+      "id": "22850",
+      "loja": "Amazon",
+      "titulo": "Salton Espumante Prosecco Brut 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTR3YQ6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GcnF0vrlL._SL400_.jpg",
+      "preco": 45.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:09:41.512Z"
+    },
     {
       "id": "22837",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-09-24T21:30:48.613Z"
-    },
-    {
-      "id": "22423",
-      "loja": "Amazon",
-      "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
-      "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41e1hNFMEML._SL400_.jpg",
-      "preco": 369.98,
-      "precoDe": 499.99,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:25:29.655Z"
-    },
-    {
-      "id": "22421",
-      "loja": "Amazon",
-      "titulo": "Pack de Eisenbahn LT 350ml Pielsen 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BW1GMVMD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vO-AYLqPL._SL400_.jpg",
-      "preco": 41.88,
-      "precoDe": 50.28,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:22:02.598Z"
-    },
-    {
-      "id": "22420",
-      "loja": "Shopee",
-      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-      "link": "https://s.shopee.com.br/50ZK54Yr9l",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
-      "preco": 11.22,
-      "precoDe": 18.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:20:58.822Z"
     }
   ]
 }
