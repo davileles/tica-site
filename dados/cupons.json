@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-25T17:34:46.990Z",
+  "atualizadoEm": "2026-09-25T18:04:47.219Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TECH200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-26T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOSITE100",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1107,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMADEESTOQUE24",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom válido em produtos selecionados em queima de estoque",
-      "validadeAte": "2026-09-25T18:00:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1249,6 +1249,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "L2P1",
+      "loja": "Outro: Dafiti",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Promoção Leve 2, Pague 1 (desconto de 50% na segunda unidade)",
+      "validadeAte": "2026-09-26T18:02:14.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
     },
     {
       "codigo": "MOUNJARO",
