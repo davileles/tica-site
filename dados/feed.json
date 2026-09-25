@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-25T14:01:32.176Z",
+  "atualizadoEm": "2026-09-25T14:04:44.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22593",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Árabe Eclaire Eau De Parfum Lattafa 100ml Feminino 100% Original Com Nf",
+      "link": "https://meli.la/1fj6sdM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829035-MLA108099717138_032026-F.jpg",
+      "preco": 250.39999999999998,
+      "precoDe": 289.9,
+      "desconto": 5,
+      "cupom": "TODOSITE2509",
+      "enviadoEm": "2026-09-25T14:04:10.433Z"
+    },
     {
       "id": "22587",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-09-24T15:34:48.684Z"
-    },
-    {
-      "id": "22184",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Boxer Classic Reebok Microfibra Luxo Original",
-      "link": "https://meli.la/1QdydHk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_862779-MLB92286626352_092025-O.webp",
-      "preco": 41.239999999999995,
-      "precoDe": 76.9,
-      "desconto": 23,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-24T15:31:13.224Z"
     }
   ]
 }
