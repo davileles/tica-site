@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-24T23:04:44.342Z",
+  "atualizadoEm": "2026-09-25T11:04:44.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22457",
+      "loja": "Shopee",
+      "titulo": "Kit 3 em1 Bico Esguicho De Alta Pressão Para Torneira Mangueira Lavagem De Carros Moto Rega Jardim",
+      "link": "https://s.shopee.com.br/4B0E0DZ85V",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-m0ukvk3phd6m14_tn",
+      "preco": 22.99,
+      "precoDe": 45.08,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T11:03:50.836Z"
+    },
+    {
+      "id": "22456",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/8KpmxqBLRW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 38.9,
+      "precoDe": 55.57,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T11:02:36.793Z"
+    },
     {
       "id": "22446",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-09-24T13:10:52.838Z"
-    },
-    {
-      "id": "22105",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Tabasco 750ml",
-      "link": "https://www.amazon.com.br/dp/B0F6B9J986?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31NnJstSriL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 117.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T13:03:58.022Z"
-    },
-    {
-      "id": "22104",
-      "loja": "Mercado Livre",
-      "titulo": "Trena Laser Bosch Glm 25-23 Com Alcance De 25m",
-      "link": "https://meli.la/18LPs1t",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957205-MLA99504068142_112025-F.jpg",
-      "preco": 334.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T13:00:42.359Z"
     }
   ]
 }
