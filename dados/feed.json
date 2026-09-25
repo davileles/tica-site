@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-25T20:54:57.414Z",
+  "atualizadoEm": "2026-09-25T21:04:44.659Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22864",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/9V1l1B4p7n",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
+      "preco": 31.5,
+      "precoDe": 42,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T21:03:57.075Z"
+    },
+    {
+      "id": "22863",
+      "loja": "Amazon",
+      "titulo": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO 10MM (3/8 POL) 320W 110V HP0300",
+      "link": "https://www.amazon.com.br/dp/B084BJWNV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E7aENkQSL._SL400_.jpg",
+      "preco": 345.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T20:59:57.852Z"
+    },
     {
       "id": "22862",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-09-24T22:05:47.091Z"
-    },
-    {
-      "id": "22432",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Brocas Furo Quadrado + Suporte Fixo Adaptador Furadeira de Bancada",
-      "link": "https://s.shopee.com.br/2Vrz9fhWBe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqpq025pqn0hd9_tn",
-      "preco": 127.35,
-      "precoDe": 249.71,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T22:02:03.519Z"
-    },
-    {
-      "id": "22429",
-      "loja": "Amazon",
-      "titulo": "Energético Baly Morango e Pêssego 2L",
-      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
-      "preco": 17.01,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T21:55:17.914Z"
     }
   ]
 }
