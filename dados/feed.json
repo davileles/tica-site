@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-25T13:15:59.904Z",
+  "atualizadoEm": "2026-09-25T13:34:44.346Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22576",
+      "loja": "Amazon",
+      "titulo": "Compressor De Ar Automotivo Cav 150 12 V Ou 127 V A 220 V Bivolt Vonder",
+      "link": "https://www.amazon.com.br/dp/B09TBBXC2Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZKi-TH3UL._SL400_.jpg",
+      "preco": 216,
+      "precoDe": 583.01,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:34:22.660Z"
+    },
+    {
+      "id": "22575",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 79.99,
+      "precoDe": 115.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:33:09.955Z"
+    },
+    {
+      "id": "22570",
+      "loja": "Shopee",
+      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+      "link": "https://s.shopee.com.br/9KiKJglTGi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
+      "preco": 30.93,
+      "precoDe": 56.24,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-25T13:29:00.493Z"
+    },
     {
       "id": "22558",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 52,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-24T15:15:19.883Z"
-    },
-    {
-      "id": "22167",
-      "loja": "Shopee",
-      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-      "link": "https://s.shopee.com.br/4qFtTEam5K",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
-      "preco": 15.13,
-      "precoDe": 21.31,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T15:08:16.474Z"
-    },
-    {
-      "id": "22166",
-      "loja": "Mercado Livre",
-      "titulo": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band, Câmera 8MP + Selfie 5MP, 7000mAh, Android 16, com Teclado Magnético de Conexão Inteligente – Preto",
-      "link": "https://meli.la/13pC8WL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-F.jpg",
-      "preco": 1076.4,
-      "precoDe": 2212,
-      "desconto": 46,
-      "cupom": "APROVEITAHJ",
-      "enviadoEm": "2026-09-24T15:05:02.516Z"
-    },
-    {
-      "id": "22163",
-      "loja": "Amazon",
-      "titulo": "Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
-      "link": "https://www.amazon.com.br/dp/B0D2DPCP55?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/417PZxytBcL._SL400_.jpg",
-      "preco": 56.02,
-      "precoDe": 104.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-24T14:56:34.054Z"
     }
   ]
 }
