@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-26T16:37:47.941Z",
+  "atualizadoEm": "2026-09-26T17:07:47.941Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23070",
+      "loja": "Mercado Livre",
+      "titulo": "O kit Egeo Melancia traz a Colônia de 90ml e o Gel Esfoliante de 150g.",
+      "link": "https://meli.la/1SFWSvY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745183-MLB117826885243_092026-O.webp",
+      "preco": 151.02,
+      "precoDe": 212.8,
+      "desconto": 21,
+      "cupom": "LOJASOFICIAIS2609",
+      "enviadoEm": "2026-09-26T17:01:09.769Z"
+    },
+    {
+      "id": "23068",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Branca - 127V",
+      "link": "https://www.amazon.com.br/dp/B0DXMXSQSJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415vQEEvk4L._SL400_.jpg",
+      "preco": 364.39,
+      "precoDe": 499.9,
+      "desconto": 14,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T16:57:38.982Z"
+    },
+    {
+      "id": "23067",
+      "loja": "Shopee",
+      "titulo": "Electro Nest Fone De Ouvido Com Fio 3.5mm Intra-Auricular Estéreo Baixo Microfone Fone EJ-30",
+      "link": "https://s.shopee.com.br/5AsnB3LtGX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8u9p6k2oc1u3c_tn",
+      "preco": 11.99,
+      "precoDe": 25.51,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T16:54:31.719Z"
+    },
+    {
+      "id": "23064",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
+      "preco": 55.239999999999995,
+      "precoDe": 84.9,
+      "desconto": 23,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T16:45:30.736Z"
+    },
+    {
+      "id": "23063",
+      "loja": "Shopee",
+      "titulo": "Baggio Café - Café Torrado e Moído Aromas Vanilla 250g",
+      "link": "https://s.shopee.com.br/7ptYLGtVSV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2jqr7twgecb1_tn",
+      "preco": 35.9,
+      "precoDe": 37.79,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T16:44:32.670Z"
+    },
+    {
+      "id": "23060",
+      "loja": "Shopee",
+      "titulo": "Taça Copo em Vidro Transparente e Verde  Esfera 540Ml Ribeiro e Pavani - Original",
+      "link": "https://s.shopee.com.br/5AsnA3knUv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mmufgyailatgf0_tn",
+      "preco": 99.99,
+      "precoDe": 135.12,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T16:40:16.874Z"
+    },
     {
       "id": "23058",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 77,
       "cupom": null,
       "enviadoEm": "2026-09-25T17:58:15.581Z"
-    },
-    {
-      "id": "22766",
-      "loja": "Shopee",
-      "titulo": "Cordas de Pular Profissional Ajustável de PVC 280cm - Versatilidade e Durabilidade",
-      "link": "https://s.shopee.com.br/gQMGi39qU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
-      "preco": 9.9,
-      "precoDe": 26.05,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:35:25.482Z"
-    },
-    {
-      "id": "22765",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Braé Essential Sérum e Óleo para Cabelos Danificados com Ácido Hialurônico",
-      "link": "https://meli.la/2PZUrkj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_933743-MLA99934923741_112025-F.jpg",
-      "preco": 115.91,
-      "precoDe": 290.73,
-      "desconto": 56,
-      "cupom": "FULL2509",
-      "enviadoEm": "2026-09-25T17:28:53.697Z"
-    },
-    {
-      "id": "22762",
-      "loja": "Amazon",
-      "titulo": "Acer Aspire 5 Notebook 15.6\" AMD Ryzen 5 512GB SSD 16GB",
-      "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ibt80BSFL._SL400_.jpg",
-      "preco": 3594,
-      "precoDe": 5799,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:25:26.145Z"
-    },
-    {
-      "id": "22760",
-      "loja": "Mercado Livre",
-      "titulo": "Boneco Papai Noel Corda Sobe E Desce Musical Com Movimento Vermelho",
-      "link": "https://meli.la/1pqMpSm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846777-MLA115299612591_072026-F.jpg",
-      "preco": 63.19,
-      "precoDe": 71,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:22:15.851Z"
-    },
-    {
-      "id": "22757",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
-      "preco": 96.86,
-      "precoDe": 140.45,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:21:29.925Z"
-    },
-    {
-      "id": "22756",
-      "loja": "Amazon",
-      "titulo": "CeraVe Refil Gel de Limpeza Facial, Sem Fragrância, Não Comedogênico, 227g | Para Pele Normal a Oleosa, com 3 Ceramidas Essenciais, Niacinamida e Ácido Hialurônico,",
-      "link": "https://www.amazon.com.br/dp/B0CYV2BGXR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31P-mz-VW6L._SL400_.jpg",
-      "preco": 46.97,
-      "precoDe": 69.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:20:39.781Z"
     }
   ]
 }
