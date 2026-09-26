@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-26T19:10:10.242Z",
+  "atualizadoEm": "2026-09-26T19:21:07.818Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23100",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/8Kpp6bqIzc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 59.9,
+      "precoDe": 85.57,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T19:15:49.692Z"
+    },
+    {
+      "id": "23099",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares Meias Puma Cano Médio Alto Atoalhada Original",
+      "link": "https://meli.la/193XUYB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617361-MLB54128842596_032023-O.webp",
+      "preco": 59.47,
+      "precoDe": 199,
+      "desconto": 65,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-26T19:12:11.113Z"
+    },
     {
       "id": "23098",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-09-25T21:26:37.460Z"
-    },
-    {
-      "id": "22870",
-      "loja": "Amazon",
-      "titulo": "Conjunto 6 Copos de Vidro para Whisky 300ml – Design Lapidado, Fundo Espesso e Brilho Cristalino | Ideal para Drinks, Bourbon, Água e Coquetéis",
-      "link": "https://www.amazon.com.br/dp/B0FKF6GWS2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41agNVpQS5L._SL400_.jpg",
-      "preco": 49.89,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T21:20:11.610Z"
-    },
-    {
-      "id": "22864",
-      "loja": "Shopee",
-      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
-      "link": "https://s.shopee.com.br/9V1l1B4p7n",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
-      "preco": 31.5,
-      "precoDe": 42,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T21:03:57.075Z"
     }
   ]
 }
