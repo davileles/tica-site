@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-26T19:21:07.818Z",
+  "atualizadoEm": "2026-09-26T19:48:16.562Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23103",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/5LCDYclHT4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T19:38:16.560Z"
+    },
+    {
+      "id": "23102",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Academia Treino Caminhada Macio Moda Novo",
+      "link": "https://meli.la/2qcfXA6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854435-MLB115911480292_092026-O.webp",
+      "preco": 84.91000000000001,
+      "precoDe": 333,
+      "desconto": 70,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-26T19:34:41.842Z"
+    },
+    {
+      "id": "23101",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml",
+      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
+      "preco": 25.41,
+      "precoDe": 31.67,
+      "desconto": 6,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T19:25:24.962Z"
+    },
     {
       "id": "23100",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-09-25T21:39:15.345Z"
-    },
-    {
-      "id": "22876",
-      "loja": "Shopee",
-      "titulo": "Mangueira Jardim Reforçada Trançada Completa 05/10/15/20/25/30/35/50 Metros",
-      "link": "https://s.shopee.com.br/AUuIFQ2QNS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mldkkkytkpona7_tn",
-      "preco": 16.9,
-      "precoDe": 26.83,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T21:35:40.645Z"
-    },
-    {
-      "id": "22874",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Escritório Ergonômica Testada conforme NR-17, Duplo Apoio Lombar, Assento Deslizante com Ajuste de Profundidade 5cm, Apoio para Pés Retrátil, Reclinável até 135° para Ho",
-      "link": "https://www.amazon.com.br/dp/B0GC5HPQHX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/516nXHgKwXL._SL400_.jpg",
-      "preco": 664.04,
-      "precoDe": 999,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T21:34:35.878Z"
-    },
-    {
-      "id": "22871",
-      "loja": "Shopee",
-      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "link": "https://s.shopee.com.br/AKas2MD6in",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
-      "preco": 75.88,
-      "precoDe": 199.68,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T21:26:37.460Z"
     }
   ]
 }
