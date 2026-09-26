@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-26T12:37:50.374Z",
+  "atualizadoEm": "2026-09-26T13:07:50.206Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,18 +363,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "COMPRALOGO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "SEGURAAI",
       "loja": "Kabum",
       "tipo": "pct",
@@ -468,18 +456,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "HYPERPLAY",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1333,18 +1309,6 @@
       "observacao": "Válido para Farmácia no iFood",
       "validadeAte": "2026-09-26T18:58:23.000Z",
       "url": null
-    },
-    {
-      "codigo": "MAE15OFF",
-      "loja": "Outro: KaBuM",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas em Placas-mãe Selecionadas",
-      "validadeAte": "2026-09-26T12:41:52.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "M3GAH1T100",
