@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-26T18:44:55.337Z",
+  "atualizadoEm": "2026-09-26T18:51:07.819Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23095",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Brut 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTRQ14Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JyKsVADDL._SL400_.jpg",
+      "preco": 52.74,
+      "precoDe": 76.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T18:50:34.788Z"
+    },
+    {
+      "id": "23094",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+      "link": "https://meli.la/2d5Q5NR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946503-MLB82989859698_032025-O.webp",
+      "preco": 115.12,
+      "precoDe": 288.63,
+      "desconto": 53,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-26T18:49:41.089Z"
+    },
+    {
+      "id": "23093",
+      "loja": "Mercado Livre",
+      "titulo": "Bota Botina Segurança Bracol Sapato Coturno Nobuck Com Ca",
+      "link": "https://meli.la/2bAz5N5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_819549-MLB110227076675_042026-O.webp",
+      "preco": 137.52,
+      "precoDe": 209,
+      "desconto": 27,
+      "cupom": "FULL10",
+      "enviadoEm": "2026-09-26T18:46:36.708Z"
+    },
     {
       "id": "23092",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-25T20:44:57.413Z"
-    },
-    {
-      "id": "22859",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
-      "link": "https://s.shopee.com.br/40goRWc4bA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
-      "preco": 29.89,
-      "precoDe": 53.37,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T20:40:05.105Z"
-    },
-    {
-      "id": "22854",
-      "loja": "Shopee",
-      "titulo": "Lavadora De Alta Pressão Recarregável Sem Fio 48V 1/2/3 Baterias Linha Premium Para Carros e Jardins",
-      "link": "https://s.shopee.com.br/3VkXpiI7zF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mawcsa5q87m7d9_tn",
-      "preco": 114.9,
-      "precoDe": 396.21,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T20:24:41.202Z"
-    },
-    {
-      "id": "22851",
-      "loja": "Shopee",
-      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
-      "link": "https://s.shopee.com.br/20vk2Iw4G0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
-      "preco": 11.99,
-      "precoDe": 22.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T20:17:30.878Z"
     }
   ]
 }
