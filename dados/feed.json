@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-26T15:37:47.942Z",
+  "atualizadoEm": "2026-09-26T16:07:19.452Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23049",
+      "loja": "Amazon",
+      "titulo": "Café Orfeu Clássico Torrado e Moído 250g",
+      "link": "https://www.amazon.com.br/dp/B0783NPFQ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Xe-Bb4X7L._SL400_.jpg",
+      "preco": 31.279999999999998,
+      "precoDe": 45,
+      "desconto": 18,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T15:57:19.450Z"
+    },
+    {
+      "id": "23046",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Rosé 750ml",
+      "link": "https://www.amazon.com.br/dp/B015Z9RX6E?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311bk+lVjtL._SL400_.jpg",
+      "preco": 42.41,
+      "precoDe": 73.99,
+      "desconto": 33,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T15:53:45.417Z"
+    },
+    {
+      "id": "23045",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Jean Paul Gaultier Scandal Eau de Parfum 30 ml Feminino",
+      "link": "https://meli.la/1RLMQn6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750894-MLA99264544148_112025-F.jpg",
+      "preco": 347,
+      "precoDe": 518.85,
+      "desconto": 27,
+      "cupom": "LOJASOFICIAIS2609",
+      "enviadoEm": "2026-09-26T15:52:40.638Z"
+    },
+    {
+      "id": "23042",
+      "loja": "Shopee",
+      "titulo": "Kit Casa Cheirosa Hanami Difusor de Ambiente Água Perfumada e Vela Aromática",
+      "link": "https://s.shopee.com.br/9fLCSaMG25",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mq6p7zd0114x14_tn",
+      "preco": 94.9,
+      "precoDe": 220.7,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T15:49:19.221Z"
+    },
+    {
+      "id": "23037",
+      "loja": "Shopee",
+      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
+      "link": "https://s.shopee.com.br/AAHT3JTjqD",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
+      "preco": 22.99,
+      "precoDe": 69.67,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T15:46:14.069Z"
+    },
+    {
+      "id": "23036",
+      "loja": "Shopee",
+      "titulo": "Travesseiro Antialergico com Aromaterapia Lavanda 50x70 Toque Aveludado Ajuda na Insônia e Ansiedade",
+      "link": "https://s.shopee.com.br/1BMeKgD1D7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6e9wlgrok8769_tn",
+      "preco": 97.9,
+      "precoDe": 251.03,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T15:42:25.240Z"
+    },
+    {
+      "id": "23034",
+      "loja": "Shopee",
+      "titulo": "Kit com 12 Pares Cano Curto Algodão Sport para o dia a dia",
+      "link": "https://s.shopee.com.br/4Vd6IKq757",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-ml8ijwcgolqcbf_tn",
+      "preco": 81.15,
+      "precoDe": 90.17,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T15:38:41.105Z"
+    },
     {
       "id": "23032",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-09-25T17:04:45.326Z"
-    },
-    {
-      "id": "22743",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Boxer Algodão Polo Wear",
-      "link": "https://meli.la/25qM1X4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745081-MLB116322762968_092026-O.webp",
-      "preco": 65.8,
-      "precoDe": 199.99,
-      "desconto": 53,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-25T17:00:17.605Z"
-    },
-    {
-      "id": "22739",
-      "loja": "Mercado Livre",
-      "titulo": "Penteadeira Infantil Menina Acessórios Princesa Maquiagem Cor Rosa",
-      "link": "https://meli.la/32w7JS6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965274-MLA99622391302_122025-F.jpg",
-      "preco": 46,
-      "precoDe": 119.9,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:56:47.205Z"
-    },
-    {
-      "id": "22736",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Herméticos De Vidro 640ml Haushop Tampa Vedação Firme Para Geladeira E Despensa Organização Da Cozinha",
-      "link": "https://meli.la/2V5pECp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734014-MLA116673469009_082026-F.jpg",
-      "preco": 57.46000000000001,
-      "precoDe": 149.9,
-      "desconto": 49,
-      "cupom": "DESCONTOESPECIAL",
-      "enviadoEm": "2026-09-25T16:53:11.743Z"
-    },
-    {
-      "id": "22733",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
-      "link": "https://meli.la/2tU5cbu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg",
-      "preco": 45.080000000000005,
-      "precoDe": 149,
-      "desconto": 57,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-25T16:46:17.677Z"
-    },
-    {
-      "id": "22732",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
-      "link": "https://s.shopee.com.br/7KxG9CSEhi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
-      "preco": 40.99,
-      "precoDe": 56.15,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:42:46.735Z"
-    },
-    {
-      "id": "22730",
-      "loja": "Shopee",
-      "titulo": "Mini Torno Bancada Profissional Base Fixa Morsa 40mm Aço Reforçado Starfer Liga Aluminio CTZ",
-      "link": "https://s.shopee.com.br/1Lg304RAjA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtic1qfh9lvkf2_tn",
-      "preco": 34.9,
-      "precoDe": 51.32,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:39:15.564Z"
-    },
-    {
-      "id": "22728",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Masculino Natura Essencial Único Deo Parfum 90ml",
-      "link": "https://meli.la/1fR85XY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997812-MLA92288090836_092025-F.jpg",
-      "preco": 163.8,
-      "precoDe": 299.9,
-      "desconto": 39,
-      "cupom": "FULL2509",
-      "enviadoEm": "2026-09-25T16:38:02.296Z"
     }
   ]
 }
