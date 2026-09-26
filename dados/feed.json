@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-26T17:22:07.813Z",
+  "atualizadoEm": "2026-09-26T17:51:07.818Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23077",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Escritório Diretor Malcom Preta Healer",
+      "link": "https://meli.la/1hjk6kA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910661-MLA117812219913_092026-F.jpg",
+      "preco": 216.71999999999997,
+      "precoDe": 501.78,
+      "desconto": 46,
+      "cupom": "RESGATE O CUPOM DE 20% NA PÁGINA DO PRODUTO",
+      "enviadoEm": "2026-09-26T17:49:49.965Z"
+    },
+    {
+      "id": "23076",
+      "loja": "Mercado Livre",
+      "titulo": "Escrivaninha Industrial Mesa Estudo Aparador Office Aço Mdf",
+      "link": "https://meli.la/17vHMMK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854388-MLB92894361653_092025-O.webp",
+      "preco": 97.56,
+      "precoDe": 179.84,
+      "desconto": 32,
+      "cupom": "RESGATE O CUPOM DE 20% NA PÁGINA DO PRODUTO",
+      "enviadoEm": "2026-09-26T17:45:22.865Z"
+    },
+    {
+      "id": "23075",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/4Vd6QyKWT4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T17:41:55.285Z"
+    },
+    {
+      "id": "23074",
+      "loja": "Amazon",
+      "titulo": "BEG - Aged Negroni 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CGGMMTJL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aTii1ZZOL._SL400_.jpg",
+      "preco": 113.80999999999999,
+      "precoDe": 154.9,
+      "desconto": 14,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T17:38:55.567Z"
+    },
+    {
+      "id": "23073",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares Meias Lupo Cano Médio Esportivas Academia",
+      "link": "https://meli.la/1tGD8r5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939575-MLB75370609605_032024-O.webp",
+      "preco": 55.239999999999995,
+      "precoDe": 103.1,
+      "desconto": 37,
+      "cupom": "MELHORCUPOM",
+      "enviadoEm": "2026-09-26T17:38:01.742Z"
+    },
     {
       "id": "23073",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-25T18:43:40.454Z"
-    },
-    {
-      "id": "22798",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-      "link": "https://meli.la/15Zhi6o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
-      "preco": 329.9,
-      "precoDe": 429.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:34:24.950Z"
-    },
-    {
-      "id": "22796",
-      "loja": "Amazon",
-      "titulo": "Maxi Baby Assento Redutor Infantil Dobrável C/Escada Mcfrog (Azul)",
-      "link": "https://www.amazon.com.br/dp/B0D96N45LL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EO7WTymfL._SL400_.jpg",
-      "preco": 64.9,
-      "precoDe": 179.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:31:27.248Z"
-    },
-    {
-      "id": "22795",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira De Brinquedo Funciona Com Água Com Luz Infantil",
-      "link": "https://meli.la/1aBECK2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_679873-MLB113037097363_062026-O.webp",
-      "preco": 69.99,
-      "precoDe": 119,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:30:28.144Z"
-    },
-    {
-      "id": "22794",
-      "loja": "Amazon",
-      "titulo": "Absolut Vodka Original Sueca 750ml Absolut Sabor vodka 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B0034XJK2O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lDs1thyIL._SL400_.jpg",
-      "preco": 73.42,
-      "precoDe": 79.89,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:24:09.074Z"
-    },
-    {
-      "id": "22792",
-      "loja": "Amazon",
-      "titulo": "Histórias Incríveis para Crianças: 1 ano",
-      "link": "https://www.amazon.com.br/dp/6555074353?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51TWiY+h+LL._SL400_.jpg",
-      "preco": 24.57,
-      "precoDe": 49.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:22:09.471Z"
     }
   ]
 }
