@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-26T14:37:47.941Z",
+  "atualizadoEm": "2026-09-26T15:07:47.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23017",
+      "loja": "Mercado Livre",
+      "titulo": "Wella Professionals Fusion Shampoo 1l + Condicionador 1l",
+      "link": "https://meli.la/2ShyjtS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986482-MLA99496116261_112025-F.jpg",
+      "preco": 223.04999999999998,
+      "precoDe": 524.9,
+      "desconto": 39,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-26T15:01:47.576Z"
+    },
+    {
+      "id": "23016",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Cafeteira Elétrica Dolce Arome Digital, Preto/Inox, 800W, 110V - C-44-32X-SDI",
+      "link": "https://www.amazon.com.br/dp/B09N4Y8TR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I+ddJ1+XL._SL400_.jpg",
+      "preco": 186.15,
+      "precoDe": 378.94,
+      "desconto": 42,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T14:58:29.629Z"
+    },
+    {
+      "id": "23015",
+      "loja": "Mercado Livre",
+      "titulo": "Egeo spicy vibe colônia 90ml",
+      "link": "https://meli.la/2TEap93",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951402-MLA84850888955_052025-F.jpg",
+      "preco": 100.88999999999999,
+      "precoDe": 118,
+      "desconto": 5,
+      "cupom": "TODOSITE10",
+      "enviadoEm": "2026-09-26T14:55:02.803Z"
+    },
+    {
+      "id": "23014",
+      "loja": "Mercado Livre",
+      "titulo": "VITAMINA C 1000mg - Fórmula Concentrada e 100% PURA - 60 Doses",
+      "link": "https://meli.la/29XWUzE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854039-MLA114763419387_072026-F.jpg",
+      "preco": 35.540000000000006,
+      "precoDe": 85.77,
+      "desconto": 41,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-09-26T14:50:58.888Z"
+    },
+    {
+      "id": "23011",
+      "loja": "Amazon",
+      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
+      "preco": 95.11000000000001,
+      "precoDe": 134.9,
+      "desconto": 17,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T14:47:46.030Z"
+    },
+    {
+      "id": "23009",
+      "loja": "Shopee",
+      "titulo": "coleira e Guia para cachorro nome personalizado coleira peitoral conforto peiteira sistema amortecedor impacto regulagem",
+      "link": "https://s.shopee.com.br/2BFBSHen73",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b_tn",
+      "preco": 14.99,
+      "precoDe": 36.56,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T14:46:51.262Z"
+    },
+    {
+      "id": "23008",
+      "loja": "Amazon",
+      "titulo": "LEGO Technic Carro de Corrida 1966 Ford GT40 MKII para Adultos 42223",
+      "link": "https://www.amazon.com.br/dp/B0FMS7HMNN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51c61IxBWGL._SL400_.jpg",
+      "preco": 359.91999999999996,
+      "precoDe": 599.99,
+      "desconto": 25,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T14:43:19.693Z"
+    },
+    {
+      "id": "23007",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
+      "link": "https://meli.la/2skf11F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651584-MLA94379590344_102025-F.jpg",
+      "preco": 1999,
+      "precoDe": 2449,
+      "desconto": 10,
+      "cupom": "APROVEITAHOJE",
+      "enviadoEm": "2026-09-26T14:39:37.187Z"
+    },
     {
       "id": "23005",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-09-25T16:07:57.129Z"
-    },
-    {
-      "id": "22697",
-      "loja": "Amazon",
-      "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
-      "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411vouJDA3L._SL400_.jpg",
-      "preco": 24.99,
-      "precoDe": 35.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:04:41.297Z"
-    },
-    {
-      "id": "22696",
-      "loja": "Mercado Livre",
-      "titulo": "Trena Laser Professional Glm 20 Bosch Alcance 20 Metros",
-      "link": "https://meli.la/1qHnXTt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668687-MLA99498309316_112025-F.jpg",
-      "preco": 342.34,
-      "precoDe": 399.9,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:01:22.548Z"
-    },
-    {
-      "id": "22691",
-      "loja": "Amazon",
-      "titulo": "GLOSS FRAN BY FRANCINY EHLKE LIPHONEY",
-      "link": "https://www.amazon.com.br/dp/B0DS692QJR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41PNV02KglL._SL400_.jpg",
-      "preco": 20.81,
-      "precoDe": 69.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T16:00:14.724Z"
-    },
-    {
-      "id": "22690",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 42.54,
-      "precoDe": 59.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T15:57:03.530Z"
-    },
-    {
-      "id": "22687",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Salvo EDP 100ml",
-      "link": "https://meli.la/2hhuKMJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863228-MLB90084898734_082025-O.webp",
-      "preco": 179.1,
-      "precoDe": 277.9,
-      "desconto": 28,
-      "cupom": "FULL2509",
-      "enviadoEm": "2026-09-25T15:56:01.414Z"
-    },
-    {
-      "id": "22682",
-      "loja": "Shopee",
-      "titulo": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-      "link": "https://s.shopee.com.br/5AslVVfOk4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2_tn",
-      "preco": 99.99,
-      "precoDe": 303,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T15:49:53.523Z"
-    },
-    {
-      "id": "22681",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Portátil Solar Turbo 50.000mah",
-      "link": "https://meli.la/1gKdofP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953658-MLB106201223758_022026-O.webp",
-      "preco": 104.68,
-      "precoDe": 186.25,
-      "desconto": 38,
-      "cupom": "FULL2509",
-      "enviadoEm": "2026-09-25T15:46:22.110Z"
-    },
-    {
-      "id": "22674",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-      "link": "https://meli.la/2vahT9P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg",
-      "preco": 330.87,
-      "precoDe": 469,
-      "desconto": 22,
-      "cupom": "OFFMLHOJE",
-      "enviadoEm": "2026-09-25T15:40:22.961Z"
     }
   ]
 }
