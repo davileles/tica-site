@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-26T17:13:26.285Z",
+  "atualizadoEm": "2026-09-26T17:22:07.813Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23073",
+      "loja": "Amazon",
+      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
+      "preco": 735.99,
+      "precoDe": 1364.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T17:18:33.320Z"
+    },
+    {
+      "id": "23072",
+      "loja": "Shopee",
+      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
+      "link": "https://s.shopee.com.br/6VOAn4dE9o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
+      "preco": 22.99,
+      "precoDe": 88.42,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T17:17:31.330Z"
+    },
     {
       "id": "23072",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-09-25T18:22:09.471Z"
-    },
-    {
-      "id": "22791",
-      "loja": "Shopee",
-      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - Mazzal",
-      "link": "https://s.shopee.com.br/AAHRdIC5KM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3c3d93uvho554_tn",
-      "preco": 14.9,
-      "precoDe": 29.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T18:21:00.405Z"
-    },
-    {
-      "id": "22777",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Jogo De Ferramentas 300 Peças C/ Maleta Multiuso + Epis",
-      "link": "https://meli.la/21GwnWr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777231-MLA102631505308_122025-O.webp",
-      "preco": 76.53,
-      "precoDe": 121.39,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T17:59:14.145Z"
     }
   ]
 }
