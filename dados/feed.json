@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-26T20:51:07.822Z",
+  "atualizadoEm": "2026-09-26T21:20:13.722Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23123",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Mango Loco LT 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTLPHBC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61zJofTCTnL._SL400_.jpg",
+      "preco": 52.19,
+      "precoDe": 62.94,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T21:10:13.720Z"
+    },
+    {
+      "id": "23122",
+      "loja": "Amazon",
+      "titulo": "Pack 12 unidades Energético Opa Power Sem Açúcar 350ml Opa Bier",
+      "link": "https://www.amazon.com.br/dp/B0FPTTG1MB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jZVBs3KmL._SL400_.jpg",
+      "preco": 59.410000000000004,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T21:09:04.292Z"
+    },
+    {
+      "id": "23121",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo Aroma Lavanda e Citronela 10, 15, 30, 50 e 100 Litros - Qualysack",
+      "link": "https://s.shopee.com.br/1AhIzE8Qb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1z7v5992x3ed_tn",
+      "preco": 12.12,
+      "precoDe": 16.83,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T21:07:54.525Z"
+    },
     {
       "id": "23120",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-09-26T11:04:53.112Z"
-    },
-    {
-      "id": "22912",
-      "loja": "Shopee",
-      "titulo": "Máquina de Solda Inversora 3 em 1 MIG 250 Sem Gás MMA TIG Bivolt 110V/220V Portátil Profissional",
-      "link": "https://s.shopee.com.br/AAHSk6r8Ha",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mqh4tepuqp6o10_tn",
-      "preco": 440.02,
-      "precoDe": 916.71,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T11:03:55.916Z"
-    },
-    {
-      "id": "22913",
-      "loja": "Shopee",
-      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
-      "link": "https://s.shopee.com.br/5AsmmvAASF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
-      "preco": 13.49,
-      "precoDe": 32.12,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T11:02:45.913Z"
-    },
-    {
-      "id": "22899",
-      "loja": "Shopee",
-      "titulo": "Mangueira Mágica Expansível Elástica Flexível Tamanhos 15m /30m Metros Jardim Retrátil Multiuso Plantas",
-      "link": "https://s.shopee.com.br/gQMcLOd0W",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-msvlad4hbuh2ad_tn",
-      "preco": 29.9,
-      "precoDe": 40.96,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T22:47:56.946Z"
     }
   ]
 }
