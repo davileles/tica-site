@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-26T17:51:11.180Z",
+  "atualizadoEm": "2026-09-26T18:21:10.339Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1083,6 +1083,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROS20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-09-27T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1167,6 +1179,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-09-27T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "Cliente20",
       "loja": "Mizuno",
       "tipo": "pct",
@@ -1225,18 +1249,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "L2P1",
-      "loja": "Outro: Dafiti",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Promoção Leve 2, Pague 1 (desconto de 50% na segunda unidade)",
-      "validadeAte": "2026-09-26T18:02:14.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
     },
     {
       "codigo": "CR4V3J4D050",
