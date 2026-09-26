@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-26T18:51:07.819Z",
+  "atualizadoEm": "2026-09-26T19:10:10.242Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23098",
+      "loja": "Amazon",
+      "titulo": "Cerveja Budweiser, American Lager, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B094NDWW4J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cHIyeckyL._SL400_.jpg",
+      "preco": 57.019999999999996,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T19:00:10.240Z"
+    },
+    {
+      "id": "23096",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/7VGi5Y9qzx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 29.99,
+      "precoDe": 53.55,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T18:53:35.593Z"
+    },
     {
       "id": "23095",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-09-25T21:03:57.075Z"
-    },
-    {
-      "id": "22863",
-      "loja": "Amazon",
-      "titulo": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO 10MM (3/8 POL) 320W 110V HP0300",
-      "link": "https://www.amazon.com.br/dp/B084BJWNV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E7aENkQSL._SL400_.jpg",
-      "preco": 345.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T20:59:57.852Z"
-    },
-    {
-      "id": "22862",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
-      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
-      "preco": 67.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T20:44:57.413Z"
     }
   ]
 }
