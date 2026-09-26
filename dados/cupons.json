@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-26T19:10:12.657Z",
+  "atualizadoEm": "2026-09-26T22:21:10.222Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1237,30 +1237,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "CR4V3J4D050",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T22:15:21.000Z",
-      "url": null
-    },
-    {
-      "codigo": "P3D1D050",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": 65,
-      "limite": null,
-      "observacao": "Desconto de R$50 em compras de até R$65",
-      "validadeAte": "2026-09-26T22:16:49.000Z",
-      "url": null
     },
     {
       "codigo": "V1RAL20",
