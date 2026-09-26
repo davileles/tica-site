@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-26T13:07:47.940Z",
+  "atualizadoEm": "2026-09-26T13:37:47.940Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22984",
+      "loja": "Mercado Livre",
+      "titulo": "Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys",
+      "link": "https://meli.la/1AkpBaz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702576-MLA110388417253_042026-F.jpg",
+      "preco": 36.46,
+      "precoDe": 69.99,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:34:36.623Z"
+    },
+    {
+      "id": "22982",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
+      "link": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WynJVrVAL._SL400_.jpg",
+      "preco": 30.51,
+      "precoDe": 39,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:33:25.135Z"
+    },
+    {
+      "id": "22981",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": 46.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:32:15.476Z"
+    },
+    {
+      "id": "22979",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50Cm Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/9AOviK7Kap",
+      "imagem": "https://cf.shopee.com.br/file/114b8a3d9a17109f7c10e25c5a585f64_tn",
+      "preco": 14.59,
+      "precoDe": 26.53,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:31:19.980Z"
+    },
+    {
+      "id": "22978",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Descanso E Balanço Para Bebê Musical Vibratória Rosa",
+      "link": "https://meli.la/1WackjZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864610-MLA107641908140_032026-F.jpg",
+      "preco": 118.86,
+      "precoDe": 277.24,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:27:33.903Z"
+    },
+    {
+      "id": "22977",
+      "loja": "Mercado Livre",
+      "titulo": "Tapete de Atividades Para Bebê Piano Play Funny Dino Maxi Baby",
+      "link": "https://meli.la/19kfi4m",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872497-MLA95657283632_102025-F.jpg",
+      "preco": 44.05,
+      "precoDe": 129.9,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T13:26:19.078Z"
+    },
+    {
+      "id": "22973",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
+      "preco": 67.99,
+      "precoDe": 115.9,
+      "desconto": 31,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T13:17:37.589Z"
+    },
+    {
+      "id": "22970",
+      "loja": "Mercado Livre",
+      "titulo": "Cooktop 5 Bocas Atlas Agile Up com Mesa De Vidro A Gás Preto Bivolt",
+      "link": "https://meli.la/1uwgXnj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_649393-MLA99898173151_112025-F.jpg",
+      "preco": 325.08,
+      "precoDe": 449.99,
+      "desconto": 20,
+      "cupom": "APROVEITAHOJE",
+      "enviadoEm": "2026-09-26T13:10:04.116Z"
+    },
     {
       "id": "22968",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 9,
       "cupom": null,
       "enviadoEm": "2026-09-25T14:44:52.254Z"
-    },
-    {
-      "id": "22624",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
-      "preco": 79.99,
-      "precoDe": 115.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:43:38.019Z"
-    },
-    {
-      "id": "22622",
-      "loja": "Amazon",
-      "titulo": "Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
-      "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ti7piPW0L._SL400_.jpg",
-      "preco": 175,
-      "precoDe": 369.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:39:03.892Z"
-    },
-    {
-      "id": "22621",
-      "loja": "Amazon",
-      "titulo": "Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uhdBafGWL._SL400_.jpg",
-      "preco": 175,
-      "precoDe": 369.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:37:51.858Z"
-    },
-    {
-      "id": "22620",
-      "loja": "Shopee",
-      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
-      "link": "https://s.shopee.com.br/7fa6PJSf3H",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
-      "preco": 27.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:36:48.446Z"
-    },
-    {
-      "id": "22618",
-      "loja": "Mercado Livre",
-      "titulo": "Basike Fone De Ouvido Sem Fio Bluetooth Com Gancho Gamer Esportivo Baixa Latência 100h, Design Aberto",
-      "link": "https://meli.la/1ujY2XY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795376-MLA109618625490_042026-F.jpg",
-      "preco": 81.48,
-      "precoDe": 184.14,
-      "desconto": 41,
-      "cupom": "MELIBAIXOU",
-      "enviadoEm": "2026-09-25T14:24:30.164Z"
-    },
-    {
-      "id": "22615",
-      "loja": "Amazon",
-      "titulo": "GGB Brinquedo Ovo Surpresa de Dinossauro Brilha no Escuro",
-      "link": "https://www.amazon.com.br/dp/B0D193TWYY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51hig8B2whL._SL400_.jpg",
-      "preco": 10.6,
-      "precoDe": 15.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:17:14.930Z"
-    },
-    {
-      "id": "22606",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
-      "link": "https://s.shopee.com.br/1Lg2q6z1HG",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
-      "preco": 3.9,
-      "precoDe": 8.86,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:14:14.169Z"
-    },
-    {
-      "id": "22604",
-      "loja": "Mercado Livre",
-      "titulo": "Chave De Impacto Furadeira Parafusadeira Several Importados Recarregável 48v Azul 2000mah",
-      "link": "https://meli.la/2RWUcwV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919369-MLA105651655880_012026-F.jpg",
-      "preco": 299,
-      "precoDe": 346,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T14:09:37.367Z"
     }
   ]
 }
