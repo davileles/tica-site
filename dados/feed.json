@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-26T22:34:55.040Z",
+  "atualizadoEm": "2026-09-26T22:51:07.827Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23136",
+      "loja": "Amazon",
+      "titulo": "Vinho Fino Tinto Chileno Santa Loreto Varietal Merlot 750ml",
+      "link": "https://www.amazon.com.br/dp/B0D543PZ8J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21WqRNG5YmL._SL400_.jpg",
+      "preco": 20.74,
+      "precoDe": 27.47,
+      "desconto": 11,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T22:50:11.114Z"
+    },
+    {
+      "id": "23134",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Tropical, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B07QZDJRGH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51N8Zs3UGdL._SL400_.jpg",
+      "preco": 32.66,
+      "precoDe": 41.96,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T22:40:40.924Z"
+    },
+    {
+      "id": "23133",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
+      "link": "https://s.shopee.com.br/6AlKkV34HU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mojuei1oymtce6_tn",
+      "preco": 17.99,
+      "precoDe": 47.34,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T22:38:04.974Z"
+    },
     {
       "id": "23132",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-09-26T12:14:19.615Z"
-    },
-    {
-      "id": "22934",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa De Som Bluetooth Waaw By Alok Boom 100sb 40w 20h Ipx7 Preto",
-      "link": "https://meli.la/27x1Pp4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876314-MLA116209477706_092026-F.jpg",
-      "preco": 265.05,
-      "precoDe": 699,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T12:07:21.552Z"
-    },
-    {
-      "id": "22933",
-      "loja": "Amazon",
-      "titulo": "LEGO DUPLO Meus Primeiros Veículos Criativos; Brinquedo 10474",
-      "link": "https://www.amazon.com.br/dp/B0FMS6DY4Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/515-6KBB3sL._SL400_.jpg",
-      "preco": 135.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T12:04:00.093Z"
-    },
-    {
-      "id": "22931",
-      "loja": "Amazon",
-      "titulo": "Plasútil Copo Plástico com Tampa e Pin no Canudo Angel 500 ml",
-      "link": "https://www.amazon.com.br/dp/B0FL9PGN7X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31J1dGFcwKL._SL400_.jpg",
-      "preco": 13.989999999999998,
-      "precoDe": 22.52,
-      "desconto": 11,
-      "cupom": "30% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T12:00:02.574Z"
     }
   ]
 }
