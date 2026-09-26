@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-26T11:22:19.219Z",
+  "atualizadoEm": "2026-09-26T11:27:56.505Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22923",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/5q8TbgvNyU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 39.89,
+      "precoDe": 199.45,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-09-26T11:25:21.325Z"
+    },
     {
       "id": "22920",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 8,
       "cupom": "OFFMLHOJE",
       "enviadoEm": "2026-09-25T12:35:06.352Z"
-    },
-    {
-      "id": "22515",
-      "loja": "Amazon",
-      "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41I0pE6RT5L._SL400_.jpg",
-      "preco": 3599,
-      "precoDe": 4838.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-25T12:31:04.972Z"
     }
   ]
 }
