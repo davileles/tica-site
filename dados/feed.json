@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-26T22:21:07.827Z",
+  "atualizadoEm": "2026-09-26T22:34:55.040Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23132",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosato 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLBFZSP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31d0Nbj7TSL._SL400_.jpg",
+      "preco": 28.310000000000002,
+      "precoDe": 42.9,
+      "desconto": 22,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T22:24:55.036Z"
+    },
     {
       "id": "23131",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 11,
       "cupom": "30% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T12:00:02.574Z"
-    },
-    {
-      "id": "22932",
-      "loja": "Amazon",
-      "titulo": "Baggio Café Cápsulas De Café Aroma Chocolate Trufado Compatível Com Máquinas Dolce Gusto Contém 10 Cápsulas",
-      "link": "https://www.amazon.com.br/dp/B0F1W5SD61?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cM1be8rkL._SL400_.jpg",
-      "preco": 20.31,
-      "precoDe": 25.9,
-      "desconto": 8,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T11:56:37.426Z"
     }
   ]
 }
