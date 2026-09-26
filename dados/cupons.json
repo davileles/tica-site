@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-26T10:57:56.915Z",
+  "atualizadoEm": "2026-09-26T12:07:50.020Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -735,18 +735,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "200SITETODO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T12:01:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TECH200",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -756,18 +744,6 @@
       "limite": null,
       "observacao": "Válido apenas em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-26T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T12:01:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -927,30 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BARRATINHOJA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons em selecionados; consulte listas para categorias específicas",
-      "validadeAte": "2026-09-26T12:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE250930",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T12:01:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1083,30 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTOESPECIAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons em selecionados; consulte listas para categorias específicas",
-      "validadeAte": "2026-09-26T12:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2509",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 219,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-26T12:01:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,18 +1080,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-10-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUSTOUPOUQUINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons em selecionados; consulte listas para categorias específicas",
-      "validadeAte": "2026-09-26T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1239,18 +1155,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFFMLHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons em selecionados; consulte listas para categorias específicas",
-      "validadeAte": "2026-09-26T12:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL2509",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,6 +1164,18 @@
       "limite": 20,
       "observacao": "Cupom válido em entregas FUL em produtos selecionados",
       "validadeAte": "2026-09-26T15:00:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-27T12:00:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
