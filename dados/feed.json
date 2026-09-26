@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-26T11:27:56.505Z",
+  "atualizadoEm": "2026-09-26T11:38:47.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "22925",
+      "loja": "Amazon",
+      "titulo": "Plasútil Copo Foguete Toy Story com Tampa e Canudo 280 ml",
+      "link": "https://www.amazon.com.br/dp/B0FKD592GK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SwR08AzRL._SL400_.jpg",
+      "preco": 15.329999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "30% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-26T11:30:36.659Z"
+    },
     {
       "id": "22923",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-09-25T12:38:41.181Z"
-    },
-    {
-      "id": "22517",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
-      "link": "https://meli.la/1TrsZTH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-F.jpg",
-      "preco": 537.37,
-      "precoDe": 649,
-      "desconto": 8,
-      "cupom": "OFFMLHOJE",
-      "enviadoEm": "2026-09-25T12:35:06.352Z"
     }
   ]
 }
