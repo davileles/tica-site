@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T20:12:55.632Z",
+  "atualizadoEm": "2026-09-27T20:40:37.955Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23237",
+      "loja": "Shopee",
+      "titulo": "Suporte Veicular Com Imã Magnético Painel Carro Discreto Gps",
+      "link": "https://s.shopee.com.br/2BFDRVlZ6p",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reqg-m84xsugqx25107_tn",
+      "preco": 10.46,
+      "precoDe": 37.36,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T20:33:55.100Z"
+    },
     {
       "id": "23234",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-09-26T15:49:19.221Z"
-    },
-    {
-      "id": "23037",
-      "loja": "Shopee",
-      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
-      "link": "https://s.shopee.com.br/AAHT3JTjqD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
-      "preco": 22.99,
-      "precoDe": 69.67,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T15:46:14.069Z"
     }
   ]
 }
