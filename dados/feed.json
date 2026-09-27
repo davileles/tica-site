@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T20:09:30.270Z",
+  "atualizadoEm": "2026-09-27T20:12:55.632Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23234",
+      "loja": "Shopee",
+      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
+      "link": "https://s.shopee.com.br/1Lg6QPx3Pn",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
+      "preco": 25.97,
+      "precoDe": 32.87,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T20:11:18.483Z"
+    },
     {
       "id": "23233",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-09-26T15:46:14.069Z"
-    },
-    {
-      "id": "23036",
-      "loja": "Shopee",
-      "titulo": "Travesseiro Antialergico com Aromaterapia Lavanda 50x70 Toque Aveludado Ajuda na Insônia e Ansiedade",
-      "link": "https://s.shopee.com.br/1BMeKgD1D7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6e9wlgrok8769_tn",
-      "preco": 97.9,
-      "precoDe": 251.03,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T15:42:25.240Z"
     }
   ]
 }
