@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T16:12:57.793Z",
+  "atualizadoEm": "2026-09-27T17:41:50.342Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1011,18 +1011,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BELEZA10D010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-09-27T17:23:57.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIVROS20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1068,18 +1056,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Reativado pelo operador — confirmado ativo no ML em 20/09",
-      "validadeAte": "2026-09-27T17:34:27.844Z",
       "url": "https://meli.la/2xystLt"
     },
     {
