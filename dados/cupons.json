@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T22:39:40.584Z",
+  "atualizadoEm": "2026-09-27T22:47:42.900Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -673,18 +673,6 @@
       "observacao": null,
       "validadeAte": "2026-09-29T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TECH2709",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Segundo cupom válido para listas selecionadas",
-      "validadeAte": "2026-09-28T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GARIMPEI",
