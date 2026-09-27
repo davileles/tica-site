@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T11:51:07.842Z",
+  "atualizadoEm": "2026-09-27T12:13:55.573Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23159",
+      "loja": "Shopee",
+      "titulo": "Blocos de montar infantil Brinquedo educativo Mini brinquedos Brinquedo",
+      "link": "https://s.shopee.com.br/5fp53MTA1w",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1s-m4rmynogvubl03_tn",
+      "preco": 4.8,
+      "precoDe": 12.97,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T12:10:34.091Z"
+    },
     {
       "id": "23155",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "APROVEITAHOJE",
       "enviadoEm": "2026-09-26T12:39:58.853Z"
-    },
-    {
-      "id": "22953",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Pote De Vidro Porta Tempero Mantimentos Redondo Borossilicato Tampa De Bambu 210ml",
-      "link": "https://s.shopee.com.br/8pm5FUQIoo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgnzynfaiigwa9_tn",
-      "preco": 49.99,
-      "precoDe": 135.11,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T12:36:47.682Z"
     }
   ]
 }
