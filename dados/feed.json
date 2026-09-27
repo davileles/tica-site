@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T13:42:55.572Z",
+  "atualizadoEm": "2026-09-27T14:12:55.572Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23171",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "link": "https://s.shopee.com.br/2LYdD01Cqk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
+      "preco": 10.9,
+      "precoDe": 21.37,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T14:03:22.980Z"
+    },
     {
       "id": "23167",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T13:00:05.153Z"
-    },
-    {
-      "id": "22966",
-      "loja": "Amazon",
-      "titulo": "LEGO Minecraft A Casa Coguvaca 21270 (500 Peças)",
-      "link": "https://www.amazon.com.br/dp/B0DJ1B77N9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51dcKldmyxL._SL400_.jpg",
-      "preco": 338.2,
-      "precoDe": 479.99,
-      "desconto": 12,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T12:55:59.864Z"
     }
   ]
 }
