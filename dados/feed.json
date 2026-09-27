@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T17:12:55.614Z",
+  "atualizadoEm": "2026-09-27T17:41:48.110Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23218",
+      "loja": "Shopee",
+      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
+      "link": "https://s.shopee.com.br/113FqrvDts",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
+      "preco": 39.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T17:31:48.108Z"
+    },
     {
       "id": "23216",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 39,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-26T15:01:47.576Z"
-    },
-    {
-      "id": "23016",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Cafeteira Elétrica Dolce Arome Digital, Preto/Inox, 800W, 110V - C-44-32X-SDI",
-      "link": "https://www.amazon.com.br/dp/B09N4Y8TR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41I+ddJ1+XL._SL400_.jpg",
-      "preco": 186.15,
-      "precoDe": 378.94,
-      "desconto": 42,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T14:58:29.629Z"
     }
   ]
 }
