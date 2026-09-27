@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T18:04:17.644Z",
+  "atualizadoEm": "2026-09-27T21:07:51.623Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1023,18 +1023,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATETODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 35,
-      "observacao": null,
-      "validadeAte": "2026-09-28T03:00:19.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,18 +1104,6 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-09-28T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2709",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-09-28T15:00:57.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
