@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-27T16:56:42.083Z",
+  "atualizadoEm": "2026-09-27T17:12:55.614Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23216",
+      "loja": "Amazon",
+      "titulo": "BOSCH Esmerilhadeira Angular 4.1/2POL 710W GWS 700",
+      "link": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4174YWDDKJL._SL400_.jpg",
+      "preco": 286.17,
+      "precoDe": 364.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T17:10:09.660Z"
+    },
+    {
+      "id": "23215",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+      "link": "https://s.shopee.com.br/5LCEzHr2Rg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85_tn",
+      "preco": 39.99,
+      "precoDe": 99.98,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T17:09:22.598Z"
+    },
+    {
+      "id": "23214",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B07XWX898Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51il8rT6f+L._SL400_.jpg",
+      "preco": 33,
+      "precoDe": 41.96,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T17:06:14.198Z"
+    },
     {
       "id": "23213",
       "loja": "Shopee",
@@ -553,18 +589,6 @@
       "desconto": null,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T21:59:40.963Z"
-    },
-    {
-      "id": "23128",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B07XWX898Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51il8rT6f+L._SL400_.jpg",
-      "preco": 34.36,
-      "precoDe": 41.96,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T21:55:24.762Z"
     },
     {
       "id": "23127",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T14:58:29.629Z"
-    },
-    {
-      "id": "23015",
-      "loja": "Mercado Livre",
-      "titulo": "Egeo spicy vibe colônia 90ml",
-      "link": "https://meli.la/2TEap93",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951402-MLA84850888955_052025-F.jpg",
-      "preco": 100.88999999999999,
-      "precoDe": 118,
-      "desconto": 5,
-      "cupom": "TODOSITE10",
-      "enviadoEm": "2026-09-26T14:55:02.803Z"
-    },
-    {
-      "id": "23014",
-      "loja": "Mercado Livre",
-      "titulo": "VITAMINA C 1000mg - Fórmula Concentrada e 100% PURA - 60 Doses",
-      "link": "https://meli.la/29XWUzE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854039-MLA114763419387_072026-F.jpg",
-      "preco": 35.540000000000006,
-      "precoDe": 85.77,
-      "desconto": 41,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-09-26T14:50:58.888Z"
     }
   ]
 }
