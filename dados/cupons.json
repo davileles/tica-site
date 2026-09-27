@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T12:13:58.192Z",
+  "atualizadoEm": "2026-09-27T15:12:58.117Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1023,18 +1023,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASA20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 85,
-      "observacao": "Primeiro cupom válido para resgate via link. Segundo cupom válido para listas selecionadas.",
-      "validadeAte": "2026-09-27T15:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZA10D010",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1119,6 +1107,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MOBILIA2709",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-09-28T15:00:57.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1143,18 +1143,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS2609",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Primeiro cupom válido para resgate via link. Segundo cupom válido para listas selecionadas.",
-      "validadeAte": "2026-09-27T15:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1176,6 +1164,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-09-28T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2709",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-09-28T15:00:57.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
