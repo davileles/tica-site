@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T12:13:55.573Z",
+  "atualizadoEm": "2026-09-27T12:42:55.573Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23160",
+      "loja": "Shopee",
+      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
+      "link": "https://s.shopee.com.br/LnYj7nsZl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
+      "preco": 25,
+      "precoDe": 50,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T12:33:05.529Z"
+    },
     {
       "id": "23159",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-09-26T12:43:27.248Z"
-    },
-    {
-      "id": "22955",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Crucial Cb8gu4800 Udimm, Ddr5, 8gb, 4800mhz",
-      "link": "https://meli.la/1sRtd2x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975373-MLA99505902790_112025-F.jpg",
-      "preco": 765,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T12:39:58.853Z"
     }
   ]
 }
