@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T21:29:27.357Z",
+  "atualizadoEm": "2026-09-27T21:52:03.999Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23240",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/8pm7SRfZQf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 74.9,
+      "precoDe": 110.15,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T21:42:03.997Z"
+    },
     {
       "id": "23239",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-09-26T16:08:55.448Z"
-    },
-    {
-      "id": "23049",
-      "loja": "Amazon",
-      "titulo": "Café Orfeu Clássico Torrado e Moído 250g",
-      "link": "https://www.amazon.com.br/dp/B0783NPFQ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Xe-Bb4X7L._SL400_.jpg",
-      "preco": 31.279999999999998,
-      "precoDe": 45,
-      "desconto": 18,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T15:57:19.450Z"
     }
   ]
 }
