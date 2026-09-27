@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T19:12:55.632Z",
+  "atualizadoEm": "2026-09-27T19:35:48.408Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23229",
+      "loja": "Shopee",
+      "titulo": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
+      "link": "https://s.shopee.com.br/20vnAWBUa8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 10.99,
+      "precoDe": 29.7,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T19:25:48.405Z"
+    },
     {
       "id": "23227",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": "APROVEITAHOJE",
       "enviadoEm": "2026-09-26T15:31:47.289Z"
-    },
-    {
-      "id": "23027",
-      "loja": "Mercado Livre",
-      "titulo": "Forno Elétrico Philco 50L Dupla Resistência PFE52P",
-      "link": "https://meli.la/1vZzaAn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992228-MLA99495565436_112025-F.jpg",
-      "preco": 390.41,
-      "precoDe": 529,
-      "desconto": 18,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T15:27:57.688Z"
     }
   ]
 }
