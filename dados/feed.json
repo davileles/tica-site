@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T16:34:19.467Z",
+  "atualizadoEm": "2026-09-27T16:56:42.083Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23213",
+      "loja": "Shopee",
+      "titulo": "Jogo de Palhetas Limpador de Parabrisa Palheta Silicone Fiat Palio Uno Mobi Siena Argo Punto Strada",
+      "link": "https://s.shopee.com.br/2qUtz9Cw7N",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn26bqurhh50c3_tn",
+      "preco": 19.77,
+      "precoDe": 65.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T16:46:42.081Z"
+    },
     {
       "id": "23211",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": "CUPOMAQUI",
       "enviadoEm": "2026-09-26T14:50:58.888Z"
-    },
-    {
-      "id": "23011",
-      "loja": "Amazon",
-      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
-      "preco": 95.11000000000001,
-      "precoDe": 134.9,
-      "desconto": 17,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T14:47:46.030Z"
     }
   ]
 }
