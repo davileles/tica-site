@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-27T14:35:49.136Z",
+  "atualizadoEm": "2026-09-27T14:42:55.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23178",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 4 Lenços Umedecidos Hipoalergênico 48un - Bepantol",
+      "link": "https://meli.la/2QaCPjF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_733094-MLA117672173051_092026-F.jpg",
+      "preco": 28.36,
+      "precoDe": 42.08,
+      "desconto": 4,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-27T14:40:16.474Z"
+    },
+    {
+      "id": "23177",
+      "loja": "Shopee",
+      "titulo": "5 Pano Prato Cozinha Xadrez Branco c/ Dourado Grande Algodão Macio Laune Haus",
+      "link": "https://s.shopee.com.br/1Lg63TUqLx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqyl9gjvgzrbc5_tn",
+      "preco": 36.99,
+      "precoDe": 90.22,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T14:36:55.354Z"
+    },
     {
       "id": "23175",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-09-26T13:26:19.078Z"
-    },
-    {
-      "id": "22973",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
-      "preco": 67.99,
-      "precoDe": 115.9,
-      "desconto": 31,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T13:17:37.589Z"
-    },
-    {
-      "id": "22970",
-      "loja": "Mercado Livre",
-      "titulo": "Cooktop 5 Bocas Atlas Agile Up com Mesa De Vidro A Gás Preto Bivolt",
-      "link": "https://meli.la/1uwgXnj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_649393-MLA99898173151_112025-F.jpg",
-      "preco": 325.08,
-      "precoDe": 449.99,
-      "desconto": 20,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T13:10:04.116Z"
     }
   ]
 }
