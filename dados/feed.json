@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-27T14:42:55.584Z",
+  "atualizadoEm": "2026-09-27T14:59:47.566Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23183",
+      "loja": "Shopee",
+      "titulo": "Chá Verde + Dente de Leão + Cavalinha + Hibisco 500mg 60 Cápsulas | Suplemento Alimentar Unnelabz",
+      "link": "https://s.shopee.com.br/8fSgnjEGXZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrqnvaarczyc29_tn",
+      "preco": 16.9,
+      "precoDe": 35.21,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T14:49:47.561Z"
+    },
+    {
+      "id": "23182",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Descartável Turma da Mônica Baby M 50 Unidades 12 h",
+      "link": "https://meli.la/17caSXp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
+      "preco": 36.9,
+      "precoDe": 50.05,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T14:46:41.807Z"
+    },
+    {
+      "id": "23180",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Tigelas Bowl Aço Inox Inoxidável Saladeira Bacia Empilhável Cozinha Resistente Premium",
+      "link": "https://s.shopee.com.br/7VGjPCSKjC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr849olrnn5x95_tn",
+      "preco": 56.99,
+      "precoDe": 109.6,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T14:43:21.629Z"
+    },
     {
       "id": "23178",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-26T13:32:15.476Z"
-    },
-    {
-      "id": "22979",
-      "loja": "Shopee",
-      "titulo": "Cesto De Roupa Grande 40x70/30x50Cm Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
-      "link": "https://s.shopee.com.br/9AOviK7Kap",
-      "imagem": "https://cf.shopee.com.br/file/114b8a3d9a17109f7c10e25c5a585f64_tn",
-      "preco": 14.59,
-      "precoDe": 26.53,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T13:31:19.980Z"
-    },
-    {
-      "id": "22978",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Descanso E Balanço Para Bebê Musical Vibratória Rosa",
-      "link": "https://meli.la/1WackjZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864610-MLA107641908140_032026-F.jpg",
-      "preco": 118.86,
-      "precoDe": 277.24,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T13:27:33.903Z"
-    },
-    {
-      "id": "22977",
-      "loja": "Mercado Livre",
-      "titulo": "Tapete de Atividades Para Bebê Piano Play Funny Dino Maxi Baby",
-      "link": "https://meli.la/19kfi4m",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872497-MLA95657283632_102025-F.jpg",
-      "preco": 44.05,
-      "precoDe": 129.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T13:26:19.078Z"
     }
   ]
 }
