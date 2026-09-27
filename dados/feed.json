@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T18:04:15.389Z",
+  "atualizadoEm": "2026-09-27T18:12:55.629Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23221",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Ferramentas 27 Peças Com Maleta Chaves Allen Alicate Martelo Completos",
+      "link": "https://s.shopee.com.br/4Vd83kv9nw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnebufxbery8a9_tn",
+      "preco": 75.99,
+      "precoDe": 262.03,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T18:05:14.034Z"
+    },
     {
       "id": "23219",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": "APROVEITAHOJE",
       "enviadoEm": "2026-09-26T15:12:39.374Z"
-    },
-    {
-      "id": "23019",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-34JI-15X",
-      "link": "https://meli.la/1SCmfmY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921400-MLA99454991084_112025-F.jpg",
-      "preco": 150.46,
-      "precoDe": 289.9,
-      "desconto": 42,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T15:09:15.309Z"
     }
   ]
 }
