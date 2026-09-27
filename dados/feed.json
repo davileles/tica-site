@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T22:39:37.954Z",
+  "atualizadoEm": "2026-09-27T22:58:10.593Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23244",
+      "loja": "Shopee",
+      "titulo": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
+      "link": "https://s.shopee.com.br/6VOCkrT5Vr",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814_tn",
+      "preco": 94.99,
+      "precoDe": 197.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T22:48:10.590Z"
+    },
     {
       "id": "23243",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-09-26T16:35:20.876Z"
-    },
-    {
-      "id": "23057",
-      "loja": "Shopee",
-      "titulo": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "link": "https://s.shopee.com.br/7KxHjTHcx8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50_tn",
-      "preco": 42.6,
-      "precoDe": 152.14,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T16:31:46.227Z"
     }
   ]
 }
