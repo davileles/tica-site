@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T11:20:56.915Z",
+  "atualizadoEm": "2026-09-27T12:13:58.192Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1107,6 +1107,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OBRAS2709",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-09-28T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SAMSUNG10OFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1152,6 +1164,18 @@
       "limite": 20,
       "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2026-09-27T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2709",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-09-28T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
