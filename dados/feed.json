@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T22:02:55.644Z",
+  "atualizadoEm": "2026-09-27T22:09:37.955Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23242",
+      "loja": "Shopee",
+      "titulo": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "link": "https://s.shopee.com.br/905XgISLgq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
+      "preco": 26.99,
+      "precoDe": 45.75,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T22:04:41.984Z"
+    },
     {
       "id": "23241",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T16:24:04.038Z"
-    },
-    {
-      "id": "23054",
-      "loja": "Amazon",
-      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
-      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
-      "preco": 39.05,
-      "precoDe": 59.9,
-      "desconto": 23,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T16:18:51.999Z"
     }
   ]
 }
