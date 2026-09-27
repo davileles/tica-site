@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T14:59:47.566Z",
+  "atualizadoEm": "2026-09-27T15:12:55.596Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23188",
+      "loja": "Shopee",
+      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "link": "https://s.shopee.com.br/6q12e0Wq6f",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
+      "preco": 19.1,
+      "precoDe": 50.26,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T15:12:15.667Z"
+    },
     {
       "id": "23183",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-09-26T13:33:25.135Z"
-    },
-    {
-      "id": "22981",
-      "loja": "Amazon",
-      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
-      "preco": 46.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T13:32:15.476Z"
     }
   ]
 }
