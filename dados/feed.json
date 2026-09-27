@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-27T11:34:56.611Z",
+  "atualizadoEm": "2026-09-27T11:51:07.842Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23155",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/80Czo5g016",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra15-m50cpye62n9qb3_tn",
+      "preco": 18.98,
+      "precoDe": 24.97,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T11:47:39.868Z"
+    },
     {
       "id": "23153",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-09-26T12:36:47.682Z"
-    },
-    {
-      "id": "22952",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Azul",
-      "link": "https://meli.la/1E3dY6J",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685947-MLA109363931978_042026-F.jpg",
-      "preco": 161.01,
-      "precoDe": 299.9,
-      "desconto": 40,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T12:33:18.952Z"
     }
   ]
 }
