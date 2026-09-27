@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T17:41:50.342Z",
+  "atualizadoEm": "2026-09-27T18:04:17.644Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "TECH2709",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Segundo cupom válido para listas selecionadas",
+      "validadeAte": "2026-09-28T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1011,18 +1023,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROS20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-09-27T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "RESGATETODOSITE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1107,18 +1107,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-09-27T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL2709",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1140,6 +1128,18 @@
       "limite": 15,
       "observacao": null,
       "validadeAte": "2026-09-28T15:00:57.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS27",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Segundo cupom válido para listas selecionadas",
+      "validadeAte": "2026-09-28T18:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
