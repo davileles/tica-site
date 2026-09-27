@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-27T19:35:48.408Z",
+  "atualizadoEm": "2026-09-27T20:09:30.270Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23233",
+      "loja": "Shopee",
+      "titulo": "【110V/220V】5 Em 1 Máquina Solda Inversora Profissional Máquina de solda 160A MMA/LIFT TIG D13",
+      "link": "https://s.shopee.com.br/2Vs3nvUyXA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqpo4w1yqoea53_tn",
+      "preco": 259,
+      "precoDe": 809.38,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T19:59:30.268Z"
+    },
+    {
+      "id": "23232",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 118,
+      "precoDe": 174.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T19:52:00.043Z"
+    },
+    {
+      "id": "23231",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/4fwYMysolC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 66.9,
+      "precoDe": 139.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-09-27T19:48:35.148Z"
+    },
     {
       "id": "23229",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-09-26T15:42:25.240Z"
-    },
-    {
-      "id": "23034",
-      "loja": "Shopee",
-      "titulo": "Kit com 12 Pares Cano Curto Algodão Sport para o dia a dia",
-      "link": "https://s.shopee.com.br/4Vd6IKq757",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-ml8ijwcgolqcbf_tn",
-      "preco": 81.15,
-      "precoDe": 90.17,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T15:38:41.105Z"
-    },
-    {
-      "id": "23032",
-      "loja": "Amazon",
-      "titulo": "LEGO City Trator Agrícola e Minifigura 60498 (204 Peças)",
-      "link": "https://www.amazon.com.br/dp/B0FMS6XW8W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qybnEVAUL._SL400_.jpg",
-      "preco": 111.99000000000001,
-      "precoDe": 169.99,
-      "desconto": 18,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T15:35:17.425Z"
-    },
-    {
-      "id": "23031",
-      "loja": "Mercado Livre",
-      "titulo": "Cooktop de Indução 5 Bocas Dako Select com 2 Zonas Flexíveis e 7200W com Mesa em Vidro Cerâmico 220 V",
-      "link": "https://meli.la/1XhDzRx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811032-MLA99476921878_112025-F.jpg",
-      "preco": 1943,
-      "precoDe": 2725,
-      "desconto": 21,
-      "cupom": "APROVEITAHOJE",
-      "enviadoEm": "2026-09-26T15:31:47.289Z"
     }
   ]
 }
