@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-28T13:35:23.602Z",
+  "atualizadoEm": "2026-09-28T14:05:23.707Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23415",
+      "loja": "Mercado Livre",
+      "titulo": "Piscina Infantil Inflável Com Escorregador E Arco-íris Azul-celeste",
+      "link": "https://meli.la/1KsfgK1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_679080-MLA110308304050_052026-F.jpg",
+      "preco": 218.48000000000002,
+      "precoDe": 459,
+      "desconto": 44,
+      "cupom": "DIADACRIANCA",
+      "enviadoEm": "2026-09-28T14:02:45.368Z"
+    },
+    {
+      "id": "23412",
+      "loja": "Mercado Livre",
+      "titulo": "Piscina Inflável com Escorregador 1,200L",
+      "link": "https://meli.la/2aTskRf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863819-MLB104826846961_012026-O.webp",
+      "preco": 312.55,
+      "precoDe": 499,
+      "desconto": 27,
+      "cupom": "DIADACRIANCA",
+      "enviadoEm": "2026-09-28T13:56:17.429Z"
+    },
+    {
+      "id": "23411",
+      "loja": "Amazon",
+      "titulo": "WAP Lavadora de Alta Pressão OUSADA PLUS 2200, 1500W 127V",
+      "link": "https://www.amazon.com.br/dp/B077PT41YL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419ri-pmV3L._SL400_.jpg",
+      "preco": 420.9,
+      "precoDe": 779.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T13:55:11.759Z"
+    },
+    {
+      "id": "23410",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 45,
+      "precoDe": 71.39,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T13:53:57.950Z"
+    },
+    {
+      "id": "23409",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "link": "https://s.shopee.com.br/20voOMhTAU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
+      "preco": 10.5,
+      "precoDe": 12.65,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T13:50:01.995Z"
+    },
     {
       "id": "23402",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-09-26T20:23:01.950Z"
-    },
-    {
-      "id": "23114",
-      "loja": "Amazon",
-      "titulo": "JP Chenet Vinho Francês Cabernet Syrah Tinto",
-      "link": "https://www.amazon.com.br/dp/B01C7ATZFQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pAdOxQevL._SL400_.jpg",
-      "preco": 76.41,
-      "precoDe": 99.9,
-      "desconto": 10,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T20:15:55.486Z"
-    },
-    {
-      "id": "23106",
-      "loja": "Shopee",
-      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "link": "https://s.shopee.com.br/2qUsbZiUCU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
-      "preco": 32.99,
-      "precoDe": 57.88,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T20:00:30.243Z"
-    },
-    {
-      "id": "23105",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-      "link": "https://meli.la/1vvjYaU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686912-MLA107287911131_022026-F.jpg",
-      "preco": 186.99,
-      "precoDe": 349.99,
-      "desconto": 37,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-26T19:57:11.101Z"
-    },
-    {
-      "id": "23104",
-      "loja": "Amazon",
-      "titulo": "Don Julio Tequila Blanco 750Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL1QE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Jyb1n0OkL._SL400_.jpg",
-      "preco": 209.1,
-      "precoDe": 318.9,
-      "desconto": 23,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T19:50:40.889Z"
-    },
-    {
-      "id": "23103",
-      "loja": "Shopee",
-      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
-      "link": "https://s.shopee.com.br/5LCDYclHT4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
-      "preco": 12.5,
-      "precoDe": 54.35,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T19:38:16.560Z"
     }
   ]
 }
