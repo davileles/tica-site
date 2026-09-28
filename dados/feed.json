@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-28T17:38:20.759Z",
+  "atualizadoEm": "2026-09-28T17:58:12.960Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23529",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
+      "link": "https://s.shopee.com.br/2gBVRwwAdj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
+      "preco": 132.9,
+      "precoDe": 139.89,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:48:12.959Z"
+    },
+    {
+      "id": "23528",
+      "loja": "Amazon",
+      "titulo": "Escada De Alumínio 6 Degraus Mor - 5104",
+      "link": "https://www.amazon.com.br/dp/B07YCQFR8W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LXlYu-bAL._SL400_.jpg",
+      "preco": 219.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:44:09.299Z"
+    },
+    {
+      "id": "23527",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Garrafas Galão De Água Dagg Tank 2l Academia Treino",
+      "link": "https://meli.la/2CZo1QS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883694-MLA99598161702_122025-F.jpg",
+      "preco": 39.9,
+      "precoDe": 59.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:42:34.710Z"
+    },
     {
       "id": "23521",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-27T16:12:08.356Z"
-    },
-    {
-      "id": "23208",
-      "loja": "Amazon",
-      "titulo": "Beefeater Gin London Dry 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
-      "preco": 69.49,
-      "precoDe": 119.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T16:10:59.071Z"
-    },
-    {
-      "id": "23207",
-      "loja": "Shopee",
-      "titulo": "Mesa de Cabeceira Retrô Compacta com Nicho para Quarto Sala Casal ou Solteiro Palma",
-      "link": "https://s.shopee.com.br/6q12hunPNz",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6x-luv5vclgwaxb45_tn",
-      "preco": 29.9,
-      "precoDe": 49.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T16:10:12.796Z"
-    },
-    {
-      "id": "23206",
-      "loja": "Mercado Livre",
-      "titulo": "Balança Digital Cozinha 10kg Alta Precisão 1g Inox LCD Função Tara Nutricional Para Alimentos Confeitaria Fitness Profissional e Domestico Portátil Multigoods",
-      "link": "https://meli.la/1RRWvWQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995074-MLA114015187689_072026-F.jpg",
-      "preco": 22.33,
-      "precoDe": 58.9,
-      "desconto": 46,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-27T16:06:49.509Z"
     }
   ]
 }
