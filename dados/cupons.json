@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-28T19:21:09.399Z",
+  "atualizadoEm": "2026-09-28T19:55:50.934Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -436,6 +436,18 @@
     },
     {
       "codigo": "SHARK20",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T21:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "GAMER2OFF",
       "loja": "Kabum",
       "tipo": "pct",
       "valor": 20,
