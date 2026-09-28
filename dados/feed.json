@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-28T20:54:30.261Z",
+  "atualizadoEm": "2026-09-28T21:06:07.656Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23649",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+      "link": "https://s.shopee.com.br/7KxLDOltbM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mic25g35m1vl17_tn",
+      "preco": 69.99,
+      "precoDe": 148.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T20:56:07.654Z"
+    },
     {
       "id": "23646",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-09-28T11:49:35.264Z"
-    },
-    {
-      "id": "23311",
-      "loja": "Amazon",
-      "titulo": "Espuma Mágica Aerossol 400ml / 370g",
-      "link": "https://www.amazon.com.br/dp/B076X7T368?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416EJwtoCRL._SL400_.jpg",
-      "preco": 16.9,
-      "precoDe": 21.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T11:46:00.277Z"
     }
   ]
 }
