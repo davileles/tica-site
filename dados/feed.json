@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-28T22:38:07.387Z",
+  "atualizadoEm": "2026-09-28T23:55:48.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23686",
+      "loja": "Mercado Livre",
+      "titulo": "Cervejeira Midea Mdrx150fggdx Frost Free 82L Preto",
+      "link": "https://meli.la/2pzTt8p",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657788-MLA114065064945_072026-F.jpg",
+      "preco": 1540.8,
+      "precoDe": 1793,
+      "desconto": 5,
+      "cupom": "MELIDATADUPLA",
+      "enviadoEm": "2026-09-28T23:51:53.706Z"
+    },
     {
       "id": "23679",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-09-28T12:42:05.903Z"
-    },
-    {
-      "id": "23373",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor curvo para jogadores Samsung 27 G55c Odyssey G5 Qhd 165 hz, cor preto",
-      "link": "https://meli.la/1hGwbYf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826731-MLA99910292797_112025-F.jpg",
-      "preco": 877.9100000000001,
-      "precoDe": 1285,
-      "desconto": 24,
-      "cupom": "HOJETEMPROMO",
-      "enviadoEm": "2026-09-28T12:38:17.882Z"
     }
   ]
 }
