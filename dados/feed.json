@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-28T19:16:03.747Z",
+  "atualizadoEm": "2026-09-28T19:26:48.177Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23595",
+      "loja": "Shopee",
+      "titulo": "Ring Light Iluminador 10 Polegadas com Tripé 2.10 Metro LED para Celular Iluminação Profissional",
+      "link": "https://s.shopee.com.br/9peg5ZW1rM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
+      "preco": 47.98,
+      "precoDe": 79.97,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T19:22:21.159Z"
+    },
     {
       "id": "23582",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-27T20:11:18.483Z"
-    },
-    {
-      "id": "23233",
-      "loja": "Shopee",
-      "titulo": "【110V/220V】5 Em 1 Máquina Solda Inversora Profissional Máquina de solda 160A MMA/LIFT TIG D13",
-      "link": "https://s.shopee.com.br/2Vs3nvUyXA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqpo4w1yqoea53_tn",
-      "preco": 259,
-      "precoDe": 809.38,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T19:59:30.268Z"
     }
   ]
 }
