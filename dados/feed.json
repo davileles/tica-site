@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-28T17:58:12.960Z",
+  "atualizadoEm": "2026-09-28T18:17:03.239Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23540",
+      "loja": "Shopee",
+      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
+      "link": "https://s.shopee.com.br/8AWS1bOvAL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
+      "preco": 20.99,
+      "precoDe": 39.6,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T18:10:52.035Z"
+    },
     {
       "id": "23529",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-09-27T16:24:19.466Z"
-    },
-    {
-      "id": "23209",
-      "loja": "Mercado Livre",
-      "titulo": "Alicate Universal 8'' Isolado 1000 Volts Tramontina",
-      "link": "https://meli.la/2vsgwqt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836661-MLA99598899482_122025-F.jpg",
-      "preco": 37.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T16:12:08.356Z"
     }
   ]
 }
