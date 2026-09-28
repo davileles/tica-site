@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-28T13:18:42.515Z",
+  "atualizadoEm": "2026-09-28T13:35:23.602Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23402",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calça Jeans Masculina Slim Fit Lycra Direto Da Fabrica",
+      "link": "https://meli.la/2kgyUed",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961048-MLB75865109254_042024-O.webp",
+      "preco": 90.19,
+      "precoDe": 299.99,
+      "desconto": 63,
+      "cupom": "CUPOMLIBERADO",
+      "enviadoEm": "2026-09-28T13:31:13.689Z"
+    },
+    {
+      "id": "23399",
+      "loja": "Shopee",
+      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
+      "link": "https://s.shopee.com.br/W70a3zUaa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
+      "preco": 34.9,
+      "precoDe": 60.17,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T13:27:35.429Z"
+    },
     {
       "id": "23393",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 77,
       "cupom": null,
       "enviadoEm": "2026-09-26T19:38:16.560Z"
-    },
-    {
-      "id": "23102",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Academia Treino Caminhada Macio Moda Novo",
-      "link": "https://meli.la/2qcfXA6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854435-MLB115911480292_092026-O.webp",
-      "preco": 84.91000000000001,
-      "precoDe": 333,
-      "desconto": 70,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-26T19:34:41.842Z"
-    },
-    {
-      "id": "23101",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml",
-      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
-      "preco": 25.41,
-      "precoDe": 31.67,
-      "desconto": 6,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T19:25:24.962Z"
     }
   ]
 }
