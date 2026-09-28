@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-28T13:05:26.034Z",
+  "atualizadoEm": "2026-09-28T17:08:23.443Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1080,18 +1080,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HOJETEMPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
