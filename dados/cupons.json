@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-28T12:23:42.844Z",
+  "atualizadoEm": "2026-09-28T13:05:26.034Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -264,18 +264,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-29T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SOAELITE",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -579,18 +567,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CONECTA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "EDIFIER10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -624,18 +600,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-29T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "MAGALU7",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 7,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1225,6 +1189,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "15OFFNAMB",
+      "loja": "Outro: KaBuM",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em Placas-mãe Selecionadas",
+      "validadeAte": "2026-09-29T12:57:49.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
