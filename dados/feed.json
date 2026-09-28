@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-28T15:36:18.327Z",
+  "atualizadoEm": "2026-09-28T16:08:20.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23474",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
+      "link": "https://meli.la/1g3rcFF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLB114205838705_072026-O.webp",
+      "preco": 49.19,
+      "precoDe": 149.99,
+      "desconto": 60,
+      "cupom": "CUPOMLIBERADO",
+      "enviadoEm": "2026-09-28T16:07:40.391Z"
+    },
+    {
+      "id": "23472",
+      "loja": "Mercado Livre",
+      "titulo": "Shampoo Cabelo E Corpo Natura Kaiak Aero 100 Ml",
+      "link": "https://meli.la/2bS4g2D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665855-MLB112402969227_052026-O.webp",
+      "preco": 14.32,
+      "precoDe": 35.8,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T16:02:32.304Z"
+    },
+    {
+      "id": "23470",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho Elétrico Infantil 6v Jipe Off Road Preto Frente Ré Preto Completo Jeep",
+      "link": "https://meli.la/1yPyVBb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812652-MLA116180744056_092026-F.jpg",
+      "preco": 296.91,
+      "precoDe": 799.9,
+      "desconto": 57,
+      "cupom": "DIADACRIANCA",
+      "enviadoEm": "2026-09-28T15:59:02.170Z"
+    },
+    {
+      "id": "23467",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
+      "link": "https://s.shopee.com.br/50ZQ61uuTG",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46_tn",
+      "preco": 111.99,
+      "precoDe": 157.73,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T15:49:52.971Z"
+    },
+    {
+      "id": "23466",
+      "loja": "Shopee",
+      "titulo": "Karaokê Bluetooth com 2 Microfones Sem Fio Caixa de Som Portátil ANJGG BRASIL",
+      "link": "https://s.shopee.com.br/5q8X5Yro1V",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpido8umydqje7_tn",
+      "preco": 80,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T15:48:56.424Z"
+    },
+    {
+      "id": "23465",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
+      "preco": 53.46,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T15:44:24.862Z"
+    },
+    {
+      "id": "23464",
+      "loja": "Amazon",
+      "titulo": "Vinho Rosé Argentino Cordero Con Piel de Lobo Malbec 750ml",
+      "link": "https://www.amazon.com.br/dp/B08YP1XRVP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31RIOQmtJXL._SL400_.jpg",
+      "preco": 44,
+      "precoDe": 62.5,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T15:42:57.490Z"
+    },
+    {
+      "id": "23461",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Devil's Carnaval Phenomenal Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CTD1BHC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N+Q8k0lHL._SL400_.jpg",
+      "preco": 38.8,
+      "precoDe": 69.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T15:38:39.806Z"
+    },
     {
       "id": "23456",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-27T13:21:34.497Z"
-    },
-    {
-      "id": "23164",
-      "loja": "Shopee",
-      "titulo": "Capa De Assento De Apoio Para Bebês , Cadeira De Pelúcia Aprender A Sentar , Brincar , Lavável , Sem Enchimento , Verão",
-      "link": "https://s.shopee.com.br/8AWQ6czMR9",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823oz-mp4m5qv2uwwf36_tn",
-      "preco": 53.49,
-      "precoDe": 95.52,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T13:18:21.922Z"
-    },
-    {
-      "id": "23162",
-      "loja": "Shopee",
-      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
-      "link": "https://s.shopee.com.br/9fLDrp6VIC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
-      "preco": 62.99,
-      "precoDe": 104.98,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T12:55:46.027Z"
-    },
-    {
-      "id": "23160",
-      "loja": "Shopee",
-      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
-      "link": "https://s.shopee.com.br/LnYj7nsZl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
-      "preco": 25,
-      "precoDe": 50,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T12:33:05.529Z"
-    },
-    {
-      "id": "23159",
-      "loja": "Shopee",
-      "titulo": "Blocos de montar infantil Brinquedo educativo Mini brinquedos Brinquedo",
-      "link": "https://s.shopee.com.br/5fp53MTA1w",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1s-m4rmynogvubl03_tn",
-      "preco": 4.8,
-      "precoDe": 12.97,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T12:10:34.091Z"
-    },
-    {
-      "id": "23155",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "link": "https://s.shopee.com.br/80Czo5g016",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra15-m50cpye62n9qb3_tn",
-      "preco": 18.98,
-      "precoDe": 24.97,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T11:47:39.868Z"
-    },
-    {
-      "id": "23153",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/30oJpMBPlU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 29,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T11:24:56.609Z"
-    },
-    {
-      "id": "23149",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
-      "preco": 49.99,
-      "precoDe": 71.67,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T11:10:54.570Z"
-    },
-    {
-      "id": "23145",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff Ice 275ml - Pack 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NH7X45Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fi3yM2MfL._SL400_.jpg",
-      "preco": 46.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T11:03:34.406Z"
     }
   ]
 }
