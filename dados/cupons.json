@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-27T22:47:42.900Z",
+  "atualizadoEm": "2026-09-28T03:09:38.428Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -157,30 +157,6 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17612&id=1207116"
-    },
-    {
-      "codigo": "300OFF",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "200OFF",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
       "codigo": "PS5100",
@@ -867,18 +843,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VIPAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "10 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VOLTAAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -963,18 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CARRINHOCHEIO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "10 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPRAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1011,15 +963,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMONOMELI",
+      "codigo": "QUEIMADEESTOQUE28",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 18,
-      "minimo": 0,
+      "valor": 20,
+      "minimo": 49,
       "maximo": null,
-      "limite": 500,
-      "observacao": "10 cupons ativos do Mercado Livre",
-      "validadeAte": "2026-09-28T02:59:00.000Z",
+      "limite": 50,
+      "observacao": "Válido apenas em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-29T03:02:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1188,18 +1140,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
-    },
-    {
-      "codigo": "NIVER30",
-      "loja": "Under Armour",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
     },
     {
