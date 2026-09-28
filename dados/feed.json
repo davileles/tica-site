@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-28T11:23:39.950Z",
+  "atualizadoEm": "2026-09-28T11:53:39.949Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23314",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+      "link": "https://s.shopee.com.br/9fLFO73Csc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
+      "preco": 44.9,
+      "precoDe": 71.27,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:49:35.264Z"
+    },
+    {
+      "id": "23311",
+      "loja": "Amazon",
+      "titulo": "Espuma Mágica Aerossol 400ml / 370g",
+      "link": "https://www.amazon.com.br/dp/B076X7T368?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416EJwtoCRL._SL400_.jpg",
+      "preco": 16.9,
+      "precoDe": 21.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:46:00.277Z"
+    },
+    {
+      "id": "23309",
+      "loja": "Mercado Livre",
+      "titulo": "Fantasia Infantil Com Enchimento Mascara Escolha Personagem",
+      "link": "https://meli.la/1UYYnb2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998577-MLB109269140532_042026-O.webp",
+      "preco": 39.98,
+      "precoDe": 49.98,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:44:50.795Z"
+    },
+    {
+      "id": "23304",
+      "loja": "Shopee",
+      "titulo": "Frigobar Hisense 90 Litros Porta Reversível Branco 1 Porta RR121NW3A/RR121NW2A",
+      "link": "https://s.shopee.com.br/2gBV0oXefR",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxh-lzs1zqu4mc2y7e_tn",
+      "preco": 644,
+      "precoDe": 1238.46,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:42:48.613Z"
+    },
+    {
+      "id": "23302",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:37:38.520Z"
+    },
+    {
+      "id": "23301",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 174.9,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:36:33.426Z"
+    },
+    {
+      "id": "23286",
+      "loja": "Amazon",
+      "titulo": "Mor - Caixa Térmica 42 Litros Azul",
+      "link": "https://www.amazon.com.br/dp/B07LGZM6JC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vx2h-UoKL._SL400_.jpg",
+      "preco": 292.69,
+      "precoDe": 489.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:29:26.989Z"
+    },
+    {
+      "id": "23282",
+      "loja": "Shopee",
+      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
+      "link": "https://s.shopee.com.br/9zy5lA5mmc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
+      "preco": 59.97,
+      "precoDe": 85.67,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:25:58.221Z"
+    },
     {
       "id": "23275",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 14,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T17:38:55.567Z"
-    },
-    {
-      "id": "23073",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Pares Meias Lupo Cano Médio Esportivas Academia",
-      "link": "https://meli.la/1tGD8r5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939575-MLB75370609605_032024-O.webp",
-      "preco": 55.239999999999995,
-      "precoDe": 103.1,
-      "desconto": 37,
-      "cupom": "MELHORCUPOM",
-      "enviadoEm": "2026-09-26T17:38:01.742Z"
-    },
-    {
-      "id": "23073",
-      "loja": "Amazon",
-      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
-      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
-      "preco": 735.99,
-      "precoDe": 1364.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T17:18:33.320Z"
-    },
-    {
-      "id": "23072",
-      "loja": "Shopee",
-      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
-      "link": "https://s.shopee.com.br/6VOAn4dE9o",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
-      "preco": 22.99,
-      "precoDe": 88.42,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T17:17:31.330Z"
-    },
-    {
-      "id": "23072",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 32.59,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T17:10:38.269Z"
-    },
-    {
-      "id": "23070",
-      "loja": "Mercado Livre",
-      "titulo": "O kit Egeo Melancia traz a Colônia de 90ml e o Gel Esfoliante de 150g.",
-      "link": "https://meli.la/1SFWSvY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745183-MLB117826885243_092026-O.webp",
-      "preco": 151.02,
-      "precoDe": 212.8,
-      "desconto": 21,
-      "cupom": "LOJASOFICIAIS2609",
-      "enviadoEm": "2026-09-26T17:01:09.769Z"
-    },
-    {
-      "id": "23068",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Branca - 127V",
-      "link": "https://www.amazon.com.br/dp/B0DXMXSQSJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415vQEEvk4L._SL400_.jpg",
-      "preco": 364.39,
-      "precoDe": 499.9,
-      "desconto": 14,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T16:57:38.982Z"
-    },
-    {
-      "id": "23067",
-      "loja": "Shopee",
-      "titulo": "Electro Nest Fone De Ouvido Com Fio 3.5mm Intra-Auricular Estéreo Baixo Microfone Fone EJ-30",
-      "link": "https://s.shopee.com.br/5AsnB3LtGX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8u9p6k2oc1u3c_tn",
-      "preco": 11.99,
-      "precoDe": 25.51,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T16:54:31.719Z"
-    },
-    {
-      "id": "23064",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
-      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
-      "preco": 55.239999999999995,
-      "precoDe": 84.9,
-      "desconto": 23,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-26T16:45:30.736Z"
     }
   ]
 }
