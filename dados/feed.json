@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-28T13:05:23.602Z",
+  "atualizadoEm": "2026-09-28T13:18:42.515Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23393",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Fitness Canelado Top Com Alta Sustentação",
+      "link": "https://meli.la/2nqbvHf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609342-MLB116486862735_082026-O.webp",
+      "preco": 57.32000000000001,
+      "precoDe": 149.9,
+      "desconto": 53,
+      "cupom": "CUPOMLIBERADO",
+      "enviadoEm": "2026-09-28T13:08:42.513Z"
+    },
     {
       "id": "23388",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 6,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T19:25:24.962Z"
-    },
-    {
-      "id": "23100",
-      "loja": "Shopee",
-      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "link": "https://s.shopee.com.br/8Kpp6bqIzc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
-      "preco": 59.9,
-      "precoDe": 85.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T19:15:49.692Z"
     }
   ]
 }
