@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-28T20:25:48.529Z",
+  "atualizadoEm": "2026-09-28T20:44:19.653Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23644",
+      "loja": "Shopee",
+      "titulo": "Painel Suporte Porta Ferramentas Organizador Parede Perfurado 118x52 + Brindes",
+      "link": "https://s.shopee.com.br/7faBaYGzDE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5k3hnqv2f8b6_tn",
+      "preco": 92.61,
+      "precoDe": 94.5,
+      "desconto": 2,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T20:34:19.652Z"
+    },
+    {
+      "id": "23643",
+      "loja": "Shopee",
+      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
+      "link": "https://s.shopee.com.br/7faBaSx4nD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
+      "preco": 10,
+      "precoDe": 30.3,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T20:33:11.103Z"
+    },
+    {
+      "id": "23639",
+      "loja": "Amazon",
+      "titulo": "Mentos Pure Fresh Wintergreen - Goma de Mascar Sem Açúcar Menta Verde - 92g | 46 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08JRBW27D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i9IKzMEOL._SL400_.jpg",
+      "preco": 10.9,
+      "precoDe": 22.22,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T20:29:46.495Z"
+    },
+    {
+      "id": "23636",
+      "loja": "Amazon",
+      "titulo": "Licor Cointreau Sabor Licor fino de Laranja 700 ml",
+      "link": "https://www.amazon.com.br/dp/B002VPUPMA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zBBr9zMdL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 159.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T20:26:12.706Z"
+    },
     {
       "id": "23635",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-09-28T11:44:50.795Z"
-    },
-    {
-      "id": "23304",
-      "loja": "Shopee",
-      "titulo": "Frigobar Hisense 90 Litros Porta Reversível Branco 1 Porta RR121NW3A/RR121NW2A",
-      "link": "https://s.shopee.com.br/2gBV0oXefR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxh-lzs1zqu4mc2y7e_tn",
-      "preco": 644,
-      "precoDe": 1238.46,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T11:42:48.613Z"
-    },
-    {
-      "id": "23302",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T11:37:38.520Z"
-    },
-    {
-      "id": "23301",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T11:36:33.426Z"
-    },
-    {
-      "id": "23286",
-      "loja": "Amazon",
-      "titulo": "Mor - Caixa Térmica 42 Litros Azul",
-      "link": "https://www.amazon.com.br/dp/B07LGZM6JC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vx2h-UoKL._SL400_.jpg",
-      "preco": 292.69,
-      "precoDe": 489.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T11:29:26.989Z"
     }
   ]
 }
