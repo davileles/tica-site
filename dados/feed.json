@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-27T22:58:10.593Z",
+  "atualizadoEm": "2026-09-28T11:23:39.950Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23275",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 129.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:20:13.272Z"
+    },
+    {
+      "id": "23270",
+      "loja": "Amazon",
+      "titulo": "Burigotto Banheira Millenia, Branco",
+      "link": "https://www.amazon.com.br/dp/B0964FYW87?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xeOIiVdLS._SL400_.jpg",
+      "preco": 409.9,
+      "precoDe": 625,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:12:44.021Z"
+    },
+    {
+      "id": "23265",
+      "loja": "Shopee",
+      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
+      "link": "https://s.shopee.com.br/8V9HwoBtFo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
+      "preco": 19.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T11:03:21.021Z"
+    },
     {
       "id": "23244",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 23,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-26T16:45:30.736Z"
-    },
-    {
-      "id": "23063",
-      "loja": "Shopee",
-      "titulo": "Baggio Café - Café Torrado e Moído Aromas Vanilla 250g",
-      "link": "https://s.shopee.com.br/7ptYLGtVSV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2jqr7twgecb1_tn",
-      "preco": 35.9,
-      "precoDe": 37.79,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T16:44:32.670Z"
-    },
-    {
-      "id": "23060",
-      "loja": "Shopee",
-      "titulo": "Taça Copo em Vidro Transparente e Verde  Esfera 540Ml Ribeiro e Pavani - Original",
-      "link": "https://s.shopee.com.br/5AsnA3knUv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mmufgyailatgf0_tn",
-      "preco": 99.99,
-      "precoDe": 135.12,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T16:40:16.874Z"
-    },
-    {
-      "id": "23058",
-      "loja": "Shopee",
-      "titulo": "Prateleira Industrial Suspensa ate 115cm Organizadora Livros Decorações Sala, Cozinha, Lavanderia",
-      "link": "https://s.shopee.com.br/9zy2udRTlx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqsenvfymy3r44_tn",
-      "preco": 42.1,
-      "precoDe": 73.86,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-26T16:35:20.876Z"
     }
   ]
 }
