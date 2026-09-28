@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-28T17:08:20.735Z",
+  "atualizadoEm": "2026-09-28T17:38:20.759Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23521",
+      "loja": "Mercado Livre",
+      "titulo": "Suéter Masculino Gola U Preto Basic Tricot Blusa Manga Longa",
+      "link": "https://meli.la/1MXqX4W",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718031-MLB105962565014_022026-O.webp",
+      "preco": 36.5,
+      "precoDe": 74.5,
+      "desconto": 30,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-28T17:29:02.441Z"
+    },
+    {
+      "id": "23514",
+      "loja": "Shopee",
+      "titulo": "Kit Golzinho Mini Trave Futebol Infantil Gol Brinquedo 60x40 Crianças Bola e Bomba de Ar",
+      "link": "https://s.shopee.com.br/1Lg7pmVL4G",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mpmnvtnq4r28c5_tn",
+      "preco": 26.99,
+      "precoDe": 34.16,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:25:37.212Z"
+    },
+    {
+      "id": "23513",
+      "loja": "Mercado Livre",
+      "titulo": "Cobertor Manta De Casal 2,00x1,80 Canelada Sherpa Cores",
+      "link": "https://meli.la/1KmWUDK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928057-MLB115579855137_082026-O.webp",
+      "preco": 66.88999999999999,
+      "precoDe": 167.56,
+      "desconto": 51,
+      "cupom": "MLMELHOROFERTA",
+      "enviadoEm": "2026-09-28T17:22:03.861Z"
+    },
+    {
+      "id": "23511",
+      "loja": "Mercado Livre",
+      "titulo": "Basic Whey 1kg Growth Supplements Baunilha",
+      "link": "https://meli.la/2qkquuD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899347-MLA115984378274_092026-F.jpg",
+      "preco": 65.61,
+      "precoDe": 104.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:12:25.105Z"
+    },
+    {
+      "id": "23508",
+      "loja": "Mercado Livre",
+      "titulo": "iPhone 17 Pro 1TB - Azul-profundo - Distribuidor Autorizado",
+      "link": "https://meli.la/12uBFTK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900609-MLA95125694433_102025-F.jpg",
+      "preco": 10201.9,
+      "precoDe": 14499,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-28T17:09:04.346Z"
+    },
     {
       "id": "23507",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 46,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-27T16:06:49.509Z"
-    },
-    {
-      "id": "23204",
-      "loja": "Shopee",
-      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
-      "link": "https://s.shopee.com.br/5AsoiG4Iec",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
-      "preco": 16.99,
-      "precoDe": 80.9,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T16:01:48.052Z"
-    },
-    {
-      "id": "23203",
-      "loja": "Shopee",
-      "titulo": "Conjunto de Servir 4 Peças Oxford Brisa",
-      "link": "https://s.shopee.com.br/7VGjULVfhY",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5x-m7mirbrydxe59a_tn",
-      "preco": 93.9,
-      "precoDe": 98.84,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T15:58:29.552Z"
-    },
-    {
-      "id": "23202",
-      "loja": "Mercado Livre",
-      "titulo": "Olha só que peça incrível! Um Blazer Forrado com um toque super moderno.",
-      "link": "https://meli.la/34bGvnh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664174-MLB114287743093_072026-O.webp",
-      "preco": 174.52,
-      "precoDe": 210,
-      "desconto": 10,
-      "cupom": "TODOSITE2709",
-      "enviadoEm": "2026-09-27T15:55:14.740Z"
-    },
-    {
-      "id": "23200",
-      "loja": "Amazon",
-      "titulo": "Ypê Amaciante Tradicional Intenso 2L",
-      "link": "https://www.amazon.com.br/dp/B07HYGJQGD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xGXjRYjvL._SL400_.jpg",
-      "preco": 7.99,
-      "precoDe": 8.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-27T15:51:21.141Z"
-    },
-    {
-      "id": "23199",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Feminino Academia Treino O2x Original Ortopédico Cinza",
-      "link": "https://meli.la/252LjeY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_764326-MLB112269395077_052026-O.webp",
-      "preco": 34.93,
-      "precoDe": 69.9,
-      "desconto": 29,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-27T15:48:08.251Z"
     }
   ]
 }
