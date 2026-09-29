@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T18:44:39.884Z",
+  "atualizadoEm": "2026-09-29T19:14:39.069Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1227,18 +1227,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
     },
     {
-      "codigo": "3U4M01010",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-29T19:04:29.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "1010SHO",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1260,6 +1248,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-29T20:00:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "MODA15SHO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em vendedores nacionais",
+      "validadeAte": "2026-09-30T18:47:33.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
