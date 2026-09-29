@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-29T12:13:35.139Z",
+  "atualizadoEm": "2026-09-29T12:19:06.739Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23773",
+      "loja": "Shopee",
+      "titulo": "INOVA Massageador elétrico portátil Alívio da dor muscular Recarregável Múltiplas cabeças Profissional 6níveis",
+      "link": "https://s.shopee.com.br/7ptcoz35pf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moi3x0r71hxf5b_tn",
+      "preco": 79.98,
+      "precoDe": 199.95,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T12:17:46.057Z"
+    },
+    {
+      "id": "23771",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Rosé 750ml",
+      "link": "https://www.amazon.com.br/dp/B015Z9RX6E?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311bk+lVjtL._SL400_.jpg",
+      "preco": 39.01,
+      "precoDe": 73.99,
+      "desconto": 38,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T12:13:58.821Z"
+    },
     {
       "id": "23767",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-09-28T14:32:41.353Z"
-    },
-    {
-      "id": "23429",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Blusas Suplex",
-      "link": "https://meli.la/1yru9M5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602394-MLB114220863147_072026-O.webp",
-      "preco": 50.019999999999996,
-      "precoDe": 119.9,
-      "desconto": 49,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T14:31:27.623Z"
-    },
-    {
-      "id": "23427",
-      "loja": "Mercado Livre",
-      "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
-      "link": "https://meli.la/31s8c8F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
-      "preco": 85.85,
-      "precoDe": 180.9,
-      "desconto": 44,
-      "cupom": "DIADACRIANCA",
-      "enviadoEm": "2026-09-28T14:23:50.433Z"
     }
   ]
 }
