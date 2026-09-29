@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T21:44:38.834Z",
+  "atualizadoEm": "2026-09-29T23:44:36.967Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1056,6 +1056,18 @@
       "limite": 30,
       "observacao": "Válido em itens de bebês e pets",
       "validadeAte": "2026-09-30T15:00:41.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DISNEY15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-09-30T23:29:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
