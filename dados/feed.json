@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-29T00:40:56.609Z",
+  "atualizadoEm": "2026-09-29T11:13:35.138Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23726",
+      "loja": "Amazon",
+      "titulo": "Mustela Água De Limpeza Sem Enxágue 300Ml - Água Micelar Infantil Rosto E Corpo Vegana Fórmula Biodegradável Com 98% De Ingredientes De Origem Natural",
+      "link": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Kus0sgTXL._SL400_.jpg",
+      "preco": 78.99,
+      "precoDe": 99.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T11:12:43.640Z"
+    },
+    {
+      "id": "23722",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Devil's Carnaval Phenomenal Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CTD1BHC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N+Q8k0lHL._SL400_.jpg",
+      "preco": 32.98,
+      "precoDe": 69.9,
+      "desconto": 44,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T11:09:48.791Z"
+    },
+    {
+      "id": "23721",
+      "loja": "Mercado Livre",
+      "titulo": "Mala 23 Kg Média Sestini Para Despachar De Viagem Resistente",
+      "link": "https://meli.la/1ksAX9u",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963868-MLB117915744915_092026-O.webp",
+      "preco": 419,
+      "precoDe": 699,
+      "desconto": 33,
+      "cupom": "CUPOMLIBERADO",
+      "enviadoEm": "2026-09-29T11:06:00.848Z"
+    },
+    {
+      "id": "23720",
+      "loja": "Shopee",
+      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "link": "https://s.shopee.com.br/7AdvxF8kCw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
+      "preco": 69.9,
+      "precoDe": 120.52,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T11:02:51.669Z"
+    },
     {
       "id": "23688",
       "loja": "Amazon",
@@ -1023,18 +1071,6 @@
       "enviadoEm": "2026-09-28T15:42:57.490Z"
     },
     {
-      "id": "23461",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Devil's Carnaval Phenomenal Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CTD1BHC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N+Q8k0lHL._SL400_.jpg",
-      "preco": 38.8,
-      "precoDe": 69.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:38:39.806Z"
-    },
-    {
       "id": "23456",
       "loja": "Shopee",
       "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
@@ -1405,42 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-28T12:58:52.017Z"
-    },
-    {
-      "id": "23383",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Tiro Graphic II adidas",
-      "link": "https://meli.la/33QM6bW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863855-MLA97197080240_112025-O.webp",
-      "preco": 94.03,
-      "precoDe": 249.99,
-      "desconto": 62,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T12:58:03.590Z"
-    },
-    {
-      "id": "23376",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Lg Ai Smart Inverter Voice 9000 Btus Frio",
-      "link": "https://meli.la/2iKjLnk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624846-MLB116661776766_092026-O.webp",
-      "preco": 1481.49,
-      "precoDe": 2189,
-      "desconto": 32,
-      "cupom": "BARATINHO",
-      "enviadoEm": "2026-09-28T12:52:17.897Z"
-    },
-    {
-      "id": "23377",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Gamer Mancer Cv450, Mini Tower, 9 Fans, Vidro Preto",
-      "link": "https://meli.la/2JF3829",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626617-MLA96660481369_102025-F.jpg",
-      "preco": 384.3,
-      "precoDe": 658.81,
-      "desconto": 35,
-      "cupom": "HOJETEMPROMO",
-      "enviadoEm": "2026-09-28T12:49:00.035Z"
     }
   ]
 }
