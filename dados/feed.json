@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-29T12:48:06.751Z",
+  "atualizadoEm": "2026-09-29T13:15:35.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23841",
+      "loja": "Amazon",
+      "titulo": "Rum Bacardi Big Apple 700ml",
+      "link": "https://www.amazon.com.br/dp/B0DLX423SX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Ps1OawuuL._SL400_.jpg",
+      "preco": 28.310000000000002,
+      "precoDe": 45.9,
+      "desconto": 27,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T13:12:05.187Z"
+    },
+    {
+      "id": "23840",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/6VOFI7oPka",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 78.96,
+      "precoDe": 136.14,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T13:03:55.644Z"
+    },
+    {
+      "id": "23836",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Jeans Bebê Roupa Macia Menino Menina Pronta Entrega",
+      "link": "https://meli.la/1fL9Lwt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608571-MLB101556730131_122025-O.webp",
+      "preco": 37.28,
+      "precoDe": 78.92,
+      "desconto": 37,
+      "cupom": "OFFNOMELI",
+      "enviadoEm": "2026-09-29T12:59:51.634Z"
+    },
+    {
+      "id": "23832",
+      "loja": "Shopee",
+      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
+      "link": "https://s.shopee.com.br/8fSjrHW2Sm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
+      "preco": 33.96,
+      "precoDe": 109.55,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T12:58:57.982Z"
+    },
+    {
+      "id": "23830",
+      "loja": "Mercado Livre",
+      "titulo": "Xiaomi Redmi 15 Global 256gb/8gb Ram Preto",
+      "link": "https://meli.la/1mxZ2QJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820978-MLA98741556457_112025-F.jpg",
+      "preco": 949.9,
+      "precoDe": 2279,
+      "desconto": 40,
+      "cupom": "DESCONTOMELI",
+      "enviadoEm": "2026-09-29T12:55:21.053Z"
+    },
+    {
+      "id": "23822",
+      "loja": "Amazon",
+      "titulo": "Kit 12 Unidades Patê Colosso Premium Cães Junior Sabor Carne, 280g",
+      "link": "https://www.amazon.com.br/dp/B08KGXGFY1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51NU4srJHOL._SL400_.jpg",
+      "preco": 15.9,
+      "precoDe": 78.96,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T12:51:34.454Z"
+    },
     {
       "id": "23820",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-28T15:48:56.424Z"
-    },
-    {
-      "id": "23465",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 53.46,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:44:24.862Z"
-    },
-    {
-      "id": "23464",
-      "loja": "Amazon",
-      "titulo": "Vinho Rosé Argentino Cordero Con Piel de Lobo Malbec 750ml",
-      "link": "https://www.amazon.com.br/dp/B08YP1XRVP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31RIOQmtJXL._SL400_.jpg",
-      "preco": 44,
-      "precoDe": 62.5,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:42:57.490Z"
-    },
-    {
-      "id": "23456",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
-      "link": "https://s.shopee.com.br/9zy61YMDT0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
-      "preco": 12.9,
-      "precoDe": 30,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:26:18.325Z"
-    },
-    {
-      "id": "23454",
-      "loja": "Amazon",
-      "titulo": "Tênis New Balance 480 Low Branco e Preto - Masculino - 40 - Branco",
-      "link": "https://www.amazon.com.br/dp/B0F3PCJPZV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31O2ABFkk8L._SL400_.jpg",
-      "preco": 27.99,
-      "precoDe": 379.81,
-      "desconto": 93,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:22:21.897Z"
-    },
-    {
-      "id": "23451",
-      "loja": "Shopee",
-      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
-      "link": "https://s.shopee.com.br/60RxEYhNe8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
-      "preco": 24.99,
-      "precoDe": 47.15,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T15:02:01.753Z"
-    },
-    {
-      "id": "23450",
-      "loja": "Amazon",
-      "titulo": "Rola Bola Infantil 18 Peças Blocolândia Dismat",
-      "link": "https://www.amazon.com.br/dp/B09WYY6QH2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NmxObZChL._SL400_.jpg",
-      "preco": 38.9,
-      "precoDe": 65.7,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T14:58:38.404Z"
     }
   ]
 }
