@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-29T22:27:30.812Z",
+  "atualizadoEm": "2026-09-29T22:44:36.442Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24141",
+      "loja": "Shopee",
+      "titulo": "Termômetro De Testa Infravermelha Digital",
+      "link": "https://s.shopee.com.br/1VzZyjZyZd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
+      "preco": 26.89,
+      "precoDe": 122.23,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T22:40:13.151Z"
+    },
+    {
+      "id": "24140",
+      "loja": "Shopee",
+      "titulo": "Plaina Elétrica 82mm Industrial Manual 750W Profissional TPLA750 Trato",
+      "link": "https://s.shopee.com.br/4LJlLmpMi8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-lz0mjjy7mb1ede_tn",
+      "preco": 189.87,
+      "precoDe": 271.24,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T22:35:25.743Z"
+    },
     {
       "id": "24136",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 26,
       "cupom": "HOJEVAI",
       "enviadoEm": "2026-09-29T12:29:55.167Z"
-    },
-    {
-      "id": "23790",
-      "loja": "Shopee",
-      "titulo": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
-      "link": "https://s.shopee.com.br/8fSjoqDhbY",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf_tn",
-      "preco": 12.73,
-      "precoDe": 31.83,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T12:25:53.248Z"
-    },
-    {
-      "id": "23789",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Branco Havit Gamenote Fuxi-h6 - White Branco",
-      "link": "https://meli.la/15Ma424",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLA110916088979_042026-F.jpg",
-      "preco": 167.4,
-      "precoDe": 249,
-      "desconto": 25,
-      "cupom": "HOJEVAI",
-      "enviadoEm": "2026-09-29T12:22:06.410Z"
     }
   ]
 }
