@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-29T15:44:36.030Z",
+  "atualizadoEm": "2026-09-29T16:14:36.030Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23941",
+      "loja": "Amazon",
+      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
+      "preco": 22.59,
+      "precoDe": 30.8,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T16:12:13.721Z"
+    },
+    {
+      "id": "23939",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Diablo Dark Black 750ml",
+      "link": "https://www.amazon.com.br/dp/B086R87WFZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31giefxbZeL._SL400_.jpg",
+      "preco": 45.9,
+      "precoDe": 99.9,
+      "desconto": 46,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T16:08:21.753Z"
+    },
+    {
+      "id": "23937",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
+      "link": "https://s.shopee.com.br/6VOFUbb4qp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
+      "preco": 27.18,
+      "precoDe": 118.17,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T16:02:16.121Z"
+    },
+    {
+      "id": "23936",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira Bateria Gsr120-li Com Kit 15 Brocas Bosch",
+      "link": "https://meli.la/2GJ94uQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717573-MLA99416682996_112025-F.jpg",
+      "preco": 429.9,
+      "precoDe": 613.14,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:58:23.921Z"
+    },
+    {
+      "id": "23932",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/5AsrtHJlP8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 149.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:55:33.885Z"
+    },
+    {
+      "id": "23931",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Acer Nitro 23.8\" KG240Y W3BIIP LED FHD 1 ms 240 Hz",
+      "link": "https://meli.la/1WWyEjV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_767084-MLA116705734366_092026-F.jpg",
+      "preco": 629.3699999999999,
+      "precoDe": 1388,
+      "desconto": 50,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T15:52:29.669Z"
+    },
+    {
+      "id": "23930",
+      "loja": "Mercado Livre",
+      "titulo": "Lampada Led Pera Smart Inteligente Wi Fi 10w 2700K/6500K E27 110v/220v Cod:290018079 Neo Avant",
+      "link": "https://meli.la/1fG3XTu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613521-MLA112442225479_052026-F.jpg",
+      "preco": 22.9,
+      "precoDe": 29.92,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:49:03.467Z"
+    },
+    {
+      "id": "23928",
+      "loja": "Amazon",
+      "titulo": "Titorion Mouse Pad Gamer de Vidro Speed Glacier Profissional 49x42 Premium Branco Preto Hexágono (Divinity)",
+      "link": "https://www.amazon.com.br/dp/B0GWP5D8QY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410nNXdg8aL._SL400_.jpg",
+      "preco": 257.11,
+      "precoDe": 270.65,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:45:08.294Z"
+    },
     {
       "id": "23927",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-28T18:41:41.238Z"
-    },
-    {
-      "id": "23550",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Short De Dormir Cueca Samba Canção Malha Fria Pijama",
-      "link": "https://meli.la/2aj9QPp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695924-MLB103947189958_012026-O.webp",
-      "preco": 34.1,
-      "precoDe": 49.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T18:40:36.854Z"
-    },
-    {
-      "id": "23549",
-      "loja": "Shopee",
-      "titulo": "Mini Máquina Seladora De Embalagem 2 em 1 Recarregável 5v Bivolt",
-      "link": "https://s.shopee.com.br/2Vs5IkOhcA",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82262-mhvlzshohmh275_tn",
-      "preco": 12.88,
-      "precoDe": 25.76,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T18:37:10.903Z"
-    },
-    {
-      "id": "23547",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Lata 269ml Pack 8 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXWJL44?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yrUUo3v+L._SL400_.jpg",
-      "preco": 33.52,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T18:33:43.366Z"
-    },
-    {
-      "id": "23546",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Masculino Aromático Cítrico Fresco e Energizante, Eau de Toilette Polo Sport Ralph Lauren 100ml",
-      "link": "https://meli.la/1kbtJU5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997597-MLA112403309983_052026-F.jpg",
-      "preco": 236.92,
-      "precoDe": 409,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T18:32:39.285Z"
-    },
-    {
-      "id": "23544",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Pçs 3 Camisas Regata Dry-fit Sandrini +2 Short Tactel",
-      "link": "https://meli.la/2hiyFs3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717841-MLB107383056392_032026-O.webp",
-      "preco": 64.77,
-      "precoDe": 149.99,
-      "desconto": 47,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T18:23:19.945Z"
-    },
-    {
-      "id": "23543",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Pares Meias Lupo Cano Médio Esportivas Academia",
-      "link": "https://meli.la/1tGD8r5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939575-MLB75370609605_032024-O.webp",
-      "preco": 53.28999999999999,
-      "precoDe": 103.1,
-      "desconto": 37,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T18:19:56.292Z"
-    },
-    {
-      "id": "23540",
-      "loja": "Shopee",
-      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
-      "link": "https://s.shopee.com.br/8AWS1bOvAL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
-      "preco": 20.99,
-      "precoDe": 39.6,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T18:10:52.035Z"
-    },
-    {
-      "id": "23529",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "link": "https://s.shopee.com.br/2gBVRwwAdj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
-      "preco": 132.9,
-      "precoDe": 139.89,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:48:12.959Z"
     }
   ]
 }
