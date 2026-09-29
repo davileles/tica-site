@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T19:14:39.069Z",
+  "atualizadoEm": "2026-09-29T20:14:39.090Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -276,6 +276,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "LU250OFF",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-04T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1236,18 +1248,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T18:41:20.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "F3ST4F1N4L",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-29T20:00:35.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
