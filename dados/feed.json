@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-29T18:14:36.203Z",
+  "atualizadoEm": "2026-09-29T18:32:14.003Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24018",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/6AlPFZeJj2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d_tn",
+      "preco": 27.88,
+      "precoDe": 44.97,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T18:22:14.002Z"
+    },
+    {
+      "id": "24015",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/5VViS1Sw3q",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T18:19:15.483Z"
+    },
+    {
+      "id": "24013",
+      "loja": "Mercado Livre",
+      "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Seca e Sensível 473ml - Hidratação por 48h",
+      "link": "https://meli.la/29qDoQr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624170-MLA116562708364_092026-F.jpg",
+      "preco": 79.29,
+      "precoDe": 134.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T18:15:53.832Z"
+    },
     {
       "id": "24012",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-09-28T20:29:46.495Z"
-    },
-    {
-      "id": "23636",
-      "loja": "Amazon",
-      "titulo": "Licor Cointreau Sabor Licor fino de Laranja 700 ml",
-      "link": "https://www.amazon.com.br/dp/B002VPUPMA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zBBr9zMdL._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 159.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T20:26:12.706Z"
-    },
-    {
-      "id": "23635",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Feminino Break Start Low Adidas",
-      "link": "https://meli.la/2CMfKWC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639125-MLB110044544550_042026-O.webp",
-      "preco": 263.99,
-      "precoDe": 399.99,
-      "desconto": 22,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T20:25:04.257Z"
-    },
-    {
-      "id": "23633",
-      "loja": "Mercado Livre",
-      "titulo": "Tapete Higiênico Pet 50 Unidades 60x60 Descartável Cão Gato",
-      "link": "https://meli.la/1QGsuCs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820836-MLA118246315219_092026-F.jpg",
-      "preco": 48.9,
-      "precoDe": 78.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T20:21:32.789Z"
     }
   ]
 }
