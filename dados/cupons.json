@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T03:25:49.452Z",
+  "atualizadoEm": "2026-09-29T12:13:37.464Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -711,27 +711,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELISALVA",
+      "codigo": "DESCONTOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELICOMPRA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
+      "observacao": null,
+      "validadeAte": "2026-09-30T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -831,15 +819,39 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MLVANTAGENS",
+      "codigo": "OFFNOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
+      "observacao": null,
+      "validadeAte": "2026-09-30T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-09-30T12:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEMPROMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-09-30T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -879,30 +891,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRACERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIATOTAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -912,54 +900,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUPOMLIBERADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MLMELHOROFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BARATINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DIADACRIANCA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -987,30 +927,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODEBOA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIDATADUPLA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITETODO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1035,15 +951,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MIMODODIA",
+      "codigo": "HOJEVAI",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
+      "valor": 10,
+      "minimo": 149,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-09-29T12:00:25.000Z",
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-09-30T12:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
