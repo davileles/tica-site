@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-29T13:44:35.933Z",
+  "atualizadoEm": "2026-09-29T14:00:42.770Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23866",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/3Vkdm3o7JN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 92.9,
+      "precoDe": 120.65,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T13:50:42.768Z"
+    },
+    {
+      "id": "23863",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/1AlbBLcUw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
+      "preco": 79.9,
+      "precoDe": 181.59,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T13:45:00.881Z"
+    },
     {
       "id": "23858",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-09-28T16:32:56.546Z"
-    },
-    {
-      "id": "23489",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Canguru Bebê Ergonômica Mochila Frente Costas Até 25kg",
-      "link": "https://meli.la/1AUpB4g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936889-MLB116173668509_082026-O.webp",
-      "preco": 124,
-      "precoDe": 219,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T16:29:31.494Z"
-    },
-    {
-      "id": "23486",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Peças Roupa Infantil Menina Verão Conjunto Criança",
-      "link": "https://meli.la/1tssrvM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788082-MLB91512530073_092025-O.webp",
-      "preco": 76.9,
-      "precoDe": 109.87,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T16:28:30.020Z"
     }
   ]
 }
