@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-29T17:14:36.189Z",
+  "atualizadoEm": "2026-09-29T17:44:36.202Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23990",
+      "loja": "Shopee",
+      "titulo": "Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro",
+      "link": "https://s.shopee.com.br/5fp8bWsWRK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mopj5zsf7bb715_tn",
+      "preco": 14.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T17:36:11.380Z"
+    },
+    {
+      "id": "23989",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/2gBX1htx0R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 17.99,
+      "precoDe": 21.42,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T17:31:43.057Z"
+    },
+    {
+      "id": "23988",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Fire Tennessee Whiskey 1L",
+      "link": "https://www.amazon.com.br/dp/B01I1316QE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yu8CpLcsL._SL400_.jpg",
+      "preco": 118,
+      "precoDe": 174.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T17:22:40.698Z"
+    },
     {
       "id": "23980",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 28,
       "cupom": "RESGATE O CUPOM AQUI: HTTPS://S.SHOPEE.COM.BR/9AOZJLPSVF",
       "enviadoEm": "2026-09-28T20:00:03.181Z"
-    },
-    {
-      "id": "23608",
-      "loja": "Shopee",
-      "titulo": "Whisky Johnnie Walker Black Label - 1L",
-      "link": "https://s.shopee.com.br/4B0JNVh1Qy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134275-820lx-mlw9z60nyb5ye3_tn",
-      "preco": 139.9,
-      "precoDe": 242.5,
-      "desconto": 32,
-      "cupom": "RESGATE O CUPOM AQUI: HTTPS://S.SHOPEE.COM.BR/9AOZJLPSVF",
-      "enviadoEm": "2026-09-28T19:56:33.377Z"
-    },
-    {
-      "id": "23607",
-      "loja": "Shopee",
-      "titulo": "Kit 02 Whisky's Ballantines Finest 1000ml",
-      "link": "https://s.shopee.com.br/9fLFvNSDD3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjst6e0pi58hb6_tn",
-      "preco": 139.9,
-      "precoDe": 179.24,
-      "desconto": 8,
-      "cupom": "RESGATE O CUPOM AQUI: HTTPS://S.SHOPEE.COM.BR/9AOZJLPSVF",
-      "enviadoEm": "2026-09-28T19:53:02.703Z"
-    },
-    {
-      "id": "23606",
-      "loja": "Shopee",
-      "titulo": "Cerveja Heineken Barril 5L",
-      "link": "https://s.shopee.com.br/7AduvzqzBs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
-      "preco": 90.9,
-      "precoDe": 139.64,
-      "desconto": 17,
-      "cupom": "RESGATE O CUPOM AQUI: HTTPS://S.SHOPEE.COM.BR/9AOZJLPSVF",
-      "enviadoEm": "2026-09-28T19:49:29.961Z"
     }
   ]
 }
