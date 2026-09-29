@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-29T15:14:36.019Z",
+  "atualizadoEm": "2026-09-29T15:44:36.030Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23927",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
+      "link": "https://s.shopee.com.br/4B0Kglrjdv",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
+      "preco": 12.83,
+      "precoDe": 14.75,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:39:48.193Z"
+    },
+    {
+      "id": "23915",
+      "loja": "Mercado Livre",
+      "titulo": "Adega De Vinhos Brastemp Para 12 Garrafas Com Painel Touch BZC12BE Preto",
+      "link": "https://meli.la/2gRF2g5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913759-MLA99991718745_112025-F.jpg",
+      "preco": 775.5400000000001,
+      "precoDe": 1169,
+      "desconto": 26,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T15:33:20.706Z"
+    },
+    {
+      "id": "23913",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Sb Chron 2 Canvas Unissex",
+      "link": "https://meli.la/13Fs73i",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877406-MLB100877567309_122025-O.webp",
+      "preco": 183.10999999999996,
+      "precoDe": 449.99,
+      "desconto": 42,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-29T15:30:26.729Z"
+    },
+    {
+      "id": "23911",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/6fhfeJmgKi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 54.31,
+      "precoDe": 73.39,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:26:55.331Z"
+    },
+    {
+      "id": "23910",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares Meias Lupo Cano Médio Original Esportiva",
+      "link": "https://meli.la/1nJ6sjM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742664-MLB108718429802_032026-O.webp",
+      "preco": 35.42,
+      "precoDe": 103.1,
+      "desconto": 51,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-29T15:23:24.297Z"
+    },
+    {
+      "id": "23908",
+      "loja": "Mercado Livre",
+      "titulo": "Barra de Proteína Integralmédica Crisp Bar sabor Ovomaltine x 45g de 12 un",
+      "link": "https://meli.la/2oUdmGb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729089-MLA99448469320_112025-F.jpg",
+      "preco": 89.39,
+      "precoDe": 154.8,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:20:15.113Z"
+    },
+    {
+      "id": "23905",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
+      "link": "https://s.shopee.com.br/5AsrqvUPaC",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mfuzvads9e6l43_tn",
+      "preco": 37.55,
+      "precoDe": 42.19,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T15:17:07.104Z"
+    },
     {
       "id": "23903",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-09-28T17:48:12.959Z"
-    },
-    {
-      "id": "23528",
-      "loja": "Amazon",
-      "titulo": "Escada De Alumínio 6 Degraus Mor - 5104",
-      "link": "https://www.amazon.com.br/dp/B07YCQFR8W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LXlYu-bAL._SL400_.jpg",
-      "preco": 219.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:44:09.299Z"
-    },
-    {
-      "id": "23527",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Garrafas Galão De Água Dagg Tank 2l Academia Treino",
-      "link": "https://meli.la/2CZo1QS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883694-MLA99598161702_122025-F.jpg",
-      "preco": 39.9,
-      "precoDe": 59.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:42:34.710Z"
-    },
-    {
-      "id": "23521",
-      "loja": "Mercado Livre",
-      "titulo": "Suéter Masculino Gola U Preto Basic Tricot Blusa Manga Longa",
-      "link": "https://meli.la/1MXqX4W",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718031-MLB105962565014_022026-O.webp",
-      "preco": 36.5,
-      "precoDe": 74.5,
-      "desconto": 30,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-28T17:29:02.441Z"
-    },
-    {
-      "id": "23514",
-      "loja": "Shopee",
-      "titulo": "Kit Golzinho Mini Trave Futebol Infantil Gol Brinquedo 60x40 Crianças Bola e Bomba de Ar",
-      "link": "https://s.shopee.com.br/1Lg7pmVL4G",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mpmnvtnq4r28c5_tn",
-      "preco": 26.99,
-      "precoDe": 34.16,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:25:37.212Z"
-    },
-    {
-      "id": "23513",
-      "loja": "Mercado Livre",
-      "titulo": "Cobertor Manta De Casal 2,00x1,80 Canelada Sherpa Cores",
-      "link": "https://meli.la/1KmWUDK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928057-MLB115579855137_082026-O.webp",
-      "preco": 66.88999999999999,
-      "precoDe": 167.56,
-      "desconto": 51,
-      "cupom": "MLMELHOROFERTA",
-      "enviadoEm": "2026-09-28T17:22:03.861Z"
-    },
-    {
-      "id": "23511",
-      "loja": "Mercado Livre",
-      "titulo": "Basic Whey 1kg Growth Supplements Baunilha",
-      "link": "https://meli.la/2qkquuD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899347-MLA115984378274_092026-F.jpg",
-      "preco": 65.61,
-      "precoDe": 104.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:12:25.105Z"
-    },
-    {
-      "id": "23508",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 17 Pro 1TB - Azul-profundo - Distribuidor Autorizado",
-      "link": "https://meli.la/12uBFTK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900609-MLA95125694433_102025-F.jpg",
-      "preco": 10201.9,
-      "precoDe": 14499,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T17:09:04.346Z"
     }
   ]
 }
