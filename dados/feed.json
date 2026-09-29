@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-29T16:44:36.030Z",
+  "atualizadoEm": "2026-09-29T17:05:35.613Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23976",
+      "loja": "Amazon",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria, 20 V, Fonte de Carregamento",
+      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
+      "preco": 228,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T16:55:35.613Z"
+    },
+    {
+      "id": "23967",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
+      "link": "https://meli.la/2PgPa4c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-O.webp",
+      "preco": 174.93,
+      "precoDe": 523.24,
+      "desconto": 52,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-09-29T16:54:34.685Z"
+    },
+    {
+      "id": "23963",
+      "loja": "Shopee",
+      "titulo": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+      "link": "https://s.shopee.com.br/9AP0ib25yt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970_tn",
+      "preco": 78.9,
+      "precoDe": 161.02,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T16:51:18.323Z"
+    },
+    {
+      "id": "23961",
+      "loja": "Mercado Livre",
+      "titulo": "Power Bank Baseus Turbo Bipow2 Pro 20000mah 22.5w Cor Preto",
+      "link": "https://meli.la/2DjAGUB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812206-MLA93073248860_092025-F.jpg",
+      "preco": 187.24,
+      "precoDe": 286.9,
+      "desconto": 27,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T16:47:56.037Z"
+    },
     {
       "id": "23959",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-09-28T19:36:50.852Z"
-    },
-    {
-      "id": "23596",
-      "loja": "Amazon",
-      "titulo": "Licor Baileys Original, 750ml",
-      "link": "https://www.amazon.com.br/dp/B004CY6VLC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vZdHM+brL._SL400_.jpg",
-      "preco": 149.99,
-      "precoDe": 166.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T19:28:53.341Z"
-    },
-    {
-      "id": "23595",
-      "loja": "Shopee",
-      "titulo": "Ring Light Iluminador 10 Polegadas com Tripé 2.10 Metro LED para Celular Iluminação Profissional",
-      "link": "https://s.shopee.com.br/9peg5ZW1rM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
-      "preco": 47.98,
-      "precoDe": 79.97,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T19:22:21.159Z"
-    },
-    {
-      "id": "23582",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Infantil para Carro TurboBooster 2.0, Declan, Cinza Mescla",
-      "link": "https://meli.la/1SVxTF8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616571-MLA112324386202_062026-F.jpg",
-      "preco": 336.02,
-      "precoDe": 559.9,
-      "desconto": 31,
-      "cupom": "DIADACRIANCA",
-      "enviadoEm": "2026-09-28T19:11:08.748Z"
-    },
-    {
-      "id": "23579",
-      "loja": "Amazon",
-      "titulo": "Copo Térmico Infantil Inox 354ml Tubarão Contigo",
-      "link": "https://www.amazon.com.br/dp/B0977T66Z7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Mq8D30frL._SL400_.jpg",
-      "preco": 66.89,
-      "precoDe": 129.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T19:10:03.910Z"
     }
   ]
 }
