@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-29T17:05:35.613Z",
+  "atualizadoEm": "2026-09-29T17:14:36.189Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23980",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Cubo Mágico 5x5cm – Quebra-Cabeça Educativo Antiestresse para Crianças e Adultos",
+      "link": "https://s.shopee.com.br/5q8YmI4PEz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82599-mgf55s056v4f41_tn",
+      "preco": 15.8,
+      "precoDe": 60.77,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T17:13:46.651Z"
+    },
+    {
+      "id": "23979",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/3LRDnETy9S",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 197.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T17:09:11.868Z"
+    },
+    {
+      "id": "23978",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosso 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
+      "preco": 33.46,
+      "precoDe": 47.9,
+      "desconto": 18,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T17:05:47.580Z"
+    },
     {
       "id": "23976",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 17,
       "cupom": "RESGATE O CUPOM AQUI: HTTPS://S.SHOPEE.COM.BR/9AOZJLPSVF",
       "enviadoEm": "2026-09-28T19:49:29.961Z"
-    },
-    {
-      "id": "23605",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Alimentação Infantil Portátil Minnie - Multikids",
-      "link": "https://meli.la/2uS3Pud",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826570-MLA99570988002_122025-F.jpg",
-      "preco": 76.41000000000001,
-      "precoDe": 369.9,
-      "desconto": 76,
-      "cupom": "DIADACRIANCA",
-      "enviadoEm": "2026-09-28T19:45:48.890Z"
-    },
-    {
-      "id": "23602",
-      "loja": "Shopee",
-      "titulo": "Rodo de Silicone Cabo 100CM/140CM Para Limpeza de Piso Vidros Com Gancho Secos e Molhados Uso Duplo Vassoura Mágica",
-      "link": "https://s.shopee.com.br/2gBVZxp441",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h8-meyidaptp5agca_tn",
-      "preco": 19.9,
-      "precoDe": 42.34,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T19:44:54.911Z"
-    },
-    {
-      "id": "23598",
-      "loja": "Shopee",
-      "titulo": "Motoserra A Gasolina 80CC Sabre 22 Polegadas 55CM MOTO SERRA Profissional",
-      "link": "https://s.shopee.com.br/80D1vMwFi6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-msvl41oobx1gda_tn",
-      "preco": 489.9,
-      "precoDe": 803.11,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T19:36:50.852Z"
     }
   ]
 }
