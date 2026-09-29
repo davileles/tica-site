@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T20:14:39.090Z",
+  "atualizadoEm": "2026-09-29T20:44:39.169Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -85,6 +85,30 @@
       "observacao": null,
       "validadeAte": "9999-02-23T03:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "ESPORTIVO",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-04T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MAISMODA",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-07T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "AFILIADOS10",
@@ -240,6 +264,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "COMPRA5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -1237,6 +1273,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "C4N4LD4SH0Z4P1010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T20:24:31.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "1010SHO",
