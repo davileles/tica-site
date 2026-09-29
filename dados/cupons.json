@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T15:14:38.852Z",
+  "atualizadoEm": "2026-09-29T15:44:38.632Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -255,6 +255,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "LAB300OFF",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-06T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "VEMZELDA",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "BB200",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -300,6 +336,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ASPIRASEMFIO30",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -387,6 +435,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ATTACKSHARK",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "SACY15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -444,6 +504,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "WAVE15OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -540,6 +612,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "UPGRADECPU",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "UPGRADEMB",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-09-30T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -985,6 +1081,18 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
+    },
+    {
+      "codigo": "5FAVORITOS",
+      "loja": "Oceane",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
       "codigo": "WELCOME15",
