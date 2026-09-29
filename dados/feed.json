@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-09-29T19:44:36.258Z",
+  "atualizadoEm": "2026-09-29T20:14:36.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24083",
+      "loja": "Amazon",
+      "titulo": "Whisky Old Parr 12 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 126.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T20:10:57.863Z"
+    },
+    {
+      "id": "24076",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
+      "preco": 55.239999999999995,
+      "precoDe": 84.9,
+      "desconto": 23,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T20:02:26.901Z"
+    },
+    {
+      "id": "24074",
+      "loja": "Shopee",
+      "titulo": "Manta Canelada Casal Premium Soft 2,00x1,80",
+      "link": "https://s.shopee.com.br/4VdBNAl1Mu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnlvg1tbda8403_tn",
+      "preco": 33.9,
+      "precoDe": 63.96,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T19:58:45.601Z"
+    },
+    {
+      "id": "24073",
+      "loja": "Amazon",
+      "titulo": "Vinho Chileno Pachon Rose 750ml",
+      "link": "https://www.amazon.com.br/dp/B0FPT86D9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Mml40MJXL._SL400_.jpg",
+      "preco": 27.85,
+      "precoDe": 30.94,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T19:55:23.186Z"
+    },
+    {
+      "id": "24069",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/5VViYdHErw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 469,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T19:53:25.696Z"
+    },
+    {
+      "id": "24063",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira furadeira elétrica 1200W furadeira de impacto  martelete rompedor bosch 220V Original",
+      "link": "https://s.shopee.com.br/2Vs6ysYr86",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp4ji8518nwhe2_tn",
+      "preco": 329.26,
+      "precoDe": 645.61,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T19:47:25.028Z"
+    },
     {
       "id": "24059",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-09-29T11:12:43.640Z"
-    },
-    {
-      "id": "23722",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Devil's Carnaval Phenomenal Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CTD1BHC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N+Q8k0lHL._SL400_.jpg",
-      "preco": 32.98,
-      "precoDe": 69.9,
-      "desconto": 44,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T11:09:48.791Z"
-    },
-    {
-      "id": "23721",
-      "loja": "Mercado Livre",
-      "titulo": "Mala 23 Kg Média Sestini Para Despachar De Viagem Resistente",
-      "link": "https://meli.la/1ksAX9u",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963868-MLB117915744915_092026-O.webp",
-      "preco": 419,
-      "precoDe": 699,
-      "desconto": 33,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-29T11:06:00.848Z"
-    },
-    {
-      "id": "23720",
-      "loja": "Shopee",
-      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
-      "link": "https://s.shopee.com.br/7AdvxF8kCw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
-      "preco": 69.9,
-      "precoDe": 120.52,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T11:02:51.669Z"
-    },
-    {
-      "id": "23688",
-      "loja": "Amazon",
-      "titulo": "Vinho Fino Rosé Chileno Santa Loreto Varietal 750ml",
-      "link": "https://www.amazon.com.br/dp/B0D543CTX1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318qjMtTNFL._SL400_.jpg",
-      "preco": 27.57,
-      "precoDe": 40.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T00:30:56.607Z"
-    },
-    {
-      "id": "23687",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
-      "preco": 114.99,
-      "precoDe": 178.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T00:28:19.982Z"
-    },
-    {
-      "id": "23686",
-      "loja": "Mercado Livre",
-      "titulo": "Cervejeira Midea Mdrx150fggdx Frost Free 82L Preto",
-      "link": "https://meli.la/2pzTt8p",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657788-MLA114065064945_072026-F.jpg",
-      "preco": 1540.8,
-      "precoDe": 1793,
-      "desconto": 5,
-      "cupom": "MELIDATADUPLA",
-      "enviadoEm": "2026-09-28T23:51:53.706Z"
     }
   ]
 }
