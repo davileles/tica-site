@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-29T13:15:38.729Z",
+  "atualizadoEm": "2026-09-29T15:14:38.852Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -85,18 +85,6 @@
       "observacao": null,
       "validadeAte": "9999-02-23T03:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "RELOGIO20",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-09-29T15:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "AFILIADOS10",
@@ -900,6 +888,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BEBESEPETS15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em itens de bebês e pets",
+      "validadeAte": "2026-09-30T15:00:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
