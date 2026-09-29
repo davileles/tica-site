@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-29T14:00:42.770Z",
+  "atualizadoEm": "2026-09-29T14:14:35.934Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23873",
+      "loja": "Amazon",
+      "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
+      "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31S4Jlf1aeL._SL400_.jpg",
+      "preco": 56.58,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T14:11:16.473Z"
+    },
+    {
+      "id": "23872",
+      "loja": "Shopee",
+      "titulo": "Cama Pet Sherpa Redonda Antiestresse Caminha Super Macia Inverno Luxo Tamanhos P , M e G",
+      "link": "https://s.shopee.com.br/5LCHya0r4q",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mo02ljo808ox01_tn",
+      "preco": 27.9,
+      "precoDe": 39.86,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T14:07:50.076Z"
+    },
     {
       "id": "23866",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "CUPOMLIBERADO",
       "enviadoEm": "2026-09-28T16:39:29.210Z"
-    },
-    {
-      "id": "23491",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Sacos de Lixo Perfumados Lavanda  10 Litros 160 Sacos Pia e Banheiro 34x38cm Neutraliza Odores",
-      "link": "https://s.shopee.com.br/6L4njbYvVr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyyp9j2nk7bf2_tn",
-      "preco": 27.99,
-      "precoDe": 49.11,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T16:36:05.017Z"
-    },
-    {
-      "id": "23490",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-      "link": "https://meli.la/1zaaibc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-      "preco": 35.91,
-      "precoDe": 64.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T16:32:56.546Z"
     }
   ]
 }
