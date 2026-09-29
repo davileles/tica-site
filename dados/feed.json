@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-29T21:44:36.433Z",
+  "atualizadoEm": "2026-09-29T22:04:49.354Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24131",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/8AWTrsR21D",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m31syvxotyp390_tn",
+      "preco": 24.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T21:54:49.353Z"
+    },
+    {
+      "id": "24129",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
+      "preco": 49.99,
+      "precoDe": 71.67,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T21:45:55.744Z"
+    },
+    {
+      "id": "24128",
+      "loja": "Amazon",
+      "titulo": "Camiseta Retrô Japão Corinthians Coimbra, gola polo listrada, G",
+      "link": "https://www.amazon.com.br/dp/B0G4MZJKX7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i6DQovLBL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 219.99,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T21:45:03.326Z"
+    },
     {
       "id": "24127",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 38,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-29T12:13:58.821Z"
-    },
-    {
-      "id": "23767",
-      "loja": "Mercado Livre",
-      "titulo": "Tenis Mizuno Jet 8 Masculino",
-      "link": "https://meli.la/216jsLk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923785-MLB107391725800_032026-O.webp",
-      "preco": 266.09,
-      "precoDe": 399.99,
-      "desconto": 31,
-      "cupom": "FULL2909",
-      "enviadoEm": "2026-09-29T12:06:05.790Z"
-    },
-    {
-      "id": "23766",
-      "loja": "Amazon",
-      "titulo": "Oxford Aparelho De Jantar 16 Peças Flat Pacífico",
-      "link": "https://www.amazon.com.br/dp/B0CLMYWZBK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31W9Wd+PvOL._SL400_.jpg",
-      "preco": 404.51,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T12:02:45.051Z"
-    },
-    {
-      "id": "23762",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qtE7HMkaL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 27.49,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T11:58:16.952Z"
     }
   ]
 }
