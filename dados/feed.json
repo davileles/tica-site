@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-29T14:26:05.167Z",
+  "atualizadoEm": "2026-09-29T14:44:35.957Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23884",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/1gIzdtyVof",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T14:37:24.407Z"
+    },
+    {
+      "id": "23883",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+      "link": "https://s.shopee.com.br/80D3B2iWXz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539_tn",
+      "preco": 70.99,
+      "precoDe": 262.93,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T14:30:14.870Z"
+    },
     {
       "id": "23878",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 47,
       "cupom": "DIADACRIANCA",
       "enviadoEm": "2026-09-28T16:47:55.461Z"
-    },
-    {
-      "id": "23498",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Jogo De Ferramentas 142 Peças Fasterr Com Maleta",
-      "link": "https://meli.la/1FC5bZJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944743-MLA99871128121_112025-F.jpg",
-      "preco": 54.32000000000001,
-      "precoDe": 89.9,
-      "desconto": 24,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-28T16:46:40.549Z"
-    },
-    {
-      "id": "23497",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Feminino L' Eau de Parfum Fragrância Floral Gourmand Inebriante com Notas de Íris Nobre, Baunilha e Pralinê La Vie Est Belle Lancôme, Frasco com 100ml",
-      "link": "https://meli.la/26AyQB8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774774-MLA93502236706_102025-F.jpg",
-      "preco": 617.49,
-      "precoDe": 1129,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T16:43:36.018Z"
     }
   ]
 }
