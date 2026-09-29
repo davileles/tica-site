@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-29T12:19:06.739Z",
+  "atualizadoEm": "2026-09-29T12:48:06.751Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "23820",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Max Titanium em pó Sem sabor x 300g 2 un",
+      "link": "https://meli.la/27QyFV9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776821-MLA99365251528_112025-F.jpg",
+      "preco": 72.07,
+      "precoDe": 179,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T12:47:41.185Z"
+    },
+    {
+      "id": "23812",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Xiaomi Poco X7 Pro 5g 512gb/12gb Ram Nfc Preto",
+      "link": "https://meli.la/2LN3Sx4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941966-MLB116855953600_092026-O.webp",
+      "preco": 2023,
+      "precoDe": 3298,
+      "desconto": 33,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T12:44:11.165Z"
+    },
+    {
+      "id": "23800",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
+      "link": "https://meli.la/2zQjrgA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-F.jpg",
+      "preco": 898.2,
+      "precoDe": 1499,
+      "desconto": 33,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T12:40:20.404Z"
+    },
+    {
+      "id": "23797",
+      "loja": "Amazon",
+      "titulo": "Oxford Aparelho De Jantar 20 Peças Ryo Blue Bay",
+      "link": "https://www.amazon.com.br/dp/B09LWXW88K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uN3a-3xxL._SL400_.jpg",
+      "preco": 278.71,
+      "precoDe": 386.9,
+      "desconto": 15,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-29T12:37:08.071Z"
+    },
+    {
+      "id": "23796",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Daily T-shirt Feminino - Gênero Feminino",
+      "link": "https://meli.la/1ARRVVW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676985-MLB88652710155_072025-O.webp",
+      "preco": 125.53000000000002,
+      "precoDe": 435,
+      "desconto": 59,
+      "cupom": "DESCONTOMELI",
+      "enviadoEm": "2026-09-29T12:33:30.967Z"
+    },
+    {
+      "id": "23792",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Preto Havit Gamenote Fuxi-h6 - Black",
+      "link": "https://meli.la/1gNwAvf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947213-MLA99416728000_112025-F.jpg",
+      "preco": 179.19,
+      "precoDe": 269,
+      "desconto": 26,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T12:29:55.167Z"
+    },
+    {
+      "id": "23790",
+      "loja": "Shopee",
+      "titulo": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
+      "link": "https://s.shopee.com.br/8fSjoqDhbY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf_tn",
+      "preco": 12.73,
+      "precoDe": 31.83,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T12:25:53.248Z"
+    },
+    {
+      "id": "23789",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Branco Havit Gamenote Fuxi-h6 - White Branco",
+      "link": "https://meli.la/15Ma424",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLA110916088979_042026-F.jpg",
+      "preco": 167.4,
+      "precoDe": 249,
+      "desconto": 25,
+      "cupom": "HOJEVAI",
+      "enviadoEm": "2026-09-29T12:22:06.410Z"
+    },
     {
       "id": "23773",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-28T14:58:38.404Z"
-    },
-    {
-      "id": "23449",
-      "loja": "Mercado Livre",
-      "titulo": "Andador Empurrador Infantil Musical Educativo Azul Yuupi",
-      "link": "https://meli.la/2LRcA3X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756140-MLA96197553408_102025-F.jpg",
-      "preco": 79.89,
-      "precoDe": 170.9,
-      "desconto": 45,
-      "cupom": "DIADACRIANCA",
-      "enviadoEm": "2026-09-28T14:57:49.265Z"
-    },
-    {
-      "id": "23446",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Mc Trainer 3 Masculino",
-      "link": "https://meli.la/1vwAQPW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_623887-MLB100241409643_122025-O.webp",
-      "preco": 332.49,
-      "precoDe": 499.99,
-      "desconto": 24,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T14:56:41.742Z"
-    },
-    {
-      "id": "23445",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
-      "preco": 92.02,
-      "precoDe": 140.45,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T14:51:18.771Z"
-    },
-    {
-      "id": "23444",
-      "loja": "Mercado Livre",
-      "titulo": "Burigotto Banheira Millenia, Mon Amour",
-      "link": "https://meli.la/2GEnWNC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686412-MLA95495497356_102025-F.jpg",
-      "preco": 369,
-      "precoDe": 499,
-      "desconto": 16,
-      "cupom": "DIADACRIANCA",
-      "enviadoEm": "2026-09-28T14:50:11.612Z"
-    },
-    {
-      "id": "23443",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B07XWX898Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51il8rT6f+L._SL400_.jpg",
-      "preco": 31.16,
-      "precoDe": 41.96,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T14:49:14.790Z"
-    },
-    {
-      "id": "23439",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-      "link": "https://meli.la/1sB5EE2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747746-MLB114087021168_072026-O.webp",
-      "preco": 111.51,
-      "precoDe": 289.99,
-      "desconto": 53,
-      "cupom": "CUPOMLIBERADO",
-      "enviadoEm": "2026-09-28T14:41:58.311Z"
-    },
-    {
-      "id": "23435",
-      "loja": "Shopee",
-      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
-      "link": "https://s.shopee.com.br/8AWRmyhiul",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mry50y1zr1mo61_tn",
-      "preco": 15.58,
-      "precoDe": 26.86,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T14:37:57.546Z"
-    },
-    {
-      "id": "23432",
-      "loja": "Amazon",
-      "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-      "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nP8EFUzHS._SL400_.jpg",
-      "preco": 59.86,
-      "precoDe": 100.24,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-28T14:32:41.353Z"
     }
   ]
 }
