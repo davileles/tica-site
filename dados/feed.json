@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-29T22:04:49.354Z",
+  "atualizadoEm": "2026-09-29T22:14:36.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24134",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B001HUBXJO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41j33+YOTPL._SL400_.jpg",
+      "preco": 79.99,
+      "precoDe": 149.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-29T22:08:04.186Z"
+    },
     {
       "id": "24131",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-09-29T12:17:46.057Z"
-    },
-    {
-      "id": "23771",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Rosé 750ml",
-      "link": "https://www.amazon.com.br/dp/B015Z9RX6E?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311bk+lVjtL._SL400_.jpg",
-      "preco": 39.01,
-      "precoDe": 73.99,
-      "desconto": 38,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T12:13:58.821Z"
     }
   ]
 }
