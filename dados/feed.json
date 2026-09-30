@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T18:17:10.261Z",
+  "atualizadoEm": "2026-09-30T18:24:35.290Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24440",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
+      "preco": 77.76,
+      "precoDe": 105.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T18:21:03.319Z"
+    },
+    {
+      "id": "24439",
+      "loja": "Mercado Livre",
+      "titulo": "Vitamina C 120 Cápsulas Growth Supplements Natural",
+      "link": "https://meli.la/31xJYpR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973855-MLA112115430468_062026-F.jpg",
+      "preco": 26.57,
+      "precoDe": 39.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T18:19:51.247Z"
+    },
     {
       "id": "24434",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-09-29T19:47:25.028Z"
-    },
-    {
-      "id": "24059",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Pedagógico Montessori 44 peças",
-      "link": "https://meli.la/2xms8Vf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632492-MLB101401227355_122025-O.webp",
-      "preco": 54.12,
-      "precoDe": 78.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T19:40:10.748Z"
-    },
-    {
-      "id": "24058",
-      "loja": "Shopee",
-      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "link": "https://s.shopee.com.br/50ZRwXvUzg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
-      "preco": 24.99,
-      "precoDe": 32.04,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T19:36:17.334Z"
     }
   ]
 }
