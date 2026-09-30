@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-30T13:50:05.812Z",
+  "atualizadoEm": "2026-09-30T14:20:05.812Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24281",
+      "loja": "Amazon",
+      "titulo": "Achocolatado em Pó Nescau 550G",
+      "link": "https://www.amazon.com.br/dp/B095JHD5GW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41h24TtXk-L._SL400_.jpg",
+      "preco": 10.59,
+      "precoDe": 17.29,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:18:16.898Z"
+    },
+    {
+      "id": "24275",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/8Kpv9Al1d1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:10:40.808Z"
+    },
+    {
+      "id": "24274",
+      "loja": "Amazon",
+      "titulo": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+      "link": "https://www.amazon.com.br/dp/B09JZSPQCM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JEE11dcfL._SL400_.jpg",
+      "preco": 28.7,
+      "precoDe": 55.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:04:25.516Z"
+    },
+    {
+      "id": "24272",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910476-MLB113033587620_072026-O.webp",
+      "preco": 48.49,
+      "precoDe": 109.99,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:03:18.827Z"
+    },
+    {
+      "id": "24271",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Professionnel Absolut Repair, Óleo de Tratamento Capilar Leave-in Multi-Benefícios 10 em 1, Cabelos Secos e Danificados, Proteína e Óleo de Proteína de Trigo, 30ml",
+      "link": "https://www.amazon.com.br/dp/B0CPYDJLH2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mcQPVBk2L._SL400_.jpg",
+      "preco": 64.07,
+      "precoDe": 84.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T13:58:40.419Z"
+    },
     {
       "id": "24267",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-09-29T15:02:03.211Z"
-    },
-    {
-      "id": "23887",
-      "loja": "Amazon",
-      "titulo": "Urbano Macarrão de Arroz Personagens Kids 500g",
-      "link": "https://www.amazon.com.br/dp/B0C9ZCY3MZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41z1+LoY+hL._SL400_.jpg",
-      "preco": 7.34,
-      "precoDe": 14.3,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:57:27.505Z"
-    },
-    {
-      "id": "23886",
-      "loja": "Shopee",
-      "titulo": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "link": "https://s.shopee.com.br/1BMj41w5ZY",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22_tn",
-      "preco": 21.52,
-      "precoDe": 37.75,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:52:46.493Z"
-    },
-    {
-      "id": "23884",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/1gIzdtyVof",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:37:24.407Z"
-    },
-    {
-      "id": "23883",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "link": "https://s.shopee.com.br/80D3B2iWXz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539_tn",
-      "preco": 70.99,
-      "precoDe": 262.93,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:30:14.870Z"
-    },
-    {
-      "id": "23878",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete Líquido Glicerinado Bebê, 250ml",
-      "link": "https://www.amazon.com.br/dp/B000VWJMW4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sndHqhbFL._SL400_.jpg",
-      "preco": 19.99,
-      "precoDe": 28,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:16:05.166Z"
     }
   ]
 }
