@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T03:14:36.914Z",
+  "atualizadoEm": "2026-09-30T03:44:36.987Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -60,6 +60,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T11:27:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "ASSADOR15",
+      "loja": "Brinox Shop",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
