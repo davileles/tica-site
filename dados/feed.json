@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T22:53:35.677Z",
+  "atualizadoEm": "2026-09-30T23:09:45.901Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24596",
+      "loja": "Amazon",
+      "titulo": "Smirnoff Vodka Nº 21 998ml",
+      "link": "https://www.amazon.com.br/dp/B07R1GV92N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kAcpmzjOL._SL400_.jpg",
+      "preco": 30.9,
+      "precoDe": 43.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:59:45.898Z"
+    },
     {
       "id": "24595",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-30T13:20:36.455Z"
-    },
-    {
-      "id": "24252",
-      "loja": "Mercado Livre",
-      "titulo": "Almofada Assento de Elevação",
-      "link": "https://meli.la/2XSVSHe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912964-MLB47435327301_092021-O.webp",
-      "preco": 33.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-09-30T13:01:25.971Z"
     }
   ]
 }
