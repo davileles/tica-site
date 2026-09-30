@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-30T20:23:35.620Z",
+  "atualizadoEm": "2026-09-30T20:52:23.998Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24549",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Circular 7.1/4 1500w CS1024-B2 Black + Decker",
+      "link": "https://meli.la/2hPzCtT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_873347-MLA99452134066_112025-F.jpg",
+      "preco": 699,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T20:42:23.997Z"
+    },
+    {
+      "id": "24546",
+      "loja": "Shopee",
+      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
+      "link": "https://s.shopee.com.br/113KqAaURI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
+      "preco": 38,
+      "precoDe": 44.71,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T20:35:42.585Z"
+    },
+    {
+      "id": "24545",
+      "loja": "Mercado Livre",
+      "titulo": "Mesa Para Escritório Diretor 1,80m Dynamica Cor Preto Ônix / Est.Preta",
+      "link": "https://meli.la/2c3Xaxu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957476-MLA95686193164_102025-F.jpg",
+      "preco": 328.7,
+      "precoDe": 677.03,
+      "desconto": 43,
+      "cupom": "MLMELHOROFERTA",
+      "enviadoEm": "2026-09-30T20:32:02.405Z"
+    },
+    {
+      "id": "24540",
+      "loja": "Mercado Livre",
+      "titulo": "Mesa Escritório Industrial 150x60 Estrutura Ferro Reforçado Home Office",
+      "link": "https://meli.la/2feuPus",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927695-MLA112999621854_072026-F.jpg",
+      "preco": 173.60000000000002,
+      "precoDe": 299,
+      "desconto": 29,
+      "cupom": "MLMELHOROFERTA",
+      "enviadoEm": "2026-09-30T20:28:36.784Z"
+    },
     {
       "id": "24538",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 7,
       "cupom": null,
       "enviadoEm": "2026-09-30T11:23:03.194Z"
-    },
-    {
-      "id": "24174",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51J0vmQJEoL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 182.45,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T11:21:57.786Z"
-    },
-    {
-      "id": "24173",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 182.48,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T11:21:05.109Z"
-    },
-    {
-      "id": "24172",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 124 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0848FMW1W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51f-5WBgIvL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 182.48,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T11:20:00.321Z"
-    },
-    {
-      "id": "24164",
-      "loja": "Shopee",
-      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
-      "link": "https://s.shopee.com.br/2qUyOBBwMN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
-      "preco": 13.25,
-      "precoDe": 28.19,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T11:03:24.774Z"
     }
   ]
 }
