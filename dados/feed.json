@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T21:33:45.576Z",
+  "atualizadoEm": "2026-09-30T21:53:35.674Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24579",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Angular 4.1/2 Pol 700w Gws 700 Bosch",
+      "link": "https://meli.la/1Kh4fyR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682410-MLA99966959247_112025-F.jpg",
+      "preco": 247.44,
+      "precoDe": 339.9,
+      "desconto": 9,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T21:44:24.615Z"
+    },
+    {
+      "id": "24578",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/50ZTgAsRnH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 16.99,
+      "precoDe": 22.36,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T21:43:38.993Z"
+    },
     {
       "id": "24573",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "MELHORPROMOHJ",
       "enviadoEm": "2026-09-30T12:20:44.110Z"
-    },
-    {
-      "id": "24200",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/8V9LDR5mLy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 32.2,
-      "precoDe": 33.89,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T12:14:42.028Z"
-    },
-    {
-      "id": "24199",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A57 5g 128gb, 8gb Ram, Câmera 50mp, Ip68, Super Amoled 6.7 , Recursos Ai - Azul Escuro",
-      "link": "https://meli.la/1fSZjdt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934688-MLA116690772295_082026-F.jpg",
-      "preco": 1709.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T12:11:03.137Z"
     }
   ]
 }
