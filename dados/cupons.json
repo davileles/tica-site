@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T19:12:42.579Z",
+  "atualizadoEm": "2026-09-30T19:53:38.587Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -312,6 +312,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-04T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DIGITA200OFF",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-02T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1117,6 +1129,18 @@
       "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
       "validadeAte": "2026-10-01T18:00:03.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "KID50",
+      "loja": "Mizuno",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
     },
     {
       "codigo": "Cliente20",
