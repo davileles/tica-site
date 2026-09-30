@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-09-30T19:23:35.594Z",
+  "atualizadoEm": "2026-09-30T19:53:35.595Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24509",
+      "loja": "Shopee",
+      "titulo": "Mix Misturador Cafe Bebidas Batedor De Ovos Automático Elétrico Inox",
+      "link": "https://s.shopee.com.br/7VGoWooh88",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxs2z7sqzut5f_tn",
+      "preco": 10.88,
+      "precoDe": 40.3,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:47:50.329Z"
+    },
+    {
+      "id": "24504",
+      "loja": "Amazon",
+      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
+      "preco": 21.93,
+      "precoDe": 49.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:39:39.057Z"
+    },
+    {
+      "id": "24503",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Tabasco 750ml",
+      "link": "https://www.amazon.com.br/dp/B0F6B9J986?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NnJstSriL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 117.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:38:28.147Z"
+    },
+    {
+      "id": "24502",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Jogo De Ferramentas Completo C/ Soquetes Chaves Aço Crv Cinza",
+      "link": "https://meli.la/1CmsdPS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757303-MLA100212647277_122025-F.jpg",
+      "preco": 87.92,
+      "precoDe": 169.9,
+      "desconto": 35,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T19:37:24.889Z"
+    },
+    {
+      "id": "24501",
+      "loja": "Amazon",
+      "titulo": "VERSACE 741007 Eros Flame - Perfume Masculino, Eau de Parfum, 30 Ml",
+      "link": "https://www.amazon.com.br/dp/B07K2D9FWW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51bmMqUuj6L._SL400_.jpg",
+      "preco": 284,
+      "precoDe": 479,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:36:16.718Z"
+    },
+    {
+      "id": "24488",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
+      "preco": 51.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:26:29.200Z"
+    },
+    {
+      "id": "24487",
+      "loja": "Shopee",
+      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "link": "https://s.shopee.com.br/113KlKPc6B",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqxmdp0mir5y37_tn",
+      "preco": 24.2,
+      "precoDe": 29.51,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:25:15.208Z"
+    },
     {
       "id": "24482",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-09-29T21:45:03.326Z"
-    },
-    {
-      "id": "24127",
-      "loja": "Shopee",
-      "titulo": "Pistola De Cola Quente Bivolt 10w + 10, 20 ou 30 Bastões De Cola Revolver (110v e 220v) Profissional",
-      "link": "https://s.shopee.com.br/9V1rRUC5ut",
-      "imagem": "https://cf.shopee.com.br/file/e66d544521b287be5b25ba87de5740c7_tn",
-      "preco": 19.99,
-      "precoDe": 55.53,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:40:10.167Z"
-    },
-    {
-      "id": "24126",
-      "loja": "Shopee",
-      "titulo": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
-      "link": "https://s.shopee.com.br/3B7nt7sNkr",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdym-lxrzfhio6fhl9d_tn",
-      "preco": 45.88,
-      "precoDe": 169.93,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:32:09.073Z"
-    },
-    {
-      "id": "24121",
-      "loja": "Shopee",
-      "titulo": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
-      "link": "https://s.shopee.com.br/AKayOZ08FG",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f_tn",
-      "preco": 42.99,
-      "precoDe": 116.19,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:09:33.447Z"
-    },
-    {
-      "id": "24120",
-      "loja": "Shopee",
-      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
-      "link": "https://s.shopee.com.br/3VkeFf3h4V",
-      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
-      "preco": 149.9,
-      "precoDe": 267.68,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:05:51.969Z"
-    },
-    {
-      "id": "24119",
-      "loja": "Amazon",
-      "titulo": "Cerveja Baden Baden IPA, Lata 350ml, Pack com 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0F695MQ9K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41w+y3PfDKL._SL400_.jpg",
-      "preco": 31.129999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T21:02:40.056Z"
-    },
-    {
-      "id": "24118",
-      "loja": "Amazon",
-      "titulo": "Churrasqueira Elétrica De Mesa Bbq Show Elgin 110V Com controle de temperatura, bandeja anti-fumaça e grelha removível",
-      "link": "https://www.amazon.com.br/dp/B0BLSZW19L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cRKHi-hnL._SL400_.jpg",
-      "preco": 87.5,
-      "precoDe": 129,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:58:41.625Z"
-    },
-    {
-      "id": "24116",
-      "loja": "Amazon",
-      "titulo": "Bancada Penteadeira Infantil 3 em 1 Maleta 21 Peça Maxi Toys",
-      "link": "https://www.amazon.com.br/dp/B0FQG8WBGZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dhYcfYu4L._SL400_.jpg",
-      "preco": 66.4,
-      "precoDe": 129.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:55:27.676Z"
     }
   ]
 }
