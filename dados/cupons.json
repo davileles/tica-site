@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T17:17:12.765Z",
+  "atualizadoEm": "2026-09-30T17:47:12.664Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -276,6 +276,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-06T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "LU300OFF",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-04T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -564,6 +576,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "COMPRASWITCH",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -936,6 +960,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MLMELHOROFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
+      "validadeAte": "2026-10-01T17:17:59.605Z",
       "url": "https://meli.la/2xystLt"
     },
     {
