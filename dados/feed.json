@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-30T14:48:09.711Z",
+  "atualizadoEm": "2026-09-30T15:17:09.776Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24306",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Alumínio Doméstica 5 Degraus Mor Reforçada Mor Cor Cinza/azul",
+      "link": "https://meli.la/2XXajnG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846655-MLA79899262734_102024-F.jpg",
+      "preco": 197.59,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T15:13:36.933Z"
+    },
+    {
+      "id": "24305",
+      "loja": "Amazon",
+      "titulo": "Lola From Rio Óleo Reparador Morte Súbita 50ml",
+      "link": "https://www.amazon.com.br/dp/B0H4RKHSKM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LSlFabvFL._SL400_.jpg",
+      "preco": 29.89,
+      "precoDe": 39.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:12:43.139Z"
+    },
+    {
+      "id": "24303",
+      "loja": "Amazon",
+      "titulo": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
+      "link": "https://www.amazon.com.br/dp/B08R93TVRG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410UriYRE2L._SL400_.jpg",
+      "preco": 399,
+      "precoDe": 1199.9,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:05:43.388Z"
+    },
+    {
+      "id": "24302",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Calça Pantalona Feminina Alfaiataria Elegante C/ Cinto",
+      "link": "https://meli.la/1Rs1PtQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900415-MLB113922004885_062026-O.webp",
+      "preco": 58.86,
+      "precoDe": 127.97,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:02:15.412Z"
+    },
+    {
+      "id": "24298",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/1AnH0LZgx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.99,
+      "precoDe": 29.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:56:09.752Z"
+    },
     {
       "id": "24297",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-09-29T15:39:48.193Z"
-    },
-    {
-      "id": "23915",
-      "loja": "Mercado Livre",
-      "titulo": "Adega De Vinhos Brastemp Para 12 Garrafas Com Painel Touch BZC12BE Preto",
-      "link": "https://meli.la/2gRF2g5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913759-MLA99991718745_112025-F.jpg",
-      "preco": 775.5400000000001,
-      "precoDe": 1169,
-      "desconto": 26,
-      "cupom": "HOJEVAI",
-      "enviadoEm": "2026-09-29T15:33:20.706Z"
-    },
-    {
-      "id": "23913",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Sb Chron 2 Canvas Unissex",
-      "link": "https://meli.la/13Fs73i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877406-MLB100877567309_122025-O.webp",
-      "preco": 183.10999999999996,
-      "precoDe": 449.99,
-      "desconto": 42,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-29T15:30:26.729Z"
-    },
-    {
-      "id": "23911",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/6fhfeJmgKi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 54.31,
-      "precoDe": 73.39,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:26:55.331Z"
-    },
-    {
-      "id": "23910",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Pares Meias Lupo Cano Médio Original Esportiva",
-      "link": "https://meli.la/1nJ6sjM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742664-MLB108718429802_032026-O.webp",
-      "preco": 35.42,
-      "precoDe": 103.1,
-      "desconto": 51,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-29T15:23:24.297Z"
-    },
-    {
-      "id": "23908",
-      "loja": "Mercado Livre",
-      "titulo": "Barra de Proteína Integralmédica Crisp Bar sabor Ovomaltine x 45g de 12 un",
-      "link": "https://meli.la/2oUdmGb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729089-MLA99448469320_112025-F.jpg",
-      "preco": 89.39,
-      "precoDe": 154.8,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:20:15.113Z"
     }
   ]
 }
