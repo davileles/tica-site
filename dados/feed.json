@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-30T19:53:35.595Z",
+  "atualizadoEm": "2026-09-30T20:23:35.620Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24538",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto By Total 20v Brushless 66 Azul",
+      "link": "https://meli.la/19wv3EQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747869-MLA111138424404_052026-F.jpg",
+      "preco": 296,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T20:22:12.497Z"
+    },
+    {
+      "id": "24537",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Escritório Ergonômica Python Fly B07 Cinza Com Suporte Lombar",
+      "link": "https://meli.la/145dbU4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655101-MLA114169346640_082026-F.jpg",
+      "preco": 339,
+      "precoDe": 749.99,
+      "desconto": 47,
+      "cupom": "MLMELHOROFERTA",
+      "enviadoEm": "2026-09-30T20:21:21.587Z"
+    },
+    {
+      "id": "24528",
+      "loja": "Shopee",
+      "titulo": "Serra Mármore 1200w Profissional Corta Piso Granito Ceramica Ferro Madeira Concreto Potente Tipo Makita Com Disco 110/22",
+      "link": "https://s.shopee.com.br/8V9LkK4fc8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd60-lu6rvlcndr8pa1_tn",
+      "preco": 183.9,
+      "precoDe": 346.98,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T20:14:30.251Z"
+    },
+    {
+      "id": "24527",
+      "loja": "Shopee",
+      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+      "link": "https://s.shopee.com.br/1qcRnx29Ev",
+      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
+      "preco": 14.84,
+      "precoDe": 40.11,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T20:13:15.699Z"
+    },
+    {
+      "id": "24526",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível Cinto de Segurança Apoio para Pés",
+      "link": "https://www.amazon.com.br/dp/B0H1TKF1P3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WFm-7CJjL._SL400_.jpg",
+      "preco": 179.01,
+      "precoDe": 219.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T20:09:47.201Z"
+    },
+    {
+      "id": "24524",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola Fixação Finca Pino Ação Direta Pregos Epi Maleta Pinador Pregador Grampeador Rebitador De Prego Pressão Ferramenta Para Drywal Gesso Concreto Aço Parede",
+      "link": "https://meli.la/2uEShnS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833076-MLA114779276944_082026-F.jpg",
+      "preco": 55.989999999999995,
+      "precoDe": 199.99,
+      "desconto": 65,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T20:06:19.902Z"
+    },
+    {
+      "id": "24519",
+      "loja": "Mercado Livre",
+      "titulo": "Caminhão Dinossauro Pista Com Carrinhos Maleta Transporte Cor Azul",
+      "link": "https://meli.la/1ZFAYNE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_983572-MLA99489106572_112025-F.jpg",
+      "preco": 80.66,
+      "precoDe": 309,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T20:01:02.334Z"
+    },
+    {
+      "id": "24518",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira De Impacto 1/4 (6,35 Mm) 16v 170 Tramontina",
+      "link": "https://meli.la/1oqffD4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998645-MLA111079767274_052026-F.jpg",
+      "preco": 582.74,
+      "precoDe": 810,
+      "desconto": 16,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T19:57:38.410Z"
+    },
     {
       "id": "24509",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-09-30T11:03:24.774Z"
-    },
-    {
-      "id": "24159",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Merlot 750ml",
-      "link": "https://www.amazon.com.br/dp/B01IT28KG6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31swx27vAbL._SL400_.jpg",
-      "preco": 39.27,
-      "precoDe": 73.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T10:37:42.928Z"
-    },
-    {
-      "id": "24141",
-      "loja": "Shopee",
-      "titulo": "Termômetro De Testa Infravermelha Digital",
-      "link": "https://s.shopee.com.br/1VzZyjZyZd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
-      "preco": 26.89,
-      "precoDe": 122.23,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T22:40:13.151Z"
-    },
-    {
-      "id": "24140",
-      "loja": "Shopee",
-      "titulo": "Plaina Elétrica 82mm Industrial Manual 750W Profissional TPLA750 Trato",
-      "link": "https://s.shopee.com.br/4LJlLmpMi8",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-lz0mjjy7mb1ede_tn",
-      "preco": 189.87,
-      "precoDe": 271.24,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T22:35:25.743Z"
-    },
-    {
-      "id": "24136",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
-      "link": "https://s.shopee.com.br/2gBXLJe3am",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
-      "preco": 19.9,
-      "precoDe": 49.75,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T22:17:30.810Z"
-    },
-    {
-      "id": "24134",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B001HUBXJO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41j33+YOTPL._SL400_.jpg",
-      "preco": 79.99,
-      "precoDe": 149.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T22:08:04.186Z"
-    },
-    {
-      "id": "24131",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/8AWTrsR21D",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m31syvxotyp390_tn",
-      "preco": 24.79,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:54:49.353Z"
-    },
-    {
-      "id": "24129",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cr+Y+sGyL._SL400_.jpg",
-      "preco": 49.99,
-      "precoDe": 71.67,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:45:55.744Z"
-    },
-    {
-      "id": "24128",
-      "loja": "Amazon",
-      "titulo": "Camiseta Retrô Japão Corinthians Coimbra, gola polo listrada, G",
-      "link": "https://www.amazon.com.br/dp/B0G4MZJKX7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41i6DQovLBL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 219.99,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T21:45:03.326Z"
     }
   ]
 }
