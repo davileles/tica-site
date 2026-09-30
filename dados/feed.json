@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T13:34:32.375Z",
+  "atualizadoEm": "2026-09-30T13:50:05.812Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24267",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "link": "https://s.shopee.com.br/20vrZw9bAk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
+      "preco": 45.99,
+      "precoDe": 99.98,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T13:47:42.841Z"
+    },
+    {
+      "id": "24265",
+      "loja": "Amazon",
+      "titulo": "3 Corações Cápsulas de Café Mogiana Paulista, Compatíveis com Nespresso, contém 10 cápsulas",
+      "link": "https://www.amazon.com.br/dp/B0BXFMP8W6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41AH+d5R0lL._SL400_.jpg",
+      "preco": 14.61,
+      "precoDe": 22.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T13:39:37.600Z"
+    },
     {
       "id": "24263",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-09-29T14:16:05.166Z"
-    },
-    {
-      "id": "23874",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/9V1qwdEtdQ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:14:51.262Z"
-    },
-    {
-      "id": "23873",
-      "loja": "Amazon",
-      "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
-      "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31S4Jlf1aeL._SL400_.jpg",
-      "preco": 56.58,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T14:11:16.473Z"
     }
   ]
 }
