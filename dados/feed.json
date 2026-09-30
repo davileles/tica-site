@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-30T21:53:35.674Z",
+  "atualizadoEm": "2026-09-30T22:22:09.063Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24587",
+      "loja": "Amazon",
+      "titulo": "Vinho Chileno Le Prince Neymar Jr 750ml (Sauv Blanc)",
+      "link": "https://www.amazon.com.br/dp/B0H8ZT7K6S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3107jAtDaKL._SL400_.jpg",
+      "preco": 47.4,
+      "precoDe": 59.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:12:09.062Z"
+    },
+    {
+      "id": "24586",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
+      "preco": 41.31,
+      "precoDe": 72.65,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:09:43.271Z"
+    },
+    {
+      "id": "24585",
+      "loja": "Shopee",
+      "titulo": "Soprador Térmico 2000w Duas temperatura até 550 °C",
+      "link": "https://s.shopee.com.br/70KY5TsdYm",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hy-mfcvwj8na6tld3_tn",
+      "preco": 95,
+      "precoDe": 100,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:08:36.372Z"
+    },
+    {
+      "id": "24584",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Jogo De Ferramentas 300 Peças C/ Maleta Multiuso + Epis",
+      "link": "https://meli.la/21GwnWr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777231-MLA102631505308_122025-O.webp",
+      "preco": 61.22,
+      "precoDe": 121.39,
+      "desconto": 37,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T22:07:25.878Z"
+    },
+    {
+      "id": "24583",
+      "loja": "Shopee",
+      "titulo": "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
+      "link": "https://s.shopee.com.br/5q8ahGgxS1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw9-lzabd7yd64ru41_tn",
+      "preco": 49.88,
+      "precoDe": 151.15,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:06:25.383Z"
+    },
     {
       "id": "24579",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 8,
       "cupom": "MELHORPROMOHJ",
       "enviadoEm": "2026-09-30T12:40:42.088Z"
-    },
-    {
-      "id": "24230",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/3B7otHg4lV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.62,
-      "precoDe": 34.92,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T12:37:36.528Z"
-    },
-    {
-      "id": "24222",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Crucial Cb8gu4800 Udimm, Ddr5, 8gb, 4800mhz",
-      "link": "https://meli.la/1sRtd2x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975373-MLA99505902790_112025-F.jpg",
-      "preco": 765,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T12:33:12.894Z"
-    },
-    {
-      "id": "24220",
-      "loja": "Mercado Livre",
-      "titulo": "Placa mãe Gigabyte Ultra Durable A520M K V2",
-      "link": "https://meli.la/21Ejtd4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709426-MLA112774973926_062026-F.jpg",
-      "preco": 328.57,
-      "precoDe": 610,
-      "desconto": 40,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T12:29:16.782Z"
-    },
-    {
-      "id": "24217",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
-      "link": "https://meli.la/2vubPzL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-F.jpg",
-      "preco": 1099,
-      "precoDe": 1855.71,
-      "desconto": 30,
-      "cupom": "SITE200",
-      "enviadoEm": "2026-09-30T12:23:53.135Z"
-    },
-    {
-      "id": "24214",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Gigabyte 25 Fhd 200hz 1ms Ips Vrr Freesync",
-      "link": "https://meli.la/2dNkTHm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939972-MLB116827569054_092026-O.webp",
-      "preco": 649.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T12:20:44.110Z"
     }
   ]
 }
