@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T18:53:35.591Z",
+  "atualizadoEm": "2026-09-30T19:12:39.959Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24476",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/6q17gVFr8R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:02:39.958Z"
+    },
+    {
+      "id": "24473",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+      "link": "https://meli.la/2DcuUX3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_627065-MLB109020200579_032026-O.webp",
+      "preco": 89.08999999999999,
+      "precoDe": 229.99,
+      "desconto": 57,
+      "cupom": "RESGATE O CUPOM NA PÁGINA DO PRODUTO",
+      "enviadoEm": "2026-09-30T18:59:16.988Z"
+    },
     {
       "id": "24468",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-09-29T20:45:04.749Z"
-    },
-    {
-      "id": "24110",
-      "loja": "Shopee",
-      "titulo": "Protetor De Porta Aluminio Vedação Anti-Inchaço Veda Porta Salva Porta",
-      "link": "https://s.shopee.com.br/905amY93Xy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5xvdicw783e_tn",
-      "preco": 25.42,
-      "precoDe": 29.91,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:44:08.918Z"
-    },
-    {
-      "id": "24108",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/9KiQYnvy4v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 64.9,
-      "precoDe": 110,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:39:09.056Z"
     }
   ]
 }
