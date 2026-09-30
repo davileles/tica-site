@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-09-30T15:17:09.776Z",
+  "atualizadoEm": "2026-09-30T15:47:09.827Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24317",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
+      "link": "https://s.shopee.com.br/8V9LRqwcwX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
+      "preco": 19.99,
+      "precoDe": 68.93,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:43:17.264Z"
+    },
+    {
+      "id": "24316",
+      "loja": "Amazon",
+      "titulo": "Picarón Vinho Cabernet Sauvignon 750Ml",
+      "link": "https://www.amazon.com.br/dp/B09WPRPPC3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-tP5s1kL._SL400_.jpg",
+      "preco": 25.41,
+      "precoDe": 39.9,
+      "desconto": 25,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-09-30T15:34:11.541Z"
+    },
+    {
+      "id": "24315",
+      "loja": "Amazon",
+      "titulo": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
+      "link": "https://www.amazon.com.br/dp/B0DHLFGNMM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LT7ZhC18L._SL400_.jpg",
+      "preco": 133.99,
+      "precoDe": 249.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:28:25.307Z"
+    },
+    {
+      "id": "24313",
+      "loja": "Shopee",
+      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
+      "link": "https://s.shopee.com.br/2gBYTRzBDj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
+      "preco": 20.7,
+      "precoDe": 20.91,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T15:20:39.189Z"
+    },
     {
       "id": "24306",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-09-29T15:55:33.885Z"
-    },
-    {
-      "id": "23931",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Acer Nitro 23.8\" KG240Y W3BIIP LED FHD 1 ms 240 Hz",
-      "link": "https://meli.la/1WWyEjV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_767084-MLA116705734366_092026-F.jpg",
-      "preco": 629.3699999999999,
-      "precoDe": 1388,
-      "desconto": 50,
-      "cupom": "HOJEVAI",
-      "enviadoEm": "2026-09-29T15:52:29.669Z"
-    },
-    {
-      "id": "23930",
-      "loja": "Mercado Livre",
-      "titulo": "Lampada Led Pera Smart Inteligente Wi Fi 10w 2700K/6500K E27 110v/220v Cod:290018079 Neo Avant",
-      "link": "https://meli.la/1fG3XTu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613521-MLA112442225479_052026-F.jpg",
-      "preco": 22.9,
-      "precoDe": 29.92,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:49:03.467Z"
-    },
-    {
-      "id": "23928",
-      "loja": "Amazon",
-      "titulo": "Titorion Mouse Pad Gamer de Vidro Speed Glacier Profissional 49x42 Premium Branco Preto Hexágono (Divinity)",
-      "link": "https://www.amazon.com.br/dp/B0GWP5D8QY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/410nNXdg8aL._SL400_.jpg",
-      "preco": 257.11,
-      "precoDe": 270.65,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:45:08.294Z"
-    },
-    {
-      "id": "23927",
-      "loja": "Shopee",
-      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
-      "link": "https://s.shopee.com.br/4B0Kglrjdv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
-      "preco": 12.83,
-      "precoDe": 14.75,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:39:48.193Z"
     }
   ]
 }
