@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T11:40:49.154Z",
+  "atualizadoEm": "2026-09-30T12:00:40.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24193",
+      "loja": "Shopee",
+      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "link": "https://s.shopee.com.br/30oOdlYxny",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
+      "preco": 38.99,
+      "precoDe": 114.68,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T11:50:40.852Z"
+    },
     {
       "id": "24185",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-29T13:03:55.644Z"
-    },
-    {
-      "id": "23836",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jeans Bebê Roupa Macia Menino Menina Pronta Entrega",
-      "link": "https://meli.la/1fL9Lwt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608571-MLB101556730131_122025-O.webp",
-      "preco": 37.28,
-      "precoDe": 78.92,
-      "desconto": 37,
-      "cupom": "OFFNOMELI",
-      "enviadoEm": "2026-09-29T12:59:51.634Z"
     }
   ]
 }
