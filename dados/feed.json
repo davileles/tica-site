@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-09-30T12:14:36.459Z",
+  "atualizadoEm": "2026-09-30T12:44:36.909Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24236",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Smartphone Realme C73 128gb 4gb Ram Dual Sim 120hz 6000mAh Verde",
+      "link": "https://meli.la/1axBiap",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929245-MLA102616317533_122025-F.jpg",
+      "preco": 889.99,
+      "precoDe": 1599,
+      "desconto": 41,
+      "cupom": "SITE60",
+      "enviadoEm": "2026-09-30T12:44:11.591Z"
+    },
+    {
+      "id": "24232",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
+      "link": "https://meli.la/1TrsZTH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-F.jpg",
+      "preco": 537.37,
+      "precoDe": 649,
+      "desconto": 8,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:40:42.088Z"
+    },
+    {
+      "id": "24230",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/3B7otHg4lV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.62,
+      "precoDe": 34.92,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T12:37:36.528Z"
+    },
+    {
+      "id": "24222",
+      "loja": "Mercado Livre",
+      "titulo": "Memória Crucial Cb8gu4800 Udimm, Ddr5, 8gb, 4800mhz",
+      "link": "https://meli.la/1sRtd2x",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975373-MLA99505902790_112025-F.jpg",
+      "preco": 765,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:33:12.894Z"
+    },
+    {
+      "id": "24220",
+      "loja": "Mercado Livre",
+      "titulo": "Placa mãe Gigabyte Ultra Durable A520M K V2",
+      "link": "https://meli.la/21Ejtd4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709426-MLA112774973926_062026-F.jpg",
+      "preco": 328.57,
+      "precoDe": 610,
+      "desconto": 40,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:29:16.782Z"
+    },
+    {
+      "id": "24217",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
+      "link": "https://meli.la/2vubPzL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-F.jpg",
+      "preco": 1099,
+      "precoDe": 1855.71,
+      "desconto": 30,
+      "cupom": "SITE200",
+      "enviadoEm": "2026-09-30T12:23:53.135Z"
+    },
+    {
+      "id": "24214",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Gigabyte 25 Fhd 200hz 1ms Ips Vrr Freesync",
+      "link": "https://meli.la/2dNkTHm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939972-MLB116827569054_092026-O.webp",
+      "preco": 649.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:20:44.110Z"
+    },
+    {
+      "id": "24200",
+      "loja": "Shopee",
+      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
+      "link": "https://s.shopee.com.br/8V9LDR5mLy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
+      "preco": 32.2,
+      "precoDe": 33.89,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T12:14:42.028Z"
+    },
     {
       "id": "24199",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-29T13:32:48.812Z"
-    },
-    {
-      "id": "23850",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Cinderela Basica TAM G",
-      "link": "https://www.amazon.com.br/dp/B0F1G698JP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MFs1vnWxL._SL400_.jpg",
-      "preco": 47.49,
-      "precoDe": 149.9,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:30:00.273Z"
-    },
-    {
-      "id": "23849",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Rapunzel Básica TAM G",
-      "link": "https://www.amazon.com.br/dp/B0DBH3KX3F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gClE0E04L._SL400_.jpg",
-      "preco": 41.74,
-      "precoDe": 149.9,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:29:07.864Z"
-    },
-    {
-      "id": "23848",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/50ZRX9SxEW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:28:19.092Z"
-    },
-    {
-      "id": "23847",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Aurora Básica TAM G",
-      "link": "https://www.amazon.com.br/dp/B0F1G6MBGN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KKbLm-fbL._SL400_.jpg",
-      "preco": 38.91,
-      "precoDe": 41.98,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:24:49.021Z"
-    },
-    {
-      "id": "23846",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Bela Basica TAM G",
-      "link": "https://www.amazon.com.br/dp/B0F1G7D7JS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GzSSYB5RL._SL400_.jpg",
-      "preco": 44.93,
-      "precoDe": 149.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:23:40.753Z"
-    },
-    {
-      "id": "23845",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Mirabel Madrigal Basica TAM G",
-      "link": "https://www.amazon.com.br/dp/B0F1G7395K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aN0LmaMuL._SL400_.jpg",
-      "preco": 32.22,
-      "precoDe": 35.81,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:22:42.045Z"
-    },
-    {
-      "id": "23844",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/6q15iB43ls",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 15.99,
-      "precoDe": 69.52,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:21:40.626Z"
-    },
-    {
-      "id": "23841",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Big Apple 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DLX423SX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Ps1OawuuL._SL400_.jpg",
-      "preco": 28.310000000000002,
-      "precoDe": 45.9,
-      "desconto": 27,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T13:12:05.187Z"
     }
   ]
 }
