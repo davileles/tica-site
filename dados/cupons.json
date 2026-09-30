@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T15:17:12.804Z",
+  "atualizadoEm": "2026-09-30T17:17:12.765Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -579,6 +579,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INFLUELUX150",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T17:02:27.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUELUX15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T17:02:27.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "SITE60",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1140,6 +1164,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-09-30T20:24:31.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "P4R4B3N4DM1010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-01T17:00:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
