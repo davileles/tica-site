@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T12:44:36.909Z",
+  "atualizadoEm": "2026-09-30T12:51:05.696Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24243",
+      "loja": "Mercado Livre",
+      "titulo": "Processador Amd Ryzen 5 5500 Am4 3.6ghz 6c 12t Cache 19mb",
+      "link": "https://meli.la/1DZ5pjQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937938-MLA116111847046_092026-F.jpg",
+      "preco": 496.8,
+      "precoDe": 920,
+      "desconto": 40,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:48:05.340Z"
+    },
     {
       "id": "24236",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 59,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-09-29T13:41:41.007Z"
-    },
-    {
-      "id": "23854",
-      "loja": "Amazon",
-      "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
-      "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wypFt67SL._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 93.6,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:32:48.812Z"
     }
   ]
 }
