@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T22:40:16.244Z",
+  "atualizadoEm": "2026-09-30T22:53:35.677Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24595",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Aluminio Dobrável 3 Degraus Mor",
+      "link": "https://meli.la/2qwi8Ps",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736594-MLA95679961300_102025-F.jpg",
+      "preco": 143.92000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T22:50:24.065Z"
+    },
+    {
+      "id": "24593",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Gold Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0DVT7GM9C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3135lQn9taL._SL400_.jpg",
+      "preco": 229.98,
+      "precoDe": 343.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T22:47:43.647Z"
+    },
     {
       "id": "24591",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-09-30T13:01:25.971Z"
-    },
-    {
-      "id": "24250",
-      "loja": "Shopee",
-      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
-      "link": "https://s.shopee.com.br/7KxNsWhgZf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
-      "preco": 39.89,
-      "precoDe": 66.48,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T13:00:31.295Z"
-    },
-    {
-      "id": "24243",
-      "loja": "Mercado Livre",
-      "titulo": "Processador Amd Ryzen 5 5500 Am4 3.6ghz 6c 12t Cache 19mb",
-      "link": "https://meli.la/1DZ5pjQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937938-MLA116111847046_092026-F.jpg",
-      "preco": 496.8,
-      "precoDe": 920,
-      "desconto": 40,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T12:48:05.340Z"
     }
   ]
 }
