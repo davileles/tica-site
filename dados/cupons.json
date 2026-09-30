@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T13:57:43.365Z",
+  "atualizadoEm": "2026-09-30T14:48:12.631Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -903,18 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMA29",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom válido em produtos selecionados em queima de estoque",
-      "validadeAte": "2026-09-30T18:00:31.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOSITE3009",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -948,18 +936,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-10-01T12:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBESEPETS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em itens de bebês e pets",
-      "validadeAte": "2026-09-30T15:00:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
