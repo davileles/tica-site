@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T21:23:35.673Z",
+  "atualizadoEm": "2026-09-30T21:33:45.576Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24573",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto Furadeira Parafusadeira Several Importados Recarregável 48v Azul 2000mah",
+      "link": "https://meli.la/2RWUcwV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919369-MLA105651655880_012026-F.jpg",
+      "preco": 239.2,
+      "precoDe": 346,
+      "desconto": 14,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T21:23:45.575Z"
+    },
     {
       "id": "24572",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "MELHORPROMOHJ",
       "enviadoEm": "2026-09-30T12:11:03.137Z"
-    },
-    {
-      "id": "24193",
-      "loja": "Shopee",
-      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
-      "link": "https://s.shopee.com.br/30oOdlYxny",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
-      "preco": 38.99,
-      "precoDe": 114.68,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T11:50:40.852Z"
     }
   ]
 }
