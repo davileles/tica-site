@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-09-30T19:12:39.959Z",
+  "atualizadoEm": "2026-09-30T19:23:35.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24482",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 47 De Acessorios Ferramentas Completo Para Impressão 3d Manuais Orginal Novo Estilete Pinças Agulha Inox Agulhas De Limpeza De Bico Alicate Para Bambu Labs 0.2/0.25/0.3/0.35/0.",
+      "link": "https://meli.la/1kaj73o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758490-MLA109974216256_042026-F.jpg",
+      "preco": 88.74000000000001,
+      "precoDe": 337,
+      "desconto": 67,
+      "cupom": "COMPRACERTA",
+      "enviadoEm": "2026-09-30T19:15:26.821Z"
+    },
+    {
+      "id": "24481",
+      "loja": "Shopee",
+      "titulo": "110V Politriz Esmerilhadeira Lixadeira 3 em 1 Multifuncional 125mm Profissional 1150W 6 Velocidades",
+      "link": "https://s.shopee.com.br/9KiSfs09F8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mrza42erb5l2b4_tn",
+      "preco": 157,
+      "precoDe": 296.23,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:14:26.839Z"
+    },
+    {
+      "id": "24480",
+      "loja": "Amazon",
+      "titulo": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BHtIf8lZL._SL400_.jpg",
+      "preco": 879,
+      "precoDe": 1399,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T19:13:39.950Z"
+    },
     {
       "id": "24476",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-09-29T20:55:27.676Z"
-    },
-    {
-      "id": "24114",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Térmica Masculina Segunda Pele Manga Longa Com Zíper Azul-marinho M",
-      "link": "https://meli.la/2cG2iJZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652746-MLB112258174655_052026-O.webp",
-      "preco": 36.9,
-      "precoDe": 69.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:51:50.869Z"
-    },
-    {
-      "id": "24113",
-      "loja": "Amazon",
-      "titulo": "Smartphone Motorola Moto G67 5G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Chumbo",
-      "link": "https://www.amazon.com.br/dp/B0GLQXJFBD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cn2aZlmnL._SL400_.jpg",
-      "preco": 1312.19,
-      "precoDe": 2099,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:48:40.555Z"
-    },
-    {
-      "id": "24111",
-      "loja": "Shopee",
-      "titulo": "Parafusadeira Furadeira de Impacto 48V Sem Fio 2 Baterias 3 Funções com Maleta e Acessórios Kit Completo",
-      "link": "https://s.shopee.com.br/8V9KBhR53R",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mr73w9vaa9dx8c_tn",
-      "preco": 135.99,
-      "precoDe": 302.2,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T20:45:04.749Z"
     }
   ]
 }
