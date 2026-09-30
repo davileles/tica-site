@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T23:09:45.901Z",
+  "atualizadoEm": "2026-09-30T23:47:29.257Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24597",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Fire 700mL 70 Proof",
+      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
+      "preco": 121.97,
+      "precoDe": 144.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T23:37:29.254Z"
+    },
     {
       "id": "24596",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-09-30T13:24:32.374Z"
-    },
-    {
-      "id": "24262",
-      "loja": "Amazon",
-      "titulo": "Lar dos Animais: Florestas Tropicais",
-      "link": "https://www.amazon.com.br/dp/6556171166?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UtUHwnluL._SL400_.jpg",
-      "preco": 11.8,
-      "precoDe": 19.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T13:20:36.455Z"
     }
   ]
 }
