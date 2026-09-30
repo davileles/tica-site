@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T13:11:25.974Z",
+  "atualizadoEm": "2026-09-30T13:34:32.375Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24263",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/2qUyXozIdk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
+      "preco": 29.9,
+      "precoDe": 61.02,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T13:24:32.374Z"
+    },
+    {
+      "id": "24262",
+      "loja": "Amazon",
+      "titulo": "Lar dos Animais: Florestas Tropicais",
+      "link": "https://www.amazon.com.br/dp/6556171166?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UtUHwnluL._SL400_.jpg",
+      "preco": 11.8,
+      "precoDe": 19.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T13:20:36.455Z"
+    },
     {
       "id": "24252",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-29T14:11:16.473Z"
-    },
-    {
-      "id": "23872",
-      "loja": "Shopee",
-      "titulo": "Cama Pet Sherpa Redonda Antiestresse Caminha Super Macia Inverno Luxo Tamanhos P , M e G",
-      "link": "https://s.shopee.com.br/5LCHya0r4q",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mo02ljo808ox01_tn",
-      "preco": 27.9,
-      "precoDe": 39.86,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T14:07:50.076Z"
-    },
-    {
-      "id": "23866",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
-      "link": "https://s.shopee.com.br/3Vkdm3o7JN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
-      "preco": 92.9,
-      "precoDe": 120.65,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:50:42.768Z"
     }
   ]
 }
