@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-09-30T14:20:05.812Z",
+  "atualizadoEm": "2026-09-30T14:48:09.711Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24297",
+      "loja": "Mercado Livre",
+      "titulo": "Lava-louça Electrolux 8 Serviços Branca Lava E Seca 50' Lb08 Cor Branco",
+      "link": "https://meli.la/1nsPGuP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912455-MLA99455895366_112025-F.jpg",
+      "preco": 1709.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T14:46:52.150Z"
+    },
+    {
+      "id": "24294",
+      "loja": "Amazon",
+      "titulo": "Jagermeister Licor Licores Herbais 700 Ml Pacote De 1",
+      "link": "https://www.amazon.com.br/dp/B07X6HW8NH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xiaH9BiNL._SL400_.jpg",
+      "preco": 98.42,
+      "precoDe": 129.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:38:55.643Z"
+    },
+    {
+      "id": "24292",
+      "loja": "Amazon",
+      "titulo": "CIF Cremoso Limpreza Milagrosa Limão para casa 450ml",
+      "link": "https://www.amazon.com.br/dp/B07DTVN39B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31uN1vBW4VL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 22.4,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:37:45.091Z"
+    },
+    {
+      "id": "24289",
+      "loja": "Shopee",
+      "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "link": "https://s.shopee.com.br/1qcRQo5aZb",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa_tn",
+      "preco": 42.89,
+      "precoDe": 194.95,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:33:32.466Z"
+    },
+    {
+      "id": "24288",
+      "loja": "Mercado Livre",
+      "titulo": "Máscaras De Tratamento Nutrição + Hidratação Stages - Braé",
+      "link": "https://meli.la/1sULc4j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650936-MLA96573783314_112025-F.jpg",
+      "preco": 78.21,
+      "precoDe": 181.64,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T14:28:48.083Z"
+    },
     {
       "id": "24281",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-09-29T15:20:15.113Z"
-    },
-    {
-      "id": "23905",
-      "loja": "Shopee",
-      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
-      "link": "https://s.shopee.com.br/5AsrqvUPaC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mfuzvads9e6l43_tn",
-      "preco": 37.55,
-      "precoDe": 42.19,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:17:07.104Z"
-    },
-    {
-      "id": "23903",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Phase Small Sports Puma",
-      "link": "https://meli.la/1kC6NHZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_972259-MLA99998688341_112025-F.jpg",
-      "preco": 106.39000000000001,
-      "precoDe": 229.99,
-      "desconto": 34,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-09-29T15:14:02.654Z"
-    },
-    {
-      "id": "23901",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Carta Blanca 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
-      "preco": 31.080000000000002,
-      "precoDe": 52.9,
-      "desconto": 31,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-29T15:10:46.335Z"
-    },
-    {
-      "id": "23892",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Sem Fio Makita Df001dw Com 80 Acessórios",
-      "link": "https://meli.la/1wc8oJH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940495-MLB102089800295_122025-O.webp",
-      "preco": 321.97,
-      "precoDe": 513.63,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:03:15.396Z"
-    },
-    {
-      "id": "23889",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/7AdwDYQzF8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 29.97,
-      "precoDe": 48.34,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T15:02:03.211Z"
     }
   ]
 }
