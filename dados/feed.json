@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T10:44:36.451Z",
+  "atualizadoEm": "2026-09-30T11:13:24.776Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24164",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/2qUyOBBwMN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 13.25,
+      "precoDe": 28.19,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-09-30T11:03:24.774Z"
+    },
     {
       "id": "24159",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-29T12:37:08.071Z"
-    },
-    {
-      "id": "23796",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Daily T-shirt Feminino - Gênero Feminino",
-      "link": "https://meli.la/1ARRVVW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676985-MLB88652710155_072025-O.webp",
-      "preco": 125.53000000000002,
-      "precoDe": 435,
-      "desconto": 59,
-      "cupom": "DESCONTOMELI",
-      "enviadoEm": "2026-09-29T12:33:30.967Z"
     }
   ]
 }
