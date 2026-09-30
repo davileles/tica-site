@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T17:47:12.664Z",
+  "atualizadoEm": "2026-09-30T18:17:12.705Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1056,6 +1056,30 @@
       "limite": 20,
       "observacao": "Válido em selecionados de Moda e Bem-estar",
       "validadeAte": "2026-10-01T15:00:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TVS3009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-10-01T18:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORAO3009",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-10-01T18:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
