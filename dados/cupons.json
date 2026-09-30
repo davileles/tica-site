@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T13:11:28.727Z",
+  "atualizadoEm": "2026-09-30T13:57:43.365Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -972,6 +972,18 @@
       "limite": 20,
       "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-09-30T23:29:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROS15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-01T13:49:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
