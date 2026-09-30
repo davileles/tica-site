@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-09-30T12:00:40.854Z",
+  "atualizadoEm": "2026-09-30T12:14:36.459Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24199",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Samsung Galaxy A57 5g 128gb, 8gb Ram, Câmera 50mp, Ip68, Super Amoled 6.7 , Recursos Ai - Azul Escuro",
+      "link": "https://meli.la/1fSZjdt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934688-MLA116690772295_082026-F.jpg",
+      "preco": 1709.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORPROMOHJ",
+      "enviadoEm": "2026-09-30T12:11:03.137Z"
+    },
     {
       "id": "24193",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 27,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-29T13:12:05.187Z"
-    },
-    {
-      "id": "23840",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/6VOFI7oPka",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 78.96,
-      "precoDe": 136.14,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-09-29T13:03:55.644Z"
     }
   ]
 }
