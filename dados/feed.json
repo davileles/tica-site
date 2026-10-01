@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-01T15:49:35.526Z",
+  "atualizadoEm": "2026-10-01T16:19:35.527Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24892",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Chave Boca E Estrela Combinada 12 Pçs Aço 6-22 Mm Cromada Profissional Tkch12 The Black Tools",
+      "link": "https://meli.la/2HM82fx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610242-MLA107057310600_022026-F.jpg",
+      "preco": 44,
+      "precoDe": 109.9,
+      "desconto": 50,
+      "cupom": "OFERTAS",
+      "enviadoEm": "2026-10-01T16:17:35.029Z"
+    },
+    {
+      "id": "24890",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 174.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T16:13:23.758Z"
+    },
+    {
+      "id": "24888",
+      "loja": "Mercado Livre",
+      "titulo": "Necessaire Sem Gênero Washbag Kit Necessaires Rosa Liso",
+      "link": "https://meli.la/18nUdzP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617429-MLA100079700325_122025-F.jpg",
+      "preco": 17.86,
+      "precoDe": 27.83,
+      "desconto": 8,
+      "cupom": "OFERTASMELI",
+      "enviadoEm": "2026-10-01T16:09:19.005Z"
+    },
+    {
+      "id": "24887",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol Solteiro, Casal, Queen ou King Box 100% Poliéster Estampado",
+      "link": "https://s.shopee.com.br/2BFJWbwCM5",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259m-mtfog1e6bk0562_tn",
+      "preco": 17.06,
+      "precoDe": 44.89,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T16:06:01.844Z"
+    },
+    {
+      "id": "24886",
+      "loja": "Mercado Livre",
+      "titulo": "Blocos De Montar Lego Londres Architecture 21034 468 peças",
+      "link": "https://meli.la/1cpg71C",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769536-MLA100034980599_122025-F.jpg",
+      "preco": 237.05999999999997,
+      "precoDe": 399.99,
+      "desconto": 30,
+      "cupom": "BRINCAR",
+      "enviadoEm": "2026-10-01T16:02:40.618Z"
+    },
+    {
+      "id": "24885",
+      "loja": "Mercado Livre",
+      "titulo": "Kit de pontas e brocas em titânio Bosch X-Line com 30 peças",
+      "link": "https://meli.la/1jeNgVi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857291-MLA99425570042_112025-F.jpg",
+      "preco": 70.11,
+      "precoDe": 97.38,
+      "desconto": 10,
+      "cupom": "OFERTAS",
+      "enviadoEm": "2026-10-01T15:57:52.627Z"
+    },
+    {
+      "id": "24883",
+      "loja": "Amazon",
+      "titulo": "Licor Baileys Original, 750ml",
+      "link": "https://www.amazon.com.br/dp/B004CY6VLC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vZdHM+brL._SL400_.jpg",
+      "preco": 139.99,
+      "precoDe": 166.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T15:55:21.321Z"
+    },
+    {
+      "id": "24882",
+      "loja": "Mercado Livre",
+      "titulo": "Purificador De Água Slimpure Branco Midea Branco",
+      "link": "https://meli.la/1JinB5j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978974-MLA99444151360_112025-F.jpg",
+      "preco": 265.3,
+      "precoDe": 584.87,
+      "desconto": 35,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-01T15:54:33.018Z"
+    },
+    {
+      "id": "24880",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Raspberri - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
+      "preco": 73.18,
+      "precoDe": 117.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T15:50:01.418Z"
+    },
     {
       "id": "24879",
       "loja": "Mercado Livre",
@@ -1143,18 +1251,6 @@
       "enviadoEm": "2026-09-30T21:09:37.986Z"
     },
     {
-      "id": "24564",
-      "loja": "Mercado Livre",
-      "titulo": "Kit de pontas e brocas em titânio Bosch X-Line com 30 peças",
-      "link": "https://meli.la/1jeNgVi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857291-MLA99425570042_112025-F.jpg",
-      "preco": 108,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T21:02:38.654Z"
-    },
-    {
       "id": "24559",
       "loja": "Shopee",
       "titulo": "Porta Frios Duplo Preto para Presunto e Queijo Com Fundo Removível Para Conservar e Organizar a Geladeira Hermetico",
@@ -1345,102 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-09-30T19:38:28.147Z"
-    },
-    {
-      "id": "24502",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Jogo De Ferramentas Completo C/ Soquetes Chaves Aço Crv Cinza",
-      "link": "https://meli.la/1CmsdPS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757303-MLA100212647277_122025-F.jpg",
-      "preco": 87.92,
-      "precoDe": 169.9,
-      "desconto": 35,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T19:37:24.889Z"
-    },
-    {
-      "id": "24501",
-      "loja": "Amazon",
-      "titulo": "VERSACE 741007 Eros Flame - Perfume Masculino, Eau de Parfum, 30 Ml",
-      "link": "https://www.amazon.com.br/dp/B07K2D9FWW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51bmMqUuj6L._SL400_.jpg",
-      "preco": 284,
-      "precoDe": 479,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:36:16.718Z"
-    },
-    {
-      "id": "24488",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 51.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:26:29.200Z"
-    },
-    {
-      "id": "24487",
-      "loja": "Shopee",
-      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
-      "link": "https://s.shopee.com.br/113KlKPc6B",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqxmdp0mir5y37_tn",
-      "preco": 24.2,
-      "precoDe": 29.51,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:25:15.208Z"
-    },
-    {
-      "id": "24482",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 47 De Acessorios Ferramentas Completo Para Impressão 3d Manuais Orginal Novo Estilete Pinças Agulha Inox Agulhas De Limpeza De Bico Alicate Para Bambu Labs 0.2/0.25/0.3/0.35/0.",
-      "link": "https://meli.la/1kaj73o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758490-MLA109974216256_042026-F.jpg",
-      "preco": 88.74000000000001,
-      "precoDe": 337,
-      "desconto": 67,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T19:15:26.821Z"
-    },
-    {
-      "id": "24481",
-      "loja": "Shopee",
-      "titulo": "110V Politriz Esmerilhadeira Lixadeira 3 em 1 Multifuncional 125mm Profissional 1150W 6 Velocidades",
-      "link": "https://s.shopee.com.br/9KiSfs09F8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mrza42erb5l2b4_tn",
-      "preco": 157,
-      "precoDe": 296.23,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:14:26.839Z"
-    },
-    {
-      "id": "24476",
-      "loja": "Shopee",
-      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
-      "link": "https://s.shopee.com.br/6q17gVFr8R",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
-      "preco": 7.99,
-      "precoDe": 29.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:02:39.958Z"
-    },
-    {
-      "id": "24473",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_627065-MLB109020200579_032026-O.webp",
-      "preco": 89.08999999999999,
-      "precoDe": 229.99,
-      "desconto": 57,
-      "cupom": "RESGATE O CUPOM NA PÁGINA DO PRODUTO",
-      "enviadoEm": "2026-09-30T18:59:16.988Z"
     }
   ]
 }
