@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-01T12:49:41.427Z",
+  "atualizadoEm": "2026-10-01T13:18:41.426Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24786",
+      "loja": "Amazon",
+      "titulo": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BHtIf8lZL._SL400_.jpg",
+      "preco": 879,
+      "precoDe": 1399,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T13:15:36.822Z"
+    },
+    {
+      "id": "24783",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha de carro conversível cinza Cosco Pluris",
+      "link": "https://meli.la/1mpvKA2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930326-MLA81945763701_012025-F.jpg",
+      "preco": 476.90999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOML",
+      "enviadoEm": "2026-10-01T13:09:36.106Z"
+    },
+    {
+      "id": "24777",
+      "loja": "Amazon",
+      "titulo": "Fisher-Price - Meu livrão de colorir",
+      "link": "https://www.amazon.com.br/dp/6555005904?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51O16SkjSrL._SL400_.jpg",
+      "preco": 5.07,
+      "precoDe": 9.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T13:08:37.842Z"
+    },
+    {
+      "id": "24773",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Sarja Masculina Alfaiataria Bolso Faca Tradicional",
+      "link": "https://meli.la/25NmCDn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753961-MLA105702161367_012026-O.webp",
+      "preco": 57.629999999999995,
+      "precoDe": 78,
+      "desconto": 13,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T13:07:40.268Z"
+    },
+    {
+      "id": "24767",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Short De Dormir Cueca Samba Canção Malha Fria Pijama",
+      "link": "https://meli.la/2aj9QPp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695924-MLB103947189958_012026-O.webp",
+      "preco": 23.87,
+      "precoDe": 49.9,
+      "desconto": 32,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-10-01T13:04:08.793Z"
+    },
+    {
+      "id": "24766",
+      "loja": "Mercado Livre",
+      "titulo": "Air Fryer Electrolux 5,6L Efficient por Rita Lobo EAF40",
+      "link": "https://meli.la/1iiw88Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696592-MLA104141415391_012026-F.jpg",
+      "preco": 284.4,
+      "precoDe": 473.75,
+      "desconto": 33,
+      "cupom": "PROMOML",
+      "enviadoEm": "2026-10-01T13:00:41.786Z"
+    },
+    {
+      "id": "24761",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XXG - 58 Un",
+      "link": "https://meli.la/1gboB7N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930531-MLA99442316930_112025-F.jpg",
+      "preco": 72.17,
+      "precoDe": 114.33,
+      "desconto": 30,
+      "cupom": "PROMOML",
+      "enviadoEm": "2026-10-01T12:57:25.472Z"
+    },
+    {
+      "id": "24759",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/6AlS4ZZCuq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
+      "preco": 199.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T12:56:31.707Z"
+    },
+    {
+      "id": "24758",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 71.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T12:52:54.211Z"
+    },
     {
       "id": "24748",
       "loja": "Mercado Livre",
@@ -915,18 +1023,6 @@
       "enviadoEm": "2026-09-30T19:14:26.839Z"
     },
     {
-      "id": "24480",
-      "loja": "Amazon",
-      "titulo": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-      "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BHtIf8lZL._SL400_.jpg",
-      "preco": 879,
-      "precoDe": 1399,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T19:13:39.950Z"
-    },
-    {
       "id": "24476",
       "loja": "Shopee",
       "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
@@ -1021,18 +1117,6 @@
       "desconto": 8,
       "cupom": "RESGATE O CUPOM NA PÁGINA DO PRODUTO",
       "enviadoEm": "2026-09-30T18:36:46.673Z"
-    },
-    {
-      "id": "24451",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 43.9,
-      "precoDe": 71.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T18:28:03.230Z"
     },
     {
       "id": "24450",
@@ -1357,90 +1441,6 @@
       "desconto": 23,
       "cupom": "RESGATE NESSA PÁGINA: HTTPS://S.SHOPEE.COM.BR/1BMKNLQPPV",
       "enviadoEm": "2026-09-30T17:03:39.287Z"
-    },
-    {
-      "id": "24377",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Chaves Combinadas 6 A 32mm Tramontina Pro 26 Peças",
-      "link": "https://meli.la/1azAM76",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781126-MLA99449321142_112025-F.jpg",
-      "preco": 699,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T17:00:29.438Z"
-    },
-    {
-      "id": "24374",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Devil's Carnaval Phenomenal Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CTD1BHC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N+Q8k0lHL._SL400_.jpg",
-      "preco": 32.98,
-      "precoDe": 69.9,
-      "desconto": 44,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-30T16:59:27.317Z"
-    },
-    {
-      "id": "24368",
-      "loja": "Amazon",
-      "titulo": "Vinho Tinto Chileno Sol de Chile Varietal Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B0D4SQN33Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21e2QYdXXpL._SL400_.jpg",
-      "preco": 35.63,
-      "precoDe": 39.59,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T16:52:38.671Z"
-    },
-    {
-      "id": "24364",
-      "loja": "Shopee",
-      "titulo": "Saco Plástico PP Transparente Incolor Brilhante Embalagem Kit 50 Celofane Unidades Diversas Medidas",
-      "link": "https://s.shopee.com.br/4VdClAn6Tm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg0ecfh7hyiv98_tn",
-      "preco": 6.98,
-      "precoDe": 12.25,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T16:51:33.723Z"
-    },
-    {
-      "id": "24356",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Chaves Combinadas 6 Peças Tramontina 42241506",
-      "link": "https://meli.la/21v4RJS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991675-MLA99522143610_122025-F.jpg",
-      "preco": 98.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T16:39:58.418Z"
-    },
-    {
-      "id": "24349",
-      "loja": "Amazon",
-      "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
-      "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Uewj7cHrL._SL400_.jpg",
-      "preco": 899.99,
-      "precoDe": 1359.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T16:36:52.295Z"
-    },
-    {
-      "id": "24344",
-      "loja": "Amazon",
-      "titulo": "Vinho Tarapacá Cosecha Chardonnay Branco 750ml",
-      "link": "https://www.amazon.com.br/dp/B0FJ32QN1W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313ng-gzW2L._SL400_.jpg",
-      "preco": 38.67,
-      "precoDe": 49.9,
-      "desconto": 9,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-09-30T16:29:27.849Z"
     }
   ]
 }
