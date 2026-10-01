@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-01T15:19:35.526Z",
+  "atualizadoEm": "2026-10-01T15:49:35.526Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24879",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Camisetas Polo Wear Sortidas",
+      "link": "https://meli.la/2hs9RRF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864609-MLB104431005254_012026-O.webp",
+      "preco": 81.19,
+      "precoDe": 239.99,
+      "desconto": 52,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-01T15:48:56.327Z"
+    },
+    {
+      "id": "24876",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
+      "link": "https://s.shopee.com.br/6fhiqzZX3f",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T15:42:23.109Z"
+    },
+    {
+      "id": "24874",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Calcinhas Cintura Alta Sem Costura Que Não Marca",
+      "link": "https://meli.la/28V6zMy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740826-MLB115682068694_092026-O.webp",
+      "preco": 67.06,
+      "precoDe": 110,
+      "desconto": 28,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T15:38:48.167Z"
+    },
+    {
+      "id": "24873",
+      "loja": "Mercado Livre",
+      "titulo": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
+      "link": "https://meli.la/1WFQHgu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696266-MLA97205822349_112025-F.jpg",
+      "preco": 80.86,
+      "precoDe": 199,
+      "desconto": 55,
+      "cupom": "SITE0110",
+      "enviadoEm": "2026-10-01T15:35:41.316Z"
+    },
+    {
+      "id": "24867",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50-",
+      "link": "https://meli.la/2wowv3T",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992466-MLB116831200087_082026-O.webp",
+      "preco": 65.44,
+      "precoDe": 122.9,
+      "desconto": 37,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T15:26:29.713Z"
+    },
+    {
+      "id": "24866",
+      "loja": "Amazon",
+      "titulo": "CÂMERA INSTAX PAL BLUE",
+      "link": "https://www.amazon.com.br/dp/B0CJL6Z5K2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lltch9oOL._SL400_.jpg",
+      "preco": 319,
+      "precoDe": 719,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T15:23:00.763Z"
+    },
     {
       "id": "24862",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 57,
       "cupom": "RESGATE O CUPOM NA PÁGINA DO PRODUTO",
       "enviadoEm": "2026-09-30T18:59:16.988Z"
-    },
-    {
-      "id": "24468",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300 Peças",
-      "link": "https://meli.la/2mswG7x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705500-MLA99899450981_112025-F.jpg",
-      "preco": 255.92,
-      "precoDe": 492.71,
-      "desconto": 35,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-09-30T18:53:11.945Z"
-    },
-    {
-      "id": "24467",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Caixa Amplificada, Preto, 150W RMS, Bivolt - CM-150",
-      "link": "https://www.amazon.com.br/dp/B0BJJH4L5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-QLZofg8L._SL400_.jpg",
-      "preco": 149,
-      "precoDe": 399.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T18:52:15.977Z"
-    },
-    {
-      "id": "24466",
-      "loja": "Amazon",
-      "titulo": "Patrulha Canina - Veiculo Solido Rubble, Sunny Brinquedos, Multicor",
-      "link": "https://www.amazon.com.br/dp/B098YS2NLM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31TWbMN1WPL._SL400_.jpg",
-      "preco": 67,
-      "precoDe": 139.99,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T18:48:48.256Z"
-    },
-    {
-      "id": "24458",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Câmeras de Segurança IP WiFi Interna Externa Full HD 360° Visão Noturna Detecção de Movimento Áudio Bidirecional Monitoramento Residencial",
-      "link": "https://meli.la/2fuLqga",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803550-MLA110756863269_042026-F.jpg",
-      "preco": 214.68,
-      "precoDe": 524,
-      "desconto": 50,
-      "cupom": "MLMELHOROFERTA",
-      "enviadoEm": "2026-09-30T18:43:51.564Z"
-    },
-    {
-      "id": "24454",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/8fSlq9cpbu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.31,
-      "precoDe": 65.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T18:40:12.589Z"
-    },
-    {
-      "id": "24452",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Club De Nuit Intense Da Armaf Edt 105ml Masculino",
-      "link": "https://meli.la/1MS6T7B",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887864-MLB108264754941_032026-O.webp",
-      "preco": 220.5,
-      "precoDe": 265,
-      "desconto": 8,
-      "cupom": "RESGATE O CUPOM NA PÁGINA DO PRODUTO",
-      "enviadoEm": "2026-09-30T18:36:46.673Z"
     }
   ]
 }
