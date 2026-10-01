@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-01T19:43:59.189Z",
+  "atualizadoEm": "2026-10-01T19:55:43.544Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25039",
+      "loja": "Amazon",
+      "titulo": "Whisky Bell's, 700ml",
+      "link": "https://www.amazon.com.br/dp/B07FPYWGSR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xy4AYcSxL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T19:45:43.543Z"
+    },
     {
       "id": "25036",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 5,
       "cupom": "OFFAQUI",
       "enviadoEm": "2026-10-01T12:21:10.077Z"
-    },
-    {
-      "id": "24711",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
-      "link": "https://meli.la/233Cqsf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749790-MLA114385704722_082026-F.jpg",
-      "preco": 2205,
-      "precoDe": 4999,
-      "desconto": 46,
-      "cupom": "OFFAQUI",
-      "enviadoEm": "2026-10-01T12:17:36.131Z"
     }
   ]
 }
