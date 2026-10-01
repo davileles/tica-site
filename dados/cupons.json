@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T15:49:38.284Z",
+  "atualizadoEm": "2026-10-01T17:19:38.099Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -387,18 +387,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLUELUX150",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-01T17:02:27.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "INFLU50",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -420,18 +408,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-01T19:06:53.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLUELUX15",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-01T17:02:27.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -756,18 +732,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MLMELHOROFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-10-01T17:17:59.605Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1105,18 +1069,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "P4R4B3N4DM1010",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-01T17:00:20.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
