@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T20:30:34.250Z",
+  "atualizadoEm": "2026-10-01T20:45:36.920Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25078",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
+      "preco": 30.64,
+      "precoDe": 41.96,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T20:43:34.378Z"
+    },
+    {
+      "id": "25077",
+      "loja": "Shopee",
+      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
+      "link": "https://s.shopee.com.br/40gy10J08o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
+      "preco": 116.6,
+      "precoDe": 212,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T20:42:29.825Z"
+    },
     {
       "id": "25052",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-01T12:52:54.211Z"
-    },
-    {
-      "id": "24748",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Gamer Obsid Frame Preto Vidro Mid Tower S/ Fan Preto",
-      "link": "https://meli.la/1QPtb8L",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811749-MLB114971963855_072026-O.webp",
-      "preco": 294.46000000000004,
-      "precoDe": 399,
-      "desconto": 18,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T12:46:42.195Z"
-    },
-    {
-      "id": "24745",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Gamer Rise Mode Frost Argb Rainbow 360mm Branco",
-      "link": "https://meli.la/2xh3KWZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806862-MLB115603189260_092026-O.webp",
-      "preco": 229.98999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T12:43:19.512Z"
     }
   ]
 }
