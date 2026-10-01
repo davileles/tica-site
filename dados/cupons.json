@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T18:05:22.424Z",
+  "atualizadoEm": "2026-10-01T18:16:26.636Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -997,6 +997,18 @@
       "observacao": "Válido apenas em Placas-mãe Selecionadas",
       "validadeAte": "2026-10-01T18:20:32.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMLIBERADO",
+      "loja": "Outro: Netshoes",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido em todo o site",
+      "validadeAte": "2026-10-02T18:05:26.000Z",
+      "url": null
     },
     {
       "codigo": "BEMVINDA",
