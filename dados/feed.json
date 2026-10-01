@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-01T19:15:26.262Z",
+  "atualizadoEm": "2026-10-01T19:43:59.189Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25036",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
+      "link": "https://s.shopee.com.br/3LRH93yq29",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
+      "preco": 99.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T19:33:59.187Z"
+    },
+    {
+      "id": "25035",
+      "loja": "Mercado Livre",
+      "titulo": "Patinete Infantil 3 Rodas De Led Dobrável Scooter Crianças Cor Rosa JustFun",
+      "link": "https://meli.la/1brbiR1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748188-MLA116512452394_092026-F.jpg",
+      "preco": 47.89,
+      "precoDe": 78.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T19:30:33.232Z"
+    },
+    {
+      "id": "25033",
+      "loja": "Shopee",
+      "titulo": "Suporte Para Furadeira 1/2 E 3/8 Manual Bancada com Escala de Curso Visível e Base de Ferro Fundido",
+      "link": "https://s.shopee.com.br/3VkhLGaA1t",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8hpj5z8x14he9_tn",
+      "preco": 99.96,
+      "precoDe": 199.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T19:29:31.298Z"
+    },
+    {
+      "id": "25030",
+      "loja": "Mercado Livre",
+      "titulo": "Sandalia Rasteira Anacapri Slim Monocolor Casual Original",
+      "link": "https://meli.la/21N52U5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980321-MLB115696556444_092026-O.webp",
+      "preco": 91.03,
+      "precoDe": 169.99,
+      "desconto": 37,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T19:27:53.233Z"
+    },
     {
       "id": "25020",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 46,
       "cupom": "OFFAQUI",
       "enviadoEm": "2026-10-01T12:17:36.131Z"
-    },
-    {
-      "id": "24707",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Silicone Para Panelas Brinox - 12 Peças Madeira",
-      "link": "https://meli.la/2hB3wBn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777275-MLA114838068310_082026-F.jpg",
-      "preco": 48.67,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFAQUI",
-      "enviadoEm": "2026-10-01T12:14:16.228Z"
-    },
-    {
-      "id": "24701",
-      "loja": "Amazon",
-      "titulo": "Cercado Pet Dobrável 90cm Reforçado para Cachorros e Gatos Pequenos| Cercadinho Portátil e Seguro para Filhotes | Espaçoso, Fácil de Montar e Transportar | Uso Interno e Externo | ",
-      "link": "https://www.amazon.com.br/dp/B0H5D44M67?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JaX3bJX1L._SL400_.jpg",
-      "preco": 83.42,
-      "precoDe": 92.69,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T12:09:11.637Z"
-    },
-    {
-      "id": "24698",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Uh08pKfHL._SL400_.jpg",
-      "preco": 85.74,
-      "precoDe": 109.78,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T12:05:51.022Z"
-    },
-    {
-      "id": "24695",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fmR+tg5ML._SL400_.jpg",
-      "preco": 90.54,
-      "precoDe": 109.78,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T12:01:13.335Z"
     }
   ]
 }
