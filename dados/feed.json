@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-01T23:01:12.932Z",
+  "atualizadoEm": "2026-10-01T23:05:55.167Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25117",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Bolinha Macarrão Dedinho Antiderrapante Várias Cores",
+      "link": "https://s.shopee.com.br/4fwexpZhK9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckrhbrs1nup9b_tn",
+      "preco": 17.9,
+      "precoDe": 35.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T23:02:25.084Z"
+    },
     {
       "id": "25114",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "PROMOML",
       "enviadoEm": "2026-10-01T13:54:34.748Z"
-    },
-    {
-      "id": "24804",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Árabe Lattafa Al Noble Wazeer EDP 100ml",
-      "link": "https://meli.la/1KEgQQv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937865-MLB83364349561_032025-O.webp",
-      "preco": 137.61,
-      "precoDe": 363.45,
-      "desconto": 58,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T13:50:09.511Z"
     }
   ]
 }
