@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T21:06:54.753Z",
+  "atualizadoEm": "2026-10-01T21:20:42.093Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25091",
+      "loja": "Amazon",
+      "titulo": "Tramontina 42241212, Jogo de Chaves Combinadas com Pescoço 12 Peças",
+      "link": "https://www.amazon.com.br/dp/B076MDW718?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41j28h36ldL._SL400_.jpg",
+      "preco": 126,
+      "precoDe": 185.12,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T21:10:42.088Z"
+    },
+    {
+      "id": "25089",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/9KiUONuNTF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
+      "preco": 34.9,
+      "precoDe": 81.16,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T21:08:48.257Z"
+    },
     {
       "id": "25073",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-01T13:08:37.842Z"
-    },
-    {
-      "id": "24773",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Sarja Masculina Alfaiataria Bolso Faca Tradicional",
-      "link": "https://meli.la/25NmCDn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753961-MLA105702161367_012026-O.webp",
-      "preco": 57.629999999999995,
-      "precoDe": 78,
-      "desconto": 13,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T13:07:40.268Z"
-    },
-    {
-      "id": "24767",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Short De Dormir Cueca Samba Canção Malha Fria Pijama",
-      "link": "https://meli.la/2aj9QPp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695924-MLB103947189958_012026-O.webp",
-      "preco": 23.87,
-      "precoDe": 49.9,
-      "desconto": 32,
-      "cupom": "DESCONTEI",
-      "enviadoEm": "2026-10-01T13:04:08.793Z"
     }
   ]
 }
