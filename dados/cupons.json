@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T19:00:31.143Z",
+  "atualizadoEm": "2026-10-01T19:15:29.648Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -433,30 +433,6 @@
       "observacao": null,
       "validadeAte": "2026-10-07T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "INFLU50",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 400,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-01T19:06:53.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU30",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-01T19:06:53.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "GARIMPEI",
@@ -1056,6 +1032,18 @@
       "limite": null,
       "observacao": "Desconto válido em todo o site",
       "validadeAte": "2026-10-02T18:05:26.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PICDAY30",
+      "loja": "Outro: PicPay Delivery",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 70,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-02T19:00:20.000Z",
       "url": null
     },
     {
