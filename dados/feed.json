@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-01T19:00:28.023Z",
+  "atualizadoEm": "2026-10-01T19:15:26.262Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25020",
+      "loja": "Shopee",
+      "titulo": "Shampoo + Condicionadorr Purificador 1L Máscara Hidratação 500g Óleo Reparador 50ml Kameell",
+      "link": "https://s.shopee.com.br/9AP44Dl12i",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261r-mkx3ei6xt88x19_tn",
+      "preco": 34,
+      "precoDe": 39.08,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T19:10:44.397Z"
+    },
+    {
+      "id": "25019",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Cuecas Boxer Puma Poliamida Sem Costura Box Original",
+      "link": "https://meli.la/1q933h8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664381-MLB72855702115_112023-O.webp",
+      "preco": 110.47999999999999,
+      "precoDe": 349,
+      "desconto": 63,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T19:05:26.310Z"
+    },
+    {
+      "id": "25017",
+      "loja": "Mercado Livre",
+      "titulo": "Kit3 Short Futebol Bermuda Masculina Academia Treino Esporte",
+      "link": "https://meli.la/2zAcZAg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824417-MLB111941488549_052026-O.webp",
+      "preco": 57.71000000000001,
+      "precoDe": 139.9,
+      "desconto": 51,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-01T19:02:17.556Z"
+    },
     {
       "id": "25009",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-10-01T12:01:13.335Z"
-    },
-    {
-      "id": "24694",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51FmoBbtF-L._SL400_.jpg",
-      "preco": 95.67,
-      "precoDe": 109.78,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T11:59:58.529Z"
-    },
-    {
-      "id": "24693",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/1LgCGAePAX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T11:58:47.638Z"
-    },
-    {
-      "id": "24692",
-      "loja": "Mercado Livre",
-      "titulo": "Trena Laser Bosch Glm 25-23 Com Alcance De 25m",
-      "link": "https://meli.la/18LPs1t",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957205-MLA99504068142_112025-F.jpg",
-      "preco": 267.36,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRACERTA",
-      "enviadoEm": "2026-10-01T11:54:49.570Z"
     }
   ]
 }
