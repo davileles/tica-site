@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T22:26:40.177Z",
+  "atualizadoEm": "2026-10-01T22:50:12.112Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25113",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Apple Tennessee Whiskey 700ml",
+      "link": "https://www.amazon.com.br/dp/B07T9LP2C3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DL5U0pBXL._SL400_.jpg",
+      "preco": 109.36,
+      "precoDe": 144.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T22:40:12.110Z"
+    },
+    {
+      "id": "25112",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/6VOJ7dbEzT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 25.98,
+      "precoDe": 46.39,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T22:39:20.570Z"
+    },
     {
       "id": "25104",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 37,
       "cupom": "BRINCAR",
       "enviadoEm": "2026-10-01T13:46:26.633Z"
-    },
-    {
-      "id": "24802",
-      "loja": "Mercado Livre",
-      "titulo": "Chinelo Havaianas Masculino Power 2.0 Anatômica Massageadora",
-      "link": "https://meli.la/29Jbedb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841603-MLB86676857236_062025-O.webp",
-      "preco": 50.99,
-      "precoDe": 119.99,
-      "desconto": 50,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T13:45:14.109Z"
-    },
-    {
-      "id": "24800",
-      "loja": "Shopee",
-      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "link": "https://s.shopee.com.br/BUEz6YltY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
-      "preco": 37.91,
-      "precoDe": 70.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T13:41:54.285Z"
     }
   ]
 }
