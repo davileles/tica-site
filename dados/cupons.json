@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-30T23:47:31.565Z",
+  "atualizadoEm": "2026-10-01T00:22:34.726Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1153,6 +1153,102 @@
       "observacao": null,
       "validadeAte": "2026-10-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "BRCD8",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 445,
+      "minimo": 3900,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD7",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 315,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD6",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 240,
+      "minimo": 1900,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD5",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 165,
+      "minimo": 1300,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD4",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 85,
+      "minimo": 660,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD3",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 370,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD2",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 18,
+      "minimo": 150,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD1",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 90,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Evento AliExpress Choice Day - Dia das Crianças. Começa à meia-noite.",
+      "validadeAte": "2026-10-02T00:00:18.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "FAVE15",
