@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-09-30T23:47:29.257Z",
+  "atualizadoEm": "2026-10-01T00:22:32.252Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24601",
+      "loja": "Amazon",
+      "titulo": "Cachaça de Jambu - Jambuzera 500ml",
+      "link": "https://www.amazon.com.br/dp/B08HT16FKW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315VDU3RSWL._SL400_.jpg",
+      "preco": 55.9,
+      "precoDe": 89.67,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T00:12:32.251Z"
+    },
+    {
+      "id": "24600",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Old No. 7 200 mL",
+      "link": "https://www.amazon.com.br/dp/B005HQRZPA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uiiJdsmOL._SL400_.jpg",
+      "preco": 38.78,
+      "precoDe": 45.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T00:04:57.321Z"
+    },
     {
       "id": "24597",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-09-30T13:47:42.841Z"
-    },
-    {
-      "id": "24265",
-      "loja": "Amazon",
-      "titulo": "3 Corações Cápsulas de Café Mogiana Paulista, Compatíveis com Nespresso, contém 10 cápsulas",
-      "link": "https://www.amazon.com.br/dp/B0BXFMP8W6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AH+d5R0lL._SL400_.jpg",
-      "preco": 14.61,
-      "precoDe": 22.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T13:39:37.600Z"
-    },
-    {
-      "id": "24263",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/2qUyXozIdk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
-      "preco": 29.9,
-      "precoDe": 61.02,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T13:24:32.374Z"
     }
   ]
 }
