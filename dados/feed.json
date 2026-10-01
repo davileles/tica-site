@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T22:05:55.156Z",
+  "atualizadoEm": "2026-10-01T22:26:40.177Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25104",
+      "loja": "Shopee",
+      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
+      "link": "https://s.shopee.com.br/905e4gdxya",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
+      "preco": 15.78,
+      "precoDe": 45.09,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T22:16:40.176Z"
+    },
+    {
+      "id": "25101",
+      "loja": "Mercado Livre",
+      "titulo": "Carrinho De Passeio Para Bebê Spot (até 15kg) Preto - Voyage",
+      "link": "https://meli.la/1JHxNrN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939215-MLA115012899467_072026-F.jpg",
+      "preco": 395,
+      "precoDe": 669,
+      "desconto": 33,
+      "cupom": "BRINCAR",
+      "enviadoEm": "2026-10-01T22:09:10.888Z"
+    },
     {
       "id": "25100",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-01T13:41:54.285Z"
-    },
-    {
-      "id": "24799",
-      "loja": "Amazon",
-      "titulo": "Travel System Maxi-Cosi, Eva³, Select Grey",
-      "link": "https://www.amazon.com.br/dp/B0DB8XBBFR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414lmQxB3bL._SL400_.jpg",
-      "preco": 2486.9,
-      "precoDe": 3499,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T13:35:22.638Z"
-    },
-    {
-      "id": "24794",
-      "loja": "Mercado Livre",
-      "titulo": "Fone Qcy T13 Anc 2 Bluetooth 5.3 Cancelamento De Ruído Ativo Cor Preto",
-      "link": "https://meli.la/2EKJsPU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763475-MLA97353368157_112025-F.jpg",
-      "preco": 179.1,
-      "precoDe": 274,
-      "desconto": 27,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T13:27:04.189Z"
     }
   ]
 }
