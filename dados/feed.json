@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T21:20:42.093Z",
+  "atualizadoEm": "2026-10-01T21:35:55.154Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25094",
+      "loja": "Shopee",
+      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "link": "https://s.shopee.com.br/70KZdu1wiz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
+      "preco": 11.22,
+      "precoDe": 18.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T21:31:31.653Z"
+    },
+    {
+      "id": "25092",
+      "loja": "Amazon",
+      "titulo": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
+      "link": "https://www.amazon.com.br/dp/B08DPL6H9X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yhUVedEgL._SL400_.jpg",
+      "preco": 48.99,
+      "precoDe": 76.4,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T21:23:33.286Z"
+    },
     {
       "id": "25091",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-01T13:15:36.822Z"
-    },
-    {
-      "id": "24783",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeirinha de carro conversível cinza Cosco Pluris",
-      "link": "https://meli.la/1mpvKA2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930326-MLA81945763701_012025-F.jpg",
-      "preco": 476.90999999999997,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T13:09:36.106Z"
-    },
-    {
-      "id": "24777",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price - Meu livrão de colorir",
-      "link": "https://www.amazon.com.br/dp/6555005904?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51O16SkjSrL._SL400_.jpg",
-      "preco": 5.07,
-      "precoDe": 9.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T13:08:37.842Z"
     }
   ]
 }
