@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T14:18:44.326Z",
+  "atualizadoEm": "2026-10-01T15:19:38.617Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,18 +675,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRACERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
-      "validadeAte": "2026-10-01T15:01:48.088Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -783,18 +771,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA3009",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em selecionados de Moda e Bem-estar",
-      "validadeAte": "2026-10-01T15:00:52.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TVS3009",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -840,6 +816,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-02T12:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE0110",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-02T15:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
