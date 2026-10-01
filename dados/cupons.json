@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T18:16:26.636Z",
+  "atualizadoEm": "2026-10-01T18:45:28.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,6 +72,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "10DO10",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -843,6 +855,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
     },
     {
+      "codigo": "KIDS20",
+      "loja": "Nike",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
+    },
+    {
       "codigo": "5FAVORITOS",
       "loja": "Oceane",
       "tipo": "reais",
@@ -987,18 +1011,6 @@
       "url": null
     },
     {
-      "codigo": "SETEMBROENDS",
-      "loja": "Outro: KaBuM",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas em Placas-mãe Selecionadas",
-      "validadeAte": "2026-10-01T18:20:32.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "CUPOMLIBERADO",
       "loja": "Outro: Netshoes",
       "tipo": "pct",
@@ -1020,6 +1032,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
+    },
+    {
+      "codigo": "EUQUERO",
+      "loja": "Posthaus",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
