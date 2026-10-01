@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-01T12:46:23.118Z",
+  "atualizadoEm": "2026-10-01T12:49:41.427Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24748",
+      "loja": "Mercado Livre",
+      "titulo": "Gabinete Gamer Obsid Frame Preto Vidro Mid Tower S/ Fan Preto",
+      "link": "https://meli.la/1QPtb8L",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811749-MLB114971963855_072026-O.webp",
+      "preco": 294.46000000000004,
+      "precoDe": 399,
+      "desconto": 18,
+      "cupom": "PROMOML",
+      "enviadoEm": "2026-10-01T12:46:42.195Z"
+    },
     {
       "id": "24745",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 9,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-09-30T16:29:27.849Z"
-    },
-    {
-      "id": "24342",
-      "loja": "Shopee",
-      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "link": "https://s.shopee.com.br/5VVjvSvg37",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f_tn",
-      "preco": 79.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T16:28:27.268Z"
     }
   ]
 }
