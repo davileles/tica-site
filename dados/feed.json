@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-01T11:32:49.149Z",
+  "atualizadoEm": "2026-10-01T11:47:22.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "24683",
+      "loja": "Amazon",
+      "titulo": "Candide, Laptop Infantil, Barbie, Brinquedo Educativo - Bilíngue",
+      "link": "https://www.amazon.com.br/dp/B08GKYKZBF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51OqzeORbAL._SL400_.jpg",
+      "preco": 54.89,
+      "precoDe": 99.99,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T11:40:37.235Z"
+    },
+    {
+      "id": "24677",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 178.19,
+      "precoDe": 229.49,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T11:38:23.048Z"
+    },
+    {
+      "id": "24665",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/AKb0x5ksD6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T11:36:21.392Z"
+    },
     {
       "id": "24661",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-09-30T15:05:43.388Z"
-    },
-    {
-      "id": "24302",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Calça Pantalona Feminina Alfaiataria Elegante C/ Cinto",
-      "link": "https://meli.la/1Rs1PtQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900415-MLB113922004885_062026-O.webp",
-      "preco": 58.86,
-      "precoDe": 127.97,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T15:02:15.412Z"
-    },
-    {
-      "id": "24298",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
-      "link": "https://s.shopee.com.br/1AnH0LZgx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
-      "preco": 14.99,
-      "precoDe": 29.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-09-30T14:56:09.752Z"
-    },
-    {
-      "id": "24297",
-      "loja": "Mercado Livre",
-      "titulo": "Lava-louça Electrolux 8 Serviços Branca Lava E Seca 50' Lb08 Cor Branco",
-      "link": "https://meli.la/1nsPGuP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912455-MLA99455895366_112025-F.jpg",
-      "preco": 1709.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMOHJ",
-      "enviadoEm": "2026-09-30T14:46:52.150Z"
     }
   ]
 }
