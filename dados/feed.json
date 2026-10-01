@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-01T20:15:26.320Z",
+  "atualizadoEm": "2026-10-01T20:30:34.250Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25052",
+      "loja": "Shopee",
+      "titulo": "Torno Morsa de Bancada 6\" 150 mm Giratória C/ Bigorna",
+      "link": "https://s.shopee.com.br/80D6kypiDK",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m7nbbimro0bg74_tn",
+      "preco": 184.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T20:20:34.248Z"
+    },
+    {
+      "id": "25050",
+      "loja": "Shopee",
+      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "link": "https://s.shopee.com.br/2gBaOzRzfz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
+      "preco": 18.9,
+      "precoDe": 27,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-01T20:19:23.091Z"
+    },
     {
       "id": "25048",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "PROMOML",
       "enviadoEm": "2026-10-01T12:43:19.512Z"
-    },
-    {
-      "id": "24741",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Crucial Cb8gu4800 Udimm, Ddr5, 8gb, 4800mhz",
-      "link": "https://meli.la/1sRtd2x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975373-MLA99505902790_112025-F.jpg",
-      "preco": 688.5,
-      "precoDe": 850,
-      "desconto": 10,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T12:39:45.116Z"
-    },
-    {
-      "id": "24738",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Mach1 Logic Gk360 Rgb 360mm Preto Preto",
-      "link": "https://meli.la/1xQ2f2B",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834383-MLB117758178159_092026-O.webp",
-      "preco": 200.06,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T12:36:11.460Z"
     }
   ]
 }
