@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-01T13:18:44.353Z",
+  "atualizadoEm": "2026-10-01T14:18:44.326Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -394,7 +394,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
       "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -516,6 +516,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-06T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
+      "validadeAte": "2026-10-02T14:16:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -720,18 +732,6 @@
       "limite": 60,
       "observacao": "Cupons válidos para itens selecionados do Mercado Livre",
       "validadeAte": "2026-10-01T17:17:59.605Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-01T13:49:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
