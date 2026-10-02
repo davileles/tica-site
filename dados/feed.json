@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-02T18:30:33.566Z",
+  "atualizadoEm": "2026-10-02T18:59:33.773Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25423",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/1BMo7Jq6rY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 329.9,
+      "precoDe": 701.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T18:58:45.985Z"
+    },
+    {
+      "id": "25422",
+      "loja": "Mercado Livre",
+      "titulo": "Sapato Loafer Masculino Mocassim Couro Casual Comfort Luxo",
+      "link": "https://meli.la/1eQM7BQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669776-MLB97527210302_112025-O.webp",
+      "preco": 90.44,
+      "precoDe": 179.9,
+      "desconto": 41,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-02T18:55:18.260Z"
+    },
+    {
+      "id": "25420",
+      "loja": "Shopee",
+      "titulo": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
+      "link": "https://s.shopee.com.br/6VOKSgtm3h",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814_tn",
+      "preco": 89.29,
+      "precoDe": 198.42,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T18:51:54.060Z"
+    },
+    {
+      "id": "25419",
+      "loja": "Mercado Livre",
+      "titulo": "Air fryer Oven 16L Wap Multi-Comb Digital WAFC16 Painel Touch 220V",
+      "link": "https://meli.la/232fN3z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831624-MLA93384203743_092025-F.jpg",
+      "preco": 540.06,
+      "precoDe": 1305,
+      "desconto": 55,
+      "cupom": "PROMOAQU",
+      "enviadoEm": "2026-10-02T18:50:55.419Z"
+    },
+    {
+      "id": "25418",
+      "loja": "Amazon",
+      "titulo": "Cachaça Salinas Umburana 1L",
+      "link": "https://www.amazon.com.br/dp/B07XS8N19L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eakQ+j0kL._SL400_.jpg",
+      "preco": 85.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T18:47:17.514Z"
+    },
+    {
+      "id": "25417",
+      "loja": "Mercado Livre",
+      "titulo": "Estante, 6 Prateleiras, 40x30x187,5cm Industrial Marrom rústico e preto",
+      "link": "https://meli.la/2yqTiq4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782421-MLA110514933497_042026-F.jpg",
+      "preco": 261.79,
+      "precoDe": 559.99,
+      "desconto": 45,
+      "cupom": "TEMPROMO",
+      "enviadoEm": "2026-10-02T18:46:06.910Z"
+    },
+    {
+      "id": "25415",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pares De Meias Lupo Soquete Invisível Sport",
+      "link": "https://meli.la/1xosLNn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786778-MLB112049880039_052026-O.webp",
+      "preco": 70.3,
+      "precoDe": 159.87,
+      "desconto": 48,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-02T18:41:04.967Z"
+    },
+    {
+      "id": "25414",
+      "loja": "Shopee",
+      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+      "link": "https://s.shopee.com.br/1qcUstOdne",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp7x1cv6r7da88_tn",
+      "preco": 15.59,
+      "precoDe": 25.15,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T18:32:15.567Z"
+    },
     {
       "id": "25411",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-10-01T18:48:04.236Z"
-    },
-    {
-      "id": "25002",
-      "loja": "Mercado Livre",
-      "titulo": "Urso De Pelúcia Teddy Grande Com Laço 50cm - Doce De Leite",
-      "link": "https://meli.la/1gJTRwi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919900-MLA100084253637_122025-F.jpg",
-      "preco": 47.92,
-      "precoDe": 63.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T18:43:54.716Z"
-    },
-    {
-      "id": "25000",
-      "loja": "Mercado Livre",
-      "titulo": "Grand Court Base 3.0 Adidas",
-      "link": "https://meli.la/2bqhT8V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626753-MLB113142907274_072026-O.webp",
-      "preco": 203.99,
-      "precoDe": 349.99,
-      "desconto": 31,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T18:42:44.020Z"
-    },
-    {
-      "id": "24996",
-      "loja": "Shopee",
-      "titulo": "Soprador Térmico Vonder STV150 110V ou 220V Com 4 Bicos",
-      "link": "https://s.shopee.com.br/8V9NEcu040",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmm-lo713tw4bu3j66_tn",
-      "preco": 159,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T18:39:23.629Z"
-    },
-    {
-      "id": "24995",
-      "loja": "Mercado Livre",
-      "titulo": "Democrata Couro Camurça Sapatênis Pulse Tenis Antiderrapante",
-      "link": "https://meli.la/1zYrMFw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803122-MLB90545691955_082025-O.webp",
-      "preco": 203.14000000000001,
-      "precoDe": 399.99,
-      "desconto": 40,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T18:38:23.842Z"
-    },
-    {
-      "id": "24994",
-      "loja": "Mercado Livre",
-      "titulo": "Processador Amd Ryzen 7 8700g 24mb Cache 4.2ghz - 5.1ghz",
-      "link": "https://meli.la/2zykaKr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_633294-MLA99488407296_112025-F.jpg",
-      "preco": 1284,
-      "precoDe": 2177,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T18:35:09.269Z"
-    },
-    {
-      "id": "24991",
-      "loja": "Mercado Livre",
-      "titulo": "Her Code Eau De Parfum 50ml + Loção Corporal 200ml Vegano Cruelty-Free",
-      "link": "https://meli.la/2BZ8UFQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_752513-MLA80735210943_112024-F.jpg",
-      "preco": 225.02,
-      "precoDe": 277.8,
-      "desconto": 10,
-      "cupom": "SITE0110",
-      "enviadoEm": "2026-10-01T18:31:38.813Z"
-    },
-    {
-      "id": "24986",
-      "loja": "Mercado Livre",
-      "titulo": "Triciclo Infantil 3 Rodas Brinquedo Passeio Com Cestinha Branco",
-      "link": "https://meli.la/1MGgeNN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879597-MLA99522104004_122025-F.jpg",
-      "preco": 107.58,
-      "precoDe": 259.9,
-      "desconto": 51,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T18:30:42.435Z"
-    },
-    {
-      "id": "24980",
-      "loja": "Mercado Livre",
-      "titulo": "Tinta Para Piso calçada Coral Pinta Piso 18L Concreto Tráfego Intenso",
-      "link": "https://meli.la/2nvygEi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99539829360_122025-F.jpg",
-      "preco": 247.61999999999998,
-      "precoDe": 402,
-      "desconto": 23,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-10-01T18:29:34.026Z"
     }
   ]
 }
