@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-02T14:05:55.518Z",
+  "atualizadoEm": "2026-10-02T14:35:53.529Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25286",
+      "loja": "Amazon",
+      "titulo": "Granado Repelente Longa Duração, 110ml",
+      "link": "https://www.amazon.com.br/dp/B07FFC2MGV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pTScJLl6L._SL400_.jpg",
+      "preco": 43.54,
+      "precoDe": 48.55,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T14:25:53.526Z"
+    },
+    {
+      "id": "25284",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
+      "link": "https://s.shopee.com.br/6AlTlY1oaL",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
+      "preco": 3.9,
+      "precoDe": 8.86,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T14:18:42.735Z"
+    },
     {
       "id": "25274",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-01T16:44:51.069Z"
-    },
-    {
-      "id": "24907",
-      "loja": "Shopee",
-      "titulo": "Mesa de Cabeceira Retrô Compacta com Nicho para Quarto Sala Casal ou Solteiro Palma",
-      "link": "https://s.shopee.com.br/30oQXuJSaO",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6x-luv5vclgwaxb45_tn",
-      "preco": 29.9,
-      "precoDe": 49.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T16:44:03.363Z"
-    },
-    {
-      "id": "24906",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 149,
-      "precoDe": 222.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T16:40:33.549Z"
     }
   ]
 }
