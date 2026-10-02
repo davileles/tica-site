@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-02T12:05:55.517Z",
+  "atualizadoEm": "2026-10-02T12:34:21.746Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25194",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
+      "link": "https://meli.la/2CNfb2o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
+      "preco": 538.2,
+      "precoDe": 999.98,
+      "desconto": 40,
+      "cupom": "SEMPREPROMO",
+      "enviadoEm": "2026-10-02T12:24:21.745Z"
+    },
+    {
+      "id": "25182",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/7KxR0uwvfS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T12:20:49.801Z"
+    },
+    {
+      "id": "25181",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Gigabyte 25\"",
+      "link": "https://meli.la/2dNkTHm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921503-MLB118571899815_102026-O.webp",
+      "preco": 649.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SEMPREPROMO",
+      "enviadoEm": "2026-10-02T12:17:34.288Z"
+    },
+    {
+      "id": "25180",
+      "loja": "Mercado Livre",
+      "titulo": "Freezer Horizontal 100l Inverter Bivolt Branco Midea Branco MDRC151FZD013",
+      "link": "https://meli.la/1Q57ytK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966055-MLA109948324692_042026-F.jpg",
+      "preco": 756,
+      "precoDe": 1419,
+      "desconto": 24,
+      "cupom": "VALEPROMO",
+      "enviadoEm": "2026-10-02T12:14:06.820Z"
+    },
+    {
+      "id": "25175",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Barril 5L",
+      "link": "https://s.shopee.com.br/qjxGnhvGE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
+      "preco": 71.9,
+      "precoDe": 140.98,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T12:10:44.978Z"
+    },
     {
       "id": "25167",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 55,
       "cupom": "SITE0110",
       "enviadoEm": "2026-10-01T15:35:41.316Z"
-    },
-    {
-      "id": "24867",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50-",
-      "link": "https://meli.la/2wowv3T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992466-MLB116831200087_082026-O.webp",
-      "preco": 65.44,
-      "precoDe": 122.9,
-      "desconto": 37,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T15:26:29.713Z"
-    },
-    {
-      "id": "24866",
-      "loja": "Amazon",
-      "titulo": "CÂMERA INSTAX PAL BLUE",
-      "link": "https://www.amazon.com.br/dp/B0CJL6Z5K2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lltch9oOL._SL400_.jpg",
-      "preco": 319,
-      "precoDe": 719,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T15:23:00.763Z"
-    },
-    {
-      "id": "24862",
-      "loja": "Shopee",
-      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-      "link": "https://s.shopee.com.br/5LCLEzr3cP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
-      "preco": 15.13,
-      "precoDe": 21.31,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T15:14:58.633Z"
-    },
-    {
-      "id": "24857",
-      "loja": "Amazon",
-      "titulo": "Tramontina Escada de Alumínio 5 degraus",
-      "link": "https://www.amazon.com.br/dp/B0GT6GL8J6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31c6AgCy-yL._SL400_.jpg",
-      "preco": 179.9,
-      "precoDe": 279,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T15:07:47.424Z"
-    },
-    {
-      "id": "24856",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
-      "preco": 33,
-      "precoDe": 50.32,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T15:06:41.740Z"
     }
   ]
 }
