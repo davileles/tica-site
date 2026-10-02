@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-02T11:35:55.517Z",
+  "atualizadoEm": "2026-10-02T12:05:55.517Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25167",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Uh08pKfHL._SL400_.jpg",
+      "preco": 79.22,
+      "precoDe": 109.78,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T12:01:45.763Z"
+    },
+    {
+      "id": "25166",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51FmoBbtF-L._SL400_.jpg",
+      "preco": 95.67,
+      "precoDe": 109.78,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T12:00:48.969Z"
+    },
+    {
+      "id": "25164",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray No Ten 750ml",
+      "link": "https://www.amazon.com.br/dp/B0DXF1QBM1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UEcjFNlTL._SL400_.jpg",
+      "preco": 139.99,
+      "precoDe": 176.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T11:53:38.690Z"
+    },
+    {
+      "id": "25161",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, Fácil de Vestir, 132 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY6SGFY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51CaGcWjJbL._SL400_.jpg",
+      "preco": 213.88,
+      "precoDe": 229.49,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T11:50:21.518Z"
+    },
+    {
+      "id": "25160",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 178.19,
+      "precoDe": 229.49,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T11:49:10.351Z"
+    },
+    {
+      "id": "25157",
+      "loja": "Shopee",
+      "titulo": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas 500g/1kg /2kg",
+      "link": "https://s.shopee.com.br/2gBbQnR93B",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j0-medc35ydcm4m9c_tn",
+      "preco": 10,
+      "precoDe": 14.93,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T11:48:22.080Z"
+    },
     {
       "id": "25152",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-01T15:06:41.740Z"
-    },
-    {
-      "id": "24854",
-      "loja": "Amazon",
-      "titulo": "Whisky Dewars 15 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B07GQ3FD6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QZyTloI8L._SL400_.jpg",
-      "preco": 198.2,
-      "precoDe": 263.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T14:59:40.454Z"
-    },
-    {
-      "id": "24853",
-      "loja": "Amazon",
-      "titulo": "Lavador Nasal Seringa 2 unidades, Buba",
-      "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PmDnWl-2L._SL400_.jpg",
-      "preco": 12.36,
-      "precoDe": 18.25,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T14:58:37.880Z"
-    },
-    {
-      "id": "24852",
-      "loja": "Mercado Livre",
-      "titulo": "Piscina MOR Inflável 1000 Litros Splash Fun Azul - 1048",
-      "link": "https://meli.la/2SkFMyv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717751-MLA99439703092_112025-F.jpg",
-      "preco": 118.32,
-      "precoDe": 259,
-      "desconto": 46,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T14:57:45.866Z"
-    },
-    {
-      "id": "24848",
-      "loja": "Shopee",
-      "titulo": "KY2 Pro Sem Fio Bluetooth 5.3 Fone De Ouvido Único Tampões Ultra Longa Vida Útil Da Bateria Negócios Esportes Fones Com",
-      "link": "https://s.shopee.com.br/9AP3mMjHFg",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lufrk06tgqr7d8_tn",
-      "preco": 7.59,
-      "precoDe": 21.08,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T14:52:26.352Z"
-    },
-    {
-      "id": "24838",
-      "loja": "Amazon",
-      "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
-      "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31V6A5ZdwsL._SL400_.jpg",
-      "preco": 75.19,
-      "precoDe": 105.81,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T14:34:11.191Z"
-    },
-    {
-      "id": "24837",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho de Bebê Cosco Kids, Toffy, Preto Absoluto",
-      "link": "https://meli.la/2YZjdxy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963506-MLA99547392476_122025-F.jpg",
-      "preco": 359.9,
-      "precoDe": 599,
-      "desconto": 32,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T14:33:14.331Z"
     }
   ]
 }
