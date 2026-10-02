@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-02T12:34:21.746Z",
+  "atualizadoEm": "2026-10-02T12:35:55.517Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25209",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador De Pó E Líquido Portátil Wap Gtw Compact 1400w 5,5L 220V",
+      "link": "https://meli.la/2nCDND3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871263-MLU77395567653_072024-F.jpg",
+      "preco": 169.11,
+      "precoDe": 381,
+      "desconto": 51,
+      "cupom": "SEMPREPROMO",
+      "enviadoEm": "2026-10-02T12:35:36.221Z"
+    },
     {
       "id": "25194",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 28,
       "cupom": "MODAML",
       "enviadoEm": "2026-10-01T15:38:48.167Z"
-    },
-    {
-      "id": "24873",
-      "loja": "Mercado Livre",
-      "titulo": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-      "link": "https://meli.la/1WFQHgu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696266-MLA97205822349_112025-F.jpg",
-      "preco": 80.86,
-      "precoDe": 199,
-      "desconto": 55,
-      "cupom": "SITE0110",
-      "enviadoEm": "2026-10-01T15:35:41.316Z"
     }
   ]
 }
