@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T19:29:37.356Z",
+  "atualizadoEm": "2026-10-02T19:45:41.487Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -79,7 +79,7 @@
       "loja": "C&A",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 199,
+      "minimo": null,
       "maximo": null,
       "limite": null,
       "observacao": null,
@@ -399,6 +399,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "15OFFRAM",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "COMPREJUNTOAPPLE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -420,6 +432,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-09T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "SOMZERA12",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -456,6 +480,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-05T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "X3DPOWER",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "STREAMER10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-06T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
