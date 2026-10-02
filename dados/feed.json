@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-02T16:02:22.234Z",
+  "atualizadoEm": "2026-10-02T16:25:01.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25341",
+      "loja": "Amazon",
+      "titulo": "Replay Kids Troninho Penico Infantil Musical Sapinho Verde",
+      "link": "https://www.amazon.com.br/dp/B0DJ3M8JDJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i6zPQ5ubL._SL400_.jpg",
+      "preco": 55.34,
+      "precoDe": 76.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:15:01.072Z"
+    },
+    {
+      "id": "25339",
+      "loja": "Amazon",
+      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
+      "preco": 109.99,
+      "precoDe": 136.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:14:10.197Z"
+    },
+    {
+      "id": "25336",
+      "loja": "Shopee",
+      "titulo": "Caminha Cama Pet com Fundo impermeável com Zíper para Cão Gato Grande, Médio e Pequeno",
+      "link": "https://s.shopee.com.br/4LJphwLDGL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3niuyi7s3kd3_tn",
+      "preco": 58,
+      "precoDe": 90.63,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:11:40.509Z"
+    },
     {
       "id": "25324",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 24,
       "cupom": "BRINCAR",
       "enviadoEm": "2026-10-01T17:19:05.529Z"
-    },
-    {
-      "id": "24938",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
-      "link": "https://meli.la/2JSfSet",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
-      "preco": 166.3,
-      "precoDe": 405,
-      "desconto": 52,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T17:18:17.160Z"
-    },
-    {
-      "id": "24937",
-      "loja": "Amazon",
-      "titulo": "Kit Encrespando Modelando a Juba com Máscara Reconstrutora",
-      "link": "https://www.amazon.com.br/dp/B0H3QYG2L6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qCDvWjVZL._SL400_.jpg",
-      "preco": 99,
-      "precoDe": 119,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T17:17:28.479Z"
-    },
-    {
-      "id": "24934",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Camisetas Tommy Hilfiger Core/stack Azul Marinho/preta",
-      "link": "https://meli.la/1FKsqwP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796072-MLB116813944725_082026-O.webp",
-      "preco": 218.95,
-      "precoDe": 619.99,
-      "desconto": 65,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T17:13:58.738Z"
     }
   ]
 }
