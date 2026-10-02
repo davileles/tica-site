@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-02T22:59:33.904Z",
+  "atualizadoEm": "2026-10-02T23:10:48.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25538",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional 2 Baterias Com Maleta + Kit Acessórios 145 Peças Tbkit19",
+      "link": "https://meli.la/2RoJB18",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_909899-MLA110797840878_052026-F.jpg",
+      "preco": 319.9,
+      "precoDe": 499.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T23:00:48.710Z"
+    },
+    {
+      "id": "25537",
+      "loja": "Mercado Livre",
+      "titulo": "6 Pares Meias Puma Cano Médio Alto Atoalhada Academia Sport",
+      "link": "https://meli.la/2Diknp7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720199-MLB116655968171_082026-O.webp",
+      "preco": 57.56,
+      "precoDe": 184.43,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:59:54.224Z"
+    },
     {
       "id": "25536",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-02T13:11:01.841Z"
-    },
-    {
-      "id": "25238",
-      "loja": "Mercado Livre",
-      "titulo": "Heaphone Havit H630bt Bluetooth 5.3 On-ear 3d 55h Cor Bege",
-      "link": "https://meli.la/2qpnRsi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906266-MLA99523577464_122025-F.jpg",
-      "preco": 88.49,
-      "precoDe": 199,
-      "desconto": 51,
-      "cupom": "SEMPREPROMO",
-      "enviadoEm": "2026-10-02T12:59:46.207Z"
-    },
-    {
-      "id": "25227",
-      "loja": "Amazon",
-      "titulo": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
-      "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QMgmmQurL._SL400_.jpg",
-      "preco": 849.99,
-      "precoDe": 1699.99,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:55:16.333Z"
     }
   ]
 }
