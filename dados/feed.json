@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-02T19:45:38.821Z",
+  "atualizadoEm": "2026-10-02T19:59:33.869Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25470",
+      "loja": "Shopee",
+      "titulo": "Tupia Laminadora Manual 6,35mm 600w com 110V e 200V",
+      "link": "https://s.shopee.com.br/80D8KErHfJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdamkglhch6p09_tn",
+      "preco": 119.99,
+      "precoDe": 299.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:59:26.115Z"
+    },
+    {
+      "id": "25469",
+      "loja": "Amazon",
+      "titulo": "SCHWEPPES Tônica Sem Açúcar 220ml (12 latas)",
+      "link": "https://www.amazon.com.br/dp/B0C9RX197Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Pfsyow9TL._SL400_.jpg",
+      "preco": 62.9,
+      "precoDe": 69.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:58:23.088Z"
+    },
+    {
+      "id": "25468",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Olympikus Electra Preto Corrida Feminino Adulto",
+      "link": "https://meli.la/146A2Gm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_671924-MLB54154761233_032023-O.webp",
+      "preco": 152.91,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-02T19:57:19.533Z"
+    },
+    {
+      "id": "25467",
+      "loja": "Mercado Livre",
+      "titulo": "Mala De 10kg Bordo De Mão Bloguerinha Com Frasqueira",
+      "link": "https://meli.la/29z46TZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960689-MLB104963902505_012026-O.webp",
+      "preco": 219,
+      "precoDe": 471.56,
+      "desconto": 49,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T19:54:09.118Z"
+    },
+    {
+      "id": "25466",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calça Esportiva Elastano Academia Masculina Treino",
+      "link": "https://meli.la/18bSUdA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812034-MLB86789760303_062025-O.webp",
+      "preco": 55.28999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T19:50:46.747Z"
+    },
+    {
+      "id": "25459",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/80D8JSxXhC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 27.99,
+      "precoDe": 69.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:46:56.814Z"
+    },
     {
       "id": "25454",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 14,
       "cupom": "OFERTA",
       "enviadoEm": "2026-10-01T20:53:00.534Z"
-    },
-    {
-      "id": "25078",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
-      "preco": 30.64,
-      "precoDe": 41.96,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T20:43:34.378Z"
-    },
-    {
-      "id": "25077",
-      "loja": "Shopee",
-      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
-      "link": "https://s.shopee.com.br/40gy10J08o",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
-      "preco": 116.6,
-      "precoDe": 212,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T20:42:29.825Z"
-    },
-    {
-      "id": "25052",
-      "loja": "Shopee",
-      "titulo": "Torno Morsa de Bancada 6\" 150 mm Giratória C/ Bigorna",
-      "link": "https://s.shopee.com.br/80D6kypiDK",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m7nbbimro0bg74_tn",
-      "preco": 184.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T20:20:34.248Z"
-    },
-    {
-      "id": "25050",
-      "loja": "Shopee",
-      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
-      "link": "https://s.shopee.com.br/2gBaOzRzfz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
-      "preco": 18.9,
-      "precoDe": 27,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T20:19:23.091Z"
-    },
-    {
-      "id": "25048",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Caven 2.0 Puma",
-      "link": "https://meli.la/1aSSff3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652047-MLB72356338463_102023-O.webp",
-      "preco": 199.08,
-      "precoDe": 449.99,
-      "desconto": 48,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T20:11:22.114Z"
-    },
-    {
-      "id": "25047",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV LG UHD AI UA85 60 polegadas HDR10 Pro Processador α7 AI Ger 8 webOS 25",
-      "link": "https://meli.la/1kcqoTp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734748-MLA107588012345_022026-F.jpg",
-      "preco": 2722.28,
-      "precoDe": 3699,
-      "desconto": 20,
-      "cupom": "PROMOAQU",
-      "enviadoEm": "2026-10-01T20:07:50.625Z"
     }
   ]
 }
