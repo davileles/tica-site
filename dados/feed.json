@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-02T20:29:33.871Z",
+  "atualizadoEm": "2026-10-02T20:53:24.210Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25482",
+      "loja": "Amazon",
+      "titulo": "Vonder, Carro Para Ferramentas, Com 5 Gavetas.",
+      "link": "https://www.amazon.com.br/dp/B084MK6FXR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DIEqQRvFL._SL400_.jpg",
+      "preco": 1355.6,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:43:24.210Z"
+    },
+    {
+      "id": "25481",
+      "loja": "Mercado Livre",
+      "titulo": "Whisky Johnnie Walker Black Label de 1L",
+      "link": "https://meli.la/2kRuqTK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
+      "preco": 127,
+      "precoDe": 229.98,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:42:12.733Z"
+    },
+    {
+      "id": "25480",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
+      "link": "https://meli.la/2FQFVoF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989756-MLB111387587891_052026-O.webp",
+      "preco": 152.99,
+      "precoDe": 339.99,
+      "desconto": 50,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T20:40:57.342Z"
+    },
+    {
+      "id": "25479",
+      "loja": "Mercado Livre",
+      "titulo": "Boné D Ayrton Senna C azul royal, cor verde escuro, tamanho fixo",
+      "link": "https://meli.la/2GqK3AN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691514-MLA96651583715_102025-F.jpg",
+      "preco": 55.86,
+      "precoDe": 84,
+      "desconto": 5,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T20:36:53.916Z"
+    },
+    {
+      "id": "25478",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/6AlUBFvfuL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:33:21.378Z"
+    },
     {
       "id": "25477",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-10-01T22:16:40.176Z"
-    },
-    {
-      "id": "25101",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho De Passeio Para Bebê Spot (até 15kg) Preto - Voyage",
-      "link": "https://meli.la/1JHxNrN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939215-MLA115012899467_072026-F.jpg",
-      "preco": 395,
-      "precoDe": 669,
-      "desconto": 33,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T22:09:10.888Z"
-    },
-    {
-      "id": "25100",
-      "loja": "Amazon",
-      "titulo": "Tramontina 41128208, Jogo de Chaves Combinadas Pescoço Curto 8 Peças",
-      "link": "https://www.amazon.com.br/dp/B076MDJ75F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51q82ZpWKVL._SL400_.jpg",
-      "preco": 111,
-      "precoDe": 118.03,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T22:00:56.850Z"
-    },
-    {
-      "id": "25099",
-      "loja": "Shopee",
-      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
-      "link": "https://s.shopee.com.br/AUuRptkZIW",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
-      "preco": 106,
-      "precoDe": 158.21,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:54:08.501Z"
-    },
-    {
-      "id": "25094",
-      "loja": "Shopee",
-      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-      "link": "https://s.shopee.com.br/70KZdu1wiz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
-      "preco": 11.22,
-      "precoDe": 18.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:31:31.653Z"
-    },
-    {
-      "id": "25092",
-      "loja": "Amazon",
-      "titulo": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
-      "link": "https://www.amazon.com.br/dp/B08DPL6H9X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yhUVedEgL._SL400_.jpg",
-      "preco": 48.99,
-      "precoDe": 76.4,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:23:33.286Z"
     }
   ]
 }
