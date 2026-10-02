@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T14:35:56.475Z",
+  "atualizadoEm": "2026-10-02T15:05:58.597Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -216,18 +216,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-04T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DIGITA200OFF",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-02T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -759,15 +747,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE0110",
+      "codigo": "SUPERMERCADO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
+      "valor": 15,
+      "minimo": 99,
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-10-02T15:00:05.000Z",
+      "validadeAte": "2026-10-03T15:03:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -780,6 +768,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-03T12:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SOM011010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-10-03T15:03:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
