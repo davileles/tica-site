@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-02T17:05:55.523Z",
+  "atualizadoEm": "2026-10-02T17:35:55.522Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25388",
+      "loja": "Mercado Livre",
+      "titulo": "Armani Beauty Perfume Masculino Stronger With You Parfum 100ml",
+      "link": "https://meli.la/2z9Qgz7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630405-MLA90655514750_082025-F.jpg",
+      "preco": 599.99,
+      "precoDe": 929,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T17:32:28.347Z"
+    },
+    {
+      "id": "25380",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Worker Compacta LW1305, com 1200W e 220V.",
+      "link": "https://meli.la/26nS3Ve",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624271-MLA116517318496_092026-O.webp",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-02T17:27:43.477Z"
+    },
+    {
+      "id": "25377",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Jeans Feminina Country Flare Cós Alto Com Elastano",
+      "link": "https://meli.la/2qJgdk5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989122-MLB96041473504_102025-O.webp",
+      "preco": 45.45,
+      "precoDe": 75.49,
+      "desconto": 20,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-10-02T17:22:43.198Z"
+    },
+    {
+      "id": "25373",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
+      "link": "https://s.shopee.com.br/3B7sOQoNLH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 9.9,
+      "precoDe": 26.05,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T17:19:16.553Z"
+    },
     {
       "id": "25362",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 54,
       "cupom": "MODAML",
       "enviadoEm": "2026-10-01T17:54:17.658Z"
-    },
-    {
-      "id": "24966",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Polo Wear Piquet Listrada",
-      "link": "https://meli.la/1TAs1x1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621565-MLB114929017376_082026-O.webp",
-      "preco": 59.489999999999995,
-      "precoDe": 139.99,
-      "desconto": 50,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T17:51:00.071Z"
-    },
-    {
-      "id": "24965",
-      "loja": "Amazon",
-      "titulo": "Vonder, Multímetro Digital Mdv 0610.",
-      "link": "https://www.amazon.com.br/dp/B07SRW4CKX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EXzKU+wYL._SL400_.jpg",
-      "preco": 111,
-      "precoDe": 157.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T17:43:37.395Z"
-    },
-    {
-      "id": "24964",
-      "loja": "Mercado Livre",
-      "titulo": "Banheira De Bebê Dobrável 45l Com Redutor De Assento Pipdip",
-      "link": "https://meli.la/17ze3Xz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787607-MLB112356649852_062026-O.webp",
-      "preco": 139.4,
-      "precoDe": 249.9,
-      "desconto": 34,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T17:40:23.014Z"
-    },
-    {
-      "id": "24963",
-      "loja": "Amazon",
-      "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
-      "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31V8KWfrugL._SL400_.jpg",
-      "preco": 13.99,
-      "precoDe": 22,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T17:39:16.168Z"
     }
   ]
 }
