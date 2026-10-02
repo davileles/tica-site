@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T18:59:36.490Z",
+  "atualizadoEm": "2026-10-02T19:29:37.356Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -951,18 +951,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "PICDAY30",
-      "loja": "Outro: PicPay Delivery",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 70,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-02T19:00:20.000Z",
-      "url": null
-    },
-    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1033,6 +1021,18 @@
       "observacao": null,
       "validadeAte": "2026-10-03T14:31:21.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "PROMO100",
+      "loja": "Under Armour",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
     }
   ]
 }
