@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-02T20:59:33.874Z",
+  "atualizadoEm": "2026-10-02T21:15:44.701Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25489",
+      "loja": "Amazon",
+      "titulo": "Inversor Solda Eletrodo e TIG IM125 Com Máscara - Bivolt Vonder",
+      "link": "https://www.amazon.com.br/dp/B0DWFZWLHF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4140rl5XZoL._SL400_.jpg",
+      "preco": 659,
+      "precoDe": 1108.61,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T21:05:44.699Z"
+    },
+    {
+      "id": "25488",
+      "loja": "Amazon",
+      "titulo": "ONLYTANG Kit C/ 8 Unidades Cubo De Gelo Artificial Em Aço Inox",
+      "link": "https://www.amazon.com.br/dp/B0C4PV5HPN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419D1LHNykL._SL400_.jpg",
+      "preco": 45.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T21:04:41.513Z"
+    },
+    {
+      "id": "25487",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Reserva Roma Masculino Casual Cano Baixo Elegante",
+      "link": "https://meli.la/33phYVy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876206-MLB85157928606_052025-O.webp",
+      "preco": 222.99,
+      "precoDe": 399.99,
+      "desconto": 39,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T21:03:44.716Z"
+    },
+    {
+      "id": "25486",
+      "loja": "Mercado Livre",
+      "titulo": "Caneta 3d Impressora Profissional Infantil Com Refil E Cabo Usb Parosprotect - Lilás",
+      "link": "https://meli.la/1MsZ3Yp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820855-MLA96096316195_102025-F.jpg",
+      "preco": 54.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T20:59:42.326Z"
+    },
     {
       "id": "25485",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-02T10:32:50.727Z"
-    },
-    {
-      "id": "25119",
-      "loja": "Amazon",
-      "titulo": "Whisky Royal Salute 21 Anos 700ml",
-      "link": "https://www.amazon.com.br/dp/B001TZAO6U?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PqrmHPBDL._SL400_.jpg",
-      "preco": 809,
-      "precoDe": 999,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T01:49:40.164Z"
-    },
-    {
-      "id": "25117",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Bolinha Macarrão Dedinho Antiderrapante Várias Cores",
-      "link": "https://s.shopee.com.br/4fwexpZhK9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckrhbrs1nup9b_tn",
-      "preco": 17.9,
-      "precoDe": 35.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T23:02:25.084Z"
-    },
-    {
-      "id": "25114",
-      "loja": "Amazon",
-      "titulo": "Tramontina 41191165, Maleta com Ferramentas 65 Peças",
-      "link": "https://www.amazon.com.br/dp/B076M8G7VT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51l0-rYbc2L._SL400_.jpg",
-      "preco": 275,
-      "precoDe": 328.46,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T22:51:12.930Z"
-    },
-    {
-      "id": "25112",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/6VOJ7dbEzT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 25.98,
-      "precoDe": 46.39,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T22:39:20.570Z"
     }
   ]
 }
