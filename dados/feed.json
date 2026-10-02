@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-02T10:35:55.517Z",
+  "atualizadoEm": "2026-10-02T11:05:55.516Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25130",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/1AqClsCiW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 39.9,
+      "precoDe": 56.2,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T11:03:04.202Z"
+    },
     {
       "id": "25129",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-01T14:05:31.343Z"
-    },
-    {
-      "id": "24811",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display LCD",
-      "link": "https://meli.la/2TBn4Mn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA117138558111_092026-F.jpg",
-      "preco": 338.72,
-      "precoDe": 1111,
-      "desconto": 66,
-      "cupom": "PROMOML",
-      "enviadoEm": "2026-10-01T14:01:47.984Z"
     }
   ]
 }
