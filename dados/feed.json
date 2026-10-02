@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-02T16:25:01.073Z",
+  "atualizadoEm": "2026-10-02T16:35:55.522Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25348",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
+      "link": "https://s.shopee.com.br/9zyCTtnKTV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
+      "preco": 39.99,
+      "precoDe": 56.32,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:34:13.378Z"
+    },
+    {
+      "id": "25345",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Pares Meia  Antiderrapante Esportiva Futebol Treino",
+      "link": "https://meli.la/1cYUSGg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678097-MLB92696953976_092025-O.webp",
+      "preco": 25.55,
+      "precoDe": 26.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:30:59.096Z"
+    },
+    {
+      "id": "25344",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Feminina Térmica Manga Longa Proteção Solar Uv",
+      "link": "https://meli.la/1F7L9RG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927384-MLB110614653958_052026-O.webp",
+      "preco": 31.99,
+      "precoDe": 43.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T16:27:42.061Z"
+    },
     {
       "id": "25341",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 39,
       "cupom": "BRINCAR",
       "enviadoEm": "2026-10-01T17:22:03.869Z"
-    },
-    {
-      "id": "24948",
-      "loja": "Mercado Livre",
-      "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
-      "link": "https://meli.la/31s8c8F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
-      "preco": 81.56,
-      "precoDe": 180.9,
-      "desconto": 47,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T17:20:50.070Z"
-    },
-    {
-      "id": "24946",
-      "loja": "Amazon",
-      "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
-      "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Uewj7cHrL._SL400_.jpg",
-      "preco": 899.99,
-      "precoDe": 1359.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T17:20:02.247Z"
-    },
-    {
-      "id": "24945",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Para Automóvel 9 A 36kg Grafite E Preto Styll Baby",
-      "link": "https://meli.la/2cPMeFa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675866-MLA98888771613_112025-F.jpg",
-      "preco": 239.7,
-      "precoDe": 369.9,
-      "desconto": 24,
-      "cupom": "BRINCAR",
-      "enviadoEm": "2026-10-01T17:19:05.529Z"
     }
   ]
 }
