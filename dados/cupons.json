@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T19:45:41.487Z",
+  "atualizadoEm": "2026-10-02T21:59:36.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -529,6 +529,18 @@
       "observacao": null,
       "validadeAte": "2026-10-07T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMBIKE150",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido para bicicletas",
+      "validadeAte": "2026-10-03T21:37:00.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "SITE100",
