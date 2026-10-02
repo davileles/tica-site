@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-02T13:05:55.517Z",
+  "atualizadoEm": "2026-10-02T13:29:04.252Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25256",
+      "loja": "Amazon",
+      "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
+      "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51svJ-Hu8VL._SL400_.jpg",
+      "preco": 100.62,
+      "precoDe": 131.78,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:19:04.251Z"
+    },
+    {
+      "id": "25255",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+      "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v9SS5+YCL._SL400_.jpg",
+      "preco": 95.18,
+      "precoDe": 131.78,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:18:11.660Z"
+    },
+    {
+      "id": "25250",
+      "loja": "Amazon",
+      "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
+      "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51pJLarXKuL._SL400_.jpg",
+      "preco": 84.9,
+      "precoDe": 113.25,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:17:23.807Z"
+    },
+    {
+      "id": "25249",
+      "loja": "Mercado Livre",
+      "titulo": "Casinha Barraca Infantil Tenda Cabaninha Brinquedo Crianca",
+      "link": "https://meli.la/1qkMJtW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911913-MLB111828787135_052026-O.webp",
+      "preco": 67.61,
+      "precoDe": 175.62,
+      "desconto": 45,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-02T13:16:26.128Z"
+    },
+    {
+      "id": "25246",
+      "loja": "Shopee",
+      "titulo": "Arranhador Para Gatos Poste Brinquedo Bolinha Interativo",
+      "link": "https://s.shopee.com.br/4B0PJDgVPM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhro7dplle6b02_tn",
+      "preco": 29.81,
+      "precoDe": 39.75,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:11:01.841Z"
+    },
     {
       "id": "25238",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 23,
       "cupom": "OFERTA",
       "enviadoEm": "2026-10-01T16:28:02.955Z"
-    },
-    {
-      "id": "24895",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Qix Combat 3 Vulcan",
-      "link": "https://meli.la/1xPXJxo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683568-MLB112154924814_062026-O.webp",
-      "preco": 148.74,
-      "precoDe": 239.99,
-      "desconto": 27,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T16:24:33.672Z"
-    },
-    {
-      "id": "24894",
-      "loja": "Shopee",
-      "titulo": "Caixa de Som Bluetooth Karaokê com 2 Microfones Sem Fio Luz RGB Portátil",
-      "link": "https://s.shopee.com.br/7AdzUY2iU2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hr-mpidoa1sbggbc3_tn",
-      "preco": 36.99,
-      "precoDe": 99.97,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T16:21:00.201Z"
-    },
-    {
-      "id": "24892",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Chave Boca E Estrela Combinada 12 Pçs Aço 6-22 Mm Cromada Profissional Tkch12 The Black Tools",
-      "link": "https://meli.la/2HM82fx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610242-MLA107057310600_022026-F.jpg",
-      "preco": 44,
-      "precoDe": 109.9,
-      "desconto": 50,
-      "cupom": "OFERTAS",
-      "enviadoEm": "2026-10-01T16:17:35.029Z"
-    },
-    {
-      "id": "24890",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 119.9,
-      "precoDe": 174.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T16:13:23.758Z"
-    },
-    {
-      "id": "24888",
-      "loja": "Mercado Livre",
-      "titulo": "Necessaire Sem Gênero Washbag Kit Necessaires Rosa Liso",
-      "link": "https://meli.la/18nUdzP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617429-MLA100079700325_122025-F.jpg",
-      "preco": 17.86,
-      "precoDe": 27.83,
-      "desconto": 8,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-10-01T16:09:19.005Z"
     }
   ]
 }
