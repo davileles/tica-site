@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T03:05:55.952Z",
+  "atualizadoEm": "2026-10-02T12:05:58.286Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,6 +435,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "SITE100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T12:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE40",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T12:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -579,6 +603,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VALEPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-03T12:00:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MEUVALE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-03T12:00:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE30",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T12:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -663,7 +723,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFFAQUI",
+      "codigo": "DESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
@@ -671,19 +731,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
+      "validadeAte": "2026-10-03T12:00:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -711,42 +759,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOCERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIAMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -756,78 +768,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TEMPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BRINCAR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTOSMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -843,15 +783,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOAQU",
+      "codigo": "SEMPREPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
+      "valor": 10,
+      "minimo": 79,
       "maximo": null,
-      "limite": 300,
+      "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-10-02T12:00:04.000Z",
+      "validadeAte": "2026-10-03T12:00:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
