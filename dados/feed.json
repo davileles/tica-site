@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-02T21:59:33.876Z",
+  "atualizadoEm": "2026-10-02T22:27:40.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25523",
+      "loja": "Amazon",
+      "titulo": "Kit Pickleball Lazer 2 Raquetes 4 Bolas e Bolsa Vollo",
+      "link": "https://www.amazon.com.br/dp/B0F9XN625N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41B4PFRrOrL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 139.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:17:40.412Z"
+    },
+    {
+      "id": "25522",
+      "loja": "Amazon",
+      "titulo": "WAP Trena Digital a Laser TLP 40, Tela LCD e Desligamento Automático, 40 Metros, Resistente à Água e Impactos Baixos",
+      "link": "https://www.amazon.com.br/dp/B0BFFGX3CV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/519sQv-JSOL._SL400_.jpg",
+      "preco": 166.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:14:29.184Z"
+    },
+    {
+      "id": "25521",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+      "link": "https://meli.la/1sB5EE2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788146-MLB116537413239_082026-O.webp",
+      "preco": 125.44,
+      "precoDe": 289.99,
+      "desconto": 52,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T22:13:17.109Z"
+    },
+    {
+      "id": "25520",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Cuba Gourmet Premium Smart 75x46cm Aço Inox 304 com Display de Temperatura, Torneira Monocomando, Lavador de Copos e Suporte para Celular",
+      "link": "https://meli.la/1XqS3GS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735827-MLA112481762207_052026-F.jpg",
+      "preco": 552.3,
+      "precoDe": 1127.14,
+      "desconto": 30,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T22:09:48.848Z"
+    },
+    {
+      "id": "25519",
+      "loja": "Shopee",
+      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "link": "https://s.shopee.com.br/8pmFSYo0z1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
+      "preco": 8.87,
+      "precoDe": 17.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:06:30.070Z"
+    },
     {
       "id": "25513",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 40,
       "cupom": "SEMPREPROMO",
       "enviadoEm": "2026-10-02T12:24:21.745Z"
-    },
-    {
-      "id": "25182",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/7KxR0uwvfS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 350,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:20:49.801Z"
-    },
-    {
-      "id": "25181",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Gigabyte 25\"",
-      "link": "https://meli.la/2dNkTHm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921503-MLB118571899815_102026-O.webp",
-      "preco": 649.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREPROMO",
-      "enviadoEm": "2026-10-02T12:17:34.288Z"
-    },
-    {
-      "id": "25180",
-      "loja": "Mercado Livre",
-      "titulo": "Freezer Horizontal 100l Inverter Bivolt Branco Midea Branco MDRC151FZD013",
-      "link": "https://meli.la/1Q57ytK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966055-MLA109948324692_042026-F.jpg",
-      "preco": 756,
-      "precoDe": 1419,
-      "desconto": 24,
-      "cupom": "VALEPROMO",
-      "enviadoEm": "2026-10-02T12:14:06.820Z"
-    },
-    {
-      "id": "25175",
-      "loja": "Shopee",
-      "titulo": "Cerveja Heineken Barril 5L",
-      "link": "https://s.shopee.com.br/qjxGnhvGE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
-      "preco": 71.9,
-      "precoDe": 140.98,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:10:44.978Z"
-    },
-    {
-      "id": "25167",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Uh08pKfHL._SL400_.jpg",
-      "preco": 79.22,
-      "precoDe": 109.78,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:01:45.763Z"
     }
   ]
 }
