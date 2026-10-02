@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-02T13:29:04.252Z",
+  "atualizadoEm": "2026-10-02T13:35:55.518Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25262",
+      "loja": "Shopee",
+      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+      "link": "https://s.shopee.com.br/9fLLstDBOQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
+      "preco": 30.93,
+      "precoDe": 56.24,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:33:42.255Z"
+    },
     {
       "id": "25256",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-10-01T16:32:33.208Z"
-    },
-    {
-      "id": "24898",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Electrolux Split 9000 Btu Inverter Frio 220v",
-      "link": "https://meli.la/22i1zK2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776468-MLB115732954233_082026-O.webp",
-      "preco": 1410,
-      "precoDe": 2079,
-      "desconto": 23,
-      "cupom": "OFERTA",
-      "enviadoEm": "2026-10-01T16:28:02.955Z"
     }
   ]
 }
