@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-02T22:27:40.414Z",
+  "atualizadoEm": "2026-10-02T22:29:33.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25525",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
+      "link": "https://s.shopee.com.br/3qNZWw38Gv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
+      "preco": 76.43,
+      "precoDe": 149.86,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:29:12.911Z"
+    },
     {
       "id": "25523",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 51,
       "cupom": "SEMPREPROMO",
       "enviadoEm": "2026-10-02T12:35:36.221Z"
-    },
-    {
-      "id": "25194",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 538.2,
-      "precoDe": 999.98,
-      "desconto": 40,
-      "cupom": "SEMPREPROMO",
-      "enviadoEm": "2026-10-02T12:24:21.745Z"
     }
   ]
 }
