@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-02T13:35:55.518Z",
+  "atualizadoEm": "2026-10-02T13:55:31.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25269",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
+      "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31klUfBdRQL._SL400_.jpg",
+      "preco": 459.9,
+      "precoDe": 799,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:45:31.125Z"
+    },
+    {
+      "id": "25268",
+      "loja": "Amazon",
+      "titulo": "Lacoste Original EDP 60 ml",
+      "link": "https://www.amazon.com.br/dp/B0D4QZYCXM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/317U2KmmcFL._SL400_.jpg",
+      "preco": 340.24,
+      "precoDe": 589,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T13:43:46.828Z"
+    },
     {
       "id": "25262",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-01T16:39:17.766Z"
-    },
-    {
-      "id": "24900",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Feminina Daily Insider",
-      "link": "https://meli.la/2HyWudo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725414-MLB111239542527_052026-O.webp",
-      "preco": 56.16,
-      "precoDe": 149,
-      "desconto": 56,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T16:36:05.143Z"
-    },
-    {
-      "id": "24889",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Adizero Drive Rc Adidas",
-      "link": "https://meli.la/2HF3EVw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828819-MLA99336791352_112025-O.webp",
-      "preco": 724.99,
-      "precoDe": 899.99,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T16:32:33.208Z"
     }
   ]
 }
