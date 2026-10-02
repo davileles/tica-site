@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-02T19:29:33.818Z",
+  "atualizadoEm": "2026-10-02T19:45:38.821Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25454",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Alumínio 4 Degraus MOR Prateado/Azul",
+      "link": "https://meli.la/2FKqEkn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773431-MLA115350300121_072026-F.jpg",
+      "preco": 142.41,
+      "precoDe": 167.88,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:35:38.820Z"
+    },
+    {
+      "id": "25453",
+      "loja": "Amazon",
+      "titulo": "Buba Pote Termico C/Colher - Gumy Azul Azul",
+      "link": "https://www.amazon.com.br/dp/B08JXDZVY8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313CACz7fnL._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 151.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:34:35.419Z"
+    },
+    {
+      "id": "25445",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 104,
+      "precoDe": 174.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T19:33:26.249Z"
+    },
+    {
+      "id": "25444",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 3 Camisetas Masculinas Super Cotton - Hering",
+      "link": "https://meli.la/11d6Qer",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619215-MLB115092837448_082026-O.webp",
+      "preco": 229.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-02T19:32:33.809Z"
+    },
     {
       "id": "25438",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 20,
       "cupom": "PROMOAQU",
       "enviadoEm": "2026-10-01T20:07:50.625Z"
-    },
-    {
-      "id": "25046",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
-      "link": "https://meli.la/1C9bQRv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906529-MLA115584916886_092026-F.jpg",
-      "preco": 37.99,
-      "precoDe": 59.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T19:59:44.077Z"
-    },
-    {
-      "id": "25045",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Babá Eletrônica Câmera Inteligente Câmera De Segurança Residencial Interna Wi-fi 360° 1080p Full Hd, Detecção De Movimento Áudio Bidirecional 24/7 ICSEE Câmera De Monitoramen",
-      "link": "https://meli.la/1ot6UJW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710205-MLA116778908950_092026-F.jpg",
-      "preco": 127.88,
-      "precoDe": 335.88,
-      "desconto": 46,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-01T19:58:48.310Z"
-    },
-    {
-      "id": "25044",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Johnson's Baby, Frutas Vermelhas, Edição Limitada, 200ml",
-      "link": "https://www.amazon.com.br/dp/B0HBR5KJWX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mb28WUB8L._SL400_.jpg",
-      "preco": 17.24,
-      "precoDe": 26.39,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T19:57:36.162Z"
-    },
-    {
-      "id": "25042",
-      "loja": "Shopee",
-      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
-      "link": "https://s.shopee.com.br/1VzczI5HrD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
-      "preco": 29.9,
-      "precoDe": 34.77,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T19:56:39.039Z"
     }
   ]
 }
