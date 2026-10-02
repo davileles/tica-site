@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T12:05:58.286Z",
+  "atualizadoEm": "2026-10-02T14:35:56.475Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -591,18 +591,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTASMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
-      "validadeAte": "2026-10-02T14:16:24.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VALEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -925,6 +913,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "C0RR1D41010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-03T14:31:21.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
