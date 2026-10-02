@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-02T22:29:33.902Z",
+  "atualizadoEm": "2026-10-02T22:59:33.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25536",
+      "loja": "Amazon",
+      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
+      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
+      "preco": 35.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:53:39.607Z"
+    },
+    {
+      "id": "25534",
+      "loja": "Shopee",
+      "titulo": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
+      "link": "https://s.shopee.com.br/1BMoNT7zga",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180_tn",
+      "preco": 75.9,
+      "precoDe": 395.22,
+      "desconto": 77,
+      "cupom": "C0RR1D41010",
+      "enviadoEm": "2026-10-02T22:50:49.522Z"
+    },
+    {
+      "id": "25533",
+      "loja": "Amazon",
+      "titulo": "Mouse Basilisk V3 com Fio Preto Razer - RZ0104000100R3M",
+      "link": "https://www.amazon.com.br/dp/B097F8H1MC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N1BZUZLwL._SL400_.jpg",
+      "preco": 250.03,
+      "precoDe": 379.19,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:47:28.202Z"
+    },
+    {
+      "id": "25531",
+      "loja": "Amazon",
+      "titulo": "Novabrink - Super Magia Fantasia Naruto TAM G",
+      "link": "https://www.amazon.com.br/dp/B0BMW4RTN4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rZiw0trbL._SL400_.jpg",
+      "preco": 47.4,
+      "precoDe": 129.9,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:42:37.239Z"
+    },
+    {
+      "id": "25530",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Ferramentas 151 Peças Soquetes Aço Cr-v Para Carro Casa",
+      "link": "https://meli.la/2afTeKH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990467-MLB115293439164_082026-O.webp",
+      "preco": 599.9,
+      "precoDe": 1019.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:38:05.410Z"
+    },
+    {
+      "id": "25529",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila jiesipote-9242 À Prova D'água Reforçada Expansível Cor Preto",
+      "link": "https://meli.la/2HpjQww",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974980-MLA112776013576_062026-F.jpg",
+      "preco": 80.99,
+      "precoDe": 269,
+      "desconto": 67,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T22:37:17.765Z"
+    },
+    {
+      "id": "25528",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Barril 5L",
+      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
+      "preco": 97.91,
+      "precoDe": 119.99,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T22:33:27.777Z"
+    },
+    {
+      "id": "25527",
+      "loja": "Mercado Livre",
+      "titulo": "Saco A Vácuo 80x100 5un Edredom + Bomba Organizador Mala",
+      "link": "https://meli.la/1uVXK53",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899531-MLB107422233903_022026-O.webp",
+      "preco": 41.51,
+      "precoDe": 70.9,
+      "desconto": 16,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T22:32:40.094Z"
+    },
     {
       "id": "25525",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-02T12:55:16.333Z"
-    },
-    {
-      "id": "25226",
-      "loja": "Mercado Livre",
-      "titulo": "God of War Laufey",
-      "link": "https://meli.la/2p6xFm9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863089-MLA116568087280_092026-F.jpg",
-      "preco": 334.71,
-      "precoDe": 399.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:51:47.736Z"
-    },
-    {
-      "id": "25225",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/5VVmrmVtaU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:48:25.541Z"
-    },
-    {
-      "id": "25224",
-      "loja": "Amazon",
-      "titulo": "Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Cinza Lápis",
-      "link": "https://www.amazon.com.br/dp/B0F5X826MH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GMReheAUL._SL400_.jpg",
-      "preco": 241.95,
-      "precoDe": 599,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:45:23.939Z"
-    },
-    {
-      "id": "25219",
-      "loja": "Amazon",
-      "titulo": "Toalha De Banho/Manta Infantil Com Capuz Bichinho Bordado - Tamanho 80x80cm - Toalha Bebê Recém-Nascido, Toque Macio, Absorvente, Ideal Pós-Banho E Presente Maternidade - Premium (",
-      "link": "https://www.amazon.com.br/dp/B0H523M4SZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TT6T0w6WL._SL400_.jpg",
-      "preco": 24.27,
-      "precoDe": 29.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:44:15.239Z"
-    },
-    {
-      "id": "25216",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Tripla Proteção G 78 Un",
-      "link": "https://www.amazon.com.br/dp/B07FNMB4QN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qfD66sMIL._SL400_.jpg",
-      "preco": 84.64,
-      "precoDe": 109.03,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:40:43.796Z"
-    },
-    {
-      "id": "25215",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank Baseus Turbo Bipow2 Pro 20000mah 22.5w Cor Preto",
-      "link": "https://meli.la/2DjAGUB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812206-MLA93073248860_092025-F.jpg",
-      "preco": 178.77999999999997,
-      "precoDe": 286.9,
-      "desconto": 31,
-      "cupom": "SEMPREPROMO",
-      "enviadoEm": "2026-10-02T12:39:51.103Z"
-    },
-    {
-      "id": "25213",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
-      "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41k7J1VPVCL._SL400_.jpg",
-      "preco": 74.95,
-      "precoDe": 109.03,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T12:36:38.456Z"
-    },
-    {
-      "id": "25209",
-      "loja": "Mercado Livre",
-      "titulo": "Aspirador De Pó E Líquido Portátil Wap Gtw Compact 1400w 5,5L 220V",
-      "link": "https://meli.la/2nCDND3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871263-MLU77395567653_072024-F.jpg",
-      "preco": 169.11,
-      "precoDe": 381,
-      "desconto": 51,
-      "cupom": "SEMPREPROMO",
-      "enviadoEm": "2026-10-02T12:35:36.221Z"
     }
   ]
 }
