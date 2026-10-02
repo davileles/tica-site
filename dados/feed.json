@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-02T19:59:33.869Z",
+  "atualizadoEm": "2026-10-02T20:29:33.871Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25477",
+      "loja": "Amazon",
+      "titulo": "Vonder, Caixa Metálica Sanfonada Para Ferramentas, Com 3 Gavetas, 40 Cm X 19 Cm X 16 Cm.",
+      "link": "https://www.amazon.com.br/dp/B0779KQW9S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i-mvDFhNL._SL400_.jpg",
+      "preco": 79.89,
+      "precoDe": 118.83,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:19:44.912Z"
+    },
+    {
+      "id": "25476",
+      "loja": "Amazon",
+      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
+      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
+      "preco": 849,
+      "precoDe": 1169,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:18:36.003Z"
+    },
+    {
+      "id": "25475",
+      "loja": "Mercado Livre",
+      "titulo": "Mala Mao Extensor 10kg Aviao Aeroporto Giratoria Bordo Pp",
+      "link": "https://meli.la/2aUjXcC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822955-MLB114894651391_072026-O.webp",
+      "preco": 155.02,
+      "precoDe": 399.9,
+      "desconto": 57,
+      "cupom": "MODA10BELEZA",
+      "enviadoEm": "2026-10-02T20:17:26.199Z"
+    },
+    {
+      "id": "25474",
+      "loja": "Mercado Livre",
+      "titulo": "02 POTES do COLÁGENO TIPO 2 45mg - Fórmula com Máxima Concentração e Biodisponibilidade - 60 doses",
+      "link": "https://meli.la/1QbgU8t",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639984-MLA115065567768_082026-F.jpg",
+      "preco": 55.14,
+      "precoDe": 109.99,
+      "desconto": 28,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-02T20:14:01.144Z"
+    },
+    {
+      "id": "25473",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/1BMoCSBAxi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 11.99,
+      "precoDe": 22.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-02T20:10:33.345Z"
+    },
+    {
+      "id": "25472",
+      "loja": "Mercado Livre",
+      "titulo": "2 Meias Corrida Lupo Dry Fit Cano Médio Anti Bolha Poliamida",
+      "link": "https://meli.la/1LnBQgz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815070-MLB93566291614_102025-O.webp",
+      "preco": 46.230000000000004,
+      "precoDe": 57.39,
+      "desconto": 5,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-02T20:07:05.718Z"
+    },
     {
       "id": "25470",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-01T21:23:33.286Z"
-    },
-    {
-      "id": "25091",
-      "loja": "Amazon",
-      "titulo": "Tramontina 42241212, Jogo de Chaves Combinadas com Pescoço 12 Peças",
-      "link": "https://www.amazon.com.br/dp/B076MDW718?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41j28h36ldL._SL400_.jpg",
-      "preco": 126,
-      "precoDe": 185.12,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:10:42.088Z"
-    },
-    {
-      "id": "25089",
-      "loja": "Shopee",
-      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
-      "link": "https://s.shopee.com.br/9KiUONuNTF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
-      "preco": 34.9,
-      "precoDe": 81.16,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:08:48.257Z"
-    },
-    {
-      "id": "25073",
-      "loja": "Mercado Livre",
-      "titulo": "Bancada De Brinquedos Médico Infantil Doctorcenter Maxi Toys",
-      "link": "https://meli.la/2J6CGut",
-      "imagem": "https://http2.mlstatic.com/D_766557-MLB91525966316_092025-F.jpg",
-      "preco": 164.34,
-      "precoDe": 259.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:04:34.505Z"
-    },
-    {
-      "id": "25074",
-      "loja": "Shopee",
-      "titulo": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
-      "link": "https://s.shopee.com.br/1Vzd1vEEpr",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d_tn",
-      "preco": 77.99,
-      "precoDe": 177.25,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-01T21:00:59.491Z"
-    },
-    {
-      "id": "25080",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Runfalcon 5 Adidas",
-      "link": "https://meli.la/23QUXMT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940425-MLB115642900433_082026-O.webp",
-      "preco": 229.49,
-      "precoDe": 349.99,
-      "desconto": 23,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-01T20:56:23.096Z"
-    },
-    {
-      "id": "25079",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado 18000 Btus Hw Invert Tcl Frio T-pro 2.0 220v",
-      "link": "https://meli.la/2QE9ia7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999257-MLB118448127001_092026-O.webp",
-      "preco": 2378,
-      "precoDe": 3009,
-      "desconto": 14,
-      "cupom": "OFERTA",
-      "enviadoEm": "2026-10-01T20:53:00.534Z"
     }
   ]
 }
