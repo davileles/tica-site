@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-03T15:29:34.335Z",
+  "atualizadoEm": "2026-10-03T15:59:34.334Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25694",
+      "loja": "Mercado Livre",
+      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas",
+      "link": "https://meli.la/24ffcqN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-F.jpg",
+      "preco": 39.74,
+      "precoDe": 91.77,
+      "desconto": 38,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-03T15:59:11.635Z"
+    },
+    {
+      "id": "25693",
+      "loja": "Shopee",
+      "titulo": "Mesa de Cabeceira Retrô Compacta com Nicho para Quarto Sala Casal ou Solteiro Palma",
+      "link": "https://s.shopee.com.br/BUIK5y2eB",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6x-luv5vclgwaxb45_tn",
+      "preco": 29.9,
+      "precoDe": 49.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:55:58.128Z"
+    },
+    {
+      "id": "25692",
+      "loja": "Shopee",
+      "titulo": "Bomba Elétrica Galão Água 20 Litros Dispensador Recarregável HC",
+      "link": "https://s.shopee.com.br/4VdHTg4e3B",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgxyc9kd0n92a5_tn",
+      "preco": 22.89,
+      "precoDe": 99.52,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:50:22.025Z"
+    },
+    {
+      "id": "25689",
+      "loja": "Shopee",
+      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
+      "link": "https://s.shopee.com.br/AKb4PrrMuH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
+      "preco": 22.99,
+      "precoDe": 69.67,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:45:16.977Z"
+    },
+    {
+      "id": "25688",
+      "loja": "Shopee",
+      "titulo": "Mesinha de Canto Decorativa Redonda E Lateral Pés de Ferro",
+      "link": "https://s.shopee.com.br/5VVoeuy7He",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mq7xjg89epz462_tn",
+      "preco": 76,
+      "precoDe": 89.41,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:41:56.577Z"
+    },
+    {
+      "id": "25687",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 1kg + Alvejante 1kg",
+      "link": "https://s.shopee.com.br/BUIItWwbB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36_tn",
+      "preco": 16.99,
+      "precoDe": 36.93,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:38:37.725Z"
+    },
+    {
+      "id": "25686",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
+      "preco": 131.85,
+      "precoDe": 222.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:32:18.874Z"
+    },
     {
       "id": "25684",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-02T19:33:26.249Z"
-    },
-    {
-      "id": "25444",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 3 Camisetas Masculinas Super Cotton - Hering",
-      "link": "https://meli.la/11d6Qer",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619215-MLB115092837448_082026-O.webp",
-      "preco": 229.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-02T19:32:33.809Z"
-    },
-    {
-      "id": "25438",
-      "loja": "Amazon",
-      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 1L",
-      "link": "https://www.amazon.com.br/dp/B000PQECW6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZhUwAjePL._SL400_.jpg",
-      "preco": 118,
-      "precoDe": 174.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:29:17.013Z"
-    },
-    {
-      "id": "25436",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Indução Sem Fio 3em1 Basike Magsafe iPhone 17 16 15 14 Apple Watch AirPods Dobrável",
-      "link": "https://meli.la/1xMWVFK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829150-MLA99447294690_112025-F.jpg",
-      "preco": 109.53999999999999,
-      "precoDe": 256.93,
-      "desconto": 39,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-02T19:28:12.155Z"
-    },
-    {
-      "id": "25435",
-      "loja": "Shopee",
-      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
-      "link": "https://s.shopee.com.br/20vv8fcUPJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
-      "preco": 54.5,
-      "precoDe": 78.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:24:23.561Z"
-    },
-    {
-      "id": "25434",
-      "loja": "Amazon",
-      "titulo": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
-      "link": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gxIKIoKsL._SL400_.jpg",
-      "preco": 1479,
-      "precoDe": 2999,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:21:00.759Z"
-    },
-    {
-      "id": "25433",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Regular Vento Reserva Masculina",
-      "link": "https://meli.la/223LWnN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755442-MLB110795342226_052026-O.webp",
-      "preco": 93.39999999999999,
-      "precoDe": 199,
-      "desconto": 45,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-02T19:17:51.035Z"
-    },
-    {
-      "id": "25432",
-      "loja": "Shopee",
-      "titulo": "Kit Martelete Rompedor Perfurador De Concreto 2200w Aitoolzo Laranja",
-      "link": "https://s.shopee.com.br/8pmFGlSS4U",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh74ffpp0tts2f_tn",
-      "preco": 371.32,
-      "precoDe": 1197.81,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:12:05.886Z"
     }
   ]
 }
