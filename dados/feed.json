@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T18:29:34.343Z",
+  "atualizadoEm": "2026-10-03T18:51:01.283Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25733",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 84.99,
+      "precoDe": 124.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:41:01.280Z"
+    },
     {
       "id": "25732",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 54,
       "cupom": "MODA10BELEZA",
       "enviadoEm": "2026-10-02T21:26:29.601Z"
-    },
-    {
-      "id": "25495",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador Portátil Power Bank Basike 20000mAh 22.5W Rápido Cabos Embutidos Tipo C iPhone Samsung",
-      "link": "https://meli.la/1gmF6Vg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919783-MLA99989975911_112025-F.jpg",
-      "preco": 137.25,
-      "precoDe": 311.25,
-      "desconto": 37,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-02T21:22:25.103Z"
     }
   ]
 }
