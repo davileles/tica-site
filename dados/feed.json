@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T19:47:32.719Z",
+  "atualizadoEm": "2026-10-03T19:59:34.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25741",
+      "loja": "Amazon",
+      "titulo": "Bosch Furadeira de Impacto GSB 450 RE 450W 127V",
+      "link": "https://www.amazon.com.br/dp/B07JK2YZTY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41C-5c64T3L._SL400_.jpg",
+      "preco": 238.78,
+      "precoDe": 299,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:58:12.118Z"
+    },
+    {
+      "id": "25734",
+      "loja": "Amazon",
+      "titulo": "GA.MA ITALY Secador de Cabelo Gama Lichia Ceramic Ion 2100W 220V",
+      "link": "https://www.amazon.com.br/dp/B0C9G2QNS9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QU9GfeEqL._SL400_.jpg",
+      "preco": 120.79,
+      "precoDe": 249.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:57:06.197Z"
+    },
+    {
+      "id": "25740",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Grand Court Base 3.0 Adidas",
+      "link": "https://meli.la/2HoUKcv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927974-MLB115073143387_072026-O.webp",
+      "preco": 222.69,
+      "precoDe": 349.99,
+      "desconto": 25,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-03T19:53:21.183Z"
+    },
     {
       "id": "25739",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 78,
       "cupom": null,
       "enviadoEm": "2026-10-02T21:43:44.536Z"
-    },
-    {
-      "id": "25505",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 246.01,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:40:07.370Z"
-    },
-    {
-      "id": "25504",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 229.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:39:08.926Z"
-    },
-    {
-      "id": "25502",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 229.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:38:02.456Z"
     }
   ]
 }
