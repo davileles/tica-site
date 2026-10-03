@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T11:29:33.918Z",
+  "atualizadoEm": "2026-10-03T11:59:33.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25572",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Jeans Pantalona Wide Leg Feminina Cintura Alta Larga",
+      "link": "https://meli.la/1iq3ADZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824308-MLB118356425559_092026-O.webp",
+      "preco": 44.84,
+      "precoDe": 109.9,
+      "desconto": 42,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-03T11:59:12.487Z"
+    },
+    {
+      "id": "25568",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/30oTQHMO23",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 23.88,
+      "precoDe": 47.76,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T11:51:04.754Z"
+    },
+    {
+      "id": "25567",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Academia Feminino E Masculino Estiloso Unissex",
+      "link": "https://meli.la/2zF4jmF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641707-MLB93310912704_092025-O.webp",
+      "preco": 41.839999999999996,
+      "precoDe": 119.9,
+      "desconto": 59,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-03T11:47:41.024Z"
+    },
     {
       "id": "25560",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-10-02T14:42:20.331Z"
-    },
-    {
-      "id": "25296",
-      "loja": "Shopee",
-      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
-      "link": "https://s.shopee.com.br/5LCMnYsbey",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
-      "preco": 27.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:41:15.466Z"
-    },
-    {
-      "id": "25286",
-      "loja": "Amazon",
-      "titulo": "Granado Repelente Longa Duração, 110ml",
-      "link": "https://www.amazon.com.br/dp/B07FFC2MGV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pTScJLl6L._SL400_.jpg",
-      "preco": 43.54,
-      "precoDe": 48.55,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:25:53.526Z"
-    },
-    {
-      "id": "25284",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
-      "link": "https://s.shopee.com.br/6AlTlY1oaL",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
-      "preco": 3.9,
-      "precoDe": 8.86,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:18:42.735Z"
     }
   ]
 }
