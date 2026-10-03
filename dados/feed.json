@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-03T14:47:12.303Z",
+  "atualizadoEm": "2026-10-03T14:59:34.334Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25670",
+      "loja": "Shopee",
+      "titulo": "coleira e Guia para cachorro nome personalizado coleira peitoral conforto peiteira sistema amortecedor impacto regulagem",
+      "link": "https://s.shopee.com.br/6VOLnb31Fw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b_tn",
+      "preco": 14.84,
+      "precoDe": 37.1,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:57:20.518Z"
+    },
+    {
+      "id": "25669",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Max Titanium em pó Sem sabor x 300g 2 un",
+      "link": "https://meli.la/27QyFV9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776821-MLA99365251528_112025-F.jpg",
+      "preco": 78.9,
+      "precoDe": 179,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:53:47.957Z"
+    },
     {
       "id": "25668",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-02T19:03:08.879Z"
-    },
-    {
-      "id": "25424",
-      "loja": "Mercado Livre",
-      "titulo": "Suporte Celular Veicular Carro Ventosa Automatico Painel",
-      "link": "https://meli.la/23uf9BJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969028-MLB83232756988_042025-O.webp",
-      "preco": 19.99,
-      "precoDe": 28.65,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:02:01.434Z"
-    },
-    {
-      "id": "25423",
-      "loja": "Shopee",
-      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
-      "link": "https://s.shopee.com.br/1BMo7Jq6rY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
-      "preco": 329.9,
-      "precoDe": 701.91,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:58:45.985Z"
     }
   ]
 }
