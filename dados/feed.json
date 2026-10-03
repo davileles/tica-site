@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T14:59:34.334Z",
+  "atualizadoEm": "2026-10-03T15:29:34.335Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25684",
+      "loja": "Shopee",
+      "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
+      "link": "https://s.shopee.com.br/5AsyFcL18x",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7_tn",
+      "preco": 28.99,
+      "precoDe": 87.85,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:29:18.636Z"
+    },
+    {
+      "id": "25682",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/8Kq00d7EJs",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:20:06.175Z"
+    },
+    {
+      "id": "25679",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Meias New Balance Cano Longo 39 Ao 42 Unissex Conforto",
+      "link": "https://meli.la/34bdABH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_925008-MLB105495292600_012026-O.webp",
+      "preco": 46.59,
+      "precoDe": 69.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T15:14:05.356Z"
+    },
     {
       "id": "25670",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 69,
       "cupom": null,
       "enviadoEm": "2026-10-02T19:12:05.886Z"
-    },
-    {
-      "id": "25427",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 700mL 70 Proof",
-      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
-      "preco": 105,
-      "precoDe": 144.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:07:40.793Z"
-    },
-    {
-      "id": "25426",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Oakley Logo Tee Branca",
-      "link": "https://meli.la/1CMLQMW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680894-MLB110530847565_042026-O.webp",
-      "preco": 84.97,
-      "precoDe": 109.9,
-      "desconto": 9,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-02T19:06:36.926Z"
-    },
-    {
-      "id": "25425",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 64.57,
-      "precoDe": 92.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:03:08.879Z"
     }
   ]
 }
