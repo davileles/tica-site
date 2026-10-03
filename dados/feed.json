@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T18:51:01.283Z",
+  "atualizadoEm": "2026-10-03T18:59:34.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25735",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/6VOM3lpMlz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 35.99,
+      "precoDe": 56.23,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:51:38.630Z"
+    },
     {
       "id": "25733",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-10-02T21:27:32.386Z"
-    },
-    {
-      "id": "25496",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727838-MLA106862284149_022026-O.webp",
-      "preco": 94.23,
-      "precoDe": 229.99,
-      "desconto": 54,
-      "cupom": "MODA10BELEZA",
-      "enviadoEm": "2026-10-02T21:26:29.601Z"
     }
   ]
 }
