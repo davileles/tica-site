@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T19:25:25.428Z",
+  "atualizadoEm": "2026-10-03T19:47:32.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25739",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/8Kq0IIZbmf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:37:32.717Z"
+    },
     {
       "id": "25738",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-10-02T21:38:02.456Z"
-    },
-    {
-      "id": "25501",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 229.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:36:51.664Z"
     }
   ]
 }
