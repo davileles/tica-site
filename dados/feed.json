@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-02T23:10:48.713Z",
+  "atualizadoEm": "2026-10-03T02:59:33.910Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25541",
+      "loja": "Amazon",
+      "titulo": "Isotônico Gatorade, Laranja, Garrafa 500ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY8DJPF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41j6tZy8ctL._SL400_.jpg",
+      "preco": 28.51,
+      "precoDe": 32.94,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T02:56:01.186Z"
+    },
     {
       "id": "25538",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 45,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-02T13:16:26.128Z"
-    },
-    {
-      "id": "25246",
-      "loja": "Shopee",
-      "titulo": "Arranhador Para Gatos Poste Brinquedo Bolinha Interativo",
-      "link": "https://s.shopee.com.br/4B0PJDgVPM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhro7dplle6b02_tn",
-      "preco": 29.81,
-      "precoDe": 39.75,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T13:11:01.841Z"
     }
   ]
 }
