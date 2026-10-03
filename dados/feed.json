@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-03T17:29:34.344Z",
+  "atualizadoEm": "2026-10-03T17:49:46.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25722",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/AKb4Xpu4H2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 65.55,
+      "precoDe": 69,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T17:39:46.307Z"
+    },
+    {
+      "id": "25721",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Shorts 2 Em 1 Duplo Bolso Para Academia Treino Corrida",
+      "link": "https://meli.la/2jvYfAQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_661954-MLB108142855433_032026-O.webp",
+      "preco": 69,
+      "precoDe": 102,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T17:36:06.247Z"
+    },
     {
       "id": "25719",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-02T20:43:24.210Z"
-    },
-    {
-      "id": "25481",
-      "loja": "Mercado Livre",
-      "titulo": "Whisky Johnnie Walker Black Label de 1L",
-      "link": "https://meli.la/2kRuqTK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766635-MLA114258010439_072026-F.jpg",
-      "preco": 127,
-      "precoDe": 229.98,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T20:42:12.733Z"
-    },
-    {
-      "id": "25480",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
-      "link": "https://meli.la/2FQFVoF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989756-MLB111387587891_052026-O.webp",
-      "preco": 152.99,
-      "precoDe": 339.99,
-      "desconto": 50,
-      "cupom": "MODA10BELEZA",
-      "enviadoEm": "2026-10-02T20:40:57.342Z"
     }
   ]
 }
