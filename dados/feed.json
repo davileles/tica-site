@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-03T19:13:36.764Z",
+  "atualizadoEm": "2026-10-03T19:25:25.428Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25738",
+      "loja": "Amazon",
+      "titulo": "Kit Bartender 7 Peças em Aço Inox",
+      "link": "https://www.amazon.com.br/dp/B0GZWHHRPM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410-ULoJYjL._SL400_.jpg",
+      "preco": 70.9,
+      "precoDe": 89.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:15:25.423Z"
+    },
+    {
+      "id": "25737",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/5fpF5ooM7d",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 59.9,
+      "precoDe": 85.57,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:14:35.501Z"
+    },
     {
       "id": "25736",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-10-02T21:36:51.664Z"
-    },
-    {
-      "id": "25500",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 229.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:35:48.305Z"
-    },
-    {
-      "id": "25498",
-      "loja": "Amazon",
-      "titulo": "Vonder, Inversor para Solda com Eletrodo E Tig, 120 A, Riv 121",
-      "link": "https://www.amazon.com.br/dp/B0F1DC9YY8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41G0OjeBk7L._SL400_.jpg",
-      "preco": 467,
-      "precoDe": 917.16,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:28:37.889Z"
     }
   ]
 }
