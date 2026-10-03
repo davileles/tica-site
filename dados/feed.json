@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T12:23:14.941Z",
+  "atualizadoEm": "2026-10-03T12:29:33.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25587",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S Pink 700Ml",
+      "link": "https://www.amazon.com.br/dp/B071RN67DQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V2ARC3JTL._SL400_.jpg",
+      "preco": 54.99,
+      "precoDe": 78.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T12:28:00.419Z"
+    },
+    {
+      "id": "25585",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo para Gato Protetor para Sofá e Cama Box Cantos Premium",
+      "link": "https://s.shopee.com.br/3Vkk2wtujs",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmri6d1f3o5ka2_tn",
+      "preco": 10.77,
+      "precoDe": 26.27,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T12:26:59.715Z"
+    },
+    {
+      "id": "25584",
+      "loja": "Mercado Livre",
+      "titulo": "Placa-mãe Msi A520m-a Pro Am4 Matx Ddr4 Hdmi Dvi M.2",
+      "link": "https://meli.la/1GmhiL3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644232-MLA99455670876_112025-F.jpg",
+      "preco": 326.3,
+      "precoDe": 479,
+      "desconto": 24,
+      "cupom": "CARRINHOML",
+      "enviadoEm": "2026-10-03T12:23:28.089Z"
+    },
     {
       "id": "25577",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-10-02T15:26:20.090Z"
-    },
-    {
-      "id": "25311",
-      "loja": "Amazon",
-      "titulo": "Neve Papel Higiênico Ultracomfort, Folha Quádrupla, 20m, 12 rolos",
-      "link": "https://www.amazon.com.br/dp/B0DFMRTR6M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318fQ-EMAsL._SL400_.jpg",
-      "preco": 23.9,
-      "precoDe": 33.49,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T15:21:46.011Z"
-    },
-    {
-      "id": "25305",
-      "loja": "Shopee",
-      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
-      "link": "https://s.shopee.com.br/3B7sF8wrxK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
-      "preco": 12.32,
-      "precoDe": 12.97,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T15:03:50.401Z"
-    },
-    {
-      "id": "25303",
-      "loja": "Amazon",
-      "titulo": "Andador Amigo Macaco Aprenda Comigo Brinquedo Bebê Fisher-Price Mattel. Atividades educativas com apoio para andar. Ideal a partir dos 9 meses.",
-      "link": "https://www.amazon.com.br/dp/B0DMWGLN9C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TKFIIJAuL._SL400_.jpg",
-      "preco": 199,
-      "precoDe": 349.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:54:32.040Z"
     }
   ]
 }
