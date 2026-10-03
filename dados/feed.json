@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T17:49:46.309Z",
+  "atualizadoEm": "2026-10-03T17:59:34.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25723",
+      "loja": "Amazon",
+      "titulo": "Escova de cabelo desembaraçadora The Mini Ultimate Detangler para todos os tipos de cabelo, ideal para o uso em fios úmidos. Cor: Preta",
+      "link": "https://www.amazon.com.br/dp/B0CG7V979L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jUWqjzuIL._SL400_.jpg",
+      "preco": 92.9,
+      "precoDe": 145,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T17:54:25.255Z"
+    },
     {
       "id": "25722",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-02T20:56:22.066Z"
-    },
-    {
-      "id": "25482",
-      "loja": "Amazon",
-      "titulo": "Vonder, Carro Para Ferramentas, Com 5 Gavetas.",
-      "link": "https://www.amazon.com.br/dp/B084MK6FXR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DIEqQRvFL._SL400_.jpg",
-      "preco": 1355.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T20:43:24.210Z"
     }
   ]
 }
