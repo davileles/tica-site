@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T14:29:34.332Z",
+  "atualizadoEm": "2026-10-03T14:47:12.303Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25668",
+      "loja": "Amazon",
+      "titulo": "Conjunto 6 Copos de Vidro para Whisky 300ml – Design Lapidado, Fundo Espesso e Brilho Cristalino | Ideal para Drinks, Bourbon, Água e Coquetéis",
+      "link": "https://www.amazon.com.br/dp/B0FKF6GWS2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41agNVpQS5L._SL400_.jpg",
+      "preco": 44.89,
+      "precoDe": 49.89,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:37:12.300Z"
+    },
+    {
+      "id": "25667",
+      "loja": "Amazon",
+      "titulo": "Vonder, Multímetro Digital Mdv 0610.",
+      "link": "https://www.amazon.com.br/dp/B07SRW4CKX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EXzKU+wYL._SL400_.jpg",
+      "preco": 108.15,
+      "precoDe": 157.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:36:05.355Z"
+    },
+    {
+      "id": "25665",
+      "loja": "Shopee",
+      "titulo": "Colchonete p/ Academia Premium 90x40x3 cm Espuma Macia D23 Impermeável Compacto Fit Mat Yoga Pilates",
+      "link": "https://s.shopee.com.br/2gBdCzQ4AC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzjhnmdxayw586_tn",
+      "preco": 27.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:33:17.565Z"
+    },
     {
       "id": "25663",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-02T18:58:45.985Z"
-    },
-    {
-      "id": "25422",
-      "loja": "Mercado Livre",
-      "titulo": "Sapato Loafer Masculino Mocassim Couro Casual Comfort Luxo",
-      "link": "https://meli.la/1eQM7BQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669776-MLB97527210302_112025-O.webp",
-      "preco": 90.44,
-      "precoDe": 179.9,
-      "desconto": 41,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-02T18:55:18.260Z"
-    },
-    {
-      "id": "25420",
-      "loja": "Shopee",
-      "titulo": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
-      "link": "https://s.shopee.com.br/6VOKSgtm3h",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814_tn",
-      "preco": 89.29,
-      "precoDe": 198.42,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:51:54.060Z"
-    },
-    {
-      "id": "25419",
-      "loja": "Mercado Livre",
-      "titulo": "Air fryer Oven 16L Wap Multi-Comb Digital WAFC16 Painel Touch 220V",
-      "link": "https://meli.la/232fN3z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831624-MLA93384203743_092025-F.jpg",
-      "preco": 540.06,
-      "precoDe": 1305,
-      "desconto": 55,
-      "cupom": "PROMOAQU",
-      "enviadoEm": "2026-10-02T18:50:55.419Z"
     }
   ]
 }
