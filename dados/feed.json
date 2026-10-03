@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-03T17:59:34.343Z",
+  "atualizadoEm": "2026-10-03T18:29:34.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25732",
+      "loja": "Shopee",
+      "titulo": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha Jogo Completo Batedeira Colher Pegador",
+      "link": "https://s.shopee.com.br/1qcWTa3fQF",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7renk-m1xc44ie67goa3_tn",
+      "preco": 55.97,
+      "precoDe": 207.3,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:28:38.029Z"
+    },
+    {
+      "id": "25731",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:24:52.937Z"
+    },
+    {
+      "id": "25730",
+      "loja": "Amazon",
+      "titulo": "Beefeater Gin London Dry 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
+      "preco": 69.49,
+      "precoDe": 119.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:21:18.490Z"
+    },
+    {
+      "id": "25729",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Ultra 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CQD3CQHY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-nWL7sdWL._SL400_.jpg",
+      "preco": 51.01,
+      "precoDe": 62.94,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:19:22.626Z"
+    },
+    {
+      "id": "25728",
+      "loja": "Shopee",
+      "titulo": "Kit Ferramentas Mecânica 108 Peças Profissional Completo Jogo de Chaves Soquete com Maleta Resistente",
+      "link": "https://s.shopee.com.br/40h12X3XDY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mml952za9qfa63_tn",
+      "preco": 219.99,
+      "precoDe": 399.98,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:10:22.467Z"
+    },
+    {
+      "id": "25726",
+      "loja": "Shopee",
+      "titulo": "Lencol Queen/Casal/King/Solteiro Jogo De Cama Casal 400 Fios Micropercal com Ponto Palito",
+      "link": "https://s.shopee.com.br/9penyXCm0M",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lbzg077f7_tn",
+      "preco": 34.9,
+      "precoDe": 68.43,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:05:07.721Z"
+    },
+    {
+      "id": "25725",
+      "loja": "Shopee",
+      "titulo": "Kit Golzinho Mini Trave Futebol Infantil Gol Brinquedo para Criança Bola e Bomba de Ar",
+      "link": "https://s.shopee.com.br/4B0RE4MUoQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3dkse1ugchhf0_tn",
+      "preco": 39.9,
+      "precoDe": 54.66,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T18:01:47.304Z"
+    },
     {
       "id": "25723",
       "loja": "Amazon",
@@ -963,18 +1047,6 @@
       "enviadoEm": "2026-10-03T11:13:34.759Z"
     },
     {
-      "id": "25554",
-      "loja": "Amazon",
-      "titulo": "Pack de Monster Ultra 473ml - Unidade 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CQD3CQHY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-nWL7sdWL._SL400_.jpg",
-      "preco": 53.94,
-      "precoDe": 62.94,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-03T11:08:01.558Z"
-    },
-    {
       "id": "25553",
       "loja": "Amazon",
       "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
@@ -1369,78 +1441,6 @@
       "desconto": 37,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-10-02T21:22:25.103Z"
-    },
-    {
-      "id": "25494",
-      "loja": "Shopee",
-      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "link": "https://s.shopee.com.br/80D8Pmg3V0",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
-      "preco": 75.88,
-      "precoDe": 199.68,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:19:14.771Z"
-    },
-    {
-      "id": "25489",
-      "loja": "Amazon",
-      "titulo": "Inversor Solda Eletrodo e TIG IM125 Com Máscara - Bivolt Vonder",
-      "link": "https://www.amazon.com.br/dp/B0DWFZWLHF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4140rl5XZoL._SL400_.jpg",
-      "preco": 659,
-      "precoDe": 1108.61,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:05:44.699Z"
-    },
-    {
-      "id": "25488",
-      "loja": "Amazon",
-      "titulo": "ONLYTANG Kit C/ 8 Unidades Cubo De Gelo Artificial Em Aço Inox",
-      "link": "https://www.amazon.com.br/dp/B0C4PV5HPN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/419D1LHNykL._SL400_.jpg",
-      "preco": 45.4,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:04:41.513Z"
-    },
-    {
-      "id": "25487",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Reserva Roma Masculino Casual Cano Baixo Elegante",
-      "link": "https://meli.la/33phYVy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876206-MLB85157928606_052025-O.webp",
-      "preco": 222.99,
-      "precoDe": 399.99,
-      "desconto": 39,
-      "cupom": "MODA10BELEZA",
-      "enviadoEm": "2026-10-02T21:03:44.716Z"
-    },
-    {
-      "id": "25486",
-      "loja": "Mercado Livre",
-      "titulo": "Caneta 3d Impressora Profissional Infantil Com Refil E Cabo Usb Parosprotect - Lilás",
-      "link": "https://meli.la/1MsZ3Yp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820855-MLA96096316195_102025-F.jpg",
-      "preco": 54.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-02T20:59:42.326Z"
-    },
-    {
-      "id": "25485",
-      "loja": "Shopee",
-      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
-      "link": "https://s.shopee.com.br/1BMoFeAOBr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
-      "preco": 31.5,
-      "precoDe": 42,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T20:56:22.066Z"
     }
   ]
 }
