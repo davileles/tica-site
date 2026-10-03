@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T03:06:01.610Z",
+  "atualizadoEm": "2026-10-03T03:29:34.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,6 +48,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "9999-02-23T03:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "ORGANIZA",
+      "loja": "Brinox Shop",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-06T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
