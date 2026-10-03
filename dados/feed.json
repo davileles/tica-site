@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-03T20:29:40.305Z",
+  "atualizadoEm": "2026-10-03T20:59:40.307Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25753",
+      "loja": "Shopee",
+      "titulo": "Bosch GBH 2-28D Martelete Furadeira de Impacto Rotativo 5kg Rompedor Demolidor Perfurador 1600w Com Acessorios",
+      "link": "https://s.shopee.com.br/5fpFCeX0IB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mo9636jk0740b1_tn",
+      "preco": 598.28,
+      "precoDe": 1246.42,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T20:51:21.733Z"
+    },
+    {
+      "id": "25752",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/9peoA1fwV6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
+      "preco": 41,
+      "precoDe": 95.35,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T20:49:58.200Z"
+    },
     {
       "id": "25751",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 16,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-10-02T22:32:40.094Z"
-    },
-    {
-      "id": "25525",
-      "loja": "Shopee",
-      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
-      "link": "https://s.shopee.com.br/3qNZWw38Gv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
-      "preco": 76.43,
-      "precoDe": 149.86,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:29:12.911Z"
-    },
-    {
-      "id": "25523",
-      "loja": "Amazon",
-      "titulo": "Kit Pickleball Lazer 2 Raquetes 4 Bolas e Bolsa Vollo",
-      "link": "https://www.amazon.com.br/dp/B0F9XN625N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41B4PFRrOrL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 139.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:17:40.412Z"
     }
   ]
 }
