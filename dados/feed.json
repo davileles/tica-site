@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T18:59:34.343Z",
+  "atualizadoEm": "2026-10-03T19:13:36.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25736",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Parafusadeira e Furadeira de Impacto 10mm 12V BCD712VHDK com 28 Acessórios",
+      "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41G1wJ0fB3L._SL400_.jpg",
+      "preco": 254.99,
+      "precoDe": 299,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T19:03:36.762Z"
+    },
     {
       "id": "25735",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-02T21:28:37.889Z"
-    },
-    {
-      "id": "25497",
-      "loja": "Amazon",
-      "titulo": "Cerpa Kit 6 Cerveja Export Long Neck 350ml - Premium Lager Puro Malte, Refrescante e Equilibrada",
-      "link": "https://www.amazon.com.br/dp/B0GVT88X1F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Kf4zmCSML._SL400_.jpg",
-      "preco": 76.9,
-      "precoDe": 95.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:27:32.386Z"
     }
   ]
 }
