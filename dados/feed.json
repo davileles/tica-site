@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T21:22:51.260Z",
+  "atualizadoEm": "2026-10-03T21:58:05.748Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25759",
+      "loja": "Amazon",
+      "titulo": "Air Cooler GamerStorm X Redragon AK400 RD Preto 4 Heatpipes Fan 120 mm R-AK400-BKNNMD-AJG",
+      "link": "https://www.amazon.com.br/dp/B0G5RDXV7N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fMGLCl4DL._SL400_.jpg",
+      "preco": 148,
+      "precoDe": 199,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T21:48:05.743Z"
+    },
+    {
+      "id": "25758",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit de pontas e brocas em titânio X-Line com 100 peças",
+      "link": "https://www.amazon.com.br/dp/B07CVCHHHW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51QToYgeEIL._SL400_.jpg",
+      "preco": 275.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T21:44:26.921Z"
+    },
+    {
+      "id": "25757",
+      "loja": "Shopee",
+      "titulo": "Shampoo SOS Cachos Kids Super Óleos 300ml",
+      "link": "https://s.shopee.com.br/8fSqp1KY3z",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-msbvvyd3tdds66_tn",
+      "preco": 18.9,
+      "precoDe": 23.05,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T21:37:40.146Z"
+    },
     {
       "id": "25755",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-02T22:47:28.202Z"
-    },
-    {
-      "id": "25531",
-      "loja": "Amazon",
-      "titulo": "Novabrink - Super Magia Fantasia Naruto TAM G",
-      "link": "https://www.amazon.com.br/dp/B0BMW4RTN4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rZiw0trbL._SL400_.jpg",
-      "preco": 47.4,
-      "precoDe": 129.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:42:37.239Z"
-    },
-    {
-      "id": "25530",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Ferramentas 151 Peças Soquetes Aço Cr-v Para Carro Casa",
-      "link": "https://meli.la/2afTeKH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990467-MLB115293439164_082026-O.webp",
-      "preco": 599.9,
-      "precoDe": 1019.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:38:05.410Z"
-    },
-    {
-      "id": "25529",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila jiesipote-9242 À Prova D'água Reforçada Expansível Cor Preto",
-      "link": "https://meli.la/2HpjQww",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974980-MLA112776013576_062026-F.jpg",
-      "preco": 80.99,
-      "precoDe": 269,
-      "desconto": 67,
-      "cupom": "MODA10BELEZA",
-      "enviadoEm": "2026-10-02T22:37:17.765Z"
     }
   ]
 }
