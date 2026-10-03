@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-03T13:29:33.924Z",
+  "atualizadoEm": "2026-10-03T13:56:39.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25643",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50Cm Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/2qV3M5vUOq",
+      "imagem": "https://cf.shopee.com.br/file/114b8a3d9a17109f7c10e25c5a585f64_tn",
+      "preco": 14.59,
+      "precoDe": 26.53,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T13:46:39.717Z"
+    },
+    {
+      "id": "25642",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Alumínio 4 Degraus MOR Prateado/Azul",
+      "link": "https://meli.la/2FKqEkn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773431-MLA115350300121_072026-F.jpg",
+      "preco": 129.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T13:42:58.215Z"
+    },
+    {
+      "id": "25641",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T13:41:58.337Z"
+    },
+    {
+      "id": "25634",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Sacos Para Lavar Tênis E Sapatos Em Máquina De Lavar – Saco Telado Anti-Impacto Com Fechamento Em Zíper",
+      "link": "https://meli.la/1BDEwcz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_860122-MLA112856868136_072026-F.jpg",
+      "preco": 33.99,
+      "precoDe": 43.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T13:34:25.221Z"
+    },
+    {
+      "id": "25632",
+      "loja": "Mercado Livre",
+      "titulo": "Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys",
+      "link": "https://meli.la/1AkpBaz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702576-MLA110388417253_042026-F.jpg",
+      "preco": 30.03,
+      "precoDe": 69.99,
+      "desconto": 39,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-03T13:31:07.470Z"
+    },
     {
       "id": "25631",
       "loja": "Mercado Livre",
@@ -1119,18 +1179,6 @@
       "enviadoEm": "2026-10-02T19:46:56.814Z"
     },
     {
-      "id": "25454",
-      "loja": "Mercado Livre",
-      "titulo": "Escada Alumínio 4 Degraus MOR Prateado/Azul",
-      "link": "https://meli.la/2FKqEkn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773431-MLA115350300121_072026-F.jpg",
-      "preco": 142.41,
-      "precoDe": 167.88,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:35:38.820Z"
-    },
-    {
       "id": "25453",
       "loja": "Amazon",
       "titulo": "Buba Pote Termico C/Colher - Gumy Azul Azul",
@@ -1393,54 +1441,6 @@
       "desconto": 73,
       "cupom": null,
       "enviadoEm": "2026-10-02T18:26:02.931Z"
-    },
-    {
-      "id": "25402",
-      "loja": "Amazon",
-      "titulo": "Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm",
-      "link": "https://www.amazon.com.br/dp/B0D8BV8JDG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41x9n+9P-QL._SL400_.jpg",
-      "preco": 74.98,
-      "precoDe": 137.08,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:12:54.454Z"
-    },
-    {
-      "id": "25400",
-      "loja": "Mercado Livre",
-      "titulo": "Aquecedor Philco PAQ2100A - 2000W",
-      "link": "https://meli.la/1DdSHJf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849163-MLA108059060502_032026-F.jpg",
-      "preco": 53.31,
-      "precoDe": 215.9,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:11:32.618Z"
-    },
-    {
-      "id": "25399",
-      "loja": "Shopee",
-      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - Mazzal",
-      "link": "https://s.shopee.com.br/3LRIdrbZqQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3c3d93uvho554_tn",
-      "preco": 14.9,
-      "precoDe": 29.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:08:10.338Z"
-    },
-    {
-      "id": "25397",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 3 Camisetas Malha Peruana Oversized Feminina",
-      "link": "https://meli.la/2cmG3fk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755789-MLB118611335165_102026-O.webp",
-      "preco": 125,
-      "precoDe": 250,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:00:10.727Z"
     }
   ]
 }
