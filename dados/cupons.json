@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T15:07:21.034Z",
+  "atualizadoEm": "2026-10-03T18:29:37.065Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,30 +867,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECORAO10",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-03T18:01:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA10BELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-03T18:01:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -912,6 +888,30 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-04T12:06:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS03",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
+      "validadeAte": "2026-10-04T18:01:28.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA0310",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
+      "validadeAte": "2026-10-04T18:01:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
