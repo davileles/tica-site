@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T11:59:33.919Z",
+  "atualizadoEm": "2026-10-03T12:23:14.941Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25577",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Cuecas Lupo Boxer Poliamida Sem Costura Box Masculina",
+      "link": "https://meli.la/2MmMdee",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691576-MLB112113678795_052026-O.webp",
+      "preco": 127.47000000000001,
+      "precoDe": 449.99,
+      "desconto": 67,
+      "cupom": "MODAML",
+      "enviadoEm": "2026-10-03T12:13:14.940Z"
+    },
+    {
+      "id": "25576",
+      "loja": "Amazon",
+      "titulo": "Payot Hidratante Facial Payot Noturno",
+      "link": "https://www.amazon.com.br/dp/B0BRTC3KZG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fS-e4l5TL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 98.74,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T12:09:43.524Z"
+    },
+    {
+      "id": "25573",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 02 Travesseiro Antialérgico Pluma De Ganso 70cm X 50cm Cor Branco",
+      "link": "https://meli.la/1Js4N1Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636485-MLA109126967806_042026-F.jpg",
+      "preco": 29.89,
+      "precoDe": 58.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T12:02:23.901Z"
+    },
     {
       "id": "25572",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-02T14:54:32.040Z"
-    },
-    {
-      "id": "25301",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
-      "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41g4Zv2CapL._SL400_.jpg",
-      "preco": 51.9,
-      "precoDe": 79.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:45:37.583Z"
-    },
-    {
-      "id": "25300",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Aprender e Brincar Brinquedo para Bebês Laptop De Aprendizagem para crianças a partir de 6 meses",
-      "link": "https://www.amazon.com.br/dp/B09T75PLY5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Pr4nKKvRL._SL400_.jpg",
-      "preco": 127.35,
-      "precoDe": 213.99,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:44:29.710Z"
-    },
-    {
-      "id": "25299",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
-      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
-      "preco": 20.8,
-      "precoDe": 39.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T14:42:20.331Z"
     }
   ]
 }
