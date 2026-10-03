@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T02:59:36.565Z",
+  "atualizadoEm": "2026-10-03T03:06:01.610Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -351,18 +351,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "WAVE15OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "DESLIZE15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -384,18 +372,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-04T21:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "15OFFRAM",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -468,18 +444,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-05T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "X3DPOWER",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -843,6 +807,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATELOJAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em lojas oficiais conforme lista fornecida",
+      "validadeAte": "2026-10-04T03:00:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1032,18 +1008,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
-    },
-    {
-      "codigo": "EUQUERO",
-      "loja": "Posthaus",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
     },
     {
