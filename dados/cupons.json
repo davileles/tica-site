@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T14:47:15.035Z",
+  "atualizadoEm": "2026-10-03T15:07:21.034Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -495,6 +495,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CELULARES100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-04T15:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SITETODO0310",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -795,18 +807,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERMERCADO15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-03T15:03:28.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -855,15 +855,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SOM011010",
+      "codigo": "BEBES0310",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 500,
+      "valor": 15,
+      "minimo": 200,
       "maximo": null,
-      "limite": 70,
+      "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-10-03T15:03:28.000Z",
+      "validadeAte": "2026-10-04T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
