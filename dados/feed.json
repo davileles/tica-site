@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-03T21:58:05.748Z",
+  "atualizadoEm": "2026-10-03T22:18:16.927Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25764",
+      "loja": "Amazon",
+      "titulo": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt Plástico e Metal",
+      "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31u2ufPDL0L._SL400_.jpg",
+      "preco": 74.99,
+      "precoDe": 111.67,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T22:08:16.925Z"
+    },
+    {
+      "id": "25762",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 52,
+      "precoDe": 55.84,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T22:01:46.516Z"
+    },
+    {
+      "id": "25760",
+      "loja": "Shopee",
+      "titulo": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
+      "link": "https://s.shopee.com.br/2gBdhi8tjU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397_tn",
+      "preco": 49.8,
+      "precoDe": 150.91,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T22:00:41.571Z"
+    },
     {
       "id": "25759",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 69,
       "cupom": null,
       "enviadoEm": "2026-10-02T22:59:54.224Z"
-    },
-    {
-      "id": "25536",
-      "loja": "Amazon",
-      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
-      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
-      "preco": 35.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:53:39.607Z"
-    },
-    {
-      "id": "25534",
-      "loja": "Shopee",
-      "titulo": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-      "link": "https://s.shopee.com.br/1BMoNT7zga",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180_tn",
-      "preco": 75.9,
-      "precoDe": 395.22,
-      "desconto": 77,
-      "cupom": "C0RR1D41010",
-      "enviadoEm": "2026-10-02T22:50:49.522Z"
-    },
-    {
-      "id": "25533",
-      "loja": "Amazon",
-      "titulo": "Mouse Basilisk V3 com Fio Preto Razer - RZ0104000100R3M",
-      "link": "https://www.amazon.com.br/dp/B097F8H1MC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N1BZUZLwL._SL400_.jpg",
-      "preco": 250.03,
-      "precoDe": 379.19,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T22:47:28.202Z"
     }
   ]
 }
