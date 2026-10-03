@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T14:27:45.504Z",
+  "atualizadoEm": "2026-10-03T14:29:34.332Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25663",
+      "loja": "Mercado Livre",
+      "titulo": "Palmilha De Altissimo Conforto 4d Tênis Sapatos Ortopédica",
+      "link": "https://meli.la/1tM32ue",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642639-MLB113654820416_072026-O.webp",
+      "preco": 24.5,
+      "precoDe": 58.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T14:28:58.238Z"
+    },
     {
       "id": "25657",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 55,
       "cupom": "PROMOAQU",
       "enviadoEm": "2026-10-02T18:50:55.419Z"
-    },
-    {
-      "id": "25418",
-      "loja": "Amazon",
-      "titulo": "Cachaça Salinas Umburana 1L",
-      "link": "https://www.amazon.com.br/dp/B07XS8N19L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eakQ+j0kL._SL400_.jpg",
-      "preco": 85.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T18:47:17.514Z"
     }
   ]
 }
