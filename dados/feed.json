@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-03T15:59:34.334Z",
+  "atualizadoEm": "2026-10-03T16:29:34.336Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25700",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 149.9,
+      "precoDe": 189.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T16:27:35.466Z"
+    },
+    {
+      "id": "25699",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit de Pontas e Brocas X-Line 33 unidades",
+      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
+      "preco": 76.1,
+      "precoDe": 169.9,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T16:23:56.336Z"
+    },
+    {
+      "id": "25698",
+      "loja": "Mercado Livre",
+      "titulo": "Escorredor de Louça Inox 2 Andares Empolar Preto Porta Talheres Copos Pratos Cozinha Bancada Pia Organizador Secador",
+      "link": "https://meli.la/2va4vZo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791450-MLA116339455372_092026-F.jpg",
+      "preco": 104.93,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-03T16:23:08.881Z"
+    },
+    {
+      "id": "25697",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Inteligente Smartwatch Alexa Chamadas Bluetooth NOVANTE Rosa Digital Feminino Masculino Esportivo Notificações Instantâneas Agua IP68 350mAh 1.85 AMOLED Com Codificador Mon",
+      "link": "https://meli.la/32KfcFJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831284-MLA108176296704_032026-F.jpg",
+      "preco": 193.34,
+      "precoDe": 599,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T16:16:26.010Z"
+    },
+    {
+      "id": "25696",
+      "loja": "Shopee",
+      "titulo": "GL&DD Depilador Eletrico Feminino Recarregável Removedor De Pelos Navalha Dupla- Envio rápido",
+      "link": "https://s.shopee.com.br/9KiXFkR9dN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt96n3tald6rd5_tn",
+      "preco": 32.99,
+      "precoDe": 99.97,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-03T16:07:41.220Z"
+    },
     {
       "id": "25694",
       "loja": "Mercado Livre",
@@ -987,18 +1047,6 @@
       "enviadoEm": "2026-10-02T21:52:47.257Z"
     },
     {
-      "id": "25512",
-      "loja": "Amazon",
-      "titulo": "Licor 43 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
-      "preco": 166.56,
-      "precoDe": 189.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T21:51:47.277Z"
-    },
-    {
       "id": "25511",
       "loja": "Mercado Livre",
       "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
@@ -1393,54 +1441,6 @@
       "desconto": 49,
       "cupom": "MODA10BELEZA",
       "enviadoEm": "2026-10-02T19:54:09.118Z"
-    },
-    {
-      "id": "25466",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Calça Esportiva Elastano Academia Masculina Treino",
-      "link": "https://meli.la/18bSUdA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812034-MLB86789760303_062025-O.webp",
-      "preco": 55.28999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-02T19:50:46.747Z"
-    },
-    {
-      "id": "25459",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
-      "link": "https://s.shopee.com.br/80D8JSxXhC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
-      "preco": 27.99,
-      "precoDe": 69.97,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:46:56.814Z"
-    },
-    {
-      "id": "25453",
-      "loja": "Amazon",
-      "titulo": "Buba Pote Termico C/Colher - Gumy Azul Azul",
-      "link": "https://www.amazon.com.br/dp/B08JXDZVY8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313CACz7fnL._SL400_.jpg",
-      "preco": 78.9,
-      "precoDe": 151.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:34:35.419Z"
-    },
-    {
-      "id": "25445",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 104,
-      "precoDe": 174.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-02T19:33:26.249Z"
     }
   ]
 }
