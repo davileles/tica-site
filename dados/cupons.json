@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-03T18:38:38.503Z",
+  "atualizadoEm": "2026-10-03T18:51:03.645Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -783,18 +783,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TEMPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-03T18:43:26.956Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -900,18 +888,6 @@
       "limite": 20,
       "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
       "validadeAte": "2026-10-04T18:01:28.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOAQU",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-10-03T18:44:12.556Z",
       "url": "https://meli.la/2xystLt"
     },
     {
