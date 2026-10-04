@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T14:17:23.649Z",
+  "atualizadoEm": "2026-10-04T15:17:23.308Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,15 +459,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CELULARES100",
+      "codigo": "MOBILIA0410",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
-      "minimo": 899,
+      "minimo": 1099,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-04T15:00:03.000Z",
+      "validadeAte": "2026-10-05T15:01:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -759,18 +759,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBES0310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-04T15:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CONSTRUCAO0410",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -780,6 +768,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-05T12:00:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROS0410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-05T15:01:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
