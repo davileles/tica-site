@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-04T11:47:16.969Z",
+  "atualizadoEm": "2026-10-04T12:00:20.115Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25800",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/1U1Yvd6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
+      "preco": 68.9,
+      "precoDe": 239.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:55:59.199Z"
+    },
+    {
+      "id": "25799",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/5fpGCMISqw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra15-m50cpye62n9qb3_tn",
+      "preco": 18.98,
+      "precoDe": 24.97,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:52:21.865Z"
+    },
+    {
+      "id": "25798",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3x Colágeno Verisol Ácido Hialurônico Biotina Renova Be",
+      "link": "https://meli.la/15aeeZN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789809-MLB113399130390_072026-O.webp",
+      "preco": 170.91,
+      "precoDe": 408.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:48:41.360Z"
+    },
     {
       "id": "25795",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 67,
       "cupom": "MODAML",
       "enviadoEm": "2026-10-03T12:13:14.940Z"
-    },
-    {
-      "id": "25576",
-      "loja": "Amazon",
-      "titulo": "Payot Hidratante Facial Payot Noturno",
-      "link": "https://www.amazon.com.br/dp/B0BRTC3KZG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fS-e4l5TL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 98.74,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-03T12:09:43.524Z"
-    },
-    {
-      "id": "25573",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 02 Travesseiro Antialérgico Pluma De Ganso 70cm X 50cm Cor Branco",
-      "link": "https://meli.la/1Js4N1Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636485-MLA109126967806_042026-F.jpg",
-      "preco": 29.89,
-      "precoDe": 58.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-03T12:02:23.901Z"
-    },
-    {
-      "id": "25572",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jeans Pantalona Wide Leg Feminina Cintura Alta Larga",
-      "link": "https://meli.la/1iq3ADZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824308-MLB118356425559_092026-O.webp",
-      "preco": 44.84,
-      "precoDe": 109.9,
-      "desconto": 42,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-03T11:59:12.487Z"
     }
   ]
 }
