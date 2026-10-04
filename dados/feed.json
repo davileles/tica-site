@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-04T11:30:20.114Z",
+  "atualizadoEm": "2026-10-04T11:47:16.969Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25795",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Professionnel Absolut Repair, Óleo de Tratamento Capilar Leave-in Multi-Benefícios 10 em 1, Cabelos Secos e Danificados, Proteína e Óleo de Proteína de Trigo, 30ml",
+      "link": "https://www.amazon.com.br/dp/B0CPYDJLH2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mcQPVBk2L._SL400_.jpg",
+      "preco": 56.62,
+      "precoDe": 84.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:37:16.964Z"
+    },
+    {
+      "id": "25792",
+      "loja": "Amazon",
+      "titulo": "Integralmedica Creatina Hardcore 60 Cápsulas Pura Monohidratada",
+      "link": "https://www.amazon.com.br/dp/B07L5T3X9S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hrtcGXsDL._SL400_.jpg",
+      "preco": 18.59,
+      "precoDe": 29.89,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:32:41.808Z"
+    },
     {
       "id": "25791",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-03T11:59:12.487Z"
-    },
-    {
-      "id": "25568",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/30oTQHMO23",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 23.88,
-      "precoDe": 47.76,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-03T11:51:04.754Z"
-    },
-    {
-      "id": "25567",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Academia Feminino E Masculino Estiloso Unissex",
-      "link": "https://meli.la/2zF4jmF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641707-MLB93310912704_092025-O.webp",
-      "preco": 41.839999999999996,
-      "precoDe": 119.9,
-      "desconto": 59,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-03T11:47:41.024Z"
     }
   ]
 }
