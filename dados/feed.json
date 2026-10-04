@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T22:23:31.971Z",
+  "atualizadoEm": "2026-10-04T22:41:35.023Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26035",
+      "loja": "Shopee",
+      "titulo": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "link": "https://s.shopee.com.br/80DBgr6lBl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
+      "preco": 26.99,
+      "precoDe": 45.75,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T22:36:03.368Z"
+    },
     {
       "id": "26033",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-04T13:01:03.997Z"
-    },
-    {
-      "id": "25836",
-      "loja": "Shopee",
-      "titulo": "Macacão Bebê Teddy Sherpa Pele de Carneiro Pelúcia Inverno Quentinho com Capuz Ursinho Menino Menina",
-      "link": "https://s.shopee.com.br/2qV4tb1QPZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mqmkwbx40xz410_tn",
-      "preco": 39.9,
-      "precoDe": 70,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:57:49.677Z"
     }
   ]
 }
