@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T15:42:37.136Z",
+  "atualizadoEm": "2026-10-04T18:11:37.369Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,27 +759,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS03",
+      "codigo": "BEMESTAR0410",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
+      "valor": 15,
+      "minimo": 119,
       "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
-      "validadeAte": "2026-10-04T18:01:28.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA0310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
-      "validadeAte": "2026-10-04T18:01:28.000Z",
+      "limite": 30,
+      "observacao": "Cupons válidos para produtos selecionados",
+      "validadeAte": "2026-10-05T18:00:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -792,6 +780,18 @@
       "limite": 200,
       "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
       "validadeAte": "2026-10-05T12:02:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL0410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos para produtos selecionados",
+      "validadeAte": "2026-10-05T18:00:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -889,6 +889,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "DESCONTOOFICIAL50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T17:47:33.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "PROMO100",
