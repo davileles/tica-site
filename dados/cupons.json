@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T15:17:23.308Z",
+  "atualizadoEm": "2026-10-04T15:42:37.136Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,18 +459,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MOBILIA0410",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1099,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-05T15:01:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOSITE0410",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -768,18 +756,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-05T12:00:24.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS0410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-05T15:01:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
