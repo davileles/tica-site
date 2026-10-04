@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-04T02:13:28.724Z",
+  "atualizadoEm": "2026-10-04T11:15:47.229Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25785",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
+      "preco": 178.19,
+      "precoDe": 229.49,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:05:47.228Z"
+    },
+    {
+      "id": "25783",
+      "loja": "Shopee",
+      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+      "link": "https://s.shopee.com.br/1AtOXt58z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
+      "preco": 189.99,
+      "precoDe": 311.46,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T11:03:09.267Z"
+    },
     {
       "id": "25774",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 80,
       "cupom": null,
       "enviadoEm": "2026-10-03T11:25:29.783Z"
-    },
-    {
-      "id": "25556",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Layup Under Armour",
-      "link": "https://meli.la/2FvLKPo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935775-MLB112403063109_052026-O.webp",
-      "preco": 252.13,
-      "precoDe": 549.99,
-      "desconto": 46,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-03T11:13:34.759Z"
-    },
-    {
-      "id": "25553",
-      "loja": "Amazon",
-      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
-      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
-      "preco": 319.9,
-      "precoDe": 617.38,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-03T11:07:09.531Z"
     }
   ]
 }
