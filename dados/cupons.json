@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T01:29:46.347Z",
+  "atualizadoEm": "2026-10-04T03:29:46.007Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -204,30 +204,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-06T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "LU300OFF",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-04T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "LU250OFF",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-04T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -747,15 +723,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATELOJAS",
+      "codigo": "RESGATEFULL0410",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
       "minimo": 89,
       "maximo": null,
       "limite": 50,
-      "observacao": "Válido em lojas oficiais conforme lista fornecida",
-      "validadeAte": "2026-10-04T03:00:30.000Z",
+      "observacao": "Válido em entregas Full. Selecionados conforme lista.",
+      "validadeAte": "2026-10-05T03:00:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
