@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T20:05:06.263Z",
+  "atualizadoEm": "2026-10-04T20:41:35.446Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -888,6 +888,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-05T17:47:33.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "TEMTUDO50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T20:36:27.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
