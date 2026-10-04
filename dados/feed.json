@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T12:00:20.115Z",
+  "atualizadoEm": "2026-10-04T12:18:20.699Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25809",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Feminino Plataforma Casual Chunky Macio Confortável",
+      "link": "https://meli.la/1wyhRwk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709351-MLB113773003367_062026-O.webp",
+      "preco": 98,
+      "precoDe": 209.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T12:14:19.958Z"
+    },
     {
       "id": "25800",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": "CARRINHOML",
       "enviadoEm": "2026-10-03T12:23:28.089Z"
-    },
-    {
-      "id": "25577",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Lupo Boxer Poliamida Sem Costura Box Masculina",
-      "link": "https://meli.la/2MmMdee",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691576-MLB112113678795_052026-O.webp",
-      "preco": 127.47000000000001,
-      "precoDe": 449.99,
-      "desconto": 67,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-10-03T12:13:14.940Z"
     }
   ]
 }
