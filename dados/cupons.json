@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T03:29:46.007Z",
+  "atualizadoEm": "2026-10-04T12:00:22.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -471,18 +471,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITETODO0310",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Primeiro cupom para compras gerais; segundo cupom para listas selecionadas",
-      "validadeAte": "2026-10-04T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -756,18 +744,6 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-04T19:50:19.747Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS03JOGOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Primeiro cupom para compras gerais; segundo cupom para listas selecionadas",
-      "validadeAte": "2026-10-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
