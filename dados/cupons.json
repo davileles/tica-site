@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T12:00:22.904Z",
+  "atualizadoEm": "2026-10-04T12:05:59.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -471,6 +471,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOSITE0410",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T12:00:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -771,15 +783,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTOS",
+      "codigo": "CONSTRUCAO0410",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
+      "valor": 15,
+      "minimo": 249,
       "maximo": null,
-      "limite": 100,
+      "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-10-04T12:04:41.000Z",
+      "validadeAte": "2026-10-05T12:00:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -816,6 +828,18 @@
       "limite": 20,
       "observacao": "Cupons válidos em selecionados: Lojas Oficiais e Moda e Beleza",
       "validadeAte": "2026-10-04T18:01:28.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFNOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-05T12:02:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
