@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-03T22:59:40.310Z",
+  "atualizadoEm": "2026-10-04T02:13:28.724Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "25774",
+      "loja": "Amazon",
+      "titulo": "Everlast Mala de Viagem Branco Tam M",
+      "link": "https://www.amazon.com.br/dp/B0FC8SWXDG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GvfoOyRDL._SL400_.jpg",
+      "preco": 279.12,
+      "precoDe": 679.99,
+      "desconto": 49,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-04T02:03:28.723Z"
+    },
     {
       "id": "25773",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-10-03T11:07:09.531Z"
-    },
-    {
-      "id": "25552",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Nike Academy Team Unissex",
-      "link": "https://meli.la/2gXXFW9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719342-MLA95242399717_102025-F.jpg",
-      "preco": 184.99,
-      "precoDe": 399.99,
-      "desconto": 49,
-      "cupom": "MODA10BELEZA",
-      "enviadoEm": "2026-10-03T11:06:05.509Z"
     }
   ]
 }
