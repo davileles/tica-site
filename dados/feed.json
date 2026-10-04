@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-04T20:27:27.720Z",
+  "atualizadoEm": "2026-10-04T20:54:53.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26025",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Barril 5L",
+      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
+      "preco": 97.91,
+      "precoDe": 119.99,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T20:44:53.563Z"
+    },
+    {
+      "id": "26023",
+      "loja": "Shopee",
+      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
+      "link": "https://s.shopee.com.br/3g4COvTMBQ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
+      "preco": 25.97,
+      "precoDe": 32.87,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T20:42:57.533Z"
+    },
     {
       "id": "26021",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-04T12:44:17.809Z"
-    },
-    {
-      "id": "25824",
-      "loja": "Mercado Livre",
-      "titulo": "> ️ Carrinho Bebê Dobra Rápida Assento Reversível Capota Solar",
-      "link": "https://meli.la/2FF6q5F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791013-MLB113870835500_072026-O.webp",
-      "preco": 1099,
-      "precoDe": 2999,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:40:57.375Z"
-    },
-    {
-      "id": "25823",
-      "loja": "Amazon",
-      "titulo": "Boia Infantil Tubarão Azul 60cm – Anel Inflável para Piscina e Praia",
-      "link": "https://www.amazon.com.br/dp/B0GGSLK1NN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413vCB9S2jL._SL400_.jpg",
-      "preco": 6.56,
-      "precoDe": 19,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:37:26.354Z"
     }
   ]
 }
