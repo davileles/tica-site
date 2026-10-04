@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T22:00:54.160Z",
+  "atualizadoEm": "2026-10-04T22:23:31.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26033",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/5LCQUPTICV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 78.9,
+      "precoDe": 109.58,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T22:13:31.970Z"
+    },
     {
       "id": "26030",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-04T12:57:49.677Z"
-    },
-    {
-      "id": "25835",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Jantar e Chá Oxford Mendi Marfim de Cerâmica com 20 Peças",
-      "link": "https://meli.la/2sS7vze",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636799-MLA95689845192_102025-F.jpg",
-      "preco": 265.05,
-      "precoDe": 449.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:54:29.788Z"
     }
   ]
 }
