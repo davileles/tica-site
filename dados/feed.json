@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T21:38:19.649Z",
+  "atualizadoEm": "2026-10-04T22:00:54.160Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26030",
+      "loja": "Shopee",
+      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
+      "link": "https://s.shopee.com.br/8Kq22MQBga",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
+      "preco": 24,
+      "precoDe": 25.81,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T21:50:54.155Z"
+    },
     {
       "id": "26027",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-04T12:54:29.788Z"
-    },
-    {
-      "id": "25834",
-      "loja": "Shopee",
-      "titulo": "Conjunto Infantil KIT 10 PEÇAS Para Bebê Canelado Boddy Manga Longa e Calça",
-      "link": "https://s.shopee.com.br/AUuW1Dx9X8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-msmrh14ebpj865_tn",
-      "preco": 149.39,
-      "precoDe": 179.99,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:50:58.205Z"
     }
   ]
 }
