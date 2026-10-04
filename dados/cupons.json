@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T12:05:59.714Z",
+  "atualizadoEm": "2026-10-04T12:18:22.966Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,18 +759,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ACESSORIOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-04T12:06:38.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BEBES0310",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -792,18 +780,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-05T12:00:24.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CARRINHOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-04T12:06:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
