@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T21:11:37.125Z",
+  "atualizadoEm": "2026-10-04T21:41:35.495Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -445,6 +445,18 @@
       "observacao": null,
       "validadeAte": "2026-10-07T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "FSNDIYPVIZ",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-05T21:38:41.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "TODOSITE0410",
