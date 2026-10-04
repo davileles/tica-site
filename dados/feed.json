@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T20:05:03.848Z",
+  "atualizadoEm": "2026-10-04T20:27:27.720Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26021",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/8pmIWsM02f",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 66.9,
+      "precoDe": 139.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T20:17:27.720Z"
+    },
     {
       "id": "26019",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-10-04T12:37:26.354Z"
-    },
-    {
-      "id": "25820",
-      "loja": "Shopee",
-      "titulo": "Papel de Parede Dinossauro Baby Aquarela para Quarto Infantil | Rolos de 50 cm Personalizado Lavavél AutoColante",
-      "link": "https://s.shopee.com.br/50ZZRvLW1J",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mqzfcmrfurycaa_tn",
-      "preco": 48,
-      "precoDe": 70.59,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T12:33:55.227Z"
     }
   ]
 }
