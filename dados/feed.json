@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-04T19:29:33.327Z",
+  "atualizadoEm": "2026-10-04T20:05:03.848Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26019",
+      "loja": "Shopee",
+      "titulo": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
+      "link": "https://s.shopee.com.br/5q8gvojf9R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 10.99,
+      "precoDe": 29.7,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-04T19:55:03.845Z"
+    },
     {
       "id": "26016",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-10-04T12:33:55.227Z"
-    },
-    {
-      "id": "25818",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Integralmedica 120 Cápsulas Hardcore Monohidratada Sabor Sem Sabor",
-      "link": "https://meli.la/1M6Nipy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728775-MLA100855825915_122025-F.jpg",
-      "preco": 31.490000000000002,
-      "precoDe": 59.9,
-      "desconto": 25,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-04T12:30:29.761Z"
     }
   ]
 }
