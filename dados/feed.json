@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-05T13:49:11.393Z",
+  "atualizadoEm": "2026-10-05T13:52:08.010Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26272",
+      "loja": "Amazon",
+      "titulo": "Beefeater Gin London Dry 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
+      "preco": 66.01,
+      "precoDe": 119.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T13:52:07.904Z"
+    },
+    {
+      "id": "26263",
+      "loja": "Shopee",
+      "titulo": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
+      "link": "https://s.shopee.com.br/4LJuJrRRLZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c_tn",
+      "preco": 34.98,
+      "precoDe": 69.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T13:50:34.290Z"
+    },
     {
       "id": "26262",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-10-04T16:29:05.379Z"
-    },
-    {
-      "id": "25936",
-      "loja": "Shopee",
-      "titulo": "Tênis Infantil Menino De Velcro | Calce Fácil Com Conforto Do 20 ao 33 | GARANTA JÁ O DO SEU FILHO!",
-      "link": "https://s.shopee.com.br/9KiYrXQtrn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mn1s167l6lms0c_tn",
-      "preco": 57.6,
-      "precoDe": 80,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T16:25:39.697Z"
-    },
-    {
-      "id": "25935",
-      "loja": "Shopee",
-      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
-      "link": "https://s.shopee.com.br/9zyFel6pes",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
-      "preco": 16.99,
-      "precoDe": 80.9,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T16:22:01.048Z"
     }
   ]
 }
