@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-05T12:04:09.029Z",
+  "atualizadoEm": "2026-10-05T12:20:11.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26164",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Professionnel Serie Expert Inforcer Máscara de Tratamento, Fortificante Anti-Quebra que Estimula o Crescimento e Previne a Queda, com Biotina e Vitamina B6 para Cabelos Frá",
+      "link": "https://www.amazon.com.br/dp/B09GSRB2CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oz40vYkJL._SL400_.jpg",
+      "preco": 166.9,
+      "precoDe": 214.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T12:13:53.755Z"
+    },
+    {
+      "id": "26163",
+      "loja": "Amazon",
+      "titulo": "Camiseta Masculina New Balance Athletics Logo, Cinza Claro Mescla, P",
+      "link": "https://www.amazon.com.br/dp/B0DSTG5Q8V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fU6qtJfrL._SL400_.jpg",
+      "preco": 69.28999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "25% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-05T12:10:44.793Z"
+    },
+    {
+      "id": "26162",
+      "loja": "Amazon",
+      "titulo": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Preta, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TlhDlTzeL._SL400_.jpg",
+      "preco": 439,
+      "precoDe": 899,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T12:07:15.906Z"
+    },
+    {
+      "id": "26161",
+      "loja": "Amazon",
+      "titulo": "Cachaça Salinas Umburana 1L",
+      "link": "https://www.amazon.com.br/dp/B07XS8N19L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eakQ+j0kL._SL400_.jpg",
+      "preco": 50.25,
+      "precoDe": 52.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T12:04:14.616Z"
+    },
     {
       "id": "26160",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-04T14:55:52.338Z"
-    },
-    {
-      "id": "25898",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto de Saída Maternidade para Bebê Menina, coleção Jardim com 4 peças em Suedine 100% Algodão, cor Bege, tamanho RN.",
-      "link": "https://meli.la/2Mi2fte",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664103-MLB116165105486_092026-O.webp",
-      "preco": 112.42,
-      "precoDe": 149.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T14:52:21.927Z"
-    },
-    {
-      "id": "25896",
-      "loja": "Shopee",
-      "titulo": "1 Rosa/Preto/Azul Cesto De Roupa Caixa Dobrável Para Armazenagem E Organização De Vestuário Brinquedos",
-      "link": "https://s.shopee.com.br/905iMU4YYT",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12_tn",
-      "preco": 14.59,
-      "precoDe": 42.91,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T14:49:09.253Z"
-    },
-    {
-      "id": "25895",
-      "loja": "Mercado Livre",
-      "titulo": "Óleo Capilar wella Oil Reflect 30ml",
-      "link": "https://meli.la/1FvAEdH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690433-MLA116380162305_082026-F.jpg",
-      "preco": 55.22,
-      "precoDe": 79.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T14:45:39.934Z"
-    },
-    {
-      "id": "25894",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Peças Calça Caneleda Lisa Cores Sortidas Menina",
-      "link": "https://meli.la/1QGhRaz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_643216-MLB113502067692_072026-O.webp",
-      "preco": 31.52,
-      "precoDe": 39.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T14:42:24.250Z"
     }
   ]
 }
