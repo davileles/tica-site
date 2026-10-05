@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-05T22:59:24.561Z",
+  "atualizadoEm": "2026-10-05T23:59:24.562Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26592",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 73.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T23:54:56.626Z"
+    },
+    {
+      "id": "26591",
+      "loja": "Amazon",
+      "titulo": "Santa Helena Vinho Reservado Carmenere 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTQ8HJW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310ScQtZTcL._SL400_.jpg",
+      "preco": 19.96,
+      "precoDe": 23.31,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T23:53:48.207Z"
+    },
     {
       "id": "26587",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-10-05T16:07:58.163Z"
-    },
-    {
-      "id": "26342",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff Ice 275ml - Pack 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NH7X45Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fi3yM2MfL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 46.74,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T16:04:39.315Z"
-    },
-    {
-      "id": "26340",
-      "loja": "Amazon",
-      "titulo": "Capa Ovvi Silicone MagSafe iPhone 16 Rosa Claro",
-      "link": "https://www.amazon.com.br/dp/B0FRGHQMDV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21U1Wvj9xYL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 189,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T16:00:05.798Z"
     }
   ]
 }
