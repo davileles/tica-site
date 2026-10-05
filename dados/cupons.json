@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T20:59:27.177Z",
+  "atualizadoEm": "2026-10-05T21:29:27.180Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -408,6 +408,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-06T19:03:10.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TOMA15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 500,
+      "limite": null,
+      "observacao": "Válido no APP Magalu",
+      "validadeAte": "2026-10-06T21:11:55.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
