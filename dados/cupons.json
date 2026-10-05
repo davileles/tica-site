@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-04T21:41:35.495Z",
+  "atualizadoEm": "2026-10-05T03:11:35.386Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -147,18 +147,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
-      "codigo": "CLIMA25",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-05T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
       "codigo": "ASPIRADOR20",
       "loja": "Fastshop",
       "tipo": "pct",
@@ -180,18 +168,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "COMPRA5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-05T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -360,18 +336,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-09T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SOMZERA12",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-05T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -555,18 +519,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTINOTOP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-05T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BATEUPRONTOCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -651,18 +603,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PAGARPOUCO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-05T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITAMUITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -687,6 +627,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAISRESGATE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-06T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -708,18 +660,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-10-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATEFULL0410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em entregas Full. Selecionados conforme lista.",
-      "validadeAte": "2026-10-05T03:00:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
