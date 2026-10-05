@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-05T19:57:31.376Z",
+  "atualizadoEm": "2026-10-05T19:59:24.441Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26527",
+      "loja": "Amazon",
+      "titulo": "OAZ Gel Pós-Sol Infantil Bob Esponja 120ml",
+      "link": "https://www.amazon.com.br/dp/B0BXV3STFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N2eXFMopL._SL400_.jpg",
+      "preco": 14.23,
+      "precoDe": 23.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T19:58:27.169Z"
+    },
+    {
+      "id": "26526",
+      "loja": "Amazon",
+      "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco",
+      "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31k6DMMlVEL._SL400_.jpg",
+      "preco": 162.53,
+      "precoDe": 259.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T19:57:38.099Z"
+    },
     {
       "id": "26524",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 9,
       "cupom": "LOREAL20",
       "enviadoEm": "2026-10-05T14:02:35.228Z"
-    },
-    {
-      "id": "26275",
-      "loja": "Shopee",
-      "titulo": "Torno Morsa de Bancada 6\" 150 mm Giratória C/ Bigorna",
-      "link": "https://s.shopee.com.br/9KiaHSkuPj",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m7nbbimro0bg74_tn",
-      "preco": 165,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T13:59:09.102Z"
-    },
-    {
-      "id": "26273",
-      "loja": "Amazon",
-      "titulo": "Everlast Camiseta Essentials Big Logo Masculino Preto M",
-      "link": "https://www.amazon.com.br/dp/B0GM1XH2KY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31VABc1fLTL._SL400_.jpg",
-      "preco": 47.830000000000005,
-      "precoDe": 67.7,
-      "desconto": 6,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-05T13:58:20.541Z"
     }
   ]
 }
