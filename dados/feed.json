@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-05T22:29:24.560Z",
+  "atualizadoEm": "2026-10-05T22:59:24.561Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26587",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Energy 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTMYXBJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41PHUVUuXFL._SL400_.jpg",
+      "preco": 51.01,
+      "precoDe": 62.94,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T22:55:02.801Z"
+    },
+    {
+      "id": "26586",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Slim Pees Para Cães  30 Unidades  50x60cm",
+      "link": "https://s.shopee.com.br/7faMttp9C8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyx-m0w2wg7zdcxc62_tn",
+      "preco": 78.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T22:47:28.385Z"
+    },
+    {
+      "id": "26585",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 46.68,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T22:40:47.940Z"
+    },
     {
       "id": "26584",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-05T16:00:05.798Z"
-    },
-    {
-      "id": "26339",
-      "loja": "Amazon",
-      "titulo": "Catharine Hill Base Líquida Alta Cobertura Angel Wings 2022/A10.5 40ml À Prova D'água Acabamento Matte Vegano Ácido Hialurônico",
-      "link": "https://www.amazon.com.br/dp/B0FFVBBDDZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3176WeYXPJL._SL400_.jpg",
-      "preco": 34.64,
-      "precoDe": 94.69,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:57:06.995Z"
-    },
-    {
-      "id": "26338",
-      "loja": "Amazon",
-      "titulo": "Inversor Solda Eletrodo e TIG IM125 Com Máscara - Bivolt Vonder",
-      "link": "https://www.amazon.com.br/dp/B0DWFZWLHF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4140rl5XZoL._SL400_.jpg",
-      "preco": 659,
-      "precoDe": 1108.61,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:53:42.125Z"
-    },
-    {
-      "id": "26333",
-      "loja": "Shopee",
-      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
-      "link": "https://s.shopee.com.br/8Kq3EbJEfr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
-      "preco": 24.99,
-      "precoDe": 47.15,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:51:59.789Z"
     }
   ]
 }
