@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T15:51:10.793Z",
+  "atualizadoEm": "2026-10-05T16:59:27.034Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PINTADINHA20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 40,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -771,6 +783,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RIDE15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 600,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QCABECA15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ESPECIALML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -816,6 +852,66 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-06T15:00:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PELUCIAS10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BONECAS10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "JOGOS10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COLECIONE10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BRINQUE10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
+      "validadeAte": "2026-10-06T16:30:50.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
