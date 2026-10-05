@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-05T03:41:35.027Z",
+  "atualizadoEm": "2026-10-05T10:36:48.436Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26080",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 113.99,
+      "precoDe": 157.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T10:32:31.512Z"
+    },
     {
       "id": "26050",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-04T13:17:13.872Z"
-    },
-    {
-      "id": "25841",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Colcha Cobre Leito Infantil Solteiro Estampado 220x180cm Dupla Face 2 Peças Matelado 100% Poliéster Macio E Divertido Aventuras Do Dino Cozzilar",
-      "link": "https://meli.la/2FpSFL5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_661775-MLA107513420126_032026-F.jpg",
-      "preco": 64.99,
-      "precoDe": 109.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:13:45.385Z"
     }
   ]
 }
