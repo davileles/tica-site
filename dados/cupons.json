@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T18:59:27.086Z",
+  "atualizadoEm": "2026-10-05T19:29:27.207Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -396,6 +396,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-05T21:38:41.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 500,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-06T19:03:10.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
