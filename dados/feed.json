@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-05T21:54:00.068Z",
+  "atualizadoEm": "2026-10-05T21:59:24.560Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26570",
+      "loja": "Amazon",
+      "titulo": "Cachaça Espírito de Minas Tradicional Artesanal de Alambique 700ml",
+      "link": "https://www.amazon.com.br/dp/B001HUBWKE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Cve9d1-wL._SL400_.jpg",
+      "preco": 53.48,
+      "precoDe": 89.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:54:16.951Z"
+    },
     {
       "id": "26567",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-05T15:13:14.216Z"
-    },
-    {
-      "id": "26313",
-      "loja": "Amazon",
-      "titulo": "Forno a Gás de Embutir Electrolux 80L Cinza Experience Com FoodSensor OE8GF 220V 50807UBA285",
-      "link": "https://www.amazon.com.br/dp/B09L8JRHK7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41wMU5-nCXL._SL400_.jpg",
-      "preco": 1262.54,
-      "precoDe": 2699,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:12:19.178Z"
     }
   ]
 }
