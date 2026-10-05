@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-05T16:21:08.045Z",
+  "atualizadoEm": "2026-10-05T16:30:24.301Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26364",
+      "loja": "Amazon",
+      "titulo": "Jose Cuervo Tequila Gold Mexicana 35° 750ml",
+      "link": "https://www.amazon.com.br/dp/B09NVMP8GV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lELpNUJmL._SL400_.jpg",
+      "preco": 120,
+      "precoDe": 139.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:29:43.628Z"
+    },
+    {
+      "id": "26358",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calças Jogger Masculinas De Tactel Com Elastano Ziper",
+      "link": "https://meli.la/2sMWzCL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_623337-MLB93314572313_092025-O.webp",
+      "preco": 84.22999999999999,
+      "precoDe": 185.57,
+      "desconto": 47,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T16:27:02.253Z"
+    },
+    {
+      "id": "26357",
+      "loja": "Amazon",
+      "titulo": "Vonder, Inversor para Solda com Eletrodo E Tig, 120 A, Riv 121",
+      "link": "https://www.amazon.com.br/dp/B0F1DC9YY8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41G0OjeBk7L._SL400_.jpg",
+      "preco": 467,
+      "precoDe": 917.16,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:23:21.859Z"
+    },
+    {
+      "id": "26356",
+      "loja": "Mercado Livre",
+      "titulo": "Casinha Boneca Coelho Mini Castelo Móveis Hopjoy Maxi Toys",
+      "link": "https://meli.la/1pAUdAH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816764-MLB115309210086_082026-O.webp",
+      "preco": 78.9,
+      "precoDe": 149.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:22:07.144Z"
+    },
+    {
+      "id": "26352",
+      "loja": "Amazon",
+      "titulo": "Ninja, Sorveteira Creami, 7 Opções Diferentes de Sorvete, 110V",
+      "link": "https://www.amazon.com.br/dp/B0DHSWL7D6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Vij8d-BJL._SL400_.jpg",
+      "preco": 1267.92,
+      "precoDe": 2199,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:21:19.141Z"
+    },
     {
       "id": "26351",
       "loja": "Shopee",
@@ -61,18 +121,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-05T16:04:39.315Z"
-    },
-    {
-      "id": "26341",
-      "loja": "Amazon",
-      "titulo": "Ninja, Sorveteira Creami, 7 Opções Diferentes de Sorvete, 110V",
-      "link": "https://www.amazon.com.br/dp/B0DHSWL7D6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Vij8d-BJL._SL400_.jpg",
-      "preco": 1267.92,
-      "precoDe": 2199,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T16:03:31.718Z"
     },
     {
       "id": "26340",
@@ -1393,54 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-04T20:42:57.533Z"
-    },
-    {
-      "id": "26021",
-      "loja": "Shopee",
-      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
-      "link": "https://s.shopee.com.br/8pmIWsM02f",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
-      "preco": 66.9,
-      "precoDe": 139.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T20:17:27.720Z"
-    },
-    {
-      "id": "26019",
-      "loja": "Shopee",
-      "titulo": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
-      "link": "https://s.shopee.com.br/5q8gvojf9R",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
-      "preco": 10.99,
-      "precoDe": 29.7,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:55:03.845Z"
-    },
-    {
-      "id": "26016",
-      "loja": "Shopee",
-      "titulo": "Sandálias Infantis Elegantes Princesa Princesa de Laço de Menina Sapatos Luz Suave",
-      "link": "https://s.shopee.com.br/113R8QhDa7",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mbl51s9xu88gc4_tn",
-      "preco": 28.99,
-      "precoDe": 78.35,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:19:33.324Z"
-    },
-    {
-      "id": "26014",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Tapetes De Banheiro Microfibra Bolinha Antiderrepante Cor Sortido",
-      "link": "https://meli.la/1DNtAjo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704987-MLA102011222686_122025-F.jpg",
-      "preco": 37.91,
-      "precoDe": 64.97,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:16:07.267Z"
     }
   ]
 }
