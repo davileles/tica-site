@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T12:04:12.109Z",
+  "atualizadoEm": "2026-10-05T12:20:14.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -687,6 +687,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPERMERCADO0510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom válido para categoria Supermercado",
+      "validadeAte": "2026-10-06T12:02:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "KID50",
       "loja": "Mizuno",
       "tipo": "reais",
@@ -804,6 +816,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-05T20:36:27.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "V3MPRANASHAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-06T12:11:28.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
