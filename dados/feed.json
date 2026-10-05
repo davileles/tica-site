@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-05T20:59:24.560Z",
+  "atualizadoEm": "2026-10-05T21:29:24.560Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26561",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
+      "preco": 42.19,
+      "precoDe": 76.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:21:47.101Z"
+    },
+    {
+      "id": "26559",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Precision 8 Low Masculino",
+      "link": "https://meli.la/2X2TssB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_859526-MLB109231776588_042026-O.webp",
+      "preco": 392.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T21:19:11.813Z"
+    },
+    {
+      "id": "26554",
+      "loja": "Shopee",
+      "titulo": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "link": "https://s.shopee.com.br/3B7xRJNu3N",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b_tn",
+      "preco": 78,
+      "precoDe": 159.18,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:15:18.828Z"
+    },
+    {
+      "id": "26552",
+      "loja": "Amazon",
+      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
+      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
+      "preco": 106,
+      "precoDe": 141.84,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:07:31.873Z"
+    },
     {
       "id": "26551",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-10-05T14:59:56.672Z"
-    },
-    {
-      "id": "26307",
-      "loja": "Shopee",
-      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
-      "link": "https://s.shopee.com.br/60S8OfiTie",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
-      "preco": 49.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:58:57.441Z"
-    },
-    {
-      "id": "26302",
-      "loja": "Amazon",
-      "titulo": "Comfort Amaciante Concentrado Frescor Intenso 1 L",
-      "link": "https://www.amazon.com.br/dp/B07DTLS9M7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xl21s8GzL._SL400_.jpg",
-      "preco": 15.99,
-      "precoDe": 23.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:52:03.352Z"
-    },
-    {
-      "id": "26301",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 49.39,
-      "precoDe": 92.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:48:01.493Z"
-    },
-    {
-      "id": "26300",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER Parafusadeira à Bateria Íon Lítio 4V BD40K4 Bivolt",
-      "link": "https://www.amazon.com.br/dp/B07WF9CDTS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/417qz5L36pL._SL400_.jpg",
-      "preco": 169.06,
-      "precoDe": 179,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:47:11.629Z"
     }
   ]
 }
