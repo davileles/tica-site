@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T13:19:14.326Z",
+  "atualizadoEm": "2026-10-05T15:21:11.092Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBESEPETS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-06T15:00:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -780,6 +792,18 @@
       "limite": 200,
       "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-10-06T13:08:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA0510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-06T15:00:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
