@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-05T19:59:24.441Z",
+  "atualizadoEm": "2026-10-05T20:26:46.209Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26537",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 75.04,
+      "precoDe": 124.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T20:16:46.202Z"
+    },
+    {
+      "id": "26536",
+      "loja": "Amazon",
+      "titulo": "Oster Cafeteira Oster Inox Compacta 0,75L, OCAF300, 220V",
+      "link": "https://www.amazon.com.br/dp/B093HGNHR2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rhTdkBR0L._SL400_.jpg",
+      "preco": 90.15,
+      "precoDe": 105.9,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T20:15:28.515Z"
+    },
+    {
+      "id": "26534",
+      "loja": "Amazon",
+      "titulo": "Filtro de Linha 4 Tomadas Elgin 2P+T 10A Preto Bivolt",
+      "link": "https://www.amazon.com.br/dp/B0755K43WL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31c6rh4Gw0L._SL400_.jpg",
+      "preco": 19.98,
+      "precoDe": 68.22,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T20:12:18.854Z"
+    },
+    {
+      "id": "26533",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Break Start Adidas",
+      "link": "https://meli.la/2ymj9X7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631450-MLA99819674953_112025-O.webp",
+      "preco": 192.94,
+      "precoDe": 399.99,
+      "desconto": 43,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T20:09:12.339Z"
+    },
+    {
+      "id": "26529",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 117.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T20:02:36.041Z"
+    },
+    {
+      "id": "26528",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Bermuda Ciclista Infantil Menina Básica Cotton Malwee",
+      "link": "https://meli.la/2ridzj5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645456-MLB111248093584_052026-O.webp",
+      "preco": 64.99,
+      "precoDe": 78.9,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T20:01:42.965Z"
+    },
     {
       "id": "26527",
       "loja": "Amazon",
@@ -433,18 +505,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-10-05T18:18:47.224Z"
-    },
-    {
-      "id": "26443",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Vanilia - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 117.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:15:00.304Z"
     },
     {
       "id": "26442",
@@ -1381,66 +1441,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-05T14:18:46.462Z"
-    },
-    {
-      "id": "26285",
-      "loja": "Amazon",
-      "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/dp/B09B8QFYZ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL400_.jpg",
-      "preco": 329,
-      "precoDe": 649,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:17:34.764Z"
-    },
-    {
-      "id": "26283",
-      "loja": "Shopee",
-      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
-      "link": "https://s.shopee.com.br/3VknMw0N1k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
-      "preco": 34.9,
-      "precoDe": 60.17,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:13:08.204Z"
-    },
-    {
-      "id": "26281",
-      "loja": "Amazon",
-      "titulo": "Safety 1st, Travel System Mobi NV Trio, , Full Black",
-      "link": "https://www.amazon.com.br/dp/B09SPD5TQZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416XQ9uA9CL._SL400_.jpg",
-      "preco": 1700,
-      "precoDe": 1815,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:07:56.908Z"
-    },
-    {
-      "id": "26277",
-      "loja": "Shopee",
-      "titulo": "Cerveja Heineken Barril 5L",
-      "link": "https://s.shopee.com.br/3LRN9sBG6z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
-      "preco": 71.9,
-      "precoDe": 140.98,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:03:40.300Z"
-    },
-    {
-      "id": "26276",
-      "loja": "Amazon",
-      "titulo": "L’Oréal Professionnel Shampoo Absolut Repair Molecular, Repara Danos e Restaura Todos os Tipos de Cabelos Danificados, Sem Sulfato, SERIE EXPERT, 300ml",
-      "link": "https://www.amazon.com.br/dp/B0CBV5QR1C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yppY50y6L._SL400_.jpg",
-      "preco": 146.39000000000001,
-      "precoDe": 202,
-      "desconto": 9,
-      "cupom": "LOREAL20",
-      "enviadoEm": "2026-10-05T14:02:35.228Z"
     }
   ]
 }
