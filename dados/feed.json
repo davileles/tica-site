@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-05T16:59:24.307Z",
+  "atualizadoEm": "2026-10-05T17:29:24.308Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26403",
+      "loja": "Shopee",
+      "titulo": "Dinossauro Dos Desenhos Animados Com Capuz Jaquetas Leves Meninos Meninas Inverno Outono Roupas Casuais Para 1-5 Anos De",
+      "link": "https://s.shopee.com.br/9V20jOft37",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhm-m9nt69lr95hx04_tn",
+      "preco": 49.99,
+      "precoDe": 80.63,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:28:49.375Z"
+    },
+    {
+      "id": "26402",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Feminino Fitness Softblack Top E Short - Arm",
+      "link": "https://meli.la/2cNp28c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755042-MLB97368423248_112025-O.webp",
+      "preco": 81.08,
+      "precoDe": 127.19,
+      "desconto": 25,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T17:27:55.215Z"
+    },
+    {
+      "id": "26401",
+      "loja": "Amazon",
+      "titulo": "Electrolux Aspirador pó vertical 2 em 1 1450W HEPA STK15 Cinza Urban 127V",
+      "link": "https://www.amazon.com.br/dp/B094X2N4HV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21XRLXd49KL._SL400_.jpg",
+      "preco": 179,
+      "precoDe": 319,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:24:49.241Z"
+    },
+    {
+      "id": "26400",
+      "loja": "Amazon",
+      "titulo": "Licor Frangelico 700ml",
+      "link": "https://www.amazon.com.br/dp/B003XI0N4E?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Md7s7+K-L._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:20:40.500Z"
+    },
+    {
+      "id": "26397",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Lata 473ml Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09CR3T4QN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FIozdgRxL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 81.48,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:17:26.063Z"
+    },
+    {
+      "id": "26393",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+      "link": "https://meli.la/1YTVYRd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624574-MLA107288145353_022026-F.jpg",
+      "preco": 186.99,
+      "precoDe": 349.99,
+      "desconto": 37,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T17:10:04.082Z"
+    },
+    {
+      "id": "26392",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 75.7,
+      "precoDe": 115.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:06:30.532Z"
+    },
+    {
+      "id": "26390",
+      "loja": "Amazon",
+      "titulo": "Vonder, Rebitador Manual, Tipo Alicate, Rm 244.",
+      "link": "https://www.amazon.com.br/dp/B076XQLJNL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3106xKalAtL._SL400_.jpg",
+      "preco": 9.49,
+      "precoDe": 38.72,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:05:43.303Z"
+    },
+    {
+      "id": "26389",
+      "loja": "Amazon",
+      "titulo": "Café Orfeu Orgânico em Grãos, 100% Arabica, 250g",
+      "link": "https://www.amazon.com.br/dp/B077L9PZFK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312nBYzlXCL._SL400_.jpg",
+      "preco": 34.9,
+      "precoDe": 55.5,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T17:02:22.886Z"
+    },
     {
       "id": "26385",
       "loja": "Amazon",
@@ -1227,18 +1335,6 @@
       "enviadoEm": "2026-10-05T11:38:49.441Z"
     },
     {
-      "id": "26131",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 75.7,
-      "precoDe": 115.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:37:48.837Z"
-    },
-    {
       "id": "26130",
       "loja": "Amazon",
       "titulo": "Action Top Feminino Earth Brown PP",
@@ -1345,102 +1441,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-05T11:19:15.929Z"
-    },
-    {
-      "id": "26101",
-      "loja": "Amazon",
-      "titulo": "Kindle 16 GB (modelo 2024) - Leve e compacto, com tela antirreflexo, trocas de página rápidas, luz frontal ajustável e bateria de longa duração - Cor Verde",
-      "link": "https://www.amazon.com.br/dp/B0CP31QS6R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411NmQuM6GL._SL400_.jpg",
-      "preco": 519,
-      "precoDe": 899,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:15:47.159Z"
-    },
-    {
-      "id": "26100",
-      "loja": "Amazon",
-      "titulo": "Jim Beam Whisky Honey Bourbon 1L",
-      "link": "https://www.amazon.com.br/dp/B00C80O8AS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eQZh+GMBL._SL400_.jpg",
-      "preco": 77.9,
-      "precoDe": 92.11,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:12:26.986Z"
-    },
-    {
-      "id": "26097",
-      "loja": "Amazon",
-      "titulo": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
-      "link": "https://www.amazon.com.br/dp/B0CGY57KKM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ejIkdhCbL._SL400_.jpg",
-      "preco": 415.89,
-      "precoDe": 799.99,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:11:27.854Z"
-    },
-    {
-      "id": "26093",
-      "loja": "Amazon",
-      "titulo": "Everlast Mala de Viagem Branco Tam M",
-      "link": "https://www.amazon.com.br/dp/B0FC8SWXDG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GvfoOyRDL._SL400_.jpg",
-      "preco": 261.66999999999996,
-      "precoDe": 679.99,
-      "desconto": 49,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-05T11:08:11.275Z"
-    },
-    {
-      "id": "26092",
-      "loja": "Amazon",
-      "titulo": "Licor 43 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
-      "preco": 142.9,
-      "precoDe": 189.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:04:45.444Z"
-    },
-    {
-      "id": "26091",
-      "loja": "Shopee",
-      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
-      "link": "https://s.shopee.com.br/4VdKLhcFgJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
-      "preco": 19.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T11:03:47.617Z"
-    },
-    {
-      "id": "26080",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 113.99,
-      "precoDe": 157.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T10:32:31.512Z"
-    },
-    {
-      "id": "26050",
-      "loja": "Amazon",
-      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
-      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
-      "preco": 685.35,
-      "precoDe": 1364.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T03:39:17.644Z"
     }
   ]
 }
