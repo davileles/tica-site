@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-05T15:51:08.037Z",
+  "atualizadoEm": "2026-10-05T16:21:08.045Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26351",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
+      "link": "https://s.shopee.com.br/W7BvlefiE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
+      "preco": 12.9,
+      "precoDe": 30,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:18:01.251Z"
+    },
+    {
+      "id": "26350",
+      "loja": "Mercado Livre",
+      "titulo": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo Longo 1,4 Metros",
+      "link": "https://meli.la/2C6LZDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810904-MLA93779476451_092025-F.jpg",
+      "preco": 84.91000000000001,
+      "precoDe": 130,
+      "desconto": 23,
+      "cupom": "VALEMAISAQUI",
+      "enviadoEm": "2026-10-05T16:14:34.427Z"
+    },
+    {
+      "id": "26347",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 71.39,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:11:40.241Z"
+    },
+    {
+      "id": "26344",
+      "loja": "Amazon",
+      "titulo": "Tilibra - Mochila de Costas Académie Splashes Preta",
+      "link": "https://www.amazon.com.br/dp/B0B52HK14D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51F2tE+uM6L._SL400_.jpg",
+      "preco": 92.76,
+      "precoDe": 234.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:07:58.163Z"
+    },
+    {
+      "id": "26342",
+      "loja": "Amazon",
+      "titulo": "Vodka Smirnoff Ice 275ml - Pack 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B08NH7X45Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fi3yM2MfL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 46.74,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:04:39.315Z"
+    },
+    {
+      "id": "26341",
+      "loja": "Amazon",
+      "titulo": "Ninja, Sorveteira Creami, 7 Opções Diferentes de Sorvete, 110V",
+      "link": "https://www.amazon.com.br/dp/B0DHSWL7D6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Vij8d-BJL._SL400_.jpg",
+      "preco": 1267.92,
+      "precoDe": 2199,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:03:31.718Z"
+    },
+    {
+      "id": "26340",
+      "loja": "Amazon",
+      "titulo": "Capa Ovvi Silicone MagSafe iPhone 16 Rosa Claro",
+      "link": "https://www.amazon.com.br/dp/B0FRGHQMDV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21U1Wvj9xYL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 189,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T16:00:05.798Z"
+    },
+    {
+      "id": "26339",
+      "loja": "Amazon",
+      "titulo": "Catharine Hill Base Líquida Alta Cobertura Angel Wings 2022/A10.5 40ml À Prova D'água Acabamento Matte Vegano Ácido Hialurônico",
+      "link": "https://www.amazon.com.br/dp/B0FFVBBDDZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3176WeYXPJL._SL400_.jpg",
+      "preco": 34.64,
+      "precoDe": 94.69,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T15:57:06.995Z"
+    },
+    {
+      "id": "26338",
+      "loja": "Amazon",
+      "titulo": "Inversor Solda Eletrodo e TIG IM125 Com Máscara - Bivolt Vonder",
+      "link": "https://www.amazon.com.br/dp/B0DWFZWLHF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4140rl5XZoL._SL400_.jpg",
+      "preco": 659,
+      "precoDe": 1108.61,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T15:53:42.125Z"
+    },
+    {
+      "id": "26333",
+      "loja": "Shopee",
+      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
+      "link": "https://s.shopee.com.br/8Kq3EbJEfr",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
+      "preco": 24.99,
+      "precoDe": 47.15,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T15:51:59.789Z"
+    },
     {
       "id": "26330",
       "loja": "Mercado Livre",
@@ -1191,18 +1311,6 @@
       "enviadoEm": "2026-10-05T03:29:02.143Z"
     },
     {
-      "id": "26044",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 71.39,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T03:17:35.877Z"
-    },
-    {
       "id": "26035",
       "loja": "Shopee",
       "titulo": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
@@ -1333,114 +1441,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-10-04T19:16:07.267Z"
-    },
-    {
-      "id": "26013",
-      "loja": "Shopee",
-      "titulo": "Película de Vidro 3D HD Transparente iPhone 17 16 15 14 13 12 11 XR XS Max – Alta Definição Toque Suave Sem Bolhas",
-      "link": "https://s.shopee.com.br/9KiZ3GJ4g5",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zg-mo7rai99mg3q89_tn",
-      "preco": 12.99,
-      "precoDe": 36.08,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:12:19.833Z"
-    },
-    {
-      "id": "26012",
-      "loja": "Shopee",
-      "titulo": "Estante Montessori Infantil Mdf Organizador Livros Brinde Grande",
-      "link": "https://s.shopee.com.br/9KiZ30uP8d",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-msel0zs69zwn24_tn",
-      "preco": 89.9,
-      "precoDe": 149.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:09:12.356Z"
-    },
-    {
-      "id": "26011",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Polo Masculina Tecido Tech Confortavel Casual",
-      "link": "https://meli.la/1K26gun",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884241-MLB110127689291_042026-O.webp",
-      "preco": 34.93,
-      "precoDe": 157,
-      "desconto": 68,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-04T19:05:29.403Z"
-    },
-    {
-      "id": "26009",
-      "loja": "Shopee",
-      "titulo": "Kit Marmita Infantil com Copo 250ml Canudo e Cordinha Talher e 3 Divisórias Removíveis Escolar Fácil",
-      "link": "https://s.shopee.com.br/5LCQHDKwW3",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259i-mrsufgfqobuuce_tn",
-      "preco": 30.99,
-      "precoDe": 64.56,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T19:02:22.033Z"
-    },
-    {
-      "id": "26008",
-      "loja": "Mercado Livre",
-      "titulo": "Coqueteleira Shake Academia C/ Compartimentos P/ Suplementos",
-      "link": "https://meli.la/16q5YPY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894373-MLB116400520302_092026-O.webp",
-      "preco": 20.869999999999997,
-      "precoDe": 41.99,
-      "desconto": 29,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-04T18:58:57.073Z"
-    },
-    {
-      "id": "26002",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto com 10 peças de roupinhas para bebê menino, com estampas super alegres, ideal para 3 a 6 meses.",
-      "link": "https://meli.la/2zQhXm1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775419-MLB113475852256_072026-O.webp",
-      "preco": 73.89,
-      "precoDe": 105.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T18:55:27.371Z"
-    },
-    {
-      "id": "26000",
-      "loja": "Mercado Livre",
-      "titulo": "Boti Baby Colônia Do Sol 100ml O Boticário",
-      "link": "https://meli.la/19tbXjb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775260-MLA99899357125_112025-F.jpg",
-      "preco": 79.77,
-      "precoDe": 97,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T18:52:16.917Z"
-    },
-    {
-      "id": "25997",
-      "loja": "Shopee",
-      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
-      "link": "https://s.shopee.com.br/7faL2aHUDP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75_tn",
-      "preco": 26.98,
-      "precoDe": 37.47,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T18:49:02.277Z"
-    },
-    {
-      "id": "25996",
-      "loja": "Shopee",
-      "titulo": "Bicicleta de Equilíbrio 4 Rodas Sem Pedal, Andador Infantil Resistente para Bebês e Crianças – Estável e segura！",
-      "link": "https://s.shopee.com.br/9AP8p83l90",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp31e3udw7pifc_tn",
-      "preco": 89.9,
-      "precoDe": 272.42,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T18:45:43.440Z"
     }
   ]
 }
