@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T16:59:27.034Z",
+  "atualizadoEm": "2026-10-05T17:59:27.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -807,6 +807,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BRINQUEDOS15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados (lista disponível no link)",
+      "validadeAte": "2026-10-06T17:31:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ESPECIALML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1045,18 +1057,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "DESCONTOOFICIAL50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-05T17:47:33.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "TEMTUDO50",
