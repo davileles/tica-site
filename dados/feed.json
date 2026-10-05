@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-05T21:29:24.560Z",
+  "atualizadoEm": "2026-10-05T21:54:00.068Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26567",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Reserva R-broox Masculino Casual Couro Do 38 Ao 43",
+      "link": "https://meli.la/1Dj7CcB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849066-MLB118179188181_092026-O.webp",
+      "preco": 237.90999999999997,
+      "precoDe": 571.15,
+      "desconto": 51,
+      "cupom": "PROMO15",
+      "enviadoEm": "2026-10-05T21:44:00.066Z"
+    },
+    {
+      "id": "26566",
+      "loja": "Amazon",
+      "titulo": "Balde de Gelo Inox Isolado 3L com Tampa, Colher, Pinça e Coador",
+      "link": "https://www.amazon.com.br/dp/B0DC6HF3RV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41YOx56-b7L._SL400_.jpg",
+      "preco": 162.43,
+      "precoDe": 199.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:40:13.066Z"
+    },
+    {
+      "id": "26565",
+      "loja": "Shopee",
+      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
+      "link": "https://s.shopee.com.br/1VzjToHOa9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
+      "preco": 10,
+      "precoDe": 43.48,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:39:03.872Z"
+    },
+    {
+      "id": "26564",
+      "loja": "Amazon",
+      "titulo": "Whisky Singleton Of Dufftown 12 Anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07WSHYVQ8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41alfakNAlL._SL400_.jpg",
+      "preco": 159,
+      "precoDe": 267.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T21:35:14.319Z"
+    },
     {
       "id": "26561",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-05T15:12:19.178Z"
-    },
-    {
-      "id": "26312",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Conjunto Fitness Top Nadador + Legging + Short",
-      "link": "https://meli.la/2xumSHG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_793483-MLB116906044368_092026-O.webp",
-      "preco": 78.9,
-      "precoDe": 144.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:08:54.932Z"
-    },
-    {
-      "id": "26311",
-      "loja": "Amazon",
-      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 134.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:05:52.491Z"
-    },
-    {
-      "id": "26309",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qtE7HMkaL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 27.49,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T15:01:11.342Z"
-    },
-    {
-      "id": "26308",
-      "loja": "Amazon",
-      "titulo": "Buba Copo 360º Com Alça Verde Buba Verde Tamanho Único",
-      "link": "https://www.amazon.com.br/dp/B08JGJD64R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mTQ1cDxAL._SL400_.jpg",
-      "preco": 27.66,
-      "precoDe": 47.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T14:59:56.672Z"
     }
   ]
 }
