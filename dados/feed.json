@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-05T10:36:48.436Z",
+  "atualizadoEm": "2026-10-05T11:05:48.435Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26092",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 142.9,
+      "precoDe": 189.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T11:04:45.444Z"
+    },
+    {
+      "id": "26091",
+      "loja": "Shopee",
+      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
+      "link": "https://s.shopee.com.br/4VdKLhcFgJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
+      "preco": 19.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T11:03:47.617Z"
+    },
     {
       "id": "26080",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-04T13:24:05.223Z"
-    },
-    {
-      "id": "25845",
-      "loja": "Shopee",
-      "titulo": "conjunto trico saida maternidade 3 peças, jardineira, manta e body gola cavalinho.",
-      "link": "https://s.shopee.com.br/7KxUHQgJDA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1in2y7h8qa065_tn",
-      "preco": 148.72,
-      "precoDe": 169,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:20:47.429Z"
-    },
-    {
-      "id": "25842",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Colcha Cobre Leito Infantil Solteiro Estampado 220x180cm Dupla Face 2 Peças Matelado 100% Poliéster Macio E Divertido Jardim Encantado Cozzilar",
-      "link": "https://meli.la/15MZZAi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620406-MLA107513627920_032026-F.jpg",
-      "preco": 70.8,
-      "precoDe": 109.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:17:13.872Z"
     }
   ]
 }
