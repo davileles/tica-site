@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-05T17:59:27.902Z",
+  "atualizadoEm": "2026-10-05T18:29:27.166Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -397,6 +397,18 @@
       "observacao": null,
       "validadeAte": "2026-10-05T21:38:41.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "NOTEBOOKS0510",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Segundo cupom válido para lista selecionada de notebooks",
+      "validadeAte": "2026-10-06T18:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITETODO0510",
@@ -924,6 +936,18 @@
       "limite": 40,
       "observacao": "Cupons especiais para Brinquedos & Bebês no Mercado Livre",
       "validadeAte": "2026-10-06T16:30:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS0510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Segundo cupom válido para lista selecionada de notebooks",
+      "validadeAte": "2026-10-06T18:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
