@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-05T03:27:35.879Z",
+  "atualizadoEm": "2026-10-05T03:41:35.027Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26050",
+      "loja": "Amazon",
+      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
+      "preco": 685.35,
+      "precoDe": 1364.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T03:39:17.644Z"
+    },
+    {
+      "id": "26048",
+      "loja": "Amazon",
+      "titulo": "Licor Seco de Whisky Caramelo & Baunilha Ballantine's Sweet Blend Garrafa 700ml",
+      "link": "https://www.amazon.com.br/dp/B0DZDVTJVZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yeX2k3zzL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 84.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T03:35:53.946Z"
+    },
+    {
+      "id": "26047",
+      "loja": "Amazon",
+      "titulo": "VINHO FRISANTE MOSCATEL ALMADEN BLANC SUAVE 750ML",
+      "link": "https://www.amazon.com.br/dp/B08NF9CLVW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31odT3Q34dL._SL400_.jpg",
+      "preco": 14.13,
+      "precoDe": 37.22,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-05T03:29:02.143Z"
+    },
     {
       "id": "26044",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-04T13:13:45.385Z"
-    },
-    {
-      "id": "25840",
-      "loja": "Shopee",
-      "titulo": "Banco De Cintura Para Canguru Bebe Passeio Varias Cores Mochila Infantil Hipseat CarrierPara Bebê premium novo geracao",
-      "link": "https://s.shopee.com.br/9pepF8OD99",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a3-msybojbcr1fm9d_tn",
-      "preco": 79.99,
-      "precoDe": 159.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:10:29.253Z"
-    },
-    {
-      "id": "25839",
-      "loja": "Shopee",
-      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
-      "link": "https://s.shopee.com.br/2gBehxcIID",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
-      "preco": 34.99,
-      "precoDe": 60.33,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:07:24.289Z"
-    },
-    {
-      "id": "25838",
-      "loja": "Mercado Livre",
-      "titulo": "Pack com 4 Brinquedos Flexíveis Pop It, que acendem luzes LED e se colam Por ventosa, na cor azul.",
-      "link": "https://meli.la/13VaZRs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695897-MLB117650352421_092026-O.webp",
-      "preco": 24.99,
-      "precoDe": 69.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-04T13:04:18.927Z"
     }
   ]
 }
