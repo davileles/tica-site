@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-06T22:15:06.574Z",
+  "atualizadoEm": "2026-10-06T22:25:28.128Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27097",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 18 anos Escocês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B001P4WGGQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416P1+BDuvL._SL400_.jpg",
+      "preco": 332.4,
+      "precoDe": 388.87,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T22:15:28.127Z"
+    },
     {
       "id": "27096",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-06T15:14:04.904Z"
-    },
-    {
-      "id": "26825",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/6VOQaVp0OF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 29.99,
-      "precoDe": 46.14,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T15:03:51.371Z"
     }
   ]
 }
