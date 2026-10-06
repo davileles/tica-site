@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-06T15:26:50.137Z",
+  "atualizadoEm": "2026-10-06T15:46:34.016Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26835",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
+      "link": "https://s.shopee.com.br/3LROrFcZHW",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
+      "preco": 10.5,
+      "precoDe": 14.79,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:36:34.011Z"
+    },
+    {
+      "id": "26833",
+      "loja": "Amazon",
+      "titulo": "Vonder, Caixa Metálica Sanfonada Para Ferramentas, Com 3 Gavetas, 40 Cm X 19 Cm X 16 Cm.",
+      "link": "https://www.amazon.com.br/dp/B0779KQW9S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i-mvDFhNL._SL400_.jpg",
+      "preco": 75.9,
+      "precoDe": 118.83,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:28:24.132Z"
+    },
+    {
+      "id": "26832",
+      "loja": "Amazon",
+      "titulo": "Conjunto 6 Copos de Vidro para Whisky 300ml – Design Lapidado, Fundo Espesso e Brilho Cristalino | Ideal para Drinks, Bourbon, Água e Coquetéis",
+      "link": "https://www.amazon.com.br/dp/B0FKF6GWS2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41agNVpQS5L._SL400_.jpg",
+      "preco": 42.64,
+      "precoDe": 49.89,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:27:34.811Z"
+    },
     {
       "id": "26831",
       "loja": "Shopee",
@@ -735,18 +771,6 @@
       "enviadoEm": "2026-10-06T12:12:23.292Z"
     },
     {
-      "id": "26679",
-      "loja": "Amazon",
-      "titulo": "Conjunto 6 Copos de Vidro para Whisky 300ml – Design Lapidado, Fundo Espesso e Brilho Cristalino | Ideal para Drinks, Bourbon, Água e Coquetéis",
-      "link": "https://www.amazon.com.br/dp/B0FKF6GWS2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41agNVpQS5L._SL400_.jpg",
-      "preco": 42.64,
-      "precoDe": 49.89,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T12:04:58.934Z"
-    },
-    {
       "id": "26673",
       "loja": "Amazon",
       "titulo": "Simple Joys by Carter's Pacote com 3 leggings para meninas, Floral cinza/bolinhas marinhas/rosa infantil, 12 Meses",
@@ -1417,30 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-05T20:26:54.349Z"
-    },
-    {
-      "id": "26537",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray Sevilla 700ml",
-      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
-      "preco": 75.04,
-      "precoDe": 124.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T20:16:46.202Z"
-    },
-    {
-      "id": "26536",
-      "loja": "Amazon",
-      "titulo": "Oster Cafeteira Oster Inox Compacta 0,75L, OCAF300, 220V",
-      "link": "https://www.amazon.com.br/dp/B093HGNHR2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rhTdkBR0L._SL400_.jpg",
-      "preco": 90.15,
-      "precoDe": 105.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T20:15:28.515Z"
     }
   ]
 }
