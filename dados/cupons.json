@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T12:29:26.977Z",
+  "atualizadoEm": "2026-10-06T12:59:27.654Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -937,18 +937,6 @@
       "observacao": "Válido apenas em produtos selecionados",
       "validadeAte": "2026-10-06T18:30:56.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
-    },
-    {
-      "codigo": "DATADUPLA",
-      "loja": "Outro: Riachuelo",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-06T12:39:52.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
