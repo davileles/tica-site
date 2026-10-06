@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T20:16:10.616Z",
+  "atualizadoEm": "2026-10-06T21:15:09.245Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,18 +459,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TOMA15",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": "Válido no APP Magalu",
-      "validadeAte": "2026-10-06T21:11:55.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "SITETODO0610",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -900,6 +888,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIGARNIER",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79.9,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-07T21:08:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIELSEVE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 69.9,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-07T21:08:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
