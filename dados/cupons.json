@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T21:15:09.245Z",
+  "atualizadoEm": "2026-10-06T21:22:47.312Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -903,18 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIELSEVE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 69.9,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-07T21:08:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PEGAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1147,7 +1135,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 79,
+      "minimo": 199,
       "maximo": null,
       "limite": 100,
       "observacao": null,
@@ -1211,7 +1199,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-10-06T22:00:30.607Z",
+      "validadeAte": "2026-10-06T22:00:31.548Z",
       "url": "https://meli.la/2xystLt"
     },
     {
