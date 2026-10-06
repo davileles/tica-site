@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T15:46:37.117Z",
+  "atualizadoEm": "2026-10-06T16:26:52.887Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -780,6 +780,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-07T15:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-07T16:23:02.467Z",
       "url": "https://meli.la/2xystLt"
     },
     {
