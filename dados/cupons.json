@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T15:13:54.052Z",
+  "atualizadoEm": "2026-10-06T15:46:37.117Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,6 +231,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CADEIRA20",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-14T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "SACY15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -252,6 +264,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-09T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DRAMOFF15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-07T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -291,6 +315,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "HUSKYZADA10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-07T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "SSDHUSKYPROMO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-07T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -325,6 +373,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMBIKE50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto aplicável em bicicletas",
+      "validadeAte": "2026-10-07T15:37:49.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "INFLU15",
