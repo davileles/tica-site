@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T12:59:27.654Z",
+  "atualizadoEm": "2026-10-06T13:29:27.550Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -663,30 +663,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VALEMAISAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-06T13:08:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMO15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-06T13:08:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "RIDE15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -720,18 +696,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-06T17:31:09.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AGORAOUNUNCA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-06T13:08:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
