@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-06T13:29:24.590Z",
+  "atualizadoEm": "2026-10-06T13:57:50.135Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26786",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
+      "preco": 98.9,
+      "precoDe": 109.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:51:54.727Z"
+    },
+    {
+      "id": "26783",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/6L50JMeyEq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 94.9,
+      "precoDe": 120.13,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:48:43.847Z"
+    },
+    {
+      "id": "26780",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/7faNtIdss1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
+      "preco": 79.89,
+      "precoDe": 181.57,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:41:22.348Z"
+    },
+    {
+      "id": "26779",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Lager, Sem Alcool Lata 269ml, Pack 8 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXYD9JQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ghuy+TbKL._SL400_.jpg",
+      "preco": 30.32,
+      "precoDe": 33.52,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:36:37.566Z"
+    },
+    {
+      "id": "26775",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares Meias Wilson Cano Médio Masculino Adulto 38-43",
+      "link": "https://meli.la/25m9vUV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846695-MLB83338551319_032025-O.webp",
+      "preco": 30.5,
+      "precoDe": 60.18,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:35:50.008Z"
+    },
+    {
+      "id": "26774",
+      "loja": "Amazon",
+      "titulo": "Vonder, Óculos De Segurança Boxer Verde.",
+      "link": "https://www.amazon.com.br/dp/B08K9BMLWB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQMe+HuSL._SL400_.jpg",
+      "preco": 9.4,
+      "precoDe": 13.15,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:32:28.708Z"
+    },
+    {
+      "id": "26772",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Raspberri - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
+      "preco": 69.52,
+      "precoDe": 117.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:31:17.059Z"
+    },
+    {
+      "id": "26771",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
+      "preco": 161.4,
+      "precoDe": 182.48,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T13:30:10.759Z"
+    },
     {
       "id": "26770",
       "loja": "Amazon",
@@ -457,18 +553,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-06T11:38:33.802Z"
-    },
-    {
-      "id": "26646",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Raspberri - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B09W65NNN6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41t02LbtrcL._SL400_.jpg",
-      "preco": 69.52,
-      "precoDe": 117.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T11:32:09.897Z"
     },
     {
       "id": "26644",
@@ -1357,90 +1441,6 @@
       "desconto": 39,
       "cupom": "PROMO15",
       "enviadoEm": "2026-10-05T18:54:50.690Z"
-    },
-    {
-      "id": "26476",
-      "loja": "Amazon",
-      "titulo": "Buba, Esterilizador De Mamadeiras",
-      "link": "https://www.amazon.com.br/dp/B0CGSTKQN9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319czCN-RzL._SL400_.jpg",
-      "preco": 60.31,
-      "precoDe": 97.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:51:39.758Z"
-    },
-    {
-      "id": "26473",
-      "loja": "Amazon",
-      "titulo": "Electrolux Ar-condicionado Electrolux MaxComfort Full Inverter Frio 18.000 BTUs (NI18F/NE18F) 220V",
-      "link": "https://www.amazon.com.br/dp/B0H5CV388H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21Q+rdYXj7L._SL400_.jpg",
-      "preco": 2413.95,
-      "precoDe": 3129,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:50:47.335Z"
-    },
-    {
-      "id": "26472",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 59.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:46:49.264Z"
-    },
-    {
-      "id": "26471",
-      "loja": "Amazon",
-      "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
-      "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412-h5gqGmL._SL400_.jpg",
-      "preco": 33.5,
-      "precoDe": 59.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:45:36.999Z"
-    },
-    {
-      "id": "26468",
-      "loja": "Amazon",
-      "titulo": "WAP Climatizador de Ar AIR FRESH 4 em 1, com Reservatório para Essência e 3 Níveis de Velocidades, Baixo Ruído, 90W 220V",
-      "link": "https://www.amazon.com.br/dp/B0DCK64CRH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21UDXEEL1dL._SL400_.jpg",
-      "preco": 359,
-      "precoDe": 559.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:44:23.105Z"
-    },
-    {
-      "id": "26467",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Cadeirinha Evolutty 360 X, 0 a 36kg, com Giro 360º e Isofix, Preto",
-      "link": "https://www.amazon.com.br/dp/B0B9CLH2W2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31s-y3hNcgL._SL400_.jpg",
-      "preco": 750,
-      "precoDe": 999,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:40:50.270Z"
-    },
-    {
-      "id": "26464",
-      "loja": "Mercado Livre",
-      "titulo": "Havaianas Brasil - Original - Mod  Light - Varias Cores.",
-      "link": "https://meli.la/2n3SX7C",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_697516-MLB80630950581_112024-O.webp",
-      "preco": 46.5,
-      "precoDe": 78.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T18:39:41.786Z"
     }
   ]
 }
