@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-06T20:45:06.223Z",
+  "atualizadoEm": "2026-10-06T21:15:06.570Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27071",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/7KxXLSzEL3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:12:46.805Z"
+    },
+    {
+      "id": "27064",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto De Panelas Caçarolas 5 Peças Antiaderente Com 3 Utensilios E Tampa De Vidro Preto",
+      "link": "https://meli.la/1thTfRi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937372-MLA118383619877_092026-F.jpg",
+      "preco": 139.93,
+      "precoDe": 268.05,
+      "desconto": 25,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-06T21:07:54.589Z"
+    },
+    {
+      "id": "27062",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/3g4FcFi7Eh",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
+      "preco": 22.88,
+      "precoDe": 30.11,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:04:39.807Z"
+    },
+    {
+      "id": "27061",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Astronauta Projetor Estrelas Galáxia Luminária Noturna Branco Preto 127/220v",
+      "link": "https://meli.la/17u4RNw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914507-MLB116169457400_092026-O.webp",
+      "preco": 38.4,
+      "precoDe": 60,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:01:22.637Z"
+    },
+    {
+      "id": "27060",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
+      "link": "https://meli.la/2Y8opFY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639948-MLA99361044476_112025-F.jpg",
+      "preco": 69.9,
+      "precoDe": 127.09,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:58:18.160Z"
+    },
+    {
+      "id": "27056",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/20w1cLaGdp",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 279.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:50:16.897Z"
+    },
     {
       "id": "27054",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-10-06T14:24:04.557Z"
-    },
-    {
-      "id": "26802",
-      "loja": "Amazon",
-      "titulo": "Buba Toys Bicicleta de Equilibrio - 4 Rodas, Azul, Pequeno, 13516",
-      "link": "https://www.amazon.com.br/dp/B08YP163DD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41k7zuo4OCL._SL400_.jpg",
-      "preco": 142.18,
-      "precoDe": 160,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:21:47.947Z"
-    },
-    {
-      "id": "26801",
-      "loja": "Amazon",
-      "titulo": "Fortini Plus Sem Sabor 400G",
-      "link": "https://www.amazon.com.br/dp/B07MLKYJKM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41jPuvaSMIL._SL400_.jpg",
-      "preco": 66.82,
-      "precoDe": 85.99,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:20:56.697Z"
-    },
-    {
-      "id": "26800",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Desafio Desenrolar Cordas Anti Estresse Raciocínio Quebra Cabeça Babuu Brinquedos Educativos",
-      "link": "https://meli.la/2Fkjkrr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808125-MLA115097192577_072026-F.jpg",
-      "preco": 24.32,
-      "precoDe": 59.9,
-      "desconto": 42,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-06T14:19:55.250Z"
-    },
-    {
-      "id": "26799",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 136.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:17:12.008Z"
-    },
-    {
-      "id": "26798",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/5fpJXgQafz",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:11:47.876Z"
-    },
-    {
-      "id": "26797",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Body unissex para bebês com 8 unidades de manga curta, Azul-marinho/branco/aveia, 3-6 Meses",
-      "link": "https://www.amazon.com.br/dp/B08G8TFQHM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gyZFcVjmL._SL400_.jpg",
-      "preco": 116.97,
-      "precoDe": 178.62,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:08:24.853Z"
     }
   ]
 }
