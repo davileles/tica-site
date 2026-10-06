@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T13:57:52.886Z",
+  "atualizadoEm": "2026-10-06T14:56:54.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -660,6 +660,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-10-07T14:49:28.387Z",
       "url": "https://meli.la/2xystLt"
     },
     {
