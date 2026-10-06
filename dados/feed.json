@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-06T15:13:51.372Z",
+  "atualizadoEm": "2026-10-06T15:24:04.967Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26829",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
+      "link": "https://s.shopee.com.br/905la6PJOP",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mfuzvads9e6l43_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:14:04.904Z"
+    },
     {
       "id": "26825",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-10-05T20:12:18.854Z"
-    },
-    {
-      "id": "26533",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Break Start Adidas",
-      "link": "https://meli.la/2ymj9X7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631450-MLA99819674953_112025-O.webp",
-      "preco": 192.94,
-      "precoDe": 399.99,
-      "desconto": 43,
-      "cupom": "PROMO15",
-      "enviadoEm": "2026-10-05T20:09:12.339Z"
     }
   ]
 }
