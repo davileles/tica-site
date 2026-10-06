@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-06T15:24:04.967Z",
+  "atualizadoEm": "2026-10-06T15:26:50.137Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26831",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/9pesaVdvJO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 48.14,
+      "precoDe": 65.95,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:26:33.939Z"
+    },
     {
       "id": "26829",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-05T20:15:28.515Z"
-    },
-    {
-      "id": "26534",
-      "loja": "Amazon",
-      "titulo": "Filtro de Linha 4 Tomadas Elgin 2P+T 10A Preto Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0755K43WL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31c6rh4Gw0L._SL400_.jpg",
-      "preco": 19.98,
-      "precoDe": 68.22,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T20:12:18.854Z"
     }
   ]
 }
