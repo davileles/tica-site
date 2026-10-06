@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-06T14:56:50.136Z",
+  "atualizadoEm": "2026-10-06T15:13:51.372Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "26825",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/6VOQaVp0OF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 29.99,
+      "precoDe": 46.14,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:03:51.371Z"
+    },
+    {
+      "id": "26824",
+      "loja": "Amazon",
+      "titulo": "Brilhante Limpeza Total - Sabão Em Pó 2 2Kg",
+      "link": "https://www.amazon.com.br/dp/B0B94SLNXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cgFYSi6TL._SL400_.jpg",
+      "preco": 18.99,
+      "precoDe": 25.49,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T15:00:27.985Z"
+    },
+    {
+      "id": "26821",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Electrolux Split 9000 Btu Inverter Frio 220v",
+      "link": "https://meli.la/22i1zK2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776468-MLB115732954233_082026-O.webp",
+      "preco": 1589,
+      "precoDe": 2079,
+      "desconto": 14,
+      "cupom": "OFERTASJA",
+      "enviadoEm": "2026-10-06T14:57:31.530Z"
+    },
     {
       "id": "26820",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 43,
       "cupom": "PROMO15",
       "enviadoEm": "2026-10-05T20:09:12.339Z"
-    },
-    {
-      "id": "26529",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Vanilia - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 117.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T20:02:36.041Z"
-    },
-    {
-      "id": "26528",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Bermuda Ciclista Infantil Menina Básica Cotton Malwee",
-      "link": "https://meli.la/2ridzj5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645456-MLB111248093584_052026-O.webp",
-      "preco": 64.99,
-      "precoDe": 78.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T20:01:42.965Z"
-    },
-    {
-      "id": "26527",
-      "loja": "Amazon",
-      "titulo": "OAZ Gel Pós-Sol Infantil Bob Esponja 120ml",
-      "link": "https://www.amazon.com.br/dp/B0BXV3STFF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N2eXFMopL._SL400_.jpg",
-      "preco": 14.23,
-      "precoDe": 23.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-05T19:58:27.169Z"
     }
   ]
 }
