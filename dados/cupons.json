@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-06T02:59:25.021Z",
+  "atualizadoEm": "2026-10-06T03:29:24.976Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -111,18 +111,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "FONE50OFF",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-06T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
       "codigo": "ASPIRADOR20",
       "loja": "Fastshop",
       "tipo": "pct",
@@ -145,18 +133,6 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "LAB300OFF",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-06T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "ASROCK100",
@@ -312,30 +288,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "INTELGAMERDAYS",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-06T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "STREAMER10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-06T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -591,18 +543,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAISRESGATE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-06T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUACHADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -624,6 +564,18 @@
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-10-06T12:23:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEFULL0610",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido apenas em produtos selecionados conforme lista",
+      "validadeAte": "2026-10-07T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -985,6 +937,30 @@
       "observacao": null,
       "validadeAte": "2026-10-13T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "BRCD10",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 550,
+      "minimo": 4300,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para AliExpress válidos no evento Dia das Crianças",
+      "validadeAte": "2026-10-07T03:25:46.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BRCD9",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 420,
+      "minimo": 3300,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para AliExpress válidos no evento Dia das Crianças",
+      "validadeAte": "2026-10-07T03:25:46.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "10DO10",
