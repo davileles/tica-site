@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-06T19:50:18.955Z",
+  "atualizadoEm": "2026-10-06T20:16:05.968Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27036",
+      "loja": "Shopee",
+      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
+      "link": "https://s.shopee.com.br/5q8k8x3PHJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
+      "preco": 24.99,
+      "precoDe": 32.04,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:14:50.005Z"
+    },
+    {
+      "id": "27023",
+      "loja": "Amazon",
+      "titulo": "Kit de Facas Slicing 4 Peças Ice Force: - Feita de Aço Inox Alemão, Cabo Ergonômico e Perfeita para todos os usos na cozinha",
+      "link": "https://www.amazon.com.br/dp/B07BCP6F1L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FRzDmmwDL._SL400_.jpg",
+      "preco": 43.56,
+      "precoDe": 87.15,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:10:36.097Z"
+    },
+    {
+      "id": "27022",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Compras Minnie Multikids - BR2191",
+      "link": "https://www.amazon.com.br/dp/B0D2LSTHFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41lJsNK+KBL._SL400_.jpg",
+      "preco": 25.04,
+      "precoDe": 89.9,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:07:20.488Z"
+    },
+    {
+      "id": "27019",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/9APC62z2TH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T20:02:55.290Z"
+    },
+    {
+      "id": "27009",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Descanso Musical Funtime, Maxi Baby",
+      "link": "https://meli.la/2Kpus7z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_708231-MLB54978246280_042023-O.webp",
+      "preco": 128.55,
+      "precoDe": 359,
+      "desconto": 55,
+      "cupom": "BRINCADEIRAS",
+      "enviadoEm": "2026-10-06T19:59:54.201Z"
+    },
+    {
+      "id": "27008",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+      "link": "https://meli.la/1s38QLi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896126-MLA115949165434_092026-F.jpg",
+      "preco": 19.87,
+      "precoDe": 49.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T19:58:57.157Z"
+    },
+    {
+      "id": "27007",
+      "loja": "Mercado Livre",
+      "titulo": "Cabo Usb-c Tipo C Turbo Nylon 2m 60w Compatível Com Iphone",
+      "link": "https://meli.la/2Vs632z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927752-MLB100663045254_122025-O.webp",
+      "preco": 16.79,
+      "precoDe": 41.99,
+      "desconto": 43,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-06T19:55:22.317Z"
+    },
+    {
+      "id": "27006",
+      "loja": "Shopee",
+      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga À Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
+      "link": "https://s.shopee.com.br/1LgKkNylvZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
+      "preco": 29.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T19:52:13.920Z"
+    },
     {
       "id": "27005",
       "loja": "Mercado Livre",
@@ -25,18 +121,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-06T19:46:54.279Z"
-    },
-    {
-      "id": "26997",
-      "loja": "Shopee",
-      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga À Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
-      "link": "https://s.shopee.com.br/1LgKkNylvZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
-      "preco": 29.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T19:45:02.319Z"
     },
     {
       "id": "26996",
@@ -1357,90 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-06T13:29:20.291Z"
-    },
-    {
-      "id": "26766",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/8Kq4fUjo33",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:26:15.855Z"
-    },
-    {
-      "id": "26765",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/3g4F6Jla9k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.99,
-      "precoDe": 67.96,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:18:49.934Z"
-    },
-    {
-      "id": "26764",
-      "loja": "Amazon",
-      "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
-      "link": "https://www.amazon.com.br/dp/B0BXMCSK8J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aBzLPK7AL._SL400_.jpg",
-      "preco": 698,
-      "precoDe": 828.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:15:08.186Z"
-    },
-    {
-      "id": "26763",
-      "loja": "Amazon",
-      "titulo": "Salon Line, Creme Multifuncional 3 em 1, Hidra Cachinho Kids, Vegano - Para Cabelos Cacheados e Crespos, 1Kg",
-      "link": "https://www.amazon.com.br/dp/B0DGWF8T72?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VIrRTHrwL._SL400_.jpg",
-      "preco": 24.99,
-      "precoDe": 32.3,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:14:00.206Z"
-    },
-    {
-      "id": "26759",
-      "loja": "Amazon",
-      "titulo": "Pomada de Lanolina para Hidratação dos Mamilos Medela Purelan 2.0 - 37g, Medela, Incolor, 37G",
-      "link": "https://www.amazon.com.br/dp/B08HDGKR5B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Y+GBkC43L._SL400_.jpg",
-      "preco": 47.59,
-      "precoDe": 62.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:12:55.565Z"
-    },
-    {
-      "id": "26757",
-      "loja": "Amazon",
-      "titulo": "Mustela Bálsamo Multifuncional 75ml - Hidratante para áreas ressecadas do corpo com 3 extratos de Abacate, com 99,7% de ingredientes de origem natural - Para Bebês, Crianças e toda",
-      "link": "https://www.amazon.com.br/dp/B09V28GZC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sSSDmpf1L._SL400_.jpg",
-      "preco": 63.9,
-      "precoDe": 90.18,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:11:40.867Z"
-    },
-    {
-      "id": "26756",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
-      "preco": 199.99,
-      "precoDe": 349.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T13:10:41.930Z"
     }
   ]
 }
