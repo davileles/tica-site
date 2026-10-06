@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-06T21:15:06.570Z",
+  "atualizadoEm": "2026-10-06T21:45:06.572Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27082",
+      "loja": "Shopee",
+      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
+      "link": "https://s.shopee.com.br/50ZdEx4U85",
+      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
+      "preco": 267.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:42:21.817Z"
+    },
+    {
+      "id": "27080",
+      "loja": "Amazon",
+      "titulo": "Jogo de Assadeiras Tramontina Brasil em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 02 Peças",
+      "link": "https://www.amazon.com.br/dp/B0CDVV676G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31A9yD7dKvL._SL400_.jpg",
+      "preco": 69.88,
+      "precoDe": 127.26,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:39:15.723Z"
+    },
+    {
+      "id": "27077",
+      "loja": "Amazon",
+      "titulo": "Bosch Trena Laser GLM 40 alcance 40m com Bolsa protetora",
+      "link": "https://www.amazon.com.br/dp/B00R0Z7TFM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51rWdv+uq+L._SL400_.jpg",
+      "preco": 506.87,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:35:56.119Z"
+    },
+    {
+      "id": "27076",
+      "loja": "Mercado Livre",
+      "titulo": "Magnésio E Inositol Taurina Melatonina 300g Dark Lab Maracujá - 50 Doses",
+      "link": "https://meli.la/2rJqMZ7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794857-MLA99485327458_112025-F.jpg",
+      "preco": 48.93000000000001,
+      "precoDe": 78.89,
+      "desconto": 11,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-06T21:35:08.834Z"
+    },
+    {
+      "id": "27075",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Copos Oca Nadir 300ml Vidro para Água e Suco",
+      "link": "https://meli.la/2HgJJbq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_976859-MLA100083781775_122025-F.jpg",
+      "preco": 19.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:31:49.980Z"
+    },
+    {
+      "id": "27074",
+      "loja": "Amazon",
+      "titulo": "Celular Samsung Galaxy S26+ 5G, 512GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\" - Preto",
+      "link": "https://www.amazon.com.br/dp/B0GKR1T5Q1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313WGruCKjL._SL400_.jpg",
+      "preco": 5683.16,
+      "precoDe": 10799,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:30:39.364Z"
+    },
+    {
+      "id": "27072",
+      "loja": "Shopee",
+      "titulo": "Protetor De Porta Aluminio Vedação Anti-Inchaço Veda Porta Salva Porta",
+      "link": "https://s.shopee.com.br/7KxY0grfVA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5xvdicw783e_tn",
+      "preco": 25.42,
+      "precoDe": 29.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-06T21:27:21.738Z"
+    },
     {
       "id": "27071",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-10-06T14:36:42.307Z"
-    },
-    {
-      "id": "26812",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
-      "preco": 77.51,
-      "precoDe": 105.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:32:52.536Z"
-    },
-    {
-      "id": "26811",
-      "loja": "Amazon",
-      "titulo": "Tramontina Escada de Alumínio 5 degraus",
-      "link": "https://www.amazon.com.br/dp/B0GT6GL8J6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31c6AgCy-yL._SL400_.jpg",
-      "preco": 169.9,
-      "precoDe": 279,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:31:43.667Z"
-    },
-    {
-      "id": "26809",
-      "loja": "Amazon",
-      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
-      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
-      "preco": 34.14,
-      "precoDe": 35.94,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:30:48.011Z"
-    },
-    {
-      "id": "26808",
-      "loja": "Amazon",
-      "titulo": "Whisky Jack Daniel's Apple Tennessee Whiskey 700ml",
-      "link": "https://www.amazon.com.br/dp/B07T9LP2C3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DL5U0pBXL._SL400_.jpg",
-      "preco": 88.87,
-      "precoDe": 144.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:29:54.829Z"
-    },
-    {
-      "id": "26807",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "link": "https://s.shopee.com.br/2BFROJdeUy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539_tn",
-      "preco": 70.99,
-      "precoDe": 262.93,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:28:41.547Z"
-    },
-    {
-      "id": "26806",
-      "loja": "Amazon",
-      "titulo": "Simple Joys by Carter's Pacote com 4 calças neutras unissex para bebês, Bananas pretas/cinza/branco, 3-6 Meses",
-      "link": "https://www.amazon.com.br/dp/B0744PMZVG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WA6S80viL._SL400_.jpg",
-      "preco": 103.62,
-      "precoDe": 132.03,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:24:53.188Z"
-    },
-    {
-      "id": "26805",
-      "loja": "Amazon",
-      "titulo": "Bicicleta Infantil Caloi Ceci Aro 16, com Rodinhas, Cestinha, Cobre-Corrente e Ajuste Rápido do Banco",
-      "link": "https://www.amazon.com.br/dp/B0DQQSTSD9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Bre8OmlOL._SL400_.jpg",
-      "preco": 479.99,
-      "precoDe": 579.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T14:24:04.557Z"
     }
   ]
 }
