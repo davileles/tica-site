@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-07T18:59:26.644Z",
+  "atualizadoEm": "2026-10-07T19:28:26.643Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27544",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/3qNhIsasID",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:26:53.250Z"
+    },
+    {
+      "id": "27542",
+      "loja": "Amazon",
+      "titulo": "Vinho Fino Branco Português Intimista Alentejo 750ml",
+      "link": "https://www.amazon.com.br/dp/B0D4NS4VP6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vdhuRlgGL._SL400_.jpg",
+      "preco": 33.81,
+      "precoDe": 39.72,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:21:36.912Z"
+    },
+    {
+      "id": "27541",
+      "loja": "Amazon",
+      "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
+      "link": "https://www.amazon.com.br/dp/B0BXMCSK8J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aBzLPK7AL._SL400_.jpg",
+      "preco": 698,
+      "precoDe": 828.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:20:28.876Z"
+    },
+    {
+      "id": "27539",
+      "loja": "Amazon",
+      "titulo": "Aquecedor de Mamadeiras Philips Avent 220V | Aquece em 3 Minutos",
+      "link": "https://www.amazon.com.br/dp/B09Q2PV1L1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/1167Nvh5tkL._SL400_.jpg",
+      "preco": 345.7,
+      "precoDe": 479.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:19:36.121Z"
+    },
+    {
+      "id": "27537",
+      "loja": "Amazon",
+      "titulo": "Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
+      "link": "https://www.amazon.com.br/dp/B00WJNJ4EO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QO4KeHHyL._SL400_.jpg",
+      "preco": 32.28,
+      "precoDe": 64.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:14:30.128Z"
+    },
+    {
+      "id": "27536",
+      "loja": "Amazon",
+      "titulo": "WAP Vaporizador de Roupas e Tecidos WAPORE FAST 1250 com Escova, Capacidade de 200ml, Vapor Quente 160°C, 1250W, 127V",
+      "link": "https://www.amazon.com.br/dp/B0BJL39X4P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31G0h9N9LaL._SL400_.jpg",
+      "preco": 114.9,
+      "precoDe": 129.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:13:28.796Z"
+    },
+    {
+      "id": "27529",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/8Kq6dbW3Uk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.99,
+      "precoDe": 65.92,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:04:26.272Z"
+    },
+    {
+      "id": "27528",
+      "loja": "Amazon",
+      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder",
+      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
+      "preco": 273.97,
+      "precoDe": 617.38,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:00:33.916Z"
+    },
     {
       "id": "27527",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 26,
       "cupom": "PEGAESSAPROMO",
       "enviadoEm": "2026-10-07T12:25:33.986Z"
-    },
-    {
-      "id": "27227",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de balanço para bebê Mastela Premium elétrica 8106 rosa",
-      "link": "https://meli.la/1Jhtamw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934114-MLA99956089133_112025-F.jpg",
-      "preco": 313.53,
-      "precoDe": 519.41,
-      "desconto": 14,
-      "cupom": "SEMPREMELI",
-      "enviadoEm": "2026-10-07T12:21:27.315Z"
-    },
-    {
-      "id": "27226",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Compressor Digital Portátil Cartel Barber Shop para Carro Moto e Bicicleta com Calibrador Digital Inflador Elétrico de Pneus 12V Display LCD Lanterna LED Compacto e Recarregáv",
-      "link": "https://meli.la/1Z9G1dL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653772-MLA114460808765_072026-F.jpg",
-      "preco": 48.75,
-      "precoDe": 120,
-      "desconto": 46,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-07T12:20:16.313Z"
-    },
-    {
-      "id": "27223",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/1qccRJre0h",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 32.2,
-      "precoDe": 33.89,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T12:16:08.611Z"
-    },
-    {
-      "id": "27218",
-      "loja": "Amazon",
-      "titulo": "Kit de Mamadeiras Anticólica Essence Smart Flow 150 e 270ml NUK - Rosa",
-      "link": "https://www.amazon.com.br/dp/B09JVFNSJ4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41n7ij5DuIL._SL400_.jpg",
-      "preco": 82.64,
-      "precoDe": 87,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T12:09:14.108Z"
-    },
-    {
-      "id": "27203",
-      "loja": "Shopee",
-      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
-      "link": "https://s.shopee.com.br/50ZeBajJ85",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
-      "preco": 38.99,
-      "precoDe": 114.68,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:49:13.435Z"
-    },
-    {
-      "id": "27198",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KV2733?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mkRUpyKEL._SL400_.jpg",
-      "preco": 33.92,
-      "precoDe": 50.04,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:40:05.914Z"
-    },
-    {
-      "id": "27193",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KWB62Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qbt3WOV7L._SL400_.jpg",
-      "preco": 34.89,
-      "precoDe": 50.04,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:39:14.070Z"
-    },
-    {
-      "id": "27192",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KaiafcWwL._SL400_.jpg",
-      "preco": 33.14,
-      "precoDe": 50.04,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:38:28.051Z"
     }
   ]
 }
