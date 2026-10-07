@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-07T14:34:11.525Z",
+  "atualizadoEm": "2026-10-07T14:49:43.125Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27340",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
+      "preco": 27.59,
+      "precoDe": 47.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T14:39:43.121Z"
+    },
+    {
+      "id": "27336",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Talheres Tramontina Churrasco Aço Inox Kit 12 Peças",
+      "link": "https://meli.la/1svmMXk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846289-MLB110552856833_042026-O.webp",
+      "preco": 69.78,
+      "precoDe": 141.7,
+      "desconto": 30,
+      "cupom": "OFERTASMELI",
+      "enviadoEm": "2026-10-07T14:38:56.016Z"
+    },
+    {
+      "id": "27334",
+      "loja": "Shopee",
+      "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "link": "https://s.shopee.com.br/1AyPqx3JI",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa_tn",
+      "preco": 42.89,
+      "precoDe": 194.95,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T14:36:03.212Z"
+    },
     {
       "id": "27331",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-06T19:33:30.941Z"
-    },
-    {
-      "id": "26990",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Aspirador de Pó Betahome Portátil 120W USB Soprador Sem Fio 6000Pa Compacto",
-      "link": "https://meli.la/2n9M5tB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940605-MLA97545282359_112025-F.jpg",
-      "preco": 29.39,
-      "precoDe": 61.76,
-      "desconto": 32,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-06T19:29:43.800Z"
-    },
-    {
-      "id": "26989",
-      "loja": "Amazon",
-      "titulo": "Buba Copo Dino Com Alca Azul Buba Azul Único",
-      "link": "https://www.amazon.com.br/dp/B08B4DY31H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41XJy2bGubL._SL400_.jpg",
-      "preco": 36.12,
-      "precoDe": 59.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T19:22:24.036Z"
-    },
-    {
-      "id": "26988",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Acoplado Co-Bed Connect Maxi Baby",
-      "link": "https://meli.la/2NtHw55",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744443-MLB109880881363_032026-O.webp",
-      "preco": 379.9,
-      "precoDe": 899.9,
-      "desconto": 52,
-      "cupom": "BRINCADEIRAS",
-      "enviadoEm": "2026-10-06T19:21:10.170Z"
     }
   ]
 }
