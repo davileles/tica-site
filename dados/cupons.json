@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T12:30:34.788Z",
+  "atualizadoEm": "2026-10-07T13:00:35.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -375,6 +375,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "PELANDO200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:58:47.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PAYDAY9H",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -408,6 +420,18 @@
       "limite": null,
       "observacao": "Cupom requer consulta de ID do item no link informado e ativação via WhatsApp",
       "validadeAte": "2026-10-07T19:40:18.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SAUDADE40",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para contas selecionadas",
+      "validadeAte": "2026-10-08T12:51:21.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
