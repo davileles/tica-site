@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-07T16:34:11.695Z",
+  "atualizadoEm": "2026-10-07T16:40:29.967Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27410",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Nichos Prateleira Borboleta Para Bebê Infantil Quarto e Sala",
+      "link": "https://s.shopee.com.br/2VsJWpoo3W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhh06l68d3pefb_tn",
+      "preco": 36.94,
+      "precoDe": 69.7,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T16:38:37.391Z"
+    },
+    {
+      "id": "27407",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Macacão Bebê Roupa Menino Ziper Algodão Vira Pé Inverno Enxoval Macio Inverno Verão",
+      "link": "https://s.shopee.com.br/1qccj3IgK8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-msgbx45fi39gb8_tn",
+      "preco": 79.89,
+      "precoDe": 210.24,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T16:35:35.408Z"
+    },
     {
       "id": "27404",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-06T21:04:39.807Z"
-    },
-    {
-      "id": "27061",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Astronauta Projetor Estrelas Galáxia Luminária Noturna Branco Preto 127/220v",
-      "link": "https://meli.la/17u4RNw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914507-MLB116169457400_092026-O.webp",
-      "preco": 38.4,
-      "precoDe": 60,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T21:01:22.637Z"
-    },
-    {
-      "id": "27060",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
-      "link": "https://meli.la/2Y8opFY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639948-MLA99361044476_112025-F.jpg",
-      "preco": 69.9,
-      "precoDe": 127.09,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T20:58:18.160Z"
     }
   ]
 }
