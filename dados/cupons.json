@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T12:01:32.430Z",
+  "atualizadoEm": "2026-10-07T12:30:34.788Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -375,6 +375,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "PAYDAY9H",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:01:36.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CUPOMBIKE50",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -423,15 +435,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITETODO0610",
+      "codigo": "TODOOSITEEMTODOSOSPRODUTOS",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
+      "valor": 100,
+      "minimo": 999,
       "maximo": null,
-      "limite": null,
+      "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-10-07T12:01:45.000Z",
+      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -699,6 +711,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SEMPREMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:00:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOVALE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:00:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -867,6 +903,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TUDOEMPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:00:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -903,6 +951,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GARANTAMEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-08T12:00:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAQUININHAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -924,6 +984,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T12:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1119,6 +1191,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VIPNOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOSEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1127,6 +1211,18 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-10-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PEGAESSAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
       "validadeAte": "2026-10-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
