@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-06T23:12:31.757Z",
+  "atualizadoEm": "2026-10-07T11:15:06.635Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27156",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
+      "preco": 98.9,
+      "precoDe": 109.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:12:33.421Z"
+    },
+    {
+      "id": "27153",
+      "loja": "Amazon",
+      "titulo": "Azeite Gallo Extra Virgem 500ml - Classico",
+      "link": "https://www.amazon.com.br/dp/B07MNJNXSL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31r0ulu0deL._SL400_.jpg",
+      "preco": 26.9,
+      "precoDe": 29.57,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:11:46.606Z"
+    },
+    {
+      "id": "27149",
+      "loja": "Shopee",
+      "titulo": "Termômetro De Testa Infravermelha Digital",
+      "link": "https://s.shopee.com.br/60SBKHnwcI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
+      "preco": 26.89,
+      "precoDe": 122.23,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:08:30.508Z"
+    },
+    {
+      "id": "27147",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Serra Circular de 7.1/4 Pol. (184,15mm) 5.500 RPM e 1500W 110V CS1024",
+      "link": "https://www.amazon.com.br/dp/B076B92W43?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51wJ2GvUMnL._SL400_.jpg",
+      "preco": 689,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:04:55.378Z"
+    },
+    {
+      "id": "27146",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07WTHV6Y4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MqbmFZIwL._SL400_.jpg",
+      "preco": 54.9,
+      "precoDe": 78.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:04:04.059Z"
+    },
+    {
+      "id": "27145",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/6fhs7SZLjg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 14.71,
+      "precoDe": 25.81,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:02:51.812Z"
+    },
     {
       "id": "27110",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-10-06T16:30:20.569Z"
-    },
-    {
-      "id": "26854",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/9pesdbJYxC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 413.09,
-      "precoDe": 598.68,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:24:15.131Z"
-    },
-    {
-      "id": "26852",
-      "loja": "Amazon",
-      "titulo": "Creatine Turbo BlackSkull - Creatina Monohidratada em pó, com carboidrato para melhor absorção e performance (300g Refil, Sem sabor)",
-      "link": "https://www.amazon.com.br/dp/B0CLDYGVZR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DY3NoHkWL._SL400_.jpg",
-      "preco": 16.88,
-      "precoDe": 59.9,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:20:59.256Z"
-    },
-    {
-      "id": "26851",
-      "loja": "Amazon",
-      "titulo": "N.O Xplosion Frutas Vermelhas 240g - ADAPTOGEN SCIENCE",
-      "link": "https://www.amazon.com.br/dp/B0DM3M56MG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qovqp+3JL._SL400_.jpg",
-      "preco": 23.54,
-      "precoDe": 138.26,
-      "desconto": 83,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:17:19.762Z"
-    },
-    {
-      "id": "26850",
-      "loja": "Amazon",
-      "titulo": "Cotoveleira Premium Speedo UNISSEX M Preto",
-      "link": "https://www.amazon.com.br/dp/B07NPLD3JY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41nkdFXTkpL._SL400_.jpg",
-      "preco": 7.97,
-      "precoDe": 47.4,
-      "desconto": 83,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:13:57.466Z"
-    },
-    {
-      "id": "26849",
-      "loja": "Amazon",
-      "titulo": "Toyster - Jogo Incógnito - Game Office",
-      "link": "https://www.amazon.com.br/dp/B0CY6VMR1T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41W+Bf6epUL._SL400_.jpg",
-      "preco": 13.83,
-      "precoDe": 69.9,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:09:34.745Z"
-    },
-    {
-      "id": "26848",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit Cremes Hidratantes Rosto E Corpo Ch-01 + Ch-02 Seca Dia/noite",
-      "link": "https://meli.la/2gX4ezz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_706365-MLA109551381775_032026-F.jpg",
-      "preco": 53.11,
-      "precoDe": 63.99,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T16:06:00.011Z"
     }
   ]
 }
