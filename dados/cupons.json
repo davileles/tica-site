@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T16:04:15.325Z",
+  "atualizadoEm": "2026-10-07T16:34:14.492Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1131,18 +1131,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMO15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-07T16:29:06.527Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BRINQUEDOS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1224,18 +1212,6 @@
       "limite": 40,
       "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2026-10-08T15:00:44.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-07T16:23:02.467Z",
       "url": "https://meli.la/2xystLt"
     },
     {
