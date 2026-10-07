@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-07T14:49:43.125Z",
+  "atualizadoEm": "2026-10-07T15:04:11.537Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27347",
+      "loja": "Amazon",
+      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
+      "preco": 74.9,
+      "precoDe": 140.45,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T15:00:55.926Z"
+    },
+    {
+      "id": "27348",
+      "loja": "Amazon",
+      "titulo": "Roupa Íntima Bigfral Moviment Feminina P/M 7 Unidades",
+      "link": "https://www.amazon.com.br/dp/B092VCTVTN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UAebev1oL._SL400_.jpg",
+      "preco": 24.59,
+      "precoDe": 28.93,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T15:00:09.689Z"
+    },
+    {
+      "id": "27346",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/2BFT1OgQ7L",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.99,
+      "precoDe": 29.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T14:58:55.966Z"
+    },
     {
       "id": "27340",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-10-06T19:41:40.323Z"
-    },
-    {
-      "id": "26994",
-      "loja": "Amazon",
-      "titulo": "Bosch Nível a Laser Verde GLL 12-22 G 12m 1 bateria + suporte",
-      "link": "https://www.amazon.com.br/dp/B0D2RSCNV4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412G2x9pHwL._SL400_.jpg",
-      "preco": 408,
-      "precoDe": 679,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T19:38:09.091Z"
-    },
-    {
-      "id": "26993",
-      "loja": "Shopee",
-      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
-      "link": "https://s.shopee.com.br/5At3IvwhVJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
-      "preco": 349.99,
-      "precoDe": 699.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T19:37:14.181Z"
-    },
-    {
-      "id": "26991",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Secador de Cabelos Travel, Golden Rose, 1200W, Bivolt - SC-47-GR",
-      "link": "https://www.amazon.com.br/dp/B09HJSJ3LB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-GSQnKhzL._SL400_.jpg",
-      "preco": 56.9,
-      "precoDe": 119.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T19:33:30.941Z"
     }
   ]
 }
