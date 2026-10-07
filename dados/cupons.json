@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T14:49:45.926Z",
+  "atualizadoEm": "2026-10-07T15:04:16.100Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -204,18 +204,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PRAVOCE30",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -469,6 +457,18 @@
       "observacao": null,
       "validadeAte": "2026-10-08T10:10:23.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TVS150",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-10-08T15:00:44.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE100ALL",
@@ -1047,18 +1047,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-07T15:00:33.334Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIUZKIDS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1116,18 +1104,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-07T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1191,6 +1167,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBES15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-10-08T15:00:44.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1212,30 +1200,6 @@
       "limite": 50,
       "observacao": "Válido em selecionados conforme lista",
       "validadeAte": "2026-10-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TIENDASOFICIALES0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-07T15:00:06.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SAUDE0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-07T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
