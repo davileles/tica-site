@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T18:09:34.075Z",
+  "atualizadoEm": "2026-10-07T18:39:33.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -444,6 +444,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T12:01:36.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY15H",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T18:01:53.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1143,6 +1155,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMO15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-10-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BRINQUEDOS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1224,6 +1248,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-08T18:01:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1393,18 +1429,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "10D010T4CH3GANDO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T18:13:52.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "L4T4MPASS20PB",
