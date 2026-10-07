@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-07T20:58:26.688Z",
+  "atualizadoEm": "2026-10-07T21:26:26.724Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27618",
+      "loja": "Shopee",
+      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
+      "link": "https://s.shopee.com.br/7faPzG5T5O",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
+      "preco": 38,
+      "precoDe": 44.71,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T21:16:26.721Z"
+    },
+    {
+      "id": "27612",
+      "loja": "Amazon",
+      "titulo": "Barilla Macarrão Grano Duro Penne Rigate 500G",
+      "link": "https://www.amazon.com.br/dp/B003OH8F6M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41c0EUWpUQL._SL400_.jpg",
+      "preco": 9.34,
+      "precoDe": 15.91,
+      "desconto": 31,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-07T21:09:26.989Z"
+    },
+    {
+      "id": "27611",
+      "loja": "Shopee",
+      "titulo": "Gabarito Para Corte De Círculos Retos Com Tupia Marcenaria",
+      "link": "https://s.shopee.com.br/80DGMcMVYr",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcaf4hcbach8a1_tn",
+      "preco": 56.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T21:06:14.352Z"
+    },
+    {
+      "id": "27610",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
+      "preco": 20.61,
+      "precoDe": 22.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T21:05:12.872Z"
+    },
+    {
+      "id": "27608",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
+      "link": "https://www.amazon.com.br/dp/B07H113TPQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oaODRRbFL._SL400_.jpg",
+      "preco": 31.990000000000002,
+      "precoDe": 49.9,
+      "desconto": 20,
+      "cupom": "COMPRE 3 E CONSIGA 20% DE DESCONTO EM TODOS",
+      "enviadoEm": "2026-10-07T21:03:56.528Z"
+    },
+    {
+      "id": "27607",
+      "loja": "Amazon",
+      "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
+      "link": "https://www.amazon.com.br/dp/B0BM4RSB3R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-+DuLM9yL._SL400_.jpg",
+      "preco": 143.91,
+      "precoDe": 278,
+      "desconto": 42,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-07T21:00:50.918Z"
+    },
     {
       "id": "27606",
       "loja": "Mercado Livre",
@@ -1369,78 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-07T14:02:14.339Z"
-    },
-    {
-      "id": "27320",
-      "loja": "Amazon",
-      "titulo": "Hellmann's Maionese Supreme 330G",
-      "link": "https://www.amazon.com.br/dp/B0B3NHTPGY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RCyv+XDML._SL400_.jpg",
-      "preco": 9.85,
-      "precoDe": 14.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:58:41.010Z"
-    },
-    {
-      "id": "27317",
-      "loja": "Amazon",
-      "titulo": "Extrator De Leite El�trico Fisher Price BB320",
-      "link": "https://www.amazon.com.br/dp/B08KGP6M7F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Cj-u-x5BL._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 549.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:55:26.269Z"
-    },
-    {
-      "id": "27316",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank Basike 10.000mAh de Carga Rápida c/ Cabo e Display Digital Para Celular",
-      "link": "https://meli.la/2Bpk53h",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650712-MLA118814878533_102026-F.jpg",
-      "preco": 62.3,
-      "precoDe": 199,
-      "desconto": 55,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-10-07T13:54:18.465Z"
-    },
-    {
-      "id": "27315",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
-      "link": "https://s.shopee.com.br/2VsJLLz1sE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
-      "preco": 45.99,
-      "precoDe": 99.98,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:50:46.490Z"
-    },
-    {
-      "id": "27310",
-      "loja": "Amazon",
-      "titulo": "BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único",
-      "link": "https://www.amazon.com.br/dp/B07Y2GSDVN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Sjz5FCv5L._SL400_.jpg",
-      "preco": 63.22,
-      "precoDe": 98.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:36:59.522Z"
-    },
-    {
-      "id": "27309",
-      "loja": "Amazon",
-      "titulo": "Saco De Lixo PACK LIXO Lavanda Pia e Banheiro (34X38) - Sacos de lixo perfumardos que neutralizam o odor",
-      "link": "https://www.amazon.com.br/dp/B0CC2SX32M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314YkfE9PnL._SL400_.jpg",
-      "preco": 4.42,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:32:15.631Z"
     }
   ]
 }
