@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-07T18:09:30.402Z",
+  "atualizadoEm": "2026-10-07T18:39:30.404Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27505",
+      "loja": "Amazon",
+      "titulo": "WAAW by Alok Caixa de Som Bluetooth Boom 110 À Prova D'Água e Até 26 Horas de Autonomia, Boombox Tecnologia TWS 40W RMS",
+      "link": "https://www.amazon.com.br/dp/B0FLKDHB6V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41CmCzB+glL._SL400_.jpg",
+      "preco": 492,
+      "precoDe": 539,
+      "desconto": 5,
+      "cupom": "MEGAOFERTA10",
+      "enviadoEm": "2026-10-07T18:34:29.176Z"
+    },
+    {
+      "id": "27504",
+      "loja": "Mercado Livre",
+      "titulo": "Manta super macia para bebês em pelúcia antialérgica, com tema de elefante e cor cinza, perfeita para o enxoval.",
+      "link": "https://meli.la/2zEUAsY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_706095-MLB117807123299_092026-O.webp",
+      "preco": 64.58,
+      "precoDe": 94.98,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:31:07.104Z"
+    },
+    {
+      "id": "27500",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Quencher Rose Quartz 1.18L",
+      "link": "https://www.amazon.com.br/dp/B0BTHPZ9J4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31H3jSUHzhL._SL400_.jpg",
+      "preco": 165.91,
+      "precoDe": 359,
+      "desconto": 49,
+      "cupom": "MEGAOFERTA10",
+      "enviadoEm": "2026-10-07T18:23:26.021Z"
+    },
+    {
+      "id": "27499",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Macacão longo para Bebê Amore Listrado Marrom e Bege 100% Algodão",
+      "link": "https://s.shopee.com.br/4fwoDScvC2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-ms9kty5o0hdw0b_tn",
+      "preco": 59.9,
+      "precoDe": 99.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:19:49.619Z"
+    },
+    {
+      "id": "27491",
+      "loja": "Mercado Livre",
+      "titulo": "Manta Com Capuz Bebê Bichinhos Plush Quentinha Luxo Leão Amarelo",
+      "link": "https://meli.la/1M4vkC8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746248-MLB112153167231_052026-O.webp",
+      "preco": 60.9,
+      "precoDe": 78.98,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:12:09.520Z"
+    },
     {
       "id": "27490",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-07T11:28:30.301Z"
-    },
-    {
-      "id": "27177",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 113.99,
-      "precoDe": 157.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:27:20.168Z"
-    },
-    {
-      "id": "27173",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/1qccO8nhBo",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 11.98,
-      "precoDe": 49.92,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:26:32.340Z"
-    },
-    {
-      "id": "27170",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 159.89,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:22:47.092Z"
-    },
-    {
-      "id": "27167",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada G - 180 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0FPSFC361?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LuHM2VuIL._SL400_.jpg",
-      "preco": 199.9,
-      "precoDe": 213.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:21:41.910Z"
-    },
-    {
-      "id": "27165",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW42XD6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UM2ArDlsL._SL400_.jpg",
-      "preco": 97.98,
-      "precoDe": 119.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:20:39.612Z"
     }
   ]
 }
