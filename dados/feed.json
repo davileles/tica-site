@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T13:35:11.426Z",
+  "atualizadoEm": "2026-10-07T13:46:59.523Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27310",
+      "loja": "Amazon",
+      "titulo": "BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único",
+      "link": "https://www.amazon.com.br/dp/B07Y2GSDVN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Sjz5FCv5L._SL400_.jpg",
+      "preco": 63.22,
+      "precoDe": 98.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T13:36:59.522Z"
+    },
     {
       "id": "27309",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": "SAINDOBARRATO",
       "enviadoEm": "2026-10-06T18:44:07.178Z"
-    },
-    {
-      "id": "26963",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Legging Com Bolso Fitness Feminino Atletyca",
-      "link": "https://meli.la/2kEZFbG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826099-MLB88443115013_072025-O.webp",
-      "preco": 129.58,
-      "precoDe": 215.71,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T18:40:53.429Z"
     }
   ]
 }
