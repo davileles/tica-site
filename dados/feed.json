@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T22:56:57.105Z",
+  "atualizadoEm": "2026-10-07T22:58:26.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27656",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Morango e Pêssego 2L",
+      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
+      "preco": 17.01,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T22:57:31.632Z"
+    },
     {
       "id": "27654",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-07T15:05:13.141Z"
-    },
-    {
-      "id": "27349",
-      "loja": "Mercado Livre",
-      "titulo": "Luminária Barra Led Sensor Movimento Recarregável Usb 30cm",
-      "link": "https://meli.la/2XtxsGv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803354-MLB97156072368_112025-O.webp",
-      "preco": 19.6,
-      "precoDe": 31,
-      "desconto": 10,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-10-07T15:04:26.234Z"
     }
   ]
 }
