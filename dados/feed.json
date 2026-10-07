@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-07T13:46:59.523Z",
+  "atualizadoEm": "2026-10-07T14:04:11.525Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27322",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Tico-Tico Black+Decker BES602 de 400W para Madeira e Aço",
+      "link": "https://meli.la/2RFVtVj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936468-MLA100016994427_122025-F.jpg",
+      "preco": 187.24,
+      "precoDe": 240.9,
+      "desconto": 14,
+      "cupom": "VIPNOML",
+      "enviadoEm": "2026-10-07T14:03:21.075Z"
+    },
+    {
+      "id": "27321",
+      "loja": "Amazon",
+      "titulo": "Libere di Bere Bene Vinho Tinto Italiano Liberi Di Bere Bene 750Ml",
+      "link": "https://www.amazon.com.br/dp/B097S4452Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21x7GPUlk8L._SL400_.jpg",
+      "preco": 44.91,
+      "precoDe": 49.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T14:02:14.339Z"
+    },
+    {
+      "id": "27320",
+      "loja": "Amazon",
+      "titulo": "Hellmann's Maionese Supreme 330G",
+      "link": "https://www.amazon.com.br/dp/B0B3NHTPGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RCyv+XDML._SL400_.jpg",
+      "preco": 9.85,
+      "precoDe": 14.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T13:58:41.010Z"
+    },
+    {
+      "id": "27317",
+      "loja": "Amazon",
+      "titulo": "Extrator De Leite El�trico Fisher Price BB320",
+      "link": "https://www.amazon.com.br/dp/B08KGP6M7F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Cj-u-x5BL._SL400_.jpg",
+      "preco": 399,
+      "precoDe": 549.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T13:55:26.269Z"
+    },
+    {
+      "id": "27316",
+      "loja": "Mercado Livre",
+      "titulo": "Power Bank Basike 10.000mAh de Carga Rápida c/ Cabo e Display Digital Para Celular",
+      "link": "https://meli.la/2Bpk53h",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650712-MLA118814878533_102026-F.jpg",
+      "preco": 62.3,
+      "precoDe": 199,
+      "desconto": 55,
+      "cupom": "OFERTASMELI",
+      "enviadoEm": "2026-10-07T13:54:18.465Z"
+    },
+    {
+      "id": "27315",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "link": "https://s.shopee.com.br/2VsJLLz1sE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
+      "preco": 45.99,
+      "precoDe": 99.98,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T13:50:46.490Z"
+    },
     {
       "id": "27310",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 43,
       "cupom": "BRINCADEIRAS",
       "enviadoEm": "2026-10-06T18:59:58.167Z"
-    },
-    {
-      "id": "26976",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte Rise Mode Elektra 650w Rm-psu-elk-650-b Para Pc Preto",
-      "link": "https://meli.la/1jcASpb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604192-MLA99991317979_112025-F.jpg",
-      "preco": 245.33000000000004,
-      "precoDe": 524.9,
-      "desconto": 49,
-      "cupom": "SEMDEMORA",
-      "enviadoEm": "2026-10-06T18:56:35.294Z"
-    },
-    {
-      "id": "26975",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção G - 136 Un",
-      "link": "https://meli.la/2csWVan",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749827-MLA99338537280_112025-F.jpg",
-      "preco": 98.28999999999999,
-      "precoDe": 197.75,
-      "desconto": 42,
-      "cupom": "MODA0610",
-      "enviadoEm": "2026-10-06T18:53:08.063Z"
-    },
-    {
-      "id": "26971",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Máxima Proteção M - 172 Un",
-      "link": "https://meli.la/2Rwgwwt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787625-MLA99442296758_112025-F.jpg",
-      "preco": 98.28999999999999,
-      "precoDe": 197.75,
-      "desconto": 42,
-      "cupom": "MODA0610",
-      "enviadoEm": "2026-10-06T18:52:06.849Z"
-    },
-    {
-      "id": "26969",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
-      "link": "https://s.shopee.com.br/6q1HElaHbl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d_tn",
-      "preco": 22.22,
-      "precoDe": 44.44,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T18:51:19.506Z"
-    },
-    {
-      "id": "26968",
-      "loja": "Shopee",
-      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
-      "link": "https://s.shopee.com.br/905loUU68P",
-      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
-      "preco": 74.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T18:47:50.789Z"
-    },
-    {
-      "id": "26965",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Cuba Gourmet Premium Smart 75x46cm Aço Inox 304 com Display de Temperatura, Torneira Monocomando, Lavador de Copos e Suporte para Celular",
-      "link": "https://meli.la/1XqS3GS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735827-MLA112481762207_052026-F.jpg",
-      "preco": 552.3,
-      "precoDe": 1127.14,
-      "desconto": 30,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-06T18:44:07.178Z"
     }
   ]
 }
