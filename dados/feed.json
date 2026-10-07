@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-07T19:43:22.466Z",
+  "atualizadoEm": "2026-10-07T19:58:26.643Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27568",
+      "loja": "Shopee",
+      "titulo": "Esguicho Bocal De Mangueira Regar Jardim Pistola Spray Água Alta Pressão Bico Limpeza Quintal",
+      "link": "https://s.shopee.com.br/6q1IuXXBiH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mttwyvrsar5v8e_tn",
+      "preco": 14.95,
+      "precoDe": 40.41,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:57:59.187Z"
+    },
+    {
+      "id": "27565",
+      "loja": "Amazon",
+      "titulo": "Cerveja Original, Pilsen, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJXKGL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BiZFuLLIL._SL400_.jpg",
+      "preco": 69.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:57:04.349Z"
+    },
+    {
+      "id": "27564",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Lacoste Masculino Borracha Azul 2011234",
+      "link": "https://meli.la/2CqTDpp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_647454-MLU77173675674_072024-F.jpg",
+      "preco": 531,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "RESGATE NA PÁGINA DO PRODUTO",
+      "enviadoEm": "2026-10-07T19:55:57.318Z"
+    },
+    {
+      "id": "27562",
+      "loja": "Shopee",
+      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "link": "https://s.shopee.com.br/6Alc6iJsCE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqxmdp0mir5y37_tn",
+      "preco": 24.2,
+      "precoDe": 29.51,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T19:49:19.982Z"
+    },
     {
       "id": "27550",
       "loja": "Mercado Livre",
@@ -1393,54 +1441,6 @@
       "desconto": 38,
       "cupom": "PEGAESSAPROMO",
       "enviadoEm": "2026-10-07T12:42:12.301Z"
-    },
-    {
-      "id": "27260",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/9zyKCBOhg7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.32,
-      "precoDe": 35.05,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T12:39:03.264Z"
-    },
-    {
-      "id": "27254",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Educativo Alfabeto Silábico Mdf Madeira",
-      "link": "https://meli.la/2ESm8FV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_672842-MLA117194512283_092026-F.jpg",
-      "preco": 32.129999999999995,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMELI",
-      "enviadoEm": "2026-10-07T12:31:31.841Z"
-    },
-    {
-      "id": "27247",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
-      "link": "https://meli.la/13KoUwK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
-      "preco": 872.1,
-      "precoDe": 1549.4,
-      "desconto": 37,
-      "cupom": "VIPNOML",
-      "enviadoEm": "2026-10-07T12:30:21.477Z"
-    },
-    {
-      "id": "27236",
-      "loja": "Mercado Livre",
-      "titulo": "Tapete Térmico Tatame Gigante Infantil Emborrachado Impermeável Educativo Atividades Bebê 180x120cm Cor Unissex",
-      "link": "https://meli.la/16wDrWj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730777-MLA115720757757_082026-F.jpg",
-      "preco": 32.04,
-      "precoDe": 59.99,
-      "desconto": 29,
-      "cupom": "MAISCUPONS",
-      "enviadoEm": "2026-10-07T12:26:46.050Z"
     }
   ]
 }
