@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-07T15:34:11.538Z",
+  "atualizadoEm": "2026-10-07T16:04:11.696Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27385",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Bolsa Maternidade Lequeen Saquinho Maternidade Personalizado E Multifuncional Bolsa Feminina De Estilo Arte Com Frasqueira Para Bebe E Bolsa Termica Para Mamadeira Cor Rosa",
+      "link": "https://meli.la/1TqXGQ2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918451-MLA118433963039_092026-F.jpg",
+      "preco": 126.7,
+      "precoDe": 249.03,
+      "desconto": 27,
+      "cupom": "OFERTASMELI",
+      "enviadoEm": "2026-10-07T16:03:12.922Z"
+    },
+    {
+      "id": "27384",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Cargo Slim Com Elastano",
+      "link": "https://meli.la/2owamNa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856687-MLB116212230902_092026-O.webp",
+      "preco": 32.81,
+      "precoDe": 139,
+      "desconto": 62,
+      "cupom": "COMPRANOML",
+      "enviadoEm": "2026-10-07T15:59:31.778Z"
+    },
+    {
+      "id": "27383",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
+      "link": "https://s.shopee.com.br/8fSwoZTHLW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
+      "preco": 27.99,
+      "precoDe": 69.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T15:56:09.029Z"
+    },
+    {
+      "id": "27382",
+      "loja": "Amazon",
+      "titulo": "Smart TV TCL 65 Polegadas QD-Mini LED 4K C6K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 65C6K",
+      "link": "https://www.amazon.com.br/dp/B0F7K7B2PD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LSL6A+91L._SL400_.jpg",
+      "preco": 4209.3,
+      "precoDe": 5299,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T15:52:55.262Z"
+    },
+    {
+      "id": "27381",
+      "loja": "Amazon",
+      "titulo": "Katiguá, Magnésio Quelato, Dose máxima Sem sabor, 60 Cápsulas rígidas • 30 doses, Branco",
+      "link": "https://www.amazon.com.br/dp/B0D4N6SWKP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/319x4kK6voL._SL400_.jpg",
+      "preco": 4,
+      "precoDe": 48.19,
+      "desconto": 92,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T15:49:46.235Z"
+    },
     {
       "id": "27367",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-06T20:27:48.544Z"
-    },
-    {
-      "id": "27044",
-      "loja": "Amazon",
-      "titulo": "Acrilex Fosca Tinta para Tecido, Bege (Marfim), 12 x 37 ml",
-      "link": "https://www.amazon.com.br/dp/B077P66CKC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41jLqv25bkL._SL400_.jpg",
-      "preco": 15.56,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T20:24:41.120Z"
-    },
-    {
-      "id": "27043",
-      "loja": "Amazon",
-      "titulo": "Delineador Líquido Maybelline NY Tattoo Liner Play Ride 2,1g",
-      "link": "https://www.amazon.com.br/dp/B0CNXKD6F1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MZVxcsdDL._SL400_.jpg",
-      "preco": 12.69,
-      "precoDe": 25.45,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T20:21:24.010Z"
-    },
-    {
-      "id": "27041",
-      "loja": "Mercado Livre",
-      "titulo": "Caneta 3d Impressora Profissional Infantil Com Refil E Cabo Usb Parosprotect Azul",
-      "link": "https://meli.la/17pX2Zh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951658-MLA115534729566_082026-F.jpg",
-      "preco": 41.93,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-06T20:18:04.018Z"
-    },
-    {
-      "id": "27036",
-      "loja": "Shopee",
-      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "link": "https://s.shopee.com.br/5q8k8x3PHJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
-      "preco": 24.99,
-      "precoDe": 32.04,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T20:14:50.005Z"
-    },
-    {
-      "id": "27023",
-      "loja": "Amazon",
-      "titulo": "Kit de Facas Slicing 4 Peças Ice Force: - Feita de Aço Inox Alemão, Cabo Ergonômico e Perfeita para todos os usos na cozinha",
-      "link": "https://www.amazon.com.br/dp/B07BCP6F1L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FRzDmmwDL._SL400_.jpg",
-      "preco": 43.56,
-      "precoDe": 87.15,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T20:10:36.097Z"
     }
   ]
 }
