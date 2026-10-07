@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T03:15:07.085Z",
+  "atualizadoEm": "2026-10-07T03:45:07.288Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1177,30 +1177,6 @@
       "observacao": null,
       "validadeAte": "2026-10-13T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "BRCD10",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 550,
-      "minimo": 4300,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons para AliExpress válidos no evento Dia das Crianças",
-      "validadeAte": "2026-10-07T03:25:46.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BRCD9",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 420,
-      "minimo": 3300,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons para AliExpress válidos no evento Dia das Crianças",
-      "validadeAte": "2026-10-07T03:25:46.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "10DO10",
