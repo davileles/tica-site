@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-07T18:39:30.404Z",
+  "atualizadoEm": "2026-10-07T18:59:26.644Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27527",
+      "loja": "Amazon",
+      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
+      "preco": 24.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:59:16.292Z"
+    },
+    {
+      "id": "27521",
+      "loja": "Mercado Livre",
+      "titulo": "Red Bull Energético, Energy Drink, 250ml, 24 latas",
+      "link": "https://meli.la/15GTmSK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724656-MLA97466516089_112025-F.jpg",
+      "preco": 135.07,
+      "precoDe": 251.76,
+      "desconto": 37,
+      "cupom": "SUPERMERCADO0710",
+      "enviadoEm": "2026-10-07T18:57:26.564Z"
+    },
+    {
+      "id": "27520",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Sutiã Amamentação Plus Size do 38 ao 52",
+      "link": "https://s.shopee.com.br/8V9Womfxei",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hd-mdxarawouy2v75_tn",
+      "preco": 31.9,
+      "precoDe": 69.35,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:53:31.024Z"
+    },
+    {
+      "id": "27516",
+      "loja": "Mercado Livre",
+      "titulo": "Cozinha Infantil Brinquedo Com Luz 33 Acessórios Sai Água Rosa",
+      "link": "https://meli.la/273wPMi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676065-MLA110243997819_042026-F.jpg",
+      "preco": 44.019999999999996,
+      "precoDe": 119.9,
+      "desconto": 57,
+      "cupom": "MELIUZKIDS",
+      "enviadoEm": "2026-10-07T18:49:56.112Z"
+    },
+    {
+      "id": "27509",
+      "loja": "Mercado Livre",
+      "titulo": "4 Pneus Firestone Aro 14 F-600 175/70r14 84t T",
+      "link": "https://meli.la/13hB1p6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852990-MLA99343110442_112025-F.jpg",
+      "preco": 1191,
+      "precoDe": 1750,
+      "desconto": 29,
+      "cupom": "AUTO15",
+      "enviadoEm": "2026-10-07T18:49:07.784Z"
+    },
+    {
+      "id": "27508",
+      "loja": "Amazon",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL400_.jpg",
+      "preco": 214.9,
+      "precoDe": 549,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:45:31.714Z"
+    },
+    {
+      "id": "27506",
+      "loja": "Shopee",
+      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+      "link": "https://s.shopee.com.br/8AWgP2NFMi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mqbxyppmgzya6f_tn",
+      "preco": 79.12,
+      "precoDe": 98.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T18:41:55.939Z"
+    },
     {
       "id": "27505",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-07T11:38:28.051Z"
-    },
-    {
-      "id": "27188",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Rwj1O-RDL._SL400_.jpg",
-      "preco": 32.98,
-      "precoDe": 50.04,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:37:28.759Z"
-    },
-    {
-      "id": "27187",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K83GYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gtkGdKp9L._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 64.98,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:36:34.213Z"
-    },
-    {
-      "id": "27186",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gYTgk90DL._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:35:19.448Z"
-    },
-    {
-      "id": "27185",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 49.34,
-      "precoDe": 64.64,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:34:18.967Z"
-    },
-    {
-      "id": "27180",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
-      "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51IA1iUma3L._SL400_.jpg",
-      "preco": 31.56,
-      "precoDe": 48.75,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:30:12.463Z"
-    },
-    {
-      "id": "27179",
-      "loja": "Amazon",
-      "titulo": "Personal 'Fralda Baby Premium Protection M Com 34 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31S7mnvtkzL._SL400_.jpg",
-      "preco": 28.39,
-      "precoDe": 46.38,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:29:25.821Z"
-    },
-    {
-      "id": "27178",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fnIZohlxL._SL400_.jpg",
-      "preco": 28.95,
-      "precoDe": 46.38,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T11:28:30.301Z"
     }
   ]
 }
