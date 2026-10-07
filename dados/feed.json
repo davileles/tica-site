@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T11:45:06.639Z",
+  "atualizadoEm": "2026-10-07T11:59:13.439Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27203",
+      "loja": "Shopee",
+      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "link": "https://s.shopee.com.br/50ZeBajJ85",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
+      "preco": 38.99,
+      "precoDe": 114.68,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T11:49:13.435Z"
+    },
     {
       "id": "27198",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-06T17:30:44.074Z"
-    },
-    {
-      "id": "26908",
-      "loja": "Amazon",
-      "titulo": "Knock Knock Vinho Tinto Espanhol Red Blend 750Ml",
-      "link": "https://www.amazon.com.br/dp/B071WLBJ6P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dPrqfNyWL._SL400_.jpg",
-      "preco": 16.25,
-      "precoDe": 79,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-10-06T17:29:58.178Z"
     }
   ]
 }
