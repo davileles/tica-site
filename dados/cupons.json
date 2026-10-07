@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T03:45:07.288Z",
+  "atualizadoEm": "2026-10-07T10:15:07.130Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -408,6 +408,18 @@
       "limite": null,
       "observacao": "Cupom requer consulta de ID do item no link informado e ativação via WhatsApp",
       "validadeAte": "2026-10-07T19:40:18.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY7H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 700,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T10:10:23.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
