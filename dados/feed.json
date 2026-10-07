@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T22:17:34.075Z",
+  "atualizadoEm": "2026-10-07T22:28:26.689Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27645",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/2BFTVzbLpH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 16.99,
+      "precoDe": 22.36,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T22:24:21.619Z"
+    },
     {
       "id": "27639",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-07T14:58:55.966Z"
-    },
-    {
-      "id": "27340",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
-      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
-      "preco": 27.59,
-      "precoDe": 47.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:39:43.121Z"
     }
   ]
 }
