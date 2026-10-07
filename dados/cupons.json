@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T22:34:22.060Z",
+  "atualizadoEm": "2026-10-07T23:53:12.250Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,6 +12,18 @@
       "limite": null,
       "observacao": "Cupom de até R$70 na primeira compra com cartão Amazon em produtos selecionados. Válido apenas para solicitantes de novo cartão de crédito Amazon Platinum Prime (bônus de boas-vindas do cartão). Cashback de 5% é benefício do cartão, não cupom de desconto.",
       "validadeAte": "2026-10-08T13:19:51.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "MEGAPRIME",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T23:44:19.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
