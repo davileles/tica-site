@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T21:26:29.562Z",
+  "atualizadoEm": "2026-10-07T22:17:36.553Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": 30,
       "observacao": "Exclusivo para membros Prime",
       "validadeAte": "2026-10-08T20:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CUPOMPRIME10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-08T22:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -540,6 +552,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T13:04:08.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY19H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": 800,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T22:02:46.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1296,18 +1320,6 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPERMERCADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-07T22:00:32.797Z",
       "url": "https://meli.la/2xystLt"
     },
     {
