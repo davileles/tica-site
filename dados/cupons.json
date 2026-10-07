@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T13:00:35.919Z",
+  "atualizadoEm": "2026-10-07T13:30:34.853Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "CARTAONOVO",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 50,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de até R$70 na primeira compra com cartão Amazon em produtos selecionados. Válido apenas para solicitantes de novo cartão de crédito Amazon Platinum Prime (bônus de boas-vindas do cartão). Cashback de 5% é benefício do cartão, não cupom de desconto.",
+      "validadeAte": "2026-10-08T13:19:51.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "NUPAYMOP40",
       "loja": "Amazon",
@@ -435,6 +447,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PAYDAY10H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T13:04:08.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PAYDAY7H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -468,6 +492,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRANOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom para novas contas",
+      "validadeAte": "2026-10-08T13:24:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
