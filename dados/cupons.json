@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T01:45:07.021Z",
+  "atualizadoEm": "2026-10-07T03:15:07.085Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,18 +72,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "MAISMODA",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -303,18 +291,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "DRAMOFF15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "COMPREJUNTOAPPLE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -348,30 +324,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "HUSKYZADA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SSDHUSKYPROMO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -783,18 +735,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "APROVEITAMUITO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:22.142Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIBAIXOU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -828,18 +768,6 @@
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-11-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATEFULL0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-07T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -915,6 +843,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATEFULL0710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em entregas Full. Desconto de 25% com mínimo de R$119 e limite de desconto de R$50.",
+      "validadeAte": "2026-10-08T03:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -963,18 +903,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BRINCADEIRAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-10-07T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAQUININHAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -984,18 +912,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MEUMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1212,18 +1128,6 @@
       "limite": 300,
       "observacao": "Cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-10-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SEMDEMORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-07T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
