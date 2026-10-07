@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T20:58:29.849Z",
+  "atualizadoEm": "2026-10-07T21:26:29.562Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -468,6 +468,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T12:58:47.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons do Magalu com diferentes valores de desconto e mínimos de compra",
+      "validadeAte": "2026-10-08T21:01:53.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1044,18 +1056,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIGARNIER",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 79.9,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-07T21:08:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
