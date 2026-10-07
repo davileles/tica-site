@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-07T21:28:26.689Z",
+  "atualizadoEm": "2026-10-07T21:58:26.689Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27634",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Triple Mash 700ml",
+      "link": "https://www.amazon.com.br/dp/B09ZLSZ869?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jDnDeTqNL._SL400_.jpg",
+      "preco": 167.38,
+      "precoDe": 249.9,
+      "desconto": 26,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-07T21:56:11.747Z"
+    },
+    {
+      "id": "27633",
+      "loja": "Amazon",
+      "titulo": "Aptanutri Profutura 3 Fórmula Infantil em Pó para Crianças de 1 a 3 Anos – Contém Leite, 4 unidades de 800 g (3,2 kg)",
+      "link": "https://www.amazon.com.br/dp/B0F9XFKJMF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41axF2UsfPL._SL400_.jpg",
+      "preco": 258.2,
+      "precoDe": 363.59,
+      "desconto": 21,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-07T21:55:00.361Z"
+    },
+    {
+      "id": "27632",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Fire 700mL 70 Proof",
+      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
+      "preco": 104.19,
+      "precoDe": 144.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T21:54:08.348Z"
+    },
+    {
+      "id": "27629",
+      "loja": "Amazon",
+      "titulo": "Skin Care Hidratante Facial Garnier Uniform & Matte Toque Seco 85g",
+      "link": "https://www.amazon.com.br/dp/B0DP82WCWS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i195xM1xL._SL400_.jpg",
+      "preco": 22.56,
+      "precoDe": 39.9,
+      "desconto": 29,
+      "cupom": "COMPRE 3 E CONSIGA 20% DE DESCONTO EM TODOS",
+      "enviadoEm": "2026-10-07T21:49:12.492Z"
+    },
+    {
+      "id": "27627",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
+      "preco": 145.26,
+      "precoDe": 182.48,
+      "desconto": 12,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-07T21:40:40.920Z"
+    },
+    {
+      "id": "27625",
+      "loja": "Shopee",
+      "titulo": "Porta Frios Duplo Preto para Presunto e Queijo Com Fundo Removível Para Conservar e Organizar a Geladeira Hermetico",
+      "link": "https://s.shopee.com.br/3qNhRwpdN1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ml6ctmoc7ojo37_tn",
+      "preco": 17.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T21:38:56.757Z"
+    },
+    {
+      "id": "27623",
+      "loja": "Amazon",
+      "titulo": "Bravo Café Tenor em Grãos 1Kg",
+      "link": "https://www.amazon.com.br/dp/B07J4VYFTH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4104X56C2VL._SL400_.jpg",
+      "preco": 69.44999999999999,
+      "precoDe": 101.98,
+      "desconto": 20,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-07T21:31:53.382Z"
+    },
     {
       "id": "27621",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": 9,
       "cupom": "MELIUZKIDS",
       "enviadoEm": "2026-10-07T14:27:23.155Z"
-    },
-    {
-      "id": "27330",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Pampers Premium Care Tamanho XXXG 72 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DWYBQNXN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51tVTN00mhL._SL400_.jpg",
-      "preco": 152.39,
-      "precoDe": 189.43,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:21:10.102Z"
-    },
-    {
-      "id": "27329",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Pampers Premium Care Tamanho XG 88 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DWYW9KHN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51oSAuEXedL._SL400_.jpg",
-      "preco": 157.39,
-      "precoDe": 189.43,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:20:24.082Z"
-    },
-    {
-      "id": "27328",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51JeVwZ+5TL._SL400_.jpg",
-      "preco": 153.72,
-      "precoDe": 189.43,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:19:15.117Z"
-    },
-    {
-      "id": "27327",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Térmico 890ml Tampa Flip Resistente Parede Dupla Inox",
-      "link": "https://meli.la/15YtBnN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814159-MLB95613099944_102025-O.webp",
-      "preco": 21.689999999999998,
-      "precoDe": 59.99,
-      "desconto": 48,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-10-07T14:16:35.384Z"
-    },
-    {
-      "id": "27326",
-      "loja": "Shopee",
-      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
-      "link": "https://s.shopee.com.br/7ptpihb90D",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
-      "preco": 26.9,
-      "precoDe": 122.27,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:13:26.911Z"
-    },
-    {
-      "id": "27324",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50-",
-      "link": "https://meli.la/2wowv3T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992466-MLB116831200087_082026-O.webp",
-      "preco": 49.900000000000006,
-      "precoDe": 122.9,
-      "desconto": 43,
-      "cupom": "COMPRANOML",
-      "enviadoEm": "2026-10-07T14:07:42.734Z"
-    },
-    {
-      "id": "27322",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Tico-Tico Black+Decker BES602 de 400W para Madeira e Aço",
-      "link": "https://meli.la/2RFVtVj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936468-MLA100016994427_122025-F.jpg",
-      "preco": 187.24,
-      "precoDe": 240.9,
-      "desconto": 14,
-      "cupom": "VIPNOML",
-      "enviadoEm": "2026-10-07T14:03:21.075Z"
     }
   ]
 }
