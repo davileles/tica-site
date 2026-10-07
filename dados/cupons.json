@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T13:30:34.853Z",
+  "atualizadoEm": "2026-10-07T13:35:14.080Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -502,7 +502,7 @@
       "minimo": null,
       "maximo": null,
       "limite": 20,
-      "observacao": "Cupom para novas contas",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-08T13:24:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
