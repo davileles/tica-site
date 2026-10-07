@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T17:09:33.690Z",
+  "atualizadoEm": "2026-10-07T18:09:34.075Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": null,
       "observacao": "Cupom de até R$70 na primeira compra com cartão Amazon em produtos selecionados. Válido apenas para solicitantes de novo cartão de crédito Amazon Platinum Prime (bônus de boas-vindas do cartão). Cashback de 5% é benefício do cartão, não cupom de desconto.",
       "validadeAte": "2026-10-08T13:19:51.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "NUPAYMOP40",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": 50,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para novo usuário NuPay",
-      "validadeAte": "2026-10-07T17:57:29.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1191,30 +1179,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-07T18:00:36.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA06101010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-07T18:00:36.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIATENTU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1239,6 +1203,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTO15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-08T18:01:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERMERCADO0710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-08T18:01:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1248,18 +1236,6 @@
       "limite": 50,
       "observacao": "Válido em selecionados conforme lista",
       "validadeAte": "2026-10-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA0610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-07T18:00:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
