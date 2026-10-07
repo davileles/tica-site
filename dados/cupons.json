@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T16:34:14.492Z",
+  "atualizadoEm": "2026-10-07T17:09:33.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,6 +24,18 @@
       "limite": null,
       "observacao": "Cupom para novo usuário NuPay",
       "validadeAte": "2026-10-07T17:57:29.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "MEGAOFERTA10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-08T17:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -492,6 +504,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T10:10:23.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY14H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "15% OFF com desconto máximo de R$500",
+      "validadeAte": "2026-10-08T17:04:23.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
