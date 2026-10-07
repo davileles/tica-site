@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-07T21:26:26.724Z",
+  "atualizadoEm": "2026-10-07T21:28:26.689Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27621",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Facial com Cor FPS 70 Alta Cobertura - L'Oréal Paris Solar Expertise Efeito Make Up - Cor 3.0 30g",
+      "link": "https://www.amazon.com.br/dp/B0FXHG1C1Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310W3KlkOgL._SL400_.jpg",
+      "preco": 37.22,
+      "precoDe": 59.99,
+      "desconto": 22,
+      "cupom": "COMPRE 3 E CONSIGA 20% DE DESCONTO EM TODOS",
+      "enviadoEm": "2026-10-07T21:26:29.974Z"
+    },
     {
       "id": "27618",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 14,
       "cupom": "VIPNOML",
       "enviadoEm": "2026-10-07T14:03:21.075Z"
-    },
-    {
-      "id": "27321",
-      "loja": "Amazon",
-      "titulo": "Libere di Bere Bene Vinho Tinto Italiano Liberi Di Bere Bene 750Ml",
-      "link": "https://www.amazon.com.br/dp/B097S4452Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21x7GPUlk8L._SL400_.jpg",
-      "preco": 44.91,
-      "precoDe": 49.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T14:02:14.339Z"
     }
   ]
 }
