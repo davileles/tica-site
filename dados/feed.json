@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-07T20:28:26.688Z",
+  "atualizadoEm": "2026-10-07T20:58:26.688Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27606",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Tommy Hilfiger Masculino Aço 1791755",
+      "link": "https://meli.la/2JuxWbp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837640-MLU77157375330_072024-F.jpg",
+      "preco": 445.5,
+      "precoDe": 990,
+      "desconto": 50,
+      "cupom": "RESGATE NA PÁGINA DO PRODUTO",
+      "enviadoEm": "2026-10-07T20:57:39.109Z"
+    },
+    {
+      "id": "27605",
+      "loja": "Amazon",
+      "titulo": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
+      "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxl0YlVHL._SL400_.jpg",
+      "preco": 4089,
+      "precoDe": 4599.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T20:54:07.901Z"
+    },
+    {
+      "id": "27604",
+      "loja": "Shopee",
+      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+      "link": "https://s.shopee.com.br/60SBy10Lkw",
+      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
+      "preco": 14.84,
+      "precoDe": 40.11,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T20:51:01.503Z"
+    },
+    {
+      "id": "27603",
+      "loja": "Amazon",
+      "titulo": "Panela de Pressão Tramontina Vancouver Effect em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 20 cm 4,5 L",
+      "link": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31tHjOq51WL._SL400_.jpg",
+      "preco": 145.72,
+      "precoDe": 409.2,
+      "desconto": 60,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-07T20:47:46.220Z"
+    },
+    {
+      "id": "27600",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 29.59,
+      "precoDe": 39,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-07T20:40:50.911Z"
+    },
+    {
+      "id": "27590",
+      "loja": "Amazon",
+      "titulo": "Isotônico Gatorade, Tangerina, Garrafa 500ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY4RKK3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41w8YCz522L._SL400_.jpg",
+      "preco": 24.939999999999998,
+      "precoDe": 32.94,
+      "desconto": 11,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-07T20:33:40.761Z"
+    },
+    {
+      "id": "27589",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Água Micelar Efeito Matte Solução de Limpeza Facial 5 em 1, 200ml",
+      "link": "https://www.amazon.com.br/dp/B086X1GZK2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eNpSDKjlL._SL400_.jpg",
+      "preco": 19.919999999999998,
+      "precoDe": 33.69,
+      "desconto": 26,
+      "cupom": "COMPRE 3 E CONSIGA 20% DE DESCONTO EM TODOS",
+      "enviadoEm": "2026-10-07T20:30:18.306Z"
+    },
     {
       "id": "27588",
       "loja": "Amazon",
@@ -1357,90 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-07T13:32:15.631Z"
-    },
-    {
-      "id": "27304",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/4qGE5qdrDq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
-      "preco": 28.98,
-      "precoDe": 60.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:28:20.896Z"
-    },
-    {
-      "id": "27297",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
-      "preco": 75.1,
-      "precoDe": 159.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:20:40.672Z"
-    },
-    {
-      "id": "27293",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Único Evo i-Size com Isofix e Top Tether 40–150cm Preto Chicco – 6087030950000",
-      "link": "https://www.amazon.com.br/dp/B0C6KZCY6Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41X8MYvJHBL._SL400_.jpg",
-      "preco": 1617,
-      "precoDe": 2699,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:16:54.246Z"
-    },
-    {
-      "id": "27292",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Rishon",
-      "link": "https://meli.la/1Psrfvm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978318-MLA118899651371_102026-F.jpg",
-      "preco": 82.98,
-      "precoDe": 197.77,
-      "desconto": 51,
-      "cupom": "VALEMAISAQUI",
-      "enviadoEm": "2026-10-07T13:15:44.124Z"
-    },
-    {
-      "id": "27291",
-      "loja": "Mercado Livre",
-      "titulo": "Body Camisa Jeans Bebê Manga Longa Confortável",
-      "link": "https://meli.la/28RU9mZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741424-MLB114045999313_072026-O.webp",
-      "preco": 37.48,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TUDOEMPROMO",
-      "enviadoEm": "2026-10-07T13:12:21.511Z"
-    },
-    {
-      "id": "27287",
-      "loja": "Mercado Livre",
-      "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
-      "link": "https://meli.la/1ERcNet",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-F.jpg",
-      "preco": 75.95,
-      "precoDe": 189.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:11:24.119Z"
-    },
-    {
-      "id": "27286",
-      "loja": "Mercado Livre",
-      "titulo": "Escada Alumínio 4 Degraus MOR Prateado/Azul",
-      "link": "https://meli.la/2FKqEkn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773431-MLA115350300121_072026-F.jpg",
-      "preco": 107.99,
-      "precoDe": 119.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T13:07:58.766Z"
     }
   ]
 }
