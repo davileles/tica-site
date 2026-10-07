@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T20:28:29.778Z",
+  "atualizadoEm": "2026-10-07T20:58:29.849Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,6 +435,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "300PAYDAY",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T20:32:15.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PAYDAY17H",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -480,6 +492,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T18:01:53.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY100OFF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-08T20:31:33.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1393,6 +1417,18 @@
       "observacao": null,
       "validadeAte": "2026-10-09T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "PREZUNIC",
+      "loja": "Outro: iFood",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 34.9,
+      "observacao": "50% OFF com limite de desconto de R$ 34,90",
+      "validadeAte": "2026-10-08T20:49:59.000Z",
+      "url": null
     },
     {
       "codigo": "SVPDAY",
