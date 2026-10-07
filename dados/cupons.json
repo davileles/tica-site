@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T15:34:14.434Z",
+  "atualizadoEm": "2026-10-07T15:37:13.610Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -181,6 +181,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "200OFFMESA",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "ASROCK100",
@@ -1428,6 +1440,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-07T18:13:52.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "L4T4MPASS20PB",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido até atingir o limite de uso",
+      "validadeAte": "2026-10-08T15:35:22.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
