@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T14:10:44.973Z",
+  "atualizadoEm": "2026-10-08T15:05:43.191Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,6 +72,18 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-09T00:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "APENASPRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-09T15:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -303,6 +315,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ATTACK30",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "JBL25",
       "loja": "Kabum",
       "tipo": "pct",
@@ -399,6 +423,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "ATTACK15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "COMPREJUNTOAPPLE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -471,6 +507,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "TAB10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -517,18 +565,6 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PAYDAY12H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 320,
-      "minimo": 3200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T15:05:01.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "300PAYDAY",
@@ -603,6 +639,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CUPOMBIKE100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para bicicletas",
+      "validadeAte": "2026-10-09T15:05:39.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PAYDAY19H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -637,30 +685,6 @@
       "observacao": "15% OFF com desconto máximo de R$500",
       "validadeAte": "2026-10-08T17:04:23.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TVS150",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-10-08T15:00:44.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-08T15:00:30.514Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITETODO0810",
@@ -1215,18 +1239,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBES15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-10-08T15:00:44.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AUTO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1465,6 +1477,18 @@
       "observacao": null,
       "validadeAte": "2026-10-12T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
+    },
+    {
+      "codigo": "LG5",
+      "loja": "Webcontinental",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17743&id=1207116"
     },
     {
       "codigo": "WINE15",
