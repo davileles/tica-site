@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-08T19:34:12.355Z",
+  "atualizadoEm": "2026-10-08T20:04:12.354Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28128",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Máxima Proteção M - 172 Un",
+      "link": "https://meli.la/2Rwgwwt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787625-MLA99442296758_112025-F.jpg",
+      "preco": 98.33000000000001,
+      "precoDe": 197.75,
+      "desconto": 42,
+      "cupom": "TIENDAS0810",
+      "enviadoEm": "2026-10-08T20:00:36.697Z"
+    },
+    {
+      "id": "28127",
+      "loja": "Amazon",
+      "titulo": "3 Corações Café Torrado E Moído Tradicional Pacote 250G",
+      "link": "https://www.amazon.com.br/dp/B086F6V6XT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4120XRRE7FL._SL400_.jpg",
+      "preco": 12.89,
+      "precoDe": 22.99,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T19:59:26.586Z"
+    },
+    {
+      "id": "28126",
+      "loja": "Amazon",
+      "titulo": "Adega Electrolux 8 garrafas Uma Porta Acabamento em Alumínio (ACB08)",
+      "link": "https://www.amazon.com.br/dp/B09K3MHLRC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412Zb0URdiL._SL400_.jpg",
+      "preco": 663.02,
+      "precoDe": 1049,
+      "desconto": 35,
+      "cupom": "MEGAPRIME",
+      "enviadoEm": "2026-10-08T19:55:00.451Z"
+    },
+    {
+      "id": "28120",
+      "loja": "Shopee",
+      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
+      "link": "https://s.shopee.com.br/8pmOsXmx0D",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
+      "preco": 29.9,
+      "precoDe": 34.77,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T19:51:33.760Z"
+    },
+    {
+      "id": "28118",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira À Bateria 20v PFV 212IB Vonder Plus",
+      "link": "https://meli.la/2fxh4Jy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799685-MLA99953120851_112025-F.jpg",
+      "preco": 788,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRASML",
+      "enviadoEm": "2026-10-08T19:48:11.344Z"
+    },
+    {
+      "id": "28117",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Sem Fio TWS Bluetooth 6.0 Com Cancelamento De Ruído 45H Display Digital Baixa Latência IPX6 Esportivo Touch Para Celular Android iPhone",
+      "link": "https://meli.la/2w66Zwg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824668-MLA115630980136_092026-F.jpg",
+      "preco": 94.23000000000002,
+      "precoDe": 214.27,
+      "desconto": 37,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-10-08T19:47:02.068Z"
+    },
+    {
+      "id": "28106",
+      "loja": "Amazon",
+      "titulo": "Aparelho de Jantar Tramontina Canyon em Porcelana Decorada 20 Peças",
+      "link": "https://www.amazon.com.br/dp/B0DJDQQ7G3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zhDAWTb9L._SL400_.jpg",
+      "preco": 169.70999999999998,
+      "precoDe": 363.85,
+      "desconto": 48,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-08T19:41:30.043Z"
+    },
     {
       "id": "28100",
       "loja": "Mercado Livre",
@@ -1357,90 +1441,6 @@
       "desconto": 45,
       "cupom": "MEGAPRIME",
       "enviadoEm": "2026-10-08T00:16:11.652Z"
-    },
-    {
-      "id": "27674",
-      "loja": "Amazon",
-      "titulo": "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
-      "link": "https://www.amazon.com.br/dp/B001QZ5GUW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FsIQ2bzmL._SL400_.jpg",
-      "preco": 107.99,
-      "precoDe": 189.9,
-      "desconto": 33,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:14:42.541Z"
-    },
-    {
-      "id": "27673",
-      "loja": "Amazon",
-      "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 750ml",
-      "link": "https://www.amazon.com.br/dp/B0D63KDTVT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41IauAao7bL._SL400_.jpg",
-      "preco": 50.900000000000006,
-      "precoDe": 127.9,
-      "desconto": 45,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:13:28.594Z"
-    },
-    {
-      "id": "27672",
-      "loja": "Amazon",
-      "titulo": "Whisky Old Parr 12 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
-      "preco": 71.19,
-      "precoDe": 126.9,
-      "desconto": 28,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:09:36.265Z"
-    },
-    {
-      "id": "27671",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 79.99,
-      "precoDe": 129.99,
-      "desconto": 23,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:08:13.960Z"
-    },
-    {
-      "id": "27668",
-      "loja": "Amazon",
-      "titulo": "Whiskey Jameson Caskmates IPA Irlandês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GnfXw2zaL._SL400_.jpg",
-      "preco": 59.900000000000006,
-      "precoDe": 134.9,
-      "desconto": 41,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:06:34.636Z"
-    },
-    {
-      "id": "27665",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 55.7,
-      "precoDe": 115.9,
-      "desconto": 35,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:05:25.700Z"
-    },
-    {
-      "id": "27663",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Lata 473ml Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09CR3T4QN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FIozdgRxL._SL400_.jpg",
-      "preco": 49.900000000000006,
-      "precoDe": 81.48,
-      "desconto": 14,
-      "cupom": "MEGAPRIME",
-      "enviadoEm": "2026-10-08T00:04:13.247Z"
     }
   ]
 }
