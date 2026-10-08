@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T11:34:45.408Z",
+  "atualizadoEm": "2026-10-08T12:04:45.310Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -471,18 +471,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "KORUJAO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "NOTE10OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -603,18 +591,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PAYDAY9H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:01:36.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PAYDAY15H",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -711,15 +687,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE100ALL",
+      "codigo": "150TODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 100,
+      "valor": 150,
       "minimo": 999,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-08T12:00:06.000Z",
+      "validadeAte": "2026-10-09T12:02:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -735,15 +711,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE0710",
+      "codigo": "SITETODO0810",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
+      "valor": 50,
+      "minimo": 499,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-08T12:00:06.000Z",
+      "validadeAte": "2026-10-09T12:02:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1011,30 +987,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPREMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:00:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOVALE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:00:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELICOMPRAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1056,6 +1008,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SALVAMEUBOLSO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1179,18 +1143,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TUDOEMPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:00:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJASRESGATE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1200,6 +1152,18 @@
       "limite": 50,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-09T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ACHEINOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1239,7 +1203,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTAMEUDESCONTO",
+      "codigo": "MUITOBARATO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 22,
@@ -1247,19 +1211,19 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-08T12:00:48.000Z",
+      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE0710",
+      "codigo": "MELHORDODIA",
       "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 299,
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 1,
       "maximo": null,
-      "limite": null,
+      "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-08T12:00:06.000Z",
+      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1380,6 +1344,30 @@
       "limite": 50,
       "observacao": "Válido em selecionados conforme lista",
       "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OPORTUNIDADEML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:01:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUSTAPOUCO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
