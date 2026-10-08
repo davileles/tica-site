@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T20:04:14.970Z",
+  "atualizadoEm": "2026-10-08T20:34:15.656Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,6 +435,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "KASPERSKY15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CLASSICS15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "COMPREJUNTOAPPLE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -567,18 +591,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "300PAYDAY",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 3200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T20:32:15.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PAYDAY200",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -600,18 +612,6 @@
       "limite": null,
       "observacao": "Dois cupons de desconto fixo em R$ com valores mínimos de compra diferentes",
       "validadeAte": "2026-10-09T18:00:08.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PAYDAY100OFF",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T20:31:33.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -673,6 +673,18 @@
       "observacao": null,
       "validadeAte": "2026-10-09T00:05:04.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-08T22:00:33.066Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITETODO0810",
@@ -803,7 +815,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-10-09T02:59:00.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1251,6 +1263,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-08T22:00:33.066Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1259,7 +1283,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-10-10T02:59:00.000Z",
+      "validadeAte": "2026-10-08T22:00:01.067Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1332,6 +1356,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-09T12:01:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUSTAPOUCO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
