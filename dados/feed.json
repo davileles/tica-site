@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-08T17:34:12.352Z",
+  "atualizadoEm": "2026-10-08T18:04:12.352Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28035",
+      "loja": "Mercado Livre",
+      "titulo": "Andador Infantil Princesas Do Gelo Style - Biemme Cor Outro",
+      "link": "https://meli.la/2qVwNM2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759451-MLA100030403155_122025-F.jpg",
+      "preco": 236.28000000000003,
+      "precoDe": 399,
+      "desconto": 15,
+      "cupom": "PRECINHOBOM",
+      "enviadoEm": "2026-10-08T17:58:08.967Z"
+    },
+    {
+      "id": "28033",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
+      "link": "https://s.shopee.com.br/AKbCXMmSpf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e_tn",
+      "preco": 14.9,
+      "precoDe": 19.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T17:54:29.197Z"
+    },
+    {
+      "id": "28029",
+      "loja": "Amazon",
+      "titulo": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 220V - NPF-53",
+      "link": "https://www.amazon.com.br/dp/B07L8X97SR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ps2KzRo7L._SL400_.jpg",
+      "preco": 491.99,
+      "precoDe": 749.9,
+      "desconto": 30,
+      "cupom": "CURTEPRIME",
+      "enviadoEm": "2026-10-08T17:45:59.490Z"
+    },
+    {
+      "id": "28025",
+      "loja": "Amazon",
+      "titulo": "Adaptador de corrente USB-C de 20 W",
+      "link": "https://www.amazon.com.br/dp/B0CX5DHV4Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21CYbc-tskL._SL400_.jpg",
+      "preco": 144.43,
+      "precoDe": 219,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T17:42:17.792Z"
+    },
+    {
+      "id": "28024",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
+      "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41S23peQtaL._SL400_.jpg",
+      "preco": 56.41,
+      "precoDe": 77.37,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T17:38:42.262Z"
+    },
+    {
+      "id": "28023",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VCySSGQsL._SL400_.jpg",
+      "preco": 51.74,
+      "precoDe": 77.37,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T17:37:49.595Z"
+    },
+    {
+      "id": "28021",
+      "loja": "Amazon",
+      "titulo": "Bang Toys - UTV Elétrico Infantil Solar Cruiser 12V - com Luzes de LED, Sons, Entrada USB/MP3, Suspensão e Controle Remoto - Suporta até 30kg - Cor Rosa",
+      "link": "https://www.amazon.com.br/dp/B0F3G6MQ1Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hUbt5+-+L._SL400_.jpg",
+      "preco": 1169.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T17:35:57.709Z"
+    },
     {
       "id": "28017",
       "loja": "Shopee",
@@ -1357,90 +1441,6 @@
       "desconto": 31,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-10-07T21:09:26.989Z"
-    },
-    {
-      "id": "27611",
-      "loja": "Shopee",
-      "titulo": "Gabarito Para Corte De Círculos Retos Com Tupia Marcenaria",
-      "link": "https://s.shopee.com.br/80DGMcMVYr",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcaf4hcbach8a1_tn",
-      "preco": 56.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T21:06:14.352Z"
-    },
-    {
-      "id": "27610",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
-      "preco": 20.61,
-      "precoDe": 22.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T21:05:12.872Z"
-    },
-    {
-      "id": "27608",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
-      "link": "https://www.amazon.com.br/dp/B07H113TPQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oaODRRbFL._SL400_.jpg",
-      "preco": 31.990000000000002,
-      "precoDe": 49.9,
-      "desconto": 20,
-      "cupom": "COMPRE 3 E CONSIGA 20% DE DESCONTO EM TODOS",
-      "enviadoEm": "2026-10-07T21:03:56.528Z"
-    },
-    {
-      "id": "27607",
-      "loja": "Amazon",
-      "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
-      "link": "https://www.amazon.com.br/dp/B0BM4RSB3R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-+DuLM9yL._SL400_.jpg",
-      "preco": 143.91,
-      "precoDe": 278,
-      "desconto": 42,
-      "cupom": "CURTEPRIME",
-      "enviadoEm": "2026-10-07T21:00:50.918Z"
-    },
-    {
-      "id": "27606",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Tommy Hilfiger Masculino Aço 1791755",
-      "link": "https://meli.la/2JuxWbp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837640-MLU77157375330_072024-F.jpg",
-      "preco": 445.5,
-      "precoDe": 990,
-      "desconto": 50,
-      "cupom": "RESGATE NA PÁGINA DO PRODUTO",
-      "enviadoEm": "2026-10-07T20:57:39.109Z"
-    },
-    {
-      "id": "27605",
-      "loja": "Amazon",
-      "titulo": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
-      "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xxl0YlVHL._SL400_.jpg",
-      "preco": 4089,
-      "precoDe": 4599.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T20:54:07.901Z"
-    },
-    {
-      "id": "27604",
-      "loja": "Shopee",
-      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
-      "link": "https://s.shopee.com.br/60SBy10Lkw",
-      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
-      "preco": 14.84,
-      "precoDe": 40.11,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T20:51:01.503Z"
     }
   ]
 }
