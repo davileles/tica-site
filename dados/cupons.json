@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T13:34:45.473Z",
+  "atualizadoEm": "2026-10-08T14:10:44.973Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -588,6 +588,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T20:31:33.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "RESSACA100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T14:05:44.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
