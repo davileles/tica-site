@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T16:05:15.325Z",
+  "atualizadoEm": "2026-10-08T16:34:15.171Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -651,6 +651,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "TOMA30",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T16:04:29.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PAYDAY19H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -685,6 +697,18 @@
       "observacao": "15% OFF com desconto máximo de R$500",
       "validadeAte": "2026-10-08T17:04:23.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TUDOPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-08T18:00:35.040Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITETODO0810",
@@ -804,6 +828,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em selecionados. Lista completa disponível nos links.",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OPAECONOMIZEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1203,18 +1239,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ESPORTES0810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-09T16:03:56.146Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORDODIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1263,42 +1287,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTO15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-08T18:01:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPERMERCADO0710",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-08T18:01:34.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTOEFERAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOM0810",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1332,18 +1320,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-09T12:01:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUSTAPOUCO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1488,6 +1464,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-09T11:12:08.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "C41N40C4110",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T16:06:35.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
