@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-07T23:53:12.250Z",
+  "atualizadoEm": "2026-10-08T00:28:29.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -60,6 +60,18 @@
       "limite": 20,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-08T22:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "NOITEPRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-09T00:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -576,6 +588,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T22:02:46.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PAYDAY21H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": 500,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T00:05:04.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
