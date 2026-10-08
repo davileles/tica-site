@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-08T12:04:42.494Z",
+  "atualizadoEm": "2026-10-08T12:34:42.494Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27789",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
+      "link": "https://s.shopee.com.br/20w4EyX8nX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
+      "preco": 17.8,
+      "precoDe": 24.72,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:33:48.968Z"
+    },
+    {
+      "id": "27788",
+      "loja": "Amazon",
+      "titulo": "Mala de Viagem Sestini Bordo com Rodas 360° Basic, Azul Marinho",
+      "link": "https://www.amazon.com.br/dp/B0GX2WG15W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41R8P2btP3L._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 299.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:30:00.701Z"
+    },
+    {
+      "id": "27786",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa de Som JBL PartyBox Stage 320 Bluetooth Portátil Com Show de Luzes e Resistente a Respingos – 240W RMS Preta",
+      "link": "https://meli.la/2qvj9Cg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815974-MLA118747859745_102026-F.jpg",
+      "preco": 1921.88,
+      "precoDe": 2668,
+      "desconto": 22,
+      "cupom": "CUSTAPOUCO",
+      "enviadoEm": "2026-10-08T12:23:04.798Z"
+    },
+    {
+      "id": "27784",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Baby Premium Protection G 30 Uni 8 A 12,5kg Personal Grande (g) Sem Gênero",
+      "link": "https://meli.la/1wEHzbA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746906-MLA102881522453_122025-F.jpg",
+      "preco": 38.99,
+      "precoDe": 47.89,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:19:31.895Z"
+    },
+    {
+      "id": "27781",
+      "loja": "Mercado Livre",
+      "titulo": "Rompecabezas De Alambre De Metal, Iq Test, Juegos &se",
+      "link": "https://meli.la/18x7hSt",
+      "imagem": "https://http2.mlstatic.com/D_876070-CBT104441704006_012026-F.jpg",
+      "preco": 17.880000000000003,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SALVAMEUBOLSO",
+      "enviadoEm": "2026-10-08T12:18:45.988Z"
+    },
+    {
+      "id": "27776",
+      "loja": "Amazon",
+      "titulo": "Óculos de Sol Ray-Ban Justin Unissex, Preto, Tamanho 57",
+      "link": "https://www.amazon.com.br/dp/B07GFVTKS4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21Bt-AcAVuL._SL400_.jpg",
+      "preco": 397.9,
+      "precoDe": 790,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:14:56.801Z"
+    },
+    {
+      "id": "27771",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
+      "link": "https://meli.la/2Pr9hN8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
+      "preco": 48.3,
+      "precoDe": 63.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:07:47.970Z"
+    },
+    {
+      "id": "27767",
+      "loja": "Amazon",
+      "titulo": "Aspirador de Pó Philco Vertical 2 em 1 1450w Preto Pas1600p - 127",
+      "link": "https://www.amazon.com.br/dp/B0C4476NM8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21IpNNJ9LAL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 241,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T12:06:57.172Z"
+    },
     {
       "id": "27759",
       "loja": "Shopee",
@@ -1345,102 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-07T17:04:18.060Z"
-    },
-    {
-      "id": "27425",
-      "loja": "Shopee",
-      "titulo": "Kit Higiene Meu Bebê Jequiti 7 Itens Bolsa Organizadora Porta Chupeta Shampoo Condicionador Sabonete Líquido Loção Hidra",
-      "link": "https://s.shopee.com.br/1qccl3UBl2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqz0kk9q3pxg2f_tn",
-      "preco": 124.9,
-      "precoDe": 140.34,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:03:29.912Z"
-    },
-    {
-      "id": "27423",
-      "loja": "Mercado Livre",
-      "titulo": "12 Un Bebida Vegana 15g Proteína Vegetal Caramelo Salgado",
-      "link": "https://meli.la/2rVGfSP",
-      "imagem": "https://http2.mlstatic.com/D_639506-MLB114664353317_072026-F.jpg",
-      "preco": 34.9,
-      "precoDe": 131.9,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:59:59.792Z"
-    },
-    {
-      "id": "27418",
-      "loja": "Shopee",
-      "titulo": "dorsel com mosquiteiro para berço americano dorcel bebe promoção",
-      "link": "https://s.shopee.com.br/9zyKTIDx1g",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mex5pby3n1tvba_tn",
-      "preco": 74.15,
-      "precoDe": 112.35,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:56:38.636Z"
-    },
-    {
-      "id": "27416",
-      "loja": "Amazon",
-      "titulo": "ROYAL CANIN Ração Veterinary Hypoallergenic Small, Cães Adultos 2kg",
-      "link": "https://www.amazon.com.br/dp/B07Y2CTX4L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31KFKPVPGjL._SL400_.jpg",
-      "preco": 139.9,
-      "precoDe": 178.4,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:53:05.165Z"
-    },
-    {
-      "id": "27415",
-      "loja": "Mercado Livre",
-      "titulo": "Fone Ouvido Soundcore Liberty 5 Bluetooth 5.4 ANC 3.0 Redução de Voz 2X Dolby Áudio Hi-Res LDAC Graves Dinâmicos 48h IP55 Carregamento Rápido 6 Mics IA Chamadas Claras App Personal",
-      "link": "https://meli.la/15sLgjj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_983191-MLA99464308896_112025-F.jpg",
-      "preco": 529,
-      "precoDe": 799,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:50:04.828Z"
-    },
-    {
-      "id": "27414",
-      "loja": "Amazon",
-      "titulo": "Estrela, Jogo Tapa Certo",
-      "link": "https://www.amazon.com.br/dp/B07CBL2H3M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Xb46s+3jL._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": 39.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:46:25.921Z"
-    },
-    {
-      "id": "27412",
-      "loja": "Shopee",
-      "titulo": "Cadeira Para Auto 0-36 Kg Mass Preta Litet - BB456",
-      "link": "https://s.shopee.com.br/8Kq6TuSJ5F",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv8xe4u0mjyn59_tn",
-      "preco": 549,
-      "precoDe": 998.18,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:45:14.840Z"
-    },
-    {
-      "id": "27411",
-      "loja": "Shopee",
-      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "link": "https://s.shopee.com.br/2qV9vgCTRo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f_tn",
-      "preco": 79.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:42:13.898Z"
     }
   ]
 }
