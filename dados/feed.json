@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-08T14:46:09.515Z",
+  "atualizadoEm": "2026-10-08T15:05:38.586Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27886",
+      "loja": "Shopee",
+      "titulo": "KY2 Pro Sem Fio Bluetooth 5.3 Fone De Ouvido Único Tampões Ultra Longa Vida Útil Da Bateria Negócios Esportes Fones Com",
+      "link": "https://s.shopee.com.br/5At6By547S",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lufrk06tgqr7d8_tn",
+      "preco": 8.2,
+      "precoDe": 21.03,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T15:01:32.911Z"
+    },
+    {
+      "id": "27885",
+      "loja": "Mercado Livre",
+      "titulo": "Lagarta de Atividades, Fisher Price",
+      "link": "https://meli.la/2uvuf9Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759161-MLA79170328814_092024-O.webp",
+      "preco": 82.9,
+      "precoDe": 129.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T14:57:22.220Z"
+    },
     {
       "id": "27871",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-07T18:03:07.321Z"
-    },
-    {
-      "id": "27485",
-      "loja": "Shopee",
-      "titulo": "Toalha de Banho Bebe com Capuz + Kit 6 Toalhinhas Boca Bebê Babete Estampas Suaves e Delicadas",
-      "link": "https://s.shopee.com.br/113VpiyG08",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqwiqdr7z4ef56_tn",
-      "preco": 39.99,
-      "precoDe": 49.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T18:02:12.172Z"
-    },
-    {
-      "id": "27481",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
-      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
-      "preco": 42.75,
-      "precoDe": 72.65,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:58:52.057Z"
     }
   ]
 }
