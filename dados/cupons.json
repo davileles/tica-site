@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T21:34:16.608Z",
+  "atualizadoEm": "2026-10-08T22:01:14.154Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime e pagamentos com cartão Porto Bank Visa",
       "validadeAte": "2026-10-09T03:03:17.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "CUPOMPRIME10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-08T22:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -72,6 +60,18 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-09T20:00:03.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "PRIMEHOJE",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 400,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-09T22:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -663,18 +663,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-08T22:00:30.576Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITETODO0810",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1248,30 +1236,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROSEJOGOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-08T22:00:33.066Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-08T22:00:01.067Z",
       "url": "https://meli.la/2xystLt"
     },
     {
