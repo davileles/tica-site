@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T18:34:15.121Z",
+  "atualizadoEm": "2026-10-08T20:04:14.970Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime e pagamentos com cartão Porto Bank Visa",
       "validadeAte": "2026-10-09T03:03:17.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "CURTEPRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Exclusivo para membros Prime",
-      "validadeAte": "2026-10-08T20:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -72,6 +60,18 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-09T15:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "VOCEPRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-09T20:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -181,6 +181,18 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "10DO10",
+      "loja": "Camicado",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17790&id=1207116"
     },
     {
       "codigo": "DUFRIO50",
@@ -564,18 +576,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T20:32:15.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PAYDAY17H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T20:02:16.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
