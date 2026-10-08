@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T12:34:45.683Z",
+  "atualizadoEm": "2026-10-08T13:04:45.275Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -567,18 +567,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PELANDO200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T12:58:47.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PAYDAY200",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -612,30 +600,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-08T20:31:33.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "SAUDADE40",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para contas selecionadas",
-      "validadeAte": "2026-10-08T12:51:21.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PAYDAY10H",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T13:04:08.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
