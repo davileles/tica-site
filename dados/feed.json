@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-08T13:34:42.495Z",
+  "atualizadoEm": "2026-10-08T14:04:42.569Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27853",
+      "loja": "Amazon",
+      "titulo": "Mustela Bálsamo Peitoral Reconfortante 40 ml, Mustela Bebê, Azul, 40 ml",
+      "link": "https://www.amazon.com.br/dp/B073ZGK2JV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZFgCi8XhS._SL400_.jpg",
+      "preco": 63.9,
+      "precoDe": 95.95,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T14:00:44.483Z"
+    },
+    {
+      "id": "27852",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Carmenere 750ml",
+      "link": "https://www.amazon.com.br/dp/B01IT28BY2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V+HEoX0TL._SL400_.jpg",
+      "preco": 37.21,
+      "precoDe": 69.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:59:35.507Z"
+    },
+    {
+      "id": "27850",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
+      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
+      "preco": 19.76,
+      "precoDe": 39.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:58:19.966Z"
+    },
+    {
+      "id": "27849",
+      "loja": "Shopee",
+      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "link": "https://s.shopee.com.br/8Kq7sv0THM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
+      "preco": 44.9,
+      "precoDe": 74.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:52:24.173Z"
+    },
+    {
+      "id": "27847",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Feminina Daily Insider",
+      "link": "https://meli.la/2HyWudo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636739-MLB110309361060_052026-O.webp",
+      "preco": 55.1,
+      "precoDe": 149,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:49:04.101Z"
+    },
+    {
+      "id": "27846",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Interativo Foguete De Atividades",
+      "link": "https://meli.la/19CvwV5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_733807-MLB103745313348_012026-O.webp",
+      "preco": 51.41,
+      "precoDe": 78.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:45:34.803Z"
+    },
     {
       "id": "27838",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-07T17:53:56.748Z"
-    },
-    {
-      "id": "27476",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 143.89999999999998,
-      "precoDe": 246.01,
-      "desconto": 35,
-      "cupom": "MEGAOFERTA10",
-      "enviadoEm": "2026-10-07T17:52:59.576Z"
-    },
-    {
-      "id": "27475",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Smart Monitor TV 43\", HD, Plataforma Tizen™",
-      "link": "https://meli.la/2DkKh1x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893483-MLA101918794951_122025-F.jpg",
-      "preco": 1384,
-      "precoDe": 2299,
-      "desconto": 39,
-      "cupom": "COMPRANOML",
-      "enviadoEm": "2026-10-07T17:52:02.149Z"
-    },
-    {
-      "id": "27474",
-      "loja": "Amazon",
-      "titulo": "Aberlour 12 Anos 700ml",
-      "link": "https://www.amazon.com.br/dp/B009SS9CKY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31e7rFZUd6L._SL400_.jpg",
-      "preco": 319,
-      "precoDe": 431.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:48:03.510Z"
-    },
-    {
-      "id": "27471",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
-      "preco": 143.89,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": "MEGAOFERTA10",
-      "enviadoEm": "2026-10-07T17:47:03.326Z"
-    },
-    {
-      "id": "27470",
-      "loja": "Shopee",
-      "titulo": "Kit 7 Laços de bebê Faixa Laço Turbantes Bebê Menina Macio Confortável RN até 8 anos",
-      "link": "https://s.shopee.com.br/9KidjaP9ZT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mo0dx8idonwg01_tn",
-      "preco": 34,
-      "precoDe": 48.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:45:51.050Z"
-    },
-    {
-      "id": "27469",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
-      "preco": 93.96000000000001,
-      "precoDe": 178.9,
-      "desconto": 42,
-      "cupom": "MEGAOFERTA10",
-      "enviadoEm": "2026-10-07T17:41:50.554Z"
     }
   ]
 }
