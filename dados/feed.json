@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-08T11:34:42.495Z",
+  "atualizadoEm": "2026-10-08T12:04:42.494Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27759",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/5At5zCLTkq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:55:57.213Z"
+    },
+    {
+      "id": "27757",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW42XD6C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UM2ArDlsL._SL400_.jpg",
+      "preco": 97.98,
+      "precoDe": 119.9,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:50:58.706Z"
+    },
+    {
+      "id": "27756",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51A9ytNWP1L._SL400_.jpg",
+      "preco": 102.37,
+      "precoDe": 129.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:49:54.441Z"
+    },
+    {
+      "id": "27751",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51QuZr5vS7L._SL400_.jpg",
+      "preco": 97.98,
+      "precoDe": 109.99,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:49:05.645Z"
+    },
+    {
+      "id": "27749",
+      "loja": "Amazon",
+      "titulo": "ORAL-B Disney Frozen Escova de Dente Elétrica para Crianças Macia",
+      "link": "https://www.amazon.com.br/dp/B0CXL7LNPQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419Ku8b+lnL._SL400_.jpg",
+      "preco": 189.98,
+      "precoDe": 336.3,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:47:52.531Z"
+    },
+    {
+      "id": "27748",
+      "loja": "Amazon",
+      "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
+      "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wypFt67SL._SL400_.jpg",
+      "preco": 54.99,
+      "precoDe": 93.6,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:46:49.459Z"
+    },
     {
       "id": "27740",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-07T16:42:13.898Z"
-    },
-    {
-      "id": "27410",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Nichos Prateleira Borboleta Para Bebê Infantil Quarto e Sala",
-      "link": "https://s.shopee.com.br/2VsJWpoo3W",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhh06l68d3pefb_tn",
-      "preco": 36.94,
-      "precoDe": 69.7,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:38:37.391Z"
-    },
-    {
-      "id": "27407",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Macacão Bebê Roupa Menino Ziper Algodão Vira Pé Inverno Enxoval Macio Inverno Verão",
-      "link": "https://s.shopee.com.br/1qccj3IgK8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-msgbx45fi39gb8_tn",
-      "preco": 79.89,
-      "precoDe": 210.24,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:35:35.408Z"
-    },
-    {
-      "id": "27404",
-      "loja": "Amazon",
-      "titulo": "The Macallan Whisky Double Cask 12 Anos 700ml",
-      "link": "https://www.amazon.com.br/dp/B079FYVVLF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ioJ6UO3mL._SL400_.jpg",
-      "preco": 664.9,
-      "precoDe": 1135,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:31:38.556Z"
-    },
-    {
-      "id": "27403",
-      "loja": "Mercado Livre",
-      "titulo": "Protetor De Colchão Queen Impermeável Comfort Malha Temima",
-      "link": "https://meli.la/1iw5YNV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965143-MLA116399621823_082026-F.jpg",
-      "preco": 84.66999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTASMELI",
-      "enviadoEm": "2026-10-07T16:30:38.125Z"
-    },
-    {
-      "id": "27401",
-      "loja": "Shopee",
-      "titulo": "Macacão Jeans Infantil Feminino 1 a 4 Anos Jardineira Kids Com Elástico na Cintura Confortável",
-      "link": "https://s.shopee.com.br/8AWgGFJ567",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-msdavgwcpkhy08_tn",
-      "preco": 35.2,
-      "precoDe": 55,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:27:21.019Z"
-    },
-    {
-      "id": "27397",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Aoc Led 43 Full Hd Wi-fi Roku Tv Sem Bordas",
-      "link": "https://meli.la/27BQGuE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955049-MLB107240856967_022026-O.webp",
-      "preco": 1168,
-      "precoDe": 1539,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:23:30.358Z"
     }
   ]
 }
