@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T15:34:41.208Z",
+  "atualizadoEm": "2026-10-08T16:05:15.325Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1203,6 +1203,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESPORTES0810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-09T16:03:56.146Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELHORDODIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1284,6 +1296,18 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SOM0810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-09T16:03:34.239Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1453,18 +1477,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "L4T4MPASS20PB",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido até atingir o limite de uso",
-      "validadeAte": "2026-10-08T15:35:22.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "J4D3SP3RT4",
