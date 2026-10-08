@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-08T20:49:39.999Z",
+  "atualizadoEm": "2026-10-08T21:04:12.355Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28172",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/2LYvDYxGvA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
+      "preco": 34.9,
+      "precoDe": 81.16,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T21:03:54.331Z"
+    },
+    {
+      "id": "28168",
+      "loja": "Amazon",
+      "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/dp/B09B8QFYZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL400_.jpg",
+      "preco": 329,
+      "precoDe": 649,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T20:56:35.936Z"
+    },
     {
       "id": "28163",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-08T11:55:57.213Z"
-    },
-    {
-      "id": "27757",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW42XD6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UM2ArDlsL._SL400_.jpg",
-      "preco": 97.98,
-      "precoDe": 119.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T11:50:58.706Z"
-    },
-    {
-      "id": "27756",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51A9ytNWP1L._SL400_.jpg",
-      "preco": 102.37,
-      "precoDe": 129.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T11:49:54.441Z"
     }
   ]
 }
