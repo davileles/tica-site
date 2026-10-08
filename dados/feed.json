@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-08T11:19:39.430Z",
+  "atualizadoEm": "2026-10-08T11:34:42.495Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27740",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/4B0YlmTXNp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T11:32:29.276Z"
+    },
     {
       "id": "27725",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-07T16:23:30.358Z"
-    },
-    {
-      "id": "27395",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Labirinto Magnético Montessori",
-      "link": "https://meli.la/1vqN64w",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636247-MLB116908545779_082026-O.webp",
-      "preco": 24.64,
-      "precoDe": 58.67,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T16:20:04.849Z"
     }
   ]
 }
