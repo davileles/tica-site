@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T20:34:15.656Z",
+  "atualizadoEm": "2026-10-08T21:04:15.194Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -589,18 +589,6 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PAYDAY200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons do Magalu com diferentes valores de desconto e mínimos de compra",
-      "validadeAte": "2026-10-08T21:01:53.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "RESSACA200",
@@ -1359,6 +1347,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODANOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-09T20:51:36.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUSTAPOUCO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1443,18 +1443,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "PREZUNIC",
-      "loja": "Outro: iFood",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 34.9,
-      "observacao": "50% OFF com limite de desconto de R$ 34,90",
-      "validadeAte": "2026-10-08T20:49:59.000Z",
-      "url": null
-    },
-    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -1512,6 +1500,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-09T11:12:08.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "M0DA15OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-09T20:50:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "MODA15SHO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para Lojas Oficiais e categoria Moda",
+      "validadeAte": "2026-10-09T20:50:12.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
