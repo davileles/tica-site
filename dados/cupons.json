@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T13:04:45.275Z",
+  "atualizadoEm": "2026-10-08T13:15:01.361Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1152,6 +1152,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOBRINQUEDOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom válido em selecionados (brinquedos). Desconto de 20% em compras acima de R$79, com limite máximo de desconto de R$50.",
+      "validadeAte": "2026-10-09T13:09:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
