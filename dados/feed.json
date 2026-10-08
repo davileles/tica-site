@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-08T13:14:58.760Z",
+  "atualizadoEm": "2026-10-08T13:34:42.495Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "27838",
+      "loja": "Shopee",
+      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
+      "link": "https://s.shopee.com.br/113X7sWNFg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
+      "preco": 17.97,
+      "precoDe": 42.79,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:27:43.737Z"
+    },
+    {
+      "id": "27834",
+      "loja": "Amazon",
+      "titulo": "Lavador Nasal Seringa 2 unidades, Buba",
+      "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PmDnWl-2L._SL400_.jpg",
+      "preco": 12.36,
+      "precoDe": 17.72,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:18:46.689Z"
+    },
+    {
+      "id": "27833",
+      "loja": "Amazon",
+      "titulo": "Nebacetin Baby Prevenção Pomada Contra Assaduras 120g - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas do Bebê",
+      "link": "https://www.amazon.com.br/dp/B0CN7B3864?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41oj1QHdn1L._SL400_.jpg",
+      "preco": 41.9,
+      "precoDe": 59.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T13:17:45.116Z"
+    },
     {
       "id": "27820",
       "loja": "Shopee",
@@ -1405,42 +1441,6 @@
       "desconto": 42,
       "cupom": "MEGAOFERTA10",
       "enviadoEm": "2026-10-07T17:41:50.554Z"
-    },
-    {
-      "id": "27466",
-      "loja": "Shopee",
-      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
-      "link": "https://s.shopee.com.br/AUub7Tiucx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
-      "preco": 19.9,
-      "precoDe": 39.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:40:34.280Z"
-    },
-    {
-      "id": "27465",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
-      "preco": 143.88,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": "MEGAOFERTA10",
-      "enviadoEm": "2026-10-07T17:37:25.595Z"
-    },
-    {
-      "id": "27464",
-      "loja": "Shopee",
-      "titulo": "Kit Bebê Completo – Conforto, praticidade e estilo para o seu pequeno",
-      "link": "https://s.shopee.com.br/113VnuzVCm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mnn6mr159w5cae_tn",
-      "preco": 63,
-      "precoDe": 73.26,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-07T17:36:38.427Z"
     }
   ]
 }
