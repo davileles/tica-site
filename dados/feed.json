@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-08T20:34:12.354Z",
+  "atualizadoEm": "2026-10-08T20:49:39.999Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28163",
+      "loja": "Shopee",
+      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
+      "link": "https://s.shopee.com.br/1qceb53IY2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
+      "preco": 116.99,
+      "precoDe": 212.71,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-08T20:39:39.348Z"
+    },
     {
       "id": "28162",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-08T11:49:54.441Z"
-    },
-    {
-      "id": "27751",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51QuZr5vS7L._SL400_.jpg",
-      "preco": 97.98,
-      "precoDe": 109.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T11:49:05.645Z"
     }
   ]
 }
