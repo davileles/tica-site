@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-08T18:04:14.929Z",
+  "atualizadoEm": "2026-10-08T18:34:15.121Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1215,6 +1215,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MLMELHORESPROMOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIUZKIDS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,6 +1248,18 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
