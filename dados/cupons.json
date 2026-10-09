@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-09T03:08:37.357Z",
+  "atualizadoEm": "2026-10-09T03:38:37.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BDBR30",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BDBR10",
+      "loja": "Aliexpress",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "NATORCIDA",
       "loja": "Amazon",
@@ -109,6 +133,18 @@
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "SOBREMESA15",
+      "loja": "Brinox Shop",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
       "codigo": "JOGOSDEPANELASBRINOX",
