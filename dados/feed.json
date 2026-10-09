@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-09T14:20:45.060Z",
+  "atualizadoEm": "2026-10-09T14:38:36.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28404",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/9APGVyt5RF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 79.89,
+      "precoDe": 181.57,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:29:03.599Z"
+    },
     {
       "id": "28397",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-08T18:17:11.051Z"
-    },
-    {
-      "id": "28044",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo Chaves Combinadas 6 Peças Tramontina 42241506",
-      "link": "https://meli.la/15K6dPG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991675-MLA99522143610_122025-F.jpg",
-      "preco": 87.28999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRASML",
-      "enviadoEm": "2026-10-08T18:11:24.413Z"
     }
   ]
 }
