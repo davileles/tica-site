@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T13:08:39.872Z",
+  "atualizadoEm": "2026-10-09T13:38:39.331Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-10-10T01:23:09.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "15PRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-10T13:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1429,6 +1441,30 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "VESPERA50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T13:22:27.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "3AM4NH41010SH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:56:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "M0DA15OFF",
