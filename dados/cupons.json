@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T16:38:39.853Z",
+  "atualizadoEm": "2026-10-09T18:08:39.238Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,16 +627,16 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "RESSACA200",
-      "loja": "Magazine Luiza",
+      "codigo": "MELIMAIS250",
+      "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
+      "valor": 250,
+      "minimo": 1499,
       "maximo": null,
       "limite": null,
-      "observacao": "Dois cupons de desconto fixo em R$ com valores mínimos de compra diferentes",
-      "validadeAte": "2026-10-09T18:00:08.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+      "observacao": null,
+      "validadeAte": "2026-10-10T18:00:15.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "CELULAR0910",
@@ -660,18 +660,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-09T18:00:35.685Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1335,30 +1323,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TIENDAS0810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Segundo cupom válido para listas selecionadas",
-      "validadeAte": "2026-10-09T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS0810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Segundo cupom válido para listas selecionadas",
-      "validadeAte": "2026-10-09T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIMAIS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1392,6 +1356,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T15:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL0910",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em entregas Full. Clique em 'Mostrar mais' para ver lista completa de selecionados.",
+      "validadeAte": "2026-10-10T18:01:54.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
