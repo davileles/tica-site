@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-09T12:38:36.925Z",
+  "atualizadoEm": "2026-10-09T13:08:36.926Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28340",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/1qcff8TcVV",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T13:08:11.512Z"
+    },
+    {
+      "id": "28339",
+      "loja": "Mercado Livre",
+      "titulo": "Colchão Inflável Solteiro Multiuso Aveludado O2Flow Azul",
+      "link": "https://meli.la/1vrk5iK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_692082-MLA115144747336_082026-F.jpg",
+      "preco": 53.2,
+      "precoDe": 99.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T13:04:55.119Z"
+    },
+    {
+      "id": "28320",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Hisense HI-QLED 4K 65\" Polegadas com Dolby Vision, Dolby Gaming e Alexa - 65Q6QV",
+      "link": "https://meli.la/2FYTw4F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660149-MLA116217584556_092026-F.jpg",
+      "preco": 2833,
+      "precoDe": 3999,
+      "desconto": 29,
+      "cupom": "CELULAR0910",
+      "enviadoEm": "2026-10-09T13:01:25.040Z"
+    },
+    {
+      "id": "28322",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Jbl Partybox Stage 320 Bluetooth Portátil Com Show De Luzes E Resistente A Respingos  240w Rms Preta Preto 127/220v",
+      "link": "https://meli.la/1r39BXf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815974-MLA118747859745_102026-O.webp",
+      "preco": 2070,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CELULAR0910",
+      "enviadoEm": "2026-10-09T12:57:58.774Z"
+    },
+    {
+      "id": "28323",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Hp 200 G2i Core 5 16 Graphics 256gb 16gb W11 Home Prateado",
+      "link": "https://meli.la/1SNPVV3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916141-MLB116272908054_092026-O.webp",
+      "preco": 3293,
+      "precoDe": 4887,
+      "desconto": 33,
+      "cupom": "CELULAR0910",
+      "enviadoEm": "2026-10-09T12:54:34.532Z"
+    },
+    {
+      "id": "28324",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Hisense HI-QLED 4K 50\" polegadas com Processador AI, Dolby Vision Atmos e Compatibilidade Alexa - 50Q6QVV",
+      "link": "https://meli.la/1R29rBK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786554-MLA116607503902_092026-F.jpg",
+      "preco": 1754,
+      "precoDe": 2649,
+      "desconto": 34,
+      "cupom": "CELULAR0910",
+      "enviadoEm": "2026-10-09T12:50:50.487Z"
+    },
+    {
+      "id": "28326",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Profissional 4K 55\" LG UHD 55AU801 Processador α7 AI Ger8 Super Upscaling Google Cast Alexa Integrado Controle AI Smart Magic WebOS 25",
+      "link": "https://meli.la/3317F3f",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997328-MLA101890264991_122025-F.jpg",
+      "preco": 2123,
+      "precoDe": 2459,
+      "desconto": 14,
+      "cupom": "CELULAR0910",
+      "enviadoEm": "2026-10-09T12:44:06.265Z"
+    },
+    {
+      "id": "28327",
+      "loja": "Mercado Livre",
+      "titulo": "Carteira Masculina de Couro Legítimo Águia, Preta com Porta Moedas e 7 Cartões",
+      "link": "https://meli.la/1x6Hjqj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794782-MLA112061055359_052026-F.jpg",
+      "preco": 28.4,
+      "precoDe": 46.65,
+      "desconto": 13,
+      "cupom": "PROMOCERTAML",
+      "enviadoEm": "2026-10-09T12:40:40.946Z"
+    },
     {
       "id": "28318",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-08T16:59:12.430Z"
-    },
-    {
-      "id": "27990",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Shorts Bermuda Tactel Elástico Sandrini Academia Sport",
-      "link": "https://meli.la/2LGcBkQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732130-MLB96411913938_102025-O.webp",
-      "preco": 39.99,
-      "precoDe": 81.25,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:55:58.156Z"
-    },
-    {
-      "id": "27984",
-      "loja": "Shopee",
-      "titulo": "SSD WD Green SN350 2TB M.2 2280 NVME PCIE 3.0 3200Mb/s - WDS",
-      "link": "https://s.shopee.com.br/5VVwheBaOs",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zw4-miqcxnabffnq17_tn",
-      "preco": 1589.9,
-      "precoDe": 2091.97,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:52:33.485Z"
-    },
-    {
-      "id": "27982",
-      "loja": "Mercado Livre",
-      "titulo": "Penteadeira Infantil Menina Acessórios Princesa Maquiagem Cor Rosa",
-      "link": "https://meli.la/32w7JS6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965274-MLA99622391302_122025-F.jpg",
-      "preco": 39.9,
-      "precoDe": 119.9,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:49:16.042Z"
-    },
-    {
-      "id": "27981",
-      "loja": "Amazon",
-      "titulo": "Perfume Club de Nuit Urban Man Elixir Eau de Parfum Armaf 105ml",
-      "link": "https://www.amazon.com.br/dp/B0BKZY6YWT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313HuOdEG5L._SL400_.jpg",
-      "preco": 231.47,
-      "precoDe": 299.81,
-      "desconto": 14,
-      "cupom": "APENASPRIME",
-      "enviadoEm": "2026-10-08T16:48:02.838Z"
-    },
-    {
-      "id": "27980",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Lençóis Descartáveis de Papel Hospitalar para Maca 50x50 cm cada rolo",
-      "link": "https://s.shopee.com.br/1BMxXELj4Z",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82620-mky7ry9imkn5d7_tn",
-      "preco": 79.89,
-      "precoDe": 140.16,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:44:39.385Z"
-    },
-    {
-      "id": "27979",
-      "loja": "Shopee",
-      "titulo": "Monitor Gamer TCL 25\" QD-Mini LED 300Hz 1ms 25G64",
-      "link": "https://s.shopee.com.br/7VH14rK9fe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mtiik0il60aq50_tn",
-      "preco": 1339.9,
-      "precoDe": 2093.59,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:41:29.301Z"
-    },
-    {
-      "id": "27974",
-      "loja": "Mercado Livre",
-      "titulo": "Bancada de Ferramentas Infantil 3 em 1 Maleta 31 Peças Maxi Toys",
-      "link": "https://meli.la/1jdNXvS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_931979-MLA99535831206_122025-F.jpg",
-      "preco": 51.349999999999994,
-      "precoDe": 99.9,
-      "desconto": 40,
-      "cupom": "MELIUZKIDS",
-      "enviadoEm": "2026-10-08T16:38:07.968Z"
-    },
-    {
-      "id": "27973",
-      "loja": "Mercado Livre",
-      "titulo": "Escada Alumínio Doméstica 5 Degraus Mor Reforçada Mor Cor Cinza/azul",
-      "link": "https://meli.la/2XXajnG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846655-MLA79899262734_102024-F.jpg",
-      "preco": 89.55,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRASML",
-      "enviadoEm": "2026-10-08T16:36:57.610Z"
     }
   ]
 }
