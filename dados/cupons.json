@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T19:22:32.648Z",
+  "atualizadoEm": "2026-10-09T20:22:32.718Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,18 +72,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-10T15:00:06.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "VOCEPRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-09T20:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1692,6 +1680,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T12:46:34.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ESPORTE15OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T20:16:43.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
