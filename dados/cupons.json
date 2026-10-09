@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T20:22:32.718Z",
+  "atualizadoEm": "2026-10-09T20:52:31.964Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -625,6 +625,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ESQUENTA15",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 500,
+      "limite": null,
+      "observacao": "Válido no app Magalu",
+      "validadeAte": "2026-10-10T20:49:13.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "TODOOSITE",
@@ -1644,30 +1656,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T15:18:40.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "M0DA15OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-09T20:50:06.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "MODA15SHO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons para Lojas Oficiais e categoria Moda",
-      "validadeAte": "2026-10-09T20:50:12.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
