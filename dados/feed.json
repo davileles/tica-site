@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-09T14:08:36.930Z",
+  "atualizadoEm": "2026-10-09T14:20:45.060Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28397",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo De Banho Patinhos C/ Chuveirinho",
+      "link": "https://meli.la/1aQipe3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641873-MLB114552524785_072026-O.webp",
+      "preco": 69.99,
+      "precoDe": 90,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:10:45.058Z"
+    },
+    {
+      "id": "28396",
+      "loja": "Amazon",
+      "titulo": "Candide, Boneco, Funko POP! Butt-Head, Beavis e Butt-Head Detonam - 12 cm",
+      "link": "https://www.amazon.com.br/dp/B0DM3MKB1W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41A-X3h+imL._SL400_.jpg",
+      "preco": 66.26,
+      "precoDe": 199.99,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:09:31.877Z"
+    },
     {
       "id": "28395",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "COMPRASML",
       "enviadoEm": "2026-10-08T18:11:24.413Z"
-    },
-    {
-      "id": "28039",
-      "loja": "Mercado Livre",
-      "titulo": "aweshine Compressor Ar Portátil 150PSI Automotivo com Auxiliar Partida Portátil,5 Modos Inflagem,Auxiliar Partida Veicular Carro Moto Caminhão,Power Bank,digital duplo,lanterna eme",
-      "link": "https://meli.la/2BtJfe8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957986-MLA115648985729_082026-F.jpg",
-      "preco": 158.9,
-      "precoDe": 329,
-      "desconto": 31,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-08T18:06:37.312Z"
-    },
-    {
-      "id": "28035",
-      "loja": "Mercado Livre",
-      "titulo": "Andador Infantil Princesas Do Gelo Style - Biemme Cor Outro",
-      "link": "https://meli.la/2qVwNM2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759451-MLA100030403155_122025-F.jpg",
-      "preco": 236.28000000000003,
-      "precoDe": 399,
-      "desconto": 15,
-      "cupom": "PRECINHOBOM",
-      "enviadoEm": "2026-10-08T17:58:08.967Z"
     }
   ]
 }
