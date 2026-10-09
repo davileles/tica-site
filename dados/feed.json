@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-09T22:52:29.608Z",
+  "atualizadoEm": "2026-10-09T23:03:51.988Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28758",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Triple Mash 700ml",
+      "link": "https://www.amazon.com.br/dp/B09ZLSZ869?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jDnDeTqNL._SL400_.jpg",
+      "preco": 158.07999999999998,
+      "precoDe": 249.9,
+      "desconto": 26,
+      "cupom": "NOITEPRIME15",
+      "enviadoEm": "2026-10-09T22:53:51.987Z"
+    },
     {
       "id": "28754",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-10-09T13:59:10.795Z"
-    },
-    {
-      "id": "28390",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Smart TV 65\" Mini LED 4K M75H 26/2027",
-      "link": "https://meli.la/2aLsjEz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857357-MLA116062135096_092026-F.jpg",
-      "preco": 3494,
-      "precoDe": 4199,
-      "desconto": 5,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-09T13:58:12.110Z"
     }
   ]
 }
