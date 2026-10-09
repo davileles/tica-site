@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-09T12:08:36.924Z",
+  "atualizadoEm": "2026-10-09T12:38:36.925Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28318",
+      "loja": "Mercado Livre",
+      "titulo": "Kit De Internet Via Satélite Starlink Mini",
+      "link": "https://meli.la/1htAv4V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717451-MLA111543613623_052026-F.jpg",
+      "preco": 327.33000000000004,
+      "precoDe": 890,
+      "desconto": 47,
+      "cupom": "CORREAQUINOML",
+      "enviadoEm": "2026-10-09T12:37:10.775Z"
+    },
+    {
+      "id": "28313",
+      "loja": "Amazon",
+      "titulo": "Copos para Armazenamento de Leite Materno Philips Avent 10 peças Transparente 180 ml",
+      "link": "https://www.amazon.com.br/dp/B07D2FRG8B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Gvij2Z+FL._SL400_.jpg",
+      "preco": 89.29,
+      "precoDe": 149.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T12:33:38.762Z"
+    },
+    {
+      "id": "28306",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Semp 43\" 4k S62 Google Tv Wi-fi Bt Hdmi 2.1 Hdr10+",
+      "link": "https://meli.la/22Th276",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980019-MLB112807565038_072026-O.webp",
+      "preco": 1253,
+      "precoDe": 1999,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T12:29:25.857Z"
+    },
+    {
+      "id": "28303",
+      "loja": "Amazon",
+      "titulo": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aiU8w9YiL._SL400_.jpg",
+      "preco": 1443.04,
+      "precoDe": 1799,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T12:26:07.744Z"
+    },
+    {
+      "id": "28302",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/4VdQo764vc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T12:18:52.973Z"
+    },
+    {
+      "id": "28299",
+      "loja": "Mercado Livre",
+      "titulo": "4 Pneus Firestone Aro 14 F-600 175/70r14 84t T",
+      "link": "https://meli.la/13hB1p6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852990-MLA99343110442_112025-F.jpg",
+      "preco": 1237,
+      "precoDe": 1750,
+      "desconto": 26,
+      "cupom": "FERRAMENTAS0910",
+      "enviadoEm": "2026-10-09T12:15:23.878Z"
+    },
     {
       "id": "28291",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": null,
       "cupom": "COMPRASML",
       "enviadoEm": "2026-10-08T16:36:57.610Z"
-    },
-    {
-      "id": "27971",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Aerolight Transit Black 591ml",
-      "link": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21HPPWBOadL._SL400_.jpg",
-      "preco": 136.12,
-      "precoDe": 259,
-      "desconto": 42,
-      "cupom": "APENASPRIME",
-      "enviadoEm": "2026-10-08T16:35:44.475Z"
-    },
-    {
-      "id": "27969",
-      "loja": "Amazon",
-      "titulo": "Erdinger Cerveja Dunkel Garrafa 500Ml 1Un",
-      "link": "https://www.amazon.com.br/dp/B07Y2CPDHJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LTECHGV5S._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 23.92,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:32:17.986Z"
-    },
-    {
-      "id": "27966",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Oversized 100% Algodão Penteado 30.1 Premium",
-      "link": "https://meli.la/18x9TKa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619216-MLB112001839505_052026-O.webp",
-      "preco": 35.34,
-      "precoDe": 59.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:30:17.317Z"
-    },
-    {
-      "id": "27965",
-      "loja": "Amazon",
-      "titulo": "Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
-      "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ti7piPW0L._SL400_.jpg",
-      "preco": 152.1,
-      "precoDe": 369.99,
-      "desconto": 54,
-      "cupom": "APENASPRIME",
-      "enviadoEm": "2026-10-08T16:27:06.647Z"
-    },
-    {
-      "id": "27960",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Pote De Vidro Marmita Hermetico 640ml Freezer Fitness Forno Micro-ondas Airfryer Com 4 Travas de Super Vedação Borossilicato Conjunto Organizador de Cozinha Geladeira Anti V",
-      "link": "https://meli.la/2V5pECp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734014-MLA116673469009_082026-F.jpg",
-      "preco": 74.84,
-      "precoDe": 149.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T16:26:20.290Z"
-    },
-    {
-      "id": "27955",
-      "loja": "Amazon",
-      "titulo": "Apoiador Zebra Brinquedo Bebês Fisher-Price. Ensina letras e números com luzes e músicas. Ajuda nos primeiros passos. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/dp/B077PZ6L7C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318hxK0FRfL._SL400_.jpg",
-      "preco": 179.1,
-      "precoDe": 329.99,
-      "desconto": 40,
-      "cupom": "APENASPRIME",
-      "enviadoEm": "2026-10-08T16:23:01.544Z"
     }
   ]
 }
