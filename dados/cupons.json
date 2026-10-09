@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T14:20:47.736Z",
+  "atualizadoEm": "2026-10-09T14:38:39.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-10-10T01:23:09.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "NOVONOPRIME",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom para novos assinantes Prime. Resgatar em 30 dias de teste grátis.",
+      "validadeAte": "2026-10-10T14:28:41.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -627,6 +639,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELIMAIS0910",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1151,7 +1175,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-10T14:17:10.000Z",
+      "validadeAte": "2026-10-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1175,7 +1199,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-10T14:17:10.000Z",
+      "validadeAte": "2026-10-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1335,6 +1359,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BOLSOCHEIO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMEXCLUSIVO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1347,15 +1383,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BOLSOCHEIO",
+      "codigo": "TODOSEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 8,
-      "minimo": 149,
+      "minimo": 150,
       "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-10T02:59:00.000Z",
+      "limite": 300,
+      "observacao": "Cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
