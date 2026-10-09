@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T11:38:39.313Z",
+  "atualizadoEm": "2026-10-09T12:08:39.289Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -279,18 +279,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
-      "codigo": "200OFFMESA",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -567,18 +555,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TAB10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -675,15 +651,27 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "SITETODO0810",
+      "codigo": "CELULAR0910",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
+      "valor": 200,
+      "minimo": 1499,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-09T12:02:20.000Z",
+      "validadeAte": "2026-10-10T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -963,18 +951,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SALVAMEUBOLSO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIDESCONTEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -984,6 +960,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREAQUINOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOCERTAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1119,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ACHEINOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULLRESGATE0910",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1140,6 +1128,30 @@
       "limite": 50,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-10T03:00:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIOFFAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEJAESSAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1167,18 +1179,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MUITOBARATO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "A extensão falhou na página só com este cupom (abrir .input-code-modal__action-button @ https://www.voeazul.com.br/br/pt/home «Azul - Linhas Aéreas Brasileiras. O Céu do Brasil é Azul.») — inserir à mão",
-      "validadeAte": "2026-10-09T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAQUININHAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1188,18 +1188,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORDODIA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1311,6 +1299,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FERRAMENTAS0910",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1323,18 +1323,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OPORTUNIDADEML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-09T12:01:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODANOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1344,6 +1332,30 @@
       "limite": 40,
       "observacao": "Cupom válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMEXCLUSIVO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:39.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BOLSOCHEIO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-10T12:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
