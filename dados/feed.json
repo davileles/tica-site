@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-09T15:08:36.938Z",
+  "atualizadoEm": "2026-10-09T15:28:07.070Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28432",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/70Klz9sYZ1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T15:18:07.069Z"
+    },
+    {
+      "id": "28429",
+      "loja": "Mercado Livre",
+      "titulo": "Natura Homem Aromáticos Deo Colônia 100 Ml",
+      "link": "https://meli.la/2UuKUmq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834245-MLA84848492011_052025-F.jpg",
+      "preco": 75.96,
+      "precoDe": 214.9,
+      "desconto": 60,
+      "cupom": "MELILOW",
+      "enviadoEm": "2026-10-09T15:14:50.079Z"
+    },
     {
       "id": "28422",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 42,
       "cupom": "MEGAPRIME",
       "enviadoEm": "2026-10-08T18:33:30.250Z"
-    },
-    {
-      "id": "28056",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Escritório Astrella Sirius Ergonômica com Braços Rebatíveis e Encosto em Mesh Preta",
-      "link": "https://meli.la/1Jtm9Q2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919679-MLA116424788963_082026-F.jpg",
-      "preco": 303.06,
-      "precoDe": 885,
-      "desconto": 51,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-08T18:32:15.353Z"
-    },
-    {
-      "id": "28055",
-      "loja": "Amazon",
-      "titulo": "Vinho Chileno Le Prince Neymar Jr 750ml (Sauv Blanc)",
-      "link": "https://www.amazon.com.br/dp/B0H8ZT7K6S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3107jAtDaKL._SL400_.jpg",
-      "preco": 47.4,
-      "precoDe": 59.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T18:28:51.548Z"
     }
   ]
 }
