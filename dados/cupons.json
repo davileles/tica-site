@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T15:08:39.447Z",
+  "atualizadoEm": "2026-10-09T15:28:09.723Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -564,6 +564,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-13T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CHEGOUMSI",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-30T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1584,6 +1596,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T12:56:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CUP0MD04DM",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T15:18:40.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
