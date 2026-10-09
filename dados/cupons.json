@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-10-08T23:11:38.845Z",
+  "atualizadoEm": "2026-10-09T00:04:13.088Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "MEGAPRIME",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-08T23:44:19.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "PORTO15OFF",
       "loja": "Amazon",
@@ -24,18 +12,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime e pagamentos com cartão Porto Bank Visa",
       "validadeAte": "2026-10-09T03:03:17.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "NOITEPRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-09T00:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -72,6 +48,18 @@
       "limite": 100,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-09T22:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "VIRAPRIME10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Exclusivo para Membros Prime",
+      "validadeAte": "2026-10-10T00:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
