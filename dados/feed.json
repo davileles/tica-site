@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-09T19:52:29.511Z",
+  "atualizadoEm": "2026-10-09T20:22:29.531Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28672",
+      "loja": "Amazon",
+      "titulo": "NTK, Saco de Dormir, Solteiro, Poliéster 190T, Acampamentos, Viper, Preto e Laranja",
+      "link": "https://www.amazon.com.br/dp/B00QK3UAYW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411mtpIQ5GL._SL400_.jpg",
+      "preco": 57.3,
+      "precoDe": 149,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T20:17:57.373Z"
+    },
+    {
+      "id": "28669",
+      "loja": "Shopee",
+      "titulo": "Motoserra A Gasolina 80CC Sabre 22 Polegadas 55CM MOTO SERRA Profissional",
+      "link": "https://s.shopee.com.br/1LgPZ5oNwe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-msvl41oobx1gda_tn",
+      "preco": 469.9,
+      "precoDe": 796.44,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T20:08:33.577Z"
+    },
+    {
+      "id": "28668",
+      "loja": "Amazon",
+      "titulo": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B07XWX898Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51il8rT6f+L._SL400_.jpg",
+      "preco": 29.6,
+      "precoDe": 41.96,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T20:06:03.688Z"
+    },
+    {
+      "id": "28666",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
+      "preco": 145.26,
+      "precoDe": 182.48,
+      "desconto": 12,
+      "cupom": "VCPRIME10",
+      "enviadoEm": "2026-10-09T20:00:26.577Z"
+    },
+    {
+      "id": "28665",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/5fpOiGa9V0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 329.9,
+      "precoDe": 701.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T19:59:21.952Z"
+    },
     {
       "id": "28659",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-09T11:58:13.860Z"
-    },
-    {
-      "id": "28279",
-      "loja": "Shopee",
-      "titulo": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas 500g/1kg /2kg",
-      "link": "https://s.shopee.com.br/LnrotPvTQ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j0-medc35ydcm4m9c_tn",
-      "preco": 10,
-      "precoDe": 14.93,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T11:50:47.518Z"
-    },
-    {
-      "id": "28275",
-      "loja": "Amazon",
-      "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
-      "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-483l4JfL._SL400_.jpg",
-      "preco": 26.58,
-      "precoDe": 41.59,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T11:40:00.112Z"
-    },
-    {
-      "id": "28273",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
-      "link": "https://meli.la/1fig6Li",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682802-MLA99437604022_112025-F.jpg",
-      "preco": 226.26,
-      "precoDe": 255.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T11:39:07.330Z"
-    },
-    {
-      "id": "28272",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho XG, 120 Unidades",
-      "link": "https://meli.la/2B2Sx1b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838715-MLA99441618956_112025-F.jpg",
-      "preco": 236.15,
-      "precoDe": 255.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T11:38:21.043Z"
-    },
-    {
-      "id": "28271",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho G - 136 Unidades",
-      "link": "https://meli.la/2nKLudM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711320-MLA99357426096_112025-F.jpg",
-      "preco": 227.02,
-      "precoDe": 255.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T11:37:18.468Z"
     }
   ]
 }
