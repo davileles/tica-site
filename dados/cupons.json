@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T18:08:39.238Z",
+  "atualizadoEm": "2026-10-09T18:23:31.920Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -625,6 +625,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "MELIMAIS250",
