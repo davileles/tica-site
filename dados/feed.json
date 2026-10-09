@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-09T20:52:29.543Z",
+  "atualizadoEm": "2026-10-09T21:22:29.606Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28716",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
+      "link": "https://s.shopee.com.br/5VVybas3qg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
+      "preco": 116.9,
+      "precoDe": 417.5,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:19:04.473Z"
+    },
+    {
+      "id": "28715",
+      "loja": "Amazon",
+      "titulo": "Champagne Moët Imperial Brut 750ml",
+      "link": "https://www.amazon.com.br/dp/B006DB3HXM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314I4Bdn1lL._SL400_.jpg",
+      "preco": 282.54,
+      "precoDe": 392.12,
+      "desconto": 20,
+      "cupom": "AMOPRIME15",
+      "enviadoEm": "2026-10-09T21:16:34.224Z"
+    },
+    {
+      "id": "28713",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/9pexkmhkqF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 11.99,
+      "precoDe": 22.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:10:26.120Z"
+    },
+    {
+      "id": "28710",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira De Impacto 500 W 3/8 Cinza Tramontina",
+      "link": "https://meli.la/24xQkY2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683134-MLA99440384944_112025-F.jpg",
+      "preco": 77.6,
+      "precoDe": 148.07,
+      "desconto": 34,
+      "cupom": "COMPRASML",
+      "enviadoEm": "2026-10-09T21:04:56.859Z"
+    },
     {
       "id": "28703",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 14,
       "cupom": "CELULAR0910",
       "enviadoEm": "2026-10-09T12:44:06.265Z"
-    },
-    {
-      "id": "28327",
-      "loja": "Mercado Livre",
-      "titulo": "Carteira Masculina de Couro Legítimo Águia, Preta com Porta Moedas e 7 Cartões",
-      "link": "https://meli.la/1x6Hjqj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794782-MLA112061055359_052026-F.jpg",
-      "preco": 28.4,
-      "precoDe": 46.65,
-      "desconto": 13,
-      "cupom": "PROMOCERTAML",
-      "enviadoEm": "2026-10-09T12:40:40.946Z"
-    },
-    {
-      "id": "28318",
-      "loja": "Mercado Livre",
-      "titulo": "Kit De Internet Via Satélite Starlink Mini",
-      "link": "https://meli.la/1htAv4V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717451-MLA111543613623_052026-F.jpg",
-      "preco": 327.33000000000004,
-      "precoDe": 890,
-      "desconto": 47,
-      "cupom": "CORREAQUINOML",
-      "enviadoEm": "2026-10-09T12:37:10.775Z"
-    },
-    {
-      "id": "28313",
-      "loja": "Amazon",
-      "titulo": "Copos para Armazenamento de Leite Materno Philips Avent 10 peças Transparente 180 ml",
-      "link": "https://www.amazon.com.br/dp/B07D2FRG8B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Gvij2Z+FL._SL400_.jpg",
-      "preco": 89.29,
-      "precoDe": 149.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T12:33:38.762Z"
-    },
-    {
-      "id": "28306",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Semp 43\" 4k S62 Google Tv Wi-fi Bt Hdmi 2.1 Hdr10+",
-      "link": "https://meli.la/22Th276",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980019-MLB112807565038_072026-O.webp",
-      "preco": 1253,
-      "precoDe": 1999,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T12:29:25.857Z"
     }
   ]
 }
