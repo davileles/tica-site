@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-09T01:29:22.266Z",
+  "atualizadoEm": "2026-10-09T02:49:24.845Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28237",
+      "loja": "Amazon",
+      "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B07XS8WKYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e8nue5zGL._SL400_.jpg",
+      "preco": 117.57,
+      "precoDe": 161.88,
+      "desconto": 19,
+      "cupom": "NOITEPRIME10",
+      "enviadoEm": "2026-10-09T02:39:24.845Z"
+    },
     {
       "id": "28227",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-10-08T14:00:44.483Z"
-    },
-    {
-      "id": "27852",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Carmenere 750ml",
-      "link": "https://www.amazon.com.br/dp/B01IT28BY2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31V+HEoX0TL._SL400_.jpg",
-      "preco": 37.21,
-      "precoDe": 69.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T13:59:35.507Z"
     }
   ]
 }
