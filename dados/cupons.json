@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T01:29:24.614Z",
+  "atualizadoEm": "2026-10-09T02:09:36.985Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -72,6 +72,18 @@
       "limite": 30,
       "observacao": "Exclusivo para Membros Prime",
       "validadeAte": "2026-10-10T00:00:03.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "NOITEPRIME10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para membros Prime",
+      "validadeAte": "2026-10-10T02:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
