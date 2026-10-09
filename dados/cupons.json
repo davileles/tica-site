@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T14:38:39.423Z",
+  "atualizadoEm": "2026-10-09T15:08:39.447Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -63,15 +63,15 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "APENASPRIME",
+      "codigo": "AMOPRIME15",
       "loja": "Amazon",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
+      "valor": 15,
+      "minimo": 80,
       "maximo": null,
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-09T15:00:02.000Z",
+      "validadeAte": "2026-10-10T15:00:06.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -483,6 +483,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CPUPROMO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "PLAYNINJA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -528,6 +540,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T11:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "AMD10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "10DO10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -591,18 +627,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CUPOMBIKE100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para bicicletas",
-      "validadeAte": "2026-10-09T15:05:39.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "TOMA30",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -636,6 +660,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODOPREDD",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -972,6 +1008,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-10T12:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE0910",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1347,6 +1395,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELI2LOW",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T15:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODANOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1380,6 +1440,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELILOW",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1488,6 +1560,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T13:22:27.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "FESTIVAL50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T14:45:03.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
