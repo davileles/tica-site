@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-09T21:52:29.607Z",
+  "atualizadoEm": "2026-10-09T22:09:53.269Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28737",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 96.03999999999999,
+      "precoDe": 157.9,
+      "desconto": 28,
+      "cupom": "NOITEPRIME15",
+      "enviadoEm": "2026-10-09T21:59:53.268Z"
+    },
+    {
+      "id": "28736",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/1gJG57m1Il",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
+      "preco": 31.5,
+      "precoDe": 42,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:59:05.747Z"
+    },
+    {
+      "id": "28735",
+      "loja": "Mercado Livre",
+      "titulo": "Escada Aluminio Dobrável 3 Degraus Mor",
+      "link": "https://meli.la/2qwi8Ps",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736594-MLA95679961300_102025-F.jpg",
+      "preco": 133.6,
+      "precoDe": 186,
+      "desconto": 10,
+      "cupom": "COMPRASML",
+      "enviadoEm": "2026-10-09T21:54:20.071Z"
+    },
     {
       "id": "28732",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 42,
       "cupom": "CUPOMEXCLUSIVO",
       "enviadoEm": "2026-10-09T13:21:46.231Z"
-    },
-    {
-      "id": "28348",
-      "loja": "Mercado Livre",
-      "titulo": "Mesa Escrivaninha Elétrica Blackair Com Tampo Ajustável",
-      "link": "https://meli.la/1RtZqwK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906774-MLB101516229775_122025-O.webp",
-      "preco": 869.91,
-      "precoDe": 1799,
-      "desconto": 46,
-      "cupom": "MELIMAIS",
-      "enviadoEm": "2026-10-09T13:18:24.351Z"
-    },
-    {
-      "id": "28346",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 521.1,
-      "precoDe": 999.98,
-      "desconto": 42,
-      "cupom": "CUPOMEXCLUSIVO",
-      "enviadoEm": "2026-10-09T13:14:53.058Z"
-    },
-    {
-      "id": "28342",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
-      "link": "https://meli.la/1RYNcPD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-F.jpg",
-      "preco": 879,
-      "precoDe": 1699,
-      "desconto": 48,
-      "cupom": "CUPOMEXCLUSIVO",
-      "enviadoEm": "2026-10-09T13:11:42.125Z"
     }
   ]
 }
