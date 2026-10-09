@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-09T21:35:09.784Z",
+  "atualizadoEm": "2026-10-09T21:52:29.607Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28732",
+      "loja": "Amazon",
+      "titulo": "Licor 43 Chocolate 700ml",
+      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
+      "preco": 140.83999999999997,
+      "precoDe": 189.9,
+      "desconto": 13,
+      "cupom": "AMOPRIME15",
+      "enviadoEm": "2026-10-09T21:51:50.938Z"
+    },
+    {
+      "id": "28730",
+      "loja": "Amazon",
+      "titulo": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPIs - HX-MC004B",
+      "link": "https://www.amazon.com.br/dp/B07H3GFJJ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21TG5F0uv5L._SL400_.jpg",
+      "preco": 86.7,
+      "precoDe": 314,
+      "desconto": 68,
+      "cupom": "NOITEPRIME15",
+      "enviadoEm": "2026-10-09T21:49:52.504Z"
+    },
+    {
+      "id": "28729",
+      "loja": "Amazon",
+      "titulo": "Escrivaninha Industrial em L 2 Peças Trevalla Kuadra ML150 Snow",
+      "link": "https://www.amazon.com.br/dp/B089YBW8SB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51rgdyC9yVL._SL400_.jpg",
+      "preco": 282.78999999999996,
+      "precoDe": 513.36,
+      "desconto": 35,
+      "cupom": "NOITEPRIME15",
+      "enviadoEm": "2026-10-09T21:46:26.521Z"
+    },
+    {
+      "id": "28727",
+      "loja": "Amazon",
+      "titulo": "Water Cooler 360mm Gamdias Aura GL360 V2 ARGB Preto Intel LGA2066 AMD AM5",
+      "link": "https://www.amazon.com.br/dp/B0GJ716T2R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31cfYDDIQUL._SL400_.jpg",
+      "preco": 265.11,
+      "precoDe": 492.48,
+      "desconto": 37,
+      "cupom": "NOITEPRIME15",
+      "enviadoEm": "2026-10-09T21:40:27.639Z"
+    },
+    {
+      "id": "28722",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/9zyNyeYsBt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:36:23.946Z"
+    },
     {
       "id": "28720",
       "loja": "Amazon",
@@ -1381,66 +1441,6 @@
       "desconto": 48,
       "cupom": "CUPOMEXCLUSIVO",
       "enviadoEm": "2026-10-09T13:11:42.125Z"
-    },
-    {
-      "id": "28340",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/1qcff8TcVV",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T13:08:11.512Z"
-    },
-    {
-      "id": "28339",
-      "loja": "Mercado Livre",
-      "titulo": "Colchão Inflável Solteiro Multiuso Aveludado O2Flow Azul",
-      "link": "https://meli.la/1vrk5iK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_692082-MLA115144747336_082026-F.jpg",
-      "preco": 53.2,
-      "precoDe": 99.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T13:04:55.119Z"
-    },
-    {
-      "id": "28320",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Hisense HI-QLED 4K 65\" Polegadas com Dolby Vision, Dolby Gaming e Alexa - 65Q6QV",
-      "link": "https://meli.la/2FYTw4F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660149-MLA116217584556_092026-F.jpg",
-      "preco": 2833,
-      "precoDe": 3999,
-      "desconto": 29,
-      "cupom": "CELULAR0910",
-      "enviadoEm": "2026-10-09T13:01:25.040Z"
-    },
-    {
-      "id": "28322",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa De Som Jbl Partybox Stage 320 Bluetooth Portátil Com Show De Luzes E Resistente A Respingos  240w Rms Preta Preto 127/220v",
-      "link": "https://meli.la/1r39BXf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815974-MLA118747859745_102026-O.webp",
-      "preco": 2070,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CELULAR0910",
-      "enviadoEm": "2026-10-09T12:57:58.774Z"
-    },
-    {
-      "id": "28323",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Hp 200 G2i Core 5 16 Graphics 256gb 16gb W11 Home Prateado",
-      "link": "https://meli.la/1SNPVV3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916141-MLB116272908054_092026-O.webp",
-      "preco": 3293,
-      "precoDe": 4887,
-      "desconto": 33,
-      "cupom": "CELULAR0910",
-      "enviadoEm": "2026-10-09T12:54:34.532Z"
     }
   ]
 }
