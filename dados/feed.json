@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-09T18:23:29.261Z",
+  "atualizadoEm": "2026-10-09T18:36:18.485Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28593",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
+      "link": "https://s.shopee.com.br/1qcg2d4EPr",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 9.9,
+      "precoDe": 26.05,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T18:26:18.483Z"
+    },
     {
       "id": "28594",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-08T22:44:36.464Z"
-    },
-    {
-      "id": "28216",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/1BMxvzqxgO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 25.99,
-      "precoDe": 46.41,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T22:38:16.713Z"
     }
   ]
 }
