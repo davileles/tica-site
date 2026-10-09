@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T12:08:39.289Z",
+  "atualizadoEm": "2026-10-09T12:38:39.512Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -669,9 +669,21 @@
       "valor": 100,
       "minimo": 799,
       "maximo": null,
-      "limite": null,
+      "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-10-10T12:00:11.000Z",
+      "validadeAte": "2026-10-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAIS0910",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom exclusivo MELI+",
+      "validadeAte": "2026-10-10T12:15:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1239,6 +1251,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMO15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BRINQUEDOS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1248,6 +1272,18 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1343,7 +1379,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-10-10T12:00:39.000Z",
+      "validadeAte": "2026-10-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1355,7 +1391,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-10T12:00:11.000Z",
+      "validadeAte": "2026-10-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
