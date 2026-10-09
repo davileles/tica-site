@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-09T14:38:36.938Z",
+  "atualizadoEm": "2026-10-09T15:08:36.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28422",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
+      "link": "https://meli.la/2hVnG8v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
+      "preco": 25.13,
+      "precoDe": 59.9,
+      "desconto": 40,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-10-09T15:07:13.409Z"
+    },
+    {
+      "id": "28419",
+      "loja": "Amazon",
+      "titulo": "Copo Com Alca Remov - Valvula Canudo Colors Azul, Clingo, Azul",
+      "link": "https://www.amazon.com.br/dp/B08XNP9WF6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qRUU3gR6L._SL400_.jpg",
+      "preco": 24.94,
+      "precoDe": 45.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:58:06.667Z"
+    },
+    {
+      "id": "28416",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
+      "link": "https://s.shopee.com.br/8V9ZkKrEen",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
+      "preco": 3.9,
+      "precoDe": 8.86,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:52:06.706Z"
+    },
+    {
+      "id": "28409",
+      "loja": "Amazon",
+      "titulo": "Buba, Mamadeira Easy Flow Nuvem Branca 330ml",
+      "link": "https://www.amazon.com.br/dp/B0DH7357F1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21QjCURrsfL._SL400_.jpg",
+      "preco": 24.49,
+      "precoDe": 36.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T14:43:19.327Z"
+    },
     {
       "id": "28404",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-08T18:28:51.548Z"
-    },
-    {
-      "id": "28051",
-      "loja": "Mercado Livre",
-      "titulo": "Plus do Brasil Cabo Usb Turbo Tipo C Para Samsung Galaxy S26 S25 S24 Plus S23 Fe S22 S21 S20 A16 A15 A22 A13 A14 A55 A53 A54 A06 A05s A20 A21 Apple iPhone 18 17 16 15 Carplay Andro",
-      "link": "https://meli.la/21dZWyw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658550-MLA110156406920_042026-F.jpg",
-      "preco": 13.36,
-      "precoDe": 49.99,
-      "desconto": 62,
-      "cupom": "PRECINHOBOM",
-      "enviadoEm": "2026-10-08T18:27:46.948Z"
-    },
-    {
-      "id": "28047",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Feminino Kappa Park 2.0 Original",
-      "link": "https://meli.la/2JtFnY1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998725-MLB110000096474_042026-O.webp",
-      "preco": 327.16,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TIENDAS0810",
-      "enviadoEm": "2026-10-08T18:24:29.789Z"
-    },
-    {
-      "id": "28046",
-      "loja": "Amazon",
-      "titulo": "Britânia Escova Secadora 4 em 1 BES35 1300W Bivolt Plástico Preto e Roxo",
-      "link": "https://www.amazon.com.br/dp/B0CWLMPX1P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31binhaT-RL._SL400_.jpg",
-      "preco": 95.09,
-      "precoDe": 104.21,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T18:20:23.305Z"
-    },
-    {
-      "id": "28045",
-      "loja": "Shopee",
-      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
-      "link": "https://s.shopee.com.br/AKbCYueLPd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
-      "preco": 20.7,
-      "precoDe": 23,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T18:17:11.051Z"
     }
   ]
 }
