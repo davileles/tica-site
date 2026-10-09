@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-09T15:38:36.939Z",
+  "atualizadoEm": "2026-10-09T16:08:36.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28448",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador Sugador Nasal Elétrico para Limpeza do Nariz do Bebê - Cor Bege",
+      "link": "https://meli.la/2nLvtwM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787350-MLB117820179019_092026-O.webp",
+      "preco": 49.9,
+      "precoDe": 78.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T16:07:45.687Z"
+    },
+    {
+      "id": "28447",
+      "loja": "Amazon",
+      "titulo": "Amstel Ultra Cerveja Puro Malte, Pack de 6 Long Neck 275ml",
+      "link": "https://www.amazon.com.br/dp/B0F8PGW35H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41bGFkZLHrL._SL400_.jpg",
+      "preco": 27.9,
+      "precoDe": 29.94,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T16:04:23.188Z"
+    },
+    {
+      "id": "28444",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Samsung Essential S3, 24\" FHD, 120 Hz, HDMI, Preto",
+      "link": "https://meli.la/2BYcwwX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652104-MLA96195278152_102025-F.jpg",
+      "preco": 436.05,
+      "precoDe": 519,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T15:59:38.839Z"
+    },
+    {
+      "id": "28443",
+      "loja": "Amazon",
+      "titulo": "Water Cooler Kalkan Iota V2 360 RGB 360mm TDP 280W KLK00069",
+      "link": "https://www.amazon.com.br/dp/B0GGTXJD61?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XdFz2e9zL._SL400_.jpg",
+      "preco": 228.81,
+      "precoDe": 288.99,
+      "desconto": 10,
+      "cupom": "AMOPRIME15",
+      "enviadoEm": "2026-10-09T15:56:21.185Z"
+    },
+    {
+      "id": "28442",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XG, 86 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/516Fvc3-vcL._SL400_.jpg",
+      "preco": 83.28,
+      "precoDe": 118.54,
+      "desconto": 17,
+      "cupom": "AMOPRIME15",
+      "enviadoEm": "2026-10-09T15:52:56.024Z"
+    },
+    {
+      "id": "28441",
+      "loja": "Amazon",
+      "titulo": "Geladeira Refrigerador HQ Frost Free Inverter Multidoor 426 Litros Inox HQ-426MDFF (220V)",
+      "link": "https://www.amazon.com.br/dp/B0G1N8GGC9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21UFFy4A4mL._SL400_.jpg",
+      "preco": 2999,
+      "precoDe": 3598.95,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T15:51:53.774Z"
+    },
+    {
+      "id": "28440",
+      "loja": "Amazon",
+      "titulo": "Geladeira Refrigerador HQ Frost Free Multidoor 426 Litros Prata HQ-426MDFF (127V)",
+      "link": "https://www.amazon.com.br/dp/B0DTZQP72X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31gY2YKWAjL._SL400_.jpg",
+      "preco": 2989,
+      "precoDe": 4248.75,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T15:48:17.296Z"
+    },
+    {
+      "id": "28437",
+      "loja": "Shopee",
+      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
+      "link": "https://s.shopee.com.br/8fT000TuRJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
+      "preco": 12.58,
+      "precoDe": 12.97,
+      "desconto": 3,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T15:40:44.205Z"
+    },
     {
       "id": "28436",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-08T19:27:29.411Z"
-    },
-    {
-      "id": "28096",
-      "loja": "Mercado Livre",
-      "titulo": "Cesto De Roupa Rattan 50l Com Tampa Basculada Grande Giplast Nude",
-      "link": "https://meli.la/2PuAWep",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_601213-MLB111343181082_052026-O.webp",
-      "preco": 45.43000000000001,
-      "precoDe": 78,
-      "desconto": 17,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-08T19:24:06.091Z"
-    },
-    {
-      "id": "28092",
-      "loja": "Amazon",
-      "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
-      "link": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HUUt5+o4L._SL400_.jpg",
-      "preco": 419.9,
-      "precoDe": 849.9,
-      "desconto": 47,
-      "cupom": "CURTEPRIME",
-      "enviadoEm": "2026-10-08T19:18:39.285Z"
-    },
-    {
-      "id": "28087",
-      "loja": "Mercado Livre",
-      "titulo": "Tripé Magnético e Bastão Selfie Basike com Controle Bluetooth para Smartphone",
-      "link": "https://meli.la/2bM2nPo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724512-MLA117303613512_102026-F.jpg",
-      "preco": 99.4,
-      "precoDe": 266,
-      "desconto": 47,
-      "cupom": "PRECINHOBOM",
-      "enviadoEm": "2026-10-08T19:15:29.005Z"
-    },
-    {
-      "id": "28081",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER Parafusadeira e Furadeira de Impacto 10mm 12V BCD712VHDK com 28 Acessórios",
-      "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41G1wJ0fB3L._SL400_.jpg",
-      "preco": 188.91,
-      "precoDe": 299,
-      "desconto": 30,
-      "cupom": "APENASPRIME",
-      "enviadoEm": "2026-10-08T19:00:43.177Z"
-    },
-    {
-      "id": "28080",
-      "loja": "Mercado Livre",
-      "titulo": "Câmera Digital Instantânea para Crianças Inova com Impressão Térmica e Tela 2.4\"",
-      "link": "https://meli.la/13XFrZE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_679200-MLA102589249954_122025-F.jpg",
-      "preco": 118.01,
-      "precoDe": 248.29,
-      "desconto": 32,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-08T18:59:36.774Z"
-    },
-    {
-      "id": "28079",
-      "loja": "Amazon",
-      "titulo": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-      "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BHtIf8lZL._SL400_.jpg",
-      "preco": 769,
-      "precoDe": 1399,
-      "desconto": 43,
-      "cupom": "CURTEPRIME",
-      "enviadoEm": "2026-10-08T18:56:25.265Z"
-    },
-    {
-      "id": "28076",
-      "loja": "Mercado Livre",
-      "titulo": "Basike Fone de Ouvido Sem Fio Ear-Clip Ba-FON349 Bluetooth 6.0 , Cancelamento de Ruídos, Estéreo, Bateria 30H, IPX5 Á Prova de Água, Ergonômico e Confortável, Música e Ligações",
-      "link": "https://meli.la/1Jpoet4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_771865-MLA97631356348_112025-F.jpg",
-      "preco": 90.93,
-      "precoDe": 212.86,
-      "desconto": 39,
-      "cupom": "PRECINHOBOM",
-      "enviadoEm": "2026-10-08T18:52:51.341Z"
-    },
-    {
-      "id": "28070",
-      "loja": "Shopee",
-      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "link": "https://s.shopee.com.br/AUucmmVOVB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
-      "preco": 64.72,
-      "precoDe": 80.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T18:39:42.044Z"
     }
   ]
 }
