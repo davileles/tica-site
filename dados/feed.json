@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-09T21:22:29.606Z",
+  "atualizadoEm": "2026-10-09T21:35:09.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28720",
+      "loja": "Amazon",
+      "titulo": "Pais E Filhos Pais & Filhos Mordedor Meu Controle Multi-Colored Tamanho Único",
+      "link": "https://www.amazon.com.br/dp/B08287SRQ9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31L1MNVntjL._SL400_.jpg",
+      "preco": 16.51,
+      "precoDe": 22.57,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:25:09.774Z"
+    },
+    {
+      "id": "28718",
+      "loja": "Amazon",
+      "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+      "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415LptFnx-L._SL400_.jpg",
+      "preco": 22.99,
+      "precoDe": 32.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T21:23:49.975Z"
+    },
     {
       "id": "28716",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 33,
       "cupom": "CELULAR0910",
       "enviadoEm": "2026-10-09T12:54:34.532Z"
-    },
-    {
-      "id": "28324",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Hisense HI-QLED 4K 50\" polegadas com Processador AI, Dolby Vision Atmos e Compatibilidade Alexa - 50Q6QVV",
-      "link": "https://meli.la/1R29rBK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786554-MLA116607503902_092026-F.jpg",
-      "preco": 1754,
-      "precoDe": 2649,
-      "desconto": 34,
-      "cupom": "CELULAR0910",
-      "enviadoEm": "2026-10-09T12:50:50.487Z"
-    },
-    {
-      "id": "28326",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Profissional 4K 55\" LG UHD 55AU801 Processador α7 AI Ger8 Super Upscaling Google Cast Alexa Integrado Controle AI Smart Magic WebOS 25",
-      "link": "https://meli.la/3317F3f",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997328-MLA101890264991_122025-F.jpg",
-      "preco": 2123,
-      "precoDe": 2459,
-      "desconto": 14,
-      "cupom": "CELULAR0910",
-      "enviadoEm": "2026-10-09T12:44:06.265Z"
     }
   ]
 }
