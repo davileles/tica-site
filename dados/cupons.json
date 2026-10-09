@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T18:36:21.099Z",
+  "atualizadoEm": "2026-10-09T18:52:32.261Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1549,6 +1549,18 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
+    },
+    {
+      "codigo": "LOVI1010",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 100,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Ativa à meia-noite. Válido para loja Lovito na Shopee.",
+      "validadeAte": "2026-10-10T18:40:30.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "VESPERA50",
