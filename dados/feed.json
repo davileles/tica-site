@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-08T23:04:12.567Z",
+  "atualizadoEm": "2026-10-09T01:29:22.266Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28227",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FShfyP5iL._SL400_.jpg",
+      "preco": 99,
+      "precoDe": 177.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-09T01:19:22.265Z"
+    },
     {
       "id": "28221",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-08T13:59:35.507Z"
-    },
-    {
-      "id": "27850",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
-      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
-      "preco": 19.76,
-      "precoDe": 39.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-08T13:58:19.966Z"
     }
   ]
 }
