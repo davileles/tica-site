@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-09T22:09:55.752Z",
+  "atualizadoEm": "2026-10-10T00:22:32.033Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -87,15 +87,15 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "VIRAPRIME10",
+      "codigo": "AMANHA10D010",
       "loja": "Amazon",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
+      "valor": 15,
+      "minimo": 100,
       "maximo": null,
-      "limite": 30,
-      "observacao": "Exclusivo para Membros Prime",
-      "validadeAte": "2026-10-10T00:00:03.000Z",
+      "limite": 50,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T00:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1644,6 +1644,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T15:18:40.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "QU4SEL4",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-10T23:59:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
