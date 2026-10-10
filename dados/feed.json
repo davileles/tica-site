@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-10T18:22:29.717Z",
+  "atualizadoEm": "2026-10-10T18:52:29.718Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29176",
+      "loja": "Amazon",
+      "titulo": "Granado Colônia Terrapeutics, Cardamomo E Gengibre, 230ml",
+      "link": "https://www.amazon.com.br/dp/B07SSMCZ7Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GoSzoU8TL._SL400_.jpg",
+      "preco": 53.28,
+      "precoDe": 106,
+      "desconto": 41,
+      "cupom": "CUPOMPRAVC",
+      "enviadoEm": "2026-10-10T18:49:26.512Z"
+    },
+    {
+      "id": "29171",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Barril 5L",
+      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
+      "preco": 78.97,
+      "precoDe": 119.99,
+      "desconto": 23,
+      "cupom": "CUPOMPRAVC",
+      "enviadoEm": "2026-10-10T18:42:56.612Z"
+    },
+    {
+      "id": "29170",
+      "loja": "Mercado Livre",
+      "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
+      "link": "https://meli.la/27L9YfQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
+      "preco": 109.9,
+      "precoDe": 205.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:41:50.315Z"
+    },
+    {
+      "id": "29165",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Ferramentas Kit Com 110 Ferramentas C Maleta Vonder",
+      "link": "https://meli.la/1cgJrEz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_850659-MLB86519227066_062025-O.webp",
+      "preco": 473.95000000000005,
+      "precoDe": 684.18,
+      "desconto": 23,
+      "cupom": "CLIENTEVIP",
+      "enviadoEm": "2026-10-10T18:35:06.017Z"
+    },
+    {
+      "id": "29163",
+      "loja": "Amazon",
+      "titulo": "NAUTICA JASMINE COAST EDP 100ML",
+      "link": "https://www.amazon.com.br/dp/B0DNQNVDX6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21PUBniu9AL._SL400_.jpg",
+      "preco": 101.15,
+      "precoDe": 229.99,
+      "desconto": 48,
+      "cupom": "CUPOMPRAVC",
+      "enviadoEm": "2026-10-10T18:33:55.185Z"
+    },
+    {
+      "id": "29161",
+      "loja": "Shopee",
+      "titulo": "Mini Potes para Congelar Papinha c/ Tampa Hermética Porta Leita em pó Frutas para Bebe adultos Kit c/2/4/8/16",
+      "link": "https://s.shopee.com.br/AAHpYXOpCi",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mic3d2r0aaknfd_tn",
+      "preco": 13.88,
+      "precoDe": 29.53,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:30:31.571Z"
+    },
+    {
+      "id": "29159",
+      "loja": "Shopee",
+      "titulo": "Máquina de Gelo HQ 12kg Turbo Ice Premium HQ-MG12KGDP",
+      "link": "https://s.shopee.com.br/7KxeB8vquM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5o-m6s8p18ipod789_tn",
+      "preco": 377.89,
+      "precoDe": 539.84,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:29:26.548Z"
+    },
+    {
+      "id": "29158",
+      "loja": "Mercado Livre",
+      "titulo": "TESTO ESSENCIAL para MULHERES - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Biotina + Vitaminas B6 e B12 - 60 Cápsulas",
+      "link": "https://meli.la/196kyVS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772877-MLA118613528991_102026-F.jpg",
+      "preco": 40.440000000000005,
+      "precoDe": 104.77,
+      "desconto": 45,
+      "cupom": "MELICOMPRA",
+      "enviadoEm": "2026-10-10T18:28:25.038Z"
+    },
     {
       "id": "29157",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-10T11:52:43.793Z"
-    },
-    {
-      "id": "28850",
-      "loja": "Mercado Livre",
-      "titulo": "Quarto Bebê Berço Americano Marquesa Guarda Roupa Cômoda Uli",
-      "link": "https://meli.la/2WWKg5J",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621695-MLB111598344921_052026-O.webp",
-      "preco": 914.25,
-      "precoDe": 2049,
-      "desconto": 41,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-10T11:49:30.449Z"
-    },
-    {
-      "id": "28845",
-      "loja": "Shopee",
-      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
-      "link": "https://s.shopee.com.br/7ptuKrSr55",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
-      "preco": 76.43,
-      "precoDe": 149.86,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:48:21.918Z"
-    },
-    {
-      "id": "28837",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador Portátil De Mão Recarregável, 199 Níveis, Modo De Resfriamento, Mini Ventilador Com Bateria De 10000mAh E Display Digital, Silencioso E Potente Para Viagens E Escritório",
-      "link": "https://meli.la/2XiaHDF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_627848-MLA96862550459_102025-F.jpg",
-      "preco": 74.87,
-      "precoDe": 212.41,
-      "desconto": 53,
-      "cupom": "COMPRANOMELI",
-      "enviadoEm": "2026-10-10T11:40:04.268Z"
-    },
-    {
-      "id": "28836",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KPQQWF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qPR0GHy8L._SL400_.jpg",
-      "preco": 35.3,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:36:50.319Z"
-    },
-    {
-      "id": "28835",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
-      "link": "https://meli.la/13KoUwK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
-      "preco": 864.1800000000001,
-      "precoDe": 1549.4,
-      "desconto": 38,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-10-10T11:35:38.396Z"
-    },
-    {
-      "id": "28834",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KV2733?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mkRUpyKEL._SL400_.jpg",
-      "preco": 35.31,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:32:03.716Z"
-    },
-    {
-      "id": "28832",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KWB62Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qbt3WOV7L._SL400_.jpg",
-      "preco": 37.79,
-      "precoDe": 50.04,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:30:51.442Z"
-    },
-    {
-      "id": "28829",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KaiafcWwL._SL400_.jpg",
-      "preco": 35.77,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:29:51.197Z"
     }
   ]
 }
