@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-10T13:52:29.623Z",
+  "atualizadoEm": "2026-10-10T14:22:29.623Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28964",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Max Titanium monohidratada micronizada pura em cápsula Sem sabor de 120 un",
+      "link": "https://meli.la/2C6BLUK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817380-MLA117539652617_092026-F.jpg",
+      "preco": 30.29,
+      "precoDe": 69.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T14:21:48.169Z"
+    },
+    {
+      "id": "28963",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50Cm Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/6fhx6d0SGB",
+      "imagem": "https://cf.shopee.com.br/file/114b8a3d9a17109f7c10e25c5a585f64_tn",
+      "preco": 14.59,
+      "precoDe": 26.53,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T14:18:05.392Z"
+    },
+    {
+      "id": "28960",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola De Água Elétrica Automática C/ Absorção De Água Branco",
+      "link": "https://meli.la/1omw1kY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729397-MLA114557456096_082026-F.jpg",
+      "preco": 59.849999999999994,
+      "precoDe": 189.98,
+      "desconto": 58,
+      "cupom": "COMPRANOMELI",
+      "enviadoEm": "2026-10-10T14:10:49.313Z"
+    },
+    {
+      "id": "28959",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4160CXNfUbL._SL400_.jpg",
+      "preco": 46.06,
+      "precoDe": 71.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T14:07:32.111Z"
+    },
+    {
+      "id": "28958",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Acetinado Lily Tradicional O Boticário- Lacrado 250g",
+      "link": "https://meli.la/2hFrX4H",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719770-MLA109736796590_042026-F.jpg",
+      "preco": 82.35,
+      "precoDe": 124.8,
+      "desconto": 12,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-10-10T14:03:00.803Z"
+    },
+    {
+      "id": "28955",
+      "loja": "Amazon",
+      "titulo": "Tramontina 41001118, Alicate Universal 8'', Amarelo",
+      "link": "https://www.amazon.com.br/dp/B076KK1RW8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LOlxI2XnL._SL400_.jpg",
+      "preco": 31.14,
+      "precoDe": 44,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:59:40.216Z"
+    },
+    {
+      "id": "28949",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 115.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:54:57.835Z"
+    },
+    {
+      "id": "28948",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qC35VdCmL._SL400_.jpg",
+      "preco": 49.42,
+      "precoDe": 69.42,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:53:51.691Z"
+    },
     {
       "id": "28946",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-10-09T17:54:10.399Z"
-    },
-    {
-      "id": "28561",
-      "loja": "Mercado Livre",
-      "titulo": "Body Spray Carolina Herrera 212 Men NYC Body Fragrance 250 ml",
-      "link": "https://meli.la/1QJjZb5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806865-MLA84175736968_052025-F.jpg",
-      "preco": 107.8,
-      "precoDe": 258.9,
-      "desconto": 41,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-09T17:50:37.663Z"
-    },
-    {
-      "id": "28560",
-      "loja": "Shopee",
-      "titulo": "Kit Toalha de Banho Bebê com Capuz  3 Fraldas de Boca Bordada Com Cavalinho 68x80cm Enxoval Maternidade",
-      "link": "https://s.shopee.com.br/4LK0yfJTwD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mt9y0wdweu4g67_tn",
-      "preco": 62.9,
-      "precoDe": 92.5,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:47:07.565Z"
-    },
-    {
-      "id": "28554",
-      "loja": "Shopee",
-      "titulo": "Meia Maluca Divertida 3D Halloween Infantil Apliques Premium",
-      "link": "https://s.shopee.com.br/9APGjBfEw2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mswpeqqr5z4763_tn",
-      "preco": 29.9,
-      "precoDe": 52.46,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:43:41.245Z"
-    },
-    {
-      "id": "28548",
-      "loja": "Amazon",
-      "titulo": "Bosch Trena Laser GLM 40 alcance 40m com Bolsa protetora",
-      "link": "https://www.amazon.com.br/dp/B00R0Z7TFM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51rWdv+uq+L._SL400_.jpg",
-      "preco": 368,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "AMOPRIME15",
-      "enviadoEm": "2026-10-09T17:40:21.218Z"
-    },
-    {
-      "id": "28547",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
-      "preco": 66.9,
-      "precoDe": 105.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:39:24.138Z"
-    },
-    {
-      "id": "28546",
-      "loja": "Shopee",
-      "titulo": "Kit Maleta Maquiagem Infantil Lançamento Fashion Completa",
-      "link": "https://s.shopee.com.br/4fwrMTTgC8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mq3pf8uf9zpe3d_tn",
-      "preco": 73.99,
-      "precoDe": 110.43,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:38:26.608Z"
-    },
-    {
-      "id": "28541",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
-      "link": "https://s.shopee.com.br/2VsMmPzoEr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
-      "preco": 39.99,
-      "precoDe": 56.32,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:35:00.633Z"
-    },
-    {
-      "id": "28540",
-      "loja": "Shopee",
-      "titulo": "Garrafinha Infantil 700ml Licenciado Homem-Aranha e Disney + Chaveiro | Com Alça | Escolar Resistente BPA Free",
-      "link": "https://s.shopee.com.br/9pexVj2fFl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mmeq4xr2snic32_tn",
-      "preco": 29.52,
-      "precoDe": 36.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:31:54.757Z"
     }
   ]
 }
