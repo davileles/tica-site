@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T10:22:30.091Z",
+  "atualizadoEm": "2026-10-10T11:22:32.039Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -601,6 +601,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "INFLUDUPLA8H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": 500,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T11:03:56.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "ESQUENTA15",
@@ -1287,6 +1299,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPERDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-11T11:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1692,6 +1716,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T04:07:49.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "1010D4SH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T11:01:10.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
