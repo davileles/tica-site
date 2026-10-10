@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T04:22:30.074Z",
+  "atualizadoEm": "2026-10-10T05:52:30.169Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1404,6 +1404,18 @@
       "limite": 150,
       "observacao": null,
       "validadeAte": "2026-10-11T03:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DIADASCRIANCAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom válido em produtos selecionados da lista fornecida",
+      "validadeAte": "2026-10-11T05:22:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
