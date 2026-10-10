@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T14:22:32.190Z",
+  "atualizadoEm": "2026-10-10T14:52:31.843Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": null,
       "validadeAte": "2026-10-12T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "NOVONOPRIME",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para novos assinantes Prime. Resgatar em 30 dias de teste grátis.",
-      "validadeAte": "2026-10-10T14:28:41.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "PORTO20OFF",
@@ -1343,7 +1331,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-10-11T14:06:53.000Z",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1644,18 +1632,6 @@
       "limite": 60,
       "observacao": "Ativa à meia-noite. Válido para loja Lovito na Shopee.",
       "validadeAte": "2026-10-10T18:40:30.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "FESTIVAL50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T14:45:03.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
