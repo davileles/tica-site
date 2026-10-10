@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T20:52:32.172Z",
+  "atualizadoEm": "2026-10-10T21:06:00.385Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -168,6 +168,18 @@
       "limite": 30,
       "observacao": "Válido no app Amazon",
       "validadeAte": "2026-10-11T20:00:01.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CURTE10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Válido no app Amazon",
+      "validadeAte": "2026-10-11T21:00:01.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -768,6 +780,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T15:02:33.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUDUPLA18H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T21:02:34.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1659,6 +1683,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJAS1010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em lojas oficiais selecionadas",
+      "validadeAte": "2026-10-11T21:01:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODA10DO10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,6 +2016,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T13:23:47.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "EXTRA18AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T21:00:31.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
