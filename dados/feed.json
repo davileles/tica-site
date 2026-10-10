@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-10T13:36:32.721Z",
+  "atualizadoEm": "2026-10-10T13:52:29.623Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28946",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 117.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:48:57.344Z"
+    },
+    {
+      "id": "28945",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Masculinas Polo Wear",
+      "link": "https://meli.la/2uNQGJS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_950390-MLB113675252045_062026-O.webp",
+      "preco": 75.88999999999999,
+      "precoDe": 179.99,
+      "desconto": 53,
+      "cupom": "ANACASTELA10",
+      "enviadoEm": "2026-10-10T13:45:41.892Z"
+    },
+    {
+      "id": "28942",
+      "loja": "Shopee",
+      "titulo": "5 Em 1 Fonte De Energia Carregador Turbo USB-A+USB-C Carregamento rápido 176W",
+      "link": "https://s.shopee.com.br/8pmReBmnon",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mtkb6ksvqgapa4_tn",
+      "preco": 39.9,
+      "precoDe": 90.68,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:42:10.796Z"
+    },
+    {
+      "id": "28934",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho De Pressão Digital Automático Pulso G-tech Gp450sp Cinza",
+      "link": "https://meli.la/2LG8L5A",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730191-MLA112027715613_052026-F.jpg",
+      "preco": 58.92999999999999,
+      "precoDe": 198.98,
+      "desconto": 61,
+      "cupom": "COMPRANOMELI",
+      "enviadoEm": "2026-10-10T13:37:38.819Z"
+    },
     {
       "id": "28927",
       "loja": "Shopee",
@@ -1393,54 +1441,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-10-09T17:31:54.757Z"
-    },
-    {
-      "id": "28538",
-      "loja": "Shopee",
-      "titulo": "kit bolsa maternidade Mala Baú e Mochila  Personalizada",
-      "link": "https://s.shopee.com.br/LnsACgHC3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mrqjda8l3y1158_tn",
-      "preco": 310.2,
-      "precoDe": 360.7,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:28:15.465Z"
-    },
-    {
-      "id": "28534",
-      "loja": "Shopee",
-      "titulo": "7/10/15/20/25 Kit Mochilinha e Raquetes Ping Pong - Bob Esponja",
-      "link": "https://s.shopee.com.br/LnsBmSx04",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgy-m9btge2orr8nf9_tn",
-      "preco": 113.74,
-      "precoDe": 119.73,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:24:47.333Z"
-    },
-    {
-      "id": "28533",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 20 Potes 500ml Transparente Marmita Fitness Bpa Free Reutilizável Tampa Hermética Micro E Freezer Mantimentos Ponte Lar Utilidades",
-      "link": "https://meli.la/2JhjoHc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687195-MLA113406769010_072026-F.jpg",
-      "preco": 38.9,
-      "precoDe": 69.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:21:24.270Z"
-    },
-    {
-      "id": "28528",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível Liso Cores Neutras Sortidas",
-      "link": "https://s.shopee.com.br/7AeCJqxaqa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mtjmffjesl4w4e_tn",
-      "preco": 79.9,
-      "precoDe": 128.87,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:18:00.232Z"
     }
   ]
 }
