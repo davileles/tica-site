@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-10T22:51:51.483Z",
+  "atualizadoEm": "2026-10-10T23:22:29.721Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29339",
+      "loja": "Amazon",
+      "titulo": "Vodka Skyy 750ml",
+      "link": "https://www.amazon.com.br/dp/B08B9M713X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 41.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T23:20:33.648Z"
+    },
     {
       "id": "29327",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 46,
       "cupom": "DIA10DO10",
       "enviadoEm": "2026-10-10T15:13:18.175Z"
-    },
-    {
-      "id": "28991",
-      "loja": "Amazon",
-      "titulo": "Pipoqueira Popflix, Mondial, Vermelho, 1200W, 220V - PP-03",
-      "link": "https://www.amazon.com.br/dp/B07G1FHPDR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-QC9MKI2L._SL400_.jpg",
-      "preco": 116.91000000000001,
-      "precoDe": 189.9,
-      "desconto": 32,
-      "cupom": "PRIME10DO10",
-      "enviadoEm": "2026-10-10T15:09:56.238Z"
     }
   ]
 }
