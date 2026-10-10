@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-10T20:52:29.721Z",
+  "atualizadoEm": "2026-10-10T21:05:57.964Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29277",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 3 Camisetas Oversized Intensas da Cléa Store.",
+      "link": "https://meli.la/2Qco8oq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992098-MLB114381143209_072026-O.webp",
+      "preco": 87.18,
+      "precoDe": 387,
+      "desconto": 68,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-10T20:55:57.963Z"
+    },
     {
       "id": "29275",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 30,
       "cupom": "PRIME10DO10",
       "enviadoEm": "2026-10-10T14:22:38.001Z"
-    },
-    {
-      "id": "28964",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Max Titanium monohidratada micronizada pura em cápsula Sem sabor de 120 un",
-      "link": "https://meli.la/2C6BLUK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817380-MLA117539652617_092026-F.jpg",
-      "preco": 30.29,
-      "precoDe": 69.9,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T14:21:48.169Z"
     }
   ]
 }
