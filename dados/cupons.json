@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T18:06:52.179Z",
+  "atualizadoEm": "2026-10-10T18:22:32.009Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1439,7 +1439,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Cupons válidos em selecionados no Mercado Livre",
-      "validadeAte": "2026-10-11T16:34:04.000Z",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1992,6 +1992,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T18:00:14.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "K1T3LSEV10OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo para este produto",
+      "validadeAte": "2026-10-11T18:06:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
