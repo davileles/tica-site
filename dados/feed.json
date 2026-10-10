@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-10T21:05:57.964Z",
+  "atualizadoEm": "2026-10-10T21:16:36.258Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29280",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/3qNmCAUUWu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 35.99,
+      "precoDe": 56.23,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T21:06:36.256Z"
+    },
     {
       "id": "29277",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": 12,
       "cupom": "CLIENTEVIP",
       "enviadoEm": "2026-10-10T14:23:30.155Z"
-    },
-    {
-      "id": "28965",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 143.89999999999998,
-      "precoDe": 229.9,
-      "desconto": 30,
-      "cupom": "PRIME10DO10",
-      "enviadoEm": "2026-10-10T14:22:38.001Z"
     }
   ]
 }
