@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T05:52:30.169Z",
+  "atualizadoEm": "2026-10-10T10:22:30.091Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -651,6 +651,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "10DO10SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T10:01:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SITETODOPREDD",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1224,6 +1236,18 @@
       "limite": 60,
       "observacao": "Válido para todo o site",
       "validadeAte": "2026-10-11T03:01:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRANOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-13T10:02:00.252Z",
       "url": "https://meli.la/2xystLt"
     },
     {
