@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T15:52:31.703Z",
+  "atualizadoEm": "2026-10-10T16:22:31.984Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -108,6 +108,30 @@
       "limite": 15,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T15:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "HOJE10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T16:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "EXTRAPRIME5",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T16:00:09.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -577,6 +601,18 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "INFLU350",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 350,
+      "minimo": 3200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T16:04:32.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "SSG300",
@@ -1301,11 +1337,11 @@
     {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
-      "tipo": "reais",
+      "tipo": "pct",
       "valor": 20,
-      "minimo": 149,
+      "minimo": 249,
       "maximo": null,
-      "limite": 20,
+      "limite": 80,
       "observacao": null,
       "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1479,6 +1515,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRAPREFERIDA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODA10DO10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1533,7 +1581,7 @@
       "valor": 10,
       "minimo": 149,
       "maximo": null,
-      "limite": 200,
+      "limite": 300,
       "observacao": null,
       "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1647,6 +1695,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "BEN3FICIO13AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 120,
+      "minimo": 599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T16:01:29.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "LOVI1010",
       "loja": "Shopee",
       "tipo": "pct",
@@ -1656,6 +1716,18 @@
       "limite": 60,
       "observacao": "Ativa à meia-noite. Válido para loja Lovito na Shopee.",
       "validadeAte": "2026-10-10T18:40:30.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D3SC0NT070",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T16:01:10.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
