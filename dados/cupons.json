@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T13:22:32.224Z",
+  "atualizadoEm": "2026-10-10T13:36:35.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -591,6 +591,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "SSG300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-10-11T13:35:00.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUDUPLA10H",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -600,6 +612,42 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T13:02:04.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SSG200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-10-11T13:35:00.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SSG100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-10-11T13:35:00.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SSG50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-10-11T13:35:00.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -625,30 +673,6 @@
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-10-10T20:49:13.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "MELIMAIS250",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T18:00:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODOPREDD",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE40",
@@ -960,18 +984,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE0910",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1395,30 +1407,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELI2LOW",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL0910",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em entregas Full. Clique em 'Mostrar mais' para ver lista completa de selecionados.",
-      "validadeAte": "2026-10-10T18:01:54.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "REFORMA15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1452,30 +1440,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T12:01:50.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELILOW",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TECNOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 250,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-10T19:09:49.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1755,6 +1719,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "CUP0MD0T3RRY1010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:27:10.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "ESPORTE15OFF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1764,6 +1740,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T20:16:43.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "SUP3RL0J4S15",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:23:47.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
