@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-10T13:22:29.623Z",
+  "atualizadoEm": "2026-10-10T13:36:32.721Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28927",
+      "loja": "Shopee",
+      "titulo": "Cerveja Premium 5L Barril Heineken",
+      "link": "https://s.shopee.com.br/4qGInrymn6",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fn-mh6nhxobu1vzc7_tn",
+      "preco": 88.31,
+      "precoDe": 166.62,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T13:26:32.719Z"
+    },
     {
       "id": "28914",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-09T17:18:00.232Z"
-    },
-    {
-      "id": "28525",
-      "loja": "Shopee",
-      "titulo": "Mini Maquina De Pegar Bichinhos Brinquedo Infantil Garra Amarela Música e Sons Diversão",
-      "link": "https://s.shopee.com.br/4VdR8WriCT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-ms007isofkzpa3_tn",
-      "preco": 109.9,
-      "precoDe": 199.82,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T17:14:16.993Z"
     }
   ]
 }
