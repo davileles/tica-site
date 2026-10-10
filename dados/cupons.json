@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T21:06:00.385Z",
+  "atualizadoEm": "2026-10-10T21:49:50.283Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,18 +48,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T19:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "NOITEPRIME15",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-10T21:30:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1503,18 +1491,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA1010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-11T20:00:18.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1584,6 +1560,18 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados (lista disponível no link)",
       "validadeAte": "2026-10-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
