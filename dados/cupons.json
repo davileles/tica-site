@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T12:52:31.846Z",
+  "atualizadoEm": "2026-10-10T13:22:32.224Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -39,15 +39,15 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "15PRIME",
+      "codigo": "PORTO20OFF",
       "loja": "Amazon",
       "tipo": "pct",
-      "valor": 15,
-      "minimo": 100,
+      "valor": 20,
+      "minimo": 50,
       "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-10T13:00:02.000Z",
+      "limite": 30,
+      "observacao": "Exclusivo para Membros Prime com cartão Porto Bank",
+      "validadeAte": "2026-10-11T13:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -96,6 +96,18 @@
       "limite": 20,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-10T18:30:03.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "PRIME10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T13:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -351,18 +363,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "25OFFAGORA",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "PROMOBIT20",
       "loja": "Kabum",
       "tipo": "pct",
@@ -483,18 +483,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "VEM10DO10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "10NAREDE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -603,6 +591,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INFLUDUPLA10H",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:02:04.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUDUPLA8H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -627,18 +627,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": 250,
-      "observacao": null,
-      "validadeAte": "2026-10-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIMAIS250",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -648,18 +636,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-10T18:00:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE150",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T12:01:50.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1299,6 +1275,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PETSHOP10D10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1367,18 +1355,6 @@
       "maximo": null,
       "limite": 50,
       "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-10-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VALEMAISAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Múltiplos cupons para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1535,7 +1511,19 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-10-11T12:00:06.000Z",
+      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CLIENTEVIP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1659,18 +1647,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "VESPERA50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T13:22:27.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "FESTIVAL50",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1704,18 +1680,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T12:00:10.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "3AM4NH41010SH0P33",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T12:56:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
@@ -1767,6 +1731,30 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "D3STAQUE10AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:00:20.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D3ZP0RD3Z",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:10:21.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "ESPORTE15OFF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1800,6 +1788,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T12:22:01.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "LC5OUT",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 20,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T13:14:42.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
