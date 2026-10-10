@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T16:52:32.012Z",
+  "atualizadoEm": "2026-10-10T17:22:32.123Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -120,6 +120,18 @@
       "limite": 20,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T16:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "AMAZON10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T17:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -612,6 +624,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T16:04:32.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUDUPLA14H",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 320,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T17:04:01.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
