@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-10T16:22:29.625Z",
+  "atualizadoEm": "2026-10-10T16:52:29.630Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29071",
+      "loja": "Amazon",
+      "titulo": "Sentimentômetro",
+      "link": "https://www.amazon.com.br/dp/6526109268?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51sKhAD-6mL._SL400_.jpg",
+      "preco": 28.2,
+      "precoDe": 64.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:51:26.629Z"
+    },
+    {
+      "id": "29065",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Bluetooth Waaw By Alok Boom 110 Prova D'água",
+      "link": "https://meli.la/1Aj98QR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906168-MLA89594004262_082025-O.webp",
+      "preco": 457.08000000000004,
+      "precoDe": 799.9,
+      "desconto": 33,
+      "cupom": "MELIMAIS20",
+      "enviadoEm": "2026-10-10T16:46:46.468Z"
+    },
+    {
+      "id": "29063",
+      "loja": "Amazon",
+      "titulo": "Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades (Embalagem pode variar)",
+      "link": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aRvYjm3DL._SL400_.jpg",
+      "preco": 31.5,
+      "precoDe": 46.01,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:43:41.661Z"
+    },
+    {
+      "id": "29062",
+      "loja": "Mercado Livre",
+      "titulo": "O perfume mais procurado do grupo explodiu!",
+      "link": "https://meli.la/24XjYFo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863486-MLB114945658162_082026-O.webp",
+      "preco": 178.67,
+      "precoDe": 299,
+      "desconto": 30,
+      "cupom": "COMPRAPREFERIDA",
+      "enviadoEm": "2026-10-10T16:40:12.902Z"
+    },
+    {
+      "id": "29060",
+      "loja": "Mercado Livre",
+      "titulo": "Trena Laser Bosch Glm 150-27 C Alcance 150m Com Bluetooth",
+      "link": "https://meli.la/2R1Z36d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796494-MLA99506163420_112025-F.jpg",
+      "preco": 2088,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CLIENTEVIP",
+      "enviadoEm": "2026-10-10T16:36:40.552Z"
+    },
+    {
+      "id": "29059",
+      "loja": "Amazon",
+      "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
+      "link": "https://www.amazon.com.br/dp/B08MKNH3B4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3116nHiD1sL._SL400_.jpg",
+      "preco": 74.36999999999999,
+      "precoDe": 111.84,
+      "desconto": 26,
+      "cupom": "10DO10PRAVC",
+      "enviadoEm": "2026-10-10T16:35:29.774Z"
+    },
+    {
+      "id": "29057",
+      "loja": "Mercado Livre",
+      "titulo": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+      "link": "https://meli.la/2peBiGM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
+      "preco": 227.92,
+      "precoDe": 470,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:31:01.301Z"
+    },
+    {
+      "id": "29056",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Hw Electrolux Maxcomfort Inverter 23k F 220",
+      "link": "https://meli.la/2nwe3Q2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868785-MLB116312289260_092026-O.webp",
+      "preco": 2804,
+      "precoDe": 8679,
+      "desconto": 66,
+      "cupom": "COMPRAPREFERIDA",
+      "enviadoEm": "2026-10-10T16:27:25.024Z"
+    },
     {
       "id": "29051",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-09T21:23:49.975Z"
-    },
-    {
-      "id": "28716",
-      "loja": "Shopee",
-      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "link": "https://s.shopee.com.br/5VVybas3qg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
-      "preco": 116.9,
-      "precoDe": 417.5,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T21:19:04.473Z"
-    },
-    {
-      "id": "28715",
-      "loja": "Amazon",
-      "titulo": "Champagne Moët Imperial Brut 750ml",
-      "link": "https://www.amazon.com.br/dp/B006DB3HXM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314I4Bdn1lL._SL400_.jpg",
-      "preco": 282.54,
-      "precoDe": 392.12,
-      "desconto": 20,
-      "cupom": "AMOPRIME15",
-      "enviadoEm": "2026-10-09T21:16:34.224Z"
-    },
-    {
-      "id": "28713",
-      "loja": "Shopee",
-      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
-      "link": "https://s.shopee.com.br/9pexkmhkqF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
-      "preco": 11.99,
-      "precoDe": 22.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T21:10:26.120Z"
-    },
-    {
-      "id": "28710",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira De Impacto 500 W 3/8 Cinza Tramontina",
-      "link": "https://meli.la/24xQkY2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683134-MLA99440384944_112025-F.jpg",
-      "preco": 77.6,
-      "precoDe": 148.07,
-      "desconto": 34,
-      "cupom": "COMPRASML",
-      "enviadoEm": "2026-10-09T21:04:56.859Z"
-    },
-    {
-      "id": "28703",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
-      "link": "https://s.shopee.com.br/8fT0L5yZqQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
-      "preco": 27.99,
-      "precoDe": 69.97,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:47:39.828Z"
-    },
-    {
-      "id": "28701",
-      "loja": "Mercado Livre",
-      "titulo": "Trena Laser Professional Glm 20 Bosch Alcance 20 Metros",
-      "link": "https://meli.la/1qHnXTt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668687-MLA99498309316_112025-F.jpg",
-      "preco": 285.18,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "COMPRASML",
-      "enviadoEm": "2026-10-09T20:43:49.588Z"
-    },
-    {
-      "id": "28699",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Vinho Chileno Reservado Sauvignon Blanc 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07XTQT7F4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Vnza8jeTL._SL400_.jpg",
-      "preco": 21.15,
-      "precoDe": 36.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:41:19.101Z"
-    },
-    {
-      "id": "28692",
-      "loja": "Mercado Livre",
-      "titulo": "SSD Lexar NM610 Pro de 1 TB M.2 2280 NVMe para PC",
-      "link": "https://meli.la/2WnGHk8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723981-MLA99447833016_112025-F.jpg",
-      "preco": 850,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIMAIS",
-      "enviadoEm": "2026-10-09T20:31:31.145Z"
     }
   ]
 }
