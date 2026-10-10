@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T21:49:50.283Z",
+  "atualizadoEm": "2026-10-10T22:11:45.361Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -168,6 +168,30 @@
       "limite": 15,
       "observacao": "Válido no app Amazon",
       "validadeAte": "2026-10-11T21:00:01.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "10DO10CUPOM",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T22:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SEU10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos no app Amazon",
+      "validadeAte": "2026-10-11T22:00:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1368,6 +1392,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-11T12:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEFULL1010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-11T22:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
