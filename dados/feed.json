@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-10T22:11:43.070Z",
+  "atualizadoEm": "2026-10-10T22:22:29.721Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29315",
+      "loja": "Shopee",
+      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "link": "https://s.shopee.com.br/8AWlRFUznH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
+      "preco": 31.99,
+      "precoDe": 58.16,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T22:18:41.329Z"
+    },
+    {
+      "id": "29314",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Original  Masculino Calvin Klein Jeans Casual",
+      "link": "https://meli.la/1FQqRN8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_798290-MLB98651116081_112025-O.webp",
+      "preco": 219.1,
+      "precoDe": 529.99,
+      "desconto": 41,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-10T22:15:28.346Z"
+    },
     {
       "id": "29306",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 46,
       "cupom": "PRIME10DO10",
       "enviadoEm": "2026-10-10T14:57:06.351Z"
-    },
-    {
-      "id": "28956",
-      "loja": "Mercado Livre",
-      "titulo": "Freezer Horizontal Consul 142l - Cha14ab Cor Branco",
-      "link": "https://meli.la/18aZNUe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_894563-MLA99961604693_112025-F.jpg",
-      "preco": 1453,
-      "precoDe": 1699,
-      "desconto": 14,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-10-10T14:56:03.855Z"
-    },
-    {
-      "id": "28957",
-      "loja": "Mercado Livre",
-      "titulo": "Lava Louças 8 Serviços Branco Touch Plus Midea",
-      "link": "https://meli.la/2k3xLBe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_954836-MLA92889662154_092025-F.jpg",
-      "preco": 1452,
-      "precoDe": 1999,
-      "desconto": 27,
-      "cupom": "VALEMAIS",
-      "enviadoEm": "2026-10-10T14:52:43.662Z"
     }
   ]
 }
