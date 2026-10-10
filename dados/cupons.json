@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T14:52:31.843Z",
+  "atualizadoEm": "2026-10-10T15:22:31.762Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,18 +36,6 @@
       "limite": 30,
       "observacao": "Exclusivo para Membros Prime com cartão Porto Bank",
       "validadeAte": "2026-10-11T13:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "AMOPRIME15",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 80,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-10T15:00:06.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -108,6 +96,18 @@
       "limite": 40,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T14:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "10DO10PRAVC",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T15:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -360,18 +360,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PROMOBIT20",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -673,6 +661,42 @@
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-10-10T20:49:13.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUDUPLA12H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 700,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T15:02:33.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TECH100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T15:03:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "JOGOS50",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 39,
+      "maximo": null,
+      "limite": 25,
+      "observacao": null,
+      "validadeAte": "2026-10-11T15:03:38.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE40",
@@ -1335,6 +1359,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIMAIS20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-10-11T15:04:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1647,6 +1683,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "3U4MO10D010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T15:05:51.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "0F1C141S35",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1656,18 +1704,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T12:00:10.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CUP0MD04DM",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T15:18:40.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
