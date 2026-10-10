@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-10T18:06:50.036Z",
+  "atualizadoEm": "2026-10-10T18:22:29.717Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29157",
+      "loja": "Amazon",
+      "titulo": "Britânia Escova Secadora BEC02PR Bivolt 4 em 1 1300W Plástico Rosa/Preto",
+      "link": "https://www.amazon.com.br/dp/B0BZLJLQ58?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Pd4NQbrCL._SL400_.jpg",
+      "preco": 63.660000000000004,
+      "precoDe": 89.9,
+      "desconto": 17,
+      "cupom": "CUPOMPRAVC",
+      "enviadoEm": "2026-10-10T18:21:26.001Z"
+    },
+    {
+      "id": "29155",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 700ml",
+      "link": "https://www.amazon.com.br/dp/B000TVHK26?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xKe7q30bL._SL400_.jpg",
+      "preco": 109.89,
+      "precoDe": 144.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:17:49.607Z"
+    },
+    {
+      "id": "29154",
+      "loja": "Shopee",
+      "titulo": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "link": "https://s.shopee.com.br/7KxeAovCT8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50_tn",
+      "preco": 42.8,
+      "precoDe": 147.59,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:17:02.583Z"
+    },
+    {
+      "id": "29151",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena chocolate e caramelo 750ml",
+      "link": "https://www.amazon.com.br/dp/B0BMZR2838?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yQAYeBr5L._SL400_.jpg",
+      "preco": 76.49,
+      "precoDe": 99.89,
+      "desconto": 10,
+      "cupom": "CUPOMPRAVC",
+      "enviadoEm": "2026-10-10T18:13:57.714Z"
+    },
+    {
+      "id": "29150",
+      "loja": "Shopee",
+      "titulo": "Jogo De Chaves Torx Allen Tipo L Com 08 Peças",
+      "link": "https://s.shopee.com.br/8V9bYl4wo6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljhtwbrp1toq38_tn",
+      "preco": 11.65,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T18:13:07.284Z"
+    },
     {
       "id": "29138",
       "loja": "Mercado Livre",
@@ -1381,66 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-10T11:29:51.197Z"
-    },
-    {
-      "id": "28825",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/LntO1zSU8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:29:03.497Z"
-    },
-    {
-      "id": "28820",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Rwj1O-RDL._SL400_.jpg",
-      "preco": 35.77,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:25:33.198Z"
-    },
-    {
-      "id": "28813",
-      "loja": "Mercado Livre",
-      "titulo": "Deo Colônia Natura Hoje Masculino 100ml",
-      "link": "https://meli.la/1dYTshT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809219-MLU72675777427_112023-F.jpg",
-      "preco": 43.07,
-      "precoDe": 168.9,
-      "desconto": 66,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-10T11:21:05.589Z"
-    },
-    {
-      "id": "28811",
-      "loja": "Shopee",
-      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "link": "https://s.shopee.com.br/1BN0M5TBfn",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
-      "preco": 8.87,
-      "precoDe": 22.17,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T11:17:49.166Z"
-    },
-    {
-      "id": "28810",
-      "loja": "Mercado Livre",
-      "titulo": "Caminhão Dinossauro Engolidor De Carrinhos Kit 6 Carrinhos",
-      "link": "https://meli.la/2J5SXsp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811323-MLB107191504939_022026-O.webp",
-      "preco": 70.67,
-      "precoDe": 123.99,
-      "desconto": 24,
-      "cupom": "COMPRANOMELI",
-      "enviadoEm": "2026-10-10T11:14:10.334Z"
     }
   ]
 }
