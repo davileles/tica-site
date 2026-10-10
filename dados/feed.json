@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-10T22:22:29.721Z",
+  "atualizadoEm": "2026-10-10T22:51:51.483Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29327",
+      "loja": "Shopee",
+      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
+      "link": "https://s.shopee.com.br/5VW0HxixKa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-ms2kl83hgcg561_tn",
+      "preco": 20.27,
+      "precoDe": 69.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T22:41:51.480Z"
+    },
+    {
+      "id": "29326",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Ultimashow 2.0 adidas",
+      "link": "https://meli.la/2rpg3HU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987977-MLB114771288442_082026-O.webp",
+      "preco": 131.37,
+      "precoDe": 379.99,
+      "desconto": 51,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-10T22:38:37.621Z"
+    },
+    {
+      "id": "29321",
+      "loja": "Mercado Livre",
+      "titulo": "Body Spray Carolina Herrera 212 Men NYC Body Fragrance 250 ml",
+      "link": "https://meli.la/1QJjZb5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806865-MLA84175736968_052025-F.jpg",
+      "preco": 143.65,
+      "precoDe": 258.9,
+      "desconto": 45,
+      "cupom": "LOJAS1010",
+      "enviadoEm": "2026-10-10T22:32:23.324Z"
+    },
+    {
+      "id": "29324",
+      "loja": "Amazon",
+      "titulo": "Faca Santoku Aço Inox Tefal 18cm Ice Force",
+      "link": "https://www.amazon.com.br/dp/B07BCSHLF4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21OUOKBs+kL._SL400_.jpg",
+      "preco": 89.99,
+      "precoDe": 109.92,
+      "desconto": 9,
+      "cupom": "10DO10CUPOM",
+      "enviadoEm": "2026-10-10T22:28:48.025Z"
+    },
+    {
+      "id": "29322",
+      "loja": "Amazon",
+      "titulo": "Salton Espumante Moscatel 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMJBWQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LJPJ5+q4L._SL400_.jpg",
+      "preco": 32.9,
+      "precoDe": 54,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T22:25:24.790Z"
+    },
     {
       "id": "29315",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 32,
       "cupom": "PRIME10DO10",
       "enviadoEm": "2026-10-10T15:09:56.238Z"
-    },
-    {
-      "id": "28986",
-      "loja": "Amazon",
-      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
-      "preco": 46.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T15:09:10.090Z"
-    },
-    {
-      "id": "28983",
-      "loja": "Shopee",
-      "titulo": "Chapinha prancha Modelador E Alisador De Cabelo E Barba Masculino",
-      "link": "https://s.shopee.com.br/3g4LZaXSZ8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0lx5a03o8sh41_tn",
-      "preco": 18.89,
-      "precoDe": 65.14,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T15:07:58.896Z"
-    },
-    {
-      "id": "28982",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER Furadeira e Parafusadeira 3/8\" LD12SC 12V Com 31 Acessórios e Maleta Bivolt",
-      "link": "https://www.amazon.com.br/dp/B07CG7NS5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ycfnz2hGL._SL400_.jpg",
-      "preco": 279.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T15:01:15.817Z"
-    },
-    {
-      "id": "28981",
-      "loja": "Amazon",
-      "titulo": "Máscara Capilar A Fórmula 450gr - Lola Cosmetics",
-      "link": "https://www.amazon.com.br/dp/B0FP43J8K4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/410j23nUK8L._SL400_.jpg",
-      "preco": 37.46,
-      "precoDe": 64.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T15:00:26.208Z"
-    },
-    {
-      "id": "28980",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51A9ytNWP1L._SL400_.jpg",
-      "preco": 92.13000000000001,
-      "precoDe": 189.9,
-      "desconto": 46,
-      "cupom": "PRIME10DO10",
-      "enviadoEm": "2026-10-10T14:57:06.351Z"
     }
   ]
 }
