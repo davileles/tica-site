@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T17:22:32.123Z",
+  "atualizadoEm": "2026-10-10T18:06:52.179Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -60,6 +60,18 @@
       "limite": 50,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T00:00:03.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CUPOMPRAVC",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T18:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -883,10 +895,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons em selecionados do Mercado Livre",
+      "observacao": "Três cupons com mesmas condições em selecionados do Mercado Livre",
       "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1575,6 +1587,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "DECOR1010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em selecionados de Decoração e Eletros",
+      "validadeAte": "2026-10-11T18:01:46.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODA10DO10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1740,6 +1764,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T03:01:00.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OFERTA17AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T18:00:23.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
@@ -1944,6 +1980,18 @@
       "limite": null,
       "observacao": "Válido em produto selecionado",
       "validadeAte": "2026-10-11T14:00:13.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "10D010NASHO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T18:00:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
