@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-10T00:22:29.608Z",
+  "atualizadoEm": "2026-10-10T04:52:29.610Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "28802",
+      "loja": "Amazon",
+      "titulo": "White Horse Whisky 1L",
+      "link": "https://www.amazon.com.br/dp/B009UWD34O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31icFtXbfYL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 89.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T04:50:23.851Z"
+    },
     {
       "id": "28772",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-10-09T14:09:31.877Z"
-    },
-    {
-      "id": "28395",
-      "loja": "Shopee",
-      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
-      "link": "https://s.shopee.com.br/70Klu93rOe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
-      "preco": 34.99,
-      "precoDe": 56.44,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T14:06:11.301Z"
     }
   ]
 }
