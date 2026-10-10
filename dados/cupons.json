@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T13:36:35.058Z",
+  "atualizadoEm": "2026-10-10T14:22:32.190Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -108,6 +108,18 @@
       "limite": 20,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T13:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "DIA10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T14:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1323,6 +1335,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TUDODEBOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-11T14:06:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1488,6 +1512,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPREOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-11T14:06:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1779,6 +1815,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "CH0C0TTON310",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produto selecionado",
+      "validadeAte": "2026-10-11T14:00:13.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "LC5OUT",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1788,6 +1836,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T13:14:42.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D14D31010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T14:00:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
