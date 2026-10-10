@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T22:11:45.361Z",
+  "atualizadoEm": "2026-10-10T22:22:32.211Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -759,6 +759,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CAZETV100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T22:21:18.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "SSG50",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1402,7 +1414,7 @@
       "minimo": 119,
       "maximo": null,
       "limite": 50,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_4: O cupom não está disponível.",
       "validadeAte": "2026-10-11T22:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
