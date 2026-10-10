@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T18:52:32.211Z",
+  "atualizadoEm": "2026-10-10T19:08:47.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": 30,
       "observacao": "Exclusivo para Membros Prime com cartão Porto Bank",
       "validadeAte": "2026-10-11T13:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "20OFFAMAZON",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-11T19:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -672,6 +684,18 @@
       "limite": null,
       "observacao": "Múltiplos cupons de desconto fixo em reais com valores mínimos de compra progressivos",
       "validadeAte": "2026-10-11T13:35:00.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUDUPLA16H",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T19:03:43.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1431,6 +1455,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBES1010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Válido para itens em categorias Bebês e Pets",
+      "validadeAte": "2026-10-11T19:02:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1803,18 +1839,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "DICABOA50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-10T19:06:10.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "3U4MO10D010",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1824,6 +1848,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T15:05:51.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "L0J45OF1C14IS1010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-11T19:00:11.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
