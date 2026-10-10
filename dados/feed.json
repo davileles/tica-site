@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-10T21:49:47.696Z",
+  "atualizadoEm": "2026-10-10T22:11:43.070Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29306",
+      "loja": "Amazon",
+      "titulo": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt Plástico e Metal",
+      "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31u2ufPDL0L._SL400_.jpg",
+      "preco": 47.64,
+      "precoDe": 111.67,
+      "desconto": 50,
+      "cupom": "15OFF10DO10",
+      "enviadoEm": "2026-10-10T22:01:43.068Z"
+    },
+    {
+      "id": "29305",
+      "loja": "Mercado Livre",
+      "titulo": "Projetor Portátil Bettdowac1093pro 350ansi 4kgtv Com Netflix",
+      "link": "https://meli.la/1DkjEH3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834366-MLB111594940950_062026-O.webp",
+      "preco": 375,
+      "precoDe": 1299,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T21:58:17.312Z"
+    },
+    {
+      "id": "29303",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/AKbFzgZCFC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T21:55:07.753Z"
+    },
     {
       "id": "29298",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 27,
       "cupom": "VALEMAIS",
       "enviadoEm": "2026-10-10T14:52:43.662Z"
-    },
-    {
-      "id": "28974",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Arabe Lattafa Al Noble Safeer Original Eau De Parfum 100ml",
-      "link": "https://meli.la/1x4mKZy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882068-MLA115908784974_092026-F.jpg",
-      "preco": 114,
-      "precoDe": 308.91,
-      "desconto": 63,
-      "cupom": "SITE10",
-      "enviadoEm": "2026-10-10T14:49:29.895Z"
-    },
-    {
-      "id": "28975",
-      "loja": "Amazon",
-      "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Branca, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/dp/B09B8XVSDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OiVQzj4HL._SL400_.jpg",
-      "preco": 309,
-      "precoDe": 649,
-      "desconto": 49,
-      "cupom": "PRIME10DO10",
-      "enviadoEm": "2026-10-10T14:46:22.389Z"
-    },
-    {
-      "id": "28979",
-      "loja": "Amazon",
-      "titulo": "Electrolux Kit 16 Potes Herméticos Plástico Multiuso Vedação Silicone",
-      "link": "https://www.amazon.com.br/dp/B0FVJWQ3PX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SiEw9EtyL._SL400_.jpg",
-      "preco": 107,
-      "precoDe": 142,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T14:43:06.340Z"
     }
   ]
 }
