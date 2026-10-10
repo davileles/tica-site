@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-10T15:52:29.625Z",
+  "atualizadoEm": "2026-10-10T16:22:29.625Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29051",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 75.7,
+      "precoDe": 115.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:19:24.543Z"
+    },
+    {
+      "id": "29050",
+      "loja": "Shopee",
+      "titulo": "coleira e Guia para cachorro nome personalizado coleira peitoral conforto peiteira sistema amortecedor impacto regulagem",
+      "link": "https://s.shopee.com.br/6q1NRoSIN8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b_tn",
+      "preco": 14.99,
+      "precoDe": 36.56,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:18:17.646Z"
+    },
+    {
+      "id": "29042",
+      "loja": "Mercado Livre",
+      "titulo": "Kit de pontas e brocas Bosch V-Line 41 peças 2607017396",
+      "link": "https://meli.la/1s7mKSC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737056-MLA99014780530_112025-F.jpg",
+      "preco": 128.16,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:15:02.263Z"
+    },
+    {
+      "id": "29041",
+      "loja": "Amazon",
+      "titulo": "Hasbro Games, Jogo de Festas, Twister - Novos Movimentos, Jogo de Equilíbrio, 2 Jogadores ou Mais - A partir de 6 Anos",
+      "link": "https://www.amazon.com.br/dp/B076X75H7L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RvLxMXZmL._SL400_.jpg",
+      "preco": 72.98,
+      "precoDe": 149.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:13:55.822Z"
+    },
+    {
+      "id": "29039",
+      "loja": "Shopee",
+      "titulo": "Kit de Talheres mesa Inox aço Premium com Garfo, Faca e Colher Escolha sua Variação 18, 36 ou 54 Unidades",
+      "link": "https://s.shopee.com.br/3LRVGO0GU0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mngii34h9xqcf4_tn",
+      "preco": 21.2,
+      "precoDe": 30.72,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:05:07.426Z"
+    },
+    {
+      "id": "29030",
+      "loja": "Amazon",
+      "titulo": "Buba Aspirador Nasal Com Estojo Transparente",
+      "link": "https://www.amazon.com.br/dp/B07G3HWFQL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31B5a-5oReS._SL400_.jpg",
+      "preco": 17.1,
+      "precoDe": 32.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T16:01:32.472Z"
+    },
+    {
+      "id": "29027",
+      "loja": "Shopee",
+      "titulo": "Smart TV 50 Polegadas QNED Mini LED AI 4K QNED70 webOS 2026 LG",
+      "link": "https://s.shopee.com.br/6fhxCy4M8z",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259m-ms43yr4g32ma99_tn",
+      "preco": 2429.27,
+      "precoDe": 2669.53,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T15:56:34.265Z"
+    },
+    {
+      "id": "29026",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta",
+      "link": "https://www.amazon.com.br/dp/B0877YWTK5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Z3jSm0goL._SL400_.jpg",
+      "preco": 850.29,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRIME10DO10",
+      "enviadoEm": "2026-10-10T15:53:24.310Z"
+    },
     {
       "id": "29025",
       "loja": "Amazon",
@@ -1345,102 +1441,6 @@
       "desconto": null,
       "cupom": "MELIMAIS",
       "enviadoEm": "2026-10-09T20:31:31.145Z"
-    },
-    {
-      "id": "28691",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Bermuda Masculina Short Tactel Secagem Rápida Academia",
-      "link": "https://meli.la/1EX7qBH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794407-MLB113873903206_072026-O.webp",
-      "preco": 84.91,
-      "precoDe": 199,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:28:23.731Z"
-    },
-    {
-      "id": "28677",
-      "loja": "Shopee",
-      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
-      "link": "https://s.shopee.com.br/8fT0JKGgIg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
-      "preco": 54.5,
-      "precoDe": 78.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:25:04.462Z"
-    },
-    {
-      "id": "28672",
-      "loja": "Amazon",
-      "titulo": "NTK, Saco de Dormir, Solteiro, Poliéster 190T, Acampamentos, Viper, Preto e Laranja",
-      "link": "https://www.amazon.com.br/dp/B00QK3UAYW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411mtpIQ5GL._SL400_.jpg",
-      "preco": 57.3,
-      "precoDe": 149,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:17:57.373Z"
-    },
-    {
-      "id": "28669",
-      "loja": "Shopee",
-      "titulo": "Motoserra A Gasolina 80CC Sabre 22 Polegadas 55CM MOTO SERRA Profissional",
-      "link": "https://s.shopee.com.br/1LgPZ5oNwe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-msvl41oobx1gda_tn",
-      "preco": 469.9,
-      "precoDe": 796.44,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:08:33.577Z"
-    },
-    {
-      "id": "28668",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B07XWX898Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51il8rT6f+L._SL400_.jpg",
-      "preco": 29.6,
-      "precoDe": 41.96,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T20:06:03.688Z"
-    },
-    {
-      "id": "28666",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
-      "preco": 145.26,
-      "precoDe": 182.48,
-      "desconto": 12,
-      "cupom": "VCPRIME10",
-      "enviadoEm": "2026-10-09T20:00:26.577Z"
-    },
-    {
-      "id": "28665",
-      "loja": "Shopee",
-      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
-      "link": "https://s.shopee.com.br/5fpOiGa9V0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
-      "preco": 329.9,
-      "precoDe": 701.91,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-09T19:59:21.952Z"
-    },
-    {
-      "id": "28659",
-      "loja": "Mercado Livre",
-      "titulo": "Frigobar Philco PFG5P 6 Níveis de ajustes 45L 1400W",
-      "link": "https://meli.la/1Y7E5Lf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841110-MLA99938312985_112025-F.jpg",
-      "preco": 584.1,
-      "precoDe": 799,
-      "desconto": 19,
-      "cupom": "BOLSOCHEIO",
-      "enviadoEm": "2026-10-09T19:43:11.625Z"
     }
   ]
 }
