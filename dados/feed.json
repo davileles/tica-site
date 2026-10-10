@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-10T19:08:44.977Z",
+  "atualizadoEm": "2026-10-10T19:22:29.718Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29207",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Havaianas Brasil Bandeira Bandeirinha Original Cores",
+      "link": "https://meli.la/1fytUDA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845362-MLB82739607015_022025-O.webp",
+      "preco": 34.44,
+      "precoDe": 69.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T19:19:49.097Z"
+    },
+    {
+      "id": "29205",
+      "loja": "Shopee",
+      "titulo": "11 Pçs Mini Lâmina De Serra Circular Ultrafina De Aço Inoxidável 22/25/32Mm Disco De Corte De Moagem Com Haste De 3Mm Pa",
+      "link": "https://s.shopee.com.br/5LCZr1kaWY",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo0nf9doo93cb2_tn",
+      "preco": 11.66,
+      "precoDe": 22.42,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-10T19:12:01.018Z"
+    },
     {
       "id": "29196",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-10T12:12:59.024Z"
-    },
-    {
-      "id": "28861",
-      "loja": "Mercado Livre",
-      "titulo": "Lego 77242 Speed Champions Ferrari Sf24 F1",
-      "link": "https://meli.la/1M72n9y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750693-MLB119026346685_102026-O.webp",
-      "preco": 207.99,
-      "precoDe": 299.99,
-      "desconto": 21,
-      "cupom": "MELIUZKIDS",
-      "enviadoEm": "2026-10-10T12:06:23.484Z"
-    },
-    {
-      "id": "28860",
-      "loja": "Mercado Livre",
-      "titulo": "aweshine Carregador inteligente de bateria automotivo 12V portátil, para carro, moto, caminhão e bateria estacionária vermelho",
-      "link": "https://meli.la/135paFQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965734-MLA113628611290_072026-F.jpg",
-      "preco": 36.74,
-      "precoDe": 120,
-      "desconto": 59,
-      "cupom": "COMPRANOMELI",
-      "enviadoEm": "2026-10-10T12:05:13.154Z"
     }
   ]
 }
