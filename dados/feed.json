@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-11T17:40:38.620Z",
+  "atualizadoEm": "2026-10-11T17:52:29.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29515",
+      "loja": "Amazon",
+      "titulo": "Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm",
+      "link": "https://www.amazon.com.br/dp/B0D8BV8JDG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41x9n+9P-QL._SL400_.jpg",
+      "preco": 63.730000000000004,
+      "precoDe": 137.08,
+      "desconto": 45,
+      "cupom": "DOMINGOPRIME",
+      "enviadoEm": "2026-10-11T17:43:06.093Z"
+    },
+    {
+      "id": "29514",
+      "loja": "Amazon",
+      "titulo": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
+      "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QMgmmQurL._SL400_.jpg",
+      "preco": 729.99,
+      "precoDe": 1699.99,
+      "desconto": 56,
+      "cupom": "DOMINGOPRIME",
+      "enviadoEm": "2026-10-11T17:42:07.398Z"
+    },
     {
       "id": "29512",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 41,
       "cupom": "CUPOMPRAVC",
       "enviadoEm": "2026-10-10T18:49:26.512Z"
-    },
-    {
-      "id": "29171",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Barril 5L",
-      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
-      "preco": 78.97,
-      "precoDe": 119.99,
-      "desconto": 23,
-      "cupom": "CUPOMPRAVC",
-      "enviadoEm": "2026-10-10T18:42:56.612Z"
-    },
-    {
-      "id": "29170",
-      "loja": "Mercado Livre",
-      "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
-      "link": "https://meli.la/27L9YfQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
-      "preco": 109.9,
-      "precoDe": 205.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T18:41:50.315Z"
     }
   ]
 }
