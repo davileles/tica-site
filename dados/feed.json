@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-11T18:49:00.939Z",
+  "atualizadoEm": "2026-10-11T19:21:18.136Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29552",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel’s Blackberry Tennessee Whiskey 1L",
+      "link": "https://www.amazon.com.br/dp/B0GWRPB2J9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41z8X3warkL._SL400_.jpg",
+      "preco": 144,
+      "precoDe": 174.9,
+      "desconto": 9,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T19:11:18.135Z"
+    },
+    {
+      "id": "29551",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 39.51,
+      "precoDe": 71.39,
+      "desconto": 39,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T19:02:49.158Z"
+    },
     {
       "id": "29540",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-10-10T19:27:46.456Z"
-    },
-    {
-      "id": "29212",
-      "loja": "Amazon",
-      "titulo": "Philips OneBlade Intimate Aparador de Pelos Íntimos para Mulheres",
-      "link": "https://www.amazon.com.br/dp/B0FDBJZ8DF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vGxOS6-CL._SL400_.jpg",
-      "preco": 104.63,
-      "precoDe": 209.9,
-      "desconto": 38,
-      "cupom": "20OFFAMAZON",
-      "enviadoEm": "2026-10-10T19:26:32.003Z"
-    },
-    {
-      "id": "29211",
-      "loja": "Shopee",
-      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
-      "link": "https://s.shopee.com.br/9zyPQ6GVSx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
-      "preco": 21.99,
-      "precoDe": 87.96,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:23:07.992Z"
     }
   ]
 }
