@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T00:22:30.230Z",
+  "atualizadoEm": "2026-10-11T01:22:30.161Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -840,6 +840,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T21:02:34.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUDUPLA22H",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 800,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T01:02:08.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
