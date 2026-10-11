@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-11T19:21:18.136Z",
+  "atualizadoEm": "2026-10-11T19:22:29.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29555",
+      "loja": "Shopee",
+      "titulo": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
+      "link": "https://s.shopee.com.br/6VOYqyxEA1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 10.99,
+      "precoDe": 29.7,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T19:21:34.256Z"
+    },
     {
       "id": "29552",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 7,
       "cupom": "20OFFAMAZON",
       "enviadoEm": "2026-10-10T19:28:34.826Z"
-    },
-    {
-      "id": "29213",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Em 1 Bico Alta Pressão Para Mangueira + Conector Top",
-      "link": "https://s.shopee.com.br/5q8qT3qDTD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8khgzi06229a4_tn",
-      "preco": 22.99,
-      "precoDe": 60.5,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:27:46.456Z"
     }
   ]
 }
