@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-11T13:52:29.731Z",
+  "atualizadoEm": "2026-10-11T14:19:03.940Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29430",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "link": "https://s.shopee.com.br/gQlYnbvBH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
+      "preco": 10.9,
+      "precoDe": 21.37,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T14:09:03.939Z"
+    },
+    {
+      "id": "29428",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Sortido 10 Peças Roupas Infantil Menino Verão 5 Conjunto",
+      "link": "https://meli.la/1cFsuKq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_972627-MLB91593484931_092025-O.webp",
+      "preco": 76.9,
+      "precoDe": 119.5,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T14:04:15.399Z"
+    },
     {
       "id": "29426",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-10-10T17:15:12.883Z"
-    },
-    {
-      "id": "29097",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Bermuda Lobo+camiseta Lobo Dry Fitness Academia Alpha",
-      "link": "https://meli.la/1AvrBwr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852153-MLB104911095090_012026-O.webp",
-      "preco": 50.919999999999995,
-      "precoDe": 119.8,
-      "desconto": 39,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-10T17:14:12.553Z"
-    },
-    {
-      "id": "29087",
-      "loja": "Mercado Livre",
-      "titulo": "Penteadeira Infantil Menina Acessórios Princesa Maquiagem Cor Rosa",
-      "link": "https://meli.la/32w7JS6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965274-MLA99622391302_122025-F.jpg",
-      "preco": 39.9,
-      "precoDe": 119.9,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T17:07:35.182Z"
     }
   ]
 }
