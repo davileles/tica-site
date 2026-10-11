@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T12:22:32.090Z",
+  "atualizadoEm": "2026-10-11T13:00:41.412Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": null,
       "validadeAte": "2026-10-12T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "PORTO20OFF",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Exclusivo para Membros Prime com cartão Porto Bank",
-      "validadeAte": "2026-10-11T13:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "20OFFAMAZON",
@@ -72,18 +60,6 @@
       "limite": 15,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T20:03:11.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "PRIME10DO10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T13:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1812,18 +1788,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-12T00:00:15.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "D3STAQUE10AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T13:00:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
