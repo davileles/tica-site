@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T01:52:30.233Z",
+  "atualizadoEm": "2026-10-11T02:22:30.371Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1932,6 +1932,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T19:00:11.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "AGORATEM50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T02:19:11.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
