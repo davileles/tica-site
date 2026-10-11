@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-11T17:18:07.058Z",
+  "atualizadoEm": "2026-10-11T17:22:29.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29508",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Livro Interativo Para Bebê Alfabetização Maxi Baby",
+      "link": "https://meli.la/2Cn9wdw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889223-MLA105703796023_012026-F.jpg",
+      "preco": 107.39,
+      "precoDe": 199.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T17:18:52.229Z"
+    },
     {
       "id": "29507",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 48,
       "cupom": "CUPOMPRAVC",
       "enviadoEm": "2026-10-10T18:33:55.185Z"
-    },
-    {
-      "id": "29161",
-      "loja": "Shopee",
-      "titulo": "Mini Potes para Congelar Papinha c/ Tampa Hermética Porta Leita em pó Frutas para Bebe adultos Kit c/2/4/8/16",
-      "link": "https://s.shopee.com.br/AAHpYXOpCi",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mic3d2r0aaknfd_tn",
-      "preco": 13.88,
-      "precoDe": 29.53,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T18:30:31.571Z"
     }
   ]
 }
