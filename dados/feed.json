@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-11T18:06:08.032Z",
+  "atualizadoEm": "2026-10-11T18:22:29.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29530",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 59.989999999999995,
+      "precoDe": 92.9,
+      "desconto": 28,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T18:21:58.952Z"
+    },
+    {
+      "id": "29525",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/70KpNMq2b3",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75_tn",
+      "preco": 27.99,
+      "precoDe": 37.32,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T18:16:32.569Z"
+    },
+    {
+      "id": "29524",
+      "loja": "Amazon",
+      "titulo": "Integralmedica Whey Protein Crisp Bar Ovomaltine 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F2GMT6T3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WV25XAoZL._SL400_.jpg",
+      "preco": 79.2,
+      "precoDe": 145.44,
+      "desconto": 39,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T18:13:21.504Z"
+    },
+    {
+      "id": "29521",
+      "loja": "Shopee",
+      "titulo": "OralGos Escova Premium com Cerdas de Carvão,Cerdas de altadensidade+Pega Antiderrapante",
+      "link": "https://s.shopee.com.br/2LYzo9x5qV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mo7xe5vymf4454_tn",
+      "preco": 19.9,
+      "precoDe": 52.37,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T18:09:57.440Z"
+    },
     {
       "id": "29517",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-10-10T19:12:01.018Z"
-    },
-    {
-      "id": "29196",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto",
-      "link": "https://www.amazon.com.br/dp/B08YMXTLX2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PmSkxtUDL._SL400_.jpg",
-      "preco": 480,
-      "precoDe": 829.9,
-      "desconto": 36,
-      "cupom": "CUPOMPRAVC",
-      "enviadoEm": "2026-10-10T18:58:44.975Z"
-    },
-    {
-      "id": "29191",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Baby Cinza Tamanho Único",
-      "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31L0EY8bhBL._SL400_.jpg",
-      "preco": 27.59,
-      "precoDe": 47.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T18:57:57.837Z"
-    },
-    {
-      "id": "29180",
-      "loja": "Shopee",
-      "titulo": "Kit 105 Acessorios Micro Retifica Dremel Compativel Lixar Cortar Polir",
-      "link": "https://s.shopee.com.br/20w7rUbIGC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225k-mhikkdazyu4ofa_tn",
-      "preco": 22.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T18:55:42.993Z"
-    },
-    {
-      "id": "29178",
-      "loja": "Amazon",
-      "titulo": "Whisky Old Parr 12 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
-      "preco": 77.50999999999999,
-      "precoDe": 126.9,
-      "desconto": 28,
-      "cupom": "CUPOMPRAVC",
-      "enviadoEm": "2026-10-10T18:54:01.192Z"
     }
   ]
 }
