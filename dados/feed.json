@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-11T15:22:29.733Z",
+  "atualizadoEm": "2026-10-11T15:49:49.191Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29441",
+      "loja": "Mercado Livre",
+      "titulo": "Cortador Lateral Pneumático Gamma G3186/br Disco 3",
+      "link": "https://meli.la/1C8REAj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828468-MLA93609986430_102025-F.jpg",
+      "preco": 49.51,
+      "precoDe": 139,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T15:39:49.189Z"
+    },
+    {
+      "id": "29440",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear Definição Natural 1kg",
+      "link": "https://s.shopee.com.br/AUuhMk32Z6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T15:36:35.967Z"
+    },
+    {
+      "id": "29439",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Pares Meia Antiderrapante Esportiva Futebol Treino Pro",
+      "link": "https://meli.la/1s86KLC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749052-MLB113683666713_062026-O.webp",
+      "preco": 27.72,
+      "precoDe": 42.5,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T15:33:17.763Z"
+    },
     {
       "id": "29436",
       "loja": "Mercado Livre",
@@ -1405,42 +1441,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-10-10T17:28:24.913Z"
-    },
-    {
-      "id": "29107",
-      "loja": "Amazon",
-      "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
-      "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41V0YBdRv4L._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 92.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T17:27:31.298Z"
-    },
-    {
-      "id": "29105",
-      "loja": "Shopee",
-      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
-      "link": "https://s.shopee.com.br/2LYy9t6tUJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
-      "preco": 22.99,
-      "precoDe": 69.67,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T17:26:36.933Z"
-    },
-    {
-      "id": "29104",
-      "loja": "Amazon",
-      "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
-      "link": "https://www.amazon.com.br/dp/B0FDX5NC1G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31tSZXCHPdL._SL400_.jpg",
-      "preco": 1137.13,
-      "precoDe": 2399,
-      "desconto": 51,
-      "cupom": "EXTRAPRIME5",
-      "enviadoEm": "2026-10-10T17:23:29.612Z"
     }
   ]
 }
