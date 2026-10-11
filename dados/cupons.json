@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T01:22:30.161Z",
+  "atualizadoEm": "2026-10-11T01:52:30.233Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,18 +867,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TECH100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T15:03:38.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE40",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -995,7 +983,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-12-01T02:59:00.000Z",
+      "validadeAte": "2026-10-11T02:59:10.259Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1043,7 +1031,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-12T02:59:00.000Z",
+      "validadeAte": "2026-10-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1067,7 +1055,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-12T02:59:00.000Z",
+      "validadeAte": "2026-10-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1547,19 +1535,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-10-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIMAIS20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-10-11T15:04:30.000Z",
+      "validadeAte": "2026-10-11T02:59:20.259Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1571,7 +1547,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Cupons válidos em selecionados no Mercado Livre",
-      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "validadeAte": "2026-10-11T03:11:53.258Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1584,18 +1560,6 @@
       "limite": 60,
       "observacao": "Válido para itens em categorias Bebês e Pets",
       "validadeAte": "2026-10-11T19:02:56.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTOS1010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Válido para categoria Auto e Moto",
-      "validadeAte": "2026-10-12T00:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1671,18 +1635,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AUTOEFERAMENTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1751,31 +1703,7 @@
       "maximo": null,
       "limite": 115,
       "observacao": "Cupons válidos em selecionados no Mercado Livre",
-      "validadeAte": "2026-10-11T16:34:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECOR1010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em selecionados de Decoração e Eletros",
-      "validadeAte": "2026-10-11T18:01:46.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-11T02:59:00.000Z",
+      "validadeAte": "2026-10-11T03:11:53.258Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1822,18 +1750,6 @@
       "minimo": 79,
       "maximo": null,
       "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-11T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CLIENTEVIP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
