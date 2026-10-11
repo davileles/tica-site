@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T17:18:09.263Z",
+  "atualizadoEm": "2026-10-11T18:06:10.608Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,18 +36,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T19:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "CUPOMPRAVC",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T18:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -144,6 +132,18 @@
       "limite": 60,
       "observacao": "Válido no app Amazon",
       "validadeAte": "2026-10-12T00:00:00.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "DOMINGO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-12T18:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1515,6 +1515,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL1110",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-12T18:02:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "KID50",
       "loja": "Mizuno",
       "tipo": "reais",
@@ -1623,18 +1635,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
     },
     {
-      "codigo": "OFERTA17AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 799,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T18:00:23.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "L0J45OF1C14IS1010",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1680,18 +1680,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T21:00:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "10D010NASHO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T18:00:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
