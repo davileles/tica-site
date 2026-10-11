@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T21:22:32.260Z",
+  "atualizadoEm": "2026-10-11T22:22:32.030Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,30 +48,6 @@
       "limite": null,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-12T20:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "10DO10CUPOM",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T22:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "SEU10DO10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos no app Amazon",
-      "validadeAte": "2026-10-11T22:00:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -564,18 +540,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T23:02:27.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CAZETV100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T22:21:18.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1176,18 +1140,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATEFULL1010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_4: O cupom não está disponível.",
-      "validadeAte": "2026-10-11T22:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
