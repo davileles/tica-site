@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T18:22:32.349Z",
+  "atualizadoEm": "2026-10-11T19:21:20.495Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": null,
       "validadeAte": "2026-10-12T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "20OFFAMAZON",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T19:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "15OFF10DO10",
@@ -600,18 +588,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T23:02:27.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLUDUPLA16H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T19:03:43.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1359,18 +1335,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBES1010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Válido para itens em categorias Bebês e Pets",
-      "validadeAte": "2026-10-11T19:02:56.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1645,18 +1609,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "L0J45OF1C14IS1010",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T19:00:11.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "AGORATEM50",
