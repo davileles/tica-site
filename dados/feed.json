@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-11T21:52:29.859Z",
+  "atualizadoEm": "2026-10-11T22:22:29.859Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29631",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Masculino Sport Edt 100ml Azzaro",
+      "link": "https://meli.la/1eK94j6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_926268-MLA106200609623_012026-F.jpg",
+      "preco": 185.72,
+      "precoDe": 389,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T22:16:15.390Z"
+    },
+    {
+      "id": "29630",
+      "loja": "Shopee",
+      "titulo": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "link": "https://s.shopee.com.br/9pf10NAYxf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
+      "preco": 26.99,
+      "precoDe": 45.75,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T22:07:37.236Z"
+    },
+    {
+      "id": "29627",
+      "loja": "Amazon",
+      "titulo": "Philco Ferro a Vapor Travel Ceramic Bivolt Base em Cerâmica",
+      "link": "https://www.amazon.com.br/dp/B0985RJT3K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FEv1+Yt8L._SL400_.jpg",
+      "preco": 54.900000000000006,
+      "precoDe": 144.9,
+      "desconto": 52,
+      "cupom": "AINDA10DO10",
+      "enviadoEm": "2026-10-11T22:04:19.665Z"
+    },
+    {
+      "id": "29624",
+      "loja": "Amazon",
+      "titulo": "Aircooler Redragon Tyr Preto Iluminação Rainbow com Fan de 120mm CC-9104",
+      "link": "https://www.amazon.com.br/dp/B09HMVQ98L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51kEkQOuq9L._SL400_.jpg",
+      "preco": 74,
+      "precoDe": 136.25,
+      "desconto": 35,
+      "cupom": "AINDA10DO10",
+      "enviadoEm": "2026-10-11T22:00:47.167Z"
+    },
+    {
+      "id": "29623",
+      "loja": "Amazon",
+      "titulo": "CeraVe Oil Control, Loção Facial Hidratante para Pele Oleosa, 52g",
+      "link": "https://www.amazon.com.br/dp/B0DPNHDC9B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31au88WfSSL._SL400_.jpg",
+      "preco": 59.370000000000005,
+      "precoDe": 99.9,
+      "desconto": 26,
+      "cupom": "AINDA10DO10",
+      "enviadoEm": "2026-10-11T21:57:15.756Z"
+    },
+    {
+      "id": "29620",
+      "loja": "Amazon",
+      "titulo": "Britânia Escova Secadora Soft 4 em 1 1300W BEC07R Bivolt Plástico Rosa",
+      "link": "https://www.amazon.com.br/dp/B08L6YHZ75?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31q0ARUP4GL._SL400_.jpg",
+      "preco": 69.55,
+      "precoDe": 157.07,
+      "desconto": 46,
+      "cupom": "AINDA10DO10",
+      "enviadoEm": "2026-10-11T21:53:47.684Z"
+    },
     {
       "id": "29619",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 45,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-10T21:35:58.578Z"
-    },
-    {
-      "id": "29292",
-      "loja": "Shopee",
-      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "link": "https://s.shopee.com.br/9V28yMqLD7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
-      "preco": 59.9,
-      "precoDe": 85.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T21:32:45.920Z"
-    },
-    {
-      "id": "29291",
-      "loja": "Mercado Livre",
-      "titulo": "Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° por TP-Link",
-      "link": "https://meli.la/1ucR9Vx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949687-MLA107423093255_022026-F.jpg",
-      "preco": 62.94,
-      "precoDe": 159.9,
-      "desconto": 44,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-10T21:29:11.442Z"
-    },
-    {
-      "id": "29290",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FShfyP5iL._SL400_.jpg",
-      "preco": 84.15,
-      "precoDe": 177.9,
-      "desconto": 44,
-      "cupom": "15OFF10DO10",
-      "enviadoEm": "2026-10-10T21:25:38.689Z"
-    },
-    {
-      "id": "29280",
-      "loja": "Shopee",
-      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
-      "link": "https://s.shopee.com.br/3qNmCAUUWu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
-      "preco": 35.99,
-      "precoDe": 56.23,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T21:06:36.256Z"
-    },
-    {
-      "id": "29277",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 3 Camisetas Oversized Intensas da Cléa Store.",
-      "link": "https://meli.la/2Qco8oq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992098-MLB114381143209_072026-O.webp",
-      "preco": 87.18,
-      "precoDe": 387,
-      "desconto": 68,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-10T20:55:57.963Z"
-    },
-    {
-      "id": "29275",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Jantar Nadir Opaline Branco 16 Peças Vidro Temperado",
-      "link": "https://meli.la/2QRnQS8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818763-MLA99971134119_112025-F.jpg",
-      "preco": 78.47,
-      "precoDe": 199,
-      "desconto": 44,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-10T20:49:01.036Z"
     }
   ]
 }
