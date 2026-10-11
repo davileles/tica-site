@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T18:06:10.608Z",
+  "atualizadoEm": "2026-10-11T18:22:32.349Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1443,6 +1443,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJAS1010",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1680,18 +1692,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T21:00:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "K1T3LSEV10OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo para este produto",
-      "validadeAte": "2026-10-11T18:06:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
