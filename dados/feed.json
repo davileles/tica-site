@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-10T23:52:29.721Z",
+  "atualizadoEm": "2026-10-11T11:22:29.729Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29364",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast Cabo Blindado Tipo U",
+      "link": "https://meli.la/1fKSiGB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923598-MLA113044313715_062026-F.jpg",
+      "preco": 29,
+      "precoDe": 78.9,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T11:19:49.190Z"
+    },
+    {
+      "id": "29363",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeteira elétrica Electrolux inox filtro permanente removivel corta pingos capacidade 600ml 15 xicaras função manter aquecido sistema ECM10",
+      "link": "https://meli.la/1Ms5SZY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923263-MLA99474168604_112025-F.jpg",
+      "preco": 65.45,
+      "precoDe": 129.99,
+      "desconto": 28,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-11T11:13:59.552Z"
+    },
+    {
+      "id": "29356",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/BUUl5YiLG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
+      "preco": 41,
+      "precoDe": 95.35,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T11:06:19.768Z"
+    },
+    {
+      "id": "29357",
+      "loja": "Shopee",
+      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+      "link": "https://s.shopee.com.br/1VzsLXTdde",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
+      "preco": 199.99,
+      "precoDe": 307.68,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T11:02:47.523Z"
+    },
     {
       "id": "29341",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-10-10T15:46:59.941Z"
-    },
-    {
-      "id": "29017",
-      "loja": "Mercado Livre",
-      "titulo": "Controle joystick sem fio Sony PlayStation Dualsense vermelho cósmico",
-      "link": "https://meli.la/12A6Cby",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_634504-MLA95734046842_102025-F.jpg",
-      "preco": 305.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIMAIS20",
-      "enviadoEm": "2026-10-10T15:39:57.721Z"
-    },
-    {
-      "id": "28998",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora De Alta Pressão Lav 1600, 1.600 Lbf/pol² Vonder",
-      "link": "https://meli.la/2J9qfEr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612148-MLB89576622881_082025-O.webp",
-      "preco": 258,
-      "precoDe": 445.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T15:33:22.529Z"
-    },
-    {
-      "id": "29001",
-      "loja": "Amazon",
-      "titulo": "WAP Air Fryer Oven Digital WAOD1 12L, 10 Funções Programadas 127V",
-      "link": "https://www.amazon.com.br/dp/B0CH5PRZH9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41jjdjAlXML._SL400_.jpg",
-      "preco": 336,
-      "precoDe": 459,
-      "desconto": 24,
-      "cupom": "10DO10PRAVC",
-      "enviadoEm": "2026-10-10T15:29:54.343Z"
-    },
-    {
-      "id": "29002",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Escova Secadora Verde, Bivolt - ES-JU-02",
-      "link": "https://www.amazon.com.br/dp/B0BJH7DBPK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v7J9jmkfL._SL400_.jpg",
-      "preco": 116.91000000000001,
-      "precoDe": 289.9,
-      "desconto": 55,
-      "cupom": "10DO10PRAVC",
-      "enviadoEm": "2026-10-10T15:25:06.606Z"
     }
   ]
 }
