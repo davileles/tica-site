@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-11T14:41:35.972Z",
+  "atualizadoEm": "2026-10-11T15:22:29.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29436",
+      "loja": "Mercado Livre",
+      "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
+      "link": "https://meli.la/1BfLBgo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_853637-MLB74931305887_032024-O.webp",
+      "preco": 39.99,
+      "precoDe": 60.47,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T15:20:57.788Z"
+    },
     {
       "id": "29431",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 51,
       "cupom": "EXTRAPRIME5",
       "enviadoEm": "2026-10-10T17:23:29.612Z"
-    },
-    {
-      "id": "29100",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira E Parafusadeira De Impacto 2 Baterias 2000mah 21v 3/8 Tb-21pkx The Black Tools Com Maleta E Acessorios",
-      "link": "https://meli.la/1ZdpMcC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621527-MLA116307522743_082026-F.jpg",
-      "preco": 179.9,
-      "precoDe": 249.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T17:15:58.423Z"
     }
   ]
 }
