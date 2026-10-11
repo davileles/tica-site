@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-11T19:43:51.577Z",
+  "atualizadoEm": "2026-10-11T19:52:29.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29561",
+      "loja": "Amazon",
+      "titulo": "Salton Espumante Brut 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B00RGKPDT0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oaptMSSqL._SL400_.jpg",
+      "preco": 29,
+      "precoDe": 54,
+      "desconto": 40,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T19:45:19.770Z"
+    },
+    {
+      "id": "29560",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/1gJJ7e3NuJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 67.9,
+      "precoDe": 141.46,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T19:44:06.199Z"
+    },
     {
       "id": "29559",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-10T19:35:22.589Z"
-    },
-    {
-      "id": "29218",
-      "loja": "Mercado Livre",
-      "titulo": "LEGO Friends Roda-gigante de Doces e Cupcake 42700; Brinquedo de construção inclui 3 mini bonecos e um parque repleto de acessórios temático; presente para Dia das crianças; 7+",
-      "link": "https://meli.la/2xH6CMU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939977-MLA113074937614_072026-F.jpg",
-      "preco": 358.9,
-      "precoDe": 499.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:34:26.826Z"
-    },
-    {
-      "id": "29216",
-      "loja": "Amazon",
-      "titulo": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 220V",
-      "link": "https://www.amazon.com.br/dp/B088MV7YB5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21SJo-scWqL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 434.9,
-      "desconto": 56,
-      "cupom": "20OFFAMAZON",
-      "enviadoEm": "2026-10-10T19:33:22.516Z"
     }
   ]
 }
