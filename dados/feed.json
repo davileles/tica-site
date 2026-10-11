@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-11T19:52:29.735Z",
+  "atualizadoEm": "2026-10-11T20:22:29.734Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29575",
+      "loja": "Amazon",
+      "titulo": "Pack de MONSTER ULTRA WATERMELON LT 473ML 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CQD3TY4T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51vhInsf-0L._SL400_.jpg",
+      "preco": 53.94,
+      "precoDe": 62.94,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T20:21:06.732Z"
+    },
+    {
+      "id": "29574",
+      "loja": "Amazon",
+      "titulo": "Flash Limp - Mop Giratório Fit, Balde 8 litros - MOP5010 - ABS Cinza",
+      "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MouPIBKyL._SL400_.jpg",
+      "preco": 37.67,
+      "precoDe": 139.88,
+      "desconto": 62,
+      "cupom": "AINDA10DO10",
+      "enviadoEm": "2026-10-11T20:17:52.106Z"
+    },
+    {
+      "id": "29572",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Absolutely Zero LT 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTLY4K1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UT-LEAZOL._SL400_.jpg",
+      "preco": 53.94,
+      "precoDe": 62.94,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T20:14:28.462Z"
+    },
+    {
+      "id": "29570",
+      "loja": "Amazon",
+      "titulo": "Pack de Monster Energy 473ml - Unidade 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTMYXBJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41PHUVUuXFL._SL400_.jpg",
+      "preco": 53.94,
+      "precoDe": 62.94,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T20:11:10.216Z"
+    },
+    {
+      "id": "29567",
+      "loja": "Shopee",
+      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
+      "link": "https://s.shopee.com.br/905tsfP17x",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
+      "preco": 25.97,
+      "precoDe": 32.87,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T20:06:44.419Z"
+    },
+    {
+      "id": "29564",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Carmenere 750ml",
+      "link": "https://www.amazon.com.br/dp/B01IT28BY2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V+HEoX0TL._SL400_.jpg",
+      "preco": 33.49,
+      "precoDe": 69.9,
+      "desconto": 47,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T19:58:12.561Z"
+    },
     {
       "id": "29561",
       "loja": "Amazon",
@@ -1369,78 +1441,6 @@
       "desconto": 47,
       "cupom": "20OFFAMAZON",
       "enviadoEm": "2026-10-10T19:51:03.296Z"
-    },
-    {
-      "id": "29232",
-      "loja": "Shopee",
-      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
-      "link": "https://s.shopee.com.br/1qchjAZ5JT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:47:45.097Z"
-    },
-    {
-      "id": "29226",
-      "loja": "Amazon",
-      "titulo": "Mor - Cadeira Alta Alumínio Sortido",
-      "link": "https://www.amazon.com.br/dp/B076KM81H5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-F4Hn+tIL._SL400_.jpg",
-      "preco": 64.71,
-      "precoDe": 76.5,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:44:26.322Z"
-    },
-    {
-      "id": "29224",
-      "loja": "Mercado Livre",
-      "titulo": "Lego Dia Divertido no Parque Aquático Friends 42676",
-      "link": "https://meli.la/1hLc5wp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655013-MLB115036025358_082026-O.webp",
-      "preco": 178.9,
-      "precoDe": 249.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:40:45.796Z"
-    },
-    {
-      "id": "29223",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 42.54,
-      "precoDe": 59.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:39:58.442Z"
-    },
-    {
-      "id": "29221",
-      "loja": "Amazon",
-      "titulo": "Mesa para Escritório Office Estilo Industrial 1,50m Kuadra, Compace",
-      "link": "https://www.amazon.com.br/dp/B089XVR312?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51tlJFO8-gL._SL400_.jpg",
-      "preco": 197.48,
-      "precoDe": 353,
-      "desconto": 36,
-      "cupom": "20OFFAMAZON",
-      "enviadoEm": "2026-10-10T19:38:46.009Z"
-    },
-    {
-      "id": "29219",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 998ml",
-      "link": "https://www.amazon.com.br/dp/B0CSLM1G3D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FQxc3GWUL._SL400_.jpg",
-      "preco": 52.99,
-      "precoDe": 69.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:35:22.589Z"
     }
   ]
 }
