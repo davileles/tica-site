@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-11T18:22:29.733Z",
+  "atualizadoEm": "2026-10-11T18:36:53.531Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29531",
+      "loja": "Amazon",
+      "titulo": "Beefeater Gin Pink 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B0763W2SN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Qcw8Y+sqL._SL400_.jpg",
+      "preco": 73.71000000000001,
+      "precoDe": 123.9,
+      "desconto": 34,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T18:26:53.529Z"
+    },
     {
       "id": "29530",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-10-10T19:19:49.097Z"
-    },
-    {
-      "id": "29205",
-      "loja": "Shopee",
-      "titulo": "11 Pçs Mini Lâmina De Serra Circular Ultrafina De Aço Inoxidável 22/25/32Mm Disco De Corte De Moagem Com Haste De 3Mm Pa",
-      "link": "https://s.shopee.com.br/5LCZr1kaWY",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo0nf9doo93cb2_tn",
-      "preco": 11.66,
-      "precoDe": 22.42,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T19:12:01.018Z"
     }
   ]
 }
