@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T22:22:32.030Z",
+  "atualizadoEm": "2026-10-11T23:22:30.313Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,18 +48,6 @@
       "limite": null,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-12T20:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "10DO10PRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido apenas no app Amazon",
-      "validadeAte": "2026-10-11T23:00:01.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -531,18 +519,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLUDUPLA20H",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-11T23:02:27.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "INFLUDUPLA22H",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -553,18 +529,6 @@
       "observacao": null,
       "validadeAte": "2026-10-12T01:02:08.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "MOVEIS1010",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1099,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para móveis",
-      "validadeAte": "2026-10-11T23:00:14.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODOOSITE",
