@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-11T19:22:29.735Z",
+  "atualizadoEm": "2026-10-11T19:43:51.577Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29559",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 76.5,
+      "precoDe": 129.99,
+      "desconto": 35,
+      "cupom": "DOMINGO10",
+      "enviadoEm": "2026-10-11T19:33:51.576Z"
+    },
+    {
+      "id": "29556",
+      "loja": "Amazon",
+      "titulo": "Lápis de Cor Aquarelável, Mina Super Macia, Cores Vivas e Alta Cobertura",
+      "link": "https://www.amazon.com.br/dp/B0H1GBRK4V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51NgeJpuAzL._SL400_.jpg",
+      "preco": 89,
+      "precoDe": 139,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-11T19:26:21.755Z"
+    },
     {
       "id": "29555",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 56,
       "cupom": "20OFFAMAZON",
       "enviadoEm": "2026-10-10T19:33:22.516Z"
-    },
-    {
-      "id": "29215",
-      "loja": "Amazon",
-      "titulo": "Whiskey Wild Turkey 101 Bourbon 700ml",
-      "link": "https://www.amazon.com.br/dp/B07TNR7YWZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yS47JDT8L._SL400_.jpg",
-      "preco": 95.92,
-      "precoDe": 179.9,
-      "desconto": 33,
-      "cupom": "20OFFAMAZON",
-      "enviadoEm": "2026-10-10T19:29:50.086Z"
-    },
-    {
-      "id": "29214",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51J0vmQJEoL._SL400_.jpg",
-      "preco": 139.9,
-      "precoDe": 182.45,
-      "desconto": 7,
-      "cupom": "20OFFAMAZON",
-      "enviadoEm": "2026-10-10T19:28:34.826Z"
     }
   ]
 }
