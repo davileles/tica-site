@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T19:21:20.495Z",
+  "atualizadoEm": "2026-10-11T20:22:32.160Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -27,18 +27,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
-      "codigo": "15OFF10DO10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 15,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T20:03:11.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
       "codigo": "DOMINGOPRIME",
       "loja": "Amazon",
       "tipo": "pct",
@@ -51,15 +39,15 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "MAIS10DO10",
+      "codigo": "AINDA10DO10",
       "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 150,
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 50,
       "maximo": null,
-      "limite": 30,
-      "observacao": "Válido no app Amazon",
-      "validadeAte": "2026-10-11T20:00:01.000Z",
+      "limite": null,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-10-12T20:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
