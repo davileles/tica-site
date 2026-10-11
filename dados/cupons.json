@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-10T23:59:54.610Z",
+  "atualizadoEm": "2026-10-11T00:22:30.230Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,18 +48,6 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-11T19:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "AMANHA10D010",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 100,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-11T00:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -204,6 +192,18 @@
       "limite": 30,
       "observacao": "Válido apenas no app Amazon",
       "validadeAte": "2026-10-11T23:00:01.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "ULTIMO10DO10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 300,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Válido no app Amazon",
+      "validadeAte": "2026-10-12T00:00:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1575,6 +1575,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOS1010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Válido para categoria Auto e Moto",
+      "validadeAte": "2026-10-12T00:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2004,6 +2016,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-11T12:00:10.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "MAX21HAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 35,
+      "minimo": 129,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-12T00:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
