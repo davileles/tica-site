@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-12T15:22:29.862Z",
+  "atualizadoEm": "2026-10-12T15:50:01.217Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29770",
+      "loja": "Amazon",
+      "titulo": "KELMOR Raspador De Língua Inox Cirúrgico Limpador Bucal Profissional Escova de Língua em Aço Inoxidável Higiene Oral Combate Mau Hálito Fácil Uso e Limpeza Durável e Anatômico",
+      "link": "https://www.amazon.com.br/dp/B0FJNG26QX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41lj1xj2jzL._SL400_.jpg",
+      "preco": 15.99,
+      "precoDe": 39.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T15:40:01.215Z"
+    },
+    {
+      "id": "29769",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
+      "link": "https://s.shopee.com.br/30oi1rVlXG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
+      "preco": 12.9,
+      "precoDe": 30,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T15:34:44.919Z"
+    },
     {
       "id": "29766",
       "loja": "Mercado Livre",
@@ -1417,30 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-11T12:44:24.960Z"
-    },
-    {
-      "id": "29407",
-      "loja": "Mercado Livre",
-      "titulo": "Lustre Cristal Acrílico Quarto Sala Vai Montado  Promoção",
-      "link": "https://meli.la/1LhnEiw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986353-MLB117810012509_092026-O.webp",
-      "preco": 74.16,
-      "precoDe": 78.9,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T12:41:20.980Z"
-    },
-    {
-      "id": "29405",
-      "loja": "Shopee",
-      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
-      "link": "https://s.shopee.com.br/5VW1DQmnd6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
-      "preco": 25,
-      "precoDe": 50,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T12:38:04.279Z"
     }
   ]
 }
