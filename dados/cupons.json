@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T11:22:32.443Z",
+  "atualizadoEm": "2026-10-12T12:22:32.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -480,18 +480,6 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE1110",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T12:00:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1263,18 +1251,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA1110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em selecionados de Moda e Bem-estar",
-      "validadeAte": "2026-10-12T12:01:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOM1110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1308,6 +1284,18 @@
       "limite": 50,
       "observacao": "Cupom válido em produtos selecionados em queima de estoque",
       "validadeAte": "2026-10-13T03:06:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMODEHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-13T12:02:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
