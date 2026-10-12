@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T13:22:32.388Z",
+  "atualizadoEm": "2026-10-12T14:36:53.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1381,30 +1381,6 @@
       "observacao": null,
       "validadeAte": "2026-10-13T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
-    },
-    {
-      "codigo": "MLDATADUPLA",
-      "loja": "Outro: Natura",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T14:34:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
-    },
-    {
-      "codigo": "MESDEZ",
-      "loja": "Outro: Natura",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T14:34:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
