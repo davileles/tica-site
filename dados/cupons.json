@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T14:36:53.414Z",
+  "atualizadoEm": "2026-10-12T15:22:32.361Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1275,18 +1275,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SOM1110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-12T15:00:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL1110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1332,6 +1320,18 @@
       "limite": 145,
       "observacao": null,
       "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-13T15:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
