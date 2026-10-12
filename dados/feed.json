@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T16:13:34.315Z",
+  "atualizadoEm": "2026-10-12T16:22:29.863Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29778",
+      "loja": "Amazon",
+      "titulo": "Baby Alive Boneca Bebê Confeiteira Gigi Giggles Morena com Avental e Acessórios de Cozinha",
+      "link": "https://www.amazon.com.br/dp/B0GGN4NX93?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41V2x6o9ahL._SL400_.jpg",
+      "preco": 45.99,
+      "precoDe": 99.99,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T16:14:27.272Z"
+    },
     {
       "id": "29774",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-11T13:03:57.813Z"
-    },
-    {
-      "id": "29415",
-      "loja": "Shopee",
-      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
-      "link": "https://s.shopee.com.br/4VdU38icmT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
-      "preco": 39.99,
-      "precoDe": 71.41,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T13:00:41.508Z"
     }
   ]
 }
