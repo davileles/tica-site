@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T20:06:33.700Z",
+  "atualizadoEm": "2026-10-12T21:32:34.387Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1272,6 +1272,18 @@
       "limite": 145,
       "observacao": null,
       "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-12T22:32:31.585Z",
       "url": "https://meli.la/2xystLt"
     },
     {
