@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T21:32:31.596Z",
+  "atualizadoEm": "2026-10-12T21:48:39.116Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29848",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Slim Pees Para Cães  30 Unidades  50x60cm",
+      "link": "https://s.shopee.com.br/4VdWDbKhUG",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyx-m0w2wg7zdcxc62_tn",
+      "preco": 34.9,
+      "precoDe": 79.32,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T21:38:39.115Z"
+    },
     {
       "id": "29846",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-10-11T17:08:07.053Z"
-    },
-    {
-      "id": "29505",
-      "loja": "Amazon",
-      "titulo": "Smartphone Motorola Moto g06-256GB 4GB RAM + 8GB Ram Boost e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Verde",
-      "link": "https://www.amazon.com.br/dp/B0FR5GGGWD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qrQSH5tDL._SL400_.jpg",
-      "preco": 791.99,
-      "precoDe": 1199,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T17:03:50.386Z"
     }
   ]
 }
