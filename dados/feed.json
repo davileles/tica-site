@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-12T18:02:37.646Z",
+  "atualizadoEm": "2026-10-12T18:22:29.862Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29802",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
+      "link": "https://meli.la/13KoUwK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
+      "preco": 872.1,
+      "precoDe": 1549.4,
+      "desconto": 37,
+      "cupom": "PROMODEHOJE",
+      "enviadoEm": "2026-10-12T18:21:31.670Z"
+    },
+    {
+      "id": "29801",
+      "loja": "Shopee",
+      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
+      "link": "https://s.shopee.com.br/8fT4xIbfdD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
+      "preco": 29.9,
+      "precoDe": 39.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T18:18:00.062Z"
+    },
+    {
+      "id": "29800",
+      "loja": "Amazon",
+      "titulo": "Mochila Grande Sestini NBA Legend Chicago, Preto e Vermelho",
+      "link": "https://www.amazon.com.br/dp/B0DTKV7NQC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UBWwPxOIL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 199.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T18:14:30.740Z"
+    },
+    {
+      "id": "29799",
+      "loja": "Amazon",
+      "titulo": "Jogo de Banho 4 peças Venus Select 340g/m² com fio Open end Camesa",
+      "link": "https://www.amazon.com.br/dp/B0GNNJ386S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MFa5ndM7L._SL400_.jpg",
+      "preco": 54.97,
+      "precoDe": 84.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T18:11:04.195Z"
+    },
+    {
+      "id": "29798",
+      "loja": "Shopee",
+      "titulo": "Celular IPhone 17 Pro Max 256GB 5G Dual E-sim Lacrado Original 1 Ano De Garantia",
+      "link": "https://s.shopee.com.br/1LgUDK37K6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mng5po7smps491_tn",
+      "preco": 7643.79,
+      "precoDe": 12530.8,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T18:07:52.911Z"
+    },
     {
       "id": "29794",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-11T16:02:32.930Z"
-    },
-    {
-      "id": "29464",
-      "loja": "Shopee",
-      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
-      "link": "https://s.shopee.com.br/30ogSdpJfH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
-      "preco": 16.99,
-      "precoDe": 80.9,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T15:59:08.356Z"
-    },
-    {
-      "id": "29441",
-      "loja": "Mercado Livre",
-      "titulo": "Cortador Lateral Pneumático Gamma G3186/br Disco 3",
-      "link": "https://meli.la/1C8REAj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828468-MLA93609986430_102025-F.jpg",
-      "preco": 49.51,
-      "precoDe": 139,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T15:39:49.189Z"
-    },
-    {
-      "id": "29440",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear Definição Natural 1kg",
-      "link": "https://s.shopee.com.br/AUuhMk32Z6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
-      "preco": 37.5,
-      "precoDe": 42.13,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T15:36:35.967Z"
-    },
-    {
-      "id": "29439",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Pares Meia Antiderrapante Esportiva Futebol Treino Pro",
-      "link": "https://meli.la/1s86KLC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749052-MLB113683666713_062026-O.webp",
-      "preco": 27.72,
-      "precoDe": 42.5,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T15:33:17.763Z"
-    },
-    {
-      "id": "29436",
-      "loja": "Mercado Livre",
-      "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
-      "link": "https://meli.la/1BfLBgo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_853637-MLB74931305887_032024-O.webp",
-      "preco": 39.99,
-      "precoDe": 60.47,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T15:20:57.788Z"
     }
   ]
 }
