@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T14:14:17.209Z",
+  "atualizadoEm": "2026-10-12T14:22:29.863Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29751",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Balanço Automática Happyful Para Bebê Clingo",
+      "link": "https://meli.la/1sWrWjz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808986-MLA95664304392_102025-F.jpg",
+      "preco": 392.48,
+      "precoDe": 898.9,
+      "desconto": 53,
+      "cupom": "MELIUZKIDS",
+      "enviadoEm": "2026-10-12T14:15:20.323Z"
+    },
     {
       "id": "29749",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-10-11T12:19:44.187Z"
-    },
-    {
-      "id": "29387",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 98.9,
-      "precoDe": 109.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T12:16:23.384Z"
     }
   ]
 }
