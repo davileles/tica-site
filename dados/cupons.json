@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-10-12T15:50:03.908Z",
+  "atualizadoEm": "2026-10-12T16:13:37.460Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "DOMINGOPRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-12T16:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "AINDA10DO10",
       "loja": "Amazon",
