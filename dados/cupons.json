@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-11T23:22:30.313Z",
+  "atualizadoEm": "2026-10-12T00:22:30.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,18 +48,6 @@
       "limite": null,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-10-12T20:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "ULTIMO10DO10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 300,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Válido no app Amazon",
-      "validadeAte": "2026-10-12T00:00:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1500,18 +1488,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-12T02:19:11.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "MAX21HAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 35,
-      "minimo": 129,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T00:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
