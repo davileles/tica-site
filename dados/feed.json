@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-12T20:06:30.965Z",
+  "atualizadoEm": "2026-10-12T20:22:29.867Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29828",
+      "loja": "Amazon",
+      "titulo": "Pringles Pack Promo Salgadinho de Batata Frita 3 Sabores - Original, Creme e Cebola e Churrasco",
+      "link": "https://www.amazon.com.br/dp/B0F35GPLGV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41joVKi1nLL._SL400_.jpg",
+      "preco": 24.22,
+      "precoDe": 29.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T20:21:13.218Z"
+    },
+    {
+      "id": "29826",
+      "loja": "Amazon",
+      "titulo": "Mesa Portátil Para Notebook Suporte Cama Sofá MA, Cor Aleatório",
+      "link": "https://www.amazon.com.br/dp/B09963FWYX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/6186LMX8o2L._SL400_.jpg",
+      "preco": 5,
+      "precoDe": 68.99,
+      "desconto": 93,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T20:17:41.726Z"
+    },
+    {
+      "id": "29825",
+      "loja": "Shopee",
+      "titulo": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "link": "https://s.shopee.com.br/3B88Wx9AJ3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b_tn",
+      "preco": 78,
+      "precoDe": 159.18,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T20:08:12.944Z"
+    },
     {
       "id": "29823",
       "loja": "Amazon",
@@ -1405,42 +1441,6 @@
       "desconto": 40,
       "cupom": "DOMINGOPRIME",
       "enviadoEm": "2026-10-11T16:38:01.930Z"
-    },
-    {
-      "id": "29482",
-      "loja": "Amazon",
-      "titulo": "Filtro de linha com protetor contra surtos (DPS) - 127/220 volts - 10 amperes - 5 tomadas - 3 pinos - iCLAMPER Energia 5 - LCF - Preto",
-      "link": "https://www.amazon.com.br/dp/B0D8V17JSG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31orrNZpvdL._SL400_.jpg",
-      "preco": 50.99,
-      "precoDe": 89.9,
-      "desconto": 33,
-      "cupom": "DOMINGOPRIME",
-      "enviadoEm": "2026-10-11T16:34:45.820Z"
-    },
-    {
-      "id": "29480",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51A9ytNWP1L._SL400_.jpg",
-      "preco": 87.01,
-      "precoDe": 189.9,
-      "desconto": 46,
-      "cupom": "DOMINGOPRIME",
-      "enviadoEm": "2026-10-11T16:27:46.604Z"
-    },
-    {
-      "id": "29479",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Brinquedo para Bebês Novo Xilofone 18 meses",
-      "link": "https://www.amazon.com.br/dp/B014KEE9LC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41jVNu6GU1L._SL400_.jpg",
-      "preco": 95.99,
-      "precoDe": 144.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T16:26:43.391Z"
     }
   ]
 }
