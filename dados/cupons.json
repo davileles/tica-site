@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T12:22:32.594Z",
+  "atualizadoEm": "2026-10-12T12:52:32.292Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -819,6 +819,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELITEMCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PARAVC",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1107,6 +1131,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIOFFHJ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAQUININHAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1287,6 +1323,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CARE15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-10-13T12:35:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMODEHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1295,7 +1355,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-13T12:02:08.000Z",
+      "validadeAte": "2026-10-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
