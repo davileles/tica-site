@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T21:22:30.409Z",
+  "atualizadoEm": "2026-10-12T21:32:31.596Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29846",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 74.59,
+      "precoDe": 106.18,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T21:22:31.595Z"
+    },
     {
       "id": "29845",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-11T17:03:50.386Z"
-    },
-    {
-      "id": "29498",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff 1750ml",
-      "link": "https://www.amazon.com.br/dp/B005IZZDAY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vrzk3W5NL._SL400_.jpg",
-      "preco": 45.029999999999994,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DOMINGOPRIME",
-      "enviadoEm": "2026-10-11T17:00:18.712Z"
     }
   ]
 }
