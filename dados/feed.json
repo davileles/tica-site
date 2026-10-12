@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-12T20:49:02.237Z",
+  "atualizadoEm": "2026-10-12T21:06:53.374Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29841",
+      "loja": "Mercado Livre",
+      "titulo": "Cortador De Cabelo Mondial Super Groom 6 Bg-04 Melhor Categ Preto/verde",
+      "link": "https://meli.la/1XEHVSX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738685-MLA100002770137_112025-F.jpg",
+      "preco": 80,
+      "precoDe": 195,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T20:56:53.372Z"
+    },
+    {
+      "id": "29840",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+      "link": "https://s.shopee.com.br/60SJxGdkbt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mic25g35m1vl17_tn",
+      "preco": 69.99,
+      "precoDe": 148.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T20:53:37.141Z"
+    },
     {
       "id": "29838",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-11T16:59:17.198Z"
-    },
-    {
-      "id": "29494",
-      "loja": "Amazon",
-      "titulo": "Câmbio Logitech G Driving Force - Compatível com Volantes Logitech G29, G920 e G923 para PS5, PS4, Xbox Series X|S, Xbox One e PC",
-      "link": "https://www.amazon.com.br/dp/B00Z0UWV3O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xwa5tyvHL._SL400_.jpg",
-      "preco": 279.15,
-      "precoDe": 469.9,
-      "desconto": 36,
-      "cupom": "DOMINGOPRIME",
-      "enviadoEm": "2026-10-11T16:56:12.573Z"
-    },
-    {
-      "id": "29493",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
-      "link": "https://www.amazon.com.br/dp/B0BBJPCMQM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514+Orfu4WL._SL400_.jpg",
-      "preco": 60.51,
-      "precoDe": 165,
-      "desconto": 57,
-      "cupom": "DOMINGOPRIME",
-      "enviadoEm": "2026-10-11T16:52:57.438Z"
     }
   ]
 }
