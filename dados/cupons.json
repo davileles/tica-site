@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-10-12T18:02:40.188Z",
+  "atualizadoEm": "2026-10-12T20:06:33.700Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "AINDA10DO10",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-10-12T20:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "15SELECAO",
       "loja": "BELEZA NA WEB",
