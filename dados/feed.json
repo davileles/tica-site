@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T21:06:53.374Z",
+  "atualizadoEm": "2026-10-12T21:22:30.409Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29845",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+      "link": "https://s.shopee.com.br/8KqEl6ILlf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde_tn",
+      "preco": 19.96,
+      "precoDe": 39.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T21:16:07.187Z"
+    },
     {
       "id": "29841",
       "loja": "Mercado Livre",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "DOMINGOPRIME",
       "enviadoEm": "2026-10-11T17:00:18.712Z"
-    },
-    {
-      "id": "29497",
-      "loja": "Mercado Livre",
-      "titulo": "Lava Roupas Líquido Omo Lavanderia Profissional Lavagem 7 L",
-      "link": "https://meli.la/1i9jYxn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685429-MLA116551180045_082026-F.jpg",
-      "preco": 69.06,
-      "precoDe": 92.28,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T16:59:17.198Z"
     }
   ]
 }
