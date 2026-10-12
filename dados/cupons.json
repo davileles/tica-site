@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T03:22:30.319Z",
+  "atualizadoEm": "2026-10-12T11:22:32.443Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -987,6 +987,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MAISCUPONS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "VEJAESSAPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1107,6 +1119,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MAQUININHAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 15,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1138,7 +1162,7 @@
       "minimo": 89,
       "maximo": null,
       "limite": 50,
-      "observacao": "Válido em lojas oficiais selecionadas",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-13T03:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
