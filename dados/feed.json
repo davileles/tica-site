@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-12T11:52:29.860Z",
+  "atualizadoEm": "2026-10-12T12:22:29.860Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29713",
+      "loja": "Mercado Livre",
+      "titulo": "Farol Palio Siena 96 97 98 99 Lente Vidro Foco Simples",
+      "link": "https://meli.la/1zZCzAH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_915166-MLB98519606929_112025-O.webp",
+      "preco": 67.99,
+      "precoDe": 89.45,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T12:20:35.889Z"
+    },
+    {
+      "id": "29712",
+      "loja": "Amazon",
+      "titulo": "Granado Shampoo Bebê, 250ml",
+      "link": "https://www.amazon.com.br/dp/B001EQBJ40?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vUBYbMsFL._SL400_.jpg",
+      "preco": 15.79,
+      "precoDe": 20.26,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T12:17:09.859Z"
+    },
+    {
+      "id": "29710",
+      "loja": "Shopee",
+      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
+      "link": "https://s.shopee.com.br/6VOZyJccF1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
+      "preco": 19.88,
+      "precoDe": 26.86,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T12:16:08.907Z"
+    },
+    {
+      "id": "29709",
+      "loja": "Mercado Livre",
+      "titulo": "Ferro A Vapor 1300w Azul Kian",
+      "link": "https://meli.la/1QUjgcR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948972-MLA99932912605_112025-F.jpg",
+      "preco": 56.5,
+      "precoDe": 90,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T12:12:53.392Z"
+    },
+    {
+      "id": "29708",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Tcl 589 Litros Inox Twin Eco Inverter Frost Free Multidoor Espaço Flex 110v C589cdn1",
+      "link": "https://meli.la/22brTTM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838584-MLA99452347366_112025-F.jpg",
+      "preco": 3600,
+      "precoDe": 12199,
+      "desconto": 69,
+      "cupom": "PROMODEHOJE",
+      "enviadoEm": "2026-10-12T12:09:14.991Z"
+    },
     {
       "id": "29700",
       "loja": "Shopee",
@@ -1381,66 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-10T23:20:33.648Z"
-    },
-    {
-      "id": "29327",
-      "loja": "Shopee",
-      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
-      "link": "https://s.shopee.com.br/5VW0HxixKa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-ms2kl83hgcg561_tn",
-      "preco": 20.27,
-      "precoDe": 69.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T22:41:51.480Z"
-    },
-    {
-      "id": "29326",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Ultimashow 2.0 adidas",
-      "link": "https://meli.la/2rpg3HU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987977-MLB114771288442_082026-O.webp",
-      "preco": 131.37,
-      "precoDe": 379.99,
-      "desconto": 51,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-10T22:38:37.621Z"
-    },
-    {
-      "id": "29321",
-      "loja": "Mercado Livre",
-      "titulo": "Body Spray Carolina Herrera 212 Men NYC Body Fragrance 250 ml",
-      "link": "https://meli.la/1QJjZb5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806865-MLA84175736968_052025-F.jpg",
-      "preco": 143.65,
-      "precoDe": 258.9,
-      "desconto": 45,
-      "cupom": "LOJAS1010",
-      "enviadoEm": "2026-10-10T22:32:23.324Z"
-    },
-    {
-      "id": "29324",
-      "loja": "Amazon",
-      "titulo": "Faca Santoku Aço Inox Tefal 18cm Ice Force",
-      "link": "https://www.amazon.com.br/dp/B07BCSHLF4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21OUOKBs+kL._SL400_.jpg",
-      "preco": 89.99,
-      "precoDe": 109.92,
-      "desconto": 9,
-      "cupom": "10DO10CUPOM",
-      "enviadoEm": "2026-10-10T22:28:48.025Z"
-    },
-    {
-      "id": "29322",
-      "loja": "Amazon",
-      "titulo": "Salton Espumante Moscatel 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMJBWQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LJPJ5+q4L._SL400_.jpg",
-      "preco": 32.9,
-      "precoDe": 54,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-10T22:25:24.790Z"
     }
   ]
 }
