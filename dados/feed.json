@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-12T15:50:01.217Z",
+  "atualizadoEm": "2026-10-12T16:13:34.315Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29774",
+      "loja": "Amazon",
+      "titulo": "Kit Cenoura & Bronze Protetor Solar Aerossol Spray FPS30 200ml - 2 unidades",
+      "link": "https://www.amazon.com.br/dp/B0FKVXQSQD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BdiMSxbjL._SL400_.jpg",
+      "preco": 66.48,
+      "precoDe": 84.99,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T16:03:34.314Z"
+    },
+    {
+      "id": "29773",
+      "loja": "Shopee",
+      "titulo": "Karaokê Bluetooth com 2 Microfones Sem Fio Caixa de Som Portátil ANJGG BRASIL",
+      "link": "https://s.shopee.com.br/2gBrenKW1p",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpido8umydqje7_tn",
+      "preco": 29.99,
+      "precoDe": 81.05,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T16:00:16.592Z"
+    },
+    {
+      "id": "29772",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
+      "link": "https://meli.la/1C9bQRv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906529-MLA115584916886_092026-F.jpg",
+      "preco": 29.55,
+      "precoDe": 59.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T15:56:49.351Z"
+    },
     {
       "id": "29770",
       "loja": "Amazon",
@@ -157,18 +193,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-12T13:04:27.921Z"
-    },
-    {
-      "id": "29730",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
-      "link": "https://meli.la/1C9bQRv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906529-MLA115584916886_092026-F.jpg",
-      "preco": 31.4,
-      "precoDe": 59.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T13:01:02.893Z"
     },
     {
       "id": "29729",
@@ -1417,30 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-10-11T13:00:41.508Z"
-    },
-    {
-      "id": "29410",
-      "loja": "Mercado Livre",
-      "titulo": "Suplemento em pasta Dr. Peanut Melhor Pasta de Amendoim amentoim cremosa sabor Bueníssimo x 600g",
-      "link": "https://meli.la/2g23tNc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_887401-MLA112548915309_062026-F.jpg",
-      "preco": 42.5,
-      "precoDe": 62.5,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T12:50:40.927Z"
-    },
-    {
-      "id": "29408",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "link": "https://s.shopee.com.br/3LRWdk0lkJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
-      "preco": 51.9,
-      "precoDe": 140.27,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T12:44:24.960Z"
     }
   ]
 }
