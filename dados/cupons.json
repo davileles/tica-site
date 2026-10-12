@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-12T00:22:30.329Z",
+  "atualizadoEm": "2026-10-12T01:22:30.386Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -483,18 +483,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "ENERGIA7",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 7,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T01:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "POP5OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -505,18 +493,6 @@
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "INFLUDUPLA22H",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 800,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-12T01:02:08.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "TODOOSITE",
