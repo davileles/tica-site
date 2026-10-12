@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-12T17:17:46.275Z",
+  "atualizadoEm": "2026-10-12T17:40:14.760Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29792",
+      "loja": "Shopee",
+      "titulo": "Kit Golzinho Mini Trave Futebol Infantil Gol Brinquedo 60x40 Crianças Bola e Bomba de Ar",
+      "link": "https://s.shopee.com.br/40hFLdIP4h",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mpmnvtnq4r28c5_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T17:30:14.758Z"
+    },
     {
       "id": "29788",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-10-11T14:31:35.970Z"
-    },
-    {
-      "id": "29430",
-      "loja": "Shopee",
-      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "link": "https://s.shopee.com.br/gQlYnbvBH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
-      "preco": 10.9,
-      "precoDe": 21.37,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T14:09:03.939Z"
     }
   ]
 }
