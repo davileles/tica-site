@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-12T16:22:29.863Z",
+  "atualizadoEm": "2026-10-12T16:35:55.251Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29781",
+      "loja": "Amazon",
+      "titulo": "Adaptador de corrente USB-C de 20 W",
+      "link": "https://www.amazon.com.br/dp/B0CX5DHV4Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21CYbc-tskL._SL400_.jpg",
+      "preco": 144.43,
+      "precoDe": 219,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T16:25:55.248Z"
+    },
+    {
+      "id": "29780",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
+      "link": "https://s.shopee.com.br/1BN3tn47rY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c_tn",
+      "preco": 44.9,
+      "precoDe": 59.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-12T16:22:40.760Z"
+    },
     {
       "id": "29778",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-10-11T13:23:23.314Z"
-    },
-    {
-      "id": "29417",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
-      "link": "https://s.shopee.com.br/9pf0PNzk8l",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9_tn",
-      "preco": 18.82,
-      "precoDe": 48.26,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T13:07:19.012Z"
-    },
-    {
-      "id": "29416",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de roupas Electrolux Efficient Lee18 18kg com cesto inox 127",
-      "link": "https://meli.la/1eaji8H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822477-MLA99566766842_122025-F.jpg",
-      "preco": 1899,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-11T13:03:57.813Z"
     }
   ]
 }
