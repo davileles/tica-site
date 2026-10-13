@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-13T22:35:11.960Z",
+  "atualizadoEm": "2026-10-13T22:44:29.331Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30356",
+      "loja": "Shopee",
+      "titulo": "Termômetro De Testa Infravermelha Digital",
+      "link": "https://s.shopee.com.br/7KxjGEFZE8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
+      "preco": 24.88,
+      "precoDe": 118.48,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T22:44:23.574Z"
+    },
+    {
+      "id": "30355",
+      "loja": "Amazon",
+      "titulo": "CIF Cremoso Limpeza Milagrosa Laranja 450 ml",
+      "link": "https://www.amazon.com.br/dp/B07P5FHQGQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-dQQmxBqL._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": 22.4,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T22:40:08.454Z"
+    },
+    {
+      "id": "30353",
+      "loja": "Amazon",
+      "titulo": "Hidromel Favos - 750 ml (Tradicional)",
+      "link": "https://www.amazon.com.br/dp/B0DM4DN3NY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yXejWg+cL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 89.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T22:36:46.706Z"
+    },
+    {
+      "id": "30352",
+      "loja": "Amazon",
+      "titulo": "Gabinete Gamer Redragon Eternal Preto e Vermelho Sem Fans CA-612BR",
+      "link": "https://www.amazon.com.br/dp/B0GJ7GG3YV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Bv7xSVagL._SL400_.jpg",
+      "preco": 346.15,
+      "precoDe": 492.48,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T22:35:45.483Z"
+    },
     {
       "id": "30351",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-13T13:32:50.301Z"
-    },
-    {
-      "id": "30015",
-      "loja": "Amazon",
-      "titulo": "Extrator De Leite El�trico Fisher Price BB320",
-      "link": "https://www.amazon.com.br/dp/B08KGP6M7F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Cj-u-x5BL._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 549.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T13:27:17.953Z"
-    },
-    {
-      "id": "30014",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/905wco4xz8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T13:26:29.729Z"
-    },
-    {
-      "id": "30013",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Para Nadar Pampers Splashers Baby Shark Tamanho XG 10 Unidades",
-      "link": "https://meli.la/2Xohh6Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_976309-MLA99357260702_112025-F.jpg",
-      "preco": 34.99,
-      "precoDe": 38.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T13:22:50.889Z"
-    },
-    {
-      "id": "30010",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/2BFcTb38nt",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.99,
-      "precoDe": 67.96,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T13:17:54.108Z"
     }
   ]
 }
