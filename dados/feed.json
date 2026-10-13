@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-13T13:33:08.803Z",
+  "atualizadoEm": "2026-10-13T14:00:01.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30025",
+      "loja": "Amazon",
+      "titulo": "Nebacetin Baby Prevenção Pomada Contra Assaduras 60g - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas do Bebê",
+      "link": "https://www.amazon.com.br/dp/B0CN78KBW2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rKrVywJWL._SL400_.jpg",
+      "preco": 25.9,
+      "precoDe": 35.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T13:50:01.390Z"
+    },
+    {
+      "id": "30023",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/3qNqV18DRK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 94.9,
+      "precoDe": 120.13,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T13:49:01.802Z"
+    },
     {
       "id": "30018",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-12T12:23:58.869Z"
-    },
-    {
-      "id": "29713",
-      "loja": "Mercado Livre",
-      "titulo": "Farol Palio Siena 96 97 98 99 Lente Vidro Foco Simples",
-      "link": "https://meli.la/1zZCzAH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_915166-MLB98519606929_112025-O.webp",
-      "preco": 67.99,
-      "precoDe": 89.45,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T12:20:35.889Z"
-    },
-    {
-      "id": "29712",
-      "loja": "Amazon",
-      "titulo": "Granado Shampoo Bebê, 250ml",
-      "link": "https://www.amazon.com.br/dp/B001EQBJ40?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vUBYbMsFL._SL400_.jpg",
-      "preco": 15.79,
-      "precoDe": 20.26,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T12:17:09.859Z"
     }
   ]
 }
