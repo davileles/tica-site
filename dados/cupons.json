@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T13:11:31.195Z",
+  "atualizadoEm": "2026-10-13T14:00:04.384Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -51,6 +51,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
+      "codigo": "BELEZA10",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 60,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-13T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
       "codigo": "ESPORTIVO",
       "loja": "C&A",
       "tipo": "pct",
@@ -72,18 +84,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-03T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "BELEZA10",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
