@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-13T12:33:08.791Z",
+  "atualizadoEm": "2026-10-13T13:03:08.792Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30001",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/5AtE2BO5Nj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 78.12,
+      "precoDe": 137.05,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T13:01:30.633Z"
+    },
+    {
+      "id": "29997",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+      "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u-fbQqHWL._SL400_.jpg",
+      "preco": 27.99,
+      "precoDe": 44.36,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T12:55:39.227Z"
+    },
+    {
+      "id": "29992",
+      "loja": "Shopee",
+      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
+      "link": "https://s.shopee.com.br/1gJLqtAQH5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
+      "preco": 33.96,
+      "precoDe": 109.55,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T12:52:02.110Z"
+    },
+    {
+      "id": "29990",
+      "loja": "Mercado Livre",
+      "titulo": "Fantasia Infantil Menino Personagens Herois Aniversario 2-10",
+      "link": "https://meli.la/1dbf4SM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784052-MLB98002834845_112025-O.webp",
+      "preco": 34.93,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMON",
+      "enviadoEm": "2026-10-13T12:48:33.882Z"
+    },
+    {
+      "id": "29988",
+      "loja": "Amazon",
+      "titulo": "Mor - Caixa Térmica 18 Litros Preta",
+      "link": "https://www.amazon.com.br/dp/B0BBPM1KCG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316ZQlt2dKL._SL400_.jpg",
+      "preco": 57.5,
+      "precoDe": 76.54,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T12:47:33.845Z"
+    },
+    {
+      "id": "29983",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer 27\" Acer Nitro KG3 KG273 G0bi com Tela IPS Full HD 120Hz 1ms VRB Adaptive Sync Game Mode AcerVision Care e Design ZeroFrame",
+      "link": "https://meli.la/2Aw2gkj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774819-MLA118112177575_092026-F.jpg",
+      "preco": 565.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORDEHJ",
+      "enviadoEm": "2026-10-13T12:46:43.991Z"
+    },
+    {
+      "id": "29981",
+      "loja": "Amazon",
+      "titulo": "Buba Mictorio Inf. Sapinho Azul Azul",
+      "link": "https://www.amazon.com.br/dp/B07CVQWSG7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e6K+CZqWL._SL400_.jpg",
+      "preco": 26.59,
+      "precoDe": 70.9,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T12:43:06.245Z"
+    },
+    {
+      "id": "29978",
+      "loja": "Mercado Livre",
+      "titulo": "Rastreador Smart Tag objetos Basike Localizador Air Tag Bluetooth Gps Portatil Para Apple Compatível App Buscar, Bateria Duradoura Mala Chaveiro Moto Veicular Pet Gato Bike IPX67",
+      "link": "https://meli.la/2ATn1fu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669632-MLA113180749745_062026-F.jpg",
+      "preco": 34.43,
+      "precoDe": 104.65,
+      "desconto": 53,
+      "cupom": "MELISALVA",
+      "enviadoEm": "2026-10-13T12:41:53.771Z"
+    },
+    {
+      "id": "29976",
+      "loja": "Amazon",
+      "titulo": "Mesa Portátil Para Notebook Suporte Cama Sofá MA, Cor Aleatório",
+      "link": "https://www.amazon.com.br/dp/B09963FWYX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/6186LMX8o2L._SL400_.jpg",
+      "preco": 32.17,
+      "precoDe": 68.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T12:38:02.072Z"
+    },
+    {
+      "id": "29975",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Lenovo Slim3 R7 8gb 256GB Ssd 15.3 Fhd Linux",
+      "link": "https://meli.la/1zvWv4V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967344-MLA98386191356_112025-F.jpg",
+      "preco": 2993,
+      "precoDe": 5529,
+      "desconto": 42,
+      "cupom": "MELHORDEHJ",
+      "enviadoEm": "2026-10-13T12:34:26.001Z"
+    },
     {
       "id": "29972",
       "loja": "Mercado Livre",
@@ -649,18 +769,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-10-12T20:21:13.218Z"
-    },
-    {
-      "id": "29826",
-      "loja": "Amazon",
-      "titulo": "Mesa Portátil Para Notebook Suporte Cama Sofá MA, Cor Aleatório",
-      "link": "https://www.amazon.com.br/dp/B09963FWYX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/6186LMX8o2L._SL400_.jpg",
-      "preco": 5,
-      "precoDe": 68.99,
-      "desconto": 93,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T20:17:41.726Z"
     },
     {
       "id": "29825",
@@ -1333,114 +1441,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-12T11:25:50.988Z"
-    },
-    {
-      "id": "29693",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7, Nfc, Ip54 - Cinza",
-      "link": "https://meli.la/2JQmWav",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807545-MLA91949036595_092025-F.jpg",
-      "preco": 849,
-      "precoDe": 1499,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T11:18:43.875Z"
-    },
-    {
-      "id": "29690",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Vidro Hermetico Vai Ao Forno Microondas 640ml Marmita Hermético Freezer Fitness Rishon",
-      "link": "https://meli.la/1Psrfvm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_900432-MLA113518359539_062026-F.jpg",
-      "preco": 97.62,
-      "precoDe": 197.77,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T11:12:27.139Z"
-    },
-    {
-      "id": "29687",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada Dark Lab 1kg (100%)",
-      "link": "https://meli.la/1JVBYQL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
-      "preco": 78.9,
-      "precoDe": 159.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T11:06:56.183Z"
-    },
-    {
-      "id": "29686",
-      "loja": "Shopee",
-      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
-      "link": "https://s.shopee.com.br/8AWnsgvQUS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
-      "preco": 21.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T11:03:15.208Z"
-    },
-    {
-      "id": "29631",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Masculino Sport Edt 100ml Azzaro",
-      "link": "https://meli.la/1eK94j6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_926268-MLA106200609623_012026-F.jpg",
-      "preco": 185.72,
-      "precoDe": 389,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T22:16:15.390Z"
-    },
-    {
-      "id": "29630",
-      "loja": "Shopee",
-      "titulo": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
-      "link": "https://s.shopee.com.br/9pf10NAYxf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
-      "preco": 26.99,
-      "precoDe": 45.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T22:07:37.236Z"
-    },
-    {
-      "id": "29627",
-      "loja": "Amazon",
-      "titulo": "Philco Ferro a Vapor Travel Ceramic Bivolt Base em Cerâmica",
-      "link": "https://www.amazon.com.br/dp/B0985RJT3K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FEv1+Yt8L._SL400_.jpg",
-      "preco": 54.900000000000006,
-      "precoDe": 144.9,
-      "desconto": 52,
-      "cupom": "AINDA10DO10",
-      "enviadoEm": "2026-10-11T22:04:19.665Z"
-    },
-    {
-      "id": "29624",
-      "loja": "Amazon",
-      "titulo": "Aircooler Redragon Tyr Preto Iluminação Rainbow com Fan de 120mm CC-9104",
-      "link": "https://www.amazon.com.br/dp/B09HMVQ98L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kEkQOuq9L._SL400_.jpg",
-      "preco": 74,
-      "precoDe": 136.25,
-      "desconto": 35,
-      "cupom": "AINDA10DO10",
-      "enviadoEm": "2026-10-11T22:00:47.167Z"
-    },
-    {
-      "id": "29623",
-      "loja": "Amazon",
-      "titulo": "CeraVe Oil Control, Loção Facial Hidratante para Pele Oleosa, 52g",
-      "link": "https://www.amazon.com.br/dp/B0DPNHDC9B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31au88WfSSL._SL400_.jpg",
-      "preco": 59.370000000000005,
-      "precoDe": 99.9,
-      "desconto": 26,
-      "cupom": "AINDA10DO10",
-      "enviadoEm": "2026-10-11T21:57:15.756Z"
     }
   ]
 }
