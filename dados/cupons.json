@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T16:14:30.803Z",
+  "atualizadoEm": "2026-10-13T18:14:30.858Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1227,18 +1227,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "JOGOS1210",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em livros e jogos selecionados",
-      "validadeAte": "2026-10-13T18:00:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORDEHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1260,6 +1248,18 @@
       "limite": 20,
       "observacao": "Válido para entregas Full em selecionados",
       "validadeAte": "2026-10-14T15:01:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA1310",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em produtos selecionados de moda",
+      "validadeAte": "2026-10-14T18:05:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
