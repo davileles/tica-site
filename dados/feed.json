@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-13T14:57:46.246Z",
+  "atualizadoEm": "2026-10-13T15:15:02.534Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30073",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
+      "link": "https://s.shopee.com.br/2VsT09Iqyx",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mfuzvads9e6l43_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T15:14:31.101Z"
+    },
+    {
+      "id": "30072",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Interativo Foguete Atividades Com Som",
+      "link": "https://meli.la/1AGKyyB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719519-MLA104795331638_012026-O.webp",
+      "preco": 56.87,
+      "precoDe": 78.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T15:11:25.000Z"
+    },
+    {
+      "id": "30070",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gD6xEMGsL._SL400_.jpg",
+      "preco": 722,
+      "precoDe": 1399.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T15:06:27.172Z"
+    },
+    {
+      "id": "30068",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Naninha Pelucia + Travesseiro",
+      "link": "https://meli.la/2qrJhei",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720049-MLB111134261053_052026-O.webp",
+      "preco": 27.290000000000003,
+      "precoDe": 59.99,
+      "desconto": 35,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-10-13T15:01:06.746Z"
+    },
+    {
+      "id": "30067",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda De Pano Estampada Comum 100% Algodão Kit Com 5",
+      "link": "https://meli.la/2jGG6cH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702181-MLB88938927440_082025-O.webp",
+      "preco": 34.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTEI",
+      "enviadoEm": "2026-10-13T14:59:58.559Z"
+    },
+    {
+      "id": "30065",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
+      "link": "https://s.shopee.com.br/8KqFw62uB0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
+      "preco": 29.97,
+      "precoDe": 48.34,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T14:59:03.557Z"
+    },
     {
       "id": "30061",
       "loja": "Shopee",
@@ -1369,78 +1441,6 @@
       "desconto": 53,
       "cupom": "MELIUZKIDS",
       "enviadoEm": "2026-10-12T14:15:20.323Z"
-    },
-    {
-      "id": "29749",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "link": "https://s.shopee.com.br/LnwkkLNYz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
-      "preco": 10.5,
-      "precoDe": 12.65,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T14:04:17.206Z"
-    },
-    {
-      "id": "29744",
-      "loja": "Shopee",
-      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
-      "link": "https://s.shopee.com.br/9zySExsYlk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
-      "preco": 34.9,
-      "precoDe": 60.17,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T13:41:49.154Z"
-    },
-    {
-      "id": "29741",
-      "loja": "Shopee",
-      "titulo": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
-      "link": "https://s.shopee.com.br/80DNpS25b3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c_tn",
-      "preco": 34.98,
-      "precoDe": 69.96,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T13:19:19.019Z"
-    },
-    {
-      "id": "29734",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Samsung Galaxy Book4 Intel Core 3-100U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6\" Full HD LED, 1.55kg",
-      "link": "https://meli.la/1ux4jM9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791366-MLA115535131971_082026-F.jpg",
-      "preco": 2991,
-      "precoDe": 4699,
-      "desconto": 32,
-      "cupom": "PROMODEHOJE",
-      "enviadoEm": "2026-10-12T13:12:06.025Z"
-    },
-    {
-      "id": "29732",
-      "loja": "Amazon",
-      "titulo": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt Plástico e Metal",
-      "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31u2ufPDL0L._SL400_.jpg",
-      "preco": 59,
-      "precoDe": 111.67,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T13:04:27.921Z"
-    },
-    {
-      "id": "29729",
-      "loja": "Amazon",
-      "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
-      "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41V0YBdRv4L._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 92.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T12:57:40.782Z"
     }
   ]
 }
