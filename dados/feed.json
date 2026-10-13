@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-13T21:43:50.727Z",
+  "atualizadoEm": "2026-10-13T22:09:33.224Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30343",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/20wCr88991",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m31syvxotyp390_tn",
+      "preco": 24.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:59:33.224Z"
+    },
+    {
+      "id": "30341",
+      "loja": "Mercado Livre",
+      "titulo": "3x Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "link": "https://meli.la/15RtAi7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989710-MLB117885955947_092026-O.webp",
+      "preco": 78.9,
+      "precoDe": 188.66,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:51:59.883Z"
+    },
     {
       "id": "30337",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "CUPOMON",
       "enviadoEm": "2026-10-13T12:48:33.882Z"
-    },
-    {
-      "id": "29988",
-      "loja": "Amazon",
-      "titulo": "Mor - Caixa Térmica 18 Litros Preta",
-      "link": "https://www.amazon.com.br/dp/B0BBPM1KCG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316ZQlt2dKL._SL400_.jpg",
-      "preco": 57.5,
-      "precoDe": 76.54,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T12:47:33.845Z"
-    },
-    {
-      "id": "29983",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer 27\" Acer Nitro KG3 KG273 G0bi com Tela IPS Full HD 120Hz 1ms VRB Adaptive Sync Game Mode AcerVision Care e Design ZeroFrame",
-      "link": "https://meli.la/2Aw2gkj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774819-MLA118112177575_092026-F.jpg",
-      "preco": 565.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORDEHJ",
-      "enviadoEm": "2026-10-13T12:46:43.991Z"
     }
   ]
 }
