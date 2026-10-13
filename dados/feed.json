@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-13T19:44:29.207Z",
+  "atualizadoEm": "2026-10-13T20:07:23.056Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30290",
+      "loja": "Shopee",
+      "titulo": "Manta Canelada Casal Premium Soft 2,00x1,80",
+      "link": "https://s.shopee.com.br/60SLUIzwEh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnlvg1tbda8403_tn",
+      "preco": 33.9,
+      "precoDe": 63.96,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T19:57:23.055Z"
+    },
+    {
+      "id": "30289",
+      "loja": "Amazon",
+      "titulo": "KIT COLETOR DE LEITE MATERNO LILLO MAMY",
+      "link": "https://www.amazon.com.br/dp/B0CCZYS6KP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51-hnu40nZL._SL400_.jpg",
+      "preco": 64.9,
+      "precoDe": 72.12,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T19:52:38.006Z"
+    },
+    {
+      "id": "30288",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 400ml",
+      "link": "https://www.amazon.com.br/dp/B08JQRQYCL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yetZwSg0L._SL400_.jpg",
+      "preco": 19.59,
+      "precoDe": 34.17,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T19:51:45.275Z"
+    },
+    {
+      "id": "30287",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/8V9gSR6T0N",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 469,
+      "precoDe": 651.39,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T19:50:34.892Z"
+    },
     {
       "id": "30282",
       "loja": "Amazon",
@@ -1393,54 +1441,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-13T11:29:25.776Z"
-    },
-    {
-      "id": "29922",
-      "loja": "Shopee",
-      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
-      "link": "https://s.shopee.com.br/3qNqL08Q6L",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
-      "preco": 242.92,
-      "precoDe": 269.91,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T11:23:19.117Z"
-    },
-    {
-      "id": "29920",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
-      "link": "https://meli.la/29mV8xx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867759-MLA114922573313_072026-F.jpg",
-      "preco": 194.43,
-      "precoDe": 203.9,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T11:20:05.512Z"
-    },
-    {
-      "id": "29919",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
-      "link": "https://meli.la/2WPtSZD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_925302-MLA99917067965_112025-F.jpg",
-      "preco": 183.37,
-      "precoDe": 204.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T11:19:07.987Z"
-    },
-    {
-      "id": "29915",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Un",
-      "link": "https://meli.la/1m5oA7R",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988581-MLA110683983180_052026-F.jpg",
-      "preco": 104.9,
-      "precoDe": 133.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T11:15:51.354Z"
     }
   ]
 }
