@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T11:22:33.054Z",
+  "atualizadoEm": "2026-10-13T12:03:11.803Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -348,18 +348,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-13T15:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "10DO10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -819,6 +807,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CUPOMON",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1071,6 +1071,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPERCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIDESCONTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRINHASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1236,6 +1260,18 @@
       "limite": 20,
       "observacao": "Válido em livros e jogos selecionados",
       "validadeAte": "2026-10-13T18:00:37.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORDEHJ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-14T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
