@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-13T21:14:29.301Z",
+  "atualizadoEm": "2026-10-13T21:32:14.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30336",
+      "loja": "Amazon",
+      "titulo": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
+      "link": "https://www.amazon.com.br/dp/B07NPYD9KF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31XAkeHUahL._SL400_.jpg",
+      "preco": 22.39,
+      "precoDe": 35,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:22:14.391Z"
+    },
+    {
+      "id": "30335",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto By Total 20v Brushless 66 Azul",
+      "link": "https://meli.la/19wv3EQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747869-MLA111138424404_052026-F.jpg",
+      "preco": 370,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:19:22.727Z"
+    },
     {
       "id": "30330",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-10-13T12:43:06.245Z"
-    },
-    {
-      "id": "29978",
-      "loja": "Mercado Livre",
-      "titulo": "Rastreador Smart Tag objetos Basike Localizador Air Tag Bluetooth Gps Portatil Para Apple Compatível App Buscar, Bateria Duradoura Mala Chaveiro Moto Veicular Pet Gato Bike IPX67",
-      "link": "https://meli.la/2ATn1fu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669632-MLA113180749745_062026-F.jpg",
-      "preco": 34.43,
-      "precoDe": 104.65,
-      "desconto": 53,
-      "cupom": "MELISALVA",
-      "enviadoEm": "2026-10-13T12:41:53.771Z"
-    },
-    {
-      "id": "29976",
-      "loja": "Amazon",
-      "titulo": "Mesa Portátil Para Notebook Suporte Cama Sofá MA, Cor Aleatório",
-      "link": "https://www.amazon.com.br/dp/B09963FWYX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/6186LMX8o2L._SL400_.jpg",
-      "preco": 32.17,
-      "precoDe": 68.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T12:38:02.072Z"
     }
   ]
 }
