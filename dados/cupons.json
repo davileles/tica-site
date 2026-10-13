@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T20:34:10.227Z",
+  "atualizadoEm": "2026-10-13T21:09:36.125Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1368,6 +1368,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-13T22:00:23.756Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHOROFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom válido em produtos selecionados",
+      "validadeAte": "2026-10-14T21:03:43.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
