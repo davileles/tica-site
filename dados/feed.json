@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-13T20:07:23.056Z",
+  "atualizadoEm": "2026-10-13T20:14:29.291Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30303",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/30ojvsNgdM",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 279.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T20:13:09.955Z"
+    },
     {
       "id": "30290",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-10-13T11:36:30.440Z"
-    },
-    {
-      "id": "29924",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/9pf3USNXdu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 69.99,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T11:29:25.776Z"
     }
   ]
 }
