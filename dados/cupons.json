@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T12:33:12.261Z",
+  "atualizadoEm": "2026-10-13T13:03:11.789Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -97,18 +97,6 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "10DO10",
-      "loja": "Camicado",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17790&id=1207116"
     },
     {
       "codigo": "DUFRIO50",
@@ -300,18 +288,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CPUPROMO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1131,18 +1107,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIOFFHJ",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-13T12:35:21.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAQUININHAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1224,18 +1188,6 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CARE15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": null,
-      "validadeAte": "2026-10-13T12:35:21.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1333,30 +1285,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "F3L1ZD14D4SK1DS",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T13:01:29.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "PR3S3NT320",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T13:01:49.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "CR3SC3",
