@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-13T14:33:08.635Z",
+  "atualizadoEm": "2026-10-13T14:45:02.534Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30060",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Calça e Blusa De Moletom Liso",
+      "link": "https://meli.la/1SqHsUJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773792-MLB115446588341_082026-O.webp",
+      "preco": 69.99,
+      "precoDe": 78.99,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T14:44:17.902Z"
+    },
+    {
+      "id": "30054",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/BUYBXkAaJ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T14:36:29.550Z"
+    },
     {
       "id": "30051",
       "loja": "Shopee",
@@ -1417,30 +1441,6 @@
       "desconto": null,
       "cupom": "PROMODEHOJE",
       "enviadoEm": "2026-10-12T12:56:44.209Z"
-    },
-    {
-      "id": "29727",
-      "loja": "Amazon",
-      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 24.24,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T12:53:21.587Z"
-    },
-    {
-      "id": "29726",
-      "loja": "Shopee",
-      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
-      "link": "https://s.shopee.com.br/1LgTqi1khb",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
-      "preco": 29.98,
-      "precoDe": 44.09,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-12T12:52:23.650Z"
     }
   ]
 }
