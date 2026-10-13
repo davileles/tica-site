@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T19:14:31.073Z",
+  "atualizadoEm": "2026-10-13T20:34:10.227Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1359,6 +1359,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-13T22:00:23.756Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "WELCOME15",
       "loja": "Oceane",
       "tipo": "pct",
@@ -1381,6 +1393,18 @@
       "observacao": "Válido em console selecionado",
       "validadeAte": "2026-10-14T13:02:38.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "D1AD3CUP0M10",
+      "loja": "Outro: não especificada",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código de cupom identificado, mas sem informações sobre loja, valor mínimo ou condições de uso",
+      "validadeAte": "2026-10-14T20:31:05.000Z",
+      "url": null
     },
     {
       "codigo": "BEMVINDA",
@@ -1440,6 +1464,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-14T15:00:36.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D1AD3CUP0M10",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-14T20:31:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
