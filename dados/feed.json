@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-13T21:32:14.392Z",
+  "atualizadoEm": "2026-10-13T21:43:50.727Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30337",
+      "loja": "Shopee",
+      "titulo": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
+      "link": "https://s.shopee.com.br/3qNr0wE9nF",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdym-lxrzfhio6fhl9d_tn",
+      "preco": 45.88,
+      "precoDe": 152.93,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:33:50.725Z"
+    },
     {
       "id": "30336",
       "loja": "Amazon",
@@ -1429,18 +1441,6 @@
       "desconto": null,
       "cupom": "MELHORDEHJ",
       "enviadoEm": "2026-10-13T12:46:43.991Z"
-    },
-    {
-      "id": "29981",
-      "loja": "Amazon",
-      "titulo": "Buba Mictorio Inf. Sapinho Azul Azul",
-      "link": "https://www.amazon.com.br/dp/B07CVQWSG7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41e6K+CZqWL._SL400_.jpg",
-      "preco": 26.59,
-      "precoDe": 70.9,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T12:43:06.245Z"
     }
   ]
 }
