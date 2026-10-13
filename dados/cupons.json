@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T18:44:30.709Z",
+  "atualizadoEm": "2026-10-13T19:14:31.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -351,6 +351,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "COOLERS15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-14T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "COMPREJUNTOAPPLE",
       "loja": "Kabum",
       "tipo": "pct",
@@ -408,6 +420,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-14T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "HUSKY10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-19T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
