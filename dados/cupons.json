@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-13T02:22:30.846Z",
+  "atualizadoEm": "2026-10-13T03:22:30.840Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "SOBREMESA15",
-      "loja": "Brinox Shop",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
       "codigo": "JOGOSDEPANELASBRINOX",
@@ -423,18 +411,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -552,6 +528,18 @@
       "limite": 500,
       "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIUZKIDS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1095,18 +1083,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ECONOMIAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIOFFHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1143,30 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ITENSDISNEY",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RESGATELOJAS11",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-13T03:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1188,18 +1140,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIUZKIDS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1227,54 +1167,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIBRASTOY",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "INTERNACIONAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 39,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-13T03:00:20.201Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESTOQUE1210",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom válido em produtos selecionados em queima de estoque",
-      "validadeAte": "2026-10-13T03:06:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:30.201Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARE15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1287,15 +1179,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMODEHOJE",
+      "codigo": "ESTOQUEMELI13",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
+      "valor": 15,
+      "minimo": 99,
       "maximo": null,
-      "limite": 200,
+      "limite": 50,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-13T02:59:00.000Z",
+      "validadeAte": "2026-10-14T03:00:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1311,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "KID50",
-      "loja": "Mizuno",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
-    },
-    {
       "codigo": "WELCOME15",
       "loja": "Oceane",
       "tipo": "pct",
@@ -1333,18 +1213,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "OLYKIDS20",
-      "loja": "Olympikus",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
@@ -1393,18 +1261,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "K1DSDAYAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 125,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-13T03:00:26.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "F3L1ZD14D4SK1DS",
