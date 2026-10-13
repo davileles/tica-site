@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-13T21:09:34.705Z",
+  "atualizadoEm": "2026-10-13T21:14:29.301Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30330",
+      "loja": "Shopee",
+      "titulo": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
+      "link": "https://s.shopee.com.br/5VW4yCMBhL",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f_tn",
+      "preco": 42.99,
+      "precoDe": 116.19,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T21:11:15.921Z"
+    },
     {
       "id": "30327",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-13T12:38:02.072Z"
-    },
-    {
-      "id": "29975",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo Slim3 R7 8gb 256GB Ssd 15.3 Fhd Linux",
-      "link": "https://meli.la/1zvWv4V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967344-MLA98386191356_112025-F.jpg",
-      "preco": 2993,
-      "precoDe": 5529,
-      "desconto": 42,
-      "cupom": "MELHORDEHJ",
-      "enviadoEm": "2026-10-13T12:34:26.001Z"
     }
   ]
 }
