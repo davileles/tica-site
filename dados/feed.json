@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-12T23:12:07.663Z",
+  "atualizadoEm": "2026-10-13T11:22:30.417Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "29920",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
+      "link": "https://meli.la/29mV8xx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867759-MLA114922573313_072026-F.jpg",
+      "preco": 194.43,
+      "precoDe": 203.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:20:05.512Z"
+    },
+    {
+      "id": "29919",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
+      "link": "https://meli.la/2WPtSZD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_925302-MLA99917067965_112025-F.jpg",
+      "preco": 183.37,
+      "precoDe": 204.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:19:07.987Z"
+    },
+    {
+      "id": "29915",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Un",
+      "link": "https://meli.la/1m5oA7R",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988581-MLA110683983180_052026-F.jpg",
+      "preco": 104.9,
+      "precoDe": 133.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:15:51.354Z"
+    },
+    {
+      "id": "29912",
+      "loja": "Amazon",
+      "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
+      "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V6A5ZdwsL._SL400_.jpg",
+      "preco": 75.19,
+      "precoDe": 105.81,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:14:48.588Z"
+    },
+    {
+      "id": "29908",
+      "loja": "Amazon",
+      "titulo": "Tramontina Aparelho de Jantar Floralis em Porcelana Decorada 20 Peças",
+      "link": "https://www.amazon.com.br/dp/B0DJDR74JX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41H6yi8gw8L._SL400_.jpg",
+      "preco": 219.9,
+      "precoDe": 363.85,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:13:46.500Z"
+    },
+    {
+      "id": "29907",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+      "link": "https://s.shopee.com.br/9KimppywzU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31_tn",
+      "preco": 369.9,
+      "precoDe": 560.45,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:10:28.012Z"
+    },
+    {
+      "id": "29906",
+      "loja": "Shopee",
+      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "link": "https://s.shopee.com.br/9pf3SdcOH2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
+      "preco": 69.9,
+      "precoDe": 120.52,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:06:43.680Z"
+    },
+    {
+      "id": "29905",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Natura Kaiak Aero EDT 100 ml Masculino",
+      "link": "https://meli.la/1N9sety",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772620-MLA54969323660_042023-F.jpg",
+      "preco": 75.95,
+      "precoDe": 189.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T11:03:02.168Z"
+    },
     {
       "id": "29873",
       "loja": "Mercado Livre",
@@ -1345,102 +1441,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-11T20:33:41.091Z"
-    },
-    {
-      "id": "29591",
-      "loja": "Amazon",
-      "titulo": "TERMOPRO Copo Térmico para Cerveja 473ml Preto",
-      "link": "https://www.amazon.com.br/dp/B09SZLJJFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rQfraNbLL._SL400_.jpg",
-      "preco": 37.06,
-      "precoDe": 56.03,
-      "desconto": 7,
-      "cupom": "AINDA10DO10",
-      "enviadoEm": "2026-10-11T20:30:24.786Z"
-    },
-    {
-      "id": "29583",
-      "loja": "Amazon",
-      "titulo": "Pack Monster Energy Mango Loco Ultra Fiesta Bebida Energética Zero Açúcar, Lata 473 ml – 6 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0F63PQS88?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iXplYoC8L._SL400_.jpg",
-      "preco": 53.94,
-      "precoDe": 62.94,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:27:21.689Z"
-    },
-    {
-      "id": "29581",
-      "loja": "Amazon",
-      "titulo": "Red Bull Energético, Zero, Sem Açúcar, 250ml, 4 latas",
-      "link": "https://www.amazon.com.br/dp/B0FHSYPGH6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51xe6Jm0KKL._SL400_.jpg",
-      "preco": 28.04,
-      "precoDe": 31.16,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:24:11.223Z"
-    },
-    {
-      "id": "29575",
-      "loja": "Amazon",
-      "titulo": "Pack de MONSTER ULTRA WATERMELON LT 473ML 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CQD3TY4T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51vhInsf-0L._SL400_.jpg",
-      "preco": 53.94,
-      "precoDe": 62.94,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:21:06.732Z"
-    },
-    {
-      "id": "29574",
-      "loja": "Amazon",
-      "titulo": "Flash Limp - Mop Giratório Fit, Balde 8 litros - MOP5010 - ABS Cinza",
-      "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MouPIBKyL._SL400_.jpg",
-      "preco": 37.67,
-      "precoDe": 139.88,
-      "desconto": 62,
-      "cupom": "AINDA10DO10",
-      "enviadoEm": "2026-10-11T20:17:52.106Z"
-    },
-    {
-      "id": "29572",
-      "loja": "Amazon",
-      "titulo": "Pack de Monster Absolutely Zero LT 473ml - Unidade 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BYTLY4K1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UT-LEAZOL._SL400_.jpg",
-      "preco": 53.94,
-      "precoDe": 62.94,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:14:28.462Z"
-    },
-    {
-      "id": "29570",
-      "loja": "Amazon",
-      "titulo": "Pack de Monster Energy 473ml - Unidade 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BYTMYXBJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41PHUVUuXFL._SL400_.jpg",
-      "preco": 53.94,
-      "precoDe": 62.94,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:11:10.216Z"
-    },
-    {
-      "id": "29567",
-      "loja": "Shopee",
-      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
-      "link": "https://s.shopee.com.br/905tsfP17x",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
-      "preco": 25.97,
-      "precoDe": 32.87,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-11T20:06:44.419Z"
     }
   ]
 }
