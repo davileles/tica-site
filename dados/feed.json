@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-13T20:34:07.668Z",
+  "atualizadoEm": "2026-10-13T20:44:29.291Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30319",
+      "loja": "Amazon",
+      "titulo": "Corinthians Camisa Polo Retrô Kalunga, Masculina, Preta, P",
+      "link": "https://www.amazon.com.br/dp/B0FCG7D614?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gmfpa0aXL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 219.99,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T20:41:45.479Z"
+    },
+    {
+      "id": "30316",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/9pf3USNXdu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T20:37:17.546Z"
+    },
     {
       "id": "30312",
       "loja": "Amazon",
@@ -1417,30 +1441,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-10-13T12:14:35.805Z"
-    },
-    {
-      "id": "29954",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
-      "link": "https://meli.la/13hV5fe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLA110946060098_052026-F.jpg",
-      "preco": 30.64,
-      "precoDe": 99.98,
-      "desconto": 56,
-      "cupom": "CUPOMON",
-      "enviadoEm": "2026-10-13T12:11:02.525Z"
-    },
-    {
-      "id": "29953",
-      "loja": "Amazon",
-      "titulo": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
-      "link": "https://www.amazon.com.br/dp/B088C4QZV2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31NjMFsFSGL._SL400_.jpg",
-      "preco": 33.91,
-      "precoDe": 99,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T12:07:21.195Z"
     }
   ]
 }
