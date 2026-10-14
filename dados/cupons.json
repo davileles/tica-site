@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T15:31:40.377Z",
+  "atualizadoEm": "2026-10-14T18:01:40.782Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,6 +603,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TELEVISAO1410",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T18:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SITE401410",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1203,6 +1215,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ECONOMIA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1440,6 +1464,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-10-15T15:02:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FERRAMENTAS1410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-15T18:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
