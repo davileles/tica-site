@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T12:31:39.765Z",
+  "atualizadoEm": "2026-10-14T13:28:22.048Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1323,18 +1323,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
-      "codigo": "NINTENDAUM",
-      "loja": "Outro: KaBuM",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em console selecionado",
-      "validadeAte": "2026-10-14T13:02:38.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "D1AD3CUP0M10",
       "loja": "Outro: não especificada",
       "tipo": "reais",
@@ -1440,6 +1428,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-14T20:31:07.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "P4R4S3RM4ISF4SH10N",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T13:01:03.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "RV15OUT",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T13:18:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
