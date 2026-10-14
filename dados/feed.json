@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-14T13:01:38.396Z",
+  "atualizadoEm": "2026-10-14T13:28:20.183Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30497",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Cosco Kids, Bross, Preto Estrela",
+      "link": "https://www.amazon.com.br/dp/B0F38KYPJN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fB4rnFbDL._SL400_.jpg",
+      "preco": 386,
+      "precoDe": 659,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T13:18:20.179Z"
+    },
+    {
+      "id": "30496",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Havaianas Masculino Power 2.0 Anatômica Massageadora",
+      "link": "https://meli.la/29Jbedb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841603-MLB86676857236_062025-O.webp",
+      "preco": 59.99,
+      "precoDe": 119.99,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T13:17:11.001Z"
+    },
+    {
+      "id": "30495",
+      "loja": "Shopee",
+      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
+      "link": "https://s.shopee.com.br/8fT7o9lq6C",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
+      "preco": 39.9,
+      "precoDe": 66.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T13:10:38.766Z"
+    },
     {
       "id": "30488",
       "loja": "Mercado Livre",
