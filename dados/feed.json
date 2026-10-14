@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-13T22:44:29.331Z",
+  "atualizadoEm": "2026-10-14T00:06:23.585Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30360",
+      "loja": "Amazon",
+      "titulo": "Pack de Fanta Laranja Zero lata 350ml 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CKWDD3F2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LziKr6SEL._SL400_.jpg",
+      "preco": 17.94,
+      "precoDe": 22.74,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-13T23:56:23.584Z"
+    },
     {
       "id": "30356",
       "loja": "Shopee",
@@ -1429,18 +1441,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-13T13:49:01.802Z"
-    },
-    {
-      "id": "30018",
-      "loja": "Amazon",
-      "titulo": "Buba, Gel Para Aliviar a Febre",
-      "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SDu+SUjLL._SL400_.jpg",
-      "preco": 19.2,
-      "precoDe": 26.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T13:32:50.301Z"
     }
   ]
 }
