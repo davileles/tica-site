@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T14:13:43.116Z",
+  "atualizadoEm": "2026-10-14T14:31:40.189Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -456,6 +456,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T12:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1152,6 +1164,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-15T11:59:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BELEZA25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-10-15T14:27:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SOLAR25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
+      "validadeAte": "2026-10-15T14:27:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
