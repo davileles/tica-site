@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-14T12:31:38.393Z",
+  "atualizadoEm": "2026-10-14T13:01:38.396Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30488",
+      "loja": "Mercado Livre",
+      "titulo": "Bola De Futebol Universadi adidas",
+      "link": "https://meli.la/1hqDBNs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744808-MLA99630212194_122025-F.jpg",
+      "preco": 68.01,
+      "precoDe": 129.99,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T13:00:45.916Z"
+    },
+    {
+      "id": "30484",
+      "loja": "Shopee",
+      "titulo": "Monitor TCL 25\" Gamer FHD QD MINI LED 300HZ HDR10 F-SYNC AJ ALTURA D-PORT 25G64",
+      "link": "https://s.shopee.com.br/4LK8cZU0Jk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mszmyhmlphxjdd_tn",
+      "preco": 1369,
+      "precoDe": 1984.06,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:55:12.555Z"
+    },
+    {
+      "id": "30482",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 6 Pares Meias Wilson Cano Médio Masculino Adulto 38-43",
+      "link": "https://meli.la/25m9vUV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846695-MLB83338551319_032025-O.webp",
+      "preco": 30.5,
+      "precoDe": 60.18,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:51:26.835Z"
+    },
+    {
+      "id": "30480",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/3Vl1cbHTkm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.02,
+      "precoDe": 35.19,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:48:06.023Z"
+    },
+    {
+      "id": "30479",
+      "loja": "Amazon",
+      "titulo": "Water Cooler Gamer Kalkan Alpha 360 ARGB com display Branco KLK00049",
+      "link": "https://www.amazon.com.br/dp/B0DYQGQ24J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315jylO1P5L._SL400_.jpg",
+      "preco": 338.31,
+      "precoDe": 466.72,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:44:30.818Z"
+    },
+    {
+      "id": "30475",
+      "loja": "Amazon",
+      "titulo": "Achocolatado NESCAU® 2,01kg",
+      "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418amknZVoL._SL400_.jpg",
+      "preco": 32.9,
+      "precoDe": 37.39,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:40:53.680Z"
+    },
+    {
+      "id": "30474",
+      "loja": "Shopee",
+      "titulo": "Playstation 5 Pro 2TB - Leitor Digital",
+      "link": "https://s.shopee.com.br/2BFe1q3y9B",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrj87z1n5k3q7b_tn",
+      "preco": 7017.9,
+      "precoDe": 9747.08,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:37:23.062Z"
+    },
     {
       "id": "30461",
       "loja": "Amazon",
