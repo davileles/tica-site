@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-14T11:19:27.788Z",
+  "atualizadoEm": "2026-10-14T11:31:38.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30409",
+      "loja": "Amazon",
+      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
+      "preco": 109.99,
+      "precoDe": 136.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T11:27:09.881Z"
+    },
+    {
+      "id": "30405",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
+      "link": "https://s.shopee.com.br/8AWr61aaFO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
+      "preco": 12.98,
+      "precoDe": 49.92,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T11:25:33.385Z"
+    },
     {
       "id": "30399",
       "loja": "Amazon",
