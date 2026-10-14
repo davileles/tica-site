@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-14T19:01:38.759Z",
+  "atualizadoEm": "2026-10-14T19:31:38.758Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30791",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/7fab1t9LZp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T19:23:36.857Z"
+    },
+    {
+      "id": "30789",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Curto Baixo Original",
+      "link": "https://meli.la/1b8rNNo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711792-MLB54129158447_032023-O.webp",
+      "preco": 69.9,
+      "precoDe": 199.99,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T19:20:03.663Z"
+    },
+    {
+      "id": "30786",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
+      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
+      "preco": 19.93,
+      "precoDe": 36.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T19:14:10.988Z"
+    },
+    {
+      "id": "30785",
+      "loja": "Mercado Livre",
+      "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
+      "link": "https://meli.la/1BfLBgo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_853637-MLB74931305887_032024-O.webp",
+      "preco": 39.99,
+      "precoDe": 60.47,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T19:12:54.901Z"
+    },
+    {
+      "id": "30780",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XG - 64 Un",
+      "link": "https://meli.la/1j6RSf9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979794-MLA99442042486_112025-F.jpg",
+      "preco": 64.41999999999999,
+      "precoDe": 114.33,
+      "desconto": 30,
+      "cupom": "LOJAS1410",
+      "enviadoEm": "2026-10-14T19:06:30.684Z"
+    },
     {
       "id": "30775",
       "loja": "Shopee",
