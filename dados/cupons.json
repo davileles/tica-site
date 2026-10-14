@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T18:28:05.423Z",
+  "atualizadoEm": "2026-10-14T19:01:41.163Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1428,6 +1428,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T12:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS1410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em lojas oficiais conforme lista do link fornecido",
+      "validadeAte": "2026-10-15T18:48:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
