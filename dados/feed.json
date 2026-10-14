@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-14T21:49:21.855Z",
+  "atualizadoEm": "2026-10-14T22:21:43.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30847",
+      "loja": "Amazon",
+      "titulo": "KIT GABRIELA SABATINI EDT 30ML GANHE NECESSAIRE",
+      "link": "https://www.amazon.com.br/dp/B0DJMZS949?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XZmnY4x+L._SL400_.jpg",
+      "preco": 70.88,
+      "precoDe": 149.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T22:11:43.341Z"
+    },
+    {
+      "id": "30843",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/1qcoG5dfCY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 16.99,
+      "precoDe": 22.36,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T22:01:59.714Z"
+    },
     {
       "id": "30838",
       "loja": "Shopee",
