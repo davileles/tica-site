@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T14:51:17.842Z",
+  "atualizadoEm": "2026-10-14T15:01:38.694Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1419,18 +1419,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULLLANDING",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido para entregas Full em selecionados",
-      "validadeAte": "2026-10-14T15:01:31.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA1310",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1575,18 +1563,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "APROV3ITAAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 149,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-14T15:00:36.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "D1AD3CUP0M10",
       "loja": "Shopee",
       "tipo": "reais",
@@ -1620,6 +1596,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T13:18:15.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "QU4R70U5",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T15:00:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
