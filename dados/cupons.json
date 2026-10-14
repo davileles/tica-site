@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T01:44:00.155Z",
+  "atualizadoEm": "2026-10-14T02:44:00.075Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1429,6 +1429,18 @@
       "observacao": "Código de cupom identificado, mas sem informações sobre loja, valor mínimo ou condições de uso",
       "validadeAte": "2026-10-14T20:31:05.000Z",
       "url": null
+    },
+    {
+      "codigo": "CARTERSOFF",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": 269,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para produtos Carter's na Riachuelo",
+      "validadeAte": "2026-10-15T02:15:42.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
