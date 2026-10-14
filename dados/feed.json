@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-14T11:58:24.666Z",
+  "atualizadoEm": "2026-10-14T12:31:38.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30461",
+      "loja": "Amazon",
+      "titulo": "Mordedor Infantil Flexível 360 com Chocalho e Texturas Branco",
+      "link": "https://www.amazon.com.br/dp/B0FLKP5TMV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sqVLHRi2L._SL400_.jpg",
+      "preco": 37.5,
+      "precoDe": 47,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:22:25.140Z"
+    },
+    {
+      "id": "30444",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador de Pó e Água WAP GTW INOX 12 1400W com Bocal de Sopro",
+      "link": "https://meli.la/23hjSgA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99867297737_112025-F.jpg",
+      "preco": 178.75,
+      "precoDe": 696,
+      "desconto": 63,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-10-14T12:21:37.205Z"
+    },
+    {
+      "id": "30443",
+      "loja": "Shopee",
+      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
+      "link": "https://s.shopee.com.br/8AWr98KHiW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
+      "preco": 32.2,
+      "precoDe": 33.89,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:18:04.677Z"
+    },
+    {
+      "id": "30442",
+      "loja": "Shopee",
+      "titulo": "CONSOLE PLAYSTATION 5 SLIM DISK 1TB",
+      "link": "https://s.shopee.com.br/1B9PnonAk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltidfjhtxed_tn",
+      "preco": 4509.9,
+      "precoDe": 5368.93,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:14:38.492Z"
+    },
+    {
+      "id": "30435",
+      "loja": "Shopee",
+      "titulo": "Processador Intel Core i5-12400 2.5 GHz (Turbo 4.4 GHZ)",
+      "link": "https://s.shopee.com.br/2BFdzmko1E",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0akv9px2q957e_tn",
+      "preco": 410.9,
+      "precoDe": 1002.2,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T12:07:39.115Z"
+    },
     {
       "id": "30422",
       "loja": "Shopee",
