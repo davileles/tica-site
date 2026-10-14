@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-14T14:13:41.463Z",
+  "atualizadoEm": "2026-10-14T14:31:38.406Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30520",
+      "loja": "Mercado Livre",
+      "titulo": "Jaqueta Corta-vento Rock Saints Masculina Uv Térmica",
+      "link": "https://meli.la/1zpAk6L",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846572-MLB87349964960_072025-O.webp",
+      "preco": 39.2,
+      "precoDe": 78,
+      "desconto": 28,
+      "cupom": "MELISALVA",
+      "enviadoEm": "2026-10-14T14:26:33.785Z"
+    },
+    {
+      "id": "30518",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/40hIKEWJxf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T14:18:30.445Z"
+    },
     {
       "id": "30512",
       "loja": "Mercado Livre",
