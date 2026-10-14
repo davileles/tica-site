@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-14T00:43:59.560Z",
+  "atualizadoEm": "2026-10-14T11:19:27.788Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30399",
+      "loja": "Amazon",
+      "titulo": "Lava-Louças Electrolux 8 Serviços Branca com Programa Lava e Seca 50min 220v LB08E",
+      "link": "https://www.amazon.com.br/dp/B0FJZR1RBP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/213XwQkeOgL._SL400_.jpg",
+      "preco": 1799,
+      "precoDe": 2399,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T11:09:27.785Z"
+    },
+    {
+      "id": "30393",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/qkGKy722o",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 12.69,
+      "precoDe": 26.44,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T11:02:55.115Z"
+    },
     {
       "id": "30363",
       "loja": "Amazon",
