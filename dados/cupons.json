@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T12:01:38.639Z",
+  "atualizadoEm": "2026-10-14T12:31:39.765Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,6 +459,30 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "1410TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T12:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE401410",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T12:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GARIMPEI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -671,7 +695,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "validadeAte": "2026-10-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1011,6 +1035,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MAISCUPONS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCONTOJUSTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1019,7 +1055,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "validadeAte": "2026-10-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1167,6 +1203,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "20SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 219,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T12:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1247,7 +1295,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-15T11:59:59.000Z",
+      "validadeAte": "2026-10-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
