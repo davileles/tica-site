@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-14T20:01:38.759Z",
+  "atualizadoEm": "2026-10-14T20:30:28.332Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30824",
+      "loja": "Amazon",
+      "titulo": "Cerveja De Trigo Paulaner Weissbier Original 500ml (12 Und)",
+      "link": "https://www.amazon.com.br/dp/B0F7TBM1J6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51GdKCo3VDL._SL400_.jpg",
+      "preco": 241.16,
+      "precoDe": 379.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T20:20:28.330Z"
+    },
+    {
+      "id": "30820",
+      "loja": "Amazon",
+      "titulo": "Escavadeira Carros de Controle Remoto, Caminhão de Construção de RC, Escavadeira, Brinquedo 2 em 1 com Luzes, Escala 1:20, 2.4GHz com 2 Baterias Recarregáveis",
+      "link": "https://www.amazon.com.br/dp/B0GJZPW6V7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eAYDEYhLL._SL400_.jpg",
+      "preco": 206.1,
+      "precoDe": 229,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T20:12:16.414Z"
+    },
+    {
+      "id": "30819",
+      "loja": "Shopee",
+      "titulo": "Mix Misturador Cafe Bebidas Batedor De Ovos Automático Elétrico Inox",
+      "link": "https://s.shopee.com.br/gQqkAN9Wr",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxs2z7sqzut5f_tn",
+      "preco": 11.99,
+      "precoDe": 39.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T20:08:50.539Z"
+    },
+    {
+      "id": "30817",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Premium Lager 250ml Long Neck - 24 Unidades",
+      "link": "https://s.shopee.com.br/905yfBL28e",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn1j1vty6u4kf4_tn",
+      "preco": 138.9,
+      "precoDe": 149.35,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-14T20:01:57.926Z"
+    },
     {
       "id": "30813",
       "loja": "Amazon",
