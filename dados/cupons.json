@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T19:01:41.163Z",
+  "atualizadoEm": "2026-10-14T19:31:40.547Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -624,6 +624,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T18:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TVSECELULARES",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1299,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1476,6 +1488,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-15T11:59:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2026-10-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
