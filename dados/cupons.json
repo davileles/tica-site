@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T14:31:40.189Z",
+  "atualizadoEm": "2026-10-14T14:51:17.842Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -99,6 +99,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
+      "codigo": "QUERO35",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
       "codigo": "ESPORTIVO",
       "loja": "C&A",
       "tipo": "pct",
@@ -108,6 +120,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MAISLOOK",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 2,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MAISMODA",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -159,6 +195,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
+      "codigo": "PS5125",
+      "loja": "Fastshop",
+      "tipo": "reais",
+      "valor": 125,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-03T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
       "codigo": "ASPIRADOR20",
       "loja": "Fastshop",
       "tipo": "pct",
@@ -180,6 +228,42 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "WEST5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 4999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-03T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "COQUE5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "Coffee5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -252,6 +336,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-16T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "C3TECH30OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -399,6 +495,54 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "COMP10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-19T11:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CAIXADONEY",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-15T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "STARMINI",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "ENERGIA10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-20T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -456,18 +600,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-15T12:00:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1212,6 +1344,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 219,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
