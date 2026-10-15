@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-15T14:01:39.297Z",
+  "atualizadoEm": "2026-10-15T14:22:07.014Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31065",
+      "loja": "Amazon",
+      "titulo": "Sabonete Nutritivo Johnson's Baby Derma Protect, 200ml",
+      "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VXhamiFDL._SL400_.jpg",
+      "preco": 36.74,
+      "precoDe": 53.99,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T14:12:07.012Z"
+    },
+    {
+      "id": "31059",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Peças (2 Conjuntos) Pijama Feminino Baby Doll Sortidos",
+      "link": "https://meli.la/2DtZnzV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_629279-MLB106777698544_022026-O.webp",
+      "preco": 20.72,
+      "precoDe": 34.9,
+      "desconto": 15,
+      "cupom": "CUPOMON",
+      "enviadoEm": "2026-10-15T14:06:53.529Z"
+    },
+    {
+      "id": "31055",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Esmerilhadeira Angular 115m G650K5 650W Acompanha Disco de Corte e Desbaste 220V",
+      "link": "https://www.amazon.com.br/dp/B07HYGKNVT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mK3WwgkxL._SL400_.jpg",
+      "preco": 209.1,
+      "precoDe": 259,
+      "desconto": 5,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T14:01:44.672Z"
+    },
     {
       "id": "31054",
       "loja": "Shopee",
