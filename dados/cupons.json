@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T11:01:39.193Z",
+  "atualizadoEm": "2026-10-15T11:13:09.726Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1187,7 +1187,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1404,6 +1404,18 @@
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ECONOMIAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
