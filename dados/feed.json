@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-15T15:01:39.298Z",
+  "atualizadoEm": "2026-10-15T15:31:04.517Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31092",
+      "loja": "Amazon",
+      "titulo": "Vinho Chileno Le Prince Neymar Jr 750ml (Sauv Blanc)",
+      "link": "https://www.amazon.com.br/dp/B0H8ZT7K6S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3107jAtDaKL._SL400_.jpg",
+      "preco": 44.52,
+      "precoDe": 59.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T15:21:04.512Z"
+    },
+    {
+      "id": "31091",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Whiskey McLaren F1 Racing Edition 700mL 86 Proof",
+      "link": "https://www.amazon.com.br/dp/B0F2MMLDYK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31on6aFPMcL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 149.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T15:20:07.007Z"
+    },
+    {
+      "id": "31090",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Pistola de Pintura Elétrica HVLP BDPH200B 110V",
+      "link": "https://www.amazon.com.br/dp/B0777PXK5X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I3RM6zGvL._SL400_.jpg",
+      "preco": 311.95,
+      "precoDe": 399,
+      "desconto": 8,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T15:16:20.228Z"
+    },
+    {
+      "id": "31089",
+      "loja": "Shopee",
+      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+      "link": "https://s.shopee.com.br/8V9jKodz9Z",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
+      "preco": 15.62,
+      "precoDe": 18.82,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T15:15:07.879Z"
+    },
+    {
+      "id": "31085",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Air Fryer Dual Duplo Cesto 8L Mondial 2200W - AFD-01-BI",
+      "link": "https://meli.la/24CKXmt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836184-MLA99938638095_112025-F.jpg",
+      "preco": 539.09,
+      "precoDe": 630.52,
+      "desconto": 5,
+      "cupom": "APROVEITA",
+      "enviadoEm": "2026-10-15T15:07:40.423Z"
+    },
     {
       "id": "31081",
       "loja": "Amazon",
