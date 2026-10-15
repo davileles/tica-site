@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-15T20:53:42.615Z",
+  "atualizadoEm": "2026-10-15T21:01:39.322Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31350",
+      "loja": "Mercado Livre",
+      "titulo": "Loção hidratante corporal Isdin Ureadin 10",
+      "link": "https://meli.la/1np9MpB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997526-MLU75980921413_042024-F.jpg",
+      "preco": 88.72,
+      "precoDe": 115.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T20:57:27.715Z"
+    },
+    {
+      "id": "31349",
+      "loja": "Mercado Livre",
+      "titulo": "Processador Elétrico Triturador Inox Para Carne Potente 2l",
+      "link": "https://meli.la/1SSsPqU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778972-MLB117056665250_102026-O.webp",
+      "preco": 55.28999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OPAECONOMIZEI",
+      "enviadoEm": "2026-10-15T20:54:04.569Z"
+    },
     {
       "id": "31348",
       "loja": "Amazon",
