@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T15:01:40.851Z",
+  "atualizadoEm": "2026-10-15T15:03:46.853Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1359,18 +1359,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA1410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-15T15:02:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FERRAMENTAS1410",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1380,18 +1368,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-15T18:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "NATAL1410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-15T15:02:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
