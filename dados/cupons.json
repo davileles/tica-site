@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T17:31:41.052Z",
+  "atualizadoEm": "2026-10-15T18:01:40.955Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -531,18 +531,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TELEVISAO1410",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-15T18:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TVSECELULARES",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -975,6 +963,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "3PROMOMELI30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 10000,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-16T17:40:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1335,18 +1335,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FERRAMENTAS1410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-15T18:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1548,6 +1536,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-16T13:04:53.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CUP0NZ40DOADM",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T17:44:59.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
