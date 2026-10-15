@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-15T22:58:44.156Z",
+  "atualizadoEm": "2026-10-15T23:13:13.848Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31408",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml",
+      "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SaIZLexVL._SL400_.jpg",
+      "preco": 31.96,
+      "precoDe": 47.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T23:03:13.845Z"
+    },
     {
       "id": "31406",
       "loja": "Amazon",
