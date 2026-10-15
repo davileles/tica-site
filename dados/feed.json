@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-15T11:58:35.753Z",
+  "atualizadoEm": "2026-10-15T12:31:39.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30979",
+      "loja": "Amazon",
+      "titulo": "I2GO, Fone De Ouvido, TWS, Bluetooth, 20 Horas totais de Bateria, ENC, Air Sound Go 2.0, Branco, i2GO PRO",
+      "link": "https://www.amazon.com.br/dp/B0BBXPR65R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315s-FKqw7L._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 179.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T12:31:35.019Z"
+    },
+    {
+      "id": "30975",
+      "loja": "Mercado Livre",
+      "titulo": "Telefone Fixo Gsm Sem Fio De Chip Huawei F661 Desbloqueado",
+      "link": "https://meli.la/2JcoA78",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_880604-MLB118960275335_102026-O.webp",
+      "preco": 153,
+      "precoDe": 250,
+      "desconto": 32,
+      "cupom": "APROVEITA",
+      "enviadoEm": "2026-10-15T12:28:30.328Z"
+    },
+    {
+      "id": "30963",
+      "loja": "Mercado Livre",
+      "titulo": "27\", Qhd, 220Hz Monitor Gamer Asus Rog Strix, 0.3ms, Fast Ips, Vrr, G-Sync, FreeSync, Hdr 400, Altura Ajustável Xg27acsr",
+      "link": "https://meli.la/2YWb53h",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691058-MLB118913433763_102026-O.webp",
+      "preco": 1377,
+      "precoDe": 1611,
+      "desconto": 5,
+      "cupom": "APROVEITA",
+      "enviadoEm": "2026-10-15T12:25:02.496Z"
+    },
+    {
+      "id": "30960",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Escritório Presidente Ergonômica NR17 Marqs Home Arcanis Preta com Apoio Lombar e Encosto Mesh Premium",
+      "link": "https://meli.la/1v179YS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892750-MLA110183247129_042026-F.jpg",
+      "preco": 273.25,
+      "precoDe": 799.9,
+      "desconto": 51,
+      "cupom": "MAISDESCONTO",
+      "enviadoEm": "2026-10-15T12:21:35.564Z"
+    },
+    {
+      "id": "30959",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Hidratante Corporal e facial para Pele Seca a Extra Seca Sem Perfume 454g CeraVe",
+      "link": "https://meli.la/1PXqSRB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806507-MLA92874967013_092025-F.jpg",
+      "preco": 160.19,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VALECUPOM",
+      "enviadoEm": "2026-10-15T12:17:57.826Z"
+    },
+    {
+      "id": "30958",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
+      "link": "https://s.shopee.com.br/50ZqyE1F5a",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
+      "preco": 17.8,
+      "precoDe": 24.72,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T12:14:44.168Z"
+    },
+    {
+      "id": "30956",
+      "loja": "Mercado Livre",
+      "titulo": "Ssd 1Tb Sata 3 Darkplayer Pro Gamer Alta Performance",
+      "link": "https://meli.la/1uE2h8Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725935-MLB110392420873_042026-O.webp",
+      "preco": 578.61,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "APROVEITA",
+      "enviadoEm": "2026-10-15T12:11:18.871Z"
+    },
     {
       "id": "30926",
       "loja": "Shopee",
