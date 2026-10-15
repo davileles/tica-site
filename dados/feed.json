@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-15T00:01:38.775Z",
+  "atualizadoEm": "2026-10-15T01:45:01.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "30869",
+      "loja": "Amazon",
+      "titulo": "Amarula Licor Cream 375Ml",
+      "link": "https://www.amazon.com.br/dp/B01N0GHG4C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NNX2Hgy+L._SL400_.jpg",
+      "preco": 59.92,
+      "precoDe": 75.19,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T01:35:01.921Z"
+    },
     {
       "id": "30865",
       "loja": "Amazon",
