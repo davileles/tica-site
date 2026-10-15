@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-15T13:01:39.282Z",
+  "atualizadoEm": "2026-10-15T13:29:18.301Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31028",
+      "loja": "Amazon",
+      "titulo": "Kit de Pontas e Brocas Bosch V-Line 41 pçs",
+      "link": "https://www.amazon.com.br/dp/B07CTN73L1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51JOOXUEw1L._SL400_.jpg",
+      "preco": 84.06,
+      "precoDe": 109.9,
+      "desconto": 10,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T13:19:18.295Z"
+    },
+    {
+      "id": "31025",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gD6xEMGsL._SL400_.jpg",
+      "preco": 722,
+      "precoDe": 1399.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:18:10.509Z"
+    },
+    {
+      "id": "31019",
+      "loja": "Shopee",
+      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
+      "link": "https://s.shopee.com.br/5VW7d2l6r3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
+      "preco": 17.97,
+      "precoDe": 42.79,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:13:52.603Z"
+    },
+    {
+      "id": "31018",
+      "loja": "Amazon",
+      "titulo": "Achocolatado NESCAU® 2,01kg",
+      "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418amknZVoL._SL400_.jpg",
+      "preco": 32.9,
+      "precoDe": 37.39,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:10:18.351Z"
+    },
     {
       "id": "31015",
       "loja": "Amazon",
@@ -1527,18 +1575,6 @@
       "enviadoEm": "2026-10-14T12:44:30.818Z"
     },
     {
-      "id": "30475",
-      "loja": "Amazon",
-      "titulo": "Achocolatado NESCAU® 2,01kg",
-      "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418amknZVoL._SL400_.jpg",
-      "preco": 32.9,
-      "precoDe": 37.39,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:40:53.680Z"
-    },
-    {
       "id": "30474",
       "loja": "Shopee",
       "titulo": "Playstation 5 Pro 2TB - Leitor Digital",
@@ -2953,18 +2989,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-13T15:11:25.000Z"
-    },
-    {
-      "id": "30070",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gD6xEMGsL._SL400_.jpg",
-      "preco": 722,
-      "precoDe": 1399.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:06:27.172Z"
     },
     {
       "id": "30068",
