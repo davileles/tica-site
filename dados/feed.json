@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-15T13:29:18.301Z",
+  "atualizadoEm": "2026-10-15T13:52:08.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31048",
+      "loja": "Amazon",
+      "titulo": "Clingo Lixeira Mágica Antiodor, Lixo para Fraldas, Quarto do Bebê, Banheiro, Cozinha, Capacidade 10 Litros",
+      "link": "https://www.amazon.com.br/dp/B0CB9B84LT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31klGdKkI2L._SL400_.jpg",
+      "preco": 99.91,
+      "precoDe": 199.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:42:08.732Z"
+    },
+    {
+      "id": "31047",
+      "loja": "Amazon",
+      "titulo": "BOSCH Esmerilhadeira Angular 4.1/2POL 710W GWS 700",
+      "link": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4174YWDDKJL._SL400_.jpg",
+      "preco": 241.67999999999998,
+      "precoDe": 364.9,
+      "desconto": 22,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T13:41:11.643Z"
+    },
+    {
+      "id": "31045",
+      "loja": "Amazon",
+      "titulo": "Rola Bola Infantil 18 Peças Blocolândia Dismat",
+      "link": "https://www.amazon.com.br/dp/B09WYY6QH2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NmxObZChL._SL400_.jpg",
+      "preco": 38.9,
+      "precoDe": 65.7,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:40:10.186Z"
+    },
+    {
+      "id": "31043",
+      "loja": "Amazon",
+      "titulo": "Bebida Mista Beats, Red Mix, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DV5SMHHC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBJpdJcfL._SL400_.jpg",
+      "preco": 51.92,
+      "precoDe": 55.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:39:14.351Z"
+    },
+    {
+      "id": "31039",
+      "loja": "Shopee",
+      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "link": "https://s.shopee.com.br/6fi5396edD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
+      "preco": 37.91,
+      "precoDe": 70.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:38:04.048Z"
+    },
+    {
+      "id": "31037",
+      "loja": "Amazon",
+      "titulo": "Creme Hidratante Facial Matte 3 em 1 Neutrogena, Sem Perfume, 100g",
+      "link": "https://www.amazon.com.br/dp/B08YZJZF3S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41wGJenRAxL._SL400_.jpg",
+      "preco": 28.28,
+      "precoDe": 48.99,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T13:34:22.630Z"
+    },
     {
       "id": "31028",
       "loja": "Amazon",
