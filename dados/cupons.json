@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T20:01:41.622Z",
+  "atualizadoEm": "2026-10-15T21:31:40.914Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1332,6 +1332,18 @@
       "limite": 145,
       "observacao": "Cupom válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-10-16T19:20:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OUTLET1510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-16T21:23:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
