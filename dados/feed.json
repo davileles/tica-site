@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-15T22:13:26.738Z",
+  "atualizadoEm": "2026-10-15T22:31:39.326Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31398",
+      "loja": "Mercado Livre",
+      "titulo": "Impressora 3D Bambu Lab A1 Mini cor cinza Sem AMS",
+      "link": "https://meli.la/29grHGq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809225-MLA116319959373_082026-F.jpg",
+      "preco": 1555.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "APROVEITA",
+      "enviadoEm": "2026-10-15T22:29:00.342Z"
+    },
+    {
+      "id": "31397",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos para Recém-Nascido Johnson's Baby, 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
+      "preco": 53.09,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T22:25:27.149Z"
+    },
+    {
+      "id": "31396",
+      "loja": "Amazon",
+      "titulo": "Micro Retífica 4000 com 26 Acessórios 4000-N/26-220V Dremel",
+      "link": "https://www.amazon.com.br/dp/B076KNH6VK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315O+HYj0EL._SL400_.jpg",
+      "preco": 487.78000000000003,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T22:21:49.417Z"
+    },
+    {
+      "id": "31395",
+      "loja": "Shopee",
+      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
+      "link": "https://s.shopee.com.br/AAHxnakWiU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
+      "preco": 15.78,
+      "precoDe": 45.09,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T22:20:50.646Z"
+    },
     {
       "id": "31393",
       "loja": "Amazon",
