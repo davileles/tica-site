@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-15T17:31:39.303Z",
+  "atualizadoEm": "2026-10-15T18:01:39.303Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31178",
+      "loja": "Amazon",
+      "titulo": "Buba, Kit Portatil Para Limpeza De Mamadeira",
+      "link": "https://www.amazon.com.br/dp/B0DJG4SRZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bhFdQRacL._SL400_.jpg",
+      "preco": 70.89,
+      "precoDe": 108.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:54:57.380Z"
+    },
+    {
+      "id": "31177",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Quick Flip Black 710ml",
+      "link": "https://www.amazon.com.br/dp/B0HF1LQFDD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JTbzHxd4L._SL400_.jpg",
+      "preco": 167.39,
+      "precoDe": 269,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:53:43.947Z"
+    },
+    {
+      "id": "31174",
+      "loja": "Amazon",
+      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
+      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
+      "preco": 53.8,
+      "precoDe": 59.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:46:03.518Z"
+    },
+    {
+      "id": "31173",
+      "loja": "Shopee",
+      "titulo": "Kit Banho Shampoo + Condicionador + Colônia Sem Álcool -Recém Nascido -Bebê -Infantil - Sem lagrimas",
+      "link": "https://s.shopee.com.br/8V9jV7jqU4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyuyhd9dam8f9_tn",
+      "preco": 44.9,
+      "precoDe": 70.16,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:45:03.597Z"
+    },
+    {
+      "id": "31172",
+      "loja": "Amazon",
+      "titulo": "Bosch Lixadeira Orbital GSS 140 220V 220W com 1 lixa",
+      "link": "https://www.amazon.com.br/dp/B0D26V1BKQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41KfSSSQqaL._SL400_.jpg",
+      "preco": 217.51,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T17:41:25.676Z"
+    },
+    {
+      "id": "31171",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
+      "link": "https://s.shopee.com.br/90605tyumJ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e_tn",
+      "preco": 14.9,
+      "precoDe": 19.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:40:10.954Z"
+    },
+    {
+      "id": "31170",
+      "loja": "Amazon",
+      "titulo": "KIT COLETOR DE LEITE MATERNO LILLO MAMY",
+      "link": "https://www.amazon.com.br/dp/B0CCZYS6KP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51-hnu40nZL._SL400_.jpg",
+      "preco": 64.9,
+      "precoDe": 72.12,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:36:49.974Z"
+    },
+    {
+      "id": "31169",
+      "loja": "Shopee",
+      "titulo": "Vestido Midi Manga Longa Gestante Gola Alta Feminino Inverno Maternidade Canelado Elegante De Frio",
+      "link": "https://s.shopee.com.br/9fLgsnrBg3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqf2dnlu9tkz98_tn",
+      "preco": 39.98,
+      "precoDe": 79.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:35:47.499Z"
+    },
+    {
+      "id": "31165",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras para Bebês Desitin, 57g",
+      "link": "https://www.amazon.com.br/dp/B0DW9L8BFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VeGOKMVtL._SL400_.jpg",
+      "preco": 71.99,
+      "precoDe": 83.99,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:32:28.663Z"
+    },
     {
       "id": "31164",
       "loja": "Shopee",
@@ -2713,18 +2821,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-13T19:57:23.055Z"
-    },
-    {
-      "id": "30289",
-      "loja": "Amazon",
-      "titulo": "KIT COLETOR DE LEITE MATERNO LILLO MAMY",
-      "link": "https://www.amazon.com.br/dp/B0CCZYS6KP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-hnu40nZL._SL400_.jpg",
-      "preco": 64.9,
-      "precoDe": 72.12,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:52:38.006Z"
     },
     {
       "id": "30288",
