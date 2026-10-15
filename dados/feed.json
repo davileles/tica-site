@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-15T20:31:39.321Z",
+  "atualizadoEm": "2026-10-15T20:53:42.615Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31348",
+      "loja": "Amazon",
+      "titulo": "Bosch Serra Mármore Gdc 150 Titan 1500W 220V Com 1 Disco",
+      "link": "https://www.amazon.com.br/dp/B076ZQZ8F5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41v6okjnrPL._SL400_.jpg",
+      "preco": 357.85,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T20:43:42.612Z"
+    },
+    {
+      "id": "31347",
+      "loja": "Shopee",
+      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
+      "link": "https://s.shopee.com.br/AAHxgitooY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
+      "preco": 116.6,
+      "precoDe": 212,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T20:40:58.849Z"
+    },
+    {
+      "id": "31345",
+      "loja": "Amazon",
+      "titulo": "Kit 4 Pacotes Café Especial Torrado e Moído Coffee Mais Variedades: Cerrado Mineiro, Arara, Chapada de Minas e Clássico - 100% Arábica (4x250g)",
+      "link": "https://www.amazon.com.br/dp/B0CJT5FJ97?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5192vVj-rpL._SL400_.jpg",
+      "preco": 89.46,
+      "precoDe": 99.15,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T20:33:01.752Z"
+    },
     {
       "id": "31343",
       "loja": "Mercado Livre",
