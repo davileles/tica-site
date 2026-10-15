@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T12:01:39.673Z",
+  "atualizadoEm": "2026-10-15T12:31:41.158Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1511,7 +1511,19 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-16T12:00:04.000Z",
+      "validadeAte": "2026-10-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VALECUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-16T12:00:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
