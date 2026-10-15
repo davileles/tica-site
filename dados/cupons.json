@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T13:29:19.953Z",
+  "atualizadoEm": "2026-10-15T14:31:40.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1296,30 +1296,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BELEZA25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-15T14:27:12.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOLAR25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Cupons válidos em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-15T14:27:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
