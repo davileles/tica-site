@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-14T22:58:05.016Z",
+  "atualizadoEm": "2026-10-15T01:31:39.221Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1551,18 +1551,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "JOGADOR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-15T01:26:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ARQUIBANCADA10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1572,6 +1560,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-15T22:51:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TORCEDOR10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-16T01:19:31.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1645,18 +1645,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "50NASEMI",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-15T01:28:58.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "P4R4S3RM4ISF4SH10N",
