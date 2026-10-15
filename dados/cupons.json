@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T22:01:41.089Z",
+  "atualizadoEm": "2026-10-15T22:58:45.680Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1371,18 +1371,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRETEMCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-15T22:46:17.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1428,18 +1416,6 @@
       "limite": 20,
       "observacao": "Válido para produtos selecionados em Moda",
       "validadeAte": "2026-10-16T18:01:52.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ARQUIBANCADA10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-15T22:51:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
