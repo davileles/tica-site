@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-15T15:31:39.298Z",
+  "atualizadoEm": "2026-10-15T15:48:41.728Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31098",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Serra Tico Tico, Potência de 400W e 3000GPM, Capacidade de Corte em Madeira, Alumínio e Aço, Modelo JS10, 220V",
+      "link": "https://www.amazon.com.br/dp/B08D6WK91M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+0fdZ4GeL._SL400_.jpg",
+      "preco": 246.37000000000003,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T15:38:41.726Z"
+    },
+    {
+      "id": "31097",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
+      "link": "https://s.shopee.com.br/50ZrCPSsZJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T15:37:51.895Z"
+    },
     {
       "id": "31094",
       "loja": "Amazon",
