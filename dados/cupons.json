@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T02:31:39.179Z",
+  "atualizadoEm": "2026-10-15T03:01:39.155Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -507,18 +507,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CAIXADONEY",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-15T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "STARMINI",
       "loja": "Kabum",
       "tipo": "pct",
@@ -624,6 +612,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEALLSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-16T03:00:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1203,18 +1203,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTOJUSTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VEJAESSAPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1395,18 +1383,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ECONOMIAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1515,18 +1491,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AQUITEM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "NATAL1410",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1560,18 +1524,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-15T22:51:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TORCEDOR10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-15T02:59:32.249Z",
       "url": "https://meli.la/2xystLt"
     },
     {
