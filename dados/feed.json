@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-15T14:22:07.014Z",
+  "atualizadoEm": "2026-10-15T14:31:39.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31074",
+      "loja": "Shopee",
+      "titulo": "Frigobar Hisense 90 Litros Porta Reversível Branco 1 Porta RR121NW3A/RR121NW2A",
+      "link": "https://s.shopee.com.br/2BFfkKKnVl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxh-lzs1zqu4mc2y7e_tn",
+      "preco": 699.78,
+      "precoDe": 1227.68,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T14:26:03.416Z"
+    },
+    {
+      "id": "31073",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XG, 86 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/516Fvc3-vcL._SL400_.jpg",
+      "preco": 96.76,
+      "precoDe": 189.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T14:25:07.514Z"
+    },
+    {
+      "id": "31072",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Furadeira e Parafusadeira de Impacto à Bateria 20V BCD704C1 110V",
+      "link": "https://www.amazon.com.br/dp/B083ZZ1RV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BiE7GwfGL._SL400_.jpg",
+      "preco": 339.90999999999997,
+      "precoDe": 499,
+      "desconto": 20,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T14:24:05.241Z"
+    },
+    {
+      "id": "31071",
+      "loja": "Shopee",
+      "titulo": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+      "link": "https://s.shopee.com.br/1VzywrTOZM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34_tn",
+      "preco": 37.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T14:23:13.925Z"
+    },
     {
       "id": "31065",
       "loja": "Amazon",
