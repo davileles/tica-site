@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-15T15:48:41.728Z",
+  "atualizadoEm": "2026-10-15T16:01:39.298Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31104",
+      "loja": "Amazon",
+      "titulo": "Bosch Bolsa Média De Transporte Para Ferramentas",
+      "link": "https://www.amazon.com.br/dp/B078WHM1G9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vvMSFV9sL._SL400_.jpg",
+      "preco": 123.16000000000001,
+      "precoDe": 189.9,
+      "desconto": 24,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T15:58:48.880Z"
+    },
     {
       "id": "31098",
       "loja": "Amazon",
