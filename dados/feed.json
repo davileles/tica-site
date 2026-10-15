@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-15T17:01:39.303Z",
+  "atualizadoEm": "2026-10-15T17:31:39.303Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31164",
+      "loja": "Shopee",
+      "titulo": "Conjunto de 2 peças de macacão Bebê Manga Longa com Pé Macio Estampa Veículos Obra Listras Recém Nascido",
+      "link": "https://s.shopee.com.br/8KqJI7FS8i",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258b-mt0et6sgu0w997_tn",
+      "preco": 79.9,
+      "precoDe": 122.92,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:28:57.130Z"
+    },
+    {
+      "id": "31161",
+      "loja": "Amazon",
+      "titulo": "Buba, Massageador De Gengiva Banana Cerdas Curtas",
+      "link": "https://www.amazon.com.br/dp/B0C4Z5HYLW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41CVRxIupbL._SL400_.jpg",
+      "preco": 17.37,
+      "precoDe": 27.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:25:37.135Z"
+    },
+    {
+      "id": "31153",
+      "loja": "Mercado Livre",
+      "titulo": "Kit completo para a diversão com 15 itens para fazer slime!",
+      "link": "https://meli.la/18dCScv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766844-MLB113464146767_062026-O.webp",
+      "preco": 68.86,
+      "precoDe": 109,
+      "desconto": 10,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-15T17:18:09.956Z"
+    },
+    {
+      "id": "31152",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit Parafusadeira Furadeira Gsb 120-Li E Chave De Impacto Gdr 120-Li 12V Com 1 Carregador 2 Baterias E 1 Maleta",
+      "link": "https://www.amazon.com.br/dp/B08C99QV6T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LrpcICXLL._SL400_.jpg",
+      "preco": 793.24,
+      "precoDe": 999,
+      "desconto": 7,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-15T17:14:39.682Z"
+    },
+    {
+      "id": "31151",
+      "loja": "Shopee",
+      "titulo": "Kit com 6/8 Carrinhos Com e Sem Fricção Filme Carros Relâmpago Mcqueen Brinquedo Infantil Envio Imediato",
+      "link": "https://s.shopee.com.br/BUbXZW7cX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma8k5h88c0hl95_tn",
+      "preco": 22.48,
+      "precoDe": 59.16,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:13:37.200Z"
+    },
+    {
+      "id": "31150",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Colmeia Organizadora bebe TNT PREMIUM - Tam P - calcinha - Maison Plus",
+      "link": "https://s.shopee.com.br/80DSrw7e6d",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rblm-m5rjtv52bs2m0e_tn",
+      "preco": 69.89,
+      "precoDe": 120.5,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:10:00.983Z"
+    },
+    {
+      "id": "31147",
+      "loja": "Shopee",
+      "titulo": "Kit Berço Luxo Linho  Americano Borboleta Jardim Encantado Menina  Enxoval de Bebê 100% Algodão 6Pçs",
+      "link": "https://s.shopee.com.br/9V2GeSPWaO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mtru81fvta803f_tn",
+      "preco": 329.9,
+      "precoDe": 717.17,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-15T17:02:49.175Z"
+    },
     {
       "id": "31142",
       "loja": "Mercado Livre",
