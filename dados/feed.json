@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-16T14:31:39.351Z",
+  "atualizadoEm": "2026-10-16T15:01:39.352Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31647",
+      "loja": "Amazon",
+      "titulo": "Play-Doh, Massinha de Modelar Infantil, Kit Inicial de Números - Conjunto de Brinquedo com Acessórios e 6 Potes - A partir de 3 Anos",
+      "link": "https://www.amazon.com.br/dp/B0CW6D6MSW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Pz3t+G-iL._SL400_.jpg",
+      "preco": 28.99,
+      "precoDe": 30.99,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T14:55:08.205Z"
+    },
+    {
+      "id": "31646",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/1qcqxsYnX6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T14:45:19.328Z"
+    },
     {
       "id": "31640",
       "loja": "Amazon",
