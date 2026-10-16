@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T19:27:44.885Z",
+  "atualizadoEm": "2026-10-16T20:31:40.657Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -145,6 +145,78 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "PNEU100",
+      "loja": "Carrefour",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-19T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "BAZAR100",
+      "loja": "Carrefour",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-19T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "ELETRO100",
+      "loja": "Carrefour",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-19T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "OPORTUNIDADE10",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "ELUXCOM10",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "ELUXCOM5",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
       "codigo": "DUFRIO50",
@@ -447,6 +519,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CADEIRA10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -528,6 +612,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T17:17:05.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMLU30",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 90,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons para aplicação via WhatsApp da Magalu. Valor mínimo de compra é o próprio valor do desconto (R$90 para R$30 OFF, R$50 para R$20 OFF)",
+      "validadeAte": "2026-10-17T20:05:50.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
