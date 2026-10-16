@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-15T22:58:45.680Z",
+  "atualizadoEm": "2026-10-16T01:31:39.696Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -551,7 +551,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
-      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "validadeAte": "2026-10-16T02:59:22.860Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -707,7 +707,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-28T02:59:00.000Z",
+      "validadeAte": "2026-10-16T02:59:13.861Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -971,7 +971,7 @@
       "maximo": null,
       "limite": 10000,
       "observacao": null,
-      "validadeAte": "2026-10-17T02:59:00.000Z",
+      "validadeAte": "2026-10-16T02:59:31.860Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1416,6 +1416,18 @@
       "limite": 20,
       "observacao": "Válido para produtos selecionados em Moda",
       "validadeAte": "2026-10-16T18:01:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TORCIDA10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-16T02:59:31.860Z",
       "url": "https://meli.la/2xystLt"
     },
     {
