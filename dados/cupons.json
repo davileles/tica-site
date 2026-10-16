@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T15:31:40.946Z",
+  "atualizadoEm": "2026-10-16T16:01:40.880Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1236,6 +1236,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-17T13:42:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AVANT25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-17T15:45:40.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
