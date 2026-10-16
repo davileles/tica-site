@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T14:31:41.565Z",
+  "atualizadoEm": "2026-10-16T15:01:41.561Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -504,18 +504,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T12:00:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-16T15:00:32.571Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1335,18 +1323,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em entregas Full. Aplica-se a produtos selecionados conforme lista fornecida.",
-      "validadeAte": "2026-10-16T15:01:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1464,18 +1440,6 @@
       "limite": null,
       "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
       "validadeAte": "2026-10-17T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "WOBR03",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
-      "validadeAte": "2026-10-16T14:44:45.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
@@ -2055,15 +2019,15 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "100FFN4SH0",
+      "codigo": "S3XT0U15",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
+      "valor": 15,
+      "minimo": 99,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-16T15:00:11.000Z",
+      "validadeAte": "2026-10-17T15:00:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
