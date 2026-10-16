@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-16T21:01:39.391Z",
+  "atualizadoEm": "2026-10-16T21:28:18.139Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31876",
+      "loja": "Amazon",
+      "titulo": "Cerveja Baden Baden IPA, Lata 350ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0F695MQ9K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41w+y3PfDKL._SL400_.jpg",
+      "preco": 36.62,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:18:18.137Z"
+    },
+    {
+      "id": "31875",
+      "loja": "Amazon",
+      "titulo": "Relógio Inteligente Amazfit Balance 46mm A2287 ZEPP FOLOW Composição Corporal, GPS, Step Tracking, Alexa Built-In, Chamada Bluetooth, Duração da Bateria de 14 Dias (Gray)",
+      "link": "https://www.amazon.com.br/dp/B0D2NS6V8G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51DhPsT6NXL._SL400_.jpg",
+      "preco": 866.39,
+      "precoDe": 1899,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:17:13.181Z"
+    },
+    {
+      "id": "31874",
+      "loja": "Amazon",
+      "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, 50g",
+      "link": "https://www.amazon.com.br/dp/B06XQ27YLL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/317rBd9K69L._SL400_.jpg",
+      "preco": 61,
+      "precoDe": 102.99,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:13:57.488Z"
+    },
+    {
+      "id": "31873",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/2VsYBYC4km",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:10:17.519Z"
+    },
     {
       "id": "31868",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-10-13T16:50:24.708Z"
-    },
-    {
-      "id": "30138",
-      "loja": "Shopee",
-      "titulo": "Kit Saída Maternidade Bebê Menina 4 Peças Macacão Manta Bordada Luvas e Faixa RN",
-      "link": "https://s.shopee.com.br/W7Oj2tiVT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-msx15vcyvytj65_tn",
-      "preco": 88.56,
-      "precoDe": 132.18,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:46:59.043Z"
-    },
-    {
-      "id": "30135",
-      "loja": "Shopee",
-      "titulo": "Conjunto Bebê Jardineira em Veludo Cotelê Davi",
-      "link": "https://s.shopee.com.br/5LCeTObRpN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mtjrybcnas5cb4_tn",
-      "preco": 79.8,
-      "precoDe": 119.1,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:43:30.323Z"
-    },
-    {
-      "id": "30134",
-      "loja": "Shopee",
-      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
-      "link": "https://s.shopee.com.br/6fi23izrc1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
-      "preco": 179.9,
-      "precoDe": 227.72,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:39:48.422Z"
-    },
-    {
-      "id": "30133",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Peças Roupa Infantil Menino Conjunto Verão Algodão Camiseta e Bermuda 1 a 12 Anos",
-      "link": "https://s.shopee.com.br/9APN2CB6nn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjh0nldudpfq05_tn",
-      "preco": 47.99,
-      "precoDe": 90.55,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:35:44.985Z"
     }
   ]
 }
