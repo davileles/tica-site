@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T12:01:39.602Z",
+  "atualizadoEm": "2026-10-16T12:31:40.953Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -480,6 +480,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T12:00:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1167,6 +1179,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BATEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-10-17T12:01:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEMDECUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-10-17T12:01:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESPECIALDESCONTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-10-17T12:01:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRINHASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1284,6 +1332,18 @@
       "limite": 20,
       "observacao": "Válido para produtos selecionados em Moda",
       "validadeAte": "2026-10-16T18:01:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-10-17T12:01:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
