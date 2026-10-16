@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T03:01:39.737Z",
+  "atualizadoEm": "2026-10-16T03:31:39.712Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,6 +48,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "PAOQUENTE",
+      "loja": "Brinox Shop",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
