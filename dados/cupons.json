@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T17:01:41.049Z",
+  "atualizadoEm": "2026-10-16T17:31:40.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -504,6 +504,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T17:00:31.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU120",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 120,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons de desconto fixo em reais com valor mínimo de compra",
+      "validadeAte": "2026-10-17T17:01:58.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU60",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-17T17:17:05.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2088,18 +2112,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T15:00:19.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "MER3C3M",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-16T17:13:30.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
