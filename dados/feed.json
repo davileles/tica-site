@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-16T13:28:31.531Z",
+  "atualizadoEm": "2026-10-16T13:31:39.351Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31595",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Masculino Azzaro Wanted Edt 100ml",
+      "link": "https://meli.la/1ra2YPj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970371-MLA114307069732_082026-F.jpg",
+      "preco": 389.9,
+      "precoDe": 899.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:28:39.305Z"
+    },
     {
       "id": "31586",
       "loja": "Amazon",
