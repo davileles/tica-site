@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T13:01:41.020Z",
+  "atualizadoEm": "2026-10-16T13:28:33.371Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,6 +435,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-16T15:00:32.571Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "100TODOSITE1610",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -444,18 +456,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T12:00:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1307,7 +1307,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-17T12:01:29.000Z",
+      "validadeAte": "2026-10-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1321,6 +1321,42 @@
       "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-17T12:49:52.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AWINBODYS",
+      "loja": "Natura",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
+    },
+    {
+      "codigo": "AWINMINIK",
+      "loja": "Natura",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
+    },
+    {
+      "codigo": "AWINAMOR",
+      "loja": "Natura",
+      "tipo": "reais",
+      "valor": 115,
+      "minimo": 115,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
     },
     {
       "codigo": "WELCOME15",
@@ -1957,18 +1993,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "P1XDAYAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 699,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-16T13:04:53.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "CUP0NZ40DOADM",
