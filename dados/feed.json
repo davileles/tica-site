@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-16T15:01:39.352Z",
+  "atualizadoEm": "2026-10-16T15:31:39.352Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31670",
+      "loja": "Shopee",
+      "titulo": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
+      "link": "https://s.shopee.com.br/7AeNMcK25l",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz575a3eoft2f3_tn",
+      "preco": 52.99,
+      "precoDe": 71.61,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T15:28:45.027Z"
+    },
+    {
+      "id": "31660",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360°, Black Urban",
+      "link": "https://meli.la/13VBZ95",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_673952-MLA118463635355_092026-F.jpg",
+      "preco": 1317,
+      "precoDe": 2100,
+      "desconto": 35,
+      "cupom": "161040TODOSITE",
+      "enviadoEm": "2026-10-16T15:25:11.108Z"
+    },
+    {
+      "id": "31658",
+      "loja": "Shopee",
+      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
+      "link": "https://s.shopee.com.br/30ooNaLu0F",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
+      "preco": 12.85,
+      "precoDe": 12.98,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T15:18:08.621Z"
+    },
+    {
+      "id": "31653",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 2 Bolsas Térmicas para Lanche",
+      "link": "https://meli.la/2NjPLFf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785797-MLB118338806477_092026-O.webp",
+      "preco": 22.76,
+      "precoDe": 32.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T15:10:44.571Z"
+    },
+    {
+      "id": "31652",
+      "loja": "Amazon",
+      "titulo": "Creme Facial Antissinais Neutrogena Face Care Intensive, FPS 22, 100g",
+      "link": "https://www.amazon.com.br/dp/B08YZB3Z2V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41femH4P2vL._SL400_.jpg",
+      "preco": 31.5,
+      "precoDe": 48.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T15:07:12.049Z"
+    },
     {
       "id": "31647",
       "loja": "Amazon",
