@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-16T20:31:39.391Z",
+  "atualizadoEm": "2026-10-16T21:01:39.391Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31868",
+      "loja": "Amazon",
+      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
+      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
+      "preco": 69.54,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:56:57.190Z"
+    },
+    {
+      "id": "31867",
+      "loja": "Amazon",
+      "titulo": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
+      "link": "https://www.amazon.com.br/dp/B07Y1T5YZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pa2jisPRL._SL400_.jpg",
+      "preco": 111.49,
+      "precoDe": 209,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:54:50.320Z"
+    },
+    {
+      "id": "31862",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/4LKCL9N8HU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 19,
+      "precoDe": 35.19,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:47:49.089Z"
+    },
+    {
+      "id": "31861",
+      "loja": "Mercado Livre",
+      "titulo": "Aspirador de Pó Vertical Sem Fio Electrolux Ergorapido 2 em 1 Cyclone até 21 min Branco (ERG21) - Bivolt",
+      "link": "https://meli.la/2dwfLbK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642858-MLA99507570454_112025-F.jpg",
+      "preco": 449.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFHOJE",
+      "enviadoEm": "2026-10-16T20:44:25.493Z"
+    },
+    {
+      "id": "31857",
+      "loja": "Amazon",
+      "titulo": "Sunny, Conjunto de Mini Playsets, Ar Livre da Dora Aventureira e Acessórios",
+      "link": "https://www.amazon.com.br/dp/B0F6ZSPXFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41s8yrcHezL._SL400_.jpg",
+      "preco": 39.99,
+      "precoDe": 199.99,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:40:31.201Z"
+    },
+    {
+      "id": "31851",
+      "loja": "Amazon",
+      "titulo": "Bebida Mista Beats, Tropical, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CNTHMJDX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31z33dA7zIL._SL400_.jpg",
+      "preco": 63.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:36:52.030Z"
+    },
+    {
+      "id": "31843",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Norwegian Intensivo, Sem Perfume, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0B91WQ41J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Tl6va8haL._SL400_.jpg",
+      "preco": 65,
+      "precoDe": 122.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:36:03.025Z"
+    },
+    {
+      "id": "31842",
+      "loja": "Amazon",
+      "titulo": "Máscara de Cílios Maybelline NY The Colossal Volum' Express, 8ml",
+      "link": "https://www.amazon.com.br/dp/B077BY4FMF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21mBwM4HSlL._SL400_.jpg",
+      "preco": 41.2,
+      "precoDe": 69.69,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:32:12.256Z"
+    },
     {
       "id": "31840",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-13T16:35:44.985Z"
-    },
-    {
-      "id": "30128",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Cueiro Bebe Extragrande Flanelado 1,m X 80cm Baby Joy Estampado Branco/rosa",
-      "link": "https://meli.la/1Q3GhT6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962358-MLA113581957277_062026-F.jpg",
-      "preco": 69.16,
-      "precoDe": 85.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:32:08.020Z"
-    },
-    {
-      "id": "30127",
-      "loja": "Mercado Livre",
-      "titulo": "Sapateira Vertical Empilhável 6 Pares Organizador De Calçados Modular Preto Caixa de Tênis Fácil Montagem",
-      "link": "https://meli.la/2bKe6rS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731711-MLA118259015759_092026-F.jpg",
-      "preco": 115.11000000000001,
-      "precoDe": 249.99,
-      "desconto": 49,
-      "cupom": "FULLLANDING",
-      "enviadoEm": "2026-10-13T16:28:41.531Z"
-    },
-    {
-      "id": "30123",
-      "loja": "Shopee",
-      "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "link": "https://s.shopee.com.br/4B0h4FnKqp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439_tn",
-      "preco": 19.97,
-      "precoDe": 51.21,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:25:31.221Z"
-    },
-    {
-      "id": "30122",
-      "loja": "Amazon",
-      "titulo": "JOGO DE PINCAS DE ACO COM, EMBALAGEM COM 4 PECAS//SPARTA",
-      "link": "https://www.amazon.com.br/dp/B09N43YXRC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41j7CRjoljL._SL400_.jpg",
-      "preco": 8.43,
-      "precoDe": 19.53,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:21:57.619Z"
-    },
-    {
-      "id": "30114",
-      "loja": "Mercado Livre",
-      "titulo": "Cômoda 8 Gavetas Lite Casal Solteiro Grande Para Quarto Com Pés Moderna Cor Nature Off",
-      "link": "https://meli.la/2mwxqwb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_752747-MLA111357314240_052026-F.jpg",
-      "preco": 290.03,
-      "precoDe": 659.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:18:23.893Z"
-    },
-    {
-      "id": "30113",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira De Brinquedo Funciona Com Água e Luz",
-      "link": "https://meli.la/1aBECK2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_679873-MLB113037097363_062026-O.webp",
-      "preco": 69.99,
-      "precoDe": 119,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:14:49.041Z"
-    },
-    {
-      "id": "30110",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/AKbKOqe2ap",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 413.09,
-      "precoDe": 598.68,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:13:53.351Z"
-    },
-    {
-      "id": "30108",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete Líquido Bebê, Calêndula, 500ml",
-      "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TUoL7ifaL._SL400_.jpg",
-      "preco": 29.99,
-      "precoDe": 39,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:10:36.713Z"
     }
   ]
 }
