@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-16T19:01:39.364Z",
+  "atualizadoEm": "2026-10-16T19:27:43.287Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31803",
+      "loja": "Amazon",
+      "titulo": "Vodka Smirnoff 1750ml",
+      "link": "https://www.amazon.com.br/dp/B005IZZDAY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vrzk3W5NL._SL400_.jpg",
+      "preco": 43.99,
+      "precoDe": 63.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:17:43.284Z"
+    },
+    {
+      "id": "31802",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
+      "link": "https://www.amazon.com.br/dp/B09LRDGH1Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31roRnJPlDL._SL400_.jpg",
+      "preco": 199.91,
+      "precoDe": 367,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:16:48.713Z"
+    },
+    {
+      "id": "31801",
+      "loja": "Amazon",
+      "titulo": "Cabo de 2 metros de Nylon BASEUS Turbo tipo C P/tipo C 60wats 3amp Cor Preto (2M - USB-C P/USB-C)",
+      "link": "https://www.amazon.com.br/dp/B09NY2QJHZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RQf5ic+0L._SL400_.jpg",
+      "preco": 36.95,
+      "precoDe": 69.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:15:56.236Z"
+    },
+    {
+      "id": "31793",
+      "loja": "Amazon",
+      "titulo": "Integralmédica - Barra de Proteína Whey Protein Crisp Bar Doce de Coco - Snack Proteíco - Pré e Pós-Treino - Display com 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07G7RVZ1V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51h6tg4zY1L._SL400_.jpg",
+      "preco": 57.49999999999999,
+      "precoDe": 125.27,
+      "desconto": 43,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-16T19:12:10.396Z"
+    },
+    {
+      "id": "31791",
+      "loja": "Shopee",
+      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+      "link": "https://s.shopee.com.br/7pu4Of7BMO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp7x1cv6r7da88_tn",
+      "preco": 18.1,
+      "precoDe": 25.14,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:08:29.449Z"
+    },
+    {
+      "id": "31790",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Body Care Intensive Hidrata & Suaviza, 400ml | Anti-Envelhecimento, Hidratação Prolongada, Pele Suave",
+      "link": "https://www.amazon.com.br/dp/B096FXGX1Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31uNdjNBXBL._SL400_.jpg",
+      "preco": 25.74,
+      "precoDe": 47.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:05:01.031Z"
+    },
+    {
+      "id": "31789",
+      "loja": "Amazon",
+      "titulo": "Mor - Caixa Térmica 42 Litros Azul",
+      "link": "https://www.amazon.com.br/dp/B07LGZM6JC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vx2h-UoKL._SL400_.jpg",
+      "preco": 278.04,
+      "precoDe": 489.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:01:49.151Z"
+    },
     {
       "id": "31788",
       "loja": "Mercado Livre",
@@ -1021,18 +1105,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-16T12:30:30.091Z"
-    },
-    {
-      "id": "31503",
-      "loja": "Amazon",
-      "titulo": "Cabo de 2 metros de Nylon BASEUS Turbo tipo C P/tipo C 60wats 3amp Cor Preto (2M - USB-C P/USB-C)",
-      "link": "https://www.amazon.com.br/dp/B09NY2QJHZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RQf5ic+0L._SL400_.jpg",
-      "preco": 36.95,
-      "precoDe": 69.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:27:04.009Z"
     },
     {
       "id": "31498",
@@ -5929,78 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-13T15:11:25.000Z"
-    },
-    {
-      "id": "30068",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Naninha Pelucia + Travesseiro",
-      "link": "https://meli.la/2qrJhei",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720049-MLB111134261053_052026-O.webp",
-      "preco": 27.290000000000003,
-      "precoDe": 59.99,
-      "desconto": 35,
-      "cupom": "SAINDOBARRATO",
-      "enviadoEm": "2026-10-13T15:01:06.746Z"
-    },
-    {
-      "id": "30067",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda De Pano Estampada Comum 100% Algodão Kit Com 5",
-      "link": "https://meli.la/2jGG6cH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702181-MLB88938927440_082025-O.webp",
-      "preco": 34.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DESCONTEI",
-      "enviadoEm": "2026-10-13T14:59:58.559Z"
-    },
-    {
-      "id": "30065",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/8KqFw62uB0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 29.97,
-      "precoDe": 48.34,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T14:59:03.557Z"
-    },
-    {
-      "id": "30061",
-      "loja": "Shopee",
-      "titulo": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "link": "https://s.shopee.com.br/5LCeLfswxW",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22_tn",
-      "preco": 21.52,
-      "precoDe": 37.75,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T14:47:46.245Z"
-    },
-    {
-      "id": "30060",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Calça e Blusa De Moletom Liso",
-      "link": "https://meli.la/1SqHsUJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773792-MLB115446588341_082026-O.webp",
-      "preco": 69.99,
-      "precoDe": 78.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T14:44:17.902Z"
-    },
-    {
-      "id": "30054",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/BUYBXkAaJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T14:36:29.550Z"
     }
   ]
 }
