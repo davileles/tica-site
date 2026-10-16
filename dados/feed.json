@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-16T13:01:39.351Z",
+  "atualizadoEm": "2026-10-16T13:28:31.531Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31586",
+      "loja": "Amazon",
+      "titulo": "Cadeira Para Auto Maximus até 25 Kg Preto Galzerano",
+      "link": "https://www.amazon.com.br/dp/B0BW11X8VR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Dtvkl7p4L._SL400_.jpg",
+      "preco": 263.2,
+      "precoDe": 529.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:18:31.515Z"
+    },
+    {
+      "id": "31579",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:17:34.562Z"
+    },
+    {
+      "id": "31578",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Vans Knu Skool Unissex Casual Chunky Retrô Anos 90",
+      "link": "https://meli.la/2EeXZcC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660931-MLB113222415104_072026-O.webp",
+      "preco": 96,
+      "precoDe": 299,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:16:19.000Z"
+    },
+    {
+      "id": "31577",
+      "loja": "Shopee",
+      "titulo": "Arranhador Para Gatos Poste Brinquedo Bolinha Interativo",
+      "link": "https://s.shopee.com.br/4Vdc2OQDdK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhro7dplle6b02_tn",
+      "preco": 31.6,
+      "precoDe": 40,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:12:34.959Z"
+    },
+    {
+      "id": "31576",
+      "loja": "Amazon",
+      "titulo": "Colônia Refrescante Johnson's Baby, Lavanda, 400ml | Hipoalergênico, Fragrância Suave, Toque Refrescante",
+      "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GKnPu8VBL._SL400_.jpg",
+      "preco": 48.09,
+      "precoDe": 68.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T13:08:12.972Z"
+    },
     {
       "id": "31557",
       "loja": "Amazon",
