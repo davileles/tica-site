@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T12:31:40.953Z",
+  "atualizadoEm": "2026-10-16T13:01:41.020Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -279,18 +279,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "ATTACK30",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-16T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "JBL25",
       "loja": "Kabum",
       "tipo": "pct",
@@ -327,18 +315,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "HYPERX15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-16T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ATTACK15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -360,18 +336,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CLASSICS15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-16T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1344,6 +1308,18 @@
       "limite": 200,
       "observacao": "Cupons para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-10-17T12:01:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOISDIN10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-17T12:49:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
