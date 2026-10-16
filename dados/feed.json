@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-16T20:01:39.391Z",
+  "atualizadoEm": "2026-10-16T20:31:39.391Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31840",
+      "loja": "Mercado Livre",
+      "titulo": "Mousepad Gamer Tgt K50m, Grande, 500x500x3mm, Preto",
+      "link": "https://meli.la/1gYvQZL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937883-MLA96570229814_112025-F.jpg",
+      "preco": 32.9,
+      "precoDe": 71.99,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:28:56.999Z"
+    },
+    {
+      "id": "31839",
+      "loja": "Amazon",
+      "titulo": "Paulistânia Cerveja Ipiranga Red Lager Garrafa 500Ml 1Un",
+      "link": "https://www.amazon.com.br/dp/B07Y2CTXL8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UJ3UJOBpS._SL400_.jpg",
+      "preco": 14.979999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-16T20:25:33.661Z"
+    },
+    {
+      "id": "31834",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/1gJR8IBhI5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 27.89,
+      "precoDe": 69.72,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:21:56.914Z"
+    },
+    {
+      "id": "31832",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Térmicas Masculina Térmica Proteção Solauv50",
+      "link": "https://meli.la/2aMUSKW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684866-MLB111932114311_052026-O.webp",
+      "preco": 41.3,
+      "precoDe": 199,
+      "desconto": 70,
+      "cupom": "ECONOMIZEI",
+      "enviadoEm": "2026-10-16T20:14:58.774Z"
+    },
+    {
+      "id": "31830",
+      "loja": "Amazon",
+      "titulo": "Camiseta Puma Essentials No. 1 Logo Masculina",
+      "link": "https://www.amazon.com.br/dp/B0D2RKGT8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/212KbQBpfhL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 109.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:07:32.357Z"
+    },
+    {
+      "id": "31827",
+      "loja": "Amazon",
+      "titulo": "Buba Adesivo Gel para Testa Infantil, Atóxico, Compressa de Alívio Xo Febre, Muda de Cor, para Vacina",
+      "link": "https://www.amazon.com.br/dp/B0H4RT4FV3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BKTNmkO6L._SL400_.jpg",
+      "preco": 19.79,
+      "precoDe": 22.98,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:04:13.822Z"
+    },
+    {
+      "id": "31826",
+      "loja": "Amazon",
+      "titulo": "Aparelho de Som Ruído Branco para Bebê com 20 Sons Relaxantes Acompanha Suporte Para Encaixar no Berço, Luz Noturna Suave, Timer 15 30 60 Minutos e Contínuo, USB Recarregável, Idea",
+      "link": "https://www.amazon.com.br/dp/B0GML2JSSG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31q1GhEhrFL._SL400_.jpg",
+      "preco": 89.99,
+      "precoDe": 119.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:03:02.037Z"
+    },
+    {
+      "id": "31824",
+      "loja": "Amazon",
+      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
+      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
+      "preco": 38.34,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T20:01:55.330Z"
+    },
     {
       "id": "31823",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-10-13T16:10:36.713Z"
-    },
-    {
-      "id": "30105",
-      "loja": "Amazon",
-      "titulo": "Estrela, Jogo Tapa Certo",
-      "link": "https://www.amazon.com.br/dp/B07CBL2H3M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Xb46s+3jL._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": 39.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:09:32.192Z"
-    },
-    {
-      "id": "30104",
-      "loja": "Mercado Livre",
-      "titulo": "Dupla de camisetas com um visual exclusivo!",
-      "link": "https://meli.la/2huEtG9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875098-MLB113456764065_062026-O.webp",
-      "preco": 139.9,
-      "precoDe": 287.3,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:08:32.734Z"
-    },
-    {
-      "id": "30098",
-      "loja": "Shopee",
-      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
-      "link": "https://s.shopee.com.br/2BFcf27BwI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
-      "preco": 27.18,
-      "precoDe": 118.17,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:01:14.188Z"
-    },
-    {
-      "id": "30095",
-      "loja": "Shopee",
-      "titulo": "Tênis Meia Infantil Calce Fácil Slip On Para Escola Lazer Dia a Dia Casual Estiloso Confortável",
-      "link": "https://s.shopee.com.br/4LK7EhBLy3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapggeh1xb4e9_tn",
-      "preco": 38.89,
-      "precoDe": 58.92,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:57:22.925Z"
-    },
-    {
-      "id": "30094",
-      "loja": "Mercado Livre",
-      "titulo": "Quarto De Bebê Completo 100% Mdf Com Cômoda Berço E Wt!",
-      "link": "https://meli.la/1aB9Gcc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719647-MLB116383092651_082026-O.webp",
-      "preco": 989.99,
-      "precoDe": 1341.15,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:54:03.746Z"
-    },
-    {
-      "id": "30093",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/8fT6O16gRa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 149.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:50:25.521Z"
-    },
-    {
-      "id": "30092",
-      "loja": "Shopee",
-      "titulo": "Quarto de Bebe Completo Infantil com Berço Cômoda Olívia Multimóveis Branco",
-      "link": "https://s.shopee.com.br/2VsT2gChLJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qvfy-lhxg1az53lmfaa_tn",
-      "preco": 862.25,
-      "precoDe": 1165.2,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:47:15.790Z"
-    },
-    {
-      "id": "30091",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Descartáveis Baby Qu4troSec Com 62 Unidades Tamanho P Turma da Mônica",
-      "link": "https://meli.la/2PXfPzS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944831-MLA110297599476_052026-F.jpg",
-      "preco": 35.21,
-      "precoDe": 50.05,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:42:15.408Z"
     }
   ]
 }
