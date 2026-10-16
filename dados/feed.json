@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-16T22:31:39.392Z",
+  "atualizadoEm": "2026-10-16T22:51:32.351Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31903",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Tradicional 2L – Energia em Grande Volume",
+      "link": "https://www.amazon.com.br/dp/B082952S4G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31D3SBf1wiL._SL400_.jpg",
+      "preco": 17.01,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T22:41:32.343Z"
+    },
+    {
+      "id": "31902",
+      "loja": "Shopee",
+      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "link": "https://s.shopee.com.br/qkKIgdIFj",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
+      "preco": 8.87,
+      "precoDe": 17.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T22:40:44.292Z"
+    },
     {
       "id": "31898",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-13T17:41:54.461Z"
-    },
-    {
-      "id": "30174",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Peças Roupinhas de Bebê Body Longo Liso ou Estampado e Mijão",
-      "link": "https://s.shopee.com.br/5VW4jWOXEZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpnsec8fwlj535_tn",
-      "preco": 65.69,
-      "precoDe": 104.27,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:38:40.814Z"
-    },
-    {
-      "id": "30173",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
-      "link": "https://s.shopee.com.br/1BN5ZRhrLW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
-      "preco": 17.99,
-      "precoDe": 21.42,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:34:56.098Z"
     }
   ]
 }
