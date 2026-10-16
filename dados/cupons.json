@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T13:45:37.250Z",
+  "atualizadoEm": "2026-10-16T14:01:40.925Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,18 +459,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-16T15:00:32.571Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "100TODOSITE1610",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -480,6 +468,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T12:00:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-16T15:00:32.571Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -775,7 +775,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -799,7 +799,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -871,7 +871,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -900,18 +900,6 @@
       "limite": 10000,
       "observacao": "Cupom válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-10-16T17:40:50.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GARNIERNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 60,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-17T13:42:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1159,7 +1147,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1311,18 +1299,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OUTLET1510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-16T21:23:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL1510",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1332,18 +1308,6 @@
       "limite": 20,
       "observacao": "Válido em entregas Full. Aplica-se a produtos selecionados conforme lista fornecida.",
       "validadeAte": "2026-10-16T15:01:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA1510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido para produtos selecionados em Moda",
-      "validadeAte": "2026-10-16T18:01:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
