@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-16T19:27:43.287Z",
+  "atualizadoEm": "2026-10-16T19:31:39.391Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31806",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/1qcrHVVUfZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 300.21,
+      "precoDe": 698.16,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T19:30:57.965Z"
+    },
     {
       "id": "31803",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-13T15:14:31.101Z"
-    },
-    {
-      "id": "30072",
-      "loja": "Mercado Livre",
-      "titulo": "Brinquedo Interativo Foguete Atividades Com Som",
-      "link": "https://meli.la/1AGKyyB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719519-MLA104795331638_012026-O.webp",
-      "preco": 56.87,
-      "precoDe": 78.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T15:11:25.000Z"
     }
   ]
 }
