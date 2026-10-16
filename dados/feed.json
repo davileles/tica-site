@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-16T12:00:00.051Z",
+  "atualizadoEm": "2026-10-16T12:31:39.351Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31507",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido de Glicerina Johnson's Baby, Da Cabeça aos Pés, 400ml",
+      "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QjgyWVbVL._SL400_.jpg",
+      "preco": 28.7,
+      "precoDe": 40.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T12:30:30.091Z"
+    },
+    {
+      "id": "31503",
+      "loja": "Amazon",
+      "titulo": "Cabo de 2 metros de Nylon BASEUS Turbo tipo C P/tipo C 60wats 3amp Cor Preto (2M - USB-C P/USB-C)",
+      "link": "https://www.amazon.com.br/dp/B09NY2QJHZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RQf5ic+0L._SL400_.jpg",
+      "preco": 36.95,
+      "precoDe": 69.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T12:27:04.009Z"
+    },
+    {
+      "id": "31498",
+      "loja": "Mercado Livre",
+      "titulo": "Protetor De Colchão Impermeável Malha Slim Queen Altenburg",
+      "link": "https://meli.la/23fSPxY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645385-MLA96098165339_102025-F.jpg",
+      "preco": 96.19,
+      "precoDe": 135,
+      "desconto": 5,
+      "cupom": "VEMDECUPOM",
+      "enviadoEm": "2026-10-16T12:23:25.198Z"
+    },
+    {
+      "id": "31495",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/AAHyihWimu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T12:20:00.959Z"
+    },
+    {
+      "id": "31494",
+      "loja": "Mercado Livre",
+      "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
+      "link": "https://meli.la/2VGx8eM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903017-MLA111914906979_052026-F.jpg",
+      "preco": 78.98,
+      "precoDe": 157.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T12:16:18.522Z"
+    },
+    {
+      "id": "31490",
+      "loja": "Amazon",
+      "titulo": "Mor - Cadeira Alta Alumínio Anis",
+      "link": "https://www.amazon.com.br/dp/B0779KWRHK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41feCq8m4WL._SL400_.jpg",
+      "preco": 79.88,
+      "precoDe": 188.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T12:08:37.101Z"
+    },
+    {
+      "id": "31484",
+      "loja": "Amazon",
+      "titulo": "Serrote Manual Bosch 45cm Bosch",
+      "link": "https://www.amazon.com.br/dp/B0GTX2165L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mBghy0YHL._SL400_.jpg",
+      "preco": 115.92999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-16T12:05:03.001Z"
+    },
     {
       "id": "31467",
       "loja": "Shopee",
