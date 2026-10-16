@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-16T21:28:18.139Z",
+  "atualizadoEm": "2026-10-16T22:01:39.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31889",
+      "loja": "Amazon",
+      "titulo": "Cerveja Budweiser, American Lager, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B094NDWW4J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cHIyeckyL._SL400_.jpg",
+      "preco": 53.66,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-16T21:58:27.033Z"
+    },
+    {
+      "id": "31887",
+      "loja": "Shopee",
+      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+      "link": "https://s.shopee.com.br/9fLilpUMHR",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
+      "preco": 75.89,
+      "precoDe": 199.71,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:55:37.863Z"
+    },
+    {
+      "id": "31886",
+      "loja": "Amazon",
+      "titulo": "Óleo Hidratante para Bebê Johnson's Baby, Puro, 200ml",
+      "link": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+080wCuTL._SL400_.jpg",
+      "preco": 53.28,
+      "precoDe": 72.99,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:51:57.233Z"
+    },
+    {
+      "id": "31885",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
+      "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51fJ2kJ+fLL._SL400_.jpg",
+      "preco": 692.59,
+      "precoDe": 737.69,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:48:31.299Z"
+    },
+    {
+      "id": "31884",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 42,
+      "precoDe": 71.39,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:40:49.237Z"
+    },
+    {
+      "id": "31883",
+      "loja": "Amazon",
+      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, ",
+      "link": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21KKr6VQU7L._SL400_.jpg",
+      "preco": 196.5,
+      "precoDe": 369,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:39:55.957Z"
+    },
+    {
+      "id": "31879",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/8AWuxVe7gk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
+      "preco": 34.02,
+      "precoDe": 42,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-16T21:32:58.712Z"
+    },
     {
       "id": "31876",
       "loja": "Amazon",
@@ -553,18 +637,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-10-16T18:20:51.051Z"
-    },
-    {
-      "id": "31762",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B094NDWW4J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cHIyeckyL._SL400_.jpg",
-      "preco": 53.66,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-16T18:20:00.968Z"
     },
     {
       "id": "31760",
@@ -5929,78 +6001,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-10-13T17:09:41.675Z"
-    },
-    {
-      "id": "30150",
-      "loja": "Mercado Livre",
-      "titulo": "Fogão Cooktop alimentação gás - Braslar 5 bocas cor preto - Bivolt de Embutir",
-      "link": "https://meli.la/2Wgg4NG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870515-MLA116954098562_092026-F.jpg",
-      "preco": 341.90999999999997,
-      "precoDe": 436,
-      "desconto": 13,
-      "cupom": "MELHORDEHJ",
-      "enviadoEm": "2026-10-13T17:06:26.938Z"
-    },
-    {
-      "id": "30148",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Higiene Bebê Tema Astronauta 3 Peças Cotonete Algodão Branco",
-      "link": "https://meli.la/2PLao3C",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918159-MLB109032291145_032026-O.webp",
-      "preco": 76.27,
-      "precoDe": 99.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:02:32.912Z"
-    },
-    {
-      "id": "30146",
-      "loja": "Mercado Livre",
-      "titulo": "Eps-5062 Organizador Com Zíper 9 Prateleiras Sapateira Estante Cinza",
-      "link": "https://meli.la/1hKKYoN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743022-MLA99473305188_112025-F.jpg",
-      "preco": 52.92,
-      "precoDe": 120,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:59:18.865Z"
-    },
-    {
-      "id": "30145",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Pants Roupinha Premium Natural Care XXG - 52 Unidades",
-      "link": "https://meli.la/2QzC4Gz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_993452-MLA99930209371_112025-F.jpg",
-      "preco": 70.53,
-      "precoDe": 109.09,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:55:22.144Z"
-    },
-    {
-      "id": "30141",
-      "loja": "Shopee",
-      "titulo": "Macacão De Natal Para Bebês Meninas E Meninos Sem Mangas Com Bordado De Papai Noel",
-      "link": "https://s.shopee.com.br/6q1SGvlXuV",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257w-mtgbxjeeultvf6_tn",
-      "preco": 48.64,
-      "precoDe": 67.56,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:54:20.789Z"
-    },
-    {
-      "id": "30140",
-      "loja": "Shopee",
-      "titulo": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "link": "https://s.shopee.com.br/8AWprHw1VT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970_tn",
-      "preco": 78.9,
-      "precoDe": 161.02,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T16:50:24.708Z"
     }
   ]
 }
