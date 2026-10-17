@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-16T23:43:35.258Z",
+  "atualizadoEm": "2026-10-17T11:21:15.960Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31918",
+      "loja": "Amazon",
+      "titulo": "Whisky Singleton Of Dufftown 12 Anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07WSHYVQ8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31nNbZLjvXL._SL400_.jpg",
+      "preco": 146.32,
+      "precoDe": 267.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T11:11:15.955Z"
+    },
+    {
+      "id": "31914",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
+      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
+      "preco": 67.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T11:07:25.520Z"
+    },
+    {
+      "id": "31913",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Corporal em Loção Sundown, FPS 50, 250ml + 350ml",
+      "link": "https://www.amazon.com.br/dp/B0FFQ7QDL1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31qn32PUxpL._SL400_.jpg",
+      "preco": 56.81,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T11:06:16.249Z"
+    },
+    {
+      "id": "31912",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/9fLjdsVqVd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 16.49,
+      "precoDe": 31.71,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T11:03:02.321Z"
+    },
     {
       "id": "31906",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-10-13T18:04:24.376Z"
-    },
-    {
-      "id": "30189",
-      "loja": "Amazon",
-      "titulo": "DM Toys Brinquedo Interativo Musical Mexe Danca Luz e Som Dancing Cachorro",
-      "link": "https://www.amazon.com.br/dp/B08Z899HWG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EVQGlDipL._SL400_.jpg",
-      "preco": 38.92,
-      "precoDe": 66.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:58:33.048Z"
-    },
-    {
-      "id": "30188",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/8AWpw2mv9u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 23.88,
-      "precoDe": 47.76,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:57:32.316Z"
-    },
-    {
-      "id": "30181",
-      "loja": "Shopee",
-      "titulo": "Prevenção de Estrias na Gravidez: Cuidado Completo Pré e Pós-Gestação",
-      "link": "https://s.shopee.com.br/6VObwYhlno",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjygg44h6c5id7_tn",
-      "preco": 39.9,
-      "precoDe": 120.91,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T17:52:21.475Z"
-    },
-    {
-      "id": "30179",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Confort Sec Tamanho XG 86 Unidades Pampers",
-      "link": "https://meli.la/1WfsVU8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644356-MLA114424578430_082026-F.jpg",
-      "preco": 110.6,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-13T17:48:46.139Z"
     }
   ]
 }
