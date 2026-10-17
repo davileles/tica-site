@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T18:21:25.265Z",
+  "atualizadoEm": "2026-10-17T18:31:39.415Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32065",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/8pmd948ymB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 29.99,
+      "precoDe": 53.55,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T18:30:13.506Z"
+    },
     {
       "id": "32060",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-10-14T11:25:33.385Z"
-    },
-    {
-      "id": "30399",
-      "loja": "Amazon",
-      "titulo": "Lava-Louças Electrolux 8 Serviços Branca com Programa Lava e Seca 50min 220v LB08E",
-      "link": "https://www.amazon.com.br/dp/B0FJZR1RBP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/213XwQkeOgL._SL400_.jpg",
-      "preco": 1799,
-      "precoDe": 2399,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T11:09:27.785Z"
     }
   ]
 }
