@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T17:01:39.415Z",
+  "atualizadoEm": "2026-10-17T17:13:28.014Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32043",
+      "loja": "Amazon",
+      "titulo": "Larios Gin Espanhol Rosé 700ml",
+      "link": "https://www.amazon.com.br/dp/B019H9VQ52?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ScqA3xpnL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 111.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T17:03:28.009Z"
+    },
     {
       "id": "32040",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-13T22:36:46.706Z"
-    },
-    {
-      "id": "30352",
-      "loja": "Amazon",
-      "titulo": "Gabinete Gamer Redragon Eternal Preto e Vermelho Sem Fans CA-612BR",
-      "link": "https://www.amazon.com.br/dp/B0GJ7GG3YV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Bv7xSVagL._SL400_.jpg",
-      "preco": 346.15,
-      "precoDe": 492.48,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:35:45.483Z"
     }
   ]
 }
