@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T21:48:27.281Z",
+  "atualizadoEm": "2026-10-17T22:01:39.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32103",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+      "link": "https://s.shopee.com.br/9APTmAabrC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
+      "preco": 46.41,
+      "precoDe": 136.5,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T22:01:07.768Z"
+    },
     {
       "id": "32102",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-14T14:03:41.461Z"
-    },
-    {
-      "id": "30510",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
-      "link": "https://s.shopee.com.br/8fT7rFN4tx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
-      "preco": 46.99,
-      "precoDe": 99.98,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T13:55:44.920Z"
     }
   ]
 }
