@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-17T20:01:39.418Z",
+  "atualizadoEm": "2026-10-17T20:31:39.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32085",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/4LKDuboisy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
+      "preco": 41,
+      "precoDe": 95.35,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:26:27.280Z"
+    },
+    {
+      "id": "32084",
+      "loja": "Mercado Livre",
+      "titulo": "Capacete moto aberto pro tork new liberty three preto fosco tamanho 56 desenho solid viseira cristal",
+      "link": "https://meli.la/19D8EYz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986703-MLA106100761953_012026-F.jpg",
+      "preco": 124.9,
+      "precoDe": 143.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:22:53.524Z"
+    },
+    {
+      "id": "32081",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
+      "preco": 46.99,
+      "precoDe": 73.75,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:17:03.502Z"
+    },
     {
       "id": "32079",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-14T12:48:06.023Z"
-    },
-    {
-      "id": "30474",
-      "loja": "Shopee",
-      "titulo": "Playstation 5 Pro 2TB - Leitor Digital",
-      "link": "https://s.shopee.com.br/2BFe1q3y9B",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrj87z1n5k3q7b_tn",
-      "preco": 7017.9,
-      "precoDe": 9747.08,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:37:23.062Z"
-    },
-    {
-      "id": "30461",
-      "loja": "Amazon",
-      "titulo": "Mordedor Infantil Flexível 360 com Chocalho e Texturas Branco",
-      "link": "https://www.amazon.com.br/dp/B0FLKP5TMV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sqVLHRi2L._SL400_.jpg",
-      "preco": 37.5,
-      "precoDe": 47,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:22:25.140Z"
-    },
-    {
-      "id": "30444",
-      "loja": "Mercado Livre",
-      "titulo": "Aspirador de Pó e Água WAP GTW INOX 12 1400W com Bocal de Sopro",
-      "link": "https://meli.la/23hjSgA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99867297737_112025-F.jpg",
-      "preco": 178.75,
-      "precoDe": 696,
-      "desconto": 63,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-10-14T12:21:37.205Z"
     }
   ]
 }
