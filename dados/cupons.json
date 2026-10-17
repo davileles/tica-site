@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T17:31:41.111Z",
+  "atualizadoEm": "2026-10-17T18:01:39.680Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1359,18 +1359,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "NATAL1610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em produtos selecionados de decoração de Natal",
-      "validadeAte": "2026-10-17T18:00:44.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFNOMELIHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1392,6 +1380,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-18T15:01:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS1710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-18T18:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
