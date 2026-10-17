@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-17T17:13:28.014Z",
+  "atualizadoEm": "2026-10-17T17:31:39.415Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32048",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto com 4 Camisas Polo Caneladas de Manga Curta",
+      "link": "https://meli.la/14jMYg3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743111-MLB117377449255_092026-O.webp",
+      "preco": 67.89,
+      "precoDe": 109.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T17:25:25.355Z"
+    },
+    {
+      "id": "32047",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/2VsZWl0EwI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T17:21:49.083Z"
+    },
     {
       "id": "32043",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 79,
       "cupom": null,
       "enviadoEm": "2026-10-13T22:44:23.574Z"
-    },
-    {
-      "id": "30355",
-      "loja": "Amazon",
-      "titulo": "CIF Cremoso Limpeza Milagrosa Laranja 450 ml",
-      "link": "https://www.amazon.com.br/dp/B07P5FHQGQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-dQQmxBqL._SL400_.jpg",
-      "preco": 9.9,
-      "precoDe": 22.4,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:40:08.454Z"
-    },
-    {
-      "id": "30353",
-      "loja": "Amazon",
-      "titulo": "Hidromel Favos - 750 ml (Tradicional)",
-      "link": "https://www.amazon.com.br/dp/B0DM4DN3NY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yXejWg+cL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 89.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:36:46.706Z"
     }
   ]
 }
