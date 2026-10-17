@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-17T20:31:39.419Z",
+  "atualizadoEm": "2026-10-17T21:01:39.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32093",
+      "loja": "Shopee",
+      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
+      "link": "https://s.shopee.com.br/113lyXTJ4H",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
+      "preco": 54.45,
+      "precoDe": 78.91,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:55:22.203Z"
+    },
+    {
+      "id": "32091",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo Aroma Lavanda e Citronela 10, 15, 30, 50 e 100 Litros - Qualysack",
+      "link": "https://s.shopee.com.br/4qGUXGIK8W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1z7v5992x3ed_tn",
+      "preco": 12.22,
+      "precoDe": 16.97,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:51:55.004Z"
+    },
+    {
+      "id": "32090",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Curto Baixo Original",
+      "link": "https://meli.la/1b8rNNo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711792-MLB54129158447_032023-O.webp",
+      "preco": 69.9,
+      "precoDe": 199.99,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:48:46.867Z"
+    },
+    {
+      "id": "32089",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Copos De Vidro 330ml 6 Peças Haus - Pavillion",
+      "link": "https://meli.la/2JiwcGk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683054-MLA95658117268_102025-F.jpg",
+      "preco": 27.98,
+      "precoDe": 29.45,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:45:26.770Z"
+    },
     {
       "id": "32085",
       "loja": "Shopee",
@@ -5127,18 +5175,6 @@
       "enviadoEm": "2026-10-14T19:23:36.857Z"
     },
     {
-      "id": "30789",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Curto Baixo Original",
-      "link": "https://meli.la/1b8rNNo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711792-MLB54129158447_032023-O.webp",
-      "preco": 69.9,
-      "precoDe": 199.99,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T19:20:03.663Z"
-    },
-    {
       "id": "30785",
       "loja": "Mercado Livre",
       "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
@@ -5965,42 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-14T13:10:38.766Z"
-    },
-    {
-      "id": "30488",
-      "loja": "Mercado Livre",
-      "titulo": "Bola De Futebol Universadi adidas",
-      "link": "https://meli.la/1hqDBNs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744808-MLA99630212194_122025-F.jpg",
-      "preco": 68.01,
-      "precoDe": 129.99,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T13:00:45.916Z"
-    },
-    {
-      "id": "30484",
-      "loja": "Shopee",
-      "titulo": "Monitor TCL 25\" Gamer FHD QD MINI LED 300HZ HDR10 F-SYNC AJ ALTURA D-PORT 25G64",
-      "link": "https://s.shopee.com.br/4LK8cZU0Jk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mszmyhmlphxjdd_tn",
-      "preco": 1369,
-      "precoDe": 1984.06,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:55:12.555Z"
-    },
-    {
-      "id": "30480",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/3Vl1cbHTkm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.02,
-      "precoDe": 35.19,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:48:06.023Z"
     }
   ]
 }
