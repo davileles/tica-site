@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T19:48:19.566Z",
+  "atualizadoEm": "2026-10-17T20:01:39.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32079",
+      "loja": "Shopee",
+      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
+      "link": "https://s.shopee.com.br/AKbR24VroR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
+      "preco": 22.49,
+      "precoDe": 77.55,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T20:01:07.593Z"
+    },
     {
       "id": "32078",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 63,
       "cupom": "CUPOMAQUI",
       "enviadoEm": "2026-10-14T12:21:37.205Z"
-    },
-    {
-      "id": "30443",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/8AWr98KHiW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 32.2,
-      "precoDe": 33.89,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:18:04.677Z"
     }
   ]
 }
