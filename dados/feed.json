@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-17T16:46:53.464Z",
+  "atualizadoEm": "2026-10-17T17:01:39.415Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32040",
+      "loja": "Shopee",
+      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
+      "link": "https://s.shopee.com.br/9V2Jq4lyLA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
+      "preco": 22.39,
+      "precoDe": 89.56,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T16:59:25.864Z"
+    },
+    {
+      "id": "32038",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeína Dux Nutrition em cápsula Sem sabor x 100g de 90 un",
+      "link": "https://meli.la/25M5e2A",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917888-MLA111944157873_052026-F.jpg",
+      "preco": 47.4,
+      "precoDe": 62.61,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T16:55:45.593Z"
+    },
     {
       "id": "32033",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-13T22:35:45.483Z"
-    },
-    {
-      "id": "30351",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XXG - 144 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0FPSX9VDZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/517o5HvjvcL._SL400_.jpg",
-      "preco": 219,
-      "precoDe": 289,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:25:11.958Z"
-    },
-    {
-      "id": "30350",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51uPYpfloJL._SL400_.jpg",
-      "preco": 219,
-      "precoDe": 289,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:24:13.846Z"
     }
   ]
 }
