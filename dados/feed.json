@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-17T14:01:39.414Z",
+  "atualizadoEm": "2026-10-17T14:31:39.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31995",
+      "loja": "Shopee",
+      "titulo": "Máquina Para Fazer Redonda/Coração/Donuts Waffles Em Forma Rosquinhas Pequena Portátil 350w Mini Elétrico110V e 220V",
+      "link": "https://s.shopee.com.br/40hN7J1H5k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc25dypyo813f0_tn",
+      "preco": 49,
+      "precoDe": 79.03,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T14:21:48.478Z"
+    },
+    {
+      "id": "31993",
+      "loja": "Amazon",
+      "titulo": "Sabonete em Barra Johnson's Baby Original, 80g",
+      "link": "https://www.amazon.com.br/dp/B0055ULSAQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416DE59AHgL._SL400_.jpg",
+      "preco": 5.99,
+      "precoDe": 7,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T14:19:15.942Z"
+    },
+    {
+      "id": "31992",
+      "loja": "Shopee",
+      "titulo": "Colchonete p/ Academia Premium 90x40x3 cm Espuma Macia D23 Impermeável Compacto Fit Mat Yoga Pilates",
+      "link": "https://s.shopee.com.br/113lXBo2mZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzjhnmdxayw586_tn",
+      "preco": 28.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T14:15:21.443Z"
+    },
+    {
+      "id": "31991",
+      "loja": "Amazon",
+      "titulo": "Mor - Piscina Inflável 1.000 Litros",
+      "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310icJZFMML._SL400_.jpg",
+      "preco": 121.27,
+      "precoDe": 134.09,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T14:06:07.821Z"
+    },
+    {
+      "id": "31988",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 157.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T14:02:57.032Z"
+    },
     {
       "id": "31987",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-10-13T20:24:07.666Z"
-    },
-    {
-      "id": "30307",
-      "loja": "Amazon",
-      "titulo": "Cerveja Sem Álcool Budweiser, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNN2482?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NnWG7JmDL._SL400_.jpg",
-      "preco": 26.8,
-      "precoDe": 36.72,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:21:48.465Z"
-    },
-    {
-      "id": "30306",
-      "loja": "Shopee",
-      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
-      "link": "https://s.shopee.com.br/4VdXj66GEE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
-      "preco": 22.88,
-      "precoDe": 30.11,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:20:43.129Z"
-    },
-    {
-      "id": "30305",
-      "loja": "Amazon",
-      "titulo": "Mor - Caixa Térmica 34 Litros Azul",
-      "link": "https://www.amazon.com.br/dp/B076BCQ58V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WcRYEEFQL._SL400_.jpg",
-      "preco": 81.67,
-      "precoDe": 169.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:17:31.268Z"
-    },
-    {
-      "id": "30304",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino E Feminino Smash V2 Bdp Puma",
-      "link": "https://meli.la/28cwecw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632557-MLB77604336737_072024-O.webp",
-      "preco": 130.13,
-      "precoDe": 449.99,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:16:39.187Z"
-    },
-    {
-      "id": "30303",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/30ojvsNgdM",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 279.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:13:09.955Z"
     }
   ]
 }
