@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-17T12:31:39.414Z",
+  "atualizadoEm": "2026-10-17T13:01:39.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31970",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
+      "link": "https://meli.la/165nzCA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792466-MLA110434988991_042026-F.jpg",
+      "preco": 64.72,
+      "precoDe": 89.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:54:18.702Z"
+    },
+    {
+      "id": "31969",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Rápida Absorção XG - 66 Un",
+      "link": "https://meli.la/1xnSz8Y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717951-MLA113915298353_062026-F.jpg",
+      "preco": 64,
+      "precoDe": 87,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:53:17.555Z"
+    },
+    {
+      "id": "31968",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Lenovo Ideapad Slim 3 83mms00100 512gb 8gb + Ebook",
+      "link": "https://meli.la/1WAAGST",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_611758-MLB100386637021_122025-O.webp",
+      "preco": 3392,
+      "precoDe": 4658,
+      "desconto": 23,
+      "cupom": "OFFNOMELIHOJE",
+      "enviadoEm": "2026-10-17T12:52:21.882Z"
+    },
+    {
+      "id": "31964",
+      "loja": "Amazon",
+      "titulo": "Bebedouro Gelágua Esmaltec EGC35B Coluna Natural e Gelada Preto/Inox 127V",
+      "link": "https://www.amazon.com.br/dp/B0779M28GQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TUDq1-BqL._SL400_.jpg",
+      "preco": 759,
+      "precoDe": 939,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:48:51.876Z"
+    },
+    {
+      "id": "31963",
+      "loja": "Amazon",
+      "titulo": "Water Cooler Kalkan Alpha 360 ARGB Display Temperatura Branco Intel AMD KLK00049",
+      "link": "https://www.amazon.com.br/dp/B0DYQGQ24J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315jylO1P5L._SL400_.jpg",
+      "preco": 338.31,
+      "precoDe": 466.72,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:45:41.876Z"
+    },
+    {
+      "id": "31959",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/3qNwnhUq3W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mty7oa0hgfls15_tn",
+      "preco": 79.89,
+      "precoDe": 181.57,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:42:31.143Z"
+    },
+    {
+      "id": "31957",
+      "loja": "Mercado Livre",
+      "titulo": "Memória Ram Samsung 16gb, Ddr5, 5600mhz M321r2ga3pb0-cwm",
+      "link": "https://meli.la/2UtzDgj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761354-MLA115547319216_082026-F.jpg",
+      "preco": 1430.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFNOMELIHOJE",
+      "enviadoEm": "2026-10-17T12:39:02.495Z"
+    },
+    {
+      "id": "31954",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Nível A Laser Verde 12 Linhas Esquadro + Suporte + Tripé Recarregavel Profissional Prumo Autonivelante Nano Bateria",
+      "link": "https://meli.la/14QMdgw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_609947-MLA100070739765_122025-F.jpg",
+      "preco": 218.42,
+      "precoDe": 329.97,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T12:35:48.050Z"
+    },
+    {
+      "id": "31951",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG FHD Gamer & Office tela IPS 27”, 1ms (MBR), 144Hz Nativo, FreeSync, HDR10, sRGB, Modo leitura, Flicker Safe, HDMI, Black Stabilizer, Dynamic Action Sync, Preto - 27U411B",
+      "link": "https://meli.la/2LSaWCd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608077-MLA119592722277_102026-F.jpg",
+      "preco": 634.5,
+      "precoDe": 799,
+      "desconto": 12,
+      "cupom": "OFFNOMELIHOJE",
+      "enviadoEm": "2026-10-17T12:32:19.014Z"
+    },
     {
       "id": "31946",
       "loja": "Amazon",
@@ -1743,18 +1851,6 @@
       "enviadoEm": "2026-10-16T12:49:37.829Z"
     },
     {
-      "id": "31538",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
-      "link": "https://meli.la/165nzCA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792466-MLA110434988991_042026-F.jpg",
-      "preco": 64.72,
-      "precoDe": 89.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:46:11.327Z"
-    },
-    {
       "id": "31537",
       "loja": "Mercado Livre",
       "titulo": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
@@ -1777,18 +1873,6 @@
       "desconto": 5,
       "cupom": "OFFHOJE",
       "enviadoEm": "2026-10-16T12:41:38.817Z"
-    },
-    {
-      "id": "31520",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Rápida Absorção XG - 66 Un",
-      "link": "https://meli.la/1xnSz8Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717951-MLA113915298353_062026-F.jpg",
-      "preco": 64,
-      "precoDe": 87,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:38:02.705Z"
     },
     {
       "id": "31514",
@@ -5295,18 +5379,6 @@
       "enviadoEm": "2026-10-14T12:48:06.023Z"
     },
     {
-      "id": "30479",
-      "loja": "Amazon",
-      "titulo": "Water Cooler Gamer Kalkan Alpha 360 ARGB com display Branco KLK00049",
-      "link": "https://www.amazon.com.br/dp/B0DYQGQ24J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315jylO1P5L._SL400_.jpg",
-      "preco": 338.31,
-      "precoDe": 466.72,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:44:30.818Z"
-    },
-    {
       "id": "30474",
       "loja": "Shopee",
       "titulo": "Playstation 5 Pro 2TB - Leitor Digital",
@@ -5929,78 +6001,6 @@
       "desconto": null,
       "cupom": "PROVAR",
       "enviadoEm": "2026-10-13T19:19:06.125Z"
-    },
-    {
-      "id": "30259",
-      "loja": "Mercado Livre",
-      "titulo": "Tenis Infantil Escolar Pink Calce Fácil Estilo Confortável",
-      "link": "https://meli.la/1uBWe4F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704667-MLB115010612345_072026-O.webp",
-      "preco": 67.03,
-      "precoDe": 99.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:15:25.763Z"
-    },
-    {
-      "id": "30257",
-      "loja": "Amazon",
-      "titulo": "Lillo Bomba Manual Coletora De Leite Mamy -",
-      "link": "https://www.amazon.com.br/dp/B08RJV9NQQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4189-c4E79L._SL400_.jpg",
-      "preco": 41.89,
-      "precoDe": 69.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:13:20.209Z"
-    },
-    {
-      "id": "30254",
-      "loja": "Shopee",
-      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga À Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
-      "link": "https://s.shopee.com.br/gQp5Pirl8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
-      "preco": 29.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:12:31.010Z"
-    },
-    {
-      "id": "30253",
-      "loja": "Shopee",
-      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
-      "link": "https://s.shopee.com.br/1gJMGmvJLv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
-      "preco": 349.99,
-      "precoDe": 699.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:05:36.808Z"
-    },
-    {
-      "id": "30244",
-      "loja": "Amazon",
-      "titulo": "Dailus Batom Matte - Descontraida",
-      "link": "https://www.amazon.com.br/dp/B08B2H43ZS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qNPB6a+vL._SL400_.jpg",
-      "preco": 9.4,
-      "precoDe": 27.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T18:58:55.786Z"
-    },
-    {
-      "id": "30243",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 33.230000000000004,
-      "precoDe": 41.52,
-      "desconto": 6,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-10-13T18:55:21.542Z"
     }
   ]
 }
