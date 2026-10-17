@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T15:01:39.414Z",
+  "atualizadoEm": "2026-10-17T15:14:16.767Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32006",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Cargo Premium Masculina Sarja Skate Larga Streetwear",
+      "link": "https://meli.la/1QCrQLu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707572-MLB105826225755_012026-O.webp",
+      "preco": 41.19,
+      "precoDe": 83,
+      "desconto": 29,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-17T15:04:16.764Z"
+    },
     {
       "id": "32004",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 62,
       "cupom": null,
       "enviadoEm": "2026-10-13T20:51:55.814Z"
-    },
-    {
-      "id": "30322",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Meias New Balance Cano Longo 39 Ao 42 Unissex Conforto",
-      "link": "https://meli.la/34bdABH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_925008-MLB105495292600_012026-O.webp",
-      "preco": 48.93,
-      "precoDe": 69.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T20:48:11.692Z"
     }
   ]
 }
