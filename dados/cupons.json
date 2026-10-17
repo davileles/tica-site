@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-16T23:01:39.664Z",
+  "atualizadoEm": "2026-10-17T03:01:39.694Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1407,18 +1407,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ECONOMIAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1488,18 +1476,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-17T15:03:57.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1573,54 +1549,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "WOBR43",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 1695,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
-      "validadeAte": "2026-10-17T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "WOBR24",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 125,
-      "minimo": 1025,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
-      "validadeAte": "2026-10-17T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "WOBR13",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 65,
-      "minimo": 545,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
-      "validadeAte": "2026-10-17T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "WOBR07",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 35,
-      "minimo": 280,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Múltiplos cupons com desconto em reais conforme o valor mínimo de compra",
-      "validadeAte": "2026-10-17T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "LIQUIDA50",
