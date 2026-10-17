@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T15:44:26.174Z",
+  "atualizadoEm": "2026-10-17T15:56:59.486Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32021",
+      "loja": "Shopee",
+      "titulo": "GL&DD Depilador Eletrico Feminino Recarregável Removedor De Pelos Navalha Dupla- Envio rápido",
+      "link": "https://s.shopee.com.br/3LRgPlOLNh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt96n3tald6rd5_tn",
+      "preco": 29.99,
+      "precoDe": 99.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T15:46:59.474Z"
+    },
     {
       "id": "32018",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-13T21:22:14.391Z"
-    },
-    {
-      "id": "30335",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto By Total 20v Brushless 66 Azul",
-      "link": "https://meli.la/19wv3EQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747869-MLA111138424404_052026-F.jpg",
-      "preco": 370,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T21:19:22.727Z"
     }
   ]
 }
