@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T12:01:39.727Z",
+  "atualizadoEm": "2026-10-17T12:31:41.072Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -625,6 +625,18 @@
       "observacao": "Cupons para aplicação via WhatsApp da Magalu. Valor mínimo de compra é o próprio valor do desconto (R$90 para R$30 OFF, R$50 para R$20 OFF)",
       "validadeAte": "2026-10-17T20:05:50.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-19T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE50",
@@ -1440,6 +1452,18 @@
       "limite": 20,
       "observacao": "Válido em produtos selecionados de decoração de Natal",
       "validadeAte": "2026-10-17T18:00:44.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFNOMELIHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-18T12:06:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
