@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T19:31:39.418Z",
+  "atualizadoEm": "2026-10-17T19:48:19.566Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32078",
+      "loja": "Shopee",
+      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "link": "https://s.shopee.com.br/3LRgfe4lQ7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
+      "preco": 31.99,
+      "precoDe": 58.16,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T19:38:19.562Z"
+    },
     {
       "id": "32076",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-10-14T12:18:04.677Z"
-    },
-    {
-      "id": "30442",
-      "loja": "Shopee",
-      "titulo": "CONSOLE PLAYSTATION 5 SLIM DISK 1TB",
-      "link": "https://s.shopee.com.br/1B9PnonAk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmltidfjhtxed_tn",
-      "preco": 4509.9,
-      "precoDe": 5368.93,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T12:14:38.492Z"
     }
   ]
 }
