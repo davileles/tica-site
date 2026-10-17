@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-17T16:25:43.576Z",
+  "atualizadoEm": "2026-10-17T16:46:53.464Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32033",
+      "loja": "Shopee",
+      "titulo": "Electro Nest Fone De Ouvido Com Fio 3.5mm Intra-Auricular Estéreo Baixo Microfone Fone EJ-30",
+      "link": "https://s.shopee.com.br/3g4WregKsq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8u9p6k2oc1u3c_tn",
+      "preco": 11.99,
+      "precoDe": 25.51,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T16:36:53.461Z"
+    },
+    {
+      "id": "32031",
+      "loja": "Shopee",
+      "titulo": "Mala Pequena Starvibe - American Tourister",
+      "link": "https://s.shopee.com.br/2gBzfi4Quf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mmj4c67ur3ev4d_tn",
+      "preco": 384.47,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T16:33:23.372Z"
+    },
     {
       "id": "32027",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-13T22:24:13.846Z"
-    },
-    {
-      "id": "30349",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
-      "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ziNqPIFlL._SL400_.jpg",
-      "preco": 219,
-      "precoDe": 289,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:23:15.533Z"
-    },
-    {
-      "id": "30348",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
-      "link": "https://s.shopee.com.br/AKbKoCGOEA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
-      "preco": 19.9,
-      "precoDe": 49.75,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T22:22:02.676Z"
     }
   ]
 }
