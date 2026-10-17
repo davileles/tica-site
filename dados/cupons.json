@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T11:01:39.709Z",
+  "atualizadoEm": "2026-10-17T12:01:39.727Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,27 +627,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "100TODOSITE1610",
+      "codigo": "SITE50",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
+      "valor": 50,
+      "minimo": 499,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-17T12:00:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "161040TODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-17T12:00:40.000Z",
+      "validadeAte": "2026-10-18T12:00:27.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1311,42 +1299,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BATEUDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-17T12:01:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VEMDECUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-17T12:01:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPECIALDESCONTOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
-      "validadeAte": "2026-10-17T12:01:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORCUPOMML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1404,18 +1356,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE1610",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 219,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-17T12:00:40.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
