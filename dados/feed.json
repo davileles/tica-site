@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-17T19:01:39.416Z",
+  "atualizadoEm": "2026-10-17T19:25:44.771Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32075",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/4B0ndcA2mg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T19:15:44.767Z"
+    },
+    {
+      "id": "32074",
+      "loja": "Amazon",
+      "titulo": "Smirnoff Vodka Nº 21 998ml",
+      "link": "https://www.amazon.com.br/dp/B07R1GV92N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kAcpmzjOL._SL400_.jpg",
+      "preco": 29.06,
+      "precoDe": 43.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T19:06:48.233Z"
+    },
     {
       "id": "32070",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-10-14T12:07:39.115Z"
-    },
-    {
-      "id": "30422",
-      "loja": "Shopee",
-      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
-      "link": "https://s.shopee.com.br/qkGO5uejS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
-      "preco": 38.99,
-      "precoDe": 114.68,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T11:48:24.665Z"
-    },
-    {
-      "id": "30409",
-      "loja": "Amazon",
-      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
-      "preco": 109.99,
-      "precoDe": 136.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T11:27:09.881Z"
     }
   ]
 }
