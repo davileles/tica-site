@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T15:31:39.414Z",
+  "atualizadoEm": "2026-10-17T15:44:26.174Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32018",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido Johnson's Baby, Frutas Vermelhas, Edição Limitada, 400ml",
+      "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J8B7O2O1L._SL400_.jpg",
+      "preco": 44.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T15:34:26.171Z"
+    },
     {
       "id": "32016",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-13T21:19:22.727Z"
-    },
-    {
-      "id": "30330",
-      "loja": "Shopee",
-      "titulo": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
-      "link": "https://s.shopee.com.br/5VW4yCMBhL",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f_tn",
-      "preco": 42.99,
-      "precoDe": 116.19,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T21:11:15.921Z"
     }
   ]
 }
