@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-17T13:01:39.414Z",
+  "atualizadoEm": "2026-10-17T13:25:24.033Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "31978",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
+      "link": "https://meli.la/2kecLmX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
+      "preco": 30.51,
+      "precoDe": 39.24,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T13:15:24.027Z"
+    },
+    {
+      "id": "31977",
+      "loja": "Mercado Livre",
+      "titulo": "Tira Manchas para Roupas Calisul 1kg Percarbonato de Sódio",
+      "link": "https://meli.la/2Msgc9a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846999-MLA117391162992_102026-F.jpg",
+      "preco": 19.8,
+      "precoDe": 50,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T13:14:17.769Z"
+    },
+    {
+      "id": "31974",
+      "loja": "Shopee",
+      "titulo": "5 Em 1 Fonte De Energia Carregador Turbo USB-A+USB-C Carregamento rápido 176W",
+      "link": "https://s.shopee.com.br/70KybOKOJT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mtkb6ksvqgapa4_tn",
+      "preco": 39.9,
+      "precoDe": 90.68,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T13:07:40.251Z"
+    },
+    {
+      "id": "31973",
+      "loja": "Amazon",
+      "titulo": "Buba Lixeira Antiodor para Fraldas",
+      "link": "https://www.amazon.com.br/dp/B0C5GP554J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wKX48kOjL._SL400_.jpg",
+      "preco": 171.5,
+      "precoDe": 304.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T13:04:20.413Z"
+    },
+    {
+      "id": "31971",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Facial Minesol Oil Control, Sem Cor, FPS 70, 40g | Antioxidante, Controle da Oleosidade, Resistente à Água",
+      "link": "https://www.amazon.com.br/dp/B07Y2BK4GJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21SRAh3uaNL._SL400_.jpg",
+      "preco": 61.11,
+      "precoDe": 123.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T13:03:12.357Z"
+    },
     {
       "id": "31970",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-10-13T19:36:27.734Z"
-    },
-    {
-      "id": "30272",
-      "loja": "Shopee",
-      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "link": "https://s.shopee.com.br/30ojtFNX8K",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
-      "preco": 24.99,
-      "precoDe": 32.04,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:34:56.517Z"
-    },
-    {
-      "id": "30269",
-      "loja": "Shopee",
-      "titulo": "Tupia Laminadora Manual 6,35mm 600w com 110V e 200V",
-      "link": "https://s.shopee.com.br/8fT6dP4AC7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdamkglhch6p09_tn",
-      "preco": 109.99,
-      "precoDe": 297.27,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:29:04.389Z"
-    },
-    {
-      "id": "30264",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/AUukoZBInq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:28:10.721Z"
-    },
-    {
-      "id": "30263",
-      "loja": "Amazon",
-      "titulo": "Bebida Mista Beats, Gin & Tônica, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B092JN64W9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31RvUhnUOjL._SL400_.jpg",
-      "preco": 52.36,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-13T19:23:18.048Z"
-    },
-    {
-      "id": "30260",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 53.42,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROVAR",
-      "enviadoEm": "2026-10-13T19:19:06.125Z"
     }
   ]
 }
