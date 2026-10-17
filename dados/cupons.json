@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T22:31:40.982Z",
+  "atualizadoEm": "2026-10-17T22:40:38.172Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -718,7 +718,7 @@
       "minimo": 0,
       "maximo": null,
       "limite": 500,
-      "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1392,18 +1392,6 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-10-18T18:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-18T22:21:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
