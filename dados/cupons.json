@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T03:01:39.694Z",
+  "atualizadoEm": "2026-10-17T03:31:39.703Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1428,6 +1428,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-17T12:00:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEFULL1710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-10-18T03:01:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
