@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T15:01:40.903Z",
+  "atualizadoEm": "2026-10-17T15:14:18.347Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1395,27 +1395,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OUTLET1610",
+      "codigo": "BEBES1710",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-17T15:03:57.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEMESTAR1610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 119,
+      "minimo": 89,
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-10-17T15:03:57.000Z",
+      "validadeAte": "2026-10-18T15:01:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1440,6 +1428,18 @@
       "limite": 200,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NATAL1710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-18T15:01:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
