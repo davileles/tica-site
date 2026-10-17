@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T21:25:54.154Z",
+  "atualizadoEm": "2026-10-17T21:48:27.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32102",
+      "loja": "Shopee",
+      "titulo": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
+      "link": "https://s.shopee.com.br/7fafxrshU7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397_tn",
+      "preco": 49.9,
+      "precoDe": 151.21,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-17T21:38:27.277Z"
+    },
     {
       "id": "32098",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-14T13:55:44.920Z"
-    },
-    {
-      "id": "30502",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/4qGPGeo3Fq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
-      "preco": 28.98,
-      "precoDe": 60.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T13:33:08.371Z"
     }
   ]
 }
