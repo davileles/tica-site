@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T22:40:38.172Z",
+  "atualizadoEm": "2026-10-17T23:31:39.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1392,6 +1392,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-10-18T18:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMUSIC10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-18T23:11:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
