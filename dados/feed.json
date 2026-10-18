@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-18T12:31:39.423Z",
+  "atualizadoEm": "2026-10-18T13:01:39.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32173",
+      "loja": "Amazon",
+      "titulo": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
+      "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sul5mPB6L._SL400_.jpg",
+      "preco": 1969.9,
+      "precoDe": 2990,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:58:41.703Z"
+    },
+    {
+      "id": "32172",
+      "loja": "Shopee",
+      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
+      "link": "https://s.shopee.com.br/4B0ooWADpu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
+      "preco": 37.99,
+      "precoDe": 67.84,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:56:58.669Z"
+    },
+    {
+      "id": "32171",
+      "loja": "Mercado Livre",
+      "titulo": "Placa De Video Rx 7600 Biostar 8gb Gddr6 Ultimate Gaming Oc",
+      "link": "https://meli.la/1YrQi79",
+      "imagem": "https://http2.mlstatic.com/D_746610-MLB118786984935_102026-F.jpg",
+      "preco": 1893,
+      "precoDe": 2721,
+      "desconto": 23,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T12:48:22.494Z"
+    },
+    {
+      "id": "32169",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Positivo Vision R15M AMD Ryzen 5-5625U Linux 8GB RAM 256GB SSD Wi-Fi 6 Tela 15” Full HD IPS Antirreflexo - Minitela 1,54\" - Lumina Bar com 3 Níveis Permite upgrade de memó",
+      "link": "https://meli.la/2s35GST",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_733885-MLA101679394133_122025-F.jpg",
+      "preco": 2554,
+      "precoDe": 3855,
+      "desconto": 29,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T12:43:51.311Z"
+    },
+    {
+      "id": "32163",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG FHD Gamer & Office tela IPS 27”, 1ms (MBR), 144Hz Nativo, FreeSync, HDR10, sRGB, Modo leitura, Flicker Safe, HDMI, Black Stabilizer, Dynamic Action Sync, Preto - 27U411B",
+      "link": "https://meli.la/2LSaWCd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608077-MLA119592722277_102026-F.jpg",
+      "preco": 634.5,
+      "precoDe": 799,
+      "desconto": 12,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T12:37:21.707Z"
+    },
+    {
+      "id": "32160",
+      "loja": "Shopee",
+      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
+      "link": "https://s.shopee.com.br/113n18Uapz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
+      "preco": 25,
+      "precoDe": 50,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:34:22.750Z"
+    },
     {
       "id": "32150",
       "loja": "Mercado Livre",
@@ -999,18 +1071,6 @@
       "enviadoEm": "2026-10-17T12:35:48.050Z"
     },
     {
-      "id": "31951",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG FHD Gamer & Office tela IPS 27”, 1ms (MBR), 144Hz Nativo, FreeSync, HDR10, sRGB, Modo leitura, Flicker Safe, HDMI, Black Stabilizer, Dynamic Action Sync, Preto - 27U411B",
-      "link": "https://meli.la/2LSaWCd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608077-MLA119592722277_102026-F.jpg",
-      "preco": 634.5,
-      "precoDe": 799,
-      "desconto": 12,
-      "cupom": "OFFNOMELIHOJE",
-      "enviadoEm": "2026-10-17T12:32:19.014Z"
-    },
-    {
       "id": "31946",
       "loja": "Amazon",
       "titulo": "Granado Eau de Toilette, Suzette, 100ml",
@@ -1045,18 +1105,6 @@
       "desconto": 20,
       "cupom": "OFFNOMELIHOJE",
       "enviadoEm": "2026-10-17T12:22:04.663Z"
-    },
-    {
-      "id": "31937",
-      "loja": "Mercado Livre",
-      "titulo": "Placa De Video Rx 7600 Biostar 8gb Gddr6 Ultimate Gaming Oc",
-      "link": "https://meli.la/1YrQi79",
-      "imagem": "https://http2.mlstatic.com/D_746610-MLB118786984935_102026-F.jpg",
-      "preco": 1893,
-      "precoDe": 2721,
-      "desconto": 23,
-      "cupom": "OFFNOMELIHOJE",
-      "enviadoEm": "2026-10-17T12:18:33.748Z"
     },
     {
       "id": "31935",
@@ -5953,54 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-14T15:49:42.191Z"
-    },
-    {
-      "id": "30590",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 3 Camisetas Polo Wear com um precinho camarada.",
-      "link": "https://meli.la/2LMXDRH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_950390-MLB113675252045_062026-O.webp",
-      "preco": 81.88999999999999,
-      "precoDe": 179.99,
-      "desconto": 35,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-14T15:46:02.034Z"
-    },
-    {
-      "id": "30585",
-      "loja": "Mercado Livre",
-      "titulo": "Gel de Limpeza Facial CeraVe para Acne - versão 454g",
-      "link": "https://meli.la/1sz2fan",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836082-MLB48686825857_122021-O.webp",
-      "preco": 62.41,
-      "precoDe": 126.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T15:42:26.972Z"
-    },
-    {
-      "id": "30582",
-      "loja": "Shopee",
-      "titulo": "Borboleta Luminária Led Bivolt A Prova D'água Branco Quente",
-      "link": "https://s.shopee.com.br/9zyVYhIgBM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mtfah8qqczcy23_tn",
-      "preco": 297.99,
-      "precoDe": 764.08,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T15:38:23.947Z"
-    },
-    {
-      "id": "30575",
-      "loja": "Shopee",
-      "titulo": "Estante Livro Infantil Montessori",
-      "link": "https://s.shopee.com.br/9fLf9cIKA5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0u0c1gvoxs52_tn",
-      "preco": 176.31,
-      "precoDe": 279.86,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T15:34:53.018Z"
     }
   ]
 }
