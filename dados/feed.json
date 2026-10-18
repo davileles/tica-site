@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-18T21:31:39.425Z",
+  "atualizadoEm": "2026-10-18T21:53:24.555Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32642",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
+      "link": "https://meli.la/15Zhi6o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
+      "preco": 359.99,
+      "precoDe": 429.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T21:43:24.552Z"
+    },
+    {
+      "id": "32638",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/9APVLYqgZ5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 69.9,
+      "precoDe": 109.22,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T21:42:19.865Z"
+    },
+    {
+      "id": "32637",
+      "loja": "Amazon",
+      "titulo": "Vinho Francês Merlot Tinto Garrafa 750ml - J.P Chenet",
+      "link": "https://www.amazon.com.br/dp/B003CG2NI6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TmlCK2+-L._SL400_.jpg",
+      "preco": 89.89,
+      "precoDe": 109.9,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T21:38:59.713Z"
+    },
+    {
+      "id": "32636",
+      "loja": "Amazon",
+      "titulo": "V IMP BENJAMIN NIETO CHARDONNAY 750ML",
+      "link": "https://www.amazon.com.br/dp/B07XTQ98BG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21Zn9Ly+v7L._SL400_.jpg",
+      "preco": 29,
+      "precoDe": 44.4,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T21:37:43.286Z"
+    },
     {
       "id": "32633",
       "loja": "Mercado Livre",
@@ -5953,54 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-14T22:44:37.353Z"
-    },
-    {
-      "id": "30852",
-      "loja": "Shopee",
-      "titulo": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
-      "link": "https://s.shopee.com.br/8pmYdav618",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c_tn",
-      "preco": 10.99,
-      "precoDe": 19.98,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T22:40:36.350Z"
-    },
-    {
-      "id": "30850",
-      "loja": "Shopee",
-      "titulo": "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
-      "link": "https://s.shopee.com.br/50Zq3SF9yq",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw9-lzabd7yd64ru41_tn",
-      "preco": 55.88,
-      "precoDe": 151.03,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T22:24:26.979Z"
-    },
-    {
-      "id": "30847",
-      "loja": "Amazon",
-      "titulo": "KIT GABRIELA SABATINI EDT 30ML GANHE NECESSAIRE",
-      "link": "https://www.amazon.com.br/dp/B0DJMZS949?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41XZmnY4x+L._SL400_.jpg",
-      "preco": 70.88,
-      "precoDe": 149.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T22:11:43.341Z"
-    },
-    {
-      "id": "30843",
-      "loja": "Shopee",
-      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "link": "https://s.shopee.com.br/1qcoG5dfCY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
-      "preco": 16.99,
-      "precoDe": 22.36,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T22:01:59.714Z"
     }
   ]
 }
