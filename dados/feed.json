@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-18T12:01:39.423Z",
+  "atualizadoEm": "2026-10-18T12:31:39.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32150",
+      "loja": "Mercado Livre",
+      "titulo": "Óculos De Sol Saint Germain Dourado Harbor Aviador Uv400 Lente Preto Desenho Espelho",
+      "link": "https://meli.la/22Wn7SG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922132-MLA99949515241_112025-F.jpg",
+      "preco": 54.9,
+      "precoDe": 183.42,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:28:31.105Z"
+    },
+    {
+      "id": "32149",
+      "loja": "Mercado Livre",
+      "titulo": "Ssd 1Tb Sata 3 Darkplayer Pro Gamer Alta Performance",
+      "link": "https://meli.la/1uE2h8Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725935-MLB110392420873_042026-O.webp",
+      "preco": 578.61,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T12:25:23.748Z"
+    },
+    {
+      "id": "32148",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
+      "link": "https://meli.la/2hVnG8v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
+      "preco": 35.9,
+      "precoDe": 59.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:22:11.740Z"
+    },
+    {
+      "id": "32145",
+      "loja": "Shopee",
+      "titulo": "Jogo 10/15 Brocas Diamantadas Serra Copo furar Vidro Granito Ceramica 6 a 50 mm kit ferramentas",
+      "link": "https://s.shopee.com.br/1BNDC3GN1M",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82q4qcabtw1a5_tn",
+      "preco": 25.59,
+      "precoDe": 121.86,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:16:56.900Z"
+    },
+    {
+      "id": "32144",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosso 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
+      "preco": 30.78,
+      "precoDe": 47.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:16:03.456Z"
+    },
+    {
+      "id": "32142",
+      "loja": "Amazon",
+      "titulo": "Fechadura Digital de Sobrepor FR 201 V intelbras",
+      "link": "https://www.amazon.com.br/dp/B0GJDKF42F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21I5Ri8mSPL._SL400_.jpg",
+      "preco": 299.9,
+      "precoDe": 499.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:14:50.557Z"
+    },
+    {
+      "id": "32141",
+      "loja": "Shopee",
+      "titulo": "Blocos de montar infantil Brinquedo educativo Mini brinquedos Brinquedo",
+      "link": "https://s.shopee.com.br/30orNABSCz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1s-m4rmynogvubl03_tn",
+      "preco": 13.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T12:11:40.675Z"
+    },
     {
       "id": "32135",
       "loja": "Amazon",
@@ -4923,18 +5007,6 @@
       "enviadoEm": "2026-10-15T12:14:44.168Z"
     },
     {
-      "id": "30956",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1Tb Sata 3 Darkplayer Pro Gamer Alta Performance",
-      "link": "https://meli.la/1uE2h8Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725935-MLB110392420873_042026-O.webp",
-      "preco": 578.61,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T12:11:18.871Z"
-    },
-    {
       "id": "30926",
       "loja": "Shopee",
       "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
@@ -5401,18 +5473,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-14T18:08:09.243Z"
-    },
-    {
-      "id": "30726",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
-      "link": "https://meli.la/2hVnG8v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.webp",
-      "preco": 25.13,
-      "precoDe": 59.9,
-      "desconto": 40,
-      "cupom": "MELISALVA",
-      "enviadoEm": "2026-10-14T18:00:57.341Z"
     },
     {
       "id": "30720",
@@ -5941,66 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-14T15:34:53.018Z"
-    },
-    {
-      "id": "30572",
-      "loja": "Shopee",
-      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
-      "link": "https://s.shopee.com.br/9APOYce3Iy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
-      "preco": 20.7,
-      "precoDe": 20.91,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T15:31:16.238Z"
-    },
-    {
-      "id": "30571",
-      "loja": "Mercado Livre",
-      "titulo": "Purificador Água Gelada E Natural IBBL E-due Painel Touch Bivolt Com Ação Bacteriostática Eleva Ph Reduz Acidez Alcalino",
-      "link": "https://meli.la/1WhRLzm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699568-MLA115710578744_092026-F.jpg",
-      "preco": 654,
-      "precoDe": 799,
-      "desconto": 15,
-      "cupom": "FULL1410",
-      "enviadoEm": "2026-10-14T15:28:07.666Z"
-    },
-    {
-      "id": "30569",
-      "loja": "Mercado Livre",
-      "titulo": "VITAMINA B12 Metilcobalamina - Fórmula com Máxima Pureza e Concentração - 30 Doses",
-      "link": "https://meli.la/2qs5C8d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680174-MLA114764067791_072026-F.jpg",
-      "preco": 30.869999999999997,
-      "precoDe": 71.77,
-      "desconto": 43,
-      "cupom": "PEGUESEUCUPOM",
-      "enviadoEm": "2026-10-14T15:24:46.408Z"
-    },
-    {
-      "id": "30566",
-      "loja": "Mercado Livre",
-      "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W de Potência com Bocal de Sopro",
-      "link": "https://meli.la/2SsKY6Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985627-MLA100060225801_122025-F.jpg",
-      "preco": 238.40999999999997,
-      "precoDe": 485.57,
-      "desconto": 45,
-      "cupom": "AQUITEM",
-      "enviadoEm": "2026-10-14T15:21:34.836Z"
-    },
-    {
-      "id": "30562",
-      "loja": "Shopee",
-      "titulo": "Kit Higiene Bebê Porcelana Safari com Garrafa Térmica",
-      "link": "https://s.shopee.com.br/1VzxP7geHw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxysma0v8ck75_tn",
-      "preco": 134.91,
-      "precoDe": 149.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T15:14:13.642Z"
     }
   ]
 }
