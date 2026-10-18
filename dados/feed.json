@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-17T22:31:39.419Z",
+  "atualizadoEm": "2026-10-18T11:12:48.282Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32122",
+      "loja": "Shopee",
+      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+      "link": "https://s.shopee.com.br/4fx5HabiXI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
+      "preco": 199.99,
+      "precoDe": 307.68,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T11:02:48.279Z"
+    },
     {
       "id": "32109",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 48,
       "cupom": "AQUITEM",
       "enviadoEm": "2026-10-14T14:36:53.015Z"
-    },
-    {
-      "id": "30520",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Corta-vento Rock Saints Masculina Uv Térmica",
-      "link": "https://meli.la/1zpAk6L",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846572-MLB87349964960_072025-O.webp",
-      "preco": 39.2,
-      "precoDe": 78,
-      "desconto": 28,
-      "cupom": "MELISALVA",
-      "enviadoEm": "2026-10-14T14:26:33.785Z"
     }
   ]
 }
