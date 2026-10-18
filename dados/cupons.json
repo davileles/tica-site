@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-17T23:31:39.719Z",
+  "atualizadoEm": "2026-10-18T03:01:39.697Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,18 +603,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARIMPEI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "10 cupons de desconto percentual com limites de desconto definidos",
-      "validadeAte": "2026-10-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PRECINHO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1155,18 +1143,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MAISCUPONS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VEJAESSAPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1311,6 +1287,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULLRESGATE1810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupom válido em entregas Full. Selecionados conforme lista indicada.",
+      "validadeAte": "2026-10-19T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1356,18 +1344,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-10-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFNOMELIHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-18T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
