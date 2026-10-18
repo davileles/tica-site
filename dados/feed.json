@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-18T19:01:39.424Z",
+  "atualizadoEm": "2026-10-18T19:31:39.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32533",
+      "loja": "Shopee",
+      "titulo": "Prateleira para Banheiro de Metal Adesiva sem Furo, Rack de Parede Porta Shampoo e Sabonete, Organizador Box 1 a 4 Pçs",
+      "link": "https://s.shopee.com.br/qkNGwMAJK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 10.99,
+      "precoDe": 29.7,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:23:35.951Z"
+    },
+    {
+      "id": "32532",
+      "loja": "Amazon",
+      "titulo": "Mor - Caixa Térmica 18 Litros Preta",
+      "link": "https://www.amazon.com.br/dp/B0BBPM1KCG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316ZQlt2dKL._SL400_.jpg",
+      "preco": 57.5,
+      "precoDe": 76.54,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:18:39.985Z"
+    },
     {
       "id": "32315",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 9,
       "cupom": null,
       "enviadoEm": "2026-10-14T19:00:29.083Z"
-    },
-    {
-      "id": "30750",
-      "loja": "Shopee",
-      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
-      "link": "https://s.shopee.com.br/8KqHm1VZQ1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mqbxyppmgzya6f_tn",
-      "preco": 79.12,
-      "precoDe": 98.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T18:37:57.295Z"
-    },
-    {
-      "id": "30748",
-      "loja": "Amazon",
-      "titulo": "OralGos Escova de Dente Adulto, Macia, 5 Unidades para Gengivas Sensíveis",
-      "link": "https://www.amazon.com.br/dp/B0FFH7HBCN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tBp1LH9OL._SL400_.jpg",
-      "preco": 25.87,
-      "precoDe": 29.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T18:28:08.297Z"
     }
   ]
 }
