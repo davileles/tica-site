@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-18T12:01:40.841Z",
+  "atualizadoEm": "2026-10-18T12:10:19.331Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1548,6 +1548,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-18T23:11:39.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-19T12:03:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
