@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-18T13:53:51.411Z",
+  "atualizadoEm": "2026-10-18T14:17:31.880Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32186",
+      "loja": "Amazon",
+      "titulo": "Inversor Solda Eletrodo e TIG IM125 Com Máscara - Bivolt Vonder",
+      "link": "https://www.amazon.com.br/dp/B0DWFZWLHF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4140rl5XZoL._SL400_.jpg",
+      "preco": 557,
+      "precoDe": 1108.61,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T14:07:31.877Z"
+    },
+    {
+      "id": "32184",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "link": "https://s.shopee.com.br/6L5JTG1Spp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
+      "preco": 10.9,
+      "precoDe": 21.37,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T14:06:24.181Z"
+    },
     {
       "id": "32182",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-10-14T16:10:39.027Z"
-    },
-    {
-      "id": "30609",
-      "loja": "Shopee",
-      "titulo": "Fralda Pampers Premium Care Jumbo M 80 Unidades",
-      "link": "https://s.shopee.com.br/30olFnZdrJ",
-      "imagem": "https://cf.shopee.com.br/file/d7816723d57a0909a7ee7153a0269299_tn",
-      "preco": 161.18,
-      "precoDe": 179.09,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:07:09.178Z"
-    },
-    {
-      "id": "30600",
-      "loja": "Shopee",
-      "titulo": "Quarto Bebê Completo Berço Americano Marquesa 3em1 Guarda Roupa 4 Portas Cômoda Uli 100% MDF Faura",
-      "link": "https://s.shopee.com.br/8V9hnCEoGZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mmqe3p59rv9g94_tn",
-      "preco": 1804.91,
-      "precoDe": 2148.7,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:03:42.243Z"
     }
   ]
 }
