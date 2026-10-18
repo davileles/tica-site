@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-18T14:31:39.423Z",
+  "atualizadoEm": "2026-10-18T14:45:49.198Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32190",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
+      "preco": 125.99,
+      "precoDe": 189.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T14:35:49.195Z"
+    },
     {
       "id": "32187",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 51,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-14T16:17:42.612Z"
-    },
-    {
-      "id": "30614",
-      "loja": "Shopee",
-      "titulo": "Console PlayStation 5 Edição Slim Digital 825GB Novo Lacrado",
-      "link": "https://s.shopee.com.br/9APObbiRsF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3avl51a04y3d_tn",
-      "preco": 4549.9,
-      "precoDe": 5481.81,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:14:21.697Z"
     }
   ]
 }
