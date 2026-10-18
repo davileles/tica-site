@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-18T14:45:49.198Z",
+  "atualizadoEm": "2026-10-18T15:01:39.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32192",
+      "loja": "Amazon",
+      "titulo": "Gin Bulldog London Dry 750ml",
+      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
+      "preco": 77,
+      "precoDe": 156.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:01:27.862Z"
+    },
     {
       "id": "32190",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-14T16:21:11.634Z"
-    },
-    {
-      "id": "30616",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-      "link": "https://meli.la/1sB5EE2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977222-MLB115816994929_082026-O.webp",
-      "preco": 100.09,
-      "precoDe": 289.99,
-      "desconto": 51,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-14T16:17:42.612Z"
     }
   ]
 }
