@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-18T15:25:36.908Z",
+  "atualizadoEm": "2026-10-18T16:01:39.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32207",
+      "loja": "Amazon",
+      "titulo": "Picarón Vinho Cabernet Sauvignon 750Ml",
+      "link": "https://www.amazon.com.br/dp/B09WPRPPC3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-tP5s1kL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T16:01:11.380Z"
+    },
+    {
+      "id": "32206",
+      "loja": "Shopee",
+      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
+      "link": "https://s.shopee.com.br/2Vsb1ooFfj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
+      "preco": 16.99,
+      "precoDe": 80.9,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T16:00:17.255Z"
+    },
+    {
+      "id": "32205",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 1kg + Alvejante 1kg",
+      "link": "https://s.shopee.com.br/6L5JarQvdA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36_tn",
+      "preco": 16.99,
+      "precoDe": 36.93,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:56:56.488Z"
+    },
+    {
+      "id": "32204",
+      "loja": "Mercado Livre",
+      "titulo": "Air Fryer Wap Multi-comb Digital Wafc16 De 16l Preto E Cinza 220v",
+      "link": "https://meli.la/232fN3z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831624-MLA93384203743_092025-F.jpg",
+      "preco": 431.32,
+      "precoDe": 1305,
+      "desconto": 63,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T15:53:04.636Z"
+    },
+    {
+      "id": "32203",
+      "loja": "Shopee",
+      "titulo": "GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profissional 1500W Alta Velocida de 2Minutos Secagem Rápid",
+      "link": "https://s.shopee.com.br/8AWxlHm71z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msbb78hsr28651_tn",
+      "preco": 199,
+      "precoDe": 497.5,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:43:15.958Z"
+    },
+    {
+      "id": "32201",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear Definição Natural 1kg",
+      "link": "https://s.shopee.com.br/9V2LL8ZusG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:34:33.640Z"
+    },
     {
       "id": "32199",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 70,
       "cupom": null,
       "enviadoEm": "2026-10-14T16:51:38.760Z"
-    },
-    {
-      "id": "30632",
-      "loja": "Mercado Livre",
-      "titulo": "Água de Colônia O Boticário Thaty Boticollection para Mulheres",
-      "link": "https://meli.la/2xB1RGA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630118-MLU77771915995_072024-F.jpg",
-      "preco": 97.93,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-14T16:48:21.316Z"
-    },
-    {
-      "id": "30630",
-      "loja": "Mercado Livre",
-      "titulo": "Cooler Para Processador Pcyes Frost Pulse Argb Black Vulcan",
-      "link": "https://meli.la/1Cxk7M5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779810-MLA99935893099_112025-F.jpg",
-      "preco": 148,
-      "precoDe": 184.89,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:44:48.805Z"
-    },
-    {
-      "id": "30628",
-      "loja": "Shopee",
-      "titulo": "1000W Bicicleta Elétrica Honeywhale K6S com Aro 20,15.6Ah e Freios Hidráulicos",
-      "link": "https://s.shopee.com.br/3Vl1srSPWB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-msv5xbvt46pw6b_tn",
-      "preco": 6599,
-      "precoDe": 14040.43,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:41:41.101Z"
-    },
-    {
-      "id": "30626",
-      "loja": "Shopee",
-      "titulo": "Smart TV AOC 43\" Full HD LED Roku Wi-Fi USB HDMI 43S5155/78G",
-      "link": "https://s.shopee.com.br/3LRbgEsaMW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-msykpyh2dc0729_tn",
-      "preco": 1457.99,
-      "precoDe": 2314.27,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:38:06.733Z"
-    },
-    {
-      "id": "30624",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Cuecas Boxer Sem Costura Polo Wear Sortido",
-      "link": "https://meli.la/2aRaV3H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645529-MLB114653565895_072026-O.webp",
-      "preco": 79.9,
-      "precoDe": 149.9,
-      "desconto": 30,
-      "cupom": "FULL1410",
-      "enviadoEm": "2026-10-14T16:34:54.530Z"
-    },
-    {
-      "id": "30623",
-      "loja": "Amazon",
-      "titulo": "Copo Térmico Byron SNAPSEAL™ Preto Contigo | 591ml",
-      "link": "https://www.amazon.com.br/dp/B09VTKHQKP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21FoPdroGLL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 119.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:31:26.386Z"
     }
   ]
 }
