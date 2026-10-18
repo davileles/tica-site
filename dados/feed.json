@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-18T22:31:39.425Z",
+  "atualizadoEm": "2026-10-18T22:48:31.794Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32651",
+      "loja": "Shopee",
+      "titulo": "Kit 30 Discos Lixa 125mm Suporte para Furadeira Lixadeira com Velcro para Furadeira, Lixadeira e Esmerilhadeira parede",
+      "link": "https://s.shopee.com.br/7VHHQjruxo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqfngr0ov7k3fa_tn",
+      "preco": 27.99,
+      "precoDe": 50.89,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T22:38:31.790Z"
+    },
+    {
+      "id": "32649",
+      "loja": "Amazon",
+      "titulo": "Absolut Vodka Original Sueca 750ml Absolut Sabor vodka 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B0034XJK2O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lDs1thyIL._SL400_.jpg",
+      "preco": 77.67,
+      "precoDe": 117.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T22:34:24.418Z"
+    },
+    {
+      "id": "32648",
+      "loja": "Mercado Livre",
+      "titulo": "Câmera Bullet 1080p 25m 2.8mm Thc-b120-pic Hilook Hikvision Branco",
+      "link": "https://meli.la/1FFFqtP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845124-MLA99949010597_112025-F.jpg",
+      "preco": 61.07,
+      "precoDe": 82.94,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T22:32:52.118Z"
+    },
     {
       "id": "32647",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-15T11:14:11.380Z"
-    },
-    {
-      "id": "30894",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "link": "https://s.shopee.com.br/5LChI9GGGg",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffl-m3zbdqna4dhzc0_tn",
-      "preco": 18.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:03:08.359Z"
-    },
-    {
-      "id": "30869",
-      "loja": "Amazon",
-      "titulo": "Amarula Licor Cream 375Ml",
-      "link": "https://www.amazon.com.br/dp/B01N0GHG4C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31NNX2Hgy+L._SL400_.jpg",
-      "preco": 59.92,
-      "precoDe": 75.19,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T01:35:01.921Z"
-    },
-    {
-      "id": "30865",
-      "loja": "Amazon",
-      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
-      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
-      "preco": 93.9,
-      "precoDe": 129.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T23:54:14.535Z"
     }
   ]
 }
