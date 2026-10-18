@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-18T15:01:39.423Z",
+  "atualizadoEm": "2026-10-18T15:25:36.908Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32199",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Caixas Organizadoras Com Tampa 2 Litros Cesto Grande em Plástico",
+      "link": "https://s.shopee.com.br/5fpcknPlY9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkux16rtrw1v32_tn",
+      "preco": 59.9,
+      "precoDe": 79.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:15:36.904Z"
+    },
+    {
+      "id": "32198",
+      "loja": "Shopee",
+      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "link": "https://s.shopee.com.br/5LCmLw2INz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
+      "preco": 27.89,
+      "precoDe": 64.86,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:12:03.601Z"
+    },
+    {
+      "id": "32195",
+      "loja": "Shopee",
+      "titulo": "Micro Retifica Elétrica AITOOLZO 600W 202 Peças Com Suporte",
+      "link": "https://s.shopee.com.br/9zybu1weHp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfota8hsolqd30_tn",
+      "preco": 232,
+      "precoDe": 662.86,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T15:06:16.947Z"
+    },
     {
       "id": "32192",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-14T16:31:26.386Z"
-    },
-    {
-      "id": "30621",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
-      "link": "https://s.shopee.com.br/2qVL4clb92",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
-      "preco": 15,
-      "precoDe": 35.71,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:27:52.065Z"
-    },
-    {
-      "id": "30620",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina de Raspar Pelos Philips Body Groomer Série 3000 | Aparador Corporal e Região Íntima | Seco e Molhado | 80 Min Sem Fio",
-      "link": "https://meli.la/1Z7gVAi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_873677-MLA112721117648_062026-F.jpg",
-      "preco": 148.29000000000002,
-      "precoDe": 299.9,
-      "desconto": 29,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-14T16:24:26.707Z"
-    },
-    {
-      "id": "30618",
-      "loja": "Amazon",
-      "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
-      "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/2121oWtKXXL._SL400_.jpg",
-      "preco": 249,
-      "precoDe": 399,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:21:11.634Z"
     }
   ]
 }
