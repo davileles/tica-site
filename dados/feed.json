@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-18T21:26:36.033Z",
+  "atualizadoEm": "2026-10-18T21:31:39.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32633",
+      "loja": "Mercado Livre",
+      "titulo": "LEGO Art Paisagem Japonesa com Cerejeiras; Arte de Parede 31218",
+      "link": "https://meli.la/2TgRu3y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730302-MLA100242954169_122025-F.jpg",
+      "preco": 921.9,
+      "precoDe": 1199.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T21:30:06.683Z"
+    },
     {
       "id": "32631",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-14T22:01:59.714Z"
-    },
-    {
-      "id": "30838",
-      "loja": "Shopee",
-      "titulo": "Potes de Vidro 200/300/550/1200/1500/1700/2000ml com Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
-      "link": "https://s.shopee.com.br/3Vl2DafZAE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
-      "preco": 8.9,
-      "precoDe": 44.5,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T21:39:21.851Z"
     }
   ]
 }
