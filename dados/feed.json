@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-18T19:31:39.425Z",
+  "atualizadoEm": "2026-10-18T20:01:39.425Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32582",
+      "loja": "Mercado Livre",
+      "titulo": "Cervejeira Midea Mdrx150fggdx Frost Free 82L Preto",
+      "link": "https://meli.la/2pzTt8p",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985635-MLA99502134592_112025-F.jpg",
+      "preco": 1512.9,
+      "precoDe": 1760,
+      "desconto": 4,
+      "cupom": "MELIHOJE",
+      "enviadoEm": "2026-10-18T19:52:04.090Z"
+    },
+    {
+      "id": "32581",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Apple Tennessee Whiskey 700ml",
+      "link": "https://www.amazon.com.br/dp/B07T9LP2C3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DL5U0pBXL._SL400_.jpg",
+      "preco": 88.87,
+      "precoDe": 144.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:48:29.054Z"
+    },
+    {
+      "id": "32547",
+      "loja": "Mercado Livre",
+      "titulo": "Tupia manual 530 watts com pinça de 6mm M3700b Makita",
+      "link": "https://meli.la/2UHsRQy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628815-MLA113722227463_062026-F.jpg",
+      "preco": 399.45,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:47:15.664Z"
+    },
+    {
+      "id": "32546",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/1BGIxD5wP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 67.9,
+      "precoDe": 141.46,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:46:20.054Z"
+    },
+    {
+      "id": "32545",
+      "loja": "Shopee",
+      "titulo": "Cerveja Corona Extra Long Neck 330ml - Pack Com 24 Unidades",
+      "link": "https://s.shopee.com.br/7fahQyTrCy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may6knakuc556d_tn",
+      "preco": 179.9,
+      "precoDe": 236.71,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T19:42:52.130Z"
+    },
     {
       "id": "32533",
       "loja": "Shopee",
@@ -5941,66 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-10-14T19:46:11.311Z"
-    },
-    {
-      "id": "30796",
-      "loja": "Mercado Livre",
-      "titulo": "Garrafa Térmica Stanley Aerolight Transit Slim Black 2.0 591ml",
-      "link": "https://meli.la/2ygaTre",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799653-MLA111923920498_062026-F.jpg",
-      "preco": 132.54000000000002,
-      "precoDe": 259,
-      "desconto": 36,
-      "cupom": "LOJAS1410",
-      "enviadoEm": "2026-10-14T19:32:31.007Z"
-    },
-    {
-      "id": "30791",
-      "loja": "Shopee",
-      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
-      "link": "https://s.shopee.com.br/7fab1t9LZp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
-      "preco": 7.99,
-      "precoDe": 29.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T19:23:36.857Z"
-    },
-    {
-      "id": "30785",
-      "loja": "Mercado Livre",
-      "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
-      "link": "https://meli.la/1BfLBgo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_853637-MLB74931305887_032024-O.webp",
-      "preco": 39.99,
-      "precoDe": 60.47,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T19:12:54.901Z"
-    },
-    {
-      "id": "30780",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XG - 64 Un",
-      "link": "https://meli.la/1j6RSf9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979794-MLA99442042486_112025-F.jpg",
-      "preco": 64.41999999999999,
-      "precoDe": 114.33,
-      "desconto": 30,
-      "cupom": "LOJAS1410",
-      "enviadoEm": "2026-10-14T19:06:30.684Z"
-    },
-    {
-      "id": "30775",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/1gJNrJidb4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.99,
-      "precoDe": 65.92,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T19:00:29.083Z"
     }
   ]
 }
