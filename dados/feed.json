@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-18T16:01:39.423Z",
+  "atualizadoEm": "2026-10-18T16:20:17.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32210",
+      "loja": "Mercado Livre",
+      "titulo": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 30ml",
+      "link": "https://meli.la/1LTXj6Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681683-MLA116326302862_092026-F.jpg",
+      "preco": 322.99,
+      "precoDe": 589,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T16:10:17.781Z"
+    },
+    {
+      "id": "32208",
+      "loja": "Shopee",
+      "titulo": "Kit Tupia Manual Laminadora 800w 6mm + Jogo De Fresas 15 Pcs",
+      "link": "https://s.shopee.com.br/AUusYz3gRM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb98c0auyrnz19_tn",
+      "preco": 199.99,
+      "precoDe": 606.03,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-18T16:02:20.710Z"
+    },
     {
       "id": "32207",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 38,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-14T16:59:59.495Z"
-    },
-    {
-      "id": "30645",
-      "loja": "Shopee",
-      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "link": "https://s.shopee.com.br/gQqWY7mAH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f_tn",
-      "preco": 79.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:54:45.957Z"
-    },
-    {
-      "id": "30643",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Caixa Amplificada, Preto, 150W RMS, Bivolt - CM-150",
-      "link": "https://www.amazon.com.br/dp/B0BJJH4L5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-QLZofg8L._SL400_.jpg",
-      "preco": 119.9,
-      "precoDe": 399.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-14T16:51:38.760Z"
     }
   ]
 }
