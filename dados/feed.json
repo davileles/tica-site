@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-19T18:48:26.330Z",
+  "atualizadoEm": "2026-10-19T19:18:26.331Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33053",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Esmerilhadeira Lixadeira 4.1/2'' 220v M9510b Makita",
+      "link": "https://meli.la/1oVizaU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774610-MLB115950648776_092026-O.webp",
+      "preco": 319.94,
+      "precoDe": 588.12,
+      "desconto": 32,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T19:16:15.387Z"
+    },
+    {
+      "id": "33049",
+      "loja": "Shopee",
+      "titulo": "Mini Máquina Seladora De Embalagem 2 em 1 Recarregável 5v Bivolt",
+      "link": "https://s.shopee.com.br/4qGXcLAmaR",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82262-mhvlzshohmh275_tn",
+      "preco": 12.08,
+      "precoDe": 26.26,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T19:11:42.634Z"
+    },
+    {
+      "id": "33046",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosso 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
+      "preco": 30.78,
+      "precoDe": 47.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T19:05:57.615Z"
+    },
+    {
+      "id": "33042",
+      "loja": "Amazon",
+      "titulo": "Cerveja Paulaner Weissbier Sem Álcool 500ml",
+      "link": "https://www.amazon.com.br/dp/B08WX1HYRG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41tcVZf18vL._SL400_.jpg",
+      "preco": 19.44,
+      "precoDe": 21.5,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T18:58:03.919Z"
+    },
+    {
+      "id": "33036",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Xtra-Flex, Tamanho XXXL, 128 Unidades | Canais em X que se adaptam aos movimentos, Máxima Proteção, Sem fralda caída",
+      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
+      "preco": 182.67,
+      "precoDe": 246.01,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T18:57:00.945Z"
+    },
+    {
+      "id": "33035",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira/parafusadeira C/impacto + Kit Acessórios 134 Peças",
+      "link": "https://meli.la/2boP6rJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685685-MLB113675846574_072026-O.webp",
+      "preco": 215.94,
+      "precoDe": 461.39,
+      "desconto": 41,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T18:56:03.637Z"
+    },
+    {
+      "id": "33033",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção, Tamanho G, 160 Unidades | Aberta, Tecnologia Xtra-Flex, Canais em X que se adaptam aos movimentos",
+      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
+      "preco": 173.74,
+      "precoDe": 229.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T18:54:55.730Z"
+    },
+    {
+      "id": "33029",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Térmico Stacking Coastal Teal 354ml",
+      "link": "https://www.amazon.com.br/dp/B0G3RSCVBD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21xBiH9lJOL._SL400_.jpg",
+      "preco": 78.23,
+      "precoDe": 109,
+      "desconto": 16,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-19T18:53:57.781Z"
+    },
+    {
+      "id": "33023",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Supreme Care M 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 188.27,
+      "precoDe": 229.9,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T18:49:43.298Z"
+    },
+    {
+      "id": "33022",
+      "loja": "Shopee",
+      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
+      "link": "https://s.shopee.com.br/8fTG9J8q4J",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
+      "preco": 29.9,
+      "precoDe": 39.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T18:48:52.707Z"
+    },
     {
       "id": "33021",
       "loja": "Amazon",
@@ -2187,18 +2307,6 @@
       "enviadoEm": "2026-10-18T12:16:56.900Z"
     },
     {
-      "id": "32144",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 30.78,
-      "precoDe": 47.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T12:16:03.456Z"
-    },
-    {
       "id": "32142",
       "loja": "Amazon",
       "titulo": "Fechadura Digital de Sobrepor FR 201 V intelbras",
@@ -3325,18 +3433,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-10-16T22:29:34.373Z"
-    },
-    {
-      "id": "31896",
-      "loja": "Amazon",
-      "titulo": "Cerveja Paulaner Weissbier Sem Álcool 500ml",
-      "link": "https://www.amazon.com.br/dp/B08WX1HYRG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tcVZf18vL._SL400_.jpg",
-      "preco": 24.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:19:01.696Z"
     },
     {
       "id": "31895",
@@ -4503,18 +4599,6 @@
       "enviadoEm": "2026-10-16T14:26:53.799Z"
     },
     {
-      "id": "31633",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Xtra-Flex, Tamanho XXXL, 128 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 246.01,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T14:23:44.418Z"
-    },
-    {
       "id": "31632",
       "loja": "Shopee",
       "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
@@ -4549,30 +4633,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-16T14:17:39.507Z"
-    },
-    {
-      "id": "31629",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção, Tamanho G, 160 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T14:16:48.014Z"
-    },
-    {
-      "id": "31628",
-      "loja": "Amazon",
-      "titulo": "Huggies Fralda Supreme Care M 196 Un",
-      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": 229.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T14:15:41.963Z"
     },
     {
       "id": "31624",
@@ -5941,66 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-15T18:20:03.119Z"
-    },
-    {
-      "id": "31192",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Inteligente Smartwatch GPS Autônomo Chamadas Bluetooth NOVANTE Moda Digital Feminino Masculino Esportivo Preto IP68 3ATM Agua Tela Hd 1.85 350mAh 10Dias Android IOS Com Mon",
-      "link": "https://meli.la/2sQQ7M9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690283-MLA115980624440_092026-F.jpg",
-      "preco": 128.36999999999998,
-      "precoDe": 559,
-      "desconto": 67,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T18:18:48.793Z"
-    },
-    {
-      "id": "31191",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Combo 1 Naninha + 1 Travesseiro Anatômico Diversos",
-      "link": "https://meli.la/1Yk6g5t",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912697-MLB98954464883_112025-O.webp",
-      "preco": 29.14,
-      "precoDe": 51.51,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:15:37.141Z"
-    },
-    {
-      "id": "31186",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador GBH 18V-18 X sem bateria",
-      "link": "https://www.amazon.com.br/dp/B0FWMMWH5T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AA0iNH9xL._SL400_.jpg",
-      "preco": 878.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T18:07:55.457Z"
-    },
-    {
-      "id": "31185",
-      "loja": "Shopee",
-      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
-      "link": "https://s.shopee.com.br/1LgYzdM7bl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
-      "preco": 18.39,
-      "precoDe": 22.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:06:40.732Z"
-    },
-    {
-      "id": "31184",
-      "loja": "Amazon",
-      "titulo": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
-      "link": "https://www.amazon.com.br/dp/B07FS8P22T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KRtDfBtlL._SL400_.jpg",
-      "preco": 44.91,
-      "precoDe": 49.91,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:03:26.524Z"
     }
   ]
 }
