@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T19:18:28.112Z",
+  "atualizadoEm": "2026-10-19T20:18:28.193Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-10-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE150TODO",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -555,15 +543,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECOREELETROS",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
+      "valor": 40,
+      "minimo": 199,
       "maximo": null,
-      "limite": 50,
+      "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-10-19T20:00:33.076Z",
+      "validadeAte": "2026-10-19T22:00:32.958Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "40OFF1910",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-20T20:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1632,18 +1632,6 @@
       "limite": 85,
       "observacao": null,
       "validadeAte": "2026-10-20T15:01:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPERMERCADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-19T20:00:33.076Z",
       "url": "https://meli.la/2xystLt"
     },
     {
