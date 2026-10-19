@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-19T12:18:25.927Z",
+  "atualizadoEm": "2026-10-19T12:48:25.936Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32775",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Primeiros Dias Tamanho RN (Até 4 kg), 36 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51juZflDKPL._SL400_.jpg",
+      "preco": 45.17,
+      "precoDe": 52.83,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:46:54.330Z"
+    },
+    {
+      "id": "32762",
+      "loja": "Amazon",
+      "titulo": "Monitor Gamer Curvo 32\" Redragon Tassos QHD 170Hz VA 1ms MPRT G-Sync FreeSync GM32H2Q",
+      "link": "https://www.amazon.com.br/dp/B0CRMCC6W8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21Hye0yy+RL._SL400_.jpg",
+      "preco": 1009.1,
+      "precoDe": 2109.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:43:00.487Z"
+    },
+    {
+      "id": "32760",
+      "loja": "Mercado Livre",
+      "titulo": "iCLAMPER Energia 5 Tomadas LCF Transparente Filtro de Linha e Protetor Elétrico DPS Bivolt",
+      "link": "https://meli.la/2xBbtVN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872130-MLA96600774701_102025-F.jpg",
+      "preco": 43.68,
+      "precoDe": 110.47,
+      "desconto": 47,
+      "cupom": "CPAMD19",
+      "enviadoEm": "2026-10-19T12:38:28.784Z"
+    },
+    {
+      "id": "32756",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 78.33,
+      "precoDe": 126.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:35:01.376Z"
+    },
+    {
+      "id": "32753",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 124.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:33:43.538Z"
+    },
+    {
+      "id": "32752",
+      "loja": "Mercado Livre",
+      "titulo": "Esteira Porta Copos Braço Sofá Kit 2 Unidades Premium Corino",
+      "link": "https://meli.la/1GXiJqg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_737481-MLB96895837126_112025-O.webp",
+      "preco": 38.51,
+      "precoDe": 44.99,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:32:38.777Z"
+    },
+    {
+      "id": "32749",
+      "loja": "Mercado Livre",
+      "titulo": "3x Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "link": "https://meli.la/15RtAi7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989710-MLB117885955947_092026-O.webp",
+      "preco": 63.900000000000006,
+      "precoDe": 188.66,
+      "desconto": 58,
+      "cupom": "CPAMD19",
+      "enviadoEm": "2026-10-19T12:29:04.364Z"
+    },
+    {
+      "id": "32747",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Linho Estampa Folhas Tropicais",
+      "link": "https://meli.la/1TaXjNE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942444-MLB83334075309_032025-O.webp",
+      "preco": 85.6,
+      "precoDe": 105.9,
+      "desconto": 5,
+      "cupom": "CPAMD19",
+      "enviadoEm": "2026-10-19T12:21:46.469Z"
+    },
+    {
+      "id": "32745",
+      "loja": "Mercado Livre",
+      "titulo": "Deo Colônia Natura Hoje Masculino 100ml",
+      "link": "https://meli.la/1dYTshT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809219-MLU72675777427_112023-F.jpg",
+      "preco": 52.56,
+      "precoDe": 168.9,
+      "desconto": 60,
+      "cupom": "CPAMD19",
+      "enviadoEm": "2026-10-19T12:18:38.848Z"
+    },
     {
       "id": "32742",
       "loja": "Shopee",
@@ -49,18 +157,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-10-19T11:52:01.710Z"
-    },
-    {
-      "id": "32707",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": 78.33,
-      "precoDe": 126.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T11:38:30.546Z"
     },
     {
       "id": "32702",
@@ -5905,102 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-15T12:56:55.792Z"
-    },
-    {
-      "id": "31004",
-      "loja": "Shopee",
-      "titulo": "Kit Coala Laundry Lava Roupas 5L + 2 Amaciantes 1L - Orquídea Negra",
-      "link": "https://s.shopee.com.br/5fpXnxSYYP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuo-ml2ht5dx1xc3ed_tn",
-      "preco": 65.86,
-      "precoDe": 119.75,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:53:26.698Z"
-    },
-    {
-      "id": "30997",
-      "loja": "Amazon",
-      "titulo": "Whisky Bell's, 700ml",
-      "link": "https://www.amazon.com.br/dp/B07FPYWGSR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xy4AYcSxL._SL400_.jpg",
-      "preco": 50,
-      "precoDe": 62.39,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:49:59.390Z"
-    },
-    {
-      "id": "30994",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Ram 8gb Ddr5 4800mhz Gamer Memtech Para Desktop",
-      "link": "https://meli.la/1jDtABR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636916-MLA115728299265_082026-F.jpg",
-      "preco": 719.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T12:49:03.520Z"
-    },
-    {
-      "id": "30992",
-      "loja": "Shopee",
-      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "link": "https://s.shopee.com.br/6VOemmlQ2i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
-      "preco": 99.9,
-      "precoDe": 199.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:45:29.486Z"
-    },
-    {
-      "id": "30988",
-      "loja": "Mercado Livre",
-      "titulo": "Eps-158 Kit Faqueiro Dourado Luxo Jogo Talheres Inox 24pçs + Maleta Sem Estampa",
-      "link": "https://meli.la/2bAWw94",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834599-MLA110520212053_042026-F.jpg",
-      "preco": 67,
-      "precoDe": 219.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:42:01.465Z"
-    },
-    {
-      "id": "30986",
-      "loja": "Mercado Livre",
-      "titulo": "Pulverizador Manual Pressurizado 1,5L Laranja Bico Regulável para Jardim Plantas Limpeza Automotiva Carro Casa Multiuso Pulverização Portátil Ajustável",
-      "link": "https://meli.la/1M92H94",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_659159-MLA115943043890_092026-F.jpg",
-      "preco": 16.419999999999998,
-      "precoDe": 49.9,
-      "desconto": 56,
-      "cupom": "SUPEROFERTA",
-      "enviadoEm": "2026-10-15T12:38:33.615Z"
-    },
-    {
-      "id": "30979",
-      "loja": "Amazon",
-      "titulo": "I2GO, Fone De Ouvido, TWS, Bluetooth, 20 Horas totais de Bateria, ENC, Air Sound Go 2.0, Branco, i2GO PRO",
-      "link": "https://www.amazon.com.br/dp/B0BBXPR65R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315s-FKqw7L._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 179.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:31:35.019Z"
-    },
-    {
-      "id": "30975",
-      "loja": "Mercado Livre",
-      "titulo": "Telefone Fixo Gsm Sem Fio De Chip Huawei F661 Desbloqueado",
-      "link": "https://meli.la/2JcoA78",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_880604-MLB118960275335_102026-O.webp",
-      "preco": 153,
-      "precoDe": 250,
-      "desconto": 32,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T12:28:30.328Z"
     }
   ]
 }
