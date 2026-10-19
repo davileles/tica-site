@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-18T23:31:39.729Z",
+  "atualizadoEm": "2026-10-19T00:48:26.120Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1332,6 +1332,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BATEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
