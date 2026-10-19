@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-19T13:18:26.259Z",
+  "atualizadoEm": "2026-10-19T13:47:26.787Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32809",
+      "loja": "Shopee",
+      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
+      "link": "https://s.shopee.com.br/6fiBQmNqyh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
+      "preco": 34.9,
+      "precoDe": 60.17,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T13:37:26.784Z"
+    },
+    {
+      "id": "32805",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
+      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31v1k3k5D6L._SL400_.jpg",
+      "preco": 30.9,
+      "precoDe": 49.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T13:28:17.251Z"
+    },
+    {
+      "id": "32799",
+      "loja": "Mercado Livre",
+      "titulo": "Modelador De Cachos Automático 2 em 1 Prancha Profissional Maimeite 885 - Alisa e Cacheia Com Placa Cerâmica 26mm, Ajuste De Temperatura, Aquecimento Rápido, Desligamento Automátic",
+      "link": "https://meli.la/1szkndM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705666-MLA112729879381_062026-F.jpg",
+      "preco": 99.47999999999999,
+      "precoDe": 199,
+      "desconto": 38,
+      "cupom": "OFERTAS",
+      "enviadoEm": "2026-10-19T13:20:14.297Z"
+    },
     {
       "id": "32797",
       "loja": "Amazon",
@@ -3243,18 +3279,6 @@
       "enviadoEm": "2026-10-16T18:10:45.885Z"
     },
     {
-      "id": "31755",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
-      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31v1k3k5D6L._SL400_.jpg",
-      "preco": 30.9,
-      "precoDe": 49.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T18:07:16.678Z"
-    },
-    {
       "id": "31752",
       "loja": "Mercado Livre",
       "titulo": "Perfume Arabe Delilah Blanc Edp 100ML Feminino Original Com NF",
@@ -5977,30 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-15T13:40:10.186Z"
-    },
-    {
-      "id": "31043",
-      "loja": "Amazon",
-      "titulo": "Bebida Mista Beats, Red Mix, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DV5SMHHC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBJpdJcfL._SL400_.jpg",
-      "preco": 51.92,
-      "precoDe": 55.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T13:39:14.351Z"
-    },
-    {
-      "id": "31039",
-      "loja": "Shopee",
-      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "link": "https://s.shopee.com.br/6fi5396edD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
-      "preco": 37.91,
-      "precoDe": 70.2,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T13:38:04.048Z"
     }
   ]
 }
