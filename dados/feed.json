@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-19T19:18:26.331Z",
+  "atualizadoEm": "2026-10-19T19:46:29.833Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33061",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de alta pressão LAV 1600, 1.600 lbf/pol² VONDER",
+      "link": "https://meli.la/31mivaF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981018-MLA116439963941_082026-F.jpg",
+      "preco": 295.91999999999996,
+      "precoDe": 560.74,
+      "desconto": 34,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T19:36:29.830Z"
+    },
     {
       "id": "33053",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-15T18:23:33.940Z"
-    },
-    {
-      "id": "31193",
-      "loja": "Amazon",
-      "titulo": "Burigotto Banheira Millenia, Azul Bebê",
-      "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312ebC8FdaS._SL400_.jpg",
-      "preco": 249.91,
-      "precoDe": 419,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:20:03.119Z"
     }
   ]
 }
