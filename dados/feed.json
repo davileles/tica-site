@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-19T22:48:26.362Z",
+  "atualizadoEm": "2026-10-19T23:02:52.889Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33197",
+      "loja": "Amazon",
+      "titulo": "Cachaça Sagatiba Pura 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8H5SY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UzMMVTWnL._SL400_.jpg",
+      "preco": 25.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T22:52:52.886Z"
+    },
+    {
+      "id": "33195",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
+      "link": "https://s.shopee.com.br/9KixDitfOA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
+      "preco": 79.9,
+      "precoDe": 124.84,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T22:51:49.516Z"
+    },
     {
       "id": "33194",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-15T20:33:01.752Z"
-    },
-    {
-      "id": "31343",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank Basike 10000mAh Preto, Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display",
-      "link": "https://meli.la/1okUh3P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_706774-MLA116350168799_082026-F.jpg",
-      "preco": 67.41,
-      "precoDe": 112.82,
-      "desconto": 15,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T20:31:38.314Z"
-    },
-    {
-      "id": "31342",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Johnson's Baby Recém-Nascidos, 200ml",
-      "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HYB3VignL._SL400_.jpg",
-      "preco": 22.91,
-      "precoDe": 34.49,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:28:14.130Z"
     }
   ]
 }
