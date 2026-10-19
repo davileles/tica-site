@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-19T19:46:29.833Z",
+  "atualizadoEm": "2026-10-19T20:18:26.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33076",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira 3,6v Com Detector De Tensão Gvd 1000-17 Bosch",
+      "link": "https://meli.la/1jQVnhA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_762598-MLA99943282725_112025-F.jpg",
+      "preco": 439.84000000000003,
+      "precoDe": 556.54,
+      "desconto": 3,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T20:12:40.359Z"
+    },
+    {
+      "id": "33075",
+      "loja": "Mercado Livre",
+      "titulo": "Patinete Elétrico Infantil Triciclo PARES Drift Bluetooth 3 Rodas Vermelho Diversão e Lazer + Kit de segurança",
+      "link": "https://meli.la/15aFZHs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815199-MLA117836437827_092026-F.jpg",
+      "preco": 728.1,
+      "precoDe": 1099,
+      "desconto": 26,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T20:11:43.971Z"
+    },
+    {
+      "id": "33074",
+      "loja": "Mercado Livre",
+      "titulo": "Adega Pad8 Display Eletrônico 8 Garrafas Philco",
+      "link": "https://meli.la/1wCgtEb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756881-MLA99498385258_112025-F.jpg",
+      "preco": 597.6,
+      "precoDe": 799,
+      "desconto": 17,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T20:08:23.749Z"
+    },
+    {
+      "id": "33073",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Quencher Cream 887ml",
+      "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21KtWDElIOL._SL400_.jpg",
+      "preco": 156.71,
+      "precoDe": 319,
+      "desconto": 42,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-19T20:07:04.376Z"
+    },
+    {
+      "id": "33072",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
+      "link": "https://meli.la/2MNF8JZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
+      "preco": 103.2,
+      "precoDe": 196,
+      "desconto": 34,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T20:03:22.075Z"
+    },
+    {
+      "id": "33071",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 49,
+      "precoDe": 56.99,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T19:59:44.260Z"
+    },
+    {
+      "id": "33070",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Electrolux Inverter 9000btu frio Ji09f/je09f Cor Branco",
+      "link": "https://meli.la/2J8EvsK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723177-MLA99366040854_112025-F.jpg",
+      "preco": 1519.23,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORDOML",
+      "enviadoEm": "2026-10-19T19:58:21.903Z"
+    },
+    {
+      "id": "33069",
+      "loja": "Shopee",
+      "titulo": "Ring Light Anel de Luz LED 10 Polegadas com Tripé 2,1m Suporte Celular Iluminador TikTok YouTube",
+      "link": "https://s.shopee.com.br/6q1c2zCdzk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
+      "preco": 45.99,
+      "precoDe": 79.29,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T19:54:51.667Z"
+    },
     {
       "id": "33061",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": null,
       "cupom": "OPAECONOMIZEI",
       "enviadoEm": "2026-10-15T18:47:07.712Z"
-    },
-    {
-      "id": "31216",
-      "loja": "Shopee",
-      "titulo": "Andador de Bebê Educativo 3 em 1 Musical Atividades Infantil Didático Castela",
-      "link": "https://s.shopee.com.br/5fpYCABiu2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259c-mtxwpta7bf2bec_tn",
-      "preco": 158.99,
-      "precoDe": 180.67,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:43:26.914Z"
-    },
-    {
-      "id": "31210",
-      "loja": "Amazon",
-      "titulo": "Adega Climatizada 12 Garrafas Midea Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0F7TFM927?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFVjRAHmL._SL400_.jpg",
-      "preco": 799,
-      "precoDe": 1099,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:39:29.718Z"
-    },
-    {
-      "id": "31205",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador Gbh 2-24 D 820W 220V Com Maleta",
-      "link": "https://www.amazon.com.br/dp/B076KRB8LP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
-      "preco": 679.15,
-      "precoDe": 899,
-      "desconto": 11,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T18:38:42.037Z"
-    },
-    {
-      "id": "31204",
-      "loja": "Mercado Livre",
-      "titulo": "Vestido Infantil Estampado Temático Cereja Festa Princesa",
-      "link": "https://meli.la/2tNzSxL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849085-MLB117701188817_092026-O.webp",
-      "preco": 85.49,
-      "precoDe": 89.99,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:37:40.240Z"
-    },
-    {
-      "id": "31203",
-      "loja": "Shopee",
-      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "link": "https://s.shopee.com.br/6q1VZYzSwl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
-      "preco": 64.72,
-      "precoDe": 80.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:34:01.041Z"
-    },
-    {
-      "id": "31202",
-      "loja": "Shopee",
-      "titulo": "Celular Apple iPhone 18 Pro e 18 Pro Max 256GB 512GB 5G NFC com Nota Fiscal Lançamento Envio Imediato",
-      "link": "https://s.shopee.com.br/1BN8p5Qupj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-muat3wnailmrde_tn",
-      "preco": 8650,
-      "precoDe": 12910.45,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:30:30.532Z"
-    },
-    {
-      "id": "31201",
-      "loja": "Shopee",
-      "titulo": "Vestido Feminino Infantil Com Amarração Lateral Vestido Kids com Babadinhos em Mangas Bordado Floral",
-      "link": "https://s.shopee.com.br/2VsWOqCoR2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mt12zqf9wttx32_tn",
-      "preco": 88,
-      "precoDe": 129.41,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:26:53.450Z"
-    },
-    {
-      "id": "31194",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g",
-      "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ItOpTbhlL._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 77.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:23:33.940Z"
     }
   ]
 }
