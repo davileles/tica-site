@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-19T23:02:52.889Z",
+  "atualizadoEm": "2026-10-19T23:40:35.161Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33199",
+      "loja": "Amazon",
+      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
+      "preco": 37,
+      "precoDe": 50.32,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T23:30:35.158Z"
+    },
+    {
+      "id": "33198",
+      "loja": "Amazon",
+      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 106.18,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T23:22:01.071Z"
+    },
     {
       "id": "33197",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-15T20:43:42.612Z"
-    },
-    {
-      "id": "31347",
-      "loja": "Shopee",
-      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
-      "link": "https://s.shopee.com.br/AAHxgitooY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
-      "preco": 116.6,
-      "precoDe": 212,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:40:58.849Z"
-    },
-    {
-      "id": "31345",
-      "loja": "Amazon",
-      "titulo": "Kit 4 Pacotes Café Especial Torrado e Moído Coffee Mais Variedades: Cerrado Mineiro, Arara, Chapada de Minas e Clássico - 100% Arábica (4x250g)",
-      "link": "https://www.amazon.com.br/dp/B0CJT5FJ97?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5192vVj-rpL._SL400_.jpg",
-      "preco": 89.46,
-      "precoDe": 99.15,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:33:01.752Z"
     }
   ]
 }
