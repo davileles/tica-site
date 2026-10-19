@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-18T23:01:39.425Z",
+  "atualizadoEm": "2026-10-19T11:18:25.914Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32688",
+      "loja": "Amazon",
+      "titulo": "Vodka Skyy 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 46.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:15:29.118Z"
+    },
+    {
+      "id": "32686",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
+      "link": "https://meli.la/1VjQJ2a",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711114-MLB108433295675_032026-O.webp",
+      "preco": 159.99,
+      "precoDe": 392.46,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:14:23.432Z"
+    },
+    {
+      "id": "32685",
+      "loja": "Amazon",
+      "titulo": "Kit de Talheres Buba, Flexíveis, Termossensíveis, Azul",
+      "link": "https://www.amazon.com.br/dp/B08KHPB47B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SurRr5opL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 28.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:10:55.036Z"
+    },
+    {
+      "id": "32682",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão Automotivo 4Ah a 100Ah Com Função Reparo Display Digital Proteção Carga Emergencia Portátil Resistente Eficiente",
+      "link": "https://meli.la/2F8KEJ2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702532-MLA119472389033_102026-F.jpg",
+      "preco": 38.9,
+      "precoDe": 98.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:09:58.489Z"
+    },
+    {
+      "id": "32681",
+      "loja": "Shopee",
+      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
+      "link": "https://s.shopee.com.br/7AeRr5JZVH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
+      "preco": 21.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:06:35.475Z"
+    },
+    {
+      "id": "32680",
+      "loja": "Mercado Livre",
+      "titulo": "Chuveiro Eletrônico Fame Intense Black 7800W Preto/Cromado Parede",
+      "link": "https://meli.la/17zuJj9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841943-MLA99385074738_112025-F.jpg",
+      "preco": 276.12,
+      "precoDe": 453.66,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:02:47.112Z"
+    },
     {
       "id": "32652",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-15T11:31:45.059Z"
-    },
-    {
-      "id": "30913",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KV2733?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mkRUpyKEL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 50.04,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:30:10.274Z"
-    },
-    {
-      "id": "30912",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KWB62Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qbt3WOV7L._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 50.04,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:29:17.809Z"
-    },
-    {
-      "id": "30911",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KaiafcWwL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 50.04,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:28:06.693Z"
-    },
-    {
-      "id": "30910",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Rwj1O-RDL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 50.04,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:26:51.636Z"
-    },
-    {
-      "id": "30906",
-      "loja": "Shopee",
-      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
-      "link": "https://s.shopee.com.br/40hJjGHHXB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
-      "preco": 17.9,
-      "precoDe": 29.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:25:42.654Z"
-    },
-    {
-      "id": "30900",
-      "loja": "Mercado Livre",
-      "titulo": "Papel Higiênico Supreme Folha Tripla Com 12 Rolos Neve",
-      "link": "https://meli.la/2Qa5tsd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910746-MLA112425992294_062026-F.jpg",
-      "preco": 11.86,
-      "precoDe": 28.99,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:18:09.030Z"
     }
   ]
 }
