@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-19T11:48:25.914Z",
+  "atualizadoEm": "2026-10-19T12:02:01.712Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32713",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+      "link": "https://s.shopee.com.br/8V9pUsnX1Y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
+      "preco": 44.9,
+      "precoDe": 71.27,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:52:01.710Z"
+    },
     {
       "id": "32707",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-15T12:14:44.168Z"
-    },
-    {
-      "id": "30926",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/1LgYZvNRqy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:48:35.751Z"
     }
   ]
 }
