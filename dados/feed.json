@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-19T15:48:26.294Z",
+  "atualizadoEm": "2026-10-19T16:18:26.293Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32880",
+      "loja": "Amazon",
+      "titulo": "Kit de Viagem para Bebê Granado, 60ml, Kit com 4 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+FNSTvHFL._SL400_.jpg",
+      "preco": 52.78,
+      "precoDe": 69,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T16:15:43.215Z"
+    },
+    {
+      "id": "32875",
+      "loja": "Amazon",
+      "titulo": "Luminária De LED de Sobrepor Redonda Bivolt 31W 3 Em 1 Com Luz Central Dupla (Preto)",
+      "link": "https://www.amazon.com.br/dp/B0CHBLPCGK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Dkh7T0jpL._SL400_.jpg",
+      "preco": 179,
+      "precoDe": 289,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T16:10:28.572Z"
+    },
+    {
+      "id": "32874",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V",
+      "link": "https://meli.la/2c9DF2N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969245-MLA99639655414_122025-F.jpg",
+      "preco": 239.2,
+      "precoDe": 575,
+      "desconto": 48,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T16:06:54.554Z"
+    },
+    {
+      "id": "32871",
+      "loja": "Shopee",
+      "titulo": "Karaokê Bluetooth com 2 Microfones Sem Fio Caixa de Som Portátil ANJGG BRASIL",
+      "link": "https://s.shopee.com.br/4fx7CymRIw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpido8umydqje7_tn",
+      "preco": 34.99,
+      "precoDe": 79.52,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T16:01:21.856Z"
+    },
     {
       "id": "32866",
       "loja": "Amazon",
@@ -3423,18 +3471,6 @@
       "enviadoEm": "2026-10-16T18:12:50.150Z"
     },
     {
-      "id": "31758",
-      "loja": "Amazon",
-      "titulo": "Kit de Viagem para Bebê Granado, 60ml, Kit com 4 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+FNSTvHFL._SL400_.jpg",
-      "preco": 52.78,
-      "precoDe": 69,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T18:11:46.695Z"
-    },
-    {
       "id": "31757",
       "loja": "Mercado Livre",
       "titulo": "Mangueira Jardim 20m Metros Com Esguicho Trançada Reforçada Flexível 7/16 Anti Dobra Irrigação Quintal Poço Lavagem Durável Marqs Home",
@@ -5965,42 +6001,6 @@
       "desconto": 8,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-15T15:16:20.228Z"
-    },
-    {
-      "id": "31089",
-      "loja": "Shopee",
-      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-      "link": "https://s.shopee.com.br/8V9jKodz9Z",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
-      "preco": 15.62,
-      "precoDe": 18.82,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T15:15:07.879Z"
-    },
-    {
-      "id": "31085",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Air Fryer Dual Duplo Cesto 8L Mondial 2200W - AFD-01-BI",
-      "link": "https://meli.la/24CKXmt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836184-MLA99938638095_112025-F.jpg",
-      "preco": 539.09,
-      "precoDe": 630.52,
-      "desconto": 5,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T15:07:40.423Z"
-    },
-    {
-      "id": "31081",
-      "loja": "Amazon",
-      "titulo": "Absorvente Noturno com Abas Sempre Livre, Cobertura Suave, 32 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GM8DW4W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GEHdXQ-+L._SL400_.jpg",
-      "preco": 22.99,
-      "precoDe": 35.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T14:53:45.981Z"
     }
   ]
 }
