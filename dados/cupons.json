@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T00:48:26.120Z",
+  "atualizadoEm": "2026-10-19T03:18:26.150Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -145,42 +145,6 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "PNEU100",
-      "loja": "Carrefour",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-19T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
-      "codigo": "BAZAR100",
-      "loja": "Carrefour",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-19T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
-      "codigo": "ELETRO100",
-      "loja": "Carrefour",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-19T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
       "codigo": "OPORTUNIDADE10",
@@ -577,18 +541,6 @@
       "observacao": null,
       "validadeAte": "2026-10-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODOSITE501810",
@@ -1515,15 +1467,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULLRESGATE1810",
+      "codigo": "RESGATEFULL1910",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
       "minimo": 119,
       "maximo": null,
       "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-19T03:00:00.000Z",
+      "observacao": "Válido em entregas Full. Cupom aplicável em selecionados conforme lista fornecida.",
+      "validadeAte": "2026-10-20T02:59:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1587,18 +1539,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SEMPRETEMCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1608,18 +1548,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
