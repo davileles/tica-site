@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-19T22:18:10.396Z",
+  "atualizadoEm": "2026-10-19T22:18:26.360Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33183",
+      "loja": "Mercado Livre",
+      "titulo": "Filtro de Linha Clamper Energia 8 Tomadas Bivolt, com DPS e Proteção LCF Transparente",
+      "link": "https://meli.la/14YHGvp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688880-MLA96146060311_102025-F.jpg",
+      "preco": 79.34,
+      "precoDe": 118,
+      "desconto": 16,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T22:18:14.391Z"
+    },
     {
       "id": "33180",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-10-15T20:14:43.575Z"
-    },
-    {
-      "id": "31328",
-      "loja": "Mercado Livre",
-      "titulo": "Massageador Pistola Elétrico Profissional Muscular Portátil",
-      "link": "https://meli.la/348RPkC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908057-MLB116303012154_092026-O.webp",
-      "preco": 54.6,
-      "precoDe": 120,
-      "desconto": 35,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T20:06:55.177Z"
     }
   ]
 }
