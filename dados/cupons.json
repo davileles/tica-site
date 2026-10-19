@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T12:02:03.309Z",
+  "atualizadoEm": "2026-10-19T12:18:27.402Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -531,6 +531,30 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 150,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE150TODO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-20T12:01:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PRECINHO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -936,6 +960,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CPAMD19",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 45,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-10-20T12:01:31.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1536,6 +1572,18 @@
       "limite": 20,
       "observacao": "Válido para categoria Obras e Ferramentas em selecionados",
       "validadeAte": "2026-10-19T15:01:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "JOGOS1910",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-20T12:01:31.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
