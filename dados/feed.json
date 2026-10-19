@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-19T21:48:26.359Z",
+  "atualizadoEm": "2026-10-19T22:18:10.396Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33180",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Frost Free 407L A Titânio - NR-BB41PV2T Panasonic",
+      "link": "https://meli.la/143uTxU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818428-MLA105654076228_012026-F.jpg",
+      "preco": 3799,
+      "precoDe": 4699,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T22:08:10.393Z"
+    },
+    {
+      "id": "33178",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+      "link": "https://s.shopee.com.br/8pmgZLyLoG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde_tn",
+      "preco": 19.96,
+      "precoDe": 39.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T22:04:35.882Z"
+    },
+    {
+      "id": "33177",
+      "loja": "Mercado Livre",
+      "titulo": "Refrigerador Panasonic 407l Titanio Nr-bb41pv2t Titânio",
+      "link": "https://meli.la/2vxk6g9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932642-MLA106257691409_012026-F.jpg",
+      "preco": 3624,
+      "precoDe": 4699,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T22:01:13.514Z"
+    },
+    {
+      "id": "33176",
+      "loja": "Amazon",
+      "titulo": "Kit Bartender 7 Peças em Aço Inox",
+      "link": "https://www.amazon.com.br/dp/B0GZWHHRPM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410-ULoJYjL._SL400_.jpg",
+      "preco": 68.99,
+      "precoDe": 89.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T21:57:27.345Z"
+    },
+    {
+      "id": "33166",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G06 - 64GB 4GB RAM + 8GB Ram Boost, Camera 50MP com AI, Bateria de 5200 mAh e Tela 6.9\" - Azul Marinho",
+      "link": "https://meli.la/1P1uXKU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879828-MLA116321124714_092026-F.jpg",
+      "preco": 682.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T21:56:28.591Z"
+    },
+    {
+      "id": "33161",
+      "loja": "Mercado Livre",
+      "titulo": "Lava e Seca Hisense 3S 12kg / 8kg Wi-Fi, 4 em 1, Inverter, 16 programas, Ciclo Rápido, Economia de Água-WD3S1243",
+      "link": "https://meli.la/1LTvZu9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921375-MLA113629025975_062026-F.jpg",
+      "preco": 2551,
+      "precoDe": 3499,
+      "desconto": 13,
+      "cupom": "ECONOMIA",
+      "enviadoEm": "2026-10-19T21:52:43.389Z"
+    },
+    {
+      "id": "33151",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Brastemp Frost Free 385 Litros Duplex Branca - BRM46MB",
+      "link": "https://meli.la/2eYT4f7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830395-MLA104870269405_012026-F.jpg",
+      "preco": 2098,
+      "precoDe": 3889,
+      "desconto": 33,
+      "cupom": "ECONOMIA",
+      "enviadoEm": "2026-10-19T21:49:12.685Z"
+    },
     {
       "id": "33149",
       "loja": "Mercado Livre",
@@ -5917,90 +6001,6 @@
       "desconto": 35,
       "cupom": "OPAECONOMIZEI",
       "enviadoEm": "2026-10-15T20:06:55.177Z"
-    },
-    {
-      "id": "31327",
-      "loja": "Amazon",
-      "titulo": "Detergente para Mamadeiras BioClub, 300ml",
-      "link": "https://www.amazon.com.br/dp/B0CR45ZDT1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+-xO3-mIL._SL400_.jpg",
-      "preco": 22.17,
-      "precoDe": 31.45,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:03:21.175Z"
-    },
-    {
-      "id": "31326",
-      "loja": "Amazon",
-      "titulo": "Kit de Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml",
-      "link": "https://www.amazon.com.br/dp/B0DXL6PVLQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31XuUeS8wrL._SL400_.jpg",
-      "preco": 88.91,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:02:31.062Z"
-    },
-    {
-      "id": "31325",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Azul",
-      "link": "https://www.amazon.com.br/dp/B09LRFL3QZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iERgimoJL._SL400_.jpg",
-      "preco": 29.99,
-      "precoDe": 47.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:59:01.450Z"
-    },
-    {
-      "id": "31324",
-      "loja": "Amazon",
-      "titulo": "Lillo do Brasil Copo de Aprendizado Disney 240ml - Minnie",
-      "link": "https://www.amazon.com.br/dp/B0B3YYRZQP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QKD8wSzNL._SL400_.jpg",
-      "preco": 30.39,
-      "precoDe": 32,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:58:03.838Z"
-    },
-    {
-      "id": "31323",
-      "loja": "Amazon",
-      "titulo": "Bosch Parafusadeira Furadeira Gsr 1000 Smart 12V Com 1 Bateria 1 Carregador E Maleta",
-      "link": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51xDueOPgeL._SL400_.jpg",
-      "preco": 288.15,
-      "precoDe": 399,
-      "desconto": 15,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T19:54:44.313Z"
-    },
-    {
-      "id": "31316",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol Infantil 2 Peças Solteiro Estampado Menino Menina Crianças",
-      "link": "https://s.shopee.com.br/BUbiXhcot",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mp0vp3i1n28322_tn",
-      "preco": 25.9,
-      "precoDe": 55.11,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:53:30.181Z"
-    },
-    {
-      "id": "31314",
-      "loja": "Shopee",
-      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
-      "link": "https://s.shopee.com.br/qkIVV7xAe",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
-      "preco": 29.9,
-      "precoDe": 34.77,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:49:53.275Z"
     }
   ]
 }
