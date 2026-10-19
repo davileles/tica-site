@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-19T20:48:26.344Z",
+  "atualizadoEm": "2026-10-19T21:18:26.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33117",
+      "loja": "Shopee",
+      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
+      "link": "https://s.shopee.com.br/9pfDi0qSTq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
+      "preco": 10.99,
+      "precoDe": 45.79,
+      "desconto": 76,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T21:14:55.283Z"
+    },
+    {
+      "id": "33116",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
+      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/216-B9+UpdL._SL400_.jpg",
+      "preco": 161.3,
+      "precoDe": 245,
+      "desconto": 23,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-19T21:09:52.486Z"
+    },
+    {
+      "id": "33112",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore Bosch 1500W GDC 150 Titan 220V 06015486E0",
+      "link": "https://meli.la/32C4UWs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930158-MLA95712302522_102025-F.jpg",
+      "preco": 337.59000000000003,
+      "precoDe": 589.9,
+      "desconto": 28,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T21:05:36.136Z"
+    },
+    {
+      "id": "33110",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Pneus 175/70R13 Goodyear Kelly Edge Touring 2 82T Aro 13",
+      "link": "https://meli.la/1HVsn6U",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761067-MLA117263183118_102026-F.jpg",
+      "preco": 547.86,
+      "precoDe": 834.95,
+      "desconto": 27,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T21:04:31.012Z"
+    },
+    {
+      "id": "33109",
+      "loja": "Amazon",
+      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
+      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
+      "preco": 100.26,
+      "precoDe": 141.84,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T21:00:59.247Z"
+    },
+    {
+      "id": "33108",
+      "loja": "Amazon",
+      "titulo": "Nutella & Go - Creme de Avelãs & Palitos de Biscoito - Importado da Alemanha",
+      "link": "https://www.amazon.com.br/dp/B07Y3TJH7N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DA+aMcAvL._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 33.86,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T20:59:37.903Z"
+    },
+    {
+      "id": "33107",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Inverter 12000 Btus Hisense Frio 220v",
+      "link": "https://meli.la/2UoztWq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830989-MLB118487323597_092026-O.webp",
+      "preco": 1729,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELHORDOML",
+      "enviadoEm": "2026-10-19T20:56:10.726Z"
+    },
+    {
+      "id": "33105",
+      "loja": "Shopee",
+      "titulo": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "link": "https://s.shopee.com.br/113pAEabWb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b_tn",
+      "preco": 78,
+      "precoDe": 159.18,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T20:52:28.782Z"
+    },
     {
       "id": "33100",
       "loja": "Mercado Livre",
@@ -769,18 +865,6 @@
       "desconto": 50,
       "cupom": "OFFHOJENOML",
       "enviadoEm": "2026-10-19T16:54:04.311Z"
-    },
-    {
-      "id": "32903",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Inverter 12000 Btus Hisense Frio 220v",
-      "link": "https://meli.la/2UoztWq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830989-MLB118487323597_092026-O.webp",
-      "preco": 1547,
-      "precoDe": 1879,
-      "desconto": 4,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-10-19T16:50:22.790Z"
     },
     {
       "id": "32902",
@@ -5917,90 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-15T19:31:18.316Z"
-    },
-    {
-      "id": "31298",
-      "loja": "Mercado Livre",
-      "titulo": "Colágeno Hidrolisado 150g Growth Supplements Laranja",
-      "link": "https://meli.la/2hTtbMv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804717-MLA113256755035_062026-F.jpg",
-      "preco": 39.84,
-      "precoDe": 69.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:30:21.518Z"
-    },
-    {
-      "id": "31296",
-      "loja": "Mercado Livre",
-      "titulo": "Pipoqueira Elétrica Vermelha Sem Óleo 1200W Compacta",
-      "link": "https://meli.la/2JMBJqH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610894-MLA99505987676_112025-F.jpg",
-      "preco": 66.82,
-      "precoDe": 124.15,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:23:15.724Z"
-    },
-    {
-      "id": "31293",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 5 Calcinha Plus Size G1 G2 Pala Dupla Zero Culote",
-      "link": "https://meli.la/258nJQQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_762989-MLB97314338943_112025-O.webp",
-      "preco": 31.490000000000002,
-      "precoDe": 59.99,
-      "desconto": 25,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-15T19:22:15.530Z"
-    },
-    {
-      "id": "31291",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-      "link": "https://s.shopee.com.br/8fT9oBCYSM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
-      "preco": 73.4,
-      "precoDe": 100.55,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:19:05.940Z"
-    },
-    {
-      "id": "31289",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Moisés Portátil Compacto Com Mosquiteiro Retrátil.",
-      "link": "https://meli.la/1UYoxGz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997082-MLB110097349138_042026-O.webp",
-      "preco": 400.15,
-      "precoDe": 1199,
-      "desconto": 52,
-      "cupom": "ECONOMIZEI",
-      "enviadoEm": "2026-10-15T19:15:33.713Z"
-    },
-    {
-      "id": "31286",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank Basike 30.000mAh Portátil, Carregamento Rápido 22.5W, com Cabos Embutidos e Display LED para iPhone e Samsung",
-      "link": "https://meli.la/1Md6igd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612792-MLA109103758117_032026-F.jpg",
-      "preco": 129,
-      "precoDe": 271,
-      "desconto": 32,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T19:11:45.171Z"
-    },
-    {
-      "id": "31236",
-      "loja": "Shopee",
-      "titulo": "Manta Bebê Personalizada com o Nome do seu Bebê, (sem bolinhas) 70x80 cm.",
-      "link": "https://s.shopee.com.br/2VsWRs2ri1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9x8lcfa8lyxda_tn",
-      "preco": 34.8,
-      "precoDe": 45.79,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:08:02.858Z"
     }
   ]
 }
