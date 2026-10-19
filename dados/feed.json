@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-19T20:18:26.345Z",
+  "atualizadoEm": "2026-10-19T20:48:26.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33100",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira A Bateria Vonder Pfv120 Cor Amarelo Frequência 50hz 60hz Bivolt",
+      "link": "https://meli.la/1XooTCK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619873-MLA99908787173_112025-F.jpg",
+      "preco": 116.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T20:40:39.063Z"
+    },
+    {
+      "id": "33099",
+      "loja": "Mercado Livre",
+      "titulo": "Cooktop 5 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE5GR) Bivolt",
+      "link": "https://meli.la/2Rck97d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720909-MLA99966292541_112025-F.jpg",
+      "preco": 490.5,
+      "precoDe": 629,
+      "desconto": 13,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T20:39:30.495Z"
+    },
+    {
+      "id": "33098",
+      "loja": "Mercado Livre",
+      "titulo": "League of Legends R$100 (Digital)",
+      "link": "https://meli.la/2htaTyF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905426-MLA115097791320_082026-F.jpg",
+      "preco": 80,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTAS",
+      "enviadoEm": "2026-10-19T20:36:27.678Z"
+    },
+    {
+      "id": "33095",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina de Lavar 15kg Electrolux Premium Care com Cesto Inox, Jet&Clean e Time Control LEC15",
+      "link": "https://meli.la/1mVgBaX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904132-MLA99986926583_112025-F.jpg",
+      "preco": 1749,
+      "precoDe": 2699,
+      "desconto": 26,
+      "cupom": "MELHORDOML",
+      "enviadoEm": "2026-10-19T20:33:19.892Z"
+    },
+    {
+      "id": "33090",
+      "loja": "Shopee",
+      "titulo": "Rodo de Silicone Cabo 100CM/140CM Para Limpeza de Piso Vidros Com Gancho Secos e Molhados Uso Duplo Vassoura Mágica",
+      "link": "https://s.shopee.com.br/70L2Gr3UFq",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h8-meyidaptp5agca_tn",
+      "preco": 19.9,
+      "precoDe": 42.34,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T20:29:44.912Z"
+    },
+    {
+      "id": "33087",
+      "loja": "Mercado Livre",
+      "titulo": "Valorant R$100 (Digital)",
+      "link": "https://meli.la/1uqUMvZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808429-MLA116490222849_082026-F.jpg",
+      "preco": 70,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "40OFERTAS1910",
+      "enviadoEm": "2026-10-19T20:26:08.508Z"
+    },
+    {
+      "id": "33085",
+      "loja": "Mercado Livre",
+      "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
+      "link": "https://meli.la/2pG5on3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689088-MLA99988196355_112025-F.jpg",
+      "preco": 48.900000000000006,
+      "precoDe": 129.9,
+      "desconto": 39,
+      "cupom": "40OFERTAS1910",
+      "enviadoEm": "2026-10-19T20:22:55.639Z"
+    },
+    {
+      "id": "33084",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/1U1Yvd6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
+      "preco": 44.940000000000005,
+      "precoDe": 239.9,
+      "desconto": 69,
+      "cupom": "40OFERTAS1910",
+      "enviadoEm": "2026-10-19T20:19:27.747Z"
+    },
     {
       "id": "33076",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-15T19:08:02.858Z"
-    },
-    {
-      "id": "31233",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete rompedor GBH 185-LI 18V Brushless 2 baterias, em maleta",
-      "link": "https://www.amazon.com.br/dp/B0CJH5MM1T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HcqHLvxbL._SL400_.jpg",
-      "preco": 1954.9099999999999,
-      "precoDe": 2461.9,
-      "desconto": 7,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T19:04:42.751Z"
-    },
-    {
-      "id": "31232",
-      "loja": "Amazon",
-      "titulo": "Enxaguante Bucal Listerine Cool Mint, Sem Álcool, 1,5L",
-      "link": "https://www.amazon.com.br/dp/B07FRKJRRP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HehWI1xsL._SL400_.jpg",
-      "preco": 31.38,
-      "precoDe": 51.99,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:03:27.183Z"
-    },
-    {
-      "id": "31231",
-      "loja": "Shopee",
-      "titulo": "Vestido Alfaiataria Curto Festa Laço no Busto Tecido Premium Casual Elegante Fashion",
-      "link": "https://s.shopee.com.br/9APQNnPZ8c",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259l-mg4elfjkv18t56_tn",
-      "preco": 79.9,
-      "precoDe": 109.45,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:59:48.881Z"
-    },
-    {
-      "id": "31229",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Sacos Rede Reforçado Para Maquina De Lavar Roupas Íntimas Lingerie Sutiã Bebê Malha Reutilizável Resistente Organizador De Roupa Protege Tecidos Evita Desgaste E Deformações",
-      "link": "https://meli.la/2NeDzDn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772569-MLA112999652558_072026-F.jpg",
-      "preco": 24.99,
-      "precoDe": 78.9,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:56:10.383Z"
-    },
-    {
-      "id": "31228",
-      "loja": "Shopee",
-      "titulo": "KIT 3 CONJUNTO INFANTIL 6 PEÇAS CAMISETA REGATA E SHORT PERSONAGENS E CORES SORTIDOS ALGODÃO VERÃO",
-      "link": "https://s.shopee.com.br/9V2Gm5Wa9v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg9uzvt6ff2f41_tn",
-      "preco": 61.99,
-      "precoDe": 99.98,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:55:09.263Z"
-    },
-    {
-      "id": "31227",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
-      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
-      "preco": 18.14,
-      "precoDe": 36.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:51:28.933Z"
-    },
-    {
-      "id": "31224",
-      "loja": "Shopee",
-      "titulo": "Kit Funcional com Jump Profissional, Caneleiras 3kg, Kettlebell 4kg, Step EVA, Colchonete e Halteres 3kg para Casa",
-      "link": "https://s.shopee.com.br/qkIRgFh7j",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mu3m0ngwh53509_tn",
-      "preco": 577.26,
-      "precoDe": 836.61,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T18:50:25.711Z"
-    },
-    {
-      "id": "31223",
-      "loja": "Mercado Livre",
-      "titulo": "Necessaire Sem Gênero Washbag Kit Necessaires Rosa Liso",
-      "link": "https://meli.la/18nUdzP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617429-MLA100079700325_122025-F.jpg",
-      "preco": 17.65,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T18:47:07.712Z"
     }
   ]
 }
