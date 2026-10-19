@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T12:18:27.402Z",
+  "atualizadoEm": "2026-10-19T12:48:27.539Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1491,6 +1491,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFPRACONSTRUIR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-20T12:17:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-20T12:17:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1551,6 +1575,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SEMPRETEMCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1584,6 +1620,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-10-20T12:01:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFHOJENOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
