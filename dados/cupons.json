@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T14:48:28.013Z",
+  "atualizadoEm": "2026-10-19T15:18:28.167Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -312,18 +312,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "ROBONOPRECINHO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-19T15:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1575,15 +1563,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROSEJOGOS",
+      "codigo": "TCMPD19",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 85,
+      "observacao": null,
+      "validadeAte": "2026-10-20T15:01:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 199,
+      "minimo": 89,
       "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-19T15:00:30.926Z",
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1596,18 +1596,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OBRAS1810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido para categoria Obras e Ferramentas em selecionados",
-      "validadeAte": "2026-10-19T15:01:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1644,6 +1632,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-20T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL1910",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-20T15:01:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2280,6 +2280,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-19T17:52:56.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "H4LL0W33N",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-20T15:00:18.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
