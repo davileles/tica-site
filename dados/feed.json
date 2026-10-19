@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-19T11:18:25.914Z",
+  "atualizadoEm": "2026-10-19T11:48:25.914Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32707",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 78.33,
+      "precoDe": 126.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:38:30.546Z"
+    },
+    {
+      "id": "32702",
+      "loja": "Shopee",
+      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
+      "link": "https://s.shopee.com.br/50ZxIuDNEq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
+      "preco": 59.97,
+      "precoDe": 85.67,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T11:29:12.950Z"
+    },
     {
       "id": "32688",
       "loja": "Amazon",
@@ -1345,18 +1369,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-17T19:38:19.562Z"
-    },
-    {
-      "id": "32076",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": 78.33,
-      "precoDe": 126.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T19:30:20.743Z"
     },
     {
       "id": "32075",
@@ -5989,18 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-15T11:48:35.751Z"
-    },
-    {
-      "id": "30920",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
-      "preco": 29.73,
-      "precoDe": 39,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T11:31:45.059Z"
     }
   ]
 }
