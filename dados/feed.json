@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-19T12:02:01.712Z",
+  "atualizadoEm": "2026-10-19T12:18:25.927Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "32742",
+      "loja": "Shopee",
+      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
+      "link": "https://s.shopee.com.br/8AWz7qowro",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
+      "preco": 19.88,
+      "precoDe": 26.86,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:15:01.629Z"
+    },
+    {
+      "id": "32732",
+      "loja": "Amazon",
+      "titulo": "Camiseta Puma Essentials No. 1 Logo Masculina",
+      "link": "https://www.amazon.com.br/dp/B0D2RKV4JL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/212KbQBpfhL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 109.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:11:20.600Z"
+    },
+    {
+      "id": "32730",
+      "loja": "Mercado Livre",
+      "titulo": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo Ultrafino 8,5cm Esvaziamento Limpeza e Secagem Automática Mapeamento Laser Multinível Escova Antiembaraç",
+      "link": "https://meli.la/1re1qQo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650710-MLA107154824523_022026-F.jpg",
+      "preco": 2649,
+      "precoDe": 5999,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T12:04:20.685Z"
+    },
     {
       "id": "32713",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 32,
       "cupom": "APROVEITA",
       "enviadoEm": "2026-10-15T12:28:30.328Z"
-    },
-    {
-      "id": "30960",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Escritório Presidente Ergonômica NR17 Marqs Home Arcanis Preta com Apoio Lombar e Encosto Mesh Premium",
-      "link": "https://meli.la/1v179YS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892750-MLA110183247129_042026-F.jpg",
-      "preco": 273.25,
-      "precoDe": 799.9,
-      "desconto": 51,
-      "cupom": "MAISDESCONTO",
-      "enviadoEm": "2026-10-15T12:21:35.564Z"
-    },
-    {
-      "id": "30959",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Hidratante Corporal e facial para Pele Seca a Extra Seca Sem Perfume 454g CeraVe",
-      "link": "https://meli.la/1PXqSRB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806507-MLA92874967013_092025-F.jpg",
-      "preco": 160.19,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VALECUPOM",
-      "enviadoEm": "2026-10-15T12:17:57.826Z"
-    },
-    {
-      "id": "30958",
-      "loja": "Shopee",
-      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
-      "link": "https://s.shopee.com.br/50ZqyE1F5a",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
-      "preco": 17.8,
-      "precoDe": 24.72,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T12:14:44.168Z"
     }
   ]
 }
