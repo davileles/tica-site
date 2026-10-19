@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T13:18:27.916Z",
+  "atualizadoEm": "2026-10-19T13:47:28.846Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -927,6 +927,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMBINACUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-10-20T13:35:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FESTIVALDECUPONS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-10-20T13:35:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-10-20T13:35:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1416,6 +1452,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BOASOFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-10-20T13:35:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
