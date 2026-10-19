@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-19T21:18:26.344Z",
+  "atualizadoEm": "2026-10-19T21:48:26.359Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33149",
+      "loja": "Mercado Livre",
+      "titulo": "Lava e Seca Hisense 3S 12kg / 8kg Wi-Fi, 4 em 1, Inverter, 16 programas, Ciclo Rápido, Economia de Água-WD3S1243",
+      "link": "https://meli.la/1pmBPcx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690162-MLA111136098139_052026-F.jpg",
+      "preco": 2543,
+      "precoDe": 3499,
+      "desconto": 13,
+      "cupom": "ECONOMIA",
+      "enviadoEm": "2026-10-19T21:45:44.067Z"
+    },
+    {
+      "id": "33144",
+      "loja": "Mercado Livre",
+      "titulo": "Lava e Seca Hisense 1i 11kg/7kg - 4 em 1, Inverter, Ciclo Rápido, Economia de Água - WD1i1141",
+      "link": "https://meli.la/1z9rGtH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964698-MLA111156681223_052026-F.jpg",
+      "preco": 2372,
+      "precoDe": 3199,
+      "desconto": 10,
+      "cupom": "ECONOMIA",
+      "enviadoEm": "2026-10-19T21:42:08.489Z"
+    },
+    {
+      "id": "33133",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+      "link": "https://s.shopee.com.br/8V9q96j9Zh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mic25g35m1vl17_tn",
+      "preco": 69.98,
+      "precoDe": 148.89,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-19T21:38:43.360Z"
+    },
+    {
+      "id": "33129",
+      "loja": "Amazon",
+      "titulo": "Whisky Dewars 15 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B07GQ3FD6C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QZyTloI8L._SL400_.jpg",
+      "preco": 163.41,
+      "precoDe": 263.9,
+      "desconto": 27,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-19T21:34:52.169Z"
+    },
+    {
+      "id": "33125",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore Profissional Vonder Smv1300s 1300w Tip/maquita",
+      "link": "https://meli.la/15ErmYD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_733700-MLB91532938232_092025-O.webp",
+      "preco": 239.2,
+      "precoDe": 397.9,
+      "desconto": 25,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-10-19T21:28:07.618Z"
+    },
+    {
+      "id": "33123",
+      "loja": "Mercado Livre",
+      "titulo": "Purificador De Água Electrolux Gelada/fria/natural Pe11x Bivolt Prateado",
+      "link": "https://meli.la/1mV9nq4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827641-MLU76394011194_052024-F.jpg",
+      "preco": 494.90999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFHOJENOML",
+      "enviadoEm": "2026-10-19T21:27:06.535Z"
+    },
     {
       "id": "33117",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-10-15T19:49:53.275Z"
-    },
-    {
-      "id": "31313",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml",
-      "link": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31698Pax84L._SL400_.jpg",
-      "preco": 44.99,
-      "precoDe": 48.99,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:46:17.972Z"
-    },
-    {
-      "id": "31312",
-      "loja": "Amazon",
-      "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
-      "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411vouJDA3L._SL400_.jpg",
-      "preco": 26.99,
-      "precoDe": 35.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:42:56.417Z"
-    },
-    {
-      "id": "31307",
-      "loja": "Mercado Livre",
-      "titulo": "Manta Sofá Grande 100% Algodão 2,20x2,40 Decorativa Luxo",
-      "link": "https://meli.la/2BRq1j2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763832-MLB118587508859_102026-O.webp",
-      "preco": 94.98999999999998,
-      "precoDe": 219.99,
-      "desconto": 38,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T19:39:10.755Z"
-    },
-    {
-      "id": "31306",
-      "loja": "Shopee",
-      "titulo": "Lembrancinha de Batizado para Padrinhos Vela Aromática + Saco de organza e Divino Espírito Santo",
-      "link": "https://s.shopee.com.br/4qGRGFYTQB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6feug0eqals0f_tn",
-      "preco": 31.98,
-      "precoDe": 45.69,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:35:45.807Z"
-    },
-    {
-      "id": "31301",
-      "loja": "Amazon",
-      "titulo": "Bosch Multicortadora Gop 30-28 300W 220V Com Maleta E 3 Lixas",
-      "link": "https://www.amazon.com.br/dp/B0786RN7X6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IcMJj+doL._SL400_.jpg",
-      "preco": 1775.65,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T19:32:22.483Z"
-    },
-    {
-      "id": "31300",
-      "loja": "Amazon",
-      "titulo": "Energético Monster Mango Loco, 473ml, Pack com 6 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BYTLPHBC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61zJofTCTnL._SL400_.jpg",
-      "preco": 60.79,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T19:31:18.316Z"
     }
   ]
 }
