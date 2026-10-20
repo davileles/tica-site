@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T12:03:36.489Z",
+  "atualizadoEm": "2026-10-20T12:18:28.173Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1611,6 +1611,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TCMPD19",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1667,7 +1679,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-21T12:00:00.000Z",
+      "validadeAte": "2026-10-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
