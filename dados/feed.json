@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-20T22:18:26.417Z",
+  "atualizadoEm": "2026-10-20T22:48:26.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33674",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
+      "link": "https://s.shopee.com.br/3g4c3Qv8OT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
+      "preco": 19.9,
+      "precoDe": 49.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T22:40:30.049Z"
+    },
     {
       "id": "33664",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-10-16T19:17:43.284Z"
-    },
-    {
-      "id": "31802",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
-      "link": "https://www.amazon.com.br/dp/B09LRDGH1Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31roRnJPlDL._SL400_.jpg",
-      "preco": 199.91,
-      "precoDe": 367,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T19:16:48.713Z"
     }
   ]
 }
