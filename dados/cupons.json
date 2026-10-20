@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T20:10:54.016Z",
+  "atualizadoEm": "2026-10-20T21:18:28.231Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -648,6 +648,18 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-21T03:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "40SITETODO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-21T21:00:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1359,6 +1371,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-10-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SUPERCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1620,18 +1644,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
