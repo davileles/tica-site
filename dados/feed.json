@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-20T22:48:26.418Z",
+  "atualizadoEm": "2026-10-20T23:13:07.402Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33695",
+      "loja": "Shopee",
+      "titulo": "Termômetro De Testa Infravermelha Digital",
+      "link": "https://s.shopee.com.br/9pfFQKPClg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
+      "preco": 24.88,
+      "precoDe": 118.48,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T23:03:07.399Z"
+    },
+    {
+      "id": "33693",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 79.58,
+      "precoDe": 106.18,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T22:59:11.207Z"
+    },
+    {
+      "id": "33691",
+      "loja": "Amazon",
+      "titulo": "Cachaça Sagatiba Pura 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8H5SY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UzMMVTWnL._SL400_.jpg",
+      "preco": 24,
+      "precoDe": 25.28,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T22:57:11.558Z"
+    },
     {
       "id": "33674",
       "loja": "Shopee",
@@ -1693,18 +1729,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-19T23:22:01.071Z"
-    },
-    {
-      "id": "33197",
-      "loja": "Amazon",
-      "titulo": "Cachaça Sagatiba Pura 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8H5SY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UzMMVTWnL._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T22:52:52.886Z"
     },
     {
       "id": "33195",
@@ -5977,30 +6001,6 @@
       "desconto": 31,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-10-16T19:34:51.125Z"
-    },
-    {
-      "id": "31806",
-      "loja": "Shopee",
-      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
-      "link": "https://s.shopee.com.br/1qcrHVVUfZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
-      "preco": 300.21,
-      "precoDe": 698.16,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T19:30:57.965Z"
-    },
-    {
-      "id": "31803",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff 1750ml",
-      "link": "https://www.amazon.com.br/dp/B005IZZDAY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vrzk3W5NL._SL400_.jpg",
-      "preco": 43.99,
-      "precoDe": 63.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T19:17:43.284Z"
     }
   ]
 }
