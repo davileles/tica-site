@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-20T20:48:26.417Z",
+  "atualizadoEm": "2026-10-20T21:18:26.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33619",
+      "loja": "Amazon",
+      "titulo": "Tenis Fila Rise Up Masculino, Black/Graphite/Golden, 42",
+      "link": "https://www.amazon.com.br/dp/B0H4HXZHN5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kO4PjI1aL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 199.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T21:15:30.258Z"
+    },
+    {
+      "id": "33617",
+      "loja": "Amazon",
+      "titulo": "Camiseta Tech Insider Feminina, Nori Green, Tamanho PP",
+      "link": "https://www.amazon.com.br/dp/B0DZ33VYFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3158SkvAmYL._SL400_.jpg",
+      "preco": 57.13,
+      "precoDe": 159,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T21:11:51.360Z"
+    },
+    {
+      "id": "33614",
+      "loja": "Amazon",
+      "titulo": "G-Tech Termômetro Digital Clínico Branco. 1 LR41 x 1,5V baterias necessárias (inclusas)",
+      "link": "https://www.amazon.com.br/dp/B07M6SD7KQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21ERbocjy4L._SL400_.jpg",
+      "preco": 13.99,
+      "precoDe": 24.99,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T21:06:34.752Z"
+    },
+    {
+      "id": "33612",
+      "loja": "Shopee",
+      "titulo": "Protetor De Porta Aluminio Vedação Anti-Inchaço Veda Porta Salva Porta",
+      "link": "https://s.shopee.com.br/2gC4kzo1ug",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5xvdicw783e_tn",
+      "preco": 25.42,
+      "precoDe": 29.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T21:05:43.118Z"
+    },
+    {
+      "id": "33609",
+      "loja": "Amazon",
+      "titulo": "Risoteira, New Premiere, Ø24cm, 2000ml, Chocolate",
+      "link": "https://www.amazon.com.br/dp/B0CLSWKLPB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UQosa5cjL._SL400_.jpg",
+      "preco": 238.81,
+      "precoDe": 632,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T21:02:27.666Z"
+    },
+    {
+      "id": "33607",
+      "loja": "Shopee",
+      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
+      "link": "https://s.shopee.com.br/3qO28dnRv9",
+      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
+      "preco": 267.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T20:57:07.567Z"
+    },
+    {
+      "id": "33605",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Calças Jogger Tactel Com Elastano Impulse",
+      "link": "https://meli.la/1ep5uRz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664658-MLB96932532195_112025-O.webp",
+      "preco": 63.99,
+      "precoDe": 112.71,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T20:52:37.278Z"
+    },
     {
       "id": "33603",
       "loja": "Shopee",
@@ -5917,90 +6001,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-10-16T18:12:50.150Z"
-    },
-    {
-      "id": "31757",
-      "loja": "Mercado Livre",
-      "titulo": "Mangueira Jardim 20m Metros Com Esguicho Trançada Reforçada Flexível 7/16 Anti Dobra Irrigação Quintal Poço Lavagem Durável Marqs Home",
-      "link": "https://meli.la/1y3deZ9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631192-MLA99628151612_122025-F.jpg",
-      "preco": 34.9,
-      "precoDe": 49.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T18:10:45.885Z"
-    },
-    {
-      "id": "31752",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Arabe Delilah Blanc Edp 100ML Feminino Original Com NF",
-      "link": "https://meli.la/1KBEJrP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883572-MLA116014006386_092026-F.jpg",
-      "preco": 159.85999999999999,
-      "precoDe": 264.9,
-      "desconto": 29,
-      "cupom": "BEMESTAR1610",
-      "enviadoEm": "2026-10-16T17:55:27.583Z"
-    },
-    {
-      "id": "31750",
-      "loja": "Shopee",
-      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
-      "link": "https://s.shopee.com.br/5fpZjWuhOP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
-      "preco": 10.8,
-      "precoDe": 27,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:48:44.832Z"
-    },
-    {
-      "id": "31748",
-      "loja": "Amazon",
-      "titulo": "Gel de Limpeza Facial Neutrogena Deep Clean, Toranja, 60g",
-      "link": "https://www.amazon.com.br/dp/B0B8PXK3WR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jB6sIqQ-L._SL400_.jpg",
-      "preco": 17.9,
-      "precoDe": 25.29,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:45:07.458Z"
-    },
-    {
-      "id": "31747",
-      "loja": "Mercado Livre",
-      "titulo": "6 Pares Meias Puma Cano Médio Alto Atoalhada Academia Sport",
-      "link": "https://meli.la/2Diknp7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_816662-MLB117043723520_102026-O.webp",
-      "preco": 49.4,
-      "precoDe": 149.99,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:39:18.686Z"
-    },
-    {
-      "id": "31744",
-      "loja": "Amazon",
-      "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-      "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DtpwlWPkL._SL400_.jpg",
-      "preco": 46.19,
-      "precoDe": 91.5,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:34:40.256Z"
-    },
-    {
-      "id": "31742",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Gola Polo Masculina Pique Premium Algodão Confortável",
-      "link": "https://meli.la/166YUzS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804138-MLB113502958558_072026-O.webp",
-      "preco": 33.9,
-      "precoDe": 54.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:29:44.240Z"
     }
   ]
 }
