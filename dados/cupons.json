@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T14:48:28.267Z",
+  "atualizadoEm": "2026-10-20T15:17:25.737Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1587,18 +1587,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TCMPD19",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 85,
-      "observacao": null,
-      "validadeAte": "2026-10-20T15:01:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ESTOQUEMELI2110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1608,6 +1596,18 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-21T03:00:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BOOOO15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-10-21T15:04:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1623,18 +1623,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1910",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-20T15:01:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFSOHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1644,6 +1632,18 @@
       "limite": 200,
       "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
       "validadeAte": "2026-10-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2110",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido para entregas Full. Desconto de 10% em compras acima de R$ 89, com limite máximo de desconto de R$ 20",
+      "validadeAte": "2026-10-21T15:04:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2439,15 +2439,15 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "H4LL0W33N",
+      "codigo": "4F1L14D0SH0",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
+      "valor": 5,
+      "minimo": 25,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-20T15:00:18.000Z",
+      "validadeAte": "2026-10-21T15:00:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
