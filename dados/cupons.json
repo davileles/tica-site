@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T19:18:28.506Z",
+  "atualizadoEm": "2026-10-20T19:48:28.534Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -291,6 +291,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
+      "codigo": "BORADEPLAY",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -435,6 +447,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "KAMVAS15",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T14:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "COOLERS12OFF",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T17:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "POWERUP12",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "PLAYNINJA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -531,6 +579,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "DESCONTIN",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -580,6 +640,18 @@
     },
     {
       "codigo": "CPU&MB",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-20T20:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CPUEMB",
       "loja": "Kabum",
       "tipo": "pct",
       "valor": 5,
