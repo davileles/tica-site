@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-20T23:13:07.402Z",
+  "atualizadoEm": "2026-10-20T23:47:45.717Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33699",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label, 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 73.68,
+      "precoDe": 115.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T23:37:45.713Z"
+    },
     {
       "id": "33695",
       "loja": "Shopee",
@@ -4753,18 +4765,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-10-17T18:11:25.262Z"
-    },
-    {
-      "id": "32059",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 73.68,
-      "precoDe": 115.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T18:10:16.558Z"
     },
     {
       "id": "32058",
