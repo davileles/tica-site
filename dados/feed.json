@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-20T12:48:26.403Z",
+  "atualizadoEm": "2026-10-20T13:18:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33348",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 33.230000000000004,
+      "precoDe": 41.52,
+      "desconto": 6,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-20T13:10:22.505Z"
+    },
+    {
+      "id": "33345",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 400ml",
+      "link": "https://www.amazon.com.br/dp/B08JQRQYCL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yetZwSg0L._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 34.17,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:06:33.561Z"
+    },
+    {
+      "id": "33334",
+      "loja": "Shopee",
+      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
+      "link": "https://s.shopee.com.br/8pmhYVxkjS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
+      "preco": 33.96,
+      "precoDe": 109.55,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:01:51.162Z"
+    },
+    {
+      "id": "33333",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/6AlwNOHxaz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 81.99,
+      "precoDe": 136.65,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:58:13.335Z"
+    },
+    {
+      "id": "33332",
+      "loja": "Mercado Livre",
+      "titulo": "Farol Milha Auxiliar Honda Crv 2010 2011 Milha",
+      "link": "https://meli.la/248keFo",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639033-MLB91546793914_092025-O.webp",
+      "preco": 145.10999999999999,
+      "precoDe": 179.15,
+      "desconto": 10,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T12:54:31.685Z"
+    },
+    {
+      "id": "33327",
+      "loja": "Mercado Livre",
+      "titulo": "Amaciante Ypê Tradicional Aconchego Ultra 5L",
+      "link": "https://meli.la/287bFXY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863705-MLA99450783706_112025-F.jpg",
+      "preco": 19.99,
+      "precoDe": 30.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:50:39.995Z"
+    },
     {
       "id": "33321",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": null,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-15T22:45:00.132Z"
-    },
-    {
-      "id": "31404",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/Lo2749a5t",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 25.99,
-      "precoDe": 46.41,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T22:43:51.461Z"
-    },
-    {
-      "id": "31403",
-      "loja": "Mercado Livre",
-      "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
-      "link": "https://meli.la/1DNb6go",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-F.jpg",
-      "preco": 492.51,
-      "precoDe": 799,
-      "desconto": 32,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T22:38:53.216Z"
-    },
-    {
-      "id": "31399",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 505.03,
-      "precoDe": 1049,
-      "desconto": 47,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T22:34:28.217Z"
-    },
-    {
-      "id": "31398",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora 3D Bambu Lab A1 Mini cor cinza Sem AMS",
-      "link": "https://meli.la/29grHGq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809225-MLA116319959373_082026-F.jpg",
-      "preco": 1555.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T22:29:00.342Z"
-    },
-    {
-      "id": "31397",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos para Recém-Nascido Johnson's Baby, 192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Wj9GWRP7L._SL400_.jpg",
-      "preco": 53.09,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T22:25:27.149Z"
-    },
-    {
-      "id": "31396",
-      "loja": "Amazon",
-      "titulo": "Micro Retífica 4000 com 26 Acessórios 4000-N/26-220V Dremel",
-      "link": "https://www.amazon.com.br/dp/B076KNH6VK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315O+HYj0EL._SL400_.jpg",
-      "preco": 487.78000000000003,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T22:21:49.417Z"
     }
   ]
 }
