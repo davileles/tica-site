@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T02:18:26.933Z",
+  "atualizadoEm": "2026-10-20T03:18:26.792Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -399,18 +399,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "ENERGIA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-20T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "TV10OFF",
       "loja": "Kabum",
       "tipo": "pct",
@@ -495,18 +483,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELHORDOML",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 1699,
-      "maximo": null,
-      "limite": 250,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE150TODO",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -516,6 +492,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-20T12:01:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEALLSITE2010",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-21T03:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1515,42 +1503,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATEFULL1910",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-20T02:59:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFPRACONSTRUIR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1611,6 +1563,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESTOQUEMELI2110",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-21T03:00:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SEMPRETEMCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1632,30 +1596,6 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-10-20T12:01:31.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJENOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTANOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
