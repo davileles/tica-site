@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-20T13:18:26.403Z",
+  "atualizadoEm": "2026-10-20T13:43:06.715Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33364",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
+      "preco": 53.42,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-20T13:33:06.713Z"
+    },
+    {
+      "id": "33361",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+      "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u-fbQqHWL._SL400_.jpg",
+      "preco": 27.99,
+      "precoDe": 44.36,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:29:28.314Z"
+    },
+    {
+      "id": "33356",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
+      "link": "https://s.shopee.com.br/8AX0nWS0Fu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
+      "preco": 16.99,
+      "precoDe": 67.96,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:27:55.867Z"
+    },
+    {
+      "id": "33354",
+      "loja": "Mercado Livre",
+      "titulo": "Shorts Feminino Academia Modeladora Com Bolso Proteção Uv50",
+      "link": "https://meli.la/2DD1UEX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725931-MLB96146211263_102025-O.webp",
+      "preco": 26.72,
+      "precoDe": 32.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:24:28.989Z"
+    },
+    {
+      "id": "33353",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/Lo9St1x3y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 35.99,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:20:58.130Z"
+    },
     {
       "id": "33348",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-16T11:07:51.915Z"
-    },
-    {
-      "id": "31438",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/113jj5JaqZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
-      "preco": 39.9,
-      "precoDe": 56.2,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T11:04:12.687Z"
-    },
-    {
-      "id": "31437",
-      "loja": "Amazon",
-      "titulo": "Parafusadeira Furadeira Gsb18v-65 +bateria+carregador Bosch",
-      "link": "https://www.amazon.com.br/dp/B0GM1LHQJG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gnVwvWwvL._SL400_.jpg",
-      "preco": 928.96,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-16T11:00:21.332Z"
-    },
-    {
-      "id": "31408",
-      "loja": "Amazon",
-      "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml",
-      "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SaIZLexVL._SL400_.jpg",
-      "preco": 31.96,
-      "precoDe": 47.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T23:03:13.845Z"
-    },
-    {
-      "id": "31406",
-      "loja": "Amazon",
-      "titulo": "Don Julio Tequila Blanco 750Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL1QE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Jyb1n0OkL._SL400_.jpg",
-      "preco": 263.13,
-      "precoDe": 318.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T22:48:44.153Z"
-    },
-    {
-      "id": "31405",
-      "loja": "Amazon",
-      "titulo": "MTX Alicate de Pressão 9\" (225 mm) Mordente Longo – Fixador Ajustável, Aço Resistência, Ideal para Soldagem e Montagem Profissional",
-      "link": "https://www.amazon.com.br/dp/B09N44QD5H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hqWdCWcEL._SL400_.jpg",
-      "preco": 24.46,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T22:45:00.132Z"
     }
   ]
 }
