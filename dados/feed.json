@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-20T15:32:36.075Z",
+  "atualizadoEm": "2026-10-20T15:48:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33432",
+      "loja": "Mercado Livre",
+      "titulo": "Liquidificador Turbo Power Mondial 550W L-99 WG",
+      "link": "https://meli.la/2jsrjmw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975041-MLA99992396177_112025-F.jpg",
+      "preco": 89.91,
+      "precoDe": 172.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T15:45:41.335Z"
+    },
+    {
+      "id": "33431",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/9pfEw0wfn4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 149.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T15:42:07.951Z"
+    },
+    {
+      "id": "33429",
+      "loja": "Mercado Livre",
+      "titulo": "Papel Higiênico Supreme Folha Tripla Com 12 Rolos Neve",
+      "link": "https://meli.la/2Qa5tsd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910746-MLA112425992294_062026-F.jpg",
+      "preco": 11.98,
+      "precoDe": 28.99,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T15:38:49.194Z"
+    },
+    {
+      "id": "33427",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Básicas Brasa Pica Pau Bordado Reserva",
+      "link": "https://meli.la/1gvqGWS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720203-MLB96590822753_102025-O.webp",
+      "preco": 265.05,
+      "precoDe": 387,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T15:33:45.074Z"
+    },
     {
       "id": "33423",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 38,
       "cupom": "DESCONTO",
       "enviadoEm": "2026-10-16T12:33:57.602Z"
-    },
-    {
-      "id": "31507",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido de Glicerina Johnson's Baby, Da Cabeça aos Pés, 400ml",
-      "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QjgyWVbVL._SL400_.jpg",
-      "preco": 28.7,
-      "precoDe": 40.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:30:30.091Z"
-    },
-    {
-      "id": "31498",
-      "loja": "Mercado Livre",
-      "titulo": "Protetor De Colchão Impermeável Malha Slim Queen Altenburg",
-      "link": "https://meli.la/23fSPxY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645385-MLA96098165339_102025-F.jpg",
-      "preco": 96.19,
-      "precoDe": 135,
-      "desconto": 5,
-      "cupom": "VEMDECUPOM",
-      "enviadoEm": "2026-10-16T12:23:25.198Z"
-    },
-    {
-      "id": "31495",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/AAHyihWimu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 350,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:20:00.959Z"
-    },
-    {
-      "id": "31494",
-      "loja": "Mercado Livre",
-      "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
-      "link": "https://meli.la/2VGx8eM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903017-MLA111914906979_052026-F.jpg",
-      "preco": 78.98,
-      "precoDe": 157.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:16:18.522Z"
     }
   ]
 }
