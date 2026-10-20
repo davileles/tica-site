@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T17:37:14.795Z",
+  "atualizadoEm": "2026-10-20T18:18:29.106Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -193,6 +193,18 @@
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "CUPOMDESCONTO70",
+      "loja": "Dufrio",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 1500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=23524&id=1207116"
     },
     {
       "codigo": "DUFRIO50",
@@ -504,18 +516,6 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-21T03:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETROS1910",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-20T18:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
