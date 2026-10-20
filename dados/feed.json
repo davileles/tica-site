@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-20T15:48:26.403Z",
+  "atualizadoEm": "2026-10-20T16:18:26.408Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33445",
+      "loja": "Amazon",
+      "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
+      "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31t0l+Bm-pL._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 93.02,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T16:12:49.212Z"
+    },
+    {
+      "id": "33443",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
+      "link": "https://s.shopee.com.br/80Damhn4kn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
+      "preco": 27.14,
+      "precoDe": 118,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T16:11:47.961Z"
+    },
+    {
+      "id": "33442",
+      "loja": "Shopee",
+      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "link": "https://s.shopee.com.br/1W072HNs2k",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
+      "preco": 458.99,
+      "precoDe": 596.09,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T16:04:43.231Z"
+    },
+    {
+      "id": "33441",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
+      "link": "https://meli.la/13KoUwK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
+      "preco": 899.91,
+      "precoDe": 1549.4,
+      "desconto": 35,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T16:00:27.706Z"
+    },
+    {
+      "id": "33439",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Portátil Full Hd 15.6 Notebook, Celular, Games C/ Cor Preto",
+      "link": "https://meli.la/28p83Sr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994228-MLA99486883402_112025-F.jpg",
+      "preco": 315.9,
+      "precoDe": 549.99,
+      "desconto": 36,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T15:56:36.301Z"
+    },
+    {
+      "id": "33434",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P Preto",
+      "link": "https://meli.la/1hffGey",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687589-MLA99536545292_122025-F.jpg",
+      "preco": 1051.2,
+      "precoDe": 1499,
+      "desconto": 22,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T15:52:54.014Z"
+    },
+    {
+      "id": "33433",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
+      "link": "https://s.shopee.com.br/9V2OXdroYH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
+      "preco": 10.5,
+      "precoDe": 14.79,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T15:49:07.107Z"
+    },
     {
       "id": "33432",
       "loja": "Mercado Livre",
@@ -5917,90 +6001,6 @@
       "desconto": 52,
       "cupom": "OFFHOJE",
       "enviadoEm": "2026-10-16T12:59:15.676Z"
-    },
-    {
-      "id": "31554",
-      "loja": "Mercado Livre",
-      "titulo": "Modelador MCT-JU-03 Triondas By Juliette Bilvolt Mondial",
-      "link": "https://meli.la/21fzQny",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640876-MLU76071739426_052024-F.jpg",
-      "preco": 150,
-      "precoDe": 300,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:56:06.732Z"
-    },
-    {
-      "id": "31541",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Pares Meia Antiderrapante Esportiva Futebol Treino Pro",
-      "link": "https://meli.la/1s86KLC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872325-MLB117657061208_102026-O.webp",
-      "preco": 27.72,
-      "precoDe": 42.5,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:52:58.060Z"
-    },
-    {
-      "id": "31540",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/7KxnNYVOmm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:49:37.829Z"
-    },
-    {
-      "id": "31537",
-      "loja": "Mercado Livre",
-      "titulo": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-      "link": "https://meli.la/2KpdXXn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788191-MLA105750115584_022026-F.jpg",
-      "preco": 314.1,
-      "precoDe": 473.1,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T12:45:04.617Z"
-    },
-    {
-      "id": "31532",
-      "loja": "Mercado Livre",
-      "titulo": "27\", Qhd, 220Hz Monitor Gamer Asus Rog Strix, 0.3ms, Fast Ips, Vrr, G-Sync, FreeSync, Hdr 400, Altura Ajustável Xg27acsr",
-      "link": "https://meli.la/2YWb53h",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691058-MLB118913433763_102026-O.webp",
-      "preco": 1377,
-      "precoDe": 1611,
-      "desconto": 5,
-      "cupom": "OFFHOJE",
-      "enviadoEm": "2026-10-16T12:41:38.817Z"
-    },
-    {
-      "id": "31514",
-      "loja": "Mercado Livre",
-      "titulo": "Guarda Chuva Grande Automatico Reforçado Contra Vento Origi. Cor Verde-matcha Desenho do tecido Liso",
-      "link": "https://meli.la/2ULj4wn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738614-MLA115149775084_082026-F.jpg",
-      "preco": 26.240000000000002,
-      "precoDe": 56.9,
-      "desconto": 39,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-16T12:37:12.318Z"
-    },
-    {
-      "id": "31512",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Ear Cuff Sem Fio Philips Bluetooth Preto Taq2000bk",
-      "link": "https://meli.la/2FKDsQx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_913703-MLA98303780032_112025-F.jpg",
-      "preco": 111.75,
-      "precoDe": 239,
-      "desconto": 38,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-16T12:33:57.602Z"
     }
   ]
 }
