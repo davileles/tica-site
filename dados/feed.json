@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-19T23:40:35.161Z",
+  "atualizadoEm": "2026-10-20T11:18:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33250",
+      "loja": "Amazon",
+      "titulo": "Banheira Burigotto Millenia, Mon Amour",
+      "link": "https://www.amazon.com.br/dp/B0964DYZH7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TsP9GaFgL._SL400_.jpg",
+      "preco": 249.91,
+      "precoDe": 625,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:16:42.190Z"
+    },
+    {
+      "id": "33246",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+      "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41srPqkVhsL._SL400_.jpg",
+      "preco": 33.9,
+      "precoDe": 43.59,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:15:41.007Z"
+    },
+    {
+      "id": "33241",
+      "loja": "Mercado Livre",
+      "titulo": "Body Splash Arabe C/4un 200ml Perfume Feminino de Luxo Alta Concentração",
+      "link": "https://meli.la/2yDS3Lh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_800232-MLA118786204179_102026-F.jpg",
+      "preco": 78.11,
+      "precoDe": 125.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:14:39.169Z"
+    },
+    {
+      "id": "33233",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Refil 900g - FTW",
+      "link": "https://s.shopee.com.br/AAI51Tdn6W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9xdvlpne2ue8_tn",
+      "preco": 57.19,
+      "precoDe": 64.99,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:11:01.291Z"
+    },
+    {
+      "id": "33234",
+      "loja": "Shopee",
+      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "link": "https://s.shopee.com.br/7fak2sn6OF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
+      "preco": 69.9,
+      "precoDe": 120.52,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:06:59.301Z"
+    },
+    {
+      "id": "33232",
+      "loja": "Amazon",
+      "titulo": "Tramontina Aparelho de Jantar Floralis em Porcelana Decorada 20 Peças",
+      "link": "https://www.amazon.com.br/dp/B0DJDR74JX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41H6yi8gw8L._SL400_.jpg",
+      "preco": 219.9,
+      "precoDe": 363.85,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T11:03:22.118Z"
+    },
     {
       "id": "33199",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-10-15T21:13:07.573Z"
-    },
-    {
-      "id": "31354",
-      "loja": "Amazon",
-      "titulo": "Bosch Trena Laser GLM 50-27 C, 50 metros, com Bluetooth",
-      "link": "https://www.amazon.com.br/dp/B08V5BV42G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MelrDGI8L._SL400_.jpg",
-      "preco": 975.0800000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T21:08:12.212Z"
-    },
-    {
-      "id": "31353",
-      "loja": "Amazon",
-      "titulo": "Shampoo Johnson's Baby Gotas de Brilho, 400ml",
-      "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319bF1G8bJL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 34.99,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:07:20.515Z"
-    },
-    {
-      "id": "31351",
-      "loja": "Shopee",
-      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
-      "link": "https://s.shopee.com.br/gQsOpLSjQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
-      "preco": 28.44,
-      "precoDe": 60.51,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:03:58.931Z"
-    },
-    {
-      "id": "31350",
-      "loja": "Mercado Livre",
-      "titulo": "Loção hidratante corporal Isdin Ureadin 10",
-      "link": "https://meli.la/1np9MpB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997526-MLU75980921413_042024-F.jpg",
-      "preco": 88.72,
-      "precoDe": 115.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T20:57:27.715Z"
-    },
-    {
-      "id": "31349",
-      "loja": "Mercado Livre",
-      "titulo": "Processador Elétrico Triturador Inox Para Carne Potente 2l",
-      "link": "https://meli.la/1SSsPqU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778972-MLB117056665250_102026-O.webp",
-      "preco": 55.28999999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T20:54:04.569Z"
-    },
-    {
-      "id": "31348",
-      "loja": "Amazon",
-      "titulo": "Bosch Serra Mármore Gdc 150 Titan 1500W 220V Com 1 Disco",
-      "link": "https://www.amazon.com.br/dp/B076ZQZ8F5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v6okjnrPL._SL400_.jpg",
-      "preco": 357.85,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T20:43:42.612Z"
     }
   ]
 }
