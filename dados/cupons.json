@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T19:48:28.534Z",
+  "atualizadoEm": "2026-10-20T20:10:54.016Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,30 +639,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CPU&MB",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-20T20:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CPUEMB",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-20T20:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "RESGATEALLSITE2010",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -672,18 +648,6 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-21T03:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "40OFF1910",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-20T20:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
