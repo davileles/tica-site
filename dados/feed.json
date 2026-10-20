@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-20T12:18:26.403Z",
+  "atualizadoEm": "2026-10-20T12:48:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33321",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Whiskey McLaren F1 Racing Edition 700mL 86 Proof",
+      "link": "https://www.amazon.com.br/dp/B0F2MMLDYK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31on6aFPMcL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 149.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:47:11.912Z"
+    },
+    {
+      "id": "33320",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Blusas Moletom Masculino Bolso Canguru Cordão Capuz",
+      "link": "https://meli.la/33sMvES",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745273-MLB110673891619_042026-O.webp",
+      "preco": 84.91,
+      "precoDe": 149,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:43:21.447Z"
+    },
+    {
+      "id": "33316",
+      "loja": "Mercado Livre",
+      "titulo": "Memória DDR5 16GB 5600MHz Macrovip para Desktop",
+      "link": "https://meli.la/15ZmX9B",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645785-MLA99552374720_122025-F.jpg",
+      "preco": 1420.2,
+      "precoDe": 1679,
+      "desconto": 6,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T12:39:39.774Z"
+    },
+    {
+      "id": "33306",
+      "loja": "Amazon",
+      "titulo": "Brilhante Sabão Líquido Perfume e Cuidado Extraordinário 3L",
+      "link": "https://www.amazon.com.br/dp/B0FNQ2TPDZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412u1ISvtCL._SL400_.jpg",
+      "preco": 24.99,
+      "precoDe": 34.99,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:36:05.829Z"
+    },
+    {
+      "id": "33304",
+      "loja": "Mercado Livre",
+      "titulo": "Luva Latex Mucambo Preta Pedreiro Reforçada - Pacote 10 Par",
+      "link": "https://meli.la/2rLKwYw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786680-MLB84764580781_052025-O.webp",
+      "preco": 110.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTASHJ",
+      "enviadoEm": "2026-10-20T12:32:39.481Z"
+    },
+    {
+      "id": "33303",
+      "loja": "Shopee",
+      "titulo": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
+      "link": "https://s.shopee.com.br/3VlBAG07o3",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf_tn",
+      "preco": 12.72,
+      "precoDe": 31.8,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:29:11.700Z"
+    },
+    {
+      "id": "33302",
+      "loja": "Mercado Livre",
+      "titulo": "Memória Ram Samsung 16gb, Ddr5, 5600mhz M321r2ga3pb0-cwm",
+      "link": "https://meli.la/2UtzDgj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761354-MLA115547319216_082026-F.jpg",
+      "preco": 1430.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T12:25:47.502Z"
+    },
+    {
+      "id": "33301",
+      "loja": "Mercado Livre",
+      "titulo": "LG UltraGear Monitor Gamer 24\" IPS 144Hz nativo, 1ms (MBR), Full HD (1920x1080), HDR10, NVIDIA G-SYNC, AMD FreeSync sRGB, Preto - 24G411B",
+      "link": "https://meli.la/24e2ofh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680960-MLA117417272051_092026-F.jpg",
+      "preco": 593.1,
+      "precoDe": 699,
+      "desconto": 6,
+      "cupom": "OFFSOHJ",
+      "enviadoEm": "2026-10-20T12:22:15.618Z"
+    },
     {
       "id": "33300",
       "loja": "Mercado Livre",
@@ -1105,18 +1201,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:59:37.749Z"
-    },
-    {
-      "id": "32973",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Whiskey McLaren F1 Racing Edition 700mL 86 Proof",
-      "link": "https://www.amazon.com.br/dp/B0F2MMLDYK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31on6aFPMcL._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 149.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:56:14.583Z"
     },
     {
       "id": "32970",
@@ -3939,18 +4023,6 @@
       "enviadoEm": "2026-10-17T12:42:31.143Z"
     },
     {
-      "id": "31957",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Ram Samsung 16gb, Ddr5, 5600mhz M321r2ga3pb0-cwm",
-      "link": "https://meli.la/2UtzDgj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761354-MLA115547319216_082026-F.jpg",
-      "preco": 1430.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFNOMELIHOJE",
-      "enviadoEm": "2026-10-17T12:39:02.495Z"
-    },
-    {
       "id": "31954",
       "loja": "Mercado Livre",
       "titulo": "Kit Nível A Laser Verde 12 Linhas Esquadro + Suporte + Tripé Recarregavel Profissional Prumo Autonivelante Nano Bateria",
@@ -5929,78 +6001,6 @@
       "desconto": null,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-15T22:21:49.417Z"
-    },
-    {
-      "id": "31395",
-      "loja": "Shopee",
-      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "link": "https://s.shopee.com.br/AAHxnakWiU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
-      "preco": 15.78,
-      "precoDe": 45.09,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T22:20:50.646Z"
-    },
-    {
-      "id": "31392",
-      "loja": "Mercado Livre",
-      "titulo": "Headset Gamer Sem Fio Havit Fuxi H3 7.1 Surround Preto",
-      "link": "https://meli.la/2EdcAoX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636567-MLB117647205630_102026-O.webp",
-      "preco": 161.99,
-      "precoDe": 199.99,
-      "desconto": 10,
-      "cupom": "APROVEITA",
-      "enviadoEm": "2026-10-15T22:02:35.226Z"
-    },
-    {
-      "id": "31391",
-      "loja": "Amazon",
-      "titulo": "IRWIN Caixa Organizadora Contractor com Rodas IWST33027 Capacidade de 35kgs",
-      "link": "https://www.amazon.com.br/dp/B07Z5KR9R7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416TvdFHO+L._SL400_.jpg",
-      "preco": 235.45,
-      "precoDe": 309,
-      "desconto": 10,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-15T21:59:18.774Z"
-    },
-    {
-      "id": "31390",
-      "loja": "Shopee",
-      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
-      "link": "https://s.shopee.com.br/6VOfP6KNel",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
-      "preco": 111.99,
-      "precoDe": 159.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:58:12.401Z"
-    },
-    {
-      "id": "31388",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/dp/B0DG32SNZ4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51sLzfmMUbL._SL400_.jpg",
-      "preco": 279.9,
-      "precoDe": 829.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:54:29.343Z"
-    },
-    {
-      "id": "31383",
-      "loja": "Shopee",
-      "titulo": "Placa de Video GeForce NVIDIA PALIT RTX5060 WHITE OC 8GB GDDR7 NE75060U19P1-GB2063M",
-      "link": "https://s.shopee.com.br/8pmaAfcTTN",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r1-mpcmkgaieh3411_tn",
-      "preco": 3042.9,
-      "precoDe": 8949.71,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:50:50.225Z"
     }
   ]
 }
