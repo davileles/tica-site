@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-20T12:03:34.294Z",
+  "atualizadoEm": "2026-10-20T12:18:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33300",
+      "loja": "Mercado Livre",
+      "titulo": "4 Pneus Firestone Aro 14 F-600 175/70r14 84t T",
+      "link": "https://meli.la/13hB1p6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852990-MLA99343110442_112025-F.jpg",
+      "preco": 1248,
+      "precoDe": 1689,
+      "desconto": 20,
+      "cupom": "OFFHOJEML",
+      "enviadoEm": "2026-10-20T12:18:17.118Z"
+    },
+    {
+      "id": "33294",
+      "loja": "Amazon",
+      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 127V 4 litros",
+      "link": "https://www.amazon.com.br/dp/B0CQKK5V35?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HkvMUmmEL._SL400_.jpg",
+      "preco": 159.9,
+      "precoDe": 405.82,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T12:14:37.470Z"
+    },
+    {
+      "id": "33292",
+      "loja": "Mercado Livre",
+      "titulo": "KIT JOINT FIX com Glucosamina, Condroitina, Colágeno Tipo 2 e MSM - 120 cápsulas + MEGA TREONATO - 60 cápsulas",
+      "link": "https://meli.la/1uE19qB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_847379-MLA99987069047_112025-F.jpg",
+      "preco": 77.39,
+      "precoDe": 150.65,
+      "desconto": 27,
+      "cupom": "SUPERVALEMELI",
+      "enviadoEm": "2026-10-20T12:10:49.993Z"
+    },
+    {
+      "id": "33286",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2x Creatina Dux Human Health Em Pó Sem Sabor 300g",
+      "link": "https://meli.la/1x19x7b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981752-MLA99371714096_112025-F.jpg",
+      "preco": 48.93000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SUPERVALEMELI",
+      "enviadoEm": "2026-10-20T12:07:02.634Z"
+    },
     {
       "id": "33277",
       "loja": "Shopee",
@@ -1237,18 +1285,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:12:36.400Z"
-    },
-    {
-      "id": "32919",
-      "loja": "Amazon",
-      "titulo": "Britânia Fritadeira Air Fryer BFR37 Revestimento Dura Mais 4,2L 1500W 127V 4 litros",
-      "link": "https://www.amazon.com.br/dp/B0CQKK5V35?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HkvMUmmEL._SL400_.jpg",
-      "preco": 159.9,
-      "precoDe": 405.82,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:08:35.205Z"
     },
     {
       "id": "32912",
@@ -5965,42 +6001,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-10-15T21:50:50.225Z"
-    },
-    {
-      "id": "31382",
-      "loja": "Amazon",
-      "titulo": "Creme Hidratante Neutrogena Hidrata&Repara, Kit 2 Unidades de 400ml",
-      "link": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4102EXm3qIL._SL400_.jpg",
-      "preco": 63.98,
-      "precoDe": 72.99,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:46:53.691Z"
-    },
-    {
-      "id": "31380",
-      "loja": "Mercado Livre",
-      "titulo": "Secador De Cabelo Alta Velocidade 127v 1600w Iônico",
-      "link": "https://meli.la/1ReSpvo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747313-MLB117458904022_102026-O.webp",
-      "preco": 103.6,
-      "precoDe": 200,
-      "desconto": 26,
-      "cupom": "OPAECONOMIZEI",
-      "enviadoEm": "2026-10-15T21:43:03.288Z"
-    },
-    {
-      "id": "31374",
-      "loja": "Shopee",
-      "titulo": "Placa de Video GeForce NVIDIA INNO3D RTX5060TI 8GB TWIN X2  GDDR7 N506T2-08D7-193075N",
-      "link": "https://s.shopee.com.br/2LZ6Q9BIEd",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pr-mpcmlsyjbm6kf8_tn",
-      "preco": 3243.9,
-      "precoDe": 9010.83,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-15T21:37:49.218Z"
     }
   ]
 }
