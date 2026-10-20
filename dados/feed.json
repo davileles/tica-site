@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-20T20:10:51.951Z",
+  "atualizadoEm": "2026-10-20T20:18:26.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33590",
+      "loja": "Amazon",
+      "titulo": "Cadeira Gamer ThunderX3 CORE Smart Loft Cinza Escuro",
+      "link": "https://www.amazon.com.br/dp/B0DLH8722V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IXoK-FVTL._SL400_.jpg",
+      "preco": 1817.49,
+      "precoDe": 2499.88,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T20:15:21.433Z"
+    },
+    {
+      "id": "33588",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/50ZzTezdkn",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 209.9,
+      "precoDe": 279.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T20:11:31.891Z"
+    },
     {
       "id": "33585",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-16T17:12:13.247Z"
-    },
-    {
-      "id": "31731",
-      "loja": "Amazon",
-      "titulo": "Enxaguante Bucal Listerine Cuidado Total, Menta, Sem Álcool, 500ml",
-      "link": "https://www.amazon.com.br/dp/B07DG3HSZF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ScNuuTAvL._SL400_.jpg",
-      "preco": 23.81,
-      "precoDe": 34.99,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T17:07:25.902Z"
-    },
-    {
-      "id": "31726",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
-      "link": "https://s.shopee.com.br/3qNvUS27jC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
-      "preco": 41.99,
-      "precoDe": 55.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T16:57:43.207Z"
     }
   ]
 }
