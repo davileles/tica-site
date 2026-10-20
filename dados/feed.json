@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-20T13:43:06.715Z",
+  "atualizadoEm": "2026-10-20T13:48:26.403Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33371",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/8AX0oqPspg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 94.9,
+      "precoDe": 120.13,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-20T13:43:38.257Z"
+    },
     {
       "id": "33364",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-10-16T11:11:15.390Z"
-    },
-    {
-      "id": "31439",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Facial Neutrogena Sun Fresh, Sem Cor, FPS 70, 2 Unidades 40g",
-      "link": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41R4tTw2ngL._SL400_.jpg",
-      "preco": 125.58,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T11:07:51.915Z"
     }
   ]
 }
