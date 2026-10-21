@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-21T18:48:26.424Z",
+  "atualizadoEm": "2026-10-21T19:18:26.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34095",
+      "loja": "Mercado Livre",
+      "titulo": "Tenis Infantil Feminino Casual 3210a Funfy  Kids Menina",
+      "link": "https://meli.la/22fi5rK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831602-MLB84614322457_052025-O.webp",
+      "preco": 42.67,
+      "precoDe": 79.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T19:12:13.486Z"
+    },
+    {
+      "id": "34094",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Ramazzotti Rosato 700ml",
+      "link": "https://www.amazon.com.br/dp/B0H343PT2X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jRleXXiqL._SL400_.jpg",
+      "preco": 47.9,
+      "precoDe": 53.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T19:11:18.095Z"
+    },
+    {
+      "id": "34085",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Roupa Infantil Menino Masculino Verão Barato 1 Ao 8",
+      "link": "https://meli.la/1624ZTp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669304-MLB79081651421_092024-O.webp",
+      "preco": 27.9,
+      "precoDe": 37.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T19:05:07.418Z"
+    },
+    {
+      "id": "34083",
+      "loja": "Mercado Livre",
+      "titulo": "NIVEA Hidratante Desodorante Beleza Radiante Cuidado Intenso 400ml, Hidratação Profunda 48h, Brilho Natural, Corporal, Pele Seca e Extrasseca",
+      "link": "https://meli.la/1LT6rHD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_959443-MLA93494140268_102025-F.jpg",
+      "preco": 8,
+      "precoDe": 26.99,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T19:04:13.527Z"
+    },
+    {
+      "id": "34081",
+      "loja": "Amazon",
+      "titulo": "Cerveja Original, Pilsen, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJXKGL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BiZFuLLIL._SL400_.jpg",
+      "preco": 69.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T19:00:51.674Z"
+    },
+    {
+      "id": "34082",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/4fxAalPQGi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.99,
+      "precoDe": 65.92,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T18:59:33.110Z"
+    },
+    {
+      "id": "34078",
+      "loja": "Mercado Livre",
+      "titulo": "Cercadinho Bebê Infantil Cercado Grande 18212064cm Cinza Liso",
+      "link": "https://meli.la/1uVJX5b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_847092-MLB102095318747_122025-O.webp",
+      "preco": 171.17,
+      "precoDe": 239,
+      "desconto": 20,
+      "cupom": "ESQFASHBEAUTY2110",
+      "enviadoEm": "2026-10-21T18:56:11.958Z"
+    },
+    {
+      "id": "34076",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino E Feminino Club 5v5 Puma 42",
+      "link": "https://meli.la/2ginux8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910726-MLB101436415157_122025-O.webp",
+      "preco": 117.65,
+      "precoDe": 449.99,
+      "desconto": 71,
+      "cupom": "ESQFASHBEAUTY2110",
+      "enviadoEm": "2026-10-21T18:51:13.785Z"
+    },
     {
       "id": "34075",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-10-17T20:45:26.770Z"
-    },
-    {
-      "id": "32085",
-      "loja": "Shopee",
-      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
-      "link": "https://s.shopee.com.br/4LKDuboisy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
-      "preco": 41,
-      "precoDe": 95.35,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T20:26:27.280Z"
-    },
-    {
-      "id": "32084",
-      "loja": "Mercado Livre",
-      "titulo": "Capacete moto aberto pro tork new liberty three preto fosco tamanho 56 desenho solid viseira cristal",
-      "link": "https://meli.la/19D8EYz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986703-MLA106100761953_012026-F.jpg",
-      "preco": 124.9,
-      "precoDe": 143.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T20:22:53.524Z"
-    },
-    {
-      "id": "32081",
-      "loja": "Amazon",
-      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
-      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
-      "preco": 46.99,
-      "precoDe": 73.75,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T20:17:03.502Z"
-    },
-    {
-      "id": "32079",
-      "loja": "Shopee",
-      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
-      "link": "https://s.shopee.com.br/AKbR24VroR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
-      "preco": 22.49,
-      "precoDe": 77.55,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T20:01:07.593Z"
-    },
-    {
-      "id": "32078",
-      "loja": "Shopee",
-      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "link": "https://s.shopee.com.br/3LRgfe4lQ7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
-      "preco": 31.99,
-      "precoDe": 58.16,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T19:38:19.562Z"
-    },
-    {
-      "id": "32075",
-      "loja": "Shopee",
-      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
-      "link": "https://s.shopee.com.br/4B0ndcA2mg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
-      "preco": 12.5,
-      "precoDe": 54.35,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T19:15:44.767Z"
-    },
-    {
-      "id": "32074",
-      "loja": "Amazon",
-      "titulo": "Smirnoff Vodka Nº 21 998ml",
-      "link": "https://www.amazon.com.br/dp/B07R1GV92N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kAcpmzjOL._SL400_.jpg",
-      "preco": 29.06,
-      "precoDe": 43.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T19:06:48.233Z"
-    },
-    {
-      "id": "32070",
-      "loja": "Shopee",
-      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "link": "https://s.shopee.com.br/2BFjENQ70k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
-      "preco": 59.9,
-      "precoDe": 85.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T18:52:56.828Z"
     }
   ]
 }
