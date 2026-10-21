@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-21T15:39:09.968Z",
+  "atualizadoEm": "2026-10-21T15:48:26.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33945",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Aerolight Flip Straw Ash 473ml",
+      "link": "https://www.amazon.com.br/dp/B0DXQ7B33K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21eYeKLKXKL._SL400_.jpg",
+      "preco": 150.76,
+      "precoDe": 269,
+      "desconto": 34,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-21T15:47:45.873Z"
+    },
+    {
+      "id": "33944",
+      "loja": "Amazon",
+      "titulo": "LYOR - Tábua para Corte de Bambu 20cm x 15cm x 1cm",
+      "link": "https://www.amazon.com.br/dp/B08X19G5FP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wphMBGYhL._SL400_.jpg",
+      "preco": 11.88,
+      "precoDe": 28.4,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T15:43:59.455Z"
+    },
+    {
+      "id": "33943",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
+      "link": "https://www.amazon.com.br/dp/B07H113TPQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oaODRRbFL._SL400_.jpg",
+      "preco": 33.9,
+      "precoDe": 49.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T15:40:36.135Z"
+    },
     {
       "id": "33938",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-10-17T13:15:24.027Z"
-    },
-    {
-      "id": "31977",
-      "loja": "Mercado Livre",
-      "titulo": "Tira Manchas para Roupas Calisul 1kg Percarbonato de Sódio",
-      "link": "https://meli.la/2Msgc9a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846999-MLA117391162992_102026-F.jpg",
-      "preco": 19.8,
-      "precoDe": 50,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T13:14:17.769Z"
-    },
-    {
-      "id": "31974",
-      "loja": "Shopee",
-      "titulo": "5 Em 1 Fonte De Energia Carregador Turbo USB-A+USB-C Carregamento rápido 176W",
-      "link": "https://s.shopee.com.br/70KybOKOJT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mtkb6ksvqgapa4_tn",
-      "preco": 39.9,
-      "precoDe": 90.68,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T13:07:40.251Z"
-    },
-    {
-      "id": "31973",
-      "loja": "Amazon",
-      "titulo": "Buba Lixeira Antiodor para Fraldas",
-      "link": "https://www.amazon.com.br/dp/B0C5GP554J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wKX48kOjL._SL400_.jpg",
-      "preco": 171.5,
-      "precoDe": 304.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T13:04:20.413Z"
     }
   ]
 }
