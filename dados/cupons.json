@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T11:13:13.660Z",
+  "atualizadoEm": "2026-10-21T12:18:28.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -579,6 +579,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "150OFFALLSITE2110",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons com diferentes valores mínimos de compra",
+      "validadeAte": "2026-10-22T12:02:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "40SITETODO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -588,6 +600,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-21T21:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "40OFFALLSITE2110",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons com diferentes valores mínimos de compra",
+      "validadeAte": "2026-10-22T12:02:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1011,30 +1035,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERVALEMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-21T12:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BOAESCOLHAMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-21T12:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEUVALEMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1044,6 +1044,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-16T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREQUETEM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "POUPEMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1539,27 +1563,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ACHADOINCRIVEL",
+      "codigo": "APROVEITAESSE",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-21T12:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PEGAESSEDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em produtos selecionados do Mercado Livre",
-      "validadeAte": "2026-10-21T12:00:00.000Z",
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1596,6 +1608,30 @@
       "limite": 50,
       "observacao": "Válido em lojas oficiais. Cupom com limite de desconto de R$50.",
       "validadeAte": "2026-10-22T03:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TUDONOMELHOR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "20OFFALLSITE2110",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 219,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons com diferentes valores mínimos de compra",
+      "validadeAte": "2026-10-22T12:02:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1659,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFSEMPREMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SEMPRETEMCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1680,6 +1728,30 @@
       "limite": 20,
       "observacao": "Cupom válido para entregas Full. Desconto de 10% em compras acima de R$ 89, com limite máximo de desconto de R$ 20",
       "validadeAte": "2026-10-21T15:04:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTACONSTRUIR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIPILOTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-10-22T12:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
