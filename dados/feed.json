@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-21T17:48:26.422Z",
+  "atualizadoEm": "2026-10-21T18:02:15.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34043",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pano De Prato Estampado 100% Algodão",
+      "link": "https://meli.la/1AavjLK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817039-MLA119854485227_102026-F.jpg",
+      "preco": 24.2,
+      "precoDe": 26.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T17:52:15.070Z"
+    },
+    {
+      "id": "34042",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 20 Itens Esportivos Para Treino Em Casa Academia Fitness Funcional Com Elásticos Extensor Puxadores Massageador Faixas Elásticas Mini Band P/ Exercícios Ginástica Fisioterapia ",
+      "link": "https://meli.la/1zqApeU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990345-MLA115532130447_082026-F.jpg",
+      "preco": 48.97,
+      "precoDe": 59.97,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T17:51:28.935Z"
+    },
     {
       "id": "34041",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 75,
       "cupom": null,
       "enviadoEm": "2026-10-17T16:59:25.864Z"
-    },
-    {
-      "id": "32038",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeína Dux Nutrition em cápsula Sem sabor x 100g de 90 un",
-      "link": "https://meli.la/25M5e2A",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917888-MLA111944157873_052026-F.jpg",
-      "preco": 47.4,
-      "precoDe": 62.61,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T16:55:45.593Z"
-    },
-    {
-      "id": "32033",
-      "loja": "Shopee",
-      "titulo": "Electro Nest Fone De Ouvido Com Fio 3.5mm Intra-Auricular Estéreo Baixo Microfone Fone EJ-30",
-      "link": "https://s.shopee.com.br/3g4WregKsq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8u9p6k2oc1u3c_tn",
-      "preco": 11.99,
-      "precoDe": 25.51,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T16:36:53.461Z"
     }
   ]
 }
