@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-21T13:18:26.422Z",
+  "atualizadoEm": "2026-10-21T13:48:26.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33876",
+      "loja": "Amazon",
+      "titulo": "Top Puma 4Keeps Feminino",
+      "link": "https://www.amazon.com.br/dp/B0DMLLHD7N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/2132N2Vs04L._SL400_.jpg",
+      "preco": 94.49,
+      "precoDe": 179.99,
+      "desconto": 30,
+      "cupom": "25% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T13:46:08.747Z"
+    },
+    {
+      "id": "33867",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador Torre AIR SILENCE WAP Silencioso Oscilante com Controle Remoto 4 Velocidades e Desligamento Automático",
+      "link": "https://meli.la/2hH7ZrH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815123-MLA79416091024_092024-F.jpg",
+      "preco": 365.30999999999995,
+      "precoDe": 707,
+      "desconto": 43,
+      "cupom": "OFFSEMPREMELI",
+      "enviadoEm": "2026-10-21T13:39:16.281Z"
+    },
+    {
+      "id": "33865",
+      "loja": "Amazon",
+      "titulo": "Tônica Antarctica 350ml 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
+      "preco": 66.97,
+      "precoDe": 71.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:34:13.863Z"
+    },
+    {
+      "id": "33863",
+      "loja": "Amazon",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
+      "preco": 206,
+      "precoDe": 475.22,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:32:46.515Z"
+    },
+    {
+      "id": "33859",
+      "loja": "Amazon",
+      "titulo": "Camisa Santos Away 2026 Torcedor N10 Umbro, Masculino, Preto/Branco, G",
+      "link": "https://www.amazon.com.br/dp/B0H1NGJ9FM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41U9K2eC+oL._SL400_.jpg",
+      "preco": 223.57,
+      "precoDe": 399.99,
+      "desconto": 30,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T13:31:57.145Z"
+    },
+    {
+      "id": "33855",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Calça Infantil Menino Moletom Estampada Lote Roupa",
+      "link": "https://meli.la/2tLqXct",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883229-MLB112269219411_052026-O.webp",
+      "preco": 46.4,
+      "precoDe": 119.62,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:28:27.130Z"
+    },
+    {
+      "id": "33850",
+      "loja": "Shopee",
+      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
+      "link": "https://s.shopee.com.br/2LZFRLAjdm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
+      "preco": 39.9,
+      "precoDe": 66.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:23:36.084Z"
+    },
+    {
+      "id": "33844",
+      "loja": "Amazon",
+      "titulo": "Tech T-shirt Gola U Masculino Preto M",
+      "link": "https://www.amazon.com.br/dp/B0BFT7XG6C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Z5Lba0iIL._SL400_.jpg",
+      "preco": 67.42,
+      "precoDe": 159,
+      "desconto": 43,
+      "cupom": "25% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T13:20:22.712Z"
+    },
     {
       "id": "33838",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-17T11:11:15.955Z"
-    },
-    {
-      "id": "31914",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
-      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
-      "preco": 67.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T11:07:25.520Z"
-    },
-    {
-      "id": "31913",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Corporal em Loção Sundown, FPS 50, 250ml + 350ml",
-      "link": "https://www.amazon.com.br/dp/B0FFQ7QDL1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qn32PUxpL._SL400_.jpg",
-      "preco": 56.81,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T11:06:16.249Z"
-    },
-    {
-      "id": "31912",
-      "loja": "Shopee",
-      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
-      "link": "https://s.shopee.com.br/9fLjdsVqVd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
-      "preco": 16.49,
-      "precoDe": 31.71,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T11:03:02.321Z"
-    },
-    {
-      "id": "31906",
-      "loja": "Amazon",
-      "titulo": "Licor 43 Chocolate 700ml",
-      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
-      "preco": 166.56,
-      "precoDe": 189.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T23:33:35.252Z"
-    },
-    {
-      "id": "31905",
-      "loja": "Shopee",
-      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
-      "link": "https://s.shopee.com.br/9KisRryTvs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
-      "preco": 79.9,
-      "precoDe": 150.75,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T23:03:25.882Z"
-    },
-    {
-      "id": "31902",
-      "loja": "Shopee",
-      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "link": "https://s.shopee.com.br/qkKIgdIFj",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
-      "preco": 8.87,
-      "precoDe": 17.06,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:40:44.292Z"
-    },
-    {
-      "id": "31898",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Corporal em Loção Neutrogena Sun Fresh, FPS 50, 200ml",
-      "link": "https://www.amazon.com.br/dp/B079ZS4Z5Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bXrdmi5eL._SL400_.jpg",
-      "preco": 60.78,
-      "precoDe": 89.99,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:29:34.373Z"
-    },
-    {
-      "id": "31895",
-      "loja": "Shopee",
-      "titulo": "Mini Mixer Elétrico Portátil Batedor de Ovos e Leite Espumador Café – Utensílio de Cozinha a Pilha",
-      "link": "https://s.shopee.com.br/9APSCSJwzA",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcch-lt6uk55nl3vc80_tn",
-      "preco": 11.49,
-      "precoDe": 49.96,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:18:07.625Z"
     }
   ]
 }
