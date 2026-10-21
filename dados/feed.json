@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-21T13:48:26.422Z",
+  "atualizadoEm": "2026-10-21T14:05:49.295Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33889",
+      "loja": "Amazon",
+      "titulo": "Whisky Dewars 15 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B07GQ3FD6C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QZyTloI8L._SL400_.jpg",
+      "preco": 172.43,
+      "precoDe": 263.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:55:49.292Z"
+    },
+    {
+      "id": "33885",
+      "loja": "Amazon",
+      "titulo": "Camisa Santos Home 2026 Jogador S/N Umbro, Masculino, Branco/Gold, G",
+      "link": "https://www.amazon.com.br/dp/B0H1NDS97M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oHCV3PskL._SL400_.jpg",
+      "preco": 253.60999999999999,
+      "precoDe": 499.99,
+      "desconto": 37,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T13:54:36.760Z"
+    },
+    {
+      "id": "33878",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/7VHLcgoogj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-muiille9aznka1_tn",
+      "preco": 28.98,
+      "precoDe": 60.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T13:49:24.632Z"
+    },
     {
       "id": "33876",
       "loja": "Amazon",
@@ -2485,18 +2521,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-19T21:38:43.360Z"
-    },
-    {
-      "id": "33129",
-      "loja": "Amazon",
-      "titulo": "Whisky Dewars 15 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B07GQ3FD6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QZyTloI8L._SL400_.jpg",
-      "preco": 163.41,
-      "precoDe": 263.9,
-      "desconto": 27,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-19T21:34:52.169Z"
     },
     {
       "id": "33125",
@@ -5977,30 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-17T11:27:34.127Z"
-    },
-    {
-      "id": "31919",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/7fafHmZ4KH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.89,
-      "precoDe": 199.45,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T11:25:44.240Z"
-    },
-    {
-      "id": "31918",
-      "loja": "Amazon",
-      "titulo": "Whisky Singleton Of Dufftown 12 Anos, 750ml",
-      "link": "https://www.amazon.com.br/dp/B07WSHYVQ8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nNbZLjvXL._SL400_.jpg",
-      "preco": 146.32,
-      "precoDe": 267.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T11:11:15.955Z"
     }
   ]
 }
