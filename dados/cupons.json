@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T20:18:28.930Z",
+  "atualizadoEm": "2026-10-21T23:06:28.018Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1800,6 +1800,18 @@
       "limite": 20,
       "observacao": "Dois cupons para categorias selecionadas no Mercado Livre",
       "validadeAte": "2026-10-22T18:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CAMISA10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-22T22:51:58.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
