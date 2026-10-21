@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-21T00:03:16.365Z",
+  "atualizadoEm": "2026-10-21T11:13:11.859Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33718",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/3B8MHVvbbD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 13.99,
+      "precoDe": 26.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:03:11.855Z"
+    },
     {
       "id": "33700",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-16T19:42:56.306Z"
-    },
-    {
-      "id": "31811",
-      "loja": "Amazon",
-      "titulo": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0051LRFB0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+psDcHE3L._SL400_.jpg",
-      "preco": 142,
-      "precoDe": 243.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T19:39:31.345Z"
     }
   ]
 }
