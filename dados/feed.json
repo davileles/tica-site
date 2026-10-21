@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-21T12:18:26.421Z",
+  "atualizadoEm": "2026-10-21T12:48:26.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33792",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Unidades Toalha Paninho De Boca Ideias para Limpeza Facial Suave 23x23cm",
+      "link": "https://s.shopee.com.br/30owBCdpGR",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m8kjhhfslqdcc3_tn",
+      "preco": 17.99,
+      "precoDe": 37.48,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:42:25.526Z"
+    },
+    {
+      "id": "33789",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Haiz 25'' Ips Fhd 144hz 0.5ms Hdmi Dp Vesa Preto",
+      "link": "https://meli.la/2Vg97xc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795878-MLA118124227295_092026-F.jpg",
+      "preco": 404.59000000000003,
+      "precoDe": 879,
+      "desconto": 34,
+      "cupom": "PARAVC",
+      "enviadoEm": "2026-10-21T12:41:35.954Z"
+    },
+    {
+      "id": "33788",
+      "loja": "Mercado Livre",
+      "titulo": "Escrivaninha Industrial 90cm Mesa Estudo Aparador  Aço Mdf",
+      "link": "https://meli.la/1f31Jcg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_859894-MLB92479683912_092025-O.webp",
+      "preco": 71.42999999999999,
+      "precoDe": 185.6,
+      "desconto": 45,
+      "cupom": "CORREQUETEM",
+      "enviadoEm": "2026-10-21T12:38:09.350Z"
+    },
+    {
+      "id": "33785",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+      "link": "https://meli.la/1zaaibc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
+      "preco": 39.9,
+      "precoDe": 64.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:34:33.304Z"
+    },
+    {
+      "id": "33780",
+      "loja": "Amazon",
+      "titulo": "Chuteira Society Adulto Juvenil Penalty Storm Y-3, Azul, Branco e Preto, 35",
+      "link": "https://www.amazon.com.br/dp/B0F3ZV14GM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Uehj-6qiL._SL400_.jpg",
+      "preco": 103.2,
+      "precoDe": 249.99,
+      "desconto": 48,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T12:31:06.946Z"
+    },
+    {
+      "id": "33779",
+      "loja": "Amazon",
+      "titulo": "Chupeta Ultra Air 6-18M Philips Avent Boy Unitária Barcos 081/07",
+      "link": "https://www.amazon.com.br/dp/B0C4M7G358?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315R9TRyHKL._SL400_.jpg",
+      "preco": 19.91,
+      "precoDe": 28.62,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:27:46.141Z"
+    },
+    {
+      "id": "33773",
+      "loja": "Amazon",
+      "titulo": "Repelente de Insetos em Loção OFF! Family, 200ml",
+      "link": "https://www.amazon.com.br/dp/B07FN9FX1V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YJA02kjBL._SL400_.jpg",
+      "preco": 15.66,
+      "precoDe": 29.32,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:26:38.839Z"
+    },
+    {
+      "id": "33771",
+      "loja": "Amazon",
+      "titulo": "Camisa Masculina New Balance Away Torcedor SPFC 2026, Vermelho/Branco/Preto, P",
+      "link": "https://www.amazon.com.br/dp/B0H6GXJC3Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NxsM-bUdL._SL400_.jpg",
+      "preco": 199.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T12:23:06.475Z"
+    },
+    {
+      "id": "33768",
+      "loja": "Amazon",
+      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
+      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
+      "preco": 18.14,
+      "precoDe": 36.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:19:20.675Z"
+    },
     {
       "id": "33766",
       "loja": "Shopee",
@@ -3099,18 +3207,6 @@
       "enviadoEm": "2026-10-19T16:27:47.139Z"
     },
     {
-      "id": "32886",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-      "link": "https://meli.la/1zaaibc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-      "preco": 39.9,
-      "precoDe": 64.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:23:28.001Z"
-    },
-    {
       "id": "32875",
       "loja": "Amazon",
       "titulo": "Luminária De LED de Sobrepor Redonda Bivolt 31W 3 Em 1 Com Luz Central Dupla (Preto)",
@@ -5905,102 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-16T21:40:49.237Z"
-    },
-    {
-      "id": "31883",
-      "loja": "Amazon",
-      "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, ",
-      "link": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KKr6VQU7L._SL400_.jpg",
-      "preco": 196.5,
-      "precoDe": 369,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:39:55.957Z"
-    },
-    {
-      "id": "31879",
-      "loja": "Shopee",
-      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
-      "link": "https://s.shopee.com.br/8AWuxVe7gk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
-      "preco": 34.02,
-      "precoDe": 42,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:32:58.712Z"
-    },
-    {
-      "id": "31876",
-      "loja": "Amazon",
-      "titulo": "Cerveja Baden Baden IPA, Lata 350ml, Pack com 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0F695MQ9K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41w+y3PfDKL._SL400_.jpg",
-      "preco": 36.62,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:18:18.137Z"
-    },
-    {
-      "id": "31875",
-      "loja": "Amazon",
-      "titulo": "Relógio Inteligente Amazfit Balance 46mm A2287 ZEPP FOLOW Composição Corporal, GPS, Step Tracking, Alexa Built-In, Chamada Bluetooth, Duração da Bateria de 14 Dias (Gray)",
-      "link": "https://www.amazon.com.br/dp/B0D2NS6V8G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51DhPsT6NXL._SL400_.jpg",
-      "preco": 866.39,
-      "precoDe": 1899,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:17:13.181Z"
-    },
-    {
-      "id": "31874",
-      "loja": "Amazon",
-      "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, 50g",
-      "link": "https://www.amazon.com.br/dp/B06XQ27YLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/317rBd9K69L._SL400_.jpg",
-      "preco": 61,
-      "precoDe": 102.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:13:57.488Z"
-    },
-    {
-      "id": "31873",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
-      "link": "https://s.shopee.com.br/2VsYBYC4km",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
-      "preco": 29.89,
-      "precoDe": 53.37,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:10:17.519Z"
-    },
-    {
-      "id": "31868",
-      "loja": "Amazon",
-      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
-      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
-      "preco": 69.54,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:56:57.190Z"
-    },
-    {
-      "id": "31867",
-      "loja": "Amazon",
-      "titulo": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
-      "link": "https://www.amazon.com.br/dp/B07Y1T5YZ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pa2jisPRL._SL400_.jpg",
-      "preco": 111.49,
-      "precoDe": 209,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:54:50.320Z"
     }
   ]
 }
