@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-21T23:06:26.180Z",
+  "atualizadoEm": "2026-10-21T23:18:26.423Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34235",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
+      "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41T3fFQmT6L._SL400_.jpg",
+      "preco": 107,
+      "precoDe": 178.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T23:09:42.322Z"
+    },
+    {
+      "id": "34234",
+      "loja": "Amazon",
+      "titulo": "Vodka Skyy 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 46.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T23:06:49.064Z"
+    },
     {
       "id": "34229",
       "loja": "Amazon",
@@ -5379,18 +5403,6 @@
       "enviadoEm": "2026-10-19T11:29:12.950Z"
     },
     {
-      "id": "32688",
-      "loja": "Amazon",
-      "titulo": "Vodka Skyy 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
-      "preco": 24.9,
-      "precoDe": 46.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T11:15:29.118Z"
-    },
-    {
       "id": "32686",
       "loja": "Mercado Livre",
       "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
@@ -5989,18 +6001,6 @@
       "desconto": 72,
       "cupom": null,
       "enviadoEm": "2026-10-18T16:49:25.985Z"
-    },
-    {
-      "id": "32227",
-      "loja": "Shopee",
-      "titulo": "Jogo de Palhetas Limpador de Parabrisa Palheta Silicone Fiat Palio Uno Mobi Siena Argo Punto Strada",
-      "link": "https://s.shopee.com.br/5LCmSPKZ2O",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn26bqurhh50c3_tn",
-      "preco": 19.77,
-      "precoDe": 65.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T16:46:18.659Z"
     }
   ]
 }
