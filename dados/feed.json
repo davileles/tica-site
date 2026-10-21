@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-21T11:18:26.422Z",
+  "atualizadoEm": "2026-10-21T11:48:26.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33740",
+      "loja": "Amazon",
+      "titulo": "Boné 9Forty New York Yankees MLB New Era, Bege, Único",
+      "link": "https://www.amazon.com.br/dp/B0GSXFY4HN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31r0h+Kgo7L._SL400_.jpg",
+      "preco": 104.92000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "25% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T11:45:01.189Z"
+    },
+    {
+      "id": "33739",
+      "loja": "Mercado Livre",
+      "titulo": "Cobre leito matelado Queen Laura Enxovais dupla face leve confortável cor rose",
+      "link": "https://meli.la/1e4d3wh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694961-MLA109600192280_042026-F.jpg",
+      "preco": 39.99,
+      "precoDe": 78.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:37:51.098Z"
+    },
+    {
+      "id": "33733",
+      "loja": "Amazon",
+      "titulo": "Chuteira Futsal Umbro Class Footballer Jr, Infantil",
+      "link": "https://www.amazon.com.br/dp/B0GS69X6H9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VEyi0apmL._SL400_.jpg",
+      "preco": 135.92000000000002,
+      "precoDe": 189.99,
+      "desconto": 11,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T11:35:31.780Z"
+    },
+    {
+      "id": "33732",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
+      "preco": 121.79,
+      "precoDe": 174.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:32:09.632Z"
+    },
+    {
+      "id": "33731",
+      "loja": "Shopee",
+      "titulo": "WHISKY JACK DANIELS 1000ML",
+      "link": "https://s.shopee.com.br/9zygRr8p1s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtgz5d2gq51db3_tn",
+      "preco": 142.9,
+      "precoDe": 201.27,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:27:57.022Z"
+    },
+    {
+      "id": "33730",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
+      "link": "https://s.shopee.com.br/5LCqt7ut1O",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
+      "preco": 99.98,
+      "precoDe": 370.3,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:27:02.814Z"
+    },
+    {
+      "id": "33729",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
+      "link": "https://s.shopee.com.br/5q97Tyd4Kg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
+      "preco": 11.38,
+      "precoDe": 49.48,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T11:25:50.214Z"
+    },
     {
       "id": "33723",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 70,
       "cupom": "ECONOMIZEI",
       "enviadoEm": "2026-10-16T20:14:58.774Z"
-    },
-    {
-      "id": "31830",
-      "loja": "Amazon",
-      "titulo": "Camiseta Puma Essentials No. 1 Logo Masculina",
-      "link": "https://www.amazon.com.br/dp/B0D2RKGT8N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/212KbQBpfhL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 109.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:07:32.357Z"
-    },
-    {
-      "id": "31827",
-      "loja": "Amazon",
-      "titulo": "Buba Adesivo Gel para Testa Infantil, Atóxico, Compressa de Alívio Xo Febre, Muda de Cor, para Vacina",
-      "link": "https://www.amazon.com.br/dp/B0H4RT4FV3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41BKTNmkO6L._SL400_.jpg",
-      "preco": 19.79,
-      "precoDe": 22.98,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:04:13.822Z"
-    },
-    {
-      "id": "31826",
-      "loja": "Amazon",
-      "titulo": "Aparelho de Som Ruído Branco para Bebê com 20 Sons Relaxantes Acompanha Suporte Para Encaixar no Berço, Luz Noturna Suave, Timer 15 30 60 Minutos e Contínuo, USB Recarregável, Idea",
-      "link": "https://www.amazon.com.br/dp/B0GML2JSSG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31q1GhEhrFL._SL400_.jpg",
-      "preco": 89.99,
-      "precoDe": 119.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:03:02.037Z"
-    },
-    {
-      "id": "31824",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 38.34,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:01:55.330Z"
-    },
-    {
-      "id": "31823",
-      "loja": "Amazon",
-      "titulo": "LYOR - Jogo de Cama Bordado Queen Duquesa Microfibra Rosa",
-      "link": "https://www.amazon.com.br/dp/B0GY5DF71R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ODi2wcNAL._SL400_.jpg",
-      "preco": 89.63,
-      "precoDe": 198.2,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T20:00:53.789Z"
-    },
-    {
-      "id": "31822",
-      "loja": "Amazon",
-      "titulo": "Lagunitas Day Time Cerveja Session IPA, Pack 12 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0GFX4HSYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gTGqbrn8L._SL400_.jpg",
-      "preco": 68.72,
-      "precoDe": 113.88,
-      "desconto": 25,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-16T19:57:24.996Z"
-    },
-    {
-      "id": "31818",
-      "loja": "Shopee",
-      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
-      "link": "https://s.shopee.com.br/3qNvgjBV1z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
-      "preco": 54.45,
-      "precoDe": 78.91,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T19:53:33.147Z"
     }
   ]
 }
