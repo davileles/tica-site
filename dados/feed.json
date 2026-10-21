@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-21T14:18:26.422Z",
+  "atualizadoEm": "2026-10-21T14:45:21.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33908",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/80DcGyYodz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T14:35:21.414Z"
+    },
     {
       "id": "33899",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-10-17T12:15:20.215Z"
-    },
-    {
-      "id": "31931",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gigabyte Gs24f14 23.8 Pol Full Hd Ips 144hz 1ms",
-      "link": "https://meli.la/19FGHzM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_872401-MLA113528429319_062026-F.jpg",
-      "preco": 508.89,
-      "precoDe": 799,
-      "desconto": 30,
-      "cupom": "SITE50",
-      "enviadoEm": "2026-10-17T12:08:07.052Z"
     }
   ]
 }
