@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-21T18:18:26.422Z",
+  "atualizadoEm": "2026-10-21T18:29:39.078Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34058",
+      "loja": "Mercado Livre",
+      "titulo": "Tupia manual 530 watts com pinça de 6mm M3700b Makita",
+      "link": "https://meli.la/2UHsRQy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628815-MLA113722227463_062026-F.jpg",
+      "preco": 387,
+      "precoDe": 680.39,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T18:19:39.075Z"
+    },
+    {
+      "id": "34057",
+      "loja": "Amazon",
+      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
+      "preco": 24.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T18:18:32.910Z"
+    },
     {
       "id": "34056",
       "loja": "Mercado Livre",
@@ -4935,18 +4959,6 @@
       "enviadoEm": "2026-10-18T19:52:04.090Z"
     },
     {
-      "id": "32547",
-      "loja": "Mercado Livre",
-      "titulo": "Tupia manual 530 watts com pinça de 6mm M3700b Makita",
-      "link": "https://meli.la/2UHsRQy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628815-MLA113722227463_062026-F.jpg",
-      "preco": 399.45,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T19:47:15.664Z"
-    },
-    {
       "id": "32546",
       "loja": "Shopee",
       "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
@@ -5989,18 +6001,6 @@
       "desconto": 64,
       "cupom": null,
       "enviadoEm": "2026-10-17T17:44:41.243Z"
-    },
-    {
-      "id": "32048",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto com 4 Camisas Polo Caneladas de Manga Curta",
-      "link": "https://meli.la/14jMYg3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743111-MLB117377449255_092026-O.webp",
-      "preco": 67.89,
-      "precoDe": 109.99,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T17:25:25.355Z"
     }
   ]
 }
