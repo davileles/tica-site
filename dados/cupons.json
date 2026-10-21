@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T16:18:28.514Z",
+  "atualizadoEm": "2026-10-21T16:48:29.111Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1803,6 +1803,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTA10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-22T16:46:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "AWINBODYS",
       "loja": "Natura",
       "tipo": "reais",
@@ -1885,18 +1897,6 @@
       "observacao": "Cupom de 30% OFF na finalização. Há também uma lista com até 50% OFF, mas sem código específico informado.",
       "validadeAte": "2026-10-22T00:05:39.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "LOREAL25",
-      "loja": "Outro: Drogaria SP",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom para produtos L'Oréal na Drogaria SP",
-      "validadeAte": "2026-10-21T16:25:44.000Z",
-      "url": null
     },
     {
       "codigo": "BEMVINDA",
