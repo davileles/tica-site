@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T18:02:17.778Z",
+  "atualizadoEm": "2026-10-21T18:48:28.427Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1635,18 +1635,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAEBELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos de moda e bem-estar",
-      "validadeAte": "2026-10-21T18:42:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "RESGATETO2110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2652,6 +2640,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-22T14:53:14.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "FANT4S10",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-22T18:47:26.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
