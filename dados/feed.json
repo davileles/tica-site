@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-21T21:48:26.423Z",
+  "atualizadoEm": "2026-10-21T22:07:27.346Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34201",
+      "loja": "Shopee",
+      "titulo": "Potes de Vidro 200/300/550/1200/1500/1700/2000ml com Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
+      "link": "https://s.shopee.com.br/5LCraGfCHL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
+      "preco": 8.9,
+      "precoDe": 44.5,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T21:57:27.342Z"
+    },
+    {
+      "id": "34199",
+      "loja": "Amazon",
+      "titulo": "Shampoo Condicionador Sérum Elseve L'Oréal Colágeno 400ml+400ml+100ml | Protocolo reconstrutor, volume 3D, brilho imediato, fios finos, proteção térmica de 230°C, encorpamento ativ",
+      "link": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61JHE7YsN3L._SL400_.jpg",
+      "preco": 75.99,
+      "precoDe": 123.09,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T21:54:17.824Z"
+    },
     {
       "id": "34197",
       "loja": "Amazon",
@@ -949,18 +973,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-21T16:24:39.708Z"
-    },
-    {
-      "id": "33971",
-      "loja": "Amazon",
-      "titulo": "Shampoo Condicionador Sérum Elseve L'Oréal Colágeno 400ml+400ml+100ml | Protocolo reconstrutor, volume 3D, brilho imediato, fios finos, proteção térmica de 230°C, encorpamento ativ",
-      "link": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61JHE7YsN3L._SL400_.jpg",
-      "preco": 75.99,
-      "precoDe": 123.09,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T16:23:29.150Z"
     },
     {
       "id": "33969",
@@ -5989,18 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-18T15:34:33.640Z"
-    },
-    {
-      "id": "32199",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Caixas Organizadoras Com Tampa 2 Litros Cesto Grande em Plástico",
-      "link": "https://s.shopee.com.br/5fpcknPlY9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkux16rtrw1v32_tn",
-      "preco": 59.9,
-      "precoDe": 79.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T15:15:36.904Z"
     }
   ]
 }
