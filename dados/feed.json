@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-21T12:48:26.422Z",
+  "atualizadoEm": "2026-10-21T13:18:26.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33838",
+      "loja": "Mercado Livre",
+      "titulo": "COENZIMA Q10 UBIQUINOL - 60 Doses - Fórmula Concentrada e com Máxima Pureza",
+      "link": "https://meli.la/262wCaN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937294-MLA116205240557_082026-F.jpg",
+      "preco": 46.03999999999999,
+      "precoDe": 101.77,
+      "desconto": 35,
+      "cupom": "POUPEMELI",
+      "enviadoEm": "2026-10-21T13:13:03.623Z"
+    },
+    {
+      "id": "33825",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador Ugreen 4 Portas Usb C E 2 Usb A 200w + Cabo Tipoc",
+      "link": "https://meli.la/1h7MZjU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_607292-MLA97280468218_112025-F.jpg",
+      "preco": 666.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFSEMPREMELI",
+      "enviadoEm": "2026-10-21T13:09:34.854Z"
+    },
+    {
+      "id": "33822",
+      "loja": "Amazon",
+      "titulo": "Camisa Masculina New Balance Home Torcedor SPFC 2026, Branco/Vermelho/Preto, P",
+      "link": "https://www.amazon.com.br/dp/B0H6H8BGMK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WIOAcT3IL._SL400_.jpg",
+      "preco": 223.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T13:05:58.369Z"
+    },
+    {
+      "id": "33818",
+      "loja": "Mercado Livre",
+      "titulo": "Pneu Aro 18 225/55r18 Pirelli Scorpion Jp 98v",
+      "link": "https://meli.la/1B9H4Df",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997963-MLA109851307836_042026-F.jpg",
+      "preco": 825.07,
+      "precoDe": 961.61,
+      "desconto": 9,
+      "cupom": "MELIPILOTO",
+      "enviadoEm": "2026-10-21T13:02:38.222Z"
+    },
+    {
+      "id": "33816",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Tradicional 2L – Energia em Grande Volume",
+      "link": "https://www.amazon.com.br/dp/B082952S4G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31D3SBf1wiL._SL400_.jpg",
+      "preco": 16.16,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:58:48.271Z"
+    },
+    {
+      "id": "33815",
+      "loja": "Shopee",
+      "titulo": "Kit 30 Discos Lixa 125mm Suporte para Furadeira Lixadeira com Velcro para Furadeira, Lixadeira e Esmerilhadeira parede",
+      "link": "https://s.shopee.com.br/6L5OAANjJc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqfngr0ov7k3fa_tn",
+      "preco": 24.99,
+      "precoDe": 53.17,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:57:30.175Z"
+    },
+    {
+      "id": "33812",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/6q1ekyxqqK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.32,
+      "precoDe": 35.05,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:56:38.342Z"
+    },
+    {
+      "id": "33811",
+      "loja": "Amazon",
+      "titulo": "Fischer Air Fryer Smart 8L Preto 220V 37010-104682",
+      "link": "https://www.amazon.com.br/dp/B0DYQFSGXD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Laers4OvL._SL400_.jpg",
+      "preco": 331.04,
+      "precoDe": 899,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T12:53:00.797Z"
+    },
+    {
+      "id": "33806",
+      "loja": "Amazon",
+      "titulo": "Camiseta New Balance Essentials Masculino, Cinza Mescla, M",
+      "link": "https://www.amazon.com.br/dp/B0D485QVYD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V6a6R68SL._SL400_.jpg",
+      "preco": 74.99,
+      "precoDe": 129.99,
+      "desconto": 23,
+      "cupom": "25% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-21T12:49:47.868Z"
+    },
     {
       "id": "33792",
       "loja": "Shopee",
@@ -5859,18 +5967,6 @@
       "enviadoEm": "2026-10-16T23:03:25.882Z"
     },
     {
-      "id": "31903",
-      "loja": "Amazon",
-      "titulo": "Energético Baly Tradicional 2L – Energia em Grande Volume",
-      "link": "https://www.amazon.com.br/dp/B082952S4G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31D3SBf1wiL._SL400_.jpg",
-      "preco": 17.01,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:41:32.343Z"
-    },
-    {
       "id": "31902",
       "loja": "Shopee",
       "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
@@ -5905,102 +6001,6 @@
       "desconto": 77,
       "cupom": null,
       "enviadoEm": "2026-10-16T22:18:07.625Z"
-    },
-    {
-      "id": "31894",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Tommy Hilfiger Masculino Borracha Azul 1792200",
-      "link": "https://meli.la/1BYVjbg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606662-MLA118919387347_102026-F.jpg",
-      "preco": 449.1,
-      "precoDe": 990,
-      "desconto": 50,
-      "cupom": "OFFHOJE",
-      "enviadoEm": "2026-10-16T22:09:57.195Z"
-    },
-    {
-      "id": "31892",
-      "loja": "Mercado Livre",
-      "titulo": "Limpa Ar Condicionado Higienização Carro Novo Spray",
-      "link": "https://meli.la/2KHLeRa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889331-MLB93490060177_092025-O.webp",
-      "preco": 19.91,
-      "precoDe": 23.43,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:06:24.531Z"
-    },
-    {
-      "id": "31890",
-      "loja": "Amazon",
-      "titulo": "Tênis Mizuno Neo Vortex, Royal, Tamanho 39",
-      "link": "https://www.amazon.com.br/dp/B0FFTRJGDK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qpYqoYrFL._SL400_.jpg",
-      "preco": 299.9,
-      "precoDe": 699.99,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T22:02:36.085Z"
-    },
-    {
-      "id": "31889",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B094NDWW4J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cHIyeckyL._SL400_.jpg",
-      "preco": 53.66,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-16T21:58:27.033Z"
-    },
-    {
-      "id": "31887",
-      "loja": "Shopee",
-      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "link": "https://s.shopee.com.br/9fLilpUMHR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
-      "preco": 75.89,
-      "precoDe": 199.71,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:55:37.863Z"
-    },
-    {
-      "id": "31886",
-      "loja": "Amazon",
-      "titulo": "Óleo Hidratante para Bebê Johnson's Baby, Puro, 200ml",
-      "link": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+080wCuTL._SL400_.jpg",
-      "preco": 53.28,
-      "precoDe": 72.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:51:57.233Z"
-    },
-    {
-      "id": "31885",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
-      "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fJ2kJ+fLL._SL400_.jpg",
-      "preco": 692.59,
-      "precoDe": 737.69,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:48:31.299Z"
-    },
-    {
-      "id": "31884",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 42,
-      "precoDe": 71.39,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-16T21:40:49.237Z"
     }
   ]
 }
