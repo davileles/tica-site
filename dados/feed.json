@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-21T15:18:26.421Z",
+  "atualizadoEm": "2026-10-21T15:39:09.968Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "33938",
+      "loja": "Shopee",
+      "titulo": "Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01",
+      "link": "https://s.shopee.com.br/8pmjJwtf8E",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512_tn",
+      "preco": 104.9,
+      "precoDe": 139.42,
+      "desconto": 14,
+      "cupom": "MIN1BOOSTAF",
+      "enviadoEm": "2026-10-21T15:29:09.964Z"
+    },
+    {
+      "id": "33936",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/1W08aNfSsP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.99,
+      "precoDe": 40.51,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T15:25:20.196Z"
+    },
+    {
+      "id": "33935",
+      "loja": "Shopee",
+      "titulo": "Lavadora De Alta Pressão Recarregável Sem Fio 48V Baterias Linha Premium Para Carros e Jardins",
+      "link": "https://s.shopee.com.br/30owN8Zp7B",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtxysxdl90jma6_tn",
+      "preco": 108.99,
+      "precoDe": 403.67,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-21T15:21:49.439Z"
+    },
+    {
+      "id": "33931",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Térmico Stacking Dried Pine 473ml",
+      "link": "https://www.amazon.com.br/dp/B0GC9N1KB8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21oUtAqi5VL._SL400_.jpg",
+      "preco": 91.8,
+      "precoDe": 159,
+      "desconto": 32,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-21T15:20:59.610Z"
+    },
     {
       "id": "33929",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-10-17T13:04:20.413Z"
-    },
-    {
-      "id": "31971",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Facial Minesol Oil Control, Sem Cor, FPS 70, 40g | Antioxidante, Controle da Oleosidade, Resistente à Água",
-      "link": "https://www.amazon.com.br/dp/B07Y2BK4GJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21SRAh3uaNL._SL400_.jpg",
-      "preco": 61.11,
-      "precoDe": 123.99,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T13:03:12.357Z"
-    },
-    {
-      "id": "31970",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
-      "link": "https://meli.la/165nzCA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792466-MLA110434988991_042026-F.jpg",
-      "preco": 64.72,
-      "precoDe": 89.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T12:54:18.702Z"
-    },
-    {
-      "id": "31969",
-      "loja": "Mercado Livre",
-      "titulo": "Huggies Fralda Descartável Rápida Absorção XG - 66 Un",
-      "link": "https://meli.la/1xnSz8Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717951-MLA113915298353_062026-F.jpg",
-      "preco": 64,
-      "precoDe": 87,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-17T12:53:17.555Z"
-    },
-    {
-      "id": "31968",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo Ideapad Slim 3 83mms00100 512gb 8gb + Ebook",
-      "link": "https://meli.la/1WAAGST",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_611758-MLB100386637021_122025-O.webp",
-      "preco": 3392,
-      "precoDe": 4658,
-      "desconto": 23,
-      "cupom": "OFFNOMELIHOJE",
-      "enviadoEm": "2026-10-17T12:52:21.882Z"
     }
   ]
 }
