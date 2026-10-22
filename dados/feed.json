@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-21T23:34:24.117Z",
+  "atualizadoEm": "2026-10-22T11:18:26.428Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34277",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Redonda Recarregável USB‐C Sensor para Cozinha Banheiro Escritório",
+      "link": "https://meli.la/2cvP323",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890665-MLA116158791678_092026-F.jpg",
+      "preco": 58.9,
+      "precoDe": 259.99,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:18:08.733Z"
+    },
+    {
+      "id": "34276",
+      "loja": "Amazon",
+      "titulo": "Panelux Panela de Pressão 4,5L",
+      "link": "https://www.amazon.com.br/dp/B076BJH4JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31E6Ux2nwfL._SL400_.jpg",
+      "preco": 57.89,
+      "precoDe": 79.86,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:14:22.311Z"
+    },
+    {
+      "id": "34271",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
+      "link": "https://s.shopee.com.br/BUmIvszFp",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-yg4ftmeqs8iv0a_tn",
+      "preco": 16.89,
+      "precoDe": 30.16,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:08:08.569Z"
+    },
+    {
+      "id": "34270",
+      "loja": "Amazon",
+      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
+      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
+      "preco": 93.89,
+      "precoDe": 129.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:04:42.143Z"
+    },
+    {
+      "id": "34269",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+      "link": "https://s.shopee.com.br/3B8NsPZZe2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mudmdk4tvwn563_tn",
+      "preco": 18.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:03:23.583Z"
+    },
     {
       "id": "34236",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-18T17:31:44.634Z"
-    },
-    {
-      "id": "32239",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
-      "link": "https://meli.la/2DXbyLc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-F.jpg",
-      "preco": 494.99,
-      "precoDe": 1099,
-      "desconto": 50,
-      "cupom": "MELIHOJE",
-      "enviadoEm": "2026-10-18T17:12:06.600Z"
-    },
-    {
-      "id": "32238",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
-      "link": "https://s.shopee.com.br/8AWxrA1jBm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85_tn",
-      "preco": 42.99,
-      "precoDe": 99.98,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T17:08:56.110Z"
-    },
-    {
-      "id": "32234",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
-      "link": "https://meli.la/1KTrNiC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707426-MLU72340464209_102023-F.jpg",
-      "preco": 348.56,
-      "precoDe": 489.18,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T16:57:27.255Z"
-    },
-    {
-      "id": "32233",
-      "loja": "Amazon",
-      "titulo": "Red Bull Wings Cup Energético, Energy Drink, 250ml, 24 latas (Embalagem pode variar)",
-      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
-      "preco": 186.96,
-      "precoDe": 251.76,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T16:56:28.856Z"
-    },
-    {
-      "id": "32229",
-      "loja": "Shopee",
-      "titulo": "Smart TV LG 65\" 4K UHD HDR10 NanoCell AI – 65UN85CBPSA.BWZ",
-      "link": "https://s.shopee.com.br/9zyc15QlxY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mth6ry56cver2b_tn",
-      "preco": 3249.9,
-      "precoDe": 4999.85,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T16:52:41.413Z"
     }
   ]
 }
