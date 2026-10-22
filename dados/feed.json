@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T16:48:26.512Z",
+  "atualizadoEm": "2026-10-22T17:18:26.515Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34528",
+      "loja": "Shopee",
+      "titulo": "Kit com 6/8 Carrinhos Com e Sem Fricção Filme Carros Relâmpago Mcqueen Brinquedo Infantil Envio Imediato",
+      "link": "https://s.shopee.com.br/8fTKpku5Vv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma8k5h88c0hl95_tn",
+      "preco": 22.48,
+      "precoDe": 59.16,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T17:12:59.898Z"
+    },
+    {
+      "id": "34525",
+      "loja": "Amazon",
+      "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
+      "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V6A5ZdwsL._SL400_.jpg",
+      "preco": 94.59,
+      "precoDe": 105.81,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T17:03:39.051Z"
+    },
     {
       "id": "34516",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-10-19T13:59:57.766Z"
-    },
-    {
-      "id": "32817",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_974922-MLB118087970434_102026-O.webp",
-      "preco": 92.99,
-      "precoDe": 229.99,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T13:55:35.760Z"
-    },
-    {
-      "id": "32815",
-      "loja": "Amazon",
-      "titulo": "Ar Condicionado Split Midea Inverter Lite 12000 Btu R32 Frio 42ebvcb12m5 Branco 220v",
-      "link": "https://www.amazon.com.br/dp/B0HCXKT67F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Htlz8p0XL._SL400_.jpg",
-      "preco": 1851.08,
-      "precoDe": 3929,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T13:50:37.649Z"
     }
   ]
 }
