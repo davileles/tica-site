@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T11:36:13.171Z",
+  "atualizadoEm": "2026-10-22T12:03:49.952Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34303",
+      "loja": "Amazon",
+      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 24.24,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:53:49.948Z"
+    },
+    {
+      "id": "34297",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/9Kj1GszSd9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T11:49:31.054Z"
+    },
     {
       "id": "34287",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 51,
       "cupom": "MELIHOJE",
       "enviadoEm": "2026-10-18T18:09:24.160Z"
-    },
-    {
-      "id": "32254",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Fitness Virginia Top Shorts Meia Coxa Cintura Alta",
-      "link": "https://meli.la/28tcajp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718401-MLB80817900517_112024-O.webp",
-      "preco": 43.5,
-      "precoDe": 69,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T18:02:31.394Z"
-    },
-    {
-      "id": "32251",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Masculina Dry Alpha Lobo Geométrico",
-      "link": "https://meli.la/2ptFq4g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619645-MLB103998556775_012026-O.webp",
-      "preco": 73.9,
-      "precoDe": 149.7,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-18T17:59:07.781Z"
     }
   ]
 }
