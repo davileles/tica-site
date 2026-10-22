@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-22T20:48:26.626Z",
+  "atualizadoEm": "2026-10-22T21:04:20.510Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34700",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Double Black, 1L",
+      "link": "https://www.amazon.com.br/dp/B008X6TB08?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ywndu8ToL._SL400_.jpg",
+      "preco": 179.9,
+      "precoDe": 266.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T20:54:20.504Z"
+    },
+    {
+      "id": "34693",
+      "loja": "Amazon",
+      "titulo": "Nescau Cereal Matinal Tradicional 770G",
+      "link": "https://www.amazon.com.br/dp/B081QVY2TD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51J761R7sUL._SL400_.jpg",
+      "preco": 17.9,
+      "precoDe": 31.19,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T20:53:22.885Z"
+    },
+    {
+      "id": "34692",
+      "loja": "Shopee",
+      "titulo": "Smart Tv Philco 43\" Full Hd Roku Tv P43cra",
+      "link": "https://s.shopee.com.br/3g4f7aODox",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mqby38vkei9sa2_tn",
+      "preco": 1433.7,
+      "precoDe": 2655,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T20:49:53.053Z"
+    },
     {
       "id": "34684",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:39:31.164Z"
-    },
-    {
-      "id": "32960",
-      "loja": "Amazon",
-      "titulo": "Fila Adulto Speedrocker Tênis de Corrida Verde e Azul Tamanho 44 com SKYFOAM Masculino",
-      "link": "https://www.amazon.com.br/dp/B0GTC1JBV5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FD0jwdBxL._SL400_.jpg",
-      "preco": 509.45,
-      "precoDe": 799.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:36:10.774Z"
-    },
-    {
-      "id": "32954",
-      "loja": "Shopee",
-      "titulo": "Kit 12 Toalhas Umedecidas Upa Bebê Flip Top 140un (1680)",
-      "link": "https://s.shopee.com.br/3g4a75zVjO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mieelpanocg681_tn",
-      "preco": 89.99,
-      "precoDe": 99.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:32:39.377Z"
-    },
-    {
-      "id": "32953",
-      "loja": "Shopee",
-      "titulo": "Kit Chocalho 8 Peças Mordedor Bebê Brinquedo Sensorial Macio Presente Para Menina e Menino Móbile para Berço",
-      "link": "https://s.shopee.com.br/qkOjrOEiL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtzdbhwe4uae0_tn",
-      "preco": 27.9,
-      "precoDe": 55.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:29:16.263Z"
     }
   ]
 }
