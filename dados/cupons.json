@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-22T18:18:29.960Z",
+  "atualizadoEm": "2026-10-22T18:19:37.772Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "ESTILO15",
+      "loja": "ASICS",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-30T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
+    },
+    {
+      "codigo": "JOGA15",
+      "loja": "ASICS",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-30T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
+    },
+    {
+      "codigo": "RUN15",
+      "loja": "ASICS",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-30T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
+    },
     {
       "codigo": "15SELECAO",
       "loja": "BELEZA NA WEB",
@@ -253,6 +289,18 @@
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "PLAYNOFINDE",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-25T13:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "ASROCK100",
