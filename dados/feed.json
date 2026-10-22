@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T22:05:08.611Z",
+  "atualizadoEm": "2026-10-22T22:18:26.631Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34719",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/5AtT0KvhK4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 25.99,
+      "precoDe": 46.41,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T22:16:43.518Z"
+    },
     {
       "id": "34714",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:55:07.116Z"
-    },
-    {
-      "id": "32966",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Cobertor de Bebê Tricô Manta Básica Liso Saída Maternidade Quentinha Unissex Menino Menina Presente",
-      "link": "https://s.shopee.com.br/8AWzUetvJx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-msfdwzcojqbo13_tn",
-      "preco": 79.97,
-      "precoDe": 119.36,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:51:28.371Z"
     }
   ]
 }
