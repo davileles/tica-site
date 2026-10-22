@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T13:48:26.448Z",
+  "atualizadoEm": "2026-10-22T14:15:54.701Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34434",
+      "loja": "Shopee",
+      "titulo": "Elástico de Treino Mini Band / Elástico Tensão Extensor Exercício Treino Funcional Fisioterapia em Casa",
+      "link": "https://s.shopee.com.br/50a2GK0NFw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-mc3e4voqn0187b_tn",
+      "preco": 12.99,
+      "precoDe": 32.48,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T14:05:54.696Z"
+    },
     {
       "id": "34418",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-10-19T11:10:55.036Z"
-    },
-    {
-      "id": "32682",
-      "loja": "Mercado Livre",
-      "titulo": "Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão Automotivo 4Ah a 100Ah Com Função Reparo Display Digital Proteção Carga Emergencia Portátil Resistente Eficiente",
-      "link": "https://meli.la/2F8KEJ2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702532-MLA119472389033_102026-F.jpg",
-      "preco": 38.9,
-      "precoDe": 98.9,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T11:09:58.489Z"
     }
   ]
 }
