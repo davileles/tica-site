@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T15:09:06.895Z",
+  "atualizadoEm": "2026-10-22T15:18:26.459Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34451",
+      "loja": "Shopee",
+      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+      "link": "https://s.shopee.com.br/80DduYgWKw",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
+      "preco": 17.72,
+      "precoDe": 21.35,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T15:14:46.649Z"
+    },
     {
       "id": "34449",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-19T12:11:20.600Z"
-    },
-    {
-      "id": "32730",
-      "loja": "Mercado Livre",
-      "titulo": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo Ultrafino 8,5cm Esvaziamento Limpeza e Secagem Automática Mapeamento Laser Multinível Escova Antiembaraç",
-      "link": "https://meli.la/1re1qQo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650710-MLA107154824523_022026-F.jpg",
-      "preco": 2649,
-      "precoDe": 5999,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:04:20.685Z"
     }
   ]
 }
