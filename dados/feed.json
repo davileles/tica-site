@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-22T20:02:08.224Z",
+  "atualizadoEm": "2026-10-22T20:18:26.626Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34667",
+      "loja": "Shopee",
+      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
+      "link": "https://s.shopee.com.br/gR3VcHqd3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
+      "preco": 116.6,
+      "precoDe": 212,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T20:16:25.041Z"
+    },
+    {
+      "id": "34663",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Msi Mag Coreliquid A12 360, Argb, Preto",
+      "link": "https://meli.la/2u33a5k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875629-MLA84217866904_052025-F.jpg",
+      "preco": 336.21999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRITTAS",
+      "enviadoEm": "2026-10-22T20:12:29.156Z"
+    },
+    {
+      "id": "34660",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo Frequência 60Hz",
+      "link": "https://meli.la/21A88QW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648315-MLA113252989356_072026-F.jpg",
+      "preco": 65.55,
+      "precoDe": 119.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T20:08:54.733Z"
+    },
+    {
+      "id": "34657",
+      "loja": "Mercado Livre",
+      "titulo": "SSD 1TB M.2 NVMe PCIe 4.0 Western Digital Sn3000 Velocidade de Leitura e Gravação 5000/4200 MB/s WDS100T4G0E-00CPS0",
+      "link": "https://meli.la/23nqLor",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803738-MLA99373438230_112025-F.jpg",
+      "preco": 857.96,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "COMPRITTAS",
+      "enviadoEm": "2026-10-22T20:05:08.337Z"
+    },
     {
       "id": "34650",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 22,
       "cupom": "MELHORDOML",
       "enviadoEm": "2026-10-19T17:01:44.794Z"
-    },
-    {
-      "id": "32910",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jeans Pantalona Wide Leg Feminina Cintura Alta Larga",
-      "link": "https://meli.la/1iq3ADZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824308-MLB118356425559_092026-O.webp",
-      "preco": 55.83,
-      "precoDe": 109.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:58:14.499Z"
-    },
-    {
-      "id": "32909",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
-      "link": "https://meli.la/1twLpFY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981459-MLA117136184907_092026-F.jpg",
-      "preco": 127.92,
-      "precoDe": 319.9,
-      "desconto": 50,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T16:54:53.868Z"
-    },
-    {
-      "id": "32907",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Tommy Hilfiger Masculino Aço 1791755",
-      "link": "https://meli.la/2JuxWbp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837640-MLU77157375330_072024-F.jpg",
-      "preco": 445.5,
-      "precoDe": 990,
-      "desconto": 50,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-10-19T16:54:04.311Z"
-    },
-    {
-      "id": "32902",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Curvo AOC AGON QUAD 34\" Ultrawide WQHD 180Hz 0,5ms Base Ajustável U34G4C",
-      "link": "https://meli.la/2kAVvQt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774096-MLA96608370183_102025-F.jpg",
-      "preco": 1579,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-10-19T16:46:39.256Z"
     }
   ]
 }
