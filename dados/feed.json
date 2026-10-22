@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T14:39:50.709Z",
+  "atualizadoEm": "2026-10-22T15:09:06.895Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34449",
+      "loja": "Amazon",
+      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Black Urban",
+      "link": "https://www.amazon.com.br/dp/B09SP9WPPC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JQ1nU2XZL._SL400_.jpg",
+      "preco": 1342.4,
+      "precoDe": 2299,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T14:59:06.849Z"
+    },
+    {
+      "id": "34444",
+      "loja": "Shopee",
+      "titulo": "KY2 Pro Sem Fio Bluetooth 5.3 Fone De Ouvido Único Tampões Ultra Longa Vida Útil Da Bateria Negócios Esportes Fones Com",
+      "link": "https://s.shopee.com.br/gR39U8pct",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lufrk06tgqr7d8_tn",
+      "preco": 10.34,
+      "precoDe": 21.1,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T14:51:48.667Z"
+    },
     {
       "id": "34442",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-10-19T12:04:20.685Z"
-    },
-    {
-      "id": "32713",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "link": "https://s.shopee.com.br/8V9pUsnX1Y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
-      "preco": 44.9,
-      "precoDe": 71.27,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T11:52:01.710Z"
-    },
-    {
-      "id": "32702",
-      "loja": "Shopee",
-      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
-      "link": "https://s.shopee.com.br/50ZxIuDNEq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
-      "preco": 59.97,
-      "precoDe": 85.67,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T11:29:12.950Z"
     }
   ]
 }
