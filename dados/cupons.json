@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T01:18:26.718Z",
+  "atualizadoEm": "2026-10-22T01:48:26.709Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1763,7 +1763,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
-      "validadeAte": "2026-10-22T02:59:32.722Z",
+      "validadeAte": "2026-10-22T02:59:30.635Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1775,7 +1775,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
-      "validadeAte": "2026-10-22T02:59:32.722Z",
+      "validadeAte": "2026-10-22T02:59:30.635Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1812,6 +1812,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-22T22:51:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GOLACO10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-22T02:59:30.635Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2593,18 +2605,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "SEMICOM50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-22T01:28:14.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "EXTR4DROPAF",
