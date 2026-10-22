@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T21:04:22.384Z",
+  "atualizadoEm": "2026-10-22T21:41:10.178Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1896,18 +1896,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-22T22:51:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTAO5",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 600,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-23T21:00:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
