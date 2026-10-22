@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-22T19:14:46.845Z",
+  "atualizadoEm": "2026-10-22T19:41:09.211Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34631",
+      "loja": "Amazon",
+      "titulo": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zOJxsrisL._SL400_.jpg",
+      "preco": 64.89,
+      "precoDe": 95.57,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:31:09.208Z"
+    },
+    {
+      "id": "34630",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Safety 1st, Spark Splus, 0 meses a 22 kg, Black Graphite",
+      "link": "https://www.amazon.com.br/dp/B0DMTK6XQJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+Tr57gtoL._SL400_.jpg",
+      "preco": 851,
+      "precoDe": 1499,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:30:03.373Z"
+    },
+    {
+      "id": "34629",
+      "loja": "Mercado Livre",
+      "titulo": "Baby Monitor Vb603 Baba Eletrônica Com Monitor 110v/220v 110v/220v Branco",
+      "link": "https://meli.la/1ph34kM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856771-MLB110125391180_042026-O.webp",
+      "preco": 223,
+      "precoDe": 329.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:29:04.693Z"
+    },
+    {
+      "id": "34627",
+      "loja": "Shopee",
+      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
+      "link": "https://s.shopee.com.br/9APba4h4Lm",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
+      "preco": 29.9,
+      "precoDe": 34.77,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:27:49.752Z"
+    },
     {
       "id": "34613",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-19T16:27:47.139Z"
-    },
-    {
-      "id": "32875",
-      "loja": "Amazon",
-      "titulo": "Luminária De LED de Sobrepor Redonda Bivolt 31W 3 Em 1 Com Luz Central Dupla (Preto)",
-      "link": "https://www.amazon.com.br/dp/B0CHBLPCGK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Dkh7T0jpL._SL400_.jpg",
-      "preco": 179,
-      "precoDe": 289,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:10:28.572Z"
-    },
-    {
-      "id": "32874",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V",
-      "link": "https://meli.la/2c9DF2N",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969245-MLA99639655414_122025-F.jpg",
-      "preco": 239.2,
-      "precoDe": 575,
-      "desconto": 48,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T16:06:54.554Z"
-    },
-    {
-      "id": "32871",
-      "loja": "Shopee",
-      "titulo": "Karaokê Bluetooth com 2 Microfones Sem Fio Caixa de Som Portátil ANJGG BRASIL",
-      "link": "https://s.shopee.com.br/4fx7CymRIw",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpido8umydqje7_tn",
-      "preco": 34.99,
-      "precoDe": 79.52,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:01:21.856Z"
-    },
-    {
-      "id": "32865",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 02 Travesseiro Antialérgico Pluma De Ganso 70cm X 50cm Cor Branco",
-      "link": "https://meli.la/1Js4N1Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636485-MLA109126967806_042026-F.jpg",
-      "preco": 29.89,
-      "precoDe": 58.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T15:44:07.277Z"
     }
   ]
 }
