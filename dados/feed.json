@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T19:48:26.625Z",
+  "atualizadoEm": "2026-10-22T20:02:08.224Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34650",
+      "loja": "Amazon",
+      "titulo": "Amstel Vibes Bebida Mista Limão, Pack 6 Latas 269ml",
+      "link": "https://www.amazon.com.br/dp/B0FRB2PWZG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dNienJvIL._SL400_.jpg",
+      "preco": 34.14,
+      "precoDe": 35.94,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:52:08.217Z"
+    },
+    {
+      "id": "34645",
+      "loja": "Shopee",
+      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "link": "https://s.shopee.com.br/6q1gpMptQp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
+      "preco": 18.9,
+      "precoDe": 27,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:50:46.603Z"
+    },
     {
       "id": "34642",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "MELHORDOML",
       "enviadoEm": "2026-10-19T16:46:39.256Z"
-    },
-    {
-      "id": "32898",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gYTgk90DL._SL400_.jpg",
-      "preco": 54.99,
-      "precoDe": 64.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:39:29.238Z"
-    },
-    {
-      "id": "32892",
-      "loja": "Amazon",
-      "titulo": "Porto Brasil Conjunto com 6 Pratos Fundo Orgânico Lavanda Ø21.2cm 600ml",
-      "link": "https://www.amazon.com.br/dp/B0DYVPBW3W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vPQtuIBrL._SL400_.jpg",
-      "preco": 109.44,
-      "precoDe": 237.23,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T16:38:18.910Z"
     }
   ]
 }
