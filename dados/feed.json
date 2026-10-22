@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T18:48:26.600Z",
+  "atualizadoEm": "2026-10-22T19:14:46.845Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34613",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
+      "link": "https://s.shopee.com.br/20wR1KH4Sw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
+      "preco": 73.4,
+      "precoDe": 100.55,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T19:04:46.839Z"
+    },
+    {
+      "id": "34602",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Básica Masculina Manga Longa Slim Hering",
+      "link": "https://meli.la/1ybzG99",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979625-MLB115382118167_072026-O.webp",
+      "preco": 79.99,
+      "precoDe": 199.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T18:56:54.844Z"
+    },
     {
       "id": "34591",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-19T15:44:07.277Z"
-    },
-    {
-      "id": "32861",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
-      "link": "https://s.shopee.com.br/6fiBZ5ibaV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
-      "preco": 12.9,
-      "precoDe": 30,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T15:38:44.348Z"
-    },
-    {
-      "id": "32857",
-      "loja": "Mercado Livre",
-      "titulo": "Shorts Academia Feminino Modelador Com Bolso Zero Opacidade",
-      "link": "https://meli.la/12BTstG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813143-MLB93548889416_102025-O.webp",
-      "preco": 27.7,
-      "precoDe": 41.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T15:29:44.424Z"
     }
   ]
 }
