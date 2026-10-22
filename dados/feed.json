@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T21:18:22.830Z",
+  "atualizadoEm": "2026-10-22T21:41:08.414Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34712",
+      "loja": "Shopee",
+      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
+      "link": "https://s.shopee.com.br/113tzYSKTK",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
+      "preco": 111.99,
+      "precoDe": 159.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T21:31:08.408Z"
+    },
     {
       "id": "34705",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:44:18.244Z"
-    },
-    {
-      "id": "32963",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto 2 Baterias 20v Fonte Carregamento Bivolt Pfv238i Vonder",
-      "link": "https://meli.la/2z67LSw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_672114-MLA110504029989_042026-F.jpg",
-      "preco": 222.68,
-      "precoDe": 379.9,
-      "desconto": 27,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T17:40:41.746Z"
     }
   ]
 }
