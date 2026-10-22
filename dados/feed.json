@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T21:41:08.414Z",
+  "atualizadoEm": "2026-10-22T22:05:08.611Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34714",
+      "loja": "Amazon",
+      "titulo": "Leite Pó Semidesnatado Ninho Adulto Lata 350g",
+      "link": "https://www.amazon.com.br/dp/B0CVNLWF51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418UWrNHUfL._SL400_.jpg",
+      "preco": 19.99,
+      "precoDe": 22.59,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T21:55:08.608Z"
+    },
+    {
+      "id": "34713",
+      "loja": "Shopee",
+      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
+      "link": "https://s.shopee.com.br/8pmlLVq7k2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
+      "preco": 15.86,
+      "precoDe": 44.06,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T21:54:00.949Z"
+    },
     {
       "id": "34712",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-10-19T17:51:28.371Z"
-    },
-    {
-      "id": "32965",
-      "loja": "Amazon",
-      "titulo": "Stanley Copo Térmico Stacking Black 2.0 473ml",
-      "link": "https://www.amazon.com.br/dp/B0GC94RH4S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315cfywfO2L._SL400_.jpg",
-      "preco": 90.11,
-      "precoDe": 159,
-      "desconto": 33,
-      "cupom": "STANLEY15",
-      "enviadoEm": "2026-10-19T17:47:52.897Z"
-    },
-    {
-      "id": "32964",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeína 200mg (60 Caps) Termogênico Growth Supplements",
-      "link": "https://meli.la/1ZoN37P",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769651-MLA99596985544_122025-F.jpg",
-      "preco": 37.64,
-      "precoDe": 64.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:44:18.244Z"
     }
   ]
 }
