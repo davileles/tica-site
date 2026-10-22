@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-22T23:18:26.632Z",
+  "atualizadoEm": "2026-10-22T23:32:49.474Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34731",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 71.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T23:22:49.469Z"
+    },
+    {
+      "id": "34730",
+      "loja": "Amazon",
+      "titulo": "Rum Montilla Carta Cristal - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B07XL4Y3WK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQLZScnaL._SL400_.jpg",
+      "preco": 36.62,
+      "precoDe": 39.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T23:21:46.568Z"
+    },
     {
       "id": "34728",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-19T18:06:28.413Z"
-    },
-    {
-      "id": "32975",
-      "loja": "Amazon",
-      "titulo": "Tênis Mizuno Sunrise, Arenito, Tamanho 41",
-      "link": "https://www.amazon.com.br/dp/B0GHSMPBP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+hKH0As2L._SL400_.jpg",
-      "preco": 249.9,
-      "precoDe": 449.99,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:03:00.254Z"
-    },
-    {
-      "id": "32974",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Alimentação Bebê Infantil Refeição Silicone Papinha Cor Rosa Escuro",
-      "link": "https://meli.la/2Xbwetn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_907453-MLA110957085067_042026-F.jpg",
-      "preco": 42.9,
-      "precoDe": 52.79,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:59:37.749Z"
     }
   ]
 }
