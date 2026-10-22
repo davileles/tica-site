@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T21:04:20.510Z",
+  "atualizadoEm": "2026-10-22T21:18:22.830Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34705",
+      "loja": "Shopee",
+      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "link": "https://s.shopee.com.br/8AX4UxJ9WJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
+      "preco": 11.22,
+      "precoDe": 18.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T21:08:22.824Z"
+    },
     {
       "id": "34700",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 27,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-10-19T17:40:41.746Z"
-    },
-    {
-      "id": "32961",
-      "loja": "Shopee",
-      "titulo": "Kit Luminárias Infantil LED Luminária Nuvem Urso Estrelas e Balões Quadro Parede Decoração Quarto Infantil Fio de Fada",
-      "link": "https://s.shopee.com.br/3qO0JtLxKz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-msjz82yxab5y82_tn",
-      "preco": 142,
-      "precoDe": 179.75,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T17:39:31.164Z"
     }
   ]
 }
