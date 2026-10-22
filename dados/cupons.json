@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T01:48:26.709Z",
+  "atualizadoEm": "2026-10-22T03:18:26.703Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -504,18 +504,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "MAG10OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-22T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1671,6 +1659,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RESGATEFULL2210",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em entregas Full. Desconto em selecionados conforme lista.",
+      "validadeAte": "2026-10-23T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1743,54 +1743,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SEMPRETEMCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTACONSTRUIR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
-      "validadeAte": "2026-10-22T02:59:30.635Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIPILOTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
-      "validadeAte": "2026-10-22T02:59:30.635Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFSEMPREMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
-      "validadeAte": "2026-10-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ESQFASHBEAUTY2110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1812,18 +1764,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-22T22:51:58.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GOLACO10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-22T02:59:30.635Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1861,18 +1801,6 @@
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
-    },
-    {
-      "codigo": "ULTIMAS30",
-      "loja": "Nike",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-22T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
