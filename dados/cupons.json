@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T19:14:48.562Z",
+  "atualizadoEm": "2026-10-22T19:41:11.142Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -291,6 +291,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
+      "codigo": "NOVO5",
+      "loja": "Fastshop",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
       "codigo": "PLAYNOFINDE",
       "loja": "Kabum",
       "tipo": "reais",
@@ -471,6 +483,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "FARMOU",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-27T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "PLAYNINJA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -567,6 +591,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "SETUPFULL10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -624,6 +660,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-28T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CASADIN",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-26T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1743,6 +1791,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRITTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 111,
+      "observacao": null,
+      "validadeAte": "2026-10-23T19:38:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2605,6 +2665,18 @@
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-10-23T17:03:02.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ESQUENTA30",
+      "loja": "Under Armour",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
     },
     {
       "codigo": "WINE15",
