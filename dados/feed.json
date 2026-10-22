@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-22T17:18:26.515Z",
+  "atualizadoEm": "2026-10-22T17:30:05.554Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34537",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Citron - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": 71.9,
+      "precoDe": 117.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T17:20:05.542Z"
+    },
     {
       "id": "34528",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-19T14:09:01.746Z"
-    },
-    {
-      "id": "32818",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "link": "https://s.shopee.com.br/7KxsFY8vyc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
-      "preco": 10.5,
-      "precoDe": 12.65,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T13:59:57.766Z"
     }
   ]
 }
