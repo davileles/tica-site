@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-22T15:48:26.511Z",
+  "atualizadoEm": "2026-10-22T16:18:26.511Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34483",
+      "loja": "Shopee",
+      "titulo": "iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
+      "link": "https://s.shopee.com.br/1qd0dDj9L6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
+      "preco": 7580,
+      "precoDe": 14862.75,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T16:16:10.086Z"
+    },
+    {
+      "id": "34481",
+      "loja": "Mercado Livre",
+      "titulo": "Óculos Esportivo Pace Premium Proteção Uv400 Baixa Ciclismo",
+      "link": "https://meli.la/2zE3CAt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630123-MLB113939874086_072026-O.webp",
+      "preco": 67,
+      "precoDe": 199.99,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T16:12:27.383Z"
+    },
+    {
+      "id": "34476",
+      "loja": "Mercado Livre",
+      "titulo": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Branco",
+      "link": "https://meli.la/1dbwoAA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701125-MLA107189193811_022026-F.jpg",
+      "preco": 99.99,
+      "precoDe": 211.25,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T16:04:23.708Z"
+    },
+    {
+      "id": "34475",
+      "loja": "Mercado Livre",
+      "titulo": "Garrafa Térmica Stanley Aerolight Flip Straw Black 473ml",
+      "link": "https://meli.la/2AG9idJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_672773-MLA113821651425_062026-F.jpg",
+      "preco": 127.85,
+      "precoDe": 289,
+      "desconto": 51,
+      "cupom": "LOJASOFICIAISRESGATE",
+      "enviadoEm": "2026-10-22T16:00:40.238Z"
+    },
+    {
+      "id": "34470",
+      "loja": "Mercado Livre",
+      "titulo": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Bk-r3x Cor Branco",
+      "link": "https://meli.la/1hN8FAU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849014-MLA99977250743_112025-F.jpg",
+      "preco": 99.02,
+      "precoDe": 211.25,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T15:57:09.942Z"
+    },
+    {
+      "id": "34469",
+      "loja": "Mercado Livre",
+      "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+      "link": "https://meli.la/1FqVdTH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+      "preco": 77.52,
+      "precoDe": 179.84,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T15:53:24.254Z"
+    },
+    {
+      "id": "34467",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Pra Torcer Pica Pau Bordado Reserva",
+      "link": "https://meli.la/2b9gLAj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916217-MLB118395707745_092026-O.webp",
+      "preco": 61.11,
+      "precoDe": 129,
+      "desconto": 32,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-22T15:50:04.367Z"
+    },
     {
       "id": "34466",
       "loja": "Mercado Livre",
@@ -5917,90 +6001,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-10-19T13:06:30.365Z"
-    },
-    {
-      "id": "32789",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Garrafa Térmica de Aço Inox Branca com Parede Dupla - 500ml - Linha Ice",
-      "link": "https://www.amazon.com.br/dp/B0BPMQKXQB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21PxYqFugHL._SL400_.jpg",
-      "preco": 34.9,
-      "precoDe": 59,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T13:05:32.827Z"
-    },
-    {
-      "id": "32785",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 9 Pares Meias Puma Sapatilha Cano Curto Baixo Original",
-      "link": "https://meli.la/1b8rNNo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711792-MLB54129158447_032023-O.webp",
-      "preco": 69.9,
-      "precoDe": 199.99,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:59:50.425Z"
-    },
-    {
-      "id": "32784",
-      "loja": "Amazon",
-      "titulo": "Banheira De Bebê Dobrável Portátil Com Almofada De Banho (Azul)",
-      "link": "https://www.amazon.com.br/dp/B0FX61W5QY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dYFDgFqzL._SL400_.jpg",
-      "preco": 153.04,
-      "precoDe": 179,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:56:01.736Z"
-    },
-    {
-      "id": "32778",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Vidro Hermético 370ml Retangular 4 Travas Marmita Premium Homix",
-      "link": "https://meli.la/1pUe9ZH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874798-MLA115294098058_082026-F.jpg",
-      "preco": 59.95,
-      "precoDe": 78.9,
-      "desconto": 5,
-      "cupom": "CPAMD19",
-      "enviadoEm": "2026-10-19T12:54:24.608Z"
-    },
-    {
-      "id": "32776",
-      "loja": "Shopee",
-      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
-      "link": "https://s.shopee.com.br/3LRjOY2klp",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
-      "preco": 29.98,
-      "precoDe": 44.09,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:50:15.304Z"
-    },
-    {
-      "id": "32775",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Primeiros Dias Tamanho RN (Até 4 kg), 36 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51juZflDKPL._SL400_.jpg",
-      "preco": 45.17,
-      "precoDe": 52.83,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:46:54.330Z"
-    },
-    {
-      "id": "32762",
-      "loja": "Amazon",
-      "titulo": "Monitor Gamer Curvo 32\" Redragon Tassos QHD 170Hz VA 1ms MPRT G-Sync FreeSync GM32H2Q",
-      "link": "https://www.amazon.com.br/dp/B0CRMCC6W8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21Hye0yy+RL._SL400_.jpg",
-      "preco": 1009.1,
-      "precoDe": 2109.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T12:43:00.487Z"
     }
   ]
 }
