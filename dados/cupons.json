@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T20:18:28.926Z",
+  "atualizadoEm": "2026-10-22T21:04:22.384Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "MOVEIS200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-23T21:01:45.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TVSECELULARES",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -696,6 +708,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-23T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOVEIS100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-23T21:01:45.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1872,6 +1896,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-22T22:51:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTAO5",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 600,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-23T21:00:28.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
