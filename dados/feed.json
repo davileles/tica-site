@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-22T17:48:26.565Z",
+  "atualizadoEm": "2026-10-22T18:18:26.578Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34569",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo P 180 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C31H5KBG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51UPmBRCeBL._SL400_.jpg",
+      "preco": 134.9,
+      "precoDe": 171.48,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T18:09:37.429Z"
+    },
+    {
+      "id": "34567",
+      "loja": "Mercado Livre",
+      "titulo": "Jaqueta Corta Vento Impermeável Semi Forrada Com Capuz - T&amp;g",
+      "link": "https://meli.la/1HMnJ4C",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655562-MLB114656147495_072026-O.webp",
+      "preco": 42,
+      "precoDe": 129.98,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T18:08:29.654Z"
+    },
+    {
+      "id": "34565",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07JM6YQZC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21XNCZwACEL._SL400_.jpg",
+      "preco": 49.95,
+      "precoDe": 62.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T18:05:05.608Z"
+    },
+    {
+      "id": "34562",
+      "loja": "Shopee",
+      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
+      "link": "https://s.shopee.com.br/AKbYs7bKR7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
+      "preco": 19.54,
+      "precoDe": 22.99,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T17:59:05.669Z"
+    },
     {
       "id": "34555",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 31,
       "cupom": "OFFHOJENOML",
       "enviadoEm": "2026-10-19T15:08:28.432Z"
-    },
-    {
-      "id": "32845",
-      "loja": "Amazon",
-      "titulo": "Água Micelar Garnier Uniform & Matte Antioleosidade Vitamina C 400ml",
-      "link": "https://www.amazon.com.br/dp/B085PJ3G53?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/417RQQjZaeL._SL400_.jpg",
-      "preco": 40.6,
-      "precoDe": 68.29,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T15:00:17.215Z"
-    },
-    {
-      "id": "32838",
-      "loja": "Shopee",
-      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
-      "link": "https://s.shopee.com.br/3Vl9jc7A4h",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mry50y1zr1mo61_tn",
-      "preco": 19.9,
-      "precoDe": 26.89,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T14:45:14.899Z"
-    },
-    {
-      "id": "32834",
-      "loja": "Amazon",
-      "titulo": "WOLFF Faqueiro de Aço Inox Berna 30 Peças - Mesa Posta - Itens Para Casa - Utensílios de Cozinha - Enxoval - Casamento - Decoração",
-      "link": "https://www.amazon.com.br/dp/B076PL2ZSP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312AoNra2KL._SL400_.jpg",
-      "preco": 239.02,
-      "precoDe": 559.46,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T14:37:24.777Z"
-    },
-    {
-      "id": "32823",
-      "loja": "Shopee",
-      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
-      "link": "https://s.shopee.com.br/3LRjVkBzI9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
-      "preco": 49.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T14:22:37.594Z"
     }
   ]
 }
