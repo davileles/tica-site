@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-23T20:18:26.789Z",
+  "atualizadoEm": "2026-10-23T20:48:26.790Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35146",
+      "loja": "Amazon",
+      "titulo": "Growth Supplements - Creatina Monohidratada 250g - Growth Supplements - Sem sabor em pó",
+      "link": "https://www.amazon.com.br/dp/B0H91SW8FW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-8EPfIxQL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 42.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:46:14.272Z"
+    },
+    {
+      "id": "35145",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Long Neck 330ml 12 Unidades",
+      "link": "https://s.shopee.com.br/AUv0qWxpgi",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx1-m0em60jmlrqo4c_tn",
+      "preco": 144.97,
+      "precoDe": 204.18,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:39:36.721Z"
+    },
+    {
+      "id": "35144",
+      "loja": "Amazon",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
+      "preco": 199,
+      "precoDe": 475.22,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:38:13.479Z"
+    },
+    {
+      "id": "35142",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/9APdFLH9vj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 27.89,
+      "precoDe": 69.72,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:31:45.371Z"
+    },
+    {
+      "id": "35136",
+      "loja": "Shopee",
+      "titulo": "Patins Infantil 4 Rodas Sereia Com Luz De LED Top Patins +Kit Proteção e Sem Kit Proteção Menina Menino Promoção",
+      "link": "https://s.shopee.com.br/4B0xHLpvHz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meir0ua4a51de6_tn",
+      "preco": 125.99,
+      "precoDe": 199.98,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:23:08.838Z"
+    },
+    {
+      "id": "35134",
+      "loja": "Shopee",
+      "titulo": "Cerveja De Trigo Paulaner Weissbier Original 500ml (6 Und)",
+      "link": "https://s.shopee.com.br/2BFstUtBHO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmkpybb70j5y6a_tn",
+      "preco": 131.9,
+      "precoDe": 158.92,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T20:19:18.748Z"
+    },
     {
       "id": "35133",
       "loja": "Shopee",
@@ -4239,18 +4311,6 @@
       "enviadoEm": "2026-10-21T13:34:13.863Z"
     },
     {
-      "id": "33863",
-      "loja": "Amazon",
-      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
-      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
-      "preco": 206,
-      "precoDe": 475.22,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:32:46.515Z"
-    },
-    {
       "id": "33859",
       "loja": "Amazon",
       "titulo": "Camisa Santos Away 2026 Torcedor N10 Umbro, Masculino, Preto/Branco, G",
@@ -5941,66 +6001,6 @@
       "desconto": 15,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-10-20T13:55:51.068Z"
-    },
-    {
-      "id": "33371",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
-      "link": "https://s.shopee.com.br/8AX0oqPspg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
-      "preco": 94.9,
-      "precoDe": 120.13,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T13:43:38.257Z"
-    },
-    {
-      "id": "33364",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
-      "preco": 53.42,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-20T13:33:06.713Z"
-    },
-    {
-      "id": "33356",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/8AX0nWS0Fu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.99,
-      "precoDe": 67.96,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T13:27:55.867Z"
-    },
-    {
-      "id": "33354",
-      "loja": "Mercado Livre",
-      "titulo": "Shorts Feminino Academia Modeladora Com Bolso Proteção Uv50",
-      "link": "https://meli.la/2DD1UEX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725931-MLB96146211263_102025-O.webp",
-      "preco": 26.72,
-      "precoDe": 32.99,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T13:24:28.989Z"
-    },
-    {
-      "id": "33353",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/Lo9St1x3y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T13:20:58.130Z"
     }
   ]
 }
