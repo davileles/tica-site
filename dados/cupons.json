@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T23:18:28.797Z",
+  "atualizadoEm": "2026-10-23T01:48:27.096Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -681,9 +681,9 @@
       "valor": 200,
       "minimo": 1599,
       "maximo": null,
-      "limite": null,
+      "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-23T21:01:45.000Z",
+      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1343,7 +1343,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "validadeAte": "2026-10-23T02:59:01.867Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1884,6 +1884,18 @@
       "limite": 30,
       "observacao": "Válido em lojas oficiais",
       "validadeAte": "2026-10-23T15:00:39.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CAMISAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-23T02:59:31.865Z",
       "url": "https://meli.la/2xystLt"
     },
     {
