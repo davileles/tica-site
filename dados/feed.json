@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T14:37:40.286Z",
+  "atualizadoEm": "2026-10-23T15:07:44.530Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34938",
+      "loja": "Amazon",
+      "titulo": "Buba Pote Térmico Com Colher Rosa",
+      "link": "https://www.amazon.com.br/dp/B0BDMQCYJV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+wgnaz90L._SL400_.jpg",
+      "preco": 80.9,
+      "precoDe": 147.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T14:57:44.516Z"
+    },
+    {
+      "id": "34935",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/9Kj34F8l7i",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T14:54:27.045Z"
+    },
     {
       "id": "34920",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-19T20:29:44.912Z"
-    },
-    {
-      "id": "33087",
-      "loja": "Mercado Livre",
-      "titulo": "Valorant R$100 (Digital)",
-      "link": "https://meli.la/1uqUMvZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808429-MLA116490222849_082026-F.jpg",
-      "preco": 70,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "40OFERTAS1910",
-      "enviadoEm": "2026-10-19T20:26:08.508Z"
-    },
-    {
-      "id": "33085",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
-      "link": "https://meli.la/2pG5on3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689088-MLA99988196355_112025-F.jpg",
-      "preco": 48.900000000000006,
-      "precoDe": 129.9,
-      "desconto": 39,
-      "cupom": "40OFERTAS1910",
-      "enviadoEm": "2026-10-19T20:22:55.639Z"
     }
   ]
 }
