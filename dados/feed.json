@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T00:44:30.420Z",
+  "atualizadoEm": "2026-10-23T10:48:26.689Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34751",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 66.66,
+      "precoDe": 92.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T10:40:03.278Z"
+    },
+    {
+      "id": "34749",
+      "loja": "Amazon",
+      "titulo": "Licor Cointreau 700Ml Rémy Cointreau Sabor 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B01KEXA7YG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TzozWE61L._SL400_.jpg",
+      "preco": 114,
+      "precoDe": 120,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T10:31:06.319Z"
+    },
     {
       "id": "34738",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-19T18:28:36.262Z"
-    },
-    {
-      "id": "33005",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Descanso E Balanço Para Bebê Vibratória Musical Azul Sapo",
-      "link": "https://meli.la/1xUkwHX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666015-MLA109703251514_042026-F.jpg",
-      "preco": 198.92,
-      "precoDe": 387.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:25:10.358Z"
-    },
-    {
-      "id": "33002",
-      "loja": "Mercado Livre",
-      "titulo": "Balde Primeiros Blocos Fisher-price - Mattel Ffc84 Multicolor",
-      "link": "https://meli.la/1BPsMwN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709652-MLA99593588108_122025-F.jpg",
-      "preco": 49.62,
-      "precoDe": 69.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:21:49.668Z"
     }
   ]
 }
