@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T20:48:28.550Z",
+  "atualizadoEm": "2026-10-23T21:18:28.852Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2868,6 +2868,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-24T19:09:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OFERTAS10",
+      "loja": "Shopee",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 49,
+      "observacao": "10% OFF em produtos selecionados",
+      "validadeAte": "2026-10-24T21:13:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
