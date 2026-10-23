@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-23T21:59:43.375Z",
+  "atualizadoEm": "2026-10-23T22:18:26.790Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35181",
+      "loja": "Amazon",
+      "titulo": "Cadeira Gamer Profissional TGC12 Preta/Vermelha THUNDERX3",
+      "link": "https://www.amazon.com.br/dp/B00ELBQK1W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dcgoJUMyL._SL400_.jpg",
+      "preco": 962.96,
+      "precoDe": 1931,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:15:07.716Z"
+    },
+    {
+      "id": "35180",
+      "loja": "Amazon",
+      "titulo": "Cerveja Pilsen Eisenbahn, Lata 350ml, 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BW1GMVMD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vO-AYLqPL._SL400_.jpg",
+      "preco": 41.88,
+      "precoDe": 50.28,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:11:14.767Z"
+    },
+    {
+      "id": "35179",
+      "loja": "Shopee",
+      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+      "link": "https://s.shopee.com.br/8pmmxUpYsY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
+      "preco": 75.89,
+      "precoDe": 199.71,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:10:04.475Z"
+    },
+    {
+      "id": "35177",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Para Automóvel 9 A 36kg Grafite E Preto Styll Baby",
+      "link": "https://meli.la/2cPMeFa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675866-MLA98888771613_112025-F.jpg",
+      "preco": 289,
+      "precoDe": 369.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:00:46.958Z"
+    },
     {
       "id": "35175",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 36,
       "cupom": "OFFSOHJ",
       "enviadoEm": "2026-10-20T15:56:36.301Z"
-    },
-    {
-      "id": "33433",
-      "loja": "Shopee",
-      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
-      "link": "https://s.shopee.com.br/9V2OXdroYH",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
-      "preco": 10.5,
-      "precoDe": 14.79,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:49:07.107Z"
-    },
-    {
-      "id": "33432",
-      "loja": "Mercado Livre",
-      "titulo": "Liquidificador Turbo Power Mondial 550W L-99 WG",
-      "link": "https://meli.la/2jsrjmw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975041-MLA99992396177_112025-F.jpg",
-      "preco": 89.91,
-      "precoDe": 172.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:45:41.335Z"
-    },
-    {
-      "id": "33431",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/9pfEw0wfn4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 149.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:42:07.951Z"
-    },
-    {
-      "id": "33427",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Básicas Brasa Pica Pau Bordado Reserva",
-      "link": "https://meli.la/1gvqGWS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720203-MLB96590822753_102025-O.webp",
-      "preco": 265.05,
-      "precoDe": 387,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:33:45.074Z"
     }
   ]
 }
