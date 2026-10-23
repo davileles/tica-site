@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-23T18:18:26.789Z",
+  "atualizadoEm": "2026-10-23T18:48:26.790Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35050",
+      "loja": "Shopee",
+      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - Mazzal",
+      "link": "https://s.shopee.com.br/8fTMWjn1c9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3c3d93uvho554_tn",
+      "preco": 39.9,
+      "precoDe": 70,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:46:44.929Z"
+    },
+    {
+      "id": "35049",
+      "loja": "Mercado Livre",
+      "titulo": "VITAMINA B12 Metilcobalamina - Fórmula com Máxima Pureza e Concentração - 30 Doses",
+      "link": "https://meli.la/2qs5C8d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680174-MLA114764067791_072026-F.jpg",
+      "preco": 29.4,
+      "precoDe": 71.77,
+      "desconto": 41,
+      "cupom": "PECHINCHA",
+      "enviadoEm": "2026-10-23T18:42:53.007Z"
+    },
+    {
+      "id": "35046",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Fitness Zero Transparência Cintura Alta Koenig",
+      "link": "https://meli.la/2Rtxvxa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694011-MLB95881582766_102025-O.webp",
+      "preco": 23.919999999999998,
+      "precoDe": 59.9,
+      "desconto": 50,
+      "cupom": "MELISUPERCLUB",
+      "enviadoEm": "2026-10-23T18:38:56.605Z"
+    },
+    {
+      "id": "35040",
+      "loja": "Shopee",
+      "titulo": "Garrafinha Térmica Infantil 380mlTampa 3D Bichinho Fofo,2 em 1,Portátil Aço Inox 316,Antivazamento para Escola e Passeio",
+      "link": "https://s.shopee.com.br/1gJcB5p8Og",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mrid1xtrsao58a_tn",
+      "preco": 56.9,
+      "precoDe": 149.74,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:34:49.303Z"
+    },
+    {
+      "id": "35038",
+      "loja": "Amazon",
+      "titulo": "Baby Alive Boneca Bebê Confeiteira Gigi Giggles Morena com Avental e Acessórios de Cozinha",
+      "link": "https://www.amazon.com.br/dp/B0GGN4NX93?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41V2x6o9ahL._SL400_.jpg",
+      "preco": 52.06,
+      "precoDe": 99.99,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:30:10.274Z"
+    },
+    {
+      "id": "35037",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo de Toalha Standard (4 Peças) Branco+Bege - Mercado Livre Basics",
+      "link": "https://meli.la/2uNAkeG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616531-MLA116663992085_082026-F.jpg",
+      "preco": 52.15,
+      "precoDe": 111.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:29:07.365Z"
+    },
+    {
+      "id": "35036",
+      "loja": "Mercado Livre",
+      "titulo": "Corset, Corpete, Corseletes , Espartilhos , Vários Tamanhos ",
+      "link": "https://meli.la/1GoyXys",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652788-MLB84554985817_052025-O.webp",
+      "preco": 104.08,
+      "precoDe": 128.9,
+      "desconto": 5,
+      "cupom": "MOD2310",
+      "enviadoEm": "2026-10-23T18:25:19.577Z"
+    },
+    {
+      "id": "35030",
+      "loja": "Amazon",
+      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+      "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u-fbQqHWL._SL400_.jpg",
+      "preco": 27.99,
+      "precoDe": 44.36,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:21:33.095Z"
+    },
+    {
+      "id": "35029",
+      "loja": "Amazon",
+      "titulo": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/dp/B0HBYBFFFM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E2lrUXwYL._SL400_.jpg",
+      "preco": 4859,
+      "precoDe": 6299,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T18:20:33.146Z"
+    },
     {
       "id": "35028",
       "loja": "Shopee",
@@ -5499,18 +5607,6 @@
       "enviadoEm": "2026-10-20T13:33:06.713Z"
     },
     {
-      "id": "33361",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
-      "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41u-fbQqHWL._SL400_.jpg",
-      "preco": 27.99,
-      "precoDe": 44.36,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T13:29:28.314Z"
-    },
-    {
       "id": "33356",
       "loja": "Shopee",
       "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
@@ -5905,102 +6001,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-10-20T11:11:01.291Z"
-    },
-    {
-      "id": "33234",
-      "loja": "Shopee",
-      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
-      "link": "https://s.shopee.com.br/7fak2sn6OF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
-      "preco": 69.9,
-      "precoDe": 120.52,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T11:06:59.301Z"
-    },
-    {
-      "id": "33232",
-      "loja": "Amazon",
-      "titulo": "Tramontina Aparelho de Jantar Floralis em Porcelana Decorada 20 Peças",
-      "link": "https://www.amazon.com.br/dp/B0DJDR74JX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41H6yi8gw8L._SL400_.jpg",
-      "preco": 219.9,
-      "precoDe": 363.85,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T11:03:22.118Z"
-    },
-    {
-      "id": "33199",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DB9568JH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412TrQf5pBL._SL400_.jpg",
-      "preco": 37,
-      "precoDe": 50.32,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T23:30:35.158Z"
-    },
-    {
-      "id": "33198",
-      "loja": "Amazon",
-      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
-      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 106.18,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T23:22:01.071Z"
-    },
-    {
-      "id": "33195",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
-      "link": "https://s.shopee.com.br/9KixDitfOA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
-      "preco": 79.9,
-      "precoDe": 124.84,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T22:51:49.516Z"
-    },
-    {
-      "id": "33194",
-      "loja": "Amazon",
-      "titulo": "Whisky Old Parr 12 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
-      "preco": 94.9,
-      "precoDe": 126.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T22:40:35.752Z"
-    },
-    {
-      "id": "33189",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Slim Pees Para Cães  30 Unidades  50x60cm",
-      "link": "https://s.shopee.com.br/5VWEd0sX3J",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyx-m0w2wg7zdcxc62_tn",
-      "preco": 34.9,
-      "precoDe": 79.32,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T22:28:55.820Z"
-    },
-    {
-      "id": "33188",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Hw Electrolux Maxcomfort Inverter 18k F 220v",
-      "link": "https://meli.la/2SKsyBG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_611616-MLB116031947525_082026-O.webp",
-      "preco": 2359,
-      "precoDe": 3999,
-      "desconto": 34,
-      "cupom": "TOPMELI",
-      "enviadoEm": "2026-10-19T22:25:44.198Z"
     }
   ]
 }
