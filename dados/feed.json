@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T11:59:34.467Z",
+  "atualizadoEm": "2026-10-23T12:18:26.689Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34806",
+      "loja": "Mercado Livre",
+      "titulo": "Extensão Cabo 5m Bivolt 3 Tomadas Preto",
+      "link": "https://meli.la/1yuhYN4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_695910-MLA99590561108_122025-F.jpg",
+      "preco": 14.25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OPORTUNIDADE",
+      "enviadoEm": "2026-10-23T12:17:19.121Z"
+    },
+    {
+      "id": "34801",
+      "loja": "Shopee",
+      "titulo": "Secador de Tênis Elétrico 300w Esterilizador Elimina Mau Cheiro e Umidade - 110v ou 220v",
+      "link": "https://s.shopee.com.br/3B8PXRbnAn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-muc4kyjxuupse9_tn",
+      "preco": 41.99,
+      "precoDe": 149.96,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T12:08:15.955Z"
+    },
     {
       "id": "34791",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 51,
       "cupom": "MELHORDOML",
       "enviadoEm": "2026-10-19T18:41:15.778Z"
-    },
-    {
-      "id": "33014",
-      "loja": "Amazon",
-      "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue",
-      "link": "https://www.amazon.com.br/dp/B093QCF4PM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51TjwldR7iL._SL400_.jpg",
-      "preco": 47.99,
-      "precoDe": 99.99,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:37:39.841Z"
-    },
-    {
-      "id": "33013",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm LTE, Galaxy AI, Tela em Cristal de Safira Branco",
-      "link": "https://meli.la/2mtCHr3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638923-MLA99487013762_112025-F.jpg",
-      "preco": 1650,
-      "precoDe": 4900,
-      "desconto": 61,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-10-19T18:36:37.893Z"
     }
   ]
 }
