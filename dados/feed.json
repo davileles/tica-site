@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T23:08:04.382Z",
+  "atualizadoEm": "2026-10-23T23:18:26.791Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35193",
+      "loja": "Amazon",
+      "titulo": "White Horse Whisky 1L | Whisky escocês blended de 1L, com sabor equilibrado, notas doces e frutadas e um toque defumado marcante.",
+      "link": "https://www.amazon.com.br/dp/B009UWD34O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31icFtXbfYL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 89.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T23:16:56.256Z"
+    },
+    {
+      "id": "35192",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray No Ten 750ml",
+      "link": "https://www.amazon.com.br/dp/B0DXF1QBM1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UEcjFNlTL._SL400_.jpg",
+      "preco": 137.44,
+      "precoDe": 176.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T23:15:33.948Z"
+    },
     {
       "id": "35191",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:35:51.036Z"
-    },
-    {
-      "id": "33451",
-      "loja": "Shopee",
-      "titulo": "Massageador Alivia Dor Muscular Corrida treino Liberação Miofacial 10 Velocidades BIVOLT SEM FIO Profissional",
-      "link": "https://s.shopee.com.br/4VdidM48M3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msk6nmo7xvd1ba_tn",
-      "preco": 179.9,
-      "precoDe": 227.72,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:32:18.695Z"
-    },
-    {
-      "id": "33450",
-      "loja": "Amazon",
-      "titulo": "Kit de Viagem para Bebê Granado, 60ml, Kit com 4 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+FNSTvHFL._SL400_.jpg",
-      "preco": 52.78,
-      "precoDe": 69,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:29:00.651Z"
     }
   ]
 }
