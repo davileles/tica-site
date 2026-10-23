@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T23:18:26.791Z",
+  "atualizadoEm": "2026-10-23T23:43:40.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35195",
+      "loja": "Amazon",
+      "titulo": "Cachaça de Jambu - Jambuzera 500ml",
+      "link": "https://www.amazon.com.br/dp/B08HT16FKW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315VDU3RSWL._SL400_.jpg",
+      "preco": 55.9,
+      "precoDe": 89.67,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T23:33:40.550Z"
+    },
+    {
+      "id": "35194",
+      "loja": "Amazon",
+      "titulo": "Gin Rocks, Stramberry, 995ml, 1L",
+      "link": "https://www.amazon.com.br/dp/B07Y2CZWP8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31gMcHYSHyL._SL400_.jpg",
+      "preco": 29.21,
+      "precoDe": 43.23,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T23:25:54.069Z"
+    },
     {
       "id": "35193",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:51:55.532Z"
-    },
-    {
-      "id": "33460",
-      "loja": "Mercado Livre",
-      "titulo": "Controlador sem fio Dualsense Remix Green",
-      "link": "https://meli.la/1h5AP5T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
-      "preco": 392.4,
-      "precoDe": 599.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:48:35.390Z"
-    },
-    {
-      "id": "33455",
-      "loja": "Shopee",
-      "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "link": "https://s.shopee.com.br/2BFnrY0pUy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439_tn",
-      "preco": 20.47,
-      "precoDe": 52.49,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:35:51.036Z"
     }
   ]
 }
