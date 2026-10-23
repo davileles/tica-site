@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-22T23:32:49.474Z",
+  "atualizadoEm": "2026-10-23T00:05:52.060Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34735",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
+      "preco": 127,
+      "precoDe": 222.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T23:55:52.048Z"
+    },
+    {
+      "id": "34734",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07WTHV6Y4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MqbmFZIwL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 78.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T23:51:33.031Z"
+    },
+    {
+      "id": "34733",
+      "loja": "Amazon",
+      "titulo": "Cerveja Guinness Draught 440ml",
+      "link": "https://www.amazon.com.br/dp/B07Y2BTQQT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41p+fr4OcrL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 34.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-22T23:50:30.189Z"
+    },
     {
       "id": "34731",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-10-19T18:18:29.717Z"
-    },
-    {
-      "id": "32998",
-      "loja": "Mercado Livre",
-      "titulo": "️ Conjunto com 6 Paninhos de Boca para Bebê, Estampados, em Algodão Premium, Ideais para Menino",
-      "link": "https://meli.la/2qoBVft",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749318-MLB113849724461_062026-O.webp",
-      "preco": 24.99,
-      "precoDe": 39.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:14:58.328Z"
-    },
-    {
-      "id": "32993",
-      "loja": "Mercado Livre",
-      "titulo": "Chave Impacto Brushless 1/2'' Gdx 18v 285 Bosch - Só Maquina",
-      "link": "https://meli.la/2CzEEFC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_677829-MLB101439934905_122025-O.webp",
-      "preco": 474.15999999999997,
-      "precoDe": 899,
-      "desconto": 36,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T18:11:17.978Z"
-    },
-    {
-      "id": "32991",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Cremer Jumbo Tamanho M com 22 Unidades",
-      "link": "https://meli.la/1UfUQLg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604621-MLB109901530642_042026-O.webp",
-      "preco": 18.38,
-      "precoDe": 30,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:06:28.413Z"
     }
   ]
 }
