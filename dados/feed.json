@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T10:48:26.689Z",
+  "atualizadoEm": "2026-10-23T11:13:13.641Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34757",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/5LCu3GF2On",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
+      "preco": 39.9,
+      "precoDe": 56.2,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T11:03:13.635Z"
+    },
     {
       "id": "34751",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-19T18:31:49.022Z"
-    },
-    {
-      "id": "33006",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Tumbler Flip Straw Chili 887ml",
-      "link": "https://www.amazon.com.br/dp/B0DMV2VL35?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31p+WFgd0QL._SL400_.jpg",
-      "preco": 189.04,
-      "precoDe": 319,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:28:36.262Z"
     }
   ]
 }
