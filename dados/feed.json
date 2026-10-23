@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T14:17:48.997Z",
+  "atualizadoEm": "2026-10-23T14:37:40.286Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34920",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
+      "link": "https://s.shopee.com.br/4VdnHkJ1Ho",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
+      "preco": 3.9,
+      "precoDe": 8.86,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T14:27:40.278Z"
+    },
+    {
+      "id": "34918",
+      "loja": "Mercado Livre",
+      "titulo": "Jaqueta Corta Vento Impermeável com Capuz",
+      "link": "https://meli.la/25kw6Yr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732669-MLB118591015197_102026-O.webp",
+      "preco": 44.99,
+      "precoDe": 78.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T14:23:43.915Z"
+    },
     {
       "id": "34913",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 39,
       "cupom": "40OFERTAS1910",
       "enviadoEm": "2026-10-19T20:22:55.639Z"
-    },
-    {
-      "id": "33084",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/1U1Yvd6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-F.jpg",
-      "preco": 44.940000000000005,
-      "precoDe": 239.9,
-      "desconto": 69,
-      "cupom": "40OFERTAS1910",
-      "enviadoEm": "2026-10-19T20:19:27.747Z"
-    },
-    {
-      "id": "33076",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira 3,6v Com Detector De Tensão Gvd 1000-17 Bosch",
-      "link": "https://meli.la/1jQVnhA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_762598-MLA99943282725_112025-F.jpg",
-      "preco": 439.84000000000003,
-      "precoDe": 556.54,
-      "desconto": 3,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T20:12:40.359Z"
     }
   ]
 }
