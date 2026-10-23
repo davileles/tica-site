@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T16:18:26.786Z",
+  "atualizadoEm": "2026-10-23T16:48:26.788Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34982",
+      "loja": "Amazon",
+      "titulo": "Caneca de Aprendizado com Alça Lillo Evolution, Menina, 150ml | Rosa e Verde, Bebedor SIL",
+      "link": "https://www.amazon.com.br/dp/B08V2FY633?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418xVvi3VVL._SL400_.jpg",
+      "preco": 26.91,
+      "precoDe": 45.78,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:46:50.243Z"
+    },
+    {
+      "id": "34973",
+      "loja": "Mercado Livre",
+      "titulo": "Papel Higiênico Folha Dupla 30m L24p22 Personal",
+      "link": "https://meli.la/1pWftkv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710576-MLA117488774728_102026-F.jpg",
+      "preco": 25,
+      "precoDe": 37.68,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:41:55.656Z"
+    },
+    {
+      "id": "34971",
+      "loja": "Shopee",
+      "titulo": "Caminha Cama Pet com Fundo impermeável com Zíper para Cão Gato Grande, Médio e Pequeno",
+      "link": "https://s.shopee.com.br/5AtUDatxPi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3niuyi7s3kd3_tn",
+      "preco": 58,
+      "precoDe": 90.63,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:33:16.612Z"
+    },
     {
       "id": "34964",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "OFFHOJENOML",
       "enviadoEm": "2026-10-19T21:27:06.535Z"
-    },
-    {
-      "id": "33117",
-      "loja": "Shopee",
-      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
-      "link": "https://s.shopee.com.br/9pfDi0qSTq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
-      "preco": 10.99,
-      "precoDe": 45.79,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T21:14:55.283Z"
-    },
-    {
-      "id": "33116",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
-      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/216-B9+UpdL._SL400_.jpg",
-      "preco": 161.3,
-      "precoDe": 245,
-      "desconto": 23,
-      "cupom": "STANLEY15",
-      "enviadoEm": "2026-10-19T21:09:52.486Z"
-    },
-    {
-      "id": "33112",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore Bosch 1500W GDC 150 Titan 220V 06015486E0",
-      "link": "https://meli.la/32C4UWs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930158-MLA95712302522_102025-F.jpg",
-      "preco": 337.59000000000003,
-      "precoDe": 589.9,
-      "desconto": 28,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T21:05:36.136Z"
     }
   ]
 }
