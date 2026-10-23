@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-23T15:48:26.785Z",
+  "atualizadoEm": "2026-10-23T16:18:26.786Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34964",
+      "loja": "Mercado Livre",
+      "titulo": "Guarda-Sol Praia 2,40m Articulado Gigante Azul Proteção UV Antivento Altura Ajustável 90° Premium Verão Praia e Piscina",
+      "link": "https://meli.la/2UTWwYE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731756-MLA116607395166_092026-F.jpg",
+      "preco": 109.6,
+      "precoDe": 199.99,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:17:36.913Z"
+    },
+    {
+      "id": "34962",
+      "loja": "Mercado Livre",
+      "titulo": "Motorola Moto G06 64gb - 4gb Ram Dual Ip64 verde",
+      "link": "https://meli.la/2SCQFgW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_885869-MLA103748512085_012026-F.jpg",
+      "preco": 602.77,
+      "precoDe": 1299,
+      "desconto": 48,
+      "cupom": "TECHPROMO",
+      "enviadoEm": "2026-10-23T16:13:29.665Z"
+    },
+    {
+      "id": "34961",
+      "loja": "Shopee",
+      "titulo": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+      "link": "https://s.shopee.com.br/7VHOyDMp8q",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2_tn",
+      "preco": 99.99,
+      "precoDe": 303,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:09:44.009Z"
+    },
+    {
+      "id": "34960",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Pares Meias Af Corrida Esportiva Poliamida Antifricção",
+      "link": "https://meli.la/32xFXTs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739549-MLB105974834888_022026-O.webp",
+      "preco": 27.96,
+      "precoDe": 79.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T16:05:34.900Z"
+    },
+    {
+      "id": "34956",
+      "loja": "Mercado Livre",
+      "titulo": "Coberta Manta Soft Casal Microfibra Anti-alérgica Dupla Face",
+      "link": "https://meli.la/324Btju",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863574-MLB109124766534_042026-O.webp",
+      "preco": 18.9,
+      "precoDe": 55.44,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T15:59:38.467Z"
+    },
+    {
+      "id": "34955",
+      "loja": "Amazon",
+      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
+      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
+      "preco": 100.26,
+      "precoDe": 141.84,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T15:56:11.226Z"
+    },
     {
       "id": "34952",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 28,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-10-19T21:05:36.136Z"
-    },
-    {
-      "id": "33110",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Pneus 175/70R13 Goodyear Kelly Edge Touring 2 82T Aro 13",
-      "link": "https://meli.la/1HVsn6U",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761067-MLA117263183118_102026-F.jpg",
-      "preco": 547.86,
-      "precoDe": 834.95,
-      "desconto": 27,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-10-19T21:04:31.012Z"
-    },
-    {
-      "id": "33109",
-      "loja": "Amazon",
-      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
-      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
-      "preco": 100.26,
-      "precoDe": 141.84,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T21:00:59.247Z"
-    },
-    {
-      "id": "33108",
-      "loja": "Amazon",
-      "titulo": "Nutella & Go - Creme de Avelãs & Palitos de Biscoito - Importado da Alemanha",
-      "link": "https://www.amazon.com.br/dp/B07Y3TJH7N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DA+aMcAvL._SL400_.jpg",
-      "preco": 19.99,
-      "precoDe": 33.86,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T20:59:37.903Z"
-    },
-    {
-      "id": "33107",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Inverter 12000 Btus Hisense Frio 220v",
-      "link": "https://meli.la/2UoztWq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830989-MLB118487323597_092026-O.webp",
-      "preco": 1729,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-10-19T20:56:10.726Z"
-    },
-    {
-      "id": "33105",
-      "loja": "Shopee",
-      "titulo": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
-      "link": "https://s.shopee.com.br/113pAEabWb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b_tn",
-      "preco": 78,
-      "precoDe": 159.18,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T20:52:28.782Z"
-    },
-    {
-      "id": "33100",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira A Bateria Vonder Pfv120 Cor Amarelo Frequência 50hz 60hz Bivolt",
-      "link": "https://meli.la/1XooTCK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619873-MLA99908787173_112025-F.jpg",
-      "preco": 116.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T20:40:39.063Z"
     }
   ]
 }
