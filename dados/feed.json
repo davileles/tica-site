@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T17:29:35.209Z",
+  "atualizadoEm": "2026-10-23T17:48:26.791Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35006",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
+      "link": "https://s.shopee.com.br/2BFsis4Kv4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 10.8,
+      "precoDe": 27,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T17:42:53.235Z"
+    },
     {
       "id": "34993",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "OFFHOJENOML",
       "enviadoEm": "2026-10-19T21:56:28.591Z"
-    },
-    {
-      "id": "33161",
-      "loja": "Mercado Livre",
-      "titulo": "Lava e Seca Hisense 3S 12kg / 8kg Wi-Fi, 4 em 1, Inverter, 16 programas, Ciclo Rápido, Economia de Água-WD3S1243",
-      "link": "https://meli.la/1LTvZu9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_921375-MLA113629025975_062026-F.jpg",
-      "preco": 2551,
-      "precoDe": 3499,
-      "desconto": 13,
-      "cupom": "ECONOMIA",
-      "enviadoEm": "2026-10-19T21:52:43.389Z"
     }
   ]
 }
