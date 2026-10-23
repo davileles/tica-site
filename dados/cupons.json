@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T17:48:28.746Z",
+  "atualizadoEm": "2026-10-23T18:18:28.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -768,6 +768,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-24T12:00:56.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TV2310",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-10-24T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1803,18 +1815,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA2310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupom válido para categoria Moda",
-      "validadeAte": "2026-10-23T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "RESGATEFULL2310",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1956,6 +1956,18 @@
       "limite": 145,
       "observacao": "Cupons em selecionados no Mercado Livre",
       "validadeAte": "2026-10-24T16:30:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOD2310",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-10-24T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
