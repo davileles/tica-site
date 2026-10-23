@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T00:05:52.060Z",
+  "atualizadoEm": "2026-10-23T00:44:30.420Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34738",
+      "loja": "Mercado Livre",
+      "titulo": "Whisky Ballantine's Finest Blended 1L Escoces",
+      "link": "https://meli.la/2S6ZZbR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_847272-MLA114117651367_072026-F.jpg",
+      "preco": 61.65,
+      "precoDe": 94.7,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T00:34:30.415Z"
+    },
     {
       "id": "34735",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-19T18:21:49.668Z"
-    },
-    {
-      "id": "33000",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "link": "https://s.shopee.com.br/1gJVmpMwyS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
-      "preco": 139.9,
-      "precoDe": 170.61,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:18:29.717Z"
     }
   ]
 }
