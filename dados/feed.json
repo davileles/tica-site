@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-23T21:18:26.790Z",
+  "atualizadoEm": "2026-10-23T21:44:26.906Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35171",
+      "loja": "Amazon",
+      "titulo": "Calvin Klein Ck One Eau De Toilette 200Ml,",
+      "link": "https://www.amazon.com.br/dp/B00S2WDIGG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21xsvUuV3WL._SL400_.jpg",
+      "preco": 271,
+      "precoDe": 396.24,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:34:26.900Z"
+    },
+    {
+      "id": "35166",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
+      "link": "https://meli.la/1na5zcz",
+      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
+      "preco": 283,
+      "precoDe": 425,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:30:14.729Z"
+    },
+    {
+      "id": "35165",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Rosé 750ml",
+      "link": "https://www.amazon.com.br/dp/B015Z9RX6E?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311bk+lVjtL._SL400_.jpg",
+      "preco": 45.89,
+      "precoDe": 73.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:29:20.290Z"
+    },
+    {
+      "id": "35164",
+      "loja": "Mercado Livre",
+      "titulo": "Sapateira Organizador de Sapatos 9 Andares Vertical Desmontável Compacta com Prateleiras para Quarto Closet Entrada e Lavanderia",
+      "link": "https://meli.la/2dofuh6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_614381-MLA118908524225_102026-F.jpg",
+      "preco": 35.99,
+      "precoDe": 99.99,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:27:58.799Z"
+    },
+    {
+      "id": "35162",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/qkVNI6cKg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:24:02.700Z"
+    },
     {
       "id": "35160",
       "loja": "Shopee",
@@ -3123,18 +3183,6 @@
       "enviadoEm": "2026-10-21T21:29:04.749Z"
     },
     {
-      "id": "34189",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
-      "link": "https://meli.la/1na5zcz",
-      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
-      "preco": 289,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:25:34.502Z"
-    },
-    {
       "id": "34188",
       "loja": "Amazon",
       "titulo": "Tenis New Balance 550 Feminino, Branco/Cinza Claro, 36",
@@ -5953,54 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-20T15:07:24.054Z"
-    },
-    {
-      "id": "33411",
-      "loja": "Amazon",
-      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.08,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T14:58:26.278Z"
-    },
-    {
-      "id": "33410",
-      "loja": "Shopee",
-      "titulo": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "link": "https://s.shopee.com.br/qkQAOoxgG",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22_tn",
-      "preco": 23.69,
-      "precoDe": 38.21,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T14:57:03.653Z"
-    },
-    {
-      "id": "33409",
-      "loja": "Amazon",
-      "titulo": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
-      "link": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Gxzu7HVWL._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 74.19,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T14:53:22.720Z"
-    },
-    {
-      "id": "33407",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante 58x38cm Tapete Bolinha Macarrão Microfibra Absorvente",
-      "link": "https://s.shopee.com.br/6q1dJ55jkq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1c8gqanz7q35_tn",
-      "preco": 29.97,
-      "precoDe": 48.34,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T14:52:07.696Z"
     }
   ]
 }
