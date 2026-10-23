@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T13:18:26.690Z",
+  "atualizadoEm": "2026-10-23T13:35:23.605Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34884",
+      "loja": "Amazon",
+      "titulo": "Buba Aspirador Nasal De Succao Branco",
+      "link": "https://www.amazon.com.br/dp/B07P617RCN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sQYNbp4XL._SL400_.jpg",
+      "preco": 18.14,
+      "precoDe": 26.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:25:23.596Z"
+    },
     {
       "id": "34877",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-10-19T19:54:51.667Z"
-    },
-    {
-      "id": "33061",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de alta pressão LAV 1600, 1.600 lbf/pol² VONDER",
-      "link": "https://meli.la/31mivaF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981018-MLA116439963941_082026-F.jpg",
-      "preco": 295.91999999999996,
-      "precoDe": 560.74,
-      "desconto": 34,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T19:36:29.830Z"
     }
   ]
 }
