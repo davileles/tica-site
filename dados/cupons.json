@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T14:37:42.264Z",
+  "atualizadoEm": "2026-10-23T14:48:27.223Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2676,6 +2676,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-24T13:00:52.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "4DMF4V0R1T0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T14:46:11.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
