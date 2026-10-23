@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T13:35:23.605Z",
+  "atualizadoEm": "2026-10-23T13:48:26.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34903",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 124.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:46:24.154Z"
+    },
+    {
+      "id": "34902",
+      "loja": "Mercado Livre",
+      "titulo": "Sala de Jantar Madesa Talita Mesa Tampo Madeira 4 Cadeiras Cor Rustic Crema Pérola 045677GX4TPER",
+      "link": "https://meli.la/1BDXeAr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746499-MLA99964521021_112025-F.jpg",
+      "preco": 300.19,
+      "precoDe": 635.28,
+      "desconto": 37,
+      "cupom": "MOVEIS100",
+      "enviadoEm": "2026-10-23T13:45:01.651Z"
+    },
+    {
+      "id": "34893",
+      "loja": "Shopee",
+      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+      "link": "https://s.shopee.com.br/8AX5bInqTT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
+      "preco": 33.99,
+      "precoDe": 55.72,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:41:01.486Z"
+    },
     {
       "id": "34884",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 34,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-10-19T20:03:22.075Z"
-    },
-    {
-      "id": "33071",
-      "loja": "Amazon",
-      "titulo": "Seleta Cachaça Tradicional 1000Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
-      "preco": 49,
-      "precoDe": 56.99,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T19:59:44.260Z"
-    },
-    {
-      "id": "33070",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Electrolux Inverter 9000btu frio Ji09f/je09f Cor Branco",
-      "link": "https://meli.la/2J8EvsK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723177-MLA99366040854_112025-F.jpg",
-      "preco": 1519.23,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-10-19T19:58:21.903Z"
-    },
-    {
-      "id": "33069",
-      "loja": "Shopee",
-      "titulo": "Ring Light Anel de Luz LED 10 Polegadas com Tripé 2,1m Suporte Celular Iluminador TikTok YouTube",
-      "link": "https://s.shopee.com.br/6q1c2zCdzk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
-      "preco": 45.99,
-      "precoDe": 79.29,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T19:54:51.667Z"
     }
   ]
 }
