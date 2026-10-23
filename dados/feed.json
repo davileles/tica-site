@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T21:44:26.906Z",
+  "atualizadoEm": "2026-10-23T21:48:26.790Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35174",
+      "loja": "Mercado Livre",
+      "titulo": "Bomba Tira Leite Materno Elétrica Portátil Extratora Amamentação Mãos Livres Sem BPA Coletor Sugador Bombinha Peito 3 Modos 9 Níveis de Sucção Recarregável Silenciosa Display Digit",
+      "link": "https://meli.la/1WJ3PMM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_622220-MLA117869877176_102026-F.jpg",
+      "preco": 57,
+      "precoDe": 115.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:48:02.685Z"
+    },
+    {
+      "id": "35173",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/8AX68gwUKP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqz6ys5amu4l70_tn",
+      "preco": 34.02,
+      "precoDe": 42,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T21:47:11.386Z"
+    },
     {
       "id": "35171",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-20T15:22:36.072Z"
-    },
-    {
-      "id": "33422",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/5LCpXtBrT3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 54.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:18:56.298Z"
-    },
-    {
-      "id": "33413",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Presente Natal Liz Boticário (2 Itens) Perfume 50 Ml",
-      "link": "https://meli.la/1dMY7vQ",
-      "imagem": "https://http2.mlstatic.com/D_948443-MLB118042965406_102026-F.webp",
-      "preco": 135.9,
-      "precoDe": 159.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T15:07:24.054Z"
     }
   ]
 }
