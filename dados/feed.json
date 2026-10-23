@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T13:07:48.297Z",
+  "atualizadoEm": "2026-10-23T13:18:26.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34877",
+      "loja": "Shopee",
+      "titulo": "Arranhador Para Gatos Poste Brinquedo Bolinha Interativo",
+      "link": "https://s.shopee.com.br/1gJbpjrSRZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhro7dplle6b02_tn",
+      "preco": 31.6,
+      "precoDe": 40,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:17:46.584Z"
+    },
+    {
+      "id": "34871",
+      "loja": "Amazon",
+      "titulo": "Cubo De Atividade Educativo 7 em 1 Brinquedo Sensorial Cubo de Atividades Infantil",
+      "link": "https://www.amazon.com.br/dp/B0GS738ZBD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ZXeJ4-IcL._SL400_.jpg",
+      "preco": 80.91,
+      "precoDe": 140,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:13:19.018Z"
+    },
+    {
+      "id": "34867",
+      "loja": "Amazon",
+      "titulo": "Berço Cosco Kids, Nanny, 0 a 18kg, Preto Mescla",
+      "link": "https://www.amazon.com.br/dp/B0D6X6XTQN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GimLxWf1L._SL400_.jpg",
+      "preco": 359.95,
+      "precoDe": 396,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:12:10.629Z"
+    },
     {
       "id": "34851",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 34,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-10-19T19:36:29.830Z"
-    },
-    {
-      "id": "33053",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Esmerilhadeira Lixadeira 4.1/2'' 220v M9510b Makita",
-      "link": "https://meli.la/1oVizaU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774610-MLB115950648776_092026-O.webp",
-      "preco": 319.94,
-      "precoDe": 588.12,
-      "desconto": 32,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T19:16:15.387Z"
-    },
-    {
-      "id": "33049",
-      "loja": "Shopee",
-      "titulo": "Mini Máquina Seladora De Embalagem 2 em 1 Recarregável 5v Bivolt",
-      "link": "https://s.shopee.com.br/4qGXcLAmaR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82262-mhvlzshohmh275_tn",
-      "preco": 12.08,
-      "precoDe": 26.26,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T19:11:42.634Z"
-    },
-    {
-      "id": "33046",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 30.78,
-      "precoDe": 47.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T19:05:57.615Z"
     }
   ]
 }
