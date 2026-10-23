@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T13:07:50.103Z",
+  "atualizadoEm": "2026-10-23T14:37:42.264Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1759,11 +1759,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-24T12:00:00.000Z",
+      "validadeAte": "2026-12-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1859,7 +1859,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-10-24T12:00:00.000Z",
+      "validadeAte": "2026-10-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1872,6 +1872,18 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-10-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2641,6 +2653,18 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
+    },
+    {
+      "codigo": "Z4PDASH0P3310",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T14:29:31.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "B3L3Z4C0M4SH0",
