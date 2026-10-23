@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T22:32:50.799Z",
+  "atualizadoEm": "2026-10-23T22:44:30.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35187",
+      "loja": "Amazon",
+      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
+      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
+      "preco": 112.99,
+      "precoDe": 119,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:34:30.385Z"
+    },
+    {
+      "id": "35186",
+      "loja": "Shopee",
+      "titulo": "Mini Mixer Elétrico Portátil Batedor de Ovos e Leite Espumador Café – Utensílio de Cozinha a Pilha",
+      "link": "https://s.shopee.com.br/4B0xQV2wBt",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcch-lt6uk55nl3vc80_tn",
+      "preco": 10.98,
+      "precoDe": 49.91,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:33:32.564Z"
+    },
     {
       "id": "35184",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:12:49.212Z"
-    },
-    {
-      "id": "33443",
-      "loja": "Shopee",
-      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
-      "link": "https://s.shopee.com.br/80Damhn4kn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
-      "preco": 27.14,
-      "precoDe": 118,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:11:47.961Z"
-    },
-    {
-      "id": "33442",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/1W072HNs2k",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 458.99,
-      "precoDe": 596.09,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:04:43.231Z"
     }
   ]
 }
