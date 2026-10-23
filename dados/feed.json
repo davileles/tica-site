@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T13:48:26.690Z",
+  "atualizadoEm": "2026-10-23T14:17:48.997Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34913",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Bermudas Dry Fit De Alto Padrão Para Academia",
+      "link": "https://meli.la/23w8Dji",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653478-MLB108194594139_032026-O.webp",
+      "preco": 67.66,
+      "precoDe": 134.99,
+      "desconto": 37,
+      "cupom": "MELISUPERCLUB",
+      "enviadoEm": "2026-10-23T14:07:48.990Z"
+    },
+    {
+      "id": "34912",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/7VHOpf3f47",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 77.9,
+      "precoDe": 194.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T14:04:12.955Z"
+    },
+    {
+      "id": "34911",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Pares Meia Antiderrapante Esportiva Futebol Treino Pro",
+      "link": "https://meli.la/1s86KLC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817737-MLB119274870415_102026-O.webp",
+      "preco": 30.9,
+      "precoDe": 42.5,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T13:58:01.335Z"
+    },
     {
       "id": "34903",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 3,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-10-19T20:12:40.359Z"
-    },
-    {
-      "id": "33075",
-      "loja": "Mercado Livre",
-      "titulo": "Patinete Elétrico Infantil Triciclo PARES Drift Bluetooth 3 Rodas Vermelho Diversão e Lazer + Kit de segurança",
-      "link": "https://meli.la/15aFZHs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815199-MLA117836437827_092026-F.jpg",
-      "preco": 728.1,
-      "precoDe": 1099,
-      "desconto": 26,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-10-19T20:11:43.971Z"
-    },
-    {
-      "id": "33074",
-      "loja": "Mercado Livre",
-      "titulo": "Adega Pad8 Display Eletrônico 8 Garrafas Philco",
-      "link": "https://meli.la/1wCgtEb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756881-MLA99498385258_112025-F.jpg",
-      "preco": 597.6,
-      "precoDe": 799,
-      "desconto": 17,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-10-19T20:08:23.749Z"
-    },
-    {
-      "id": "33072",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
-      "link": "https://meli.la/2MNF8JZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
-      "preco": 103.2,
-      "precoDe": 196,
-      "desconto": 34,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T20:03:22.075Z"
     }
   ]
 }
