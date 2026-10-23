@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T17:10:35.922Z",
+  "atualizadoEm": "2026-10-23T17:48:28.746Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -159,6 +159,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
+      "codigo": "SEMANA15",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
       "codigo": "OPORTUNIDADE10",
       "loja": "Carrefour",
       "tipo": "pct",
@@ -180,6 +192,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "SEMANA10",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
@@ -435,6 +459,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CASACONECTADA",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
       "codigo": "SACY15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -468,6 +504,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DESCONTO15GAB",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "NOTE14",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 14,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-10T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
