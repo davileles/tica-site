@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T17:18:26.788Z",
+  "atualizadoEm": "2026-10-23T17:29:35.209Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34993",
+      "loja": "Shopee",
+      "titulo": "Cobertor Manta Casal 2,20X1,80 Microfibra Soft Lisa Antialérgica Coberta Macia Quentinha Inverno",
+      "link": "https://s.shopee.com.br/gR4uWAIm6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mozslt41oy6e43_tn",
+      "preco": 44.98,
+      "precoDe": 70.28,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T17:19:35.201Z"
+    },
     {
       "id": "34992",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 13,
       "cupom": "ECONOMIA",
       "enviadoEm": "2026-10-19T21:52:43.389Z"
-    },
-    {
-      "id": "33151",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Brastemp Frost Free 385 Litros Duplex Branca - BRM46MB",
-      "link": "https://meli.la/2eYT4f7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830395-MLA104870269405_012026-F.jpg",
-      "preco": 2098,
-      "precoDe": 3889,
-      "desconto": 33,
-      "cupom": "ECONOMIA",
-      "enviadoEm": "2026-10-19T21:49:12.685Z"
     }
   ]
 }
