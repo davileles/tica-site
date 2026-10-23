@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T12:48:26.690Z",
+  "atualizadoEm": "2026-10-23T13:07:48.297Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "34851",
+      "loja": "Mercado Livre",
+      "titulo": "Memória RAM preto 16GB 1 Adata AD5U480016G-S",
+      "link": "https://meli.la/2WdWvaH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802855-MLA99937416523_112025-F.jpg",
+      "preco": 1521,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TECHPROMO",
+      "enviadoEm": "2026-10-23T12:57:48.284Z"
+    },
+    {
+      "id": "34847",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/gR4bsxQoA",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T12:54:19.845Z"
+    },
+    {
+      "id": "34843",
+      "loja": "Mercado Livre",
+      "titulo": "Top Puma Academia Fitness Original Nadador Alta Sustentação",
+      "link": "https://meli.la/1kd3hww",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961178-MLB112153608802_062026-O.webp",
+      "preco": 39.96,
+      "precoDe": 93.03,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T12:49:51.757Z"
+    },
     {
       "id": "34838",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-19T19:05:57.615Z"
-    },
-    {
-      "id": "33042",
-      "loja": "Amazon",
-      "titulo": "Cerveja Paulaner Weissbier Sem Álcool 500ml",
-      "link": "https://www.amazon.com.br/dp/B08WX1HYRG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tcVZf18vL._SL400_.jpg",
-      "preco": 19.44,
-      "precoDe": 21.5,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:58:03.919Z"
-    },
-    {
-      "id": "33036",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Xtra-Flex, Tamanho XXXL, 128 Unidades | Canais em X que se adaptam aos movimentos, Máxima Proteção, Sem fralda caída",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 182.67,
-      "precoDe": 246.01,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-19T18:57:00.945Z"
-    },
-    {
-      "id": "33035",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira/parafusadeira C/impacto + Kit Acessórios 134 Peças",
-      "link": "https://meli.la/2boP6rJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685685-MLB113675846574_072026-O.webp",
-      "preco": 215.94,
-      "precoDe": 461.39,
-      "desconto": 41,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-10-19T18:56:03.637Z"
     }
   ]
 }
