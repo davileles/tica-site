@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-23T22:44:30.392Z",
+  "atualizadoEm": "2026-10-23T23:08:04.382Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35191",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml | Refrescante, leve e aromático, com sabor marcante de Moscato.",
+      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
+      "preco": 29.89,
+      "precoDe": 36.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:58:04.360Z"
+    },
+    {
+      "id": "35190",
+      "loja": "Shopee",
+      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "link": "https://s.shopee.com.br/BUoglLpxG",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
+      "preco": 8.87,
+      "precoDe": 17.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:56:42.535Z"
+    },
+    {
+      "id": "35188",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON CS2 25\" 310Hz 0.3 ms HDR400 IPS Base Ajustável CS25G",
+      "link": "https://meli.la/19jfiTg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726509-MLA115635838320_092026-F.jpg",
+      "preco": 1113,
+      "precoDe": 1899,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:52:58.726Z"
+    },
     {
       "id": "35187",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:29:00.651Z"
-    },
-    {
-      "id": "33448",
-      "loja": "Amazon",
-      "titulo": "Toshiba Smart TV QLED FHD 50\" Polegadas 50V45SS com Processador HG Inteligência Toshiba AI e Áudio Potente multicanal",
-      "link": "https://www.amazon.com.br/dp/B0HCRDWF9C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Yq7JNqb1L._SL400_.jpg",
-      "preco": 1973.99,
-      "precoDe": 2099.99,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:27:48.320Z"
-    },
-    {
-      "id": "33447",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 11 Pçs Polimento 3 Polegadas Furadeira / Parafusadeira",
-      "link": "https://meli.la/2HjiBxn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710122-MLA99840220989_112025-F.jpg",
-      "preco": 20.29,
-      "precoDe": 32.2,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:24:22.471Z"
-    },
-    {
-      "id": "33445",
-      "loja": "Amazon",
-      "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
-      "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31t0l+Bm-pL._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 93.02,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:12:49.212Z"
     }
   ]
 }
