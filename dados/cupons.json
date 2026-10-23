@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T18:18:28.904Z",
+  "atualizadoEm": "2026-10-23T19:18:29.211Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2832,6 +2832,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-24T14:46:11.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "11ESQUENTA20OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-24T19:09:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
