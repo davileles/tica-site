@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-23T22:18:26.790Z",
+  "atualizadoEm": "2026-10-23T22:32:50.799Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35184",
+      "loja": "Mercado Livre",
+      "titulo": "Pokémon ME04 Caos Ascendente Blister Quádruplo Toxel 4 Boosters copag",
+      "link": "https://meli.la/1G6sAnS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861056-MLA116069207296_092026-F.jpg",
+      "preco": 39.9,
+      "precoDe": 55.99,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:22:50.784Z"
+    },
+    {
+      "id": "35183",
+      "loja": "Amazon",
+      "titulo": "Monitor Gamer Curvo Ultrawide Concórdia 34\" WQHD 165Hz 1ms, sRGB 100%, 2 HDMI, 2 DisplayPort, PIP/PBP UZ340",
+      "link": "https://www.amazon.com.br/dp/B0F4YW4XRP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HSiyR06UL._SL400_.jpg",
+      "preco": 1602.81,
+      "precoDe": 1758.9,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-23T22:19:00.144Z"
+    },
     {
       "id": "35181",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:04:43.231Z"
-    },
-    {
-      "id": "33441",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
-      "link": "https://meli.la/13KoUwK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
-      "preco": 899.91,
-      "precoDe": 1549.4,
-      "desconto": 35,
-      "cupom": "OFFSOHJ",
-      "enviadoEm": "2026-10-20T16:00:27.706Z"
-    },
-    {
-      "id": "33439",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Portátil Full Hd 15.6 Notebook, Celular, Games C/ Cor Preto",
-      "link": "https://meli.la/28p83Sr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994228-MLA99486883402_112025-F.jpg",
-      "preco": 315.9,
-      "precoDe": 549.99,
-      "desconto": 36,
-      "cupom": "OFFSOHJ",
-      "enviadoEm": "2026-10-20T15:56:36.301Z"
     }
   ]
 }
