@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-24T16:48:26.811Z",
+  "atualizadoEm": "2026-10-24T17:18:26.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35370",
+      "loja": "Shopee",
+      "titulo": "Electro Nest Fone De Ouvido Com Fio 3.5mm Intra-Auricular Estéreo Baixo Microfone Fone EJ-30",
+      "link": "https://s.shopee.com.br/8pmoDqtvW0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8u9p6k2oc1u3c_tn",
+      "preco": 11.99,
+      "precoDe": 25.51,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:15:11.736Z"
+    },
+    {
+      "id": "35369",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível Liso Cores Neutras Sortidas",
+      "link": "https://s.shopee.com.br/6Am32fK52K",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mtjmffjesl4w4e_tn",
+      "preco": 79.9,
+      "precoDe": 128.87,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:11:27.503Z"
+    },
+    {
+      "id": "35368",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
+      "link": "https://meli.la/1Y6nFut",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951617-MLB110943565198_052026-O.webp",
+      "preco": 104.31,
+      "precoDe": 299.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:07:52.424Z"
+    },
+    {
+      "id": "35365",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Body Manga Longa E Mijão Culote Pé Reversível Bebê",
+      "link": "https://meli.la/2hMTos7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857518-MLB116060221174_092026-O.webp",
+      "preco": 39.9,
+      "precoDe": 45.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:03:58.007Z"
+    },
+    {
+      "id": "35363",
+      "loja": "Mercado Livre",
+      "titulo": "Krups Heineken Chopeira De Cerveja Preto De Com 5l",
+      "link": "https://meli.la/16M2QmQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962841-MLA113042681325_062026-F.jpg",
+      "preco": 869.99,
+      "precoDe": 1899.99,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T16:59:47.773Z"
+    },
+    {
+      "id": "35360",
+      "loja": "Shopee",
+      "titulo": "Enfeite Porta Maternidade Bordado Menino Cavalo",
+      "link": "https://s.shopee.com.br/1gJdfXsMJo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mpwyl60x2arm3e_tn",
+      "preco": 97.93,
+      "precoDe": 139.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T16:55:45.407Z"
+    },
+    {
+      "id": "35358",
+      "loja": "Shopee",
+      "titulo": "Kit Baús Organizadores Multiuso Em Fibra Sintética -S-  P/M/G",
+      "link": "https://s.shopee.com.br/AUv2B1huTq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbpti0avdit23_tn",
+      "preco": 68,
+      "precoDe": 85,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T16:51:37.414Z"
+    },
     {
       "id": "35357",
       "loja": "Shopee",
@@ -5917,90 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-21T11:37:51.098Z"
-    },
-    {
-      "id": "33733",
-      "loja": "Amazon",
-      "titulo": "Chuteira Futsal Umbro Class Footballer Jr, Infantil",
-      "link": "https://www.amazon.com.br/dp/B0GS69X6H9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31VEyi0apmL._SL400_.jpg",
-      "preco": 135.92000000000002,
-      "precoDe": 189.99,
-      "desconto": 11,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T11:35:31.780Z"
-    },
-    {
-      "id": "33732",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Apple 1L",
-      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
-      "preco": 121.79,
-      "precoDe": 174.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:32:09.632Z"
-    },
-    {
-      "id": "33731",
-      "loja": "Shopee",
-      "titulo": "WHISKY JACK DANIELS 1000ML",
-      "link": "https://s.shopee.com.br/9zygRr8p1s",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtgz5d2gq51db3_tn",
-      "preco": 142.9,
-      "precoDe": 201.27,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:27:57.022Z"
-    },
-    {
-      "id": "33730",
-      "loja": "Shopee",
-      "titulo": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "link": "https://s.shopee.com.br/5LCqt7ut1O",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6_tn",
-      "preco": 99.98,
-      "precoDe": 370.3,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:27:02.814Z"
-    },
-    {
-      "id": "33729",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/5q97Tyd4Kg",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 11.38,
-      "precoDe": 49.48,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:25:50.214Z"
-    },
-    {
-      "id": "33723",
-      "loja": "Amazon",
-      "titulo": "WAP Vaporizador De Roupas Dobrável WAPORE TRAVEL Portátil Para Viagens Aquece Em 15seg Tira Mau Cheiro (220, Volts)",
-      "link": "https://www.amazon.com.br/dp/B0GKJ9S2G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31NN0DMcc2L._SL400_.jpg",
-      "preco": 134.01,
-      "precoDe": 169.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:15:41.015Z"
-    },
-    {
-      "id": "33722",
-      "loja": "Amazon",
-      "titulo": "Cerveja em Barril Heineken, 5L",
-      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 119.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:14:35.985Z"
     }
   ]
 }
