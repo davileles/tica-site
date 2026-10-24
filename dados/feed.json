@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-24T14:11:42.073Z",
+  "atualizadoEm": "2026-10-24T14:18:26.810Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35281",
+      "loja": "Amazon",
+      "titulo": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
+      "link": "https://www.amazon.com.br/dp/B07Y1T5YZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pa2jisPRL._SL400_.jpg",
+      "preco": 111.49,
+      "precoDe": 209,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T14:15:00.463Z"
+    },
     {
       "id": "35279",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-20T20:34:15.903Z"
-    },
-    {
-      "id": "33596",
-      "loja": "Amazon",
-      "titulo": "Cappuccino de Chocolate com Avelã, 200g",
-      "link": "https://www.amazon.com.br/dp/B09F85KSPS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411oFinvgpL._SL400_.jpg",
-      "preco": 9.5,
-      "precoDe": 15.71,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T20:25:48.904Z"
     }
   ]
 }
