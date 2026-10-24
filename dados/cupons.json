@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T15:48:28.714Z",
+  "atualizadoEm": "2026-10-24T16:48:28.869Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1788,30 +1788,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOISDIN20",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Cupons em selecionados no Mercado Livre",
-      "validadeAte": "2026-10-24T16:30:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOAVENE15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Cupons em selecionados no Mercado Livre",
-      "validadeAte": "2026-10-24T16:30:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
