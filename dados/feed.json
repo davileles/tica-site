@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-24T13:18:26.808Z",
+  "atualizadoEm": "2026-10-24T13:48:07.163Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35273",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50CM Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/5LCvonuiNO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mugh2d17553495_tn",
+      "preco": 14.59,
+      "precoDe": 26.53,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T13:38:07.155Z"
+    },
+    {
+      "id": "35270",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
+      "link": "https://www.amazon.com.br/dp/B0DG32SNZ4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51sLzfmMUbL._SL400_.jpg",
+      "preco": 279.9,
+      "precoDe": 829.9,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T13:29:02.153Z"
+    },
     {
       "id": "35263",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-20T20:15:21.433Z"
-    },
-    {
-      "id": "33588",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/50ZzTezdkn",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 209.9,
-      "precoDe": 279.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T20:11:31.891Z"
-    },
-    {
-      "id": "33585",
-      "loja": "Amazon",
-      "titulo": "NUK Kit Mamadeira My 1St S1 150Ml S2 300Ml Girl - Rosa 2 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07FPQVWNW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413TySicfKL._SL400_.jpg",
-      "preco": 59.91,
-      "precoDe": 120.77,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T20:00:51.949Z"
     }
   ]
 }
