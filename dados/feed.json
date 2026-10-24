@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-24T19:18:26.811Z",
+  "atualizadoEm": "2026-10-24T19:48:26.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35426",
+      "loja": "Mercado Livre",
+      "titulo": "Vestido Longo Gestante Com Abertura Para Amamentação",
+      "link": "https://meli.la/2gnufub",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808052-MLB111246926592_052026-O.webp",
+      "preco": 59.4,
+      "precoDe": 99,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:46:07.393Z"
+    },
+    {
+      "id": "35424",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Macacão Touca E Luva 100% Algodão Saída Maternidade",
+      "link": "https://meli.la/2TekeWM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_933056-MLB118082304956_102026-O.webp",
+      "preco": 61.89,
+      "precoDe": 65.59,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:42:23.552Z"
+    },
+    {
+      "id": "35423",
+      "loja": "Shopee",
+      "titulo": "Macacão Bebê Curto Romper Estampado 100% Algodão RN ao 24 Meses Unissex Menino Menina Botão Pressão",
+      "link": "https://s.shopee.com.br/1BNNFrGhAp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mulag61jz6rla7_tn",
+      "preco": 36.48,
+      "precoDe": 49.97,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:38:39.936Z"
+    },
+    {
+      "id": "35419",
+      "loja": "Mercado Livre",
+      "titulo": "Lenços Umedecidos Pampers, Aroma de Aloe Vera 12 pacotes em total 576 Unidades",
+      "link": "https://meli.la/1yg8gv5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804658-MLA99451702072_112025-F.jpg",
+      "preco": 99.43,
+      "precoDe": 134.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:34:53.752Z"
+    },
+    {
+      "id": "35418",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M 148 Unidades",
+      "link": "https://meli.la/15ceK3v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989179-MLA116258420400_092026-F.jpg",
+      "preco": 140.95,
+      "precoDe": 178.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:30:52.194Z"
+    },
+    {
+      "id": "35416",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Peças Naninha + Travesseiro Menino E Menina Para Bebe",
+      "link": "https://meli.la/12k35PH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_708208-MLB106299127642_022026-O.webp",
+      "preco": 29.25,
+      "precoDe": 39.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:27:01.118Z"
+    },
+    {
+      "id": "35415",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/80DhNHwozN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 39.99,
+      "precoDe": 49.37,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:23:12.829Z"
+    },
+    {
+      "id": "35414",
+      "loja": "Shopee",
+      "titulo": "Kit Conjunto Bebê 10 peças Canelado Body Manga Longa e Calça Pagão Super Macio 03K5C2",
+      "link": "https://s.shopee.com.br/70LAAwr9U5",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvy-mchyh3qa7whsac_tn",
+      "preco": 169.9,
+      "precoDe": 199.88,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:19:29.073Z"
+    },
     {
       "id": "35413",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-10-21T13:49:24.632Z"
-    },
-    {
-      "id": "33876",
-      "loja": "Amazon",
-      "titulo": "Top Puma 4Keeps Feminino",
-      "link": "https://www.amazon.com.br/dp/B0DMLLHD7N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/2132N2Vs04L._SL400_.jpg",
-      "preco": 94.49,
-      "precoDe": 179.99,
-      "desconto": 30,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T13:46:08.747Z"
-    },
-    {
-      "id": "33867",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador Torre AIR SILENCE WAP Silencioso Oscilante com Controle Remoto 4 Velocidades e Desligamento Automático",
-      "link": "https://meli.la/2hH7ZrH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815123-MLA79416091024_092024-F.jpg",
-      "preco": 365.30999999999995,
-      "precoDe": 707,
-      "desconto": 43,
-      "cupom": "OFFSEMPREMELI",
-      "enviadoEm": "2026-10-21T13:39:16.281Z"
-    },
-    {
-      "id": "33865",
-      "loja": "Amazon",
-      "titulo": "Tônica Antarctica 350ml 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
-      "preco": 66.97,
-      "precoDe": 71.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:34:13.863Z"
-    },
-    {
-      "id": "33859",
-      "loja": "Amazon",
-      "titulo": "Camisa Santos Away 2026 Torcedor N10 Umbro, Masculino, Preto/Branco, G",
-      "link": "https://www.amazon.com.br/dp/B0H1NGJ9FM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41U9K2eC+oL._SL400_.jpg",
-      "preco": 223.57,
-      "precoDe": 399.99,
-      "desconto": 30,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T13:31:57.145Z"
-    },
-    {
-      "id": "33855",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Calça Infantil Menino Moletom Estampada Lote Roupa",
-      "link": "https://meli.la/2tLqXct",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883229-MLB112269219411_052026-O.webp",
-      "preco": 46.4,
-      "precoDe": 119.62,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:28:27.130Z"
-    },
-    {
-      "id": "33850",
-      "loja": "Shopee",
-      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
-      "link": "https://s.shopee.com.br/2LZFRLAjdm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
-      "preco": 39.9,
-      "precoDe": 66.5,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:23:36.084Z"
-    },
-    {
-      "id": "33844",
-      "loja": "Amazon",
-      "titulo": "Tech T-shirt Gola U Masculino Preto M",
-      "link": "https://www.amazon.com.br/dp/B0BFT7XG6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Z5Lba0iIL._SL400_.jpg",
-      "preco": 67.42,
-      "precoDe": 159,
-      "desconto": 43,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T13:20:22.712Z"
-    },
-    {
-      "id": "33838",
-      "loja": "Mercado Livre",
-      "titulo": "COENZIMA Q10 UBIQUINOL - 60 Doses - Fórmula Concentrada e com Máxima Pureza",
-      "link": "https://meli.la/262wCaN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937294-MLA116205240557_082026-F.jpg",
-      "preco": 46.03999999999999,
-      "precoDe": 101.77,
-      "desconto": 35,
-      "cupom": "POUPEMELI",
-      "enviadoEm": "2026-10-21T13:13:03.623Z"
     }
   ]
 }
