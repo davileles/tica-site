@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T14:48:28.960Z",
+  "atualizadoEm": "2026-10-24T15:18:28.488Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -732,18 +732,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1707,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-10-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1740,6 +1740,18 @@
       "limite": 40,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-25T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITEMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-10-25T15:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1800,30 +1812,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-10-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS2310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons para selecionados no Mercado Livre",
-      "validadeAte": "2026-10-24T15:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA2310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons para selecionados no Mercado Livre",
-      "validadeAte": "2026-10-24T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1907,7 +1895,19 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-10-25T14:44:00.000Z",
+      "validadeAte": "2026-10-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BEBES2410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-25T15:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2712,18 +2712,6 @@
       "limite": 49,
       "observacao": "10% OFF em produtos selecionados",
       "validadeAte": "2026-10-24T21:13:07.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "F1MD3S3M4N4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T15:00:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
