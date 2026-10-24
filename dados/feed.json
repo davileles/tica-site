@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-24T15:18:26.810Z",
+  "atualizadoEm": "2026-10-24T15:48:26.810Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35331",
+      "loja": "Shopee",
+      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
+      "link": "https://s.shopee.com.br/6VOtLSsmU9",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
+      "preco": 22.99,
+      "precoDe": 69.67,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T15:47:17.945Z"
+    },
+    {
+      "id": "35330",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Philips Evnia 27 144hz 0,5ms Ips 27m2n3200nf",
+      "link": "https://meli.la/2XtxNKi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892756-MLB111015758924_052026-O.webp",
+      "preco": 617,
+      "precoDe": 999.9,
+      "desconto": 30,
+      "cupom": "TODOSITEMELI",
+      "enviadoEm": "2026-10-24T15:43:37.556Z"
+    },
+    {
+      "id": "35323",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Reax 8 Tr Masculino",
+      "link": "https://meli.la/2uDCJkw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735193-MLB116057092430_092026-O.webp",
+      "preco": 426.79,
+      "precoDe": 799.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T15:39:50.768Z"
+    },
+    {
+      "id": "35322",
+      "loja": "Mercado Livre",
+      "titulo": "Microfone Lark A1 Hollyland Mini Usb-c Preto",
+      "link": "https://meli.la/1Hjkt8U",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836376-MLA99418800236_112025-F.jpg",
+      "preco": 212.31,
+      "precoDe": 409.9,
+      "desconto": 35,
+      "cupom": "TODOSITEMELI",
+      "enviadoEm": "2026-10-24T15:35:58.837Z"
+    },
+    {
+      "id": "35320",
+      "loja": "Amazon",
+      "titulo": "JBL PartyBox Encore Essential 2, Caixa de Som Bluetooth, Aux e USB - Preto | Som AI Sound Boost, Show de Luzes Dinâmico, Até 15 Horas de Reprodução, Entradas para Microfone e Instr",
+      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hKfggjmPL._SL400_.jpg",
+      "preco": 1239,
+      "precoDe": 1899,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T15:32:19.168Z"
+    },
+    {
+      "id": "35318",
+      "loja": "Amazon",
+      "titulo": "Shampoo Condicionador Sérum Elseve L'Oréal Colágeno 400ml+400ml+100ml | Protocolo reconstrutor, volume 3D, brilho imediato, fios finos, proteção térmica de 230°C, encorpamento ativ",
+      "link": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61JHE7YsN3L._SL400_.jpg",
+      "preco": 75.99,
+      "precoDe": 123.09,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T15:28:34.741Z"
+    },
+    {
+      "id": "35315",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/7faqhgWHDr",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T15:24:38.056Z"
+    },
     {
       "id": "35304",
       "loja": "Amazon",
@@ -3975,18 +4059,6 @@
       "enviadoEm": "2026-10-21T21:57:27.342Z"
     },
     {
-      "id": "34199",
-      "loja": "Amazon",
-      "titulo": "Shampoo Condicionador Sérum Elseve L'Oréal Colágeno 400ml+400ml+100ml | Protocolo reconstrutor, volume 3D, brilho imediato, fios finos, proteção térmica de 230°C, encorpamento ativ",
-      "link": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61JHE7YsN3L._SL400_.jpg",
-      "preco": 75.99,
-      "precoDe": 123.09,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:54:17.824Z"
-    },
-    {
       "id": "34197",
       "loja": "Amazon",
       "titulo": "Bebida Energética Monster Energy, 473ml, Pack com 6 Unidades",
@@ -5929,78 +6001,6 @@
       "desconto": 43,
       "cupom": "40SITETODO",
       "enviadoEm": "2026-10-20T21:40:59.840Z"
-    },
-    {
-      "id": "33627",
-      "loja": "Shopee",
-      "titulo": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
-      "link": "https://s.shopee.com.br/gR0OyGAtQ",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f_tn",
-      "preco": 41.99,
-      "precoDe": 113.49,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:28:34.584Z"
-    },
-    {
-      "id": "33625",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XXG 18 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093GD56WR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pCWvj5cML._SL400_.jpg",
-      "preco": 19.07,
-      "precoDe": 30.17,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:23:29.032Z"
-    },
-    {
-      "id": "33624",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G83Q3P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51n8KUm8JYL._SL400_.jpg",
-      "preco": 18.99,
-      "precoDe": 30.17,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:22:18.170Z"
-    },
-    {
-      "id": "33622",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo P 30 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G7B8CN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qwKXS8gtL._SL400_.jpg",
-      "preco": 19.85,
-      "precoDe": 30.17,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:21:08.463Z"
-    },
-    {
-      "id": "33621",
-      "loja": "Amazon",
-      "titulo": "Fischer Air Fryer Smart 8L Preto 127V 37010-104681",
-      "link": "https://www.amazon.com.br/dp/B0DYQGQZ8D?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Laers4OvL._SL400_.jpg",
-      "preco": 318.04,
-      "precoDe": 899,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:20:22.128Z"
-    },
-    {
-      "id": "33619",
-      "loja": "Amazon",
-      "titulo": "Tenis Fila Rise Up Masculino, Black/Graphite/Golden, 42",
-      "link": "https://www.amazon.com.br/dp/B0H4HXZHN5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kO4PjI1aL._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 199.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T21:15:30.258Z"
     }
   ]
 }
