@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-24T17:48:26.811Z",
+  "atualizadoEm": "2026-10-24T18:18:26.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35392",
+      "loja": "Amazon",
+      "titulo": "Tênis Fila Fastness Preto Rosa e Verde Limão - Feminino - 38 - Preto",
+      "link": "https://www.amazon.com.br/dp/B0FH4PS4WV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kn8xUSmsL._SL400_.jpg",
+      "preco": 199.9,
+      "precoDe": 349.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T18:15:53.810Z"
+    },
+    {
+      "id": "35390",
+      "loja": "Shopee",
+      "titulo": "Conjunto Tricot Premium Bebê Menino Blusa Polo Manga Curta Shorts Clássico Elegante",
+      "link": "https://s.shopee.com.br/AAIBrnXS93",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-motsyxbc40li0e_tn",
+      "preco": 59.98,
+      "precoDe": 119.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T18:07:42.752Z"
+    },
+    {
+      "id": "35389",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/3LRrjEXH3X",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T18:03:56.814Z"
+    },
+    {
+      "id": "35388",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.08,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T18:00:11.758Z"
+    },
+    {
+      "id": "35387",
+      "loja": "Shopee",
+      "titulo": "Vestido infantil menina sem mangas regata de algodão com estampa de bolinhas estiloso casual",
+      "link": "https://s.shopee.com.br/3g4i7bOrhO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mqpcv3lzdhc3fa_tn",
+      "preco": 59.33,
+      "precoDe": 89.89,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:59:01.994Z"
+    },
+    {
+      "id": "35385",
+      "loja": "Shopee",
+      "titulo": "Kit Família Natal Camiseta Papai Mamãe e Body Bebê Estampa Rena Roupa Natalina Look em Família",
+      "link": "https://s.shopee.com.br/AKbc3W3ZM5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt6np6710e13b3_tn",
+      "preco": 99.99,
+      "precoDe": 129.86,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:55:25.173Z"
+    },
+    {
+      "id": "35384",
+      "loja": "Amazon",
+      "titulo": "Gin Bulldog London Dry 750ml",
+      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
+      "preco": 78.95,
+      "precoDe": 156.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:51:45.466Z"
+    },
+    {
+      "id": "35383",
+      "loja": "Shopee",
+      "titulo": "​Kit 10 Faixinhas Laço para Bebê Menina – Meia de Seda Slim (0 a 24 Meses) – Não Aperta",
+      "link": "https://s.shopee.com.br/W7gKtoCVf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdytyz8q9mgx10_tn",
+      "preco": 26.01,
+      "precoDe": 28.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:50:30.405Z"
+    },
     {
       "id": "35382",
       "loja": "Amazon",
@@ -3843,18 +3939,6 @@
       "enviadoEm": "2026-10-22T13:10:19.539Z"
     },
     {
-      "id": "34387",
-      "loja": "Amazon",
-      "titulo": "Gin Bulldog London Dry 750ml",
-      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
-      "preco": 77,
-      "precoDe": 156.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:09:21.059Z"
-    },
-    {
       "id": "34383",
       "loja": "Amazon",
       "titulo": "Burigotto Banheira Millenia, Azul Bebê",
@@ -5917,90 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-21T12:27:46.141Z"
-    },
-    {
-      "id": "33773",
-      "loja": "Amazon",
-      "titulo": "Repelente de Insetos em Loção OFF! Family, 200ml",
-      "link": "https://www.amazon.com.br/dp/B07FN9FX1V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YJA02kjBL._SL400_.jpg",
-      "preco": 15.66,
-      "precoDe": 29.32,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T12:26:38.839Z"
-    },
-    {
-      "id": "33771",
-      "loja": "Amazon",
-      "titulo": "Camisa Masculina New Balance Away Torcedor SPFC 2026, Vermelho/Branco/Preto, P",
-      "link": "https://www.amazon.com.br/dp/B0H6GXJC3Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NxsM-bUdL._SL400_.jpg",
-      "preco": 199.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T12:23:06.475Z"
-    },
-    {
-      "id": "33768",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Aspirador Nasal De Sucção E Seringa",
-      "link": "https://www.amazon.com.br/dp/B0BVG9B3NF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sbsNnENRL._SL400_.jpg",
-      "preco": 18.14,
-      "precoDe": 36.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T12:19:20.675Z"
-    },
-    {
-      "id": "33766",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/7puBurYb0e",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 32.2,
-      "precoDe": 33.89,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T12:18:17.214Z"
-    },
-    {
-      "id": "33761",
-      "loja": "Amazon",
-      "titulo": "Camisa Puma Bahia Torcedor Third J. 26, Masculino, Azul, Tamanho P",
-      "link": "https://www.amazon.com.br/dp/B0HFTPF1QW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mi5mGe72L._SL400_.jpg",
-      "preco": 188.68,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T12:14:39.063Z"
-    },
-    {
-      "id": "33756",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
-      "preco": 49.13,
-      "precoDe": 55.08,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T12:06:11.563Z"
-    },
-    {
-      "id": "33755",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Parafusadeira Furadeira Impacto 20v + 2 Baterias Vonder",
-      "link": "https://meli.la/19xAbQN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782499-MLA105985128678_022026-F.jpg",
-      "preco": 299.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T12:04:58.887Z"
     }
   ]
 }
