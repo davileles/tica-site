@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-23T23:43:40.565Z",
+  "atualizadoEm": "2026-10-24T01:41:39.087Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35197",
+      "loja": "Amazon",
+      "titulo": "Almaden Vinho Cabernet Sauvgnon Tinto Suave 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMGRNX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+-j3y9QmL._SL400_.jpg",
+      "preco": 16.62,
+      "precoDe": 30.54,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T01:31:39.076Z"
+    },
     {
       "id": "35195",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-10-20T16:55:39.473Z"
-    },
-    {
-      "id": "33462",
-      "loja": "Amazon",
-      "titulo": "Kit 10 Potes Herméticos de Vidro 640ml com Tampa 4 Travas e Anel de Vedação, Potes para Alimentos, Marmitas, Refeições e Organização de Geladeira",
-      "link": "https://www.amazon.com.br/dp/B0HFB7X39Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51yjS4vFIOL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 89.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:51:55.532Z"
     }
   ]
 }
