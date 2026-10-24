@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T22:05:12.530Z",
+  "atualizadoEm": "2026-10-24T22:20:17.450Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -687,18 +687,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MOVEIS2410",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1099,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em produtos selecionados conforme as listas fornecidas",
-      "validadeAte": "2026-10-25T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MOVEIS100",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -708,18 +696,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "Meia-Noite",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom relâmpago do 11.11 - válido apenas durante o evento",
-      "validadeAte": "2026-10-25T22:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1731,18 +1707,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITEMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-10-25T15:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1824,54 +1788,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOM2410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Válido em selecionados conforme lista",
-      "validadeAte": "2026-10-25T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIDEZ",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBES2410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-25T15:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL2410",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em produtos selecionados conforme as listas fornecidas",
-      "validadeAte": "2026-10-25T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
