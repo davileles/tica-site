@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T16:48:28.869Z",
+  "atualizadoEm": "2026-10-24T18:18:28.619Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -687,15 +687,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TV2310",
+      "codigo": "MOVEIS2410",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 150,
-      "minimo": 1199,
+      "minimo": 1099,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-10-24T18:00:01.000Z",
+      "observacao": "Cupons válidos em produtos selecionados conforme as listas fornecidas",
+      "validadeAte": "2026-10-25T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1791,18 +1791,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MOD2310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-10-24T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SPORTS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1860,6 +1848,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-25T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em produtos selecionados conforme as listas fornecidas",
+      "validadeAte": "2026-10-25T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
