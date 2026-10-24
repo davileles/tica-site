@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-24T17:18:26.811Z",
+  "atualizadoEm": "2026-10-24T17:48:26.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35382",
+      "loja": "Amazon",
+      "titulo": "Panela de Pressão 4,2L com Revestimento Cerâmico Antiaderente, Fundo de Indução, Tampa em Aço Inox, Cabo Amadeirado e Sistema de Segurança",
+      "link": "https://www.amazon.com.br/dp/B0HLBQGCF5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wYV3SMNCL._SL400_.jpg",
+      "preco": 152,
+      "precoDe": 249.99,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:46:33.649Z"
+    },
+    {
+      "id": "35381",
+      "loja": "Mercado Livre",
+      "titulo": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
+      "link": "https://meli.la/28DW81f",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668300-MLA88631934993_072025-F.jpg",
+      "preco": 107.68,
+      "precoDe": 159.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:42:34.382Z"
+    },
+    {
+      "id": "35380",
+      "loja": "Shopee",
+      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
+      "link": "https://s.shopee.com.br/5fpmTtGaST",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
+      "preco": 22.39,
+      "precoDe": 89.56,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:38:46.451Z"
+    },
+    {
+      "id": "35377",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto com 6 nécessaires de maternidade, com etiqueta para identificar e em material transparente.",
+      "link": "https://meli.la/19ogk8s",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619132-MLB113170636122_072026-O.webp",
+      "preco": 23.85,
+      "precoDe": 26.5,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:35:13.255Z"
+    },
+    {
+      "id": "35376",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Cobertor Bebe Menino Manta Bebe Envio Rápido",
+      "link": "https://meli.la/1EZAT9h",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703168-MLB114542449815_072026-O.webp",
+      "preco": 50.34,
+      "precoDe": 74.51,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:31:08.876Z"
+    },
+    {
+      "id": "35374",
+      "loja": "Shopee",
+      "titulo": "Presente Bebê Recém Nascido 4 Peças Body Manga Longa Calça Mijão Meia Pantufa e Naninha Enxoval",
+      "link": "https://s.shopee.com.br/W7gJacvJU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxpux74696v27_tn",
+      "preco": 99.95,
+      "precoDe": 163.85,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:27:20.993Z"
+    },
+    {
+      "id": "35372",
+      "loja": "Shopee",
+      "titulo": "Kit Manicure para bebês e/ou kit Higiene com Escovinha e Pentinho - Bolsinha Ursinho",
+      "link": "https://s.shopee.com.br/4fxFGQ3zos",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mo8jekxer4zk0d_tn",
+      "preco": 71.67,
+      "precoDe": 77.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:23:29.362Z"
+    },
+    {
+      "id": "35371",
+      "loja": "Amazon",
+      "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
+      "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31w+Ftpvf+L._SL400_.jpg",
+      "preco": 21.74,
+      "precoDe": 35.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T17:19:21.799Z"
+    },
     {
       "id": "35370",
       "loja": "Shopee",
@@ -2065,18 +2161,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-23T16:56:17.645Z"
-    },
-    {
-      "id": "34984",
-      "loja": "Mercado Livre",
-      "titulo": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
-      "link": "https://meli.la/28DW81f",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668300-MLA88631934993_072025-F.jpg",
-      "preco": 96.35,
-      "precoDe": 159.9,
-      "desconto": 29,
-      "cupom": "PROMOISDIN20",
-      "enviadoEm": "2026-10-23T16:51:43.957Z"
     },
     {
       "id": "34983",
@@ -5917,90 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-21T12:04:58.887Z"
-    },
-    {
-      "id": "33748",
-      "loja": "Amazon",
-      "titulo": "MORELIA CLUB AS",
-      "link": "https://www.amazon.com.br/dp/B0CDSHGDDB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vF7djaqvL._SL400_.jpg",
-      "preco": 159.92000000000002,
-      "precoDe": 399.99,
-      "desconto": 50,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T12:00:10.046Z"
-    },
-    {
-      "id": "33747",
-      "loja": "Shopee",
-      "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-      "link": "https://s.shopee.com.br/9APZUHBNKO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb_tn",
-      "preco": 11.99,
-      "precoDe": 19.03,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:55:54.677Z"
-    },
-    {
-      "id": "33745",
-      "loja": "Amazon",
-      "titulo": "Banheira Infantil Plastibaby 20L (Azul)",
-      "link": "https://www.amazon.com.br/dp/B0H8QCRPZZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/317YBkds2EL._SL400_.jpg",
-      "preco": 28.78,
-      "precoDe": 31.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:54:51.859Z"
-    },
-    {
-      "id": "33744",
-      "loja": "Amazon",
-      "titulo": "Camisa Manchester City x Year of the Horse Puma, Branco, P, Masculino",
-      "link": "https://www.amazon.com.br/dp/B0G4NF6BJL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KQeDnahfL._SL400_.jpg",
-      "preco": 311.91999999999996,
-      "precoDe": 499.99,
-      "desconto": 22,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T11:53:47.172Z"
-    },
-    {
-      "id": "33743",
-      "loja": "Shopee",
-      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
-      "link": "https://s.shopee.com.br/1W08LZlFYb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
-      "preco": 38.99,
-      "precoDe": 114.68,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:49:51.059Z"
-    },
-    {
-      "id": "33740",
-      "loja": "Amazon",
-      "titulo": "Boné 9Forty New York Yankees MLB New Era, Bege, Único",
-      "link": "https://www.amazon.com.br/dp/B0GSXFY4HN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31r0h+Kgo7L._SL400_.jpg",
-      "preco": 104.92000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T11:45:01.189Z"
-    },
-    {
-      "id": "33739",
-      "loja": "Mercado Livre",
-      "titulo": "Cobre leito matelado Queen Laura Enxovais dupla face leve confortável cor rose",
-      "link": "https://meli.la/1e4d3wh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694961-MLA109600192280_042026-F.jpg",
-      "preco": 39.99,
-      "precoDe": 78.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T11:37:51.098Z"
     }
   ]
 }
