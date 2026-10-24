@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T19:18:30.144Z",
+  "atualizadoEm": "2026-10-24T20:35:14.188Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1800,6 +1800,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-10-25T12:06:33.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-24T22:00:34.835Z",
       "url": "https://meli.la/2xystLt"
     },
     {
