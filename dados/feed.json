@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-24T21:05:12.104Z",
+  "atualizadoEm": "2026-10-24T21:16:41.551Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35447",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
+      "preco": 52.9,
+      "precoDe": 76.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T21:06:41.541Z"
+    },
     {
       "id": "35445",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 73,
       "cupom": null,
       "enviadoEm": "2026-10-21T15:21:49.439Z"
-    },
-    {
-      "id": "33931",
-      "loja": "Amazon",
-      "titulo": "Stanley Copo Térmico Stacking Dried Pine 473ml",
-      "link": "https://www.amazon.com.br/dp/B0GC9N1KB8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21oUtAqi5VL._SL400_.jpg",
-      "preco": 91.8,
-      "precoDe": 159,
-      "desconto": 32,
-      "cupom": "STANLEY15",
-      "enviadoEm": "2026-10-21T15:20:59.610Z"
     }
   ]
 }
