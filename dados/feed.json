@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-24T20:06:12.056Z",
+  "atualizadoEm": "2026-10-24T20:35:12.081Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35437",
+      "loja": "Amazon",
+      "titulo": "Azeite de oliva extra virgem, O-LIVE & Co, Chileno, vidro, 450ml | Blend das azeitonas Arbequina, Arbosana e Koroneiki, com sabor suave e notas frutadas e herbáceas",
+      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
+      "preco": 28.99,
+      "precoDe": 52.76,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:34:35.077Z"
+    },
+    {
+      "id": "35436",
+      "loja": "Mercado Livre",
+      "titulo": "Controle sem fio PlayStation DualSense – Remix Green",
+      "link": "https://meli.la/1h5AP5T",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
+      "preco": 377.1,
+      "precoDe": 599.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:30:51.777Z"
+    },
+    {
+      "id": "35435",
+      "loja": "Mercado Livre",
+      "titulo": "Compressor De Ar Digital Pneu Calibrador Portátil Para Carro Moto Bike Sem Fio Mini Bomba De Ar Elétrico Tela Digital Led Pneus",
+      "link": "https://meli.la/11MjZBD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827531-MLA111356284440_052026-F.jpg",
+      "preco": 56,
+      "precoDe": 157.98,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:25:09.159Z"
+    },
+    {
+      "id": "35434",
+      "loja": "Amazon",
+      "titulo": "Ambersky Purificador de ar para casa, purificador de ar HEPA verdadeiro de até 2000 m² com sensor de qualidade do ar em tempo real, modo automático, modo de suspensão de 23 dB, fil",
+      "link": "https://www.amazon.com.br/dp/B0GFDDXKJV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41iMKraCTjL._SL400_.jpg",
+      "preco": 214.14,
+      "precoDe": 233.13,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:21:00.459Z"
+    },
+    {
+      "id": "35433",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/BUq6QLhjc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:13:21.154Z"
+    },
     {
       "id": "35433",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-21T14:53:53.729Z"
-    },
-    {
-      "id": "33915",
-      "loja": "Amazon",
-      "titulo": "Stanley Copo Quencher Black 2.0 887ml",
-      "link": "https://www.amazon.com.br/dp/B0CZMDQVFJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kHtGgAK0L._SL400_.jpg",
-      "preco": 152.55,
-      "precoDe": 319,
-      "desconto": 44,
-      "cupom": "STANLEY15",
-      "enviadoEm": "2026-10-21T14:50:07.909Z"
-    },
-    {
-      "id": "33914",
-      "loja": "Shopee",
-      "titulo": "110V Politriz Esmerilhadeira Lixadeira 3 em 1 Multifuncional 125mm Profissional 1150W 6 Velocidades",
-      "link": "https://s.shopee.com.br/1gJYk3ekMl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mrza42erb5l2b4_tn",
-      "preco": 158.99,
-      "precoDe": 299.98,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:46:23.580Z"
-    },
-    {
-      "id": "33913",
-      "loja": "Amazon",
-      "titulo": "Shampoo L'Oréal Paris Elseve Glycolic Gloss, 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CQKCQZL7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EMbjIvBXL._SL400_.jpg",
-      "preco": 21.99,
-      "precoDe": 36.29,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:45:30.857Z"
-    },
-    {
-      "id": "33908",
-      "loja": "Shopee",
-      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
-      "link": "https://s.shopee.com.br/80DcGyYodz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
-      "preco": 26.9,
-      "precoDe": 122.27,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:35:21.414Z"
-    },
-    {
-      "id": "33899",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
-      "link": "https://s.shopee.com.br/3g4d5Pgu9P",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
-      "preco": 44.42,
-      "precoDe": 100.95,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:12:35.818Z"
     }
   ]
 }
