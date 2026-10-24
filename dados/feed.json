@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-24T01:41:39.087Z",
+  "atualizadoEm": "2026-10-24T11:18:26.807Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35211",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+11dLmKBL._SL400_.jpg",
+      "preco": 55.99,
+      "precoDe": 69.67,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:17:53.582Z"
+    },
+    {
+      "id": "35209",
+      "loja": "Amazon",
+      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
+      "link": "https://www.amazon.com.br/dp/B0DHL63KWK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21DTaVUtbUL._SL400_.jpg",
+      "preco": 234.99,
+      "precoDe": 466.66,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:16:53.738Z"
+    },
+    {
+      "id": "35208",
+      "loja": "Mercado Livre",
+      "titulo": "4em1 Kit Vassoura E Pá Multiuso Ajustável Limpeza Piso Pelos",
+      "link": "https://meli.la/2fkzGtN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747686-MLB101208079357_122025-O.webp",
+      "preco": 55.7,
+      "precoDe": 79.99,
+      "desconto": 13,
+      "cupom": "MELISUPERCLUB",
+      "enviadoEm": "2026-10-24T11:13:21.524Z"
+    },
+    {
+      "id": "35207",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
+      "link": "https://s.shopee.com.br/3LRrGVzoMT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
+      "preco": 79.9,
+      "precoDe": 150.75,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:09:33.112Z"
+    },
+    {
+      "id": "35206",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/4LKOSKnkUP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 16.49,
+      "precoDe": 31.71,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:05:31.950Z"
+    },
+    {
+      "id": "35205",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Bitter Campari 998ml",
+      "link": "https://www.amazon.com.br/dp/B0CSLM1G3D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FQxc3GWUL._SL400_.jpg",
+      "preco": 52.99,
+      "precoDe": 69.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:01:33.040Z"
+    },
+    {
+      "id": "35204",
+      "loja": "Shopee",
+      "titulo": "Kit Micro Retífica 24 Peças Elétrica – Velocidade Variável para Polimento e Retificação",
+      "link": "https://s.shopee.com.br/4fxEqviU4c",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65gx3ls6cvm10_tn",
+      "preco": 59.99,
+      "precoDe": 119.98,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T11:00:21.630Z"
+    },
     {
       "id": "35197",
       "loja": "Amazon",
@@ -4311,18 +4395,6 @@
       "enviadoEm": "2026-10-21T16:09:39.737Z"
     },
     {
-      "id": "33966",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "link": "https://www.amazon.com.br/dp/B0DHL63KWK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21DTaVUtbUL._SL400_.jpg",
-      "preco": 245,
-      "precoDe": 466.66,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T16:06:17.531Z"
-    },
-    {
       "id": "33965",
       "loja": "Mercado Livre",
       "titulo": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
@@ -5929,78 +6001,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-10-20T17:10:19.388Z"
-    },
-    {
-      "id": "33470",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Térmico 360° Degrees Camp Mug com Capacidade para 475 ml Azul Nautika",
-      "link": "https://meli.la/2yp7GHU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_869547-MLA114453325101_072026-F.jpg",
-      "preco": 39.9,
-      "precoDe": 49.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T17:09:20.092Z"
-    },
-    {
-      "id": "33468",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 16 (512 GB) – Preto",
-      "link": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dYuiekLvL._SL400_.jpg",
-      "preco": 5499,
-      "precoDe": 5999,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T17:07:56.851Z"
-    },
-    {
-      "id": "33467",
-      "loja": "Shopee",
-      "titulo": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "link": "https://s.shopee.com.br/6AlweXxCDq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970_tn",
-      "preco": 78.9,
-      "precoDe": 161.02,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T17:04:19.450Z"
-    },
-    {
-      "id": "33466",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray London Dry, 750ml",
-      "link": "https://www.amazon.com.br/dp/B006I1M8ZU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31mKO5ZVn0L._SL400_.jpg",
-      "preco": 84.51,
-      "precoDe": 142.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T17:00:46.808Z"
-    },
-    {
-      "id": "33465",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/5LCpem6Upj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 197.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:59:26.321Z"
-    },
-    {
-      "id": "33463",
-      "loja": "Amazon",
-      "titulo": "Calamares Vinho Verde Português Branco 750Ml",
-      "link": "https://www.amazon.com.br/dp/B0BTDMWBDC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315Owndj3tL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 57.9,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T16:55:39.473Z"
     }
   ]
 }
