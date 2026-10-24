@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T00:48:27.168Z",
+  "atualizadoEm": "2026-10-24T03:18:27.065Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -159,18 +159,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "SEMANA15",
-      "loja": "Carrefour",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
       "codigo": "OPORTUNIDADE10",
       "loja": "Carrefour",
       "tipo": "pct",
@@ -192,18 +180,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
-      "codigo": "SEMANA10",
-      "loja": "Carrefour",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
@@ -288,18 +264,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "COQUE5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -507,18 +471,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "DESCONTO15GAB",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "NOTE14",
       "loja": "Kabum",
       "tipo": "pct",
@@ -528,18 +480,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-10T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "POWERUP12",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -612,30 +552,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-28T01:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CINEMAO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "NAAGULHA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1851,18 +1767,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RESGATEFULL2310",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-24T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CLUBEDECUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1884,6 +1788,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULLRESGATE2410",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-25T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2004,42 +1920,6 @@
       "limite": 30,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-10-24T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TECHPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AQUITEMOFERTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
