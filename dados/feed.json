@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-24T13:48:07.163Z",
+  "atualizadoEm": "2026-10-24T14:11:42.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35279",
+      "loja": "Shopee",
+      "titulo": "Chapinha prancha Modelador E Alisador De Cabelo E Barba Masculino",
+      "link": "https://s.shopee.com.br/2VskTB1FU2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0lx5a03o8sh41_tn",
+      "preco": 18.89,
+      "precoDe": 65.14,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T14:01:42.031Z"
+    },
+    {
+      "id": "35275",
+      "loja": "Amazon",
+      "titulo": "Máscara de Tratamento Elseve L'Oréal Paris Colágeno Encorpador 300g | Fórmula reconstrutora, efeito teia, reposição de massa, fios mais densos, macios e luminosos desde o primeiro ",
+      "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41proX+EmhL._SL400_.jpg",
+      "preco": 26.8,
+      "precoDe": 40.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T13:52:02.904Z"
+    },
     {
       "id": "35273",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-20T20:25:48.904Z"
-    },
-    {
-      "id": "33593",
-      "loja": "Shopee",
-      "titulo": "Manta Canelada Casal Premium Soft 2,00x1,80",
-      "link": "https://s.shopee.com.br/60SWfxfiim",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnlvg1tbda8403_tn",
-      "preco": 33.9,
-      "precoDe": 63.96,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T20:18:46.489Z"
-    },
-    {
-      "id": "33590",
-      "loja": "Amazon",
-      "titulo": "Cadeira Gamer ThunderX3 CORE Smart Loft Cinza Escuro",
-      "link": "https://www.amazon.com.br/dp/B0DLH8722V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IXoK-FVTL._SL400_.jpg",
-      "preco": 1817.49,
-      "precoDe": 2499.88,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-20T20:15:21.433Z"
     }
   ]
 }
