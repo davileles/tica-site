@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-24T19:48:26.811Z",
+  "atualizadoEm": "2026-10-24T20:06:12.056Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35433",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Suave Rosé 750ml",
+      "link": "https://www.amazon.com.br/dp/B07L17KNVW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DkGCdbT7L._SL400_.jpg",
+      "preco": 34.9,
+      "precoDe": 36.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:03:35.562Z"
+    },
+    {
+      "id": "35432",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto de Necessaires para Maternidade - Tema Nuvem Branco",
+      "link": "https://meli.la/2ag7pPr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_656036-MLA115596497640_092026-O.webp",
+      "preco": 39.6,
+      "precoDe": 45,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T20:02:29.261Z"
+    },
+    {
+      "id": "35431",
+      "loja": "Amazon",
+      "titulo": "Mustela Toalhas Compostáveis Com Perfume 60 Unidades - Lenços Umedecidos Perfumados E Suaves Para Higiene Do Rosto Ao Bumbum – Com 99% De Ingredientes Naturais – Bebê E Criança",
+      "link": "https://www.amazon.com.br/dp/B0D2ZH3TCJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3117cgbkXLL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 45.5,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:58:24.783Z"
+    },
+    {
+      "id": "35429",
+      "loja": "Amazon",
+      "titulo": "Escova Dental Infantil Condor, Hotwheels",
+      "link": "https://www.amazon.com.br/dp/B09D5SNCM6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jYH7St22L._SL400_.jpg",
+      "preco": 7.5,
+      "precoDe": 15.22,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:54:17.019Z"
+    },
+    {
+      "id": "35427",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/6L5TPuRHyC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 59.9,
+      "precoDe": 85.57,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T19:50:01.056Z"
+    },
     {
       "id": "35426",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-10-21T14:12:35.818Z"
-    },
-    {
-      "id": "33896",
-      "loja": "Amazon",
-      "titulo": "Cachaça Tradicional 51 Garrafa 965ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8THCL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KoCW3KbUL._SL400_.jpg",
-      "preco": 25.08,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:09:24.143Z"
-    },
-    {
-      "id": "33895",
-      "loja": "Mercado Livre",
-      "titulo": "Alicate Universal Tramontina 8\" 41001/108",
-      "link": "https://meli.la/1fZcqbM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867965-MLA107004143885_022026-F.jpg",
-      "preco": 34.66,
-      "precoDe": 36.88,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T14:08:02.744Z"
-    },
-    {
-      "id": "33889",
-      "loja": "Amazon",
-      "titulo": "Whisky Dewars 15 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B07GQ3FD6C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QZyTloI8L._SL400_.jpg",
-      "preco": 172.43,
-      "precoDe": 263.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:55:49.292Z"
-    },
-    {
-      "id": "33885",
-      "loja": "Amazon",
-      "titulo": "Camisa Santos Home 2026 Jogador S/N Umbro, Masculino, Branco/Gold, G",
-      "link": "https://www.amazon.com.br/dp/B0H1NDS97M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oHCV3PskL._SL400_.jpg",
-      "preco": 253.60999999999999,
-      "precoDe": 499.99,
-      "desconto": 37,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-21T13:54:36.760Z"
-    },
-    {
-      "id": "33878",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/7VHLcgoogj",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-muiille9aznka1_tn",
-      "preco": 28.98,
-      "precoDe": 60.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T13:49:24.632Z"
     }
   ]
 }
