@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-24T22:35:12.104Z",
+  "atualizadoEm": "2026-10-24T23:05:12.104Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35466",
+      "loja": "Amazon",
+      "titulo": "el Jimador Reposado Tequila 750 mL",
+      "link": "https://www.amazon.com.br/dp/B07HM7PJFX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DxXjTZelL._SL400_.jpg",
+      "preco": 114.99,
+      "precoDe": 129.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T23:00:09.318Z"
+    },
+    {
+      "id": "35464",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+      "link": "https://s.shopee.com.br/2BFufDHQ8w",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
+      "preco": 51.9,
+      "precoDe": 140.27,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-24T22:54:46.237Z"
+    },
     {
       "id": "35462",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-10-21T16:13:54.785Z"
-    },
-    {
-      "id": "33967",
-      "loja": "Amazon",
-      "titulo": "Bolsa Térmica Lancheira com Alça de Ombro para Marmita - Academira, Trabalho, Escola, Faculdade e Passeios - Marmiteira Impermeável Resistente 7 Litros - Cor PRETA",
-      "link": "https://www.amazon.com.br/dp/B0GVGN7JVJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GfFfRwtZL._SL400_.jpg",
-      "preco": 23.03,
-      "precoDe": 29.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T16:09:39.737Z"
-    },
-    {
-      "id": "33965",
-      "loja": "Mercado Livre",
-      "titulo": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
-      "link": "https://meli.la/19PoGs6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_771757-MLA118854476707_102026-F.jpg",
-      "preco": 89,
-      "precoDe": 139.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T16:02:38.597Z"
     }
   ]
 }
