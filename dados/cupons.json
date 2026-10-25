@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T13:05:14.104Z",
+  "atualizadoEm": "2026-10-25T14:28:44.804Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -767,7 +767,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -875,7 +875,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
+      "validadeAte": "2026-10-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1767,6 +1767,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MLVANTAGENS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1788,6 +1800,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TUDONOMELHOR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-12-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1896,6 +1920,30 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-26T12:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROSEJOGOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-25T15:00:34.622Z",
       "url": "https://meli.la/2xystLt"
     },
     {
