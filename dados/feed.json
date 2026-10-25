@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-25T17:05:12.329Z",
+  "atualizadoEm": "2026-10-25T17:35:12.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35600",
+      "loja": "Amazon",
+      "titulo": "Energético Monster Mango Loco, 473ml, Pack com 6 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTLPHBC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61zJofTCTnL._SL400_.jpg",
+      "preco": 60.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:34:39.183Z"
+    },
+    {
+      "id": "35599",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+      "link": "https://s.shopee.com.br/7fasRtakWU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85_tn",
+      "preco": 39.99,
+      "precoDe": 99.98,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:33:24.781Z"
+    },
+    {
+      "id": "35598",
+      "loja": "Shopee",
+      "titulo": "Cadeira Infantil De Praia Dobrável Com Guarda Sol Criança Praia Piscina Lazer",
+      "link": "https://s.shopee.com.br/AUv3p3E76V",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mqqldyl4klxe3f_tn",
+      "preco": 79.8,
+      "precoDe": 140,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:30:01.412Z"
+    },
+    {
+      "id": "35597",
+      "loja": "Shopee",
+      "titulo": "Kit Body Bebe 3 Peças Manga Longa, Manga Curta E Calça",
+      "link": "https://s.shopee.com.br/60SeSX6MwJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820l6-mqyae5i15og491_tn",
+      "preco": 37.22,
+      "precoDe": 51.69,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:26:15.416Z"
+    },
+    {
+      "id": "35594",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Calcinha Box Shortinho FEMININA MENINA INFANTIL JUVENIL Boxer  Confortável Criança Estampas Sortidas",
+      "link": "https://s.shopee.com.br/50a7GQlyh8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg0sucampdu58_tn",
+      "preco": 34.99,
+      "precoDe": 60.33,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:22:34.362Z"
+    },
+    {
+      "id": "35593",
+      "loja": "Mercado Livre",
+      "titulo": "Garrafinha Infantil Térmica Inox 450ml Escolar Copo + Alça",
+      "link": "https://meli.la/2onpjE9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967736-MLB89828197953_082025-O.webp",
+      "preco": 37,
+      "precoDe": 44.98,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:18:50.549Z"
+    },
+    {
+      "id": "35591",
+      "loja": "Amazon",
+      "titulo": "Kit de Pontas e Brocas Bosch V-Line 41 pçs",
+      "link": "https://www.amazon.com.br/dp/B07CTN73L1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51JOOXUEw1L._SL400_.jpg",
+      "preco": 101.91000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T17:15:22.146Z"
+    },
+    {
+      "id": "35590",
+      "loja": "Amazon",
+      "titulo": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 127V",
+      "link": "https://www.amazon.com.br/dp/B0756KXRLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nSrfrSgcL._SL400_.jpg",
+      "preco": 242.25,
+      "precoDe": 599.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:14:08.483Z"
+    },
+    {
+      "id": "35588",
+      "loja": "Shopee",
+      "titulo": "Colcha Cobre Leito Solteiro Studio MIx Premium Matêlado Bouti Kids",
+      "link": "https://s.shopee.com.br/113yU0NwIT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-msvjvgny30nb73_tn",
+      "preco": 45.9,
+      "precoDe": 80.53,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:10:34.731Z"
+    },
+    {
+      "id": "35586",
+      "loja": "Shopee",
+      "titulo": "Jogo de Palhetas Limpador de Parabrisa Palheta Silicone Fiat Palio Uno Mobi Siena Argo Punto Strada",
+      "link": "https://s.shopee.com.br/7fasPrm7Si",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn26bqurhh50c3_tn",
+      "preco": 19.77,
+      "precoDe": 65.9,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:06:50.754Z"
+    },
     {
       "id": "35585",
       "loja": "Mercado Livre",
@@ -1201,18 +1321,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:19:29.073Z"
-    },
-    {
-      "id": "35413",
-      "loja": "Amazon",
-      "titulo": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 127V",
-      "link": "https://www.amazon.com.br/dp/B0756KXRLB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41nSrfrSgcL._SL400_.jpg",
-      "preco": 242.25,
-      "precoDe": 599.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:15:26.033Z"
     },
     {
       "id": "35412",
@@ -5893,114 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-21T21:05:30.903Z"
-    },
-    {
-      "id": "34173",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora 3d Bambu Lab A1 127/220v Prateado 127/220v Cinza",
-      "link": "https://meli.la/26mitVL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_853666-MLA95660372594_102025-O.webp",
-      "preco": 2399,
-      "precoDe": 3176,
-      "desconto": 15,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T20:58:34.028Z"
-    },
-    {
-      "id": "34170",
-      "loja": "Mercado Livre",
-      "titulo": "Detergente Para Lava Louças Em Pó Finish Power Powder",
-      "link": "https://meli.la/23aUjKU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_675474-MLA104158513023_012026-F.jpg",
-      "preco": 45.27,
-      "precoDe": 98.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:51:37.888Z"
-    },
-    {
-      "id": "34169",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo Ideapad Slim 3 83mms00100 512GB 8GB + Ebook",
-      "link": "https://meli.la/1WAAGST",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_611758-MLB100386637021_122025-O.webp",
-      "preco": 3668,
-      "precoDe": 4899,
-      "desconto": 19,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T20:48:15.958Z"
-    },
-    {
-      "id": "34168",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Pontas Phillips PH2 Pontas Impacto Anti Derrapante Encaixe Preciso Anti choque (25-150mm)",
-      "link": "https://s.shopee.com.br/8fTJTRtWCE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mipa7vseswzne6_tn",
-      "preco": 17.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:45:05.351Z"
-    },
-    {
-      "id": "34167",
-      "loja": "Amazon",
-      "titulo": "Tênis Puma Night Runner V3 Masculino, Vermelho, 39",
-      "link": "https://www.amazon.com.br/dp/B0F4HLKJQL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310EVVWQv3L._SL400_.jpg",
-      "preco": 139,
-      "precoDe": 151.42,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:44:17.359Z"
-    },
-    {
-      "id": "34162",
-      "loja": "Mercado Livre",
-      "titulo": "Tarjeta Gráfica Asus Prime Rtx 5070 De 12 Gb Con Nvidia Gefo",
-      "link": "https://meli.la/1HG2NZ5",
-      "imagem": "https://http2.mlstatic.com/D_864145-MLA110079164075_042026-F.jpg",
-      "preco": 5659,
-      "precoDe": 6588,
-      "desconto": 10,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T20:40:36.863Z"
-    },
-    {
-      "id": "34161",
-      "loja": "Mercado Livre",
-      "titulo": "Cerveja Heineken Premium Garrafa 6 Long Neck 330ml",
-      "link": "https://meli.la/1c7efzD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861500-MLA99450644882_112025-F.jpg",
-      "preco": 32.58,
-      "precoDe": 44.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:37:18.669Z"
-    },
-    {
-      "id": "34160",
-      "loja": "Shopee",
-      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
-      "link": "https://s.shopee.com.br/3B8MuiukK2",
-      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
-      "preco": 14.84,
-      "precoDe": 40.11,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:34:03.047Z"
-    },
-    {
-      "id": "34156",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Brastemp Inteligente 512L Bivolt - BRM62A",
-      "link": "https://meli.la/1mUJVF4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940707-MLA118254331193_092026-F.jpg",
-      "preco": 2819,
-      "precoDe": 4299,
-      "desconto": 27,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T20:30:02.944Z"
     }
   ]
 }
