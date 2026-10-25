@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-25T16:35:12.329Z",
+  "atualizadoEm": "2026-10-25T17:05:12.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35585",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto De Natal 02 Peças Vestido E Camiseta Natalino Luxo",
+      "link": "https://meli.la/1FEwEaJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713815-MLB119809406059_102026-O.webp",
+      "preco": 68.89,
+      "precoDe": 86.98,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:03:03.994Z"
+    },
+    {
+      "id": "35584",
+      "loja": "Shopee",
+      "titulo": "Batom Natura Faces Matte de Longa Duração 5,5ml",
+      "link": "https://s.shopee.com.br/8V9zP1RuKI",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpsbwee9lt732b_tn",
+      "preco": 24.95,
+      "precoDe": 49.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:59:27.828Z"
+    },
+    {
+      "id": "35583",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 2 Bodies para Bebê, Manga Curta, perfeito para o Natal e Ano Novo de verão.",
+      "link": "https://meli.la/1vSFCWZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605832-MLB117045232552_102026-O.webp",
+      "preco": 39.01,
+      "precoDe": 45.9,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:55:51.517Z"
+    },
+    {
+      "id": "35582",
+      "loja": "Amazon",
+      "titulo": "JBL, Fone de Ouvido Bluetooth sem fio JBLWBUDS2WHT",
+      "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21OmJkjIhGL._SL400_.jpg",
+      "preco": 226.8,
+      "precoDe": 466.66,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:52:03.549Z"
+    },
+    {
+      "id": "35581",
+      "loja": "Amazon",
+      "titulo": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta",
+      "link": "https://www.amazon.com.br/dp/B088W1VY9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Rt9WcWcnL._SL400_.jpg",
+      "preco": 844.76,
+      "precoDe": 1229,
+      "desconto": 19,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T16:48:47.488Z"
+    },
+    {
+      "id": "35579",
+      "loja": "Amazon",
+      "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
+      "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31w+Ftpvf+L._SL400_.jpg",
+      "preco": 21.74,
+      "precoDe": 35.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:47:54.786Z"
+    },
+    {
+      "id": "35577",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Tcl 55 Polegadas Qled 4k T6c Wifi Bluetooth Google Tv Tela Hva E Hdr10+ 55t6c",
+      "link": "https://meli.la/2x2A27S",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657072-MLA114584519748_082026-F.jpg",
+      "preco": 1917,
+      "precoDe": 2899,
+      "desconto": 17,
+      "cupom": "OPORTUNIDADE",
+      "enviadoEm": "2026-10-25T16:44:12.625Z"
+    },
+    {
+      "id": "35576",
+      "loja": "Amazon",
+      "titulo": "Kérastase Nutritive Sérum Capilar Noturno 8H Magic Night Travel Size Para Cabelos Secos com Nutrição Profunda, Proteção Contra a Fricção do Travesseiro e Cabelos Mais Fortes 30ml",
+      "link": "https://www.amazon.com.br/dp/B0F2QZQWDN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21WzLXjAzSL._SL400_.jpg",
+      "preco": 165.99,
+      "precoDe": 199,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:40:42.407Z"
+    },
+    {
+      "id": "35575",
+      "loja": "Shopee",
+      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - BNVT",
+      "link": "https://s.shopee.com.br/20wVdK8LwB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3dg900h03zsa3_tn",
+      "preco": 14.9,
+      "precoDe": 29.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:37:22.445Z"
+    },
     {
       "id": "35574",
       "loja": "Shopee",
@@ -1453,18 +1561,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-10-24T17:23:29.362Z"
-    },
-    {
-      "id": "35371",
-      "loja": "Amazon",
-      "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31w+Ftpvf+L._SL400_.jpg",
-      "preco": 21.74,
-      "precoDe": 35.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:19:21.799Z"
     },
     {
       "id": "35370",
@@ -5799,18 +5895,6 @@
       "enviadoEm": "2026-10-21T21:05:30.903Z"
     },
     {
-      "id": "34176",
-      "loja": "Amazon",
-      "titulo": "JBL, Fone de Ouvido Bluetooth sem fio JBLWBUDS2WHT",
-      "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21OmJkjIhGL._SL400_.jpg",
-      "preco": 226.8,
-      "precoDe": 466.66,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:01:57.345Z"
-    },
-    {
       "id": "34173",
       "loja": "Mercado Livre",
       "titulo": "Impressora 3d Bambu Lab A1 127/220v Prateado 127/220v Cinza",
@@ -5917,90 +6001,6 @@
       "desconto": 27,
       "cupom": "TOPOFERTA",
       "enviadoEm": "2026-10-21T20:30:02.944Z"
-    },
-    {
-      "id": "34155",
-      "loja": "Mercado Livre",
-      "titulo": "Papel Higiênico Supreme Folha Tripla Com 12 Rolos Neve",
-      "link": "https://meli.la/2Qa5tsd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922006-MLA112998652668_072026-F.jpg",
-      "preco": 22,
-      "precoDe": 39.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:26:34.466Z"
-    },
-    {
-      "id": "34148",
-      "loja": "Amazon",
-      "titulo": "Energético Baly Morango e Pêssego 2L",
-      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
-      "preco": 17.01,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:19:49.939Z"
-    },
-    {
-      "id": "34146",
-      "loja": "Mercado Livre",
-      "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas",
-      "link": "https://meli.la/24ffcqN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949131-MLA114764498645_072026-F.jpg",
-      "preco": 41.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:18:45.071Z"
-    },
-    {
-      "id": "34145",
-      "loja": "Mercado Livre",
-      "titulo": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-      "link": "https://meli.la/1WFQHgu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696266-MLA97205822349_112025-F.jpg",
-      "preco": 49.92,
-      "precoDe": 199,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:14:55.727Z"
-    },
-    {
-      "id": "34143",
-      "loja": "Shopee",
-      "titulo": "Mix Misturador Cafe Bebidas Batedor De Ovos Automático Elétrico Inox",
-      "link": "https://s.shopee.com.br/5q983mmZzd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxs2z7sqzut5f_tn",
-      "preco": 11.99,
-      "precoDe": 39.97,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T20:11:10.811Z"
-    },
-    {
-      "id": "34133",
-      "loja": "Mercado Livre",
-      "titulo": "Sandália Babuche Infantil Macia Confortável Ajustável",
-      "link": "https://meli.la/2PQYErM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945517-MLB107468360760_032026-O.webp",
-      "preco": 19.25,
-      "precoDe": 39.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:55:29.927Z"
-    },
-    {
-      "id": "34132",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Multicolorido",
-      "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wIZ687WKL._SL400_.jpg",
-      "preco": 34.99,
-      "precoDe": 47.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:54:37.919Z"
     }
   ]
 }
