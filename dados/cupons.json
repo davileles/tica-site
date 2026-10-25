@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-10-25T22:05:12.609Z",
+  "atualizadoEm": "2026-10-25T23:01:27.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "1ANUPAY",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido para primeira compra usando NuPay",
-      "validadeAte": "2026-10-25T22:52:41.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "ESTILO15",
       "loja": "ASICS",
