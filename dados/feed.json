@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-25T17:35:12.329Z",
+  "atualizadoEm": "2026-10-25T18:05:12.330Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35610",
+      "loja": "Shopee",
+      "titulo": "Berço Cercado Portátil para Bebê com Rodinhas e Tela Respirável, Cama Infantil Dobrável e Segura para Recém-Nascido",
+      "link": "https://s.shopee.com.br/20wVjQR71N",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mt0gqvhqy6mf62_tn",
+      "preco": 299,
+      "precoDe": 398.67,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:03:00.188Z"
+    },
+    {
+      "id": "35608",
+      "loja": "Shopee",
+      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
+      "link": "https://s.shopee.com.br/5q9EILXQ12",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
+      "preco": 35.91,
+      "precoDe": 39.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:59:15.062Z"
+    },
+    {
+      "id": "35607",
+      "loja": "Shopee",
+      "titulo": "Lenço Umedecido Cuidado e Carinho 576UN",
+      "link": "https://s.shopee.com.br/50a7IfvpDp",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g8-mf1ip24v28sqd3_tn",
+      "preco": 45.9,
+      "precoDe": 90,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:55:19.295Z"
+    },
+    {
+      "id": "35606",
+      "loja": "Shopee",
+      "titulo": "Sapato Mary Jane Infantil Menina Blogueirinha Tamanho 22 ao 32 Sapekitos",
+      "link": "https://s.shopee.com.br/2qVciQoXOS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj48jrlidrsy63_tn",
+      "preco": 58.9,
+      "precoDe": 89.24,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:51:31.412Z"
+    },
+    {
+      "id": "35605",
+      "loja": "Shopee",
+      "titulo": "KIT Camisola Amamentação Maternidade e Pós Parto + Robe em Microfibra com Renda.",
+      "link": "https://s.shopee.com.br/113yWS200a",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtgdnkwy9dv79_tn",
+      "preco": 60.98,
+      "precoDe": 99.97,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:47:41.897Z"
+    },
+    {
+      "id": "35603",
+      "loja": "Amazon",
+      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
+      "preco": 89.25,
+      "precoDe": 140.45,
+      "desconto": 25,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T17:43:45.398Z"
+    },
+    {
+      "id": "35602",
+      "loja": "Amazon",
+      "titulo": "Bicicleta Caloi Andes Aro 26, 21 Marchas, Grip Shift, Suspensão Dianteira 30mm, Freio V-Brake, Cidade, Passeio e Lazer",
+      "link": "https://www.amazon.com.br/dp/B0DQQCM4T3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Kq4WRfW5L._SL400_.jpg",
+      "preco": 689.99,
+      "precoDe": 1229.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:42:28.992Z"
+    },
+    {
+      "id": "35601",
+      "loja": "Shopee",
+      "titulo": "Banheira de Bebê Suporte Dobravel Menino e Menina - Tanque 25 litros - Até 20Kg - Scorpion",
+      "link": "https://s.shopee.com.br/1BNOi9ce1p",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mopbgy4v86x13f_tn",
+      "preco": 126,
+      "precoDe": 180,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T17:38:48.548Z"
+    },
     {
       "id": "35600",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-21T21:32:24.866Z"
-    },
-    {
-      "id": "34190",
-      "loja": "Mercado Livre",
-      "titulo": "Lava-louça Electrolux 8 Serviços Branca Lava E Seca 50' Lb08 Cor Branco",
-      "link": "https://meli.la/1nsPGuP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912455-MLA99455895366_112025-F.jpg",
-      "preco": 1699,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T21:29:04.749Z"
-    },
-    {
-      "id": "34188",
-      "loja": "Amazon",
-      "titulo": "Tenis New Balance 550 Feminino, Branco/Cinza Claro, 36",
-      "link": "https://www.amazon.com.br/dp/B0G5Z2F4JN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eAinsHGQL._SL400_.jpg",
-      "preco": 319.9,
-      "precoDe": 899.99,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:24:45.035Z"
-    },
-    {
-      "id": "34187",
-      "loja": "Mercado Livre",
-      "titulo": "Garrafa Térmica Quick Flip Stanley Preto 710ml",
-      "link": "https://meli.la/2ufBYyv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744777-MLA118142201652_102026-F.jpg",
-      "preco": 128.16,
-      "precoDe": 289,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:20:57.305Z"
-    },
-    {
-      "id": "34182",
-      "loja": "Mercado Livre",
-      "titulo": "Zotac Rtx 5060 Twin Edge Placa Vídeo 8gb Gddr7 Cooling Ar",
-      "link": "https://meli.la/1S2a3qF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980986-MLA99925899181_112025-F.jpg",
-      "preco": 2699,
-      "precoDe": 3999,
-      "desconto": 25,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T21:17:29.451Z"
-    },
-    {
-      "id": "34180",
-      "loja": "Mercado Livre",
-      "titulo": "Sapatênis , Leve De  Zíper Super Conforto",
-      "link": "https://meli.la/31MV1sK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957872-MLB97351627901_112025-O.webp",
-      "preco": 56.54,
-      "precoDe": 94.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:13:48.118Z"
-    },
-    {
-      "id": "34179",
-      "loja": "Amazon",
-      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
-      "preco": 46.53,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:10:12.013Z"
-    },
-    {
-      "id": "34178",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG UltraGear Curvo 34\"- QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync Premium, HDR10, MaxxAudio, Preto -34G600A",
-      "link": "https://meli.la/331ghmq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790527-MLA105314750110_012026-F.jpg",
-      "preco": 1699,
-      "precoDe": 2515.49,
-      "desconto": 21,
-      "cupom": "TOPOFERTA",
-      "enviadoEm": "2026-10-21T21:08:55.257Z"
-    },
-    {
-      "id": "34177",
-      "loja": "Shopee",
-      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
-      "link": "https://s.shopee.com.br/2LZFwkpOch",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
-      "preco": 38,
-      "precoDe": 44.71,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T21:05:30.903Z"
     }
   ]
 }
