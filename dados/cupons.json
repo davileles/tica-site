@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T12:05:12.547Z",
+  "atualizadoEm": "2026-10-25T12:35:14.282Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1731,6 +1731,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "APROVEITAESSE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons de desconto para o Mercado Livre em produtos selecionados",
+      "validadeAte": "2026-12-20T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "VALEAPENANOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1752,6 +1764,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OPORTUNIDADE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-12-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1779,6 +1803,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MAISPORMENOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1787,7 +1823,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1887,18 +1923,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SPORTS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 20,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-25T12:06:33.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AUTOS2510",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1920,18 +1944,6 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-26T12:00:06.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DF1PDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-10-25T12:06:33.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
