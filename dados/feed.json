@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-25T14:49:47.991Z",
+  "atualizadoEm": "2026-10-25T15:05:12.327Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35537",
+      "loja": "Amazon",
+      "titulo": "BOSCH Esmerilhadeira Angular 4.1/2POL 710W GWS 700",
+      "link": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4174YWDDKJL._SL400_.jpg",
+      "preco": 242.25,
+      "precoDe": 364.9,
+      "desconto": 22,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T15:02:35.327Z"
+    },
+    {
+      "id": "35536",
+      "loja": "Amazon",
+      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410UriYRE2L._SL400_.jpg",
+      "preco": 419,
+      "precoDe": 1199.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:01:39.462Z"
+    },
     {
       "id": "35533",
       "loja": "Amazon",
@@ -5223,18 +5247,6 @@
       "enviadoEm": "2026-10-21T22:56:26.176Z"
     },
     {
-      "id": "34226",
-      "loja": "Amazon",
-      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/410UriYRE2L._SL400_.jpg",
-      "preco": 419,
-      "precoDe": 1199.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:53:52.068Z"
-    },
-    {
       "id": "34225",
       "loja": "Amazon",
       "titulo": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
@@ -5989,18 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-21T18:19:39.075Z"
-    },
-    {
-      "id": "34057",
-      "loja": "Amazon",
-      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
-      "preco": 24.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T18:18:32.910Z"
     }
   ]
 }
