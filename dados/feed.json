@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-25T18:35:12.330Z",
+  "atualizadoEm": "2026-10-25T19:05:12.331Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35630",
+      "loja": "Mercado Livre",
+      "titulo": "Penteadeira Suspensa Gaveta Multifuncional Com Puxador Cor Branca",
+      "link": "https://meli.la/27zQcts",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785790-MLA104330165638_012026-F.jpg",
+      "preco": 55.9,
+      "precoDe": 129.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T19:04:44.453Z"
+    },
+    {
+      "id": "35629",
+      "loja": "Mercado Livre",
+      "titulo": "Maleta de Maquiagem Infantil Kit Maquiagem Fashion Make Up Completa com Espelho e Acessórios Lavável Hipoalergênica Brinquedo Presente para Menina Kizumba",
+      "link": "https://meli.la/2XvLDdu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664918-MLA115927390128_092026-F.jpg",
+      "preco": 74.9,
+      "precoDe": 139.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T19:00:49.592Z"
+    },
+    {
+      "id": "35628",
+      "loja": "Mercado Livre",
+      "titulo": "Ninho Casulinho Bebê Sensorial M + Capa Algodão 250 Fios",
+      "link": "https://meli.la/2pnLWGM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_898005-MLB98824350256_112025-O.webp",
+      "preco": 118.65,
+      "precoDe": 166.15,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:57:29.572Z"
+    },
+    {
+      "id": "35627",
+      "loja": "Shopee",
+      "titulo": "Pijama Feminino Cropped Coração Suede Canelado Conjunto Alcinha P ao G Plus Size Baby Doll",
+      "link": "https://s.shopee.com.br/3g4jlxqmOH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-ms4qbgilbyf98a_tn",
+      "preco": 27.99,
+      "precoDe": 46.65,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:53:54.088Z"
+    },
+    {
+      "id": "35626",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/2VsmNoHgzi",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75_tn",
+      "preco": 27.54,
+      "precoDe": 37.22,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:50:07.200Z"
+    },
+    {
+      "id": "35625",
+      "loja": "Shopee",
+      "titulo": "Letra Decorativa de Parede Luminosa 30cm Personalizada Sem Fio Pilhas Luminária",
+      "link": "https://s.shopee.com.br/3VlJZ8znr3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-msmqf7zqe4g6a9_tn",
+      "preco": 63.67,
+      "precoDe": 74.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:45:57.809Z"
+    },
+    {
+      "id": "35623",
+      "loja": "Amazon",
+      "titulo": "Daily T-shirt Masculino Preto G",
+      "link": "https://www.amazon.com.br/dp/B0BHMGY76M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jj072r3bL._SL400_.jpg",
+      "preco": 65.55,
+      "precoDe": 139,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:41:54.505Z"
+    },
+    {
+      "id": "35622",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Camisolas Amamentação Longas 2 Robes Longos Confortável",
+      "link": "https://s.shopee.com.br/8V9zVnuJ4o",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82624-mlez5edkuuxbc1_tn",
+      "preco": 162.9,
+      "precoDe": 397.32,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T18:38:26.975Z"
+    },
     {
       "id": "35621",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-21T23:06:49.064Z"
-    },
-    {
-      "id": "34229",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Mojito 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DLXNN8LM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31KYuZyiQoL._SL400_.jpg",
-      "preco": 33.31,
-      "precoDe": 45.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:56:26.176Z"
-    },
-    {
-      "id": "34225",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D519XS9K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uYccJRfwL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 46.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:46:01.823Z"
-    },
-    {
-      "id": "34224",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-qdyooPzL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 42.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:45:04.868Z"
-    },
-    {
-      "id": "34223",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D4363KSD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414Uf3FLMyL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 42.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:43:56.087Z"
-    },
-    {
-      "id": "34222",
-      "loja": "Shopee",
-      "titulo": "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
-      "link": "https://s.shopee.com.br/3g4deUDX5G",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw9-lzabd7yd64ru41_tn",
-      "preco": 55.77,
-      "precoDe": 150.73,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:42:46.187Z"
-    },
-    {
-      "id": "34219",
-      "loja": "Mercado Livre",
-      "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
-      "link": "https://meli.la/1veK9kF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978797-MLB117407765866_102026-O.webp",
-      "preco": 589,
-      "precoDe": 1099,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:35:46.356Z"
-    },
-    {
-      "id": "34216",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
-      "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qtE7HMkaL._SL400_.jpg",
-      "preco": 19.19,
-      "precoDe": 27.49,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:33:44.340Z"
-    },
-    {
-      "id": "34213",
-      "loja": "Amazon",
-      "titulo": "GLACO BIG 120ml",
-      "link": "https://www.amazon.com.br/dp/B07YCLFHQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51U2sArN2SL._SL400_.jpg",
-      "preco": 74.64,
-      "precoDe": 110,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:27:30.369Z"
     }
   ]
 }
