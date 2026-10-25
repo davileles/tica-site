@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-25T21:53:50.518Z",
+  "atualizadoEm": "2026-10-25T22:15:37.056Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35694",
+      "loja": "Shopee",
+      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
+      "link": "https://s.shopee.com.br/6L5VANKtur",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
+      "preco": 23.31,
+      "precoDe": 25.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T22:05:37.052Z"
+    },
     {
       "id": "35691",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-22T13:37:10.840Z"
-    },
-    {
-      "id": "34411",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Peças Conjunto Moletom Infantil Menina 1 ao 14 Feminino Inverno Manga Longa Pronta Entrega",
-      "link": "https://s.shopee.com.br/9fLrmwRYf2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7clrio6z49635_tn",
-      "preco": 64.8,
-      "precoDe": 109.83,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:35:10.308Z"
     }
   ]
 }
