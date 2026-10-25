@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-25T14:35:12.327Z",
+  "atualizadoEm": "2026-10-25T14:49:47.991Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35533",
+      "loja": "Amazon",
+      "titulo": "Bosch Serra Mármore Gdc 150 Titan 1500W 220V Com 1 Disco",
+      "link": "https://www.amazon.com.br/dp/B076ZQZ8F5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41v6okjnrPL._SL400_.jpg",
+      "preco": 348.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T14:39:47.984Z"
+    },
+    {
+      "id": "35532",
+      "loja": "Amazon",
+      "titulo": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza | 128GB, 4GB, 50MP, Tela 6.7\"",
+      "link": "https://www.amazon.com.br/dp/B0FPPJF4Y7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-sVxQETKL._SL400_.jpg",
+      "preco": 999,
+      "precoDe": 1699,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T14:38:47.378Z"
+    },
     {
       "id": "35530",
       "loja": "Shopee",
@@ -5259,18 +5283,6 @@
       "enviadoEm": "2026-10-21T22:42:46.187Z"
     },
     {
-      "id": "34220",
-      "loja": "Amazon",
-      "titulo": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza",
-      "link": "https://www.amazon.com.br/dp/B0FPPJF4Y7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-sVxQETKL._SL400_.jpg",
-      "preco": 999,
-      "precoDe": 1699,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T22:39:19.204Z"
-    },
-    {
       "id": "34219",
       "loja": "Mercado Livre",
       "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-21T18:18:32.910Z"
-    },
-    {
-      "id": "34056",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho de Jantar 20 peças Branco Poppy de Cerâmica - Scalla Cerâmica",
-      "link": "https://meli.la/11cveVP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753348-MLA96892193126_112025-F.jpg",
-      "preco": 246.21,
-      "precoDe": 303.63,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T18:15:20.901Z"
     }
   ]
 }
