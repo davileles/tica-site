@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T15:35:14.273Z",
+  "atualizadoEm": "2026-10-25T18:05:14.478Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1887,6 +1887,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODA2510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-26T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,6 +1992,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-10-26T12:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2510",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-26T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
