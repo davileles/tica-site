@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-25T22:35:12.334Z",
+  "atualizadoEm": "2026-10-25T23:01:25.684Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35700",
+      "loja": "Shopee",
+      "titulo": "Termômetro Digital Infantil Ultra Rápido Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "link": "https://s.shopee.com.br/3B8TRhXF6v",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
+      "preco": 26.99,
+      "precoDe": 45.75,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T22:51:25.677Z"
+    },
     {
       "id": "35698",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-22T13:43:58.722Z"
-    },
-    {
-      "id": "34414",
-      "loja": "Shopee",
-      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "link": "https://s.shopee.com.br/70L6cR1915",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
-      "preco": 49.99,
-      "precoDe": 70.41,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:43:08.249Z"
     }
   ]
 }
