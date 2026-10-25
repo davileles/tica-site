@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-25T13:57:38.358Z",
+  "atualizadoEm": "2026-10-25T14:28:43.085Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35529",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Carmenere 750ml",
+      "link": "https://www.amazon.com.br/dp/B077HHG6MM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LGIH1otKL._SL400_.jpg",
+      "preco": 21.5,
+      "precoDe": 36.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T14:18:43.083Z"
+    },
+    {
+      "id": "35526",
+      "loja": "Amazon",
+      "titulo": "Serra Mármore Bosch GDC 151 TITAN 1500W 127V com maleta, 1 disco e 1 kit refrigeração",
+      "link": "https://www.amazon.com.br/dp/B076X6YC6D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UuvuW52kL._SL400_.jpg",
+      "preco": 429.15999999999997,
+      "precoDe": 569,
+      "desconto": 11,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T14:17:31.430Z"
+    },
+    {
+      "id": "35525",
+      "loja": "Amazon",
+      "titulo": "Tramontina Jogo de Panelas Veronese em Alumínio com Revestimento Cerâmico cor Argila 5 Peças.",
+      "link": "https://www.amazon.com.br/dp/B0GP2QD973?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CWbZ0PgGL._SL400_.jpg",
+      "preco": 385.61,
+      "precoDe": 652.59,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T14:16:13.224Z"
+    },
+    {
+      "id": "35524",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "link": "https://s.shopee.com.br/6VOuq3nphS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
+      "preco": 10.9,
+      "precoDe": 21.37,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T14:10:40.149Z"
+    },
     {
       "id": "35521",
       "loja": "Shopee",
@@ -2233,18 +2281,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-10-23T22:00:46.958Z"
-    },
-    {
-      "id": "35175",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Carmenere 750ml",
-      "link": "https://www.amazon.com.br/dp/B077HHG6MM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LGIH1otKL._SL400_.jpg",
-      "preco": 29.89,
-      "precoDe": 36.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T21:49:43.369Z"
     },
     {
       "id": "35174",
@@ -5965,42 +6001,6 @@
       "desconto": 1,
       "cupom": null,
       "enviadoEm": "2026-10-21T18:10:48.520Z"
-    },
-    {
-      "id": "34050",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Shakira S by Shakira Eau de Toilette 80 ml",
-      "link": "https://meli.la/1gshVKX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668136-MLA50956456841_082022-F.jpg",
-      "preco": 112.47,
-      "precoDe": 199,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T18:02:30.565Z"
-    },
-    {
-      "id": "34043",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Pano De Prato Estampado 100% Algodão",
-      "link": "https://meli.la/1AavjLK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817039-MLA119854485227_102026-F.jpg",
-      "preco": 24.2,
-      "precoDe": 26.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T17:52:15.070Z"
-    },
-    {
-      "id": "34042",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 20 Itens Esportivos Para Treino Em Casa Academia Fitness Funcional Com Elásticos Extensor Puxadores Massageador Faixas Elásticas Mini Band P/ Exercícios Ginástica Fisioterapia ",
-      "link": "https://meli.la/1zqApeU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990345-MLA115532130447_082026-F.jpg",
-      "preco": 48.97,
-      "precoDe": 59.97,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T17:51:28.935Z"
     }
   ]
 }
