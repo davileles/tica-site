@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-25T14:28:43.085Z",
+  "atualizadoEm": "2026-10-25T14:35:12.327Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35530",
+      "loja": "Shopee",
+      "titulo": "1 Rosa/Preto/Azul Cesto De Roupa Caixa Dobrável Para Armazenagem E Organização De Vestuário Brinquedos",
+      "link": "https://s.shopee.com.br/1BNOVq899W",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12_tn",
+      "preco": 11.15,
+      "precoDe": 44.6,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T14:33:39.154Z"
+    },
     {
       "id": "35529",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-10-21T18:15:20.901Z"
-    },
-    {
-      "id": "34054",
-      "loja": "Shopee",
-      "titulo": "Kit Para Cachorro Caminha Pet Sanitário Comedouro Para Cães Pequeno",
-      "link": "https://s.shopee.com.br/7KxviYVdWE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mu2i7pmfv4le43_tn",
-      "preco": 66.99,
-      "precoDe": 67.67,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T18:10:48.520Z"
     }
   ]
 }
