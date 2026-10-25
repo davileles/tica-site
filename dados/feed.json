@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-25T11:05:12.314Z",
+  "atualizadoEm": "2026-10-25T11:17:42.470Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35478",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
+      "link": "https://s.shopee.com.br/1gJesLt86j",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9_tn",
+      "preco": 18.82,
+      "precoDe": 48.26,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T11:07:42.465Z"
+    },
     {
       "id": "35477",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-21T16:31:44.314Z"
-    },
-    {
-      "id": "33975",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER JOGO DE PANELAS 9 PEÇAS CERAMIC LINE - CORPO COM REVESTIMENTO CERÂMICO ANTIADERENTE COM ACABAMENTO MARMORIZADO GREY MARBLE, BASE COMPATÍVEL COM INDUÇÃO",
-      "link": "https://www.amazon.com.br/dp/B0GV63ZK3N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kA7ZtGjL._SL400_.jpg",
-      "preco": 285.34,
-      "precoDe": 300.39,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T16:28:17.449Z"
     }
   ]
 }
