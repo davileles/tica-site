@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-25T20:35:12.331Z",
+  "atualizadoEm": "2026-10-25T21:05:12.334Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35682",
+      "loja": "Shopee",
+      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
+      "link": "https://s.shopee.com.br/50a7VNlYyO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
+      "preco": 54.5,
+      "precoDe": 78.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T21:01:27.887Z"
+    },
+    {
+      "id": "35681",
+      "loja": "Amazon",
+      "titulo": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0051LRFB0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+psDcHE3L._SL400_.jpg",
+      "preco": 142,
+      "precoDe": 243.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:58:05.083Z"
+    },
+    {
+      "id": "35679",
+      "loja": "Shopee",
+      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
+      "link": "https://s.shopee.com.br/40haJEARXA",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
+      "preco": 27.89,
+      "precoDe": 32.81,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:56:48.747Z"
+    },
+    {
+      "id": "35678",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Bluetooth Àprova D&#x27;água Com 50h Bateria Inova",
+      "link": "https://meli.la/14nguU7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731825-MLB109751863746_042026-O.webp",
+      "preco": 56.37,
+      "precoDe": 90.8,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:53:11.189Z"
+    },
+    {
+      "id": "35677",
+      "loja": "Shopee",
+      "titulo": "Sunga Infantil 1, 2 ou 3 uni Boxer Menino Estampada Dinossauro Tubarão Caranguejo Praia Piscina Sortidas",
+      "link": "https://s.shopee.com.br/40haIptwdm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt143i8d6ryd16_tn",
+      "preco": 29,
+      "precoDe": 32.95,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:49:41.073Z"
+    },
+    {
+      "id": "35675",
+      "loja": "Shopee",
+      "titulo": "Calçado Infantil Tipo Meia Antiderrapante Bebê Menina Confortável Flexível",
+      "link": "https://s.shopee.com.br/7VHST1M8yZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvlt7ongcm0290_tn",
+      "preco": 32.99,
+      "precoDe": 40.23,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:46:11.102Z"
+    },
+    {
+      "id": "35673",
+      "loja": "Mercado Livre",
+      "titulo": "Macacão Bebe Estampado Fresquinho Zíper E Vira Pé Algodão",
+      "link": "https://meli.la/2p6VXDV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994530-MLB104341219254_012026-O.webp",
+      "preco": 28.8,
+      "precoDe": 39.99,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:42:33.609Z"
+    },
+    {
+      "id": "35671",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto de 10 peças para o seu bebê menino, com estampas super divertidas, ideal para os pequenos de 1 a 3 meses.",
+      "link": "https://meli.la/1trNikZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775419-MLB113475852256_072026-O.webp",
+      "preco": 71,
+      "precoDe": 105.57,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T20:38:57.014Z"
+    },
     {
       "id": "35669",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-10-22T13:28:53.871Z"
-    },
-    {
-      "id": "34399",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Macacão Estampado Menina Roupa Infantil Bebê Zíper Algodão Macio",
-      "link": "https://s.shopee.com.br/2gC7RHh44A",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msgbx44wun0mdc_tn",
-      "preco": 78.88,
-      "precoDe": 140.86,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:23:12.944Z"
-    },
-    {
-      "id": "34393",
-      "loja": "Shopee",
-      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
-      "link": "https://s.shopee.com.br/LoCebHZqs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
-      "preco": 17.97,
-      "precoDe": 42.79,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:20:16.801Z"
-    },
-    {
-      "id": "34391",
-      "loja": "Amazon",
-      "titulo": "Burigotto Berço New Aconchego Rosa",
-      "link": "https://www.amazon.com.br/dp/B095Z135KC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hlIITq7TL._SL400_.jpg",
-      "preco": 498.99,
-      "precoDe": 899,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:11:31.847Z"
-    },
-    {
-      "id": "34390",
-      "loja": "Shopee",
-      "titulo": "4/12/20 Peças Quadrado/Rotundidade Protetor De Quina Silicone Mesa Segurança Para Crianças E Bebes Proteção Promoção",
-      "link": "https://s.shopee.com.br/3qO4oT5GB9",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82591-mtniojx1z7yg09_tn",
-      "preco": 4,
-      "precoDe": 16,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:10:19.539Z"
-    },
-    {
-      "id": "34383",
-      "loja": "Amazon",
-      "titulo": "Burigotto Banheira Millenia, Azul Bebê",
-      "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312ebC8FdaS._SL400_.jpg",
-      "preco": 249.91,
-      "precoDe": 355.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:08:09.524Z"
-    },
-    {
-      "id": "34379",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 119.9,
-      "precoDe": 157.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:07:00.578Z"
-    },
-    {
-      "id": "34376",
-      "loja": "Mercado Livre",
-      "titulo": "Ecozendsy Colchão Inflável Casal Queen Size com Bomba Elétrico Recarregável Embutida Portátil 203x150x45cm",
-      "link": "https://meli.la/2EHYtoS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606503-MLA116805900705_082026-F.jpg",
-      "preco": 267.61,
-      "precoDe": 498,
-      "desconto": 34,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-10-22T13:05:43.904Z"
-    },
-    {
-      "id": "34370",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's Finest Blended Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07YNYMP5B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31R07Elzk5L._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 84.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:02:11.796Z"
     }
   ]
 }
