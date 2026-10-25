@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T14:28:44.804Z",
+  "atualizadoEm": "2026-10-25T15:05:14.032Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TVS2510",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-26T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MOVEIS100",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -696,6 +708,18 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-26T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2510",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-26T15:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1932,18 +1956,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROSEJOGOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-25T15:00:34.622Z",
       "url": "https://meli.la/2xystLt"
     },
     {
