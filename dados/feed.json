@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-25T15:35:12.327Z",
+  "atualizadoEm": "2026-10-25T16:05:12.327Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35564",
+      "loja": "Amazon",
+      "titulo": "Bombom GAROTO Sortido Caixa 220g",
+      "link": "https://www.amazon.com.br/dp/B0GFG8BP9G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EaPIKMbqL._SL400_.jpg",
+      "preco": 10.99,
+      "precoDe": 18.19,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T16:03:08.828Z"
+    },
+    {
+      "id": "35560",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Rosato 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLBFZSP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31d0Nbj7TSL._SL400_.jpg",
+      "preco": 38.89,
+      "precoDe": 42.9,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:59:26.675Z"
+    },
+    {
+      "id": "35559",
+      "loja": "Mercado Livre",
+      "titulo": "Kit com 15 Pares de Meias Cano Médio da marca Sandrini.",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910476-MLB113033587620_072026-O.webp",
+      "preco": 59.99,
+      "precoDe": 109.99,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:58:14.583Z"
+    },
+    {
+      "id": "35558",
+      "loja": "Amazon",
+      "titulo": "IRWIN Caixa Organizadora Contractor com Rodas IWST33027 Capacidade de 35kgs",
+      "link": "https://www.amazon.com.br/dp/B07Z5KR9R7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416TvdFHO+L._SL400_.jpg",
+      "preco": 235.45,
+      "precoDe": 309,
+      "desconto": 10,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-25T15:54:29.803Z"
+    },
+    {
+      "id": "35557",
+      "loja": "Amazon",
+      "titulo": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
+      "link": "https://www.amazon.com.br/dp/B07Y1T5YZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pa2jisPRL._SL400_.jpg",
+      "preco": 111.49,
+      "precoDe": 209,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:53:34.760Z"
+    },
+    {
+      "id": "35556",
+      "loja": "Mercado Livre",
+      "titulo": "Copo De Transição Para Bebê 200ml - Philips Avent Cor Rosa",
+      "link": "https://meli.la/2YHJ3XU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912010-MLA110860685114_052026-F.jpg",
+      "preco": 30.47,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-25T15:50:13.793Z"
+    },
+    {
+      "id": "35555",
+      "loja": "Mercado Livre",
+      "titulo": "Pote Marmita Infantil Rosa 2 Andares 400ml Com Talheres Jacki Design",
+      "link": "https://meli.la/15jAsET",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681517-MLA98821931574_112025-F.jpg",
+      "preco": 30.23,
+      "precoDe": 45,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:46:28.437Z"
+    },
+    {
+      "id": "35553",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear Definição Natural 1kg",
+      "link": "https://s.shopee.com.br/4B109ry9Py",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:42:51.699Z"
+    },
+    {
+      "id": "35552",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsas Maternidade Média e Pequena Personalizadas com Nome - Bege e Verde Musgo",
+      "link": "https://meli.la/2Y3jwU5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889784-MLB109638029604_042026-O.webp",
+      "preco": 110,
+      "precoDe": 192,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:39:06.487Z"
+    },
+    {
+      "id": "35548",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Escolar Costas Infantil Creche Bichinhos Divertida Cor Rosa",
+      "link": "https://meli.la/1zfLALC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829346-MLA113036969069_062026-F.jpg",
+      "preco": 76.61,
+      "precoDe": 138,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-25T15:35:44.084Z"
+    },
     {
       "id": "35547",
       "loja": "Mercado Livre",
@@ -1729,18 +1849,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-24T14:24:28.365Z"
-    },
-    {
-      "id": "35281",
-      "loja": "Amazon",
-      "titulo": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
-      "link": "https://www.amazon.com.br/dp/B07Y1T5YZ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pa2jisPRL._SL400_.jpg",
-      "preco": 111.49,
-      "precoDe": 209,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T14:15:00.463Z"
     },
     {
       "id": "35279",
@@ -5893,114 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-21T19:23:22.973Z"
-    },
-    {
-      "id": "34103",
-      "loja": "Shopee",
-      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
-      "link": "https://s.shopee.com.br/AUuxZGkhq3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
-      "preco": 7.99,
-      "precoDe": 29.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:22:07.187Z"
-    },
-    {
-      "id": "34095",
-      "loja": "Mercado Livre",
-      "titulo": "Tenis Infantil Feminino Casual 3210a Funfy  Kids Menina",
-      "link": "https://meli.la/22fi5rK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831602-MLB84614322457_052025-O.webp",
-      "preco": 42.67,
-      "precoDe": 79.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:12:13.486Z"
-    },
-    {
-      "id": "34094",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Ramazzotti Rosato 700ml",
-      "link": "https://www.amazon.com.br/dp/B0H343PT2X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jRleXXiqL._SL400_.jpg",
-      "preco": 47.9,
-      "precoDe": 53.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:11:18.095Z"
-    },
-    {
-      "id": "34085",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Roupa Infantil Menino Masculino Verão Barato 1 Ao 8",
-      "link": "https://meli.la/1624ZTp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669304-MLB79081651421_092024-O.webp",
-      "preco": 27.9,
-      "precoDe": 37.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:05:07.418Z"
-    },
-    {
-      "id": "34083",
-      "loja": "Mercado Livre",
-      "titulo": "NIVEA Hidratante Desodorante Beleza Radiante Cuidado Intenso 400ml, Hidratação Profunda 48h, Brilho Natural, Corporal, Pele Seca e Extrasseca",
-      "link": "https://meli.la/1LT6rHD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_959443-MLA93494140268_102025-F.jpg",
-      "preco": 8,
-      "precoDe": 26.99,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:04:13.527Z"
-    },
-    {
-      "id": "34081",
-      "loja": "Amazon",
-      "titulo": "Cerveja Original, Pilsen, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLJXKGL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BiZFuLLIL._SL400_.jpg",
-      "preco": 69.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T19:00:51.674Z"
-    },
-    {
-      "id": "34082",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/4fxAalPQGi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.99,
-      "precoDe": 65.92,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-21T18:59:33.110Z"
-    },
-    {
-      "id": "34078",
-      "loja": "Mercado Livre",
-      "titulo": "Cercadinho Bebê Infantil Cercado Grande 18212064cm Cinza Liso",
-      "link": "https://meli.la/1uVJX5b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_847092-MLB102095318747_122025-O.webp",
-      "preco": 171.17,
-      "precoDe": 239,
-      "desconto": 20,
-      "cupom": "ESQFASHBEAUTY2110",
-      "enviadoEm": "2026-10-21T18:56:11.958Z"
-    },
-    {
-      "id": "34076",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino E Feminino Club 5v5 Puma 42",
-      "link": "https://meli.la/2ginux8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910726-MLB101436415157_122025-O.webp",
-      "preco": 117.65,
-      "precoDe": 449.99,
-      "desconto": 71,
-      "cupom": "ESQFASHBEAUTY2110",
-      "enviadoEm": "2026-10-21T18:51:13.785Z"
     }
   ]
 }
