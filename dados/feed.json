@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-26T21:05:12.938Z",
+  "atualizadoEm": "2026-10-26T21:35:12.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36137",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê Glicerinado, Erva Doce, 250ml",
+      "link": "https://www.amazon.com.br/dp/B00OX9KETQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BEawHRuIL._SL400_.jpg",
+      "preco": 19.84,
+      "precoDe": 28,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T21:34:31.017Z"
+    },
+    {
+      "id": "36136",
+      "loja": "Mercado Livre",
+      "titulo": "Berço Portátil Ragaluma Sleepguard Dobrável com Móbile e Trocador Bege",
+      "link": "https://meli.la/1B4m8Uj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969226-MLA110032836753_042026-F.jpg",
+      "preco": 551.98,
+      "precoDe": 999,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T21:33:23.708Z"
+    },
+    {
+      "id": "36135",
+      "loja": "Shopee",
+      "titulo": "Display Decorativo Inspirado no Capacete Ayrton Senna com Base Decoração Mesa Escritório",
+      "link": "https://s.shopee.com.br/7puKVBcKID",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqh1zbhqzl6p2e_tn",
+      "preco": 27.76,
+      "precoDe": 42.71,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T21:24:46.819Z"
+    },
+    {
+      "id": "36132",
+      "loja": "Shopee",
+      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
+      "link": "https://s.shopee.com.br/3B8UwQGbgU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
+      "preco": 10.99,
+      "precoDe": 45.79,
+      "desconto": 76,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T21:21:20.794Z"
+    },
+    {
+      "id": "36128",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 2 Suporte Magnético Celular Ventosa 360° Dobrável",
+      "link": "https://meli.la/18xRkyr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712029-MLB112663076533_062026-O.webp",
+      "preco": 28.000000000000004,
+      "precoDe": 55.99,
+      "desconto": 33,
+      "cupom": "VANTAGEMMELI",
+      "enviadoEm": "2026-10-26T21:12:40.046Z"
+    },
+    {
+      "id": "36124",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
+      "link": "https://meli.la/23q2Yi7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910476-MLB113033587620_072026-O.webp",
+      "preco": 59.99,
+      "precoDe": 109.99,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T21:07:10.671Z"
+    },
     {
       "id": "36121",
       "loja": "Shopee",
@@ -2569,18 +2641,6 @@
       "desconto": 9,
       "cupom": null,
       "enviadoEm": "2026-10-25T15:59:26.675Z"
-    },
-    {
-      "id": "35559",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 15 Pares de Meias Cano Médio da marca Sandrini.",
-      "link": "https://meli.la/23q2Yi7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910476-MLB113033587620_072026-O.webp",
-      "preco": 59.99,
-      "precoDe": 109.99,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:58:14.583Z"
     },
     {
       "id": "35558",
@@ -5941,66 +6001,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-10-23T16:05:34.900Z"
-    },
-    {
-      "id": "34956",
-      "loja": "Mercado Livre",
-      "titulo": "Coberta Manta Soft Casal Microfibra Anti-alérgica Dupla Face",
-      "link": "https://meli.la/324Btju",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863574-MLB109124766534_042026-O.webp",
-      "preco": 18.9,
-      "precoDe": 55.44,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T15:59:38.467Z"
-    },
-    {
-      "id": "34955",
-      "loja": "Amazon",
-      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
-      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
-      "preco": 100.26,
-      "precoDe": 141.84,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T15:56:11.226Z"
-    },
-    {
-      "id": "34952",
-      "loja": "Shopee",
-      "titulo": "Caixa De Som Bluetooth Amplificada Potente LED RGB USB SD Radio Fm Mp3 Celular Note Tablet Conexão TWS",
-      "link": "https://s.shopee.com.br/50a3xiMsbo",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratx-ma1h9d9oo1ape0_tn",
-      "preco": 27.99,
-      "precoDe": 84.82,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T15:45:34.877Z"
-    },
-    {
-      "id": "34951",
-      "loja": "Shopee",
-      "titulo": "Camiseta Masculino Light T-shirt Insider",
-      "link": "https://s.shopee.com.br/5AtU9njQic",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82597-mslnrbijquiu34_tn",
-      "preco": 56.99,
-      "precoDe": 189.97,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T15:41:50.782Z"
-    },
-    {
-      "id": "34946",
-      "loja": "Shopee",
-      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
-      "link": "https://s.shopee.com.br/80DfVdBmbG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
-      "preco": 11.02,
-      "precoDe": 12.96,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T15:17:41.054Z"
     }
   ]
 }
