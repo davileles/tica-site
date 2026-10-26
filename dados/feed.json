@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T13:05:12.344Z",
+  "atualizadoEm": "2026-10-26T13:15:56.967Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35836",
+      "loja": "Amazon",
+      "titulo": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
+      "link": "https://www.amazon.com.br/dp/B0BVZY7BM6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WOkwz1TML._SL400_.jpg",
+      "preco": 42,
+      "precoDe": 59.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:05:56.951Z"
+    },
     {
       "id": "35827",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 51,
       "cupom": "LOJASOFICIAISRESGATE",
       "enviadoEm": "2026-10-22T16:00:40.238Z"
-    },
-    {
-      "id": "34470",
-      "loja": "Mercado Livre",
-      "titulo": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Bk-r3x Cor Branco",
-      "link": "https://meli.la/1hN8FAU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849014-MLA99977250743_112025-F.jpg",
-      "preco": 99.02,
-      "precoDe": 211.25,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:57:09.942Z"
     }
   ]
 }
