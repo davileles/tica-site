@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-26T20:46:05.359Z",
+  "atualizadoEm": "2026-10-26T21:05:12.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36121",
+      "loja": "Shopee",
+      "titulo": "Secador de Profissional com Difusor 127V 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "link": "https://s.shopee.com.br/60SgI54rfE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8gldyq5d6v7b_tn",
+      "preco": 78,
+      "precoDe": 159.18,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T20:58:40.928Z"
+    },
+    {
+      "id": "36119",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 119.84,
+      "precoDe": 157.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T20:51:27.865Z"
+    },
     {
       "id": "36116",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-23T15:17:41.054Z"
-    },
-    {
-      "id": "34938",
-      "loja": "Amazon",
-      "titulo": "Buba Pote Térmico Com Colher Rosa",
-      "link": "https://www.amazon.com.br/dp/B0BDMQCYJV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+wgnaz90L._SL400_.jpg",
-      "preco": 80.9,
-      "precoDe": 147.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T14:57:44.516Z"
-    },
-    {
-      "id": "34935",
-      "loja": "Shopee",
-      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
-      "link": "https://s.shopee.com.br/9Kj34F8l7i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
-      "preco": 27.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T14:54:27.045Z"
     }
   ]
 }
