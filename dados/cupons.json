@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T15:05:14.390Z",
+  "atualizadoEm": "2026-10-26T15:35:14.431Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -672,18 +672,6 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-27T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2019,6 +2007,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-10-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2883,6 +2883,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
+      "codigo": "ULT1MACHAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 149,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-27T15:05:16.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "S3GUND410",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2892,6 +2904,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-27T14:50:39.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "VIR4NDO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-27T15:21:29.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
