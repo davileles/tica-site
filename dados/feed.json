@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-26T19:35:12.716Z",
+  "atualizadoEm": "2026-10-26T19:51:22.666Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36089",
+      "loja": "Mercado Livre",
+      "titulo": "Torneira Tubo Flexível Bancada Cozinha Color Preta Luxo Cor Preto Alpha Hidrometais Torneira C65",
+      "link": "https://meli.la/1UngT1E",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655940-MLA109768713549_032026-F.jpg",
+      "preco": 33.23,
+      "precoDe": 67.85,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T19:41:22.659Z"
+    },
+    {
+      "id": "36087",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Challenger Extra Small Puma",
+      "link": "https://meli.la/12YAGfM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904747-MLA104280721787_012026-F.jpg",
+      "preco": 161.1,
+      "precoDe": 279.99,
+      "desconto": 36,
+      "cupom": "TIENDAS2610",
+      "enviadoEm": "2026-10-26T19:37:44.632Z"
+    },
     {
       "id": "36084",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-23T13:46:24.154Z"
-    },
-    {
-      "id": "34902",
-      "loja": "Mercado Livre",
-      "titulo": "Sala de Jantar Madesa Talita Mesa Tampo Madeira 4 Cadeiras Cor Rustic Crema Pérola 045677GX4TPER",
-      "link": "https://meli.la/1BDXeAr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746499-MLA99964521021_112025-F.jpg",
-      "preco": 300.19,
-      "precoDe": 635.28,
-      "desconto": 37,
-      "cupom": "MOVEIS100",
-      "enviadoEm": "2026-10-23T13:45:01.651Z"
-    },
-    {
-      "id": "34893",
-      "loja": "Shopee",
-      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
-      "link": "https://s.shopee.com.br/8AX5bInqTT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
-      "preco": 33.99,
-      "precoDe": 55.72,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T13:41:01.486Z"
     }
   ]
 }
