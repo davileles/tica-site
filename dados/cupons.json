@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T13:05:14.268Z",
+  "atualizadoEm": "2026-10-26T15:05:14.390Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -651,18 +651,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVS2510",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-26T15:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MOVEIS100",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -696,18 +684,6 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2510",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-26T15:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1267,11 +1243,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-27T12:00:41.000Z",
+      "validadeAte": "2026-12-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1875,6 +1851,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GARANTAMEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1968,6 +1956,18 @@
       "limite": 30,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-10-27T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CPAMD27",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 85,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-27T15:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2067,6 +2067,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIMAIS2610",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-10-27T15:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2088,6 +2100,18 @@
       "limite": 20,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-10-26T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TIENDAS2610",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-27T15:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2857,6 +2881,18 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
+    },
+    {
+      "codigo": "S3GUND410",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-27T14:50:39.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "ESQUENTA30",
