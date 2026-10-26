@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T11:05:14.457Z",
+  "atualizadoEm": "2026-10-26T12:05:12.832Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,18 +639,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CASADIN",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-26T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "MOVEIS200",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -720,6 +708,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-26T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRAFACIL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-27T12:00:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1248,6 +1248,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-23T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEROOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-27T12:00:41.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ECONOMIZE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-27T12:00:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1815,6 +1839,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VANTAGEMMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-27T12:00:41.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-27T12:00:41.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1899,6 +1947,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CPAMD2610",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 85,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-27T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1959,18 +2019,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOS2510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-26T12:00:06.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AUTOEFERAMENTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1983,6 +2031,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BNPLD2611",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-27T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1992,18 +2052,6 @@
       "limite": 20,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROS2510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-26T12:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
