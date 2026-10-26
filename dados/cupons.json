@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T17:35:14.673Z",
+  "atualizadoEm": "2026-10-26T18:05:15.046Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1923,18 +1923,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA2510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-10-26T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CPAMD2610",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2079,6 +2067,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TCMPD2610",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido pagando com cartão Mercado Pago Visa",
+      "validadeAte": "2026-10-27T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2100,18 +2100,6 @@
       "limite": 20,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL2510",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-10-26T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
