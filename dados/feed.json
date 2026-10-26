@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-26T12:35:12.343Z",
+  "atualizadoEm": "2026-10-26T13:05:12.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35827",
+      "loja": "Shopee",
+      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
+      "link": "https://s.shopee.com.br/qkZalVKnR",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
+      "preco": 29.98,
+      "precoDe": 41.07,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:01:30.323Z"
+    },
+    {
+      "id": "35826",
+      "loja": "Amazon",
+      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
+      "preco": 34.92,
+      "precoDe": 50,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:56:41.939Z"
+    },
+    {
+      "id": "35815",
+      "loja": "Amazon",
+      "titulo": "Philco Panela de Pressão, Digital Inox Ppp01p, 6L, Preto, 110v",
+      "link": "https://www.amazon.com.br/dp/B076HYCMZ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CjYeIs8vL._SL400_.jpg",
+      "preco": 379,
+      "precoDe": 684.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:52:51.508Z"
+    },
+    {
+      "id": "35812",
+      "loja": "Mercado Livre",
+      "titulo": "Controle sem fio PlayStation DualSense – Remix Green",
+      "link": "https://meli.la/1h5AP5T",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
+      "preco": 368.1,
+      "precoDe": 599.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:48:37.201Z"
+    },
+    {
+      "id": "35803",
+      "loja": "Mercado Livre",
+      "titulo": "Copo Stanley Quencher Cream Chevron 591ml",
+      "link": "https://meli.la/1oQ4NtK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665651-MLA104701658854_012026-F.jpg",
+      "preco": 63.290000000000006,
+      "precoDe": 289,
+      "desconto": 61,
+      "cupom": "COMPRAFACIL",
+      "enviadoEm": "2026-10-26T12:39:27.575Z"
+    },
+    {
+      "id": "35799",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho De Jantar Mayara Em Porcelana 40 Peças Cor Branco E Azul Hauskraft",
+      "link": "https://meli.la/1zisn4o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631932-MLA82895560965_032025-F.jpg",
+      "preco": 321.92999999999995,
+      "precoDe": 899.9,
+      "desconto": 49,
+      "cupom": "QUEROOFF",
+      "enviadoEm": "2026-10-26T12:35:42.380Z"
+    },
     {
       "id": "35795",
       "loja": "Amazon",
@@ -2101,18 +2173,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-24T20:34:35.077Z"
-    },
-    {
-      "id": "35436",
-      "loja": "Mercado Livre",
-      "titulo": "Controle sem fio PlayStation DualSense – Remix Green",
-      "link": "https://meli.la/1h5AP5T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
-      "preco": 377.1,
-      "precoDe": 599.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:30:51.777Z"
     },
     {
       "id": "35435",
@@ -5941,66 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-22T15:57:09.942Z"
-    },
-    {
-      "id": "34469",
-      "loja": "Mercado Livre",
-      "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-      "link": "https://meli.la/1FqVdTH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
-      "preco": 77.52,
-      "precoDe": 179.84,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:53:24.254Z"
-    },
-    {
-      "id": "34467",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Pra Torcer Pica Pau Bordado Reserva",
-      "link": "https://meli.la/2b9gLAj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_916217-MLB118395707745_092026-O.webp",
-      "preco": 61.11,
-      "precoDe": 129,
-      "desconto": 32,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-22T15:50:04.367Z"
-    },
-    {
-      "id": "34466",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Aramis Daily Knit Confortável Macio Azul Marinho",
-      "link": "https://meli.la/29Z5hpx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802519-MLB112446597449_052026-O.webp",
-      "preco": 229.99,
-      "precoDe": 379.99,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:46:02.841Z"
-    },
-    {
-      "id": "34463",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
-      "link": "https://s.shopee.com.br/9pfI7Ve1Jd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
-      "preco": 25.9,
-      "precoDe": 51.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:40:48.955Z"
-    },
-    {
-      "id": "34461",
-      "loja": "Shopee",
-      "titulo": "Percarbonato 1kg + Alvejante 1kg",
-      "link": "https://s.shopee.com.br/30oxyrxBb4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36_tn",
-      "preco": 16.99,
-      "precoDe": 36.93,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:37:02.528Z"
     }
   ]
 }
