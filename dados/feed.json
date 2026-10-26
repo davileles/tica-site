@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T11:05:12.342Z",
+  "atualizadoEm": "2026-10-26T11:17:26.011Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35740",
+      "loja": "Amazon",
+      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
+      "preco": 109.99,
+      "precoDe": 136.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T11:07:25.997Z"
+    },
     {
       "id": "35737",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-22T14:29:50.703Z"
-    },
-    {
-      "id": "34441",
-      "loja": "Shopee",
-      "titulo": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
-      "link": "https://s.shopee.com.br/5fpj56tqmI",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34_tn",
-      "preco": 37.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T14:28:38.510Z"
     }
   ]
 }
