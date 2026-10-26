@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T14:24:12.845Z",
+  "atualizadoEm": "2026-10-26T14:35:12.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35877",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Banderas King of Seduction Absolute Eau de Toilette 200 ml Masculino",
+      "link": "https://meli.la/1gLM1td",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825825-MLU75914762546_042024-F.jpg",
+      "preco": 130.34,
+      "precoDe": 299,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T14:26:07.290Z"
+    },
     {
       "id": "35873",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-22T16:33:33.215Z"
-    },
-    {
-      "id": "34501",
-      "loja": "Amazon",
-      "titulo": "Furadeira de impacto 3/8\" 500W, 110V",
-      "link": "https://www.amazon.com.br/dp/B09HN38G3F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31a-6YEk2KL._SL400_.jpg",
-      "preco": 89.5,
-      "precoDe": 120.13,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:29:46.997Z"
     }
   ]
 }
