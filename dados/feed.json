@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-25T23:01:25.684Z",
+  "atualizadoEm": "2026-10-26T10:46:43.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35722",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 115.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T10:36:43.803Z"
+    },
     {
       "id": "35700",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-22T13:45:07.133Z"
-    },
-    {
-      "id": "34416",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Peças de Roupas Menina 3 Conjuntos Verão Infantil Algodão",
-      "link": "https://s.shopee.com.br/8KqUCvLjB3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mudu7x5ourr49d_tn",
-      "preco": 49.9,
-      "precoDe": 83.17,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T13:43:58.722Z"
     }
   ]
 }
