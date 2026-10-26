@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T11:35:12.345Z",
+  "atualizadoEm": "2026-10-26T11:59:52.576Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35762",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+      "link": "https://s.shopee.com.br/2VsnVvlwwb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
+      "preco": 44.9,
+      "precoDe": 71.27,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T11:49:52.570Z"
+    },
     {
       "id": "35755",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-10-22T15:14:46.649Z"
-    },
-    {
-      "id": "34449",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Black Urban",
-      "link": "https://www.amazon.com.br/dp/B09SP9WPPC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JQ1nU2XZL._SL400_.jpg",
-      "preco": 1342.4,
-      "precoDe": 2299,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T14:59:06.849Z"
     }
   ]
 }
