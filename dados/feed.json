@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T20:23:00.574Z",
+  "atualizadoEm": "2026-10-26T20:35:12.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36114",
+      "loja": "Amazon",
+      "titulo": "Power Bank com cabo integrado, Carregador Portátil de 20000mAh com Carga Rápida, Múltiplas Portas, Design Leve e Proteção Inteligente para Dispositivos iOS e Android/USB/Type-C/Bra",
+      "link": "https://www.amazon.com.br/dp/B0DK96J4PY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31AGZ-qT1-L._SL400_.jpg",
+      "preco": 89.99,
+      "precoDe": 101,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T20:28:51.116Z"
+    },
     {
       "id": "36101",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-10-23T14:27:40.278Z"
-    },
-    {
-      "id": "34918",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Corta Vento Impermeável com Capuz",
-      "link": "https://meli.la/25kw6Yr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732669-MLB118591015197_102026-O.webp",
-      "preco": 44.99,
-      "precoDe": 78.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T14:23:43.915Z"
     }
   ]
 }
