@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T14:35:12.344Z",
+  "atualizadoEm": "2026-10-26T14:47:25.507Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35881",
+      "loja": "Shopee",
+      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
+      "link": "https://s.shopee.com.br/8AXARpp9Al",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
+      "preco": 49.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T14:37:25.485Z"
+    },
     {
       "id": "35877",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-10-22T16:42:08.770Z"
-    },
-    {
-      "id": "34503",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Nike Sportswear Just Do It Masculina",
-      "link": "https://meli.la/1wBVqxs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_708227-MLB98894223748_112025-O.webp",
-      "preco": 71.99,
-      "precoDe": 129.99,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:33:33.215Z"
     }
   ]
 }
