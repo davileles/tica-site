@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T21:05:16.222Z",
+  "atualizadoEm": "2026-10-26T21:35:15.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1263,18 +1263,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "30ALLSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 35,
-      "observacao": "Válido pagando com saldo Mercado Pago",
-      "validadeAte": "2026-10-27T21:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2028,18 +2016,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
