@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-26T11:59:52.576Z",
+  "atualizadoEm": "2026-10-26T12:35:12.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35795",
+      "loja": "Amazon",
+      "titulo": "Clear Men Shampoo Anticaspa 2 em 1 Limpeza Diária 400ml",
+      "link": "https://www.amazon.com.br/dp/B07LFF11LM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J0AD3feML._SL400_.jpg",
+      "preco": 22.99,
+      "precoDe": 27.99,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:31:44.426Z"
+    },
+    {
+      "id": "35789",
+      "loja": "Amazon",
+      "titulo": "WAP Esmerilhadeira Angular 5” WF ES02 com Empunhadura Auxiliar 3 Posições Protetor de Disco 125MM 13000RPM 1200W 220v",
+      "link": "https://www.amazon.com.br/dp/B0G5RMW3XV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31x+OQBXvQL._SL400_.jpg",
+      "preco": 193.81,
+      "precoDe": 229.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:27:40.558Z"
+    },
+    {
+      "id": "35788",
+      "loja": "Shopee",
+      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
+      "link": "https://s.shopee.com.br/8pmr59JRxp",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
+      "preco": 19.88,
+      "precoDe": 26.86,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:23:25.301Z"
+    },
+    {
+      "id": "35787",
+      "loja": "Amazon",
+      "titulo": "ELG Câmera Robô Wi-Fi Full HD 360° com Rastreamento de Movimento | Áudio Bidirecional, Visão Noturna, Compatível com Alexa e Google, Requer Wi-Fi 2,4GHz, MicroSD até 128GB, Modelo ",
+      "link": "https://www.amazon.com.br/dp/B0B8GNV5LS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FfvXy6LNL._SL400_.jpg",
+      "preco": 189.99,
+      "precoDe": 545,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T12:19:32.922Z"
+    },
+    {
+      "id": "35779",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pants Ajuste Total Tamanho G 90 Unidades Pampers",
+      "link": "https://meli.la/1GJXjb1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645177-MLA110685776176_052026-F.jpg",
+      "preco": 108.72,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CPAMD2610",
+      "enviadoEm": "2026-10-26T12:15:50.941Z"
+    },
     {
       "id": "35762",
       "loja": "Shopee",
@@ -5941,66 +6001,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-10-22T15:37:02.528Z"
-    },
-    {
-      "id": "34460",
-      "loja": "Mercado Livre",
-      "titulo": "Camisetas Raglan Proteção Uv Térmica Camisas Dry Fit Voker",
-      "link": "https://meli.la/1FqnNyw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981723-MLB93844749907_092025-O.webp",
-      "preco": 36.99,
-      "precoDe": 52.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:33:32.775Z"
-    },
-    {
-      "id": "34456",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B001HUBXJO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41j33+YOTPL._SL400_.jpg",
-      "preco": 89.99,
-      "precoDe": 149.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:28:20.089Z"
-    },
-    {
-      "id": "34454",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0101A62JG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vRt2y2dML._SL400_.jpg",
-      "preco": 22.32,
-      "precoDe": 30.8,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:24:47.179Z"
-    },
-    {
-      "id": "34453",
-      "loja": "Amazon",
-      "titulo": "Biscoito com Chocolate Chocobiscuit NESTLÉ Ao Leite 78g",
-      "link": "https://www.amazon.com.br/dp/B0D8GFPZCG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412HU0gWLXL._SL400_.jpg",
-      "preco": 5.99,
-      "precoDe": 7.29,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:18:33.836Z"
-    },
-    {
-      "id": "34451",
-      "loja": "Shopee",
-      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-      "link": "https://s.shopee.com.br/80DduYgWKw",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
-      "preco": 17.72,
-      "precoDe": 21.35,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T15:14:46.649Z"
     }
   ]
 }
