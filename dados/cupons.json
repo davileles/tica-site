@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T18:05:15.046Z",
+  "atualizadoEm": "2026-10-26T19:51:24.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -637,6 +637,18 @@
       "observacao": null,
       "validadeAte": "2026-10-28T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMHALLOWEEN",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$20 OFF sem valor mínimo de compra",
+      "validadeAte": "2026-10-27T19:39:22.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "MOVEIS200",
