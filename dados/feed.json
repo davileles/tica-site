@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-26T22:05:12.979Z",
+  "atualizadoEm": "2026-10-26T22:24:04.391Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36148",
+      "loja": "Amazon",
+      "titulo": "Pampers Sabonete Liquido Refil Glicerina 350ml",
+      "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hy9WSeTEL._SL400_.jpg",
+      "preco": 17.72,
+      "precoDe": 29.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T22:14:04.378Z"
+    },
+    {
+      "id": "36145",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+      "link": "https://s.shopee.com.br/40hbz6Dn7L",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde_tn",
+      "preco": 19.96,
+      "precoDe": 39.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T22:07:32.708Z"
+    },
     {
       "id": "36134",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-10-23T16:50:40.911Z"
-    },
-    {
-      "id": "34982",
-      "loja": "Amazon",
-      "titulo": "Caneca de Aprendizado com Alça Lillo Evolution, Menina, 150ml | Rosa e Verde, Bebedor SIL",
-      "link": "https://www.amazon.com.br/dp/B08V2FY633?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418xVvi3VVL._SL400_.jpg",
-      "preco": 26.91,
-      "precoDe": 45.78,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T16:46:50.243Z"
-    },
-    {
-      "id": "34973",
-      "loja": "Mercado Livre",
-      "titulo": "Papel Higiênico Folha Dupla 30m L24p22 Personal",
-      "link": "https://meli.la/1pWftkv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710576-MLA117488774728_102026-F.jpg",
-      "preco": 25,
-      "precoDe": 37.68,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T16:41:55.656Z"
     }
   ]
 }
