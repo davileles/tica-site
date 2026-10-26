@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-26T16:05:12.459Z",
+  "atualizadoEm": "2026-10-26T16:35:12.538Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35948",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto de Higiene Infantil Personalizado Ursinho e Ovelhinha Marrom!",
+      "link": "https://meli.la/2NN8niC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680269-MLB118175224466_102026-O.webp",
+      "preco": 159.85,
+      "precoDe": 169.9,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T16:33:14.916Z"
+    },
+    {
+      "id": "35943",
+      "loja": "Shopee",
+      "titulo": "Karaokê Bluetooth com 2 Microfones Sem Fio Caixa de Som Portátil ANJGG BRASIL",
+      "link": "https://s.shopee.com.br/70LDBHoBXs",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpido8umydqje7_tn",
+      "preco": 34.99,
+      "precoDe": 79.52,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T16:29:19.956Z"
+    },
+    {
+      "id": "35942",
+      "loja": "Mercado Livre",
+      "titulo": "Barraca Infantil Cabana Infantil Tenda Toca de Brinquedo Menina Sorveteria Festa do Pijama",
+      "link": "https://meli.la/1HE7qWY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_840617-MLA115196529027_072026-F.jpg",
+      "preco": 143,
+      "precoDe": 219.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T16:25:59.571Z"
+    },
+    {
+      "id": "35940",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo De Banho Patinhos C/ Chuveirinho",
+      "link": "https://meli.la/1aQipe3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641873-MLB114552524785_072026-O.webp",
+      "preco": 69.99,
+      "precoDe": 90,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T16:22:12.848Z"
+    },
+    {
+      "id": "35939",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Descartável Máxima Proteção M - 172 Un",
+      "link": "https://meli.la/2Rwgwwt",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787625-MLA99442296758_112025-F.jpg",
+      "preco": 109.49000000000001,
+      "precoDe": 197.75,
+      "desconto": 26,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-10-26T16:21:15.974Z"
+    },
+    {
+      "id": "35933",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Life Realizações Feminino Couro Lilas Lilás",
+      "link": "https://meli.la/1Jz1EkA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620903-MLU75695989667_042024-F.jpg",
+      "preco": 241.5,
+      "precoDe": 690,
+      "desconto": 50,
+      "cupom": "PRECINHO",
+      "enviadoEm": "2026-10-26T16:16:37.322Z"
+    },
+    {
+      "id": "35932",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Portátil Full Hd 15.6 Notebook, Celular, Games C/ Cor Preto",
+      "link": "https://meli.la/28p83Sr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994228-MLA99486883402_112025-F.jpg",
+      "preco": 309.65000000000003,
+      "precoDe": 549.99,
+      "desconto": 34,
+      "cupom": "MELIMAIS2610",
+      "enviadoEm": "2026-10-26T16:12:47.916Z"
+    },
+    {
+      "id": "35928",
+      "loja": "Amazon",
+      "titulo": "NESTLÉ PRESTÍGIO Recheado 90g Tablete",
+      "link": "https://www.amazon.com.br/dp/B0FV52C6FM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J-2oPtMuL._SL400_.jpg",
+      "preco": 5.99,
+      "precoDe": 11.49,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T16:08:42.738Z"
+    },
     {
       "id": "35927",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-22T19:44:59.826Z"
-    },
-    {
-      "id": "34641",
-      "loja": "Amazon",
-      "titulo": "Meu Primeiro Livro - Cores",
-      "link": "https://www.amazon.com.br/dp/6555474890?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fsx-Tqt5L._SL400_.jpg",
-      "preco": 13.99,
-      "precoDe": 19.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:43:29.830Z"
-    },
-    {
-      "id": "34631",
-      "loja": "Amazon",
-      "titulo": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zOJxsrisL._SL400_.jpg",
-      "preco": 64.89,
-      "precoDe": 95.57,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:31:09.208Z"
-    },
-    {
-      "id": "34630",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Safety 1st, Spark Splus, 0 meses a 22 kg, Black Graphite",
-      "link": "https://www.amazon.com.br/dp/B0DMTK6XQJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+Tr57gtoL._SL400_.jpg",
-      "preco": 851,
-      "precoDe": 1499,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:30:03.373Z"
-    },
-    {
-      "id": "34629",
-      "loja": "Mercado Livre",
-      "titulo": "Baby Monitor Vb603 Baba Eletrônica Com Monitor 110v/220v 110v/220v Branco",
-      "link": "https://meli.la/1ph34kM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856771-MLB110125391180_042026-O.webp",
-      "preco": 223,
-      "precoDe": 329.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:29:04.693Z"
-    },
-    {
-      "id": "34627",
-      "loja": "Shopee",
-      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
-      "link": "https://s.shopee.com.br/9APba4h4Lm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
-      "preco": 29.9,
-      "precoDe": 34.77,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:27:49.752Z"
-    },
-    {
-      "id": "34613",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-      "link": "https://s.shopee.com.br/20wR1KH4Sw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
-      "preco": 73.4,
-      "precoDe": 100.55,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T19:04:46.839Z"
-    },
-    {
-      "id": "34602",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Básica Masculina Manga Longa Slim Hering",
-      "link": "https://meli.la/1ybzG99",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979625-MLB115382118167_072026-O.webp",
-      "preco": 79.99,
-      "precoDe": 199.99,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T18:56:54.844Z"
-    },
-    {
-      "id": "34591",
-      "loja": "Amazon",
-      "titulo": "O.U.i Paradis Rouge Eau de Parfum 75ml",
-      "link": "https://www.amazon.com.br/dp/B0B21XFJXY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312u+aWBAGL._SL400_.jpg",
-      "preco": 182.64,
-      "precoDe": 385.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T18:41:15.202Z"
     }
   ]
 }
