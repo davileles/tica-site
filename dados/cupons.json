@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T03:35:12.646Z",
+  "atualizadoEm": "2026-10-26T11:05:14.457Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -694,7 +694,7 @@
       "minimo": 499,
       "maximo": null,
       "limite": null,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-27T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -720,6 +720,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-26T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido apenas em produtos selecionados",
+      "validadeAte": "2026-10-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
