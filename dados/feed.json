@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T22:35:12.980Z",
+  "atualizadoEm": "2026-10-26T23:03:39.510Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36151",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
+      "link": "https://s.shopee.com.br/906HzSpySH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
+      "preco": 79.9,
+      "precoDe": 124.84,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T22:53:39.498Z"
+    },
     {
       "id": "36149",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": "TECHPROMO",
       "enviadoEm": "2026-10-23T17:00:33.789Z"
-    },
-    {
-      "id": "34985",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
-      "link": "https://s.shopee.com.br/AUv0b0dFzu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
-      "preco": 40.99,
-      "precoDe": 56.15,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T16:56:17.645Z"
     }
   ]
 }
