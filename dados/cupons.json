@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T12:35:14.369Z",
+  "atualizadoEm": "2026-10-26T13:05:14.268Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1855,11 +1855,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 1,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-27T12:00:41.000Z",
+      "validadeAte": "2026-12-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
