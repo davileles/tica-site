@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T23:03:39.510Z",
+  "atualizadoEm": "2026-10-26T23:35:12.982Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36152",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 500ml",
+      "link": "https://www.amazon.com.br/dp/B08C7VX6Q6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iSk1WgnFL._SL400_.jpg",
+      "preco": 79.99,
+      "precoDe": 120.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T23:30:42.230Z"
+    },
     {
       "id": "36151",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-23T17:13:14.510Z"
-    },
-    {
-      "id": "34987",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Elétrica Air Fryer 8 em 1 Wap Barbecue Heat Digital Wc Ab1030 127V",
-      "link": "https://meli.la/2kswXML",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668373-MLA111751070303_052026-F.jpg",
-      "preco": 539.91,
-      "precoDe": 999,
-      "desconto": 40,
-      "cupom": "TECHPROMO",
-      "enviadoEm": "2026-10-23T17:00:33.789Z"
     }
   ]
 }
