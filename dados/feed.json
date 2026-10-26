@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-26T17:35:12.552Z",
+  "atualizadoEm": "2026-10-26T18:05:12.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36009",
+      "loja": "Shopee",
+      "titulo": "Sandália Infantil Menino Papete Criança Com LED Confortável e Anatômico",
+      "link": "https://s.shopee.com.br/LoJLbKgBC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-msl6stc2a70kf4_tn",
+      "preco": 29.9,
+      "precoDe": 69.53,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T18:04:32.480Z"
+    },
+    {
+      "id": "36008",
+      "loja": "Shopee",
+      "titulo": "MOCHILA INFANTIL PASSEIO TÉRMICA PERSONALIZADA COM NOME DO BEBE MENINA MENINO CHAVEIRO DINO URSA",
+      "link": "https://s.shopee.com.br/6L5WUNuxY9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-ms67h3wmo7wkdd_tn",
+      "preco": 95.55,
+      "precoDe": 105,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T18:00:24.927Z"
+    },
+    {
+      "id": "36003",
+      "loja": "Shopee",
+      "titulo": "Papa Bolinhas Eletrico Tira Pelos de Roupas Removedor Aparador Sem Fio Recarregável",
+      "link": "https://s.shopee.com.br/gR9jk9C60",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mo41mdwm4q9tb7_tn",
+      "preco": 20.88,
+      "precoDe": 40.15,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:56:47.368Z"
+    },
+    {
+      "id": "36002",
+      "loja": "Shopee",
+      "titulo": "Fralda Pampers Pants Ajuste Total Jumbo M 84 Unidades",
+      "link": "https://s.shopee.com.br/60Sg5GmozI",
+      "imagem": "https://cf.shopee.com.br/file/74ca4d883f6c3877b7382865ecb7284b_tn",
+      "preco": 130,
+      "precoDe": 168.83,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:53:33.115Z"
+    },
+    {
+      "id": "35997",
+      "loja": "Shopee",
+      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
+      "link": "https://s.shopee.com.br/3qOBUkqnhy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
+      "preco": 19.9,
+      "precoDe": 39.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:49:09.255Z"
+    },
+    {
+      "id": "35995",
+      "loja": "Shopee",
+      "titulo": "Kit Chocalho 8 Peças Mordedor Bebê Brinquedo Sensorial Macio Presente Para Menina e Menino Móbile para Berço",
+      "link": "https://s.shopee.com.br/2VsnuAm2w2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtzdbhwe4uae0_tn",
+      "preco": 27.62,
+      "precoDe": 56.37,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:45:32.705Z"
+    },
+    {
+      "id": "35994",
+      "loja": "Shopee",
+      "titulo": "kit Bolsa e Frasqueira Maternidade   com chaveiro Personalizado",
+      "link": "https://s.shopee.com.br/LoJK4WW8W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mnvy9ptj6kg0bd_tn",
+      "preco": 293,
+      "precoDe": 340.7,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:41:42.705Z"
+    },
+    {
+      "id": "35990",
+      "loja": "Shopee",
+      "titulo": "Kit completo luxo - Caderneta de Vacina / Livro do bebê / Porta Documentos - Menino",
+      "link": "https://s.shopee.com.br/8pmrRPcR01",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mnc6ure9qyv584_tn",
+      "preco": 162.8,
+      "precoDe": 220,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T17:37:56.354Z"
+    },
     {
       "id": "35987",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-22T23:55:52.048Z"
-    },
-    {
-      "id": "34734",
-      "loja": "Amazon",
-      "titulo": "GORDON'S Gin Gordon'S 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07WTHV6Y4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MqbmFZIwL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 78.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T23:51:33.031Z"
-    },
-    {
-      "id": "34731",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 43.9,
-      "precoDe": 71.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T23:22:49.469Z"
-    },
-    {
-      "id": "34730",
-      "loja": "Amazon",
-      "titulo": "Rum Montilla Carta Cristal - 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B07XL4Y3WK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JQLZScnaL._SL400_.jpg",
-      "preco": 36.62,
-      "precoDe": 39.9,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T23:21:46.568Z"
-    },
-    {
-      "id": "34728",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 85,
-      "precoDe": 129.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T23:11:02.183Z"
-    },
-    {
-      "id": "34722",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Bolinha Macarrão Dedinho Antiderrapante Várias Cores",
-      "link": "https://s.shopee.com.br/2LZHegy6DA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckrhbrs1nup9b_tn",
-      "preco": 14.89,
-      "precoDe": 34.63,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T22:39:32.418Z"
-    },
-    {
-      "id": "34719",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/5AtT0KvhK4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 25.99,
-      "precoDe": 46.41,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T22:16:43.518Z"
-    },
-    {
-      "id": "34714",
-      "loja": "Amazon",
-      "titulo": "Leite Pó Semidesnatado Ninho Adulto Lata 350g",
-      "link": "https://www.amazon.com.br/dp/B0CVNLWF51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418UWrNHUfL._SL400_.jpg",
-      "preco": 19.99,
-      "precoDe": 22.59,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T21:55:08.608Z"
-    },
-    {
-      "id": "34713",
-      "loja": "Shopee",
-      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "link": "https://s.shopee.com.br/8pmlLVq7k2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
-      "preco": 15.86,
-      "precoDe": 44.06,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T21:54:00.949Z"
     }
   ]
 }
