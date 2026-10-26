@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-26T19:51:22.666Z",
+  "atualizadoEm": "2026-10-26T20:05:12.719Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36099",
+      "loja": "Amazon",
+      "titulo": "Brinquedo de Banho BUBA, Pescaria de Tubarão, Multicor",
+      "link": "https://www.amazon.com.br/dp/B07PXN3S35?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QiYKFDMdL._SL400_.jpg",
+      "preco": 37.89,
+      "precoDe": 77.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T19:59:48.350Z"
+    },
+    {
+      "id": "36098",
+      "loja": "Amazon",
+      "titulo": "Staright White Noise Sleep Machine Built-in 6 Som suave Luz de respiração suave 15/30/60 Sincronização inteligente para pessoas de todas as idades",
+      "link": "https://www.amazon.com.br/dp/B0989P62HY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UraNfiCOS._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 63,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T19:58:55.001Z"
+    },
+    {
+      "id": "36097",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
+      "preco": 399.9,
+      "precoDe": 899.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T19:58:06.024Z"
+    },
     {
       "id": "36089",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 37,
       "cupom": "MELISUPERCLUB",
       "enviadoEm": "2026-10-23T14:07:48.990Z"
-    },
-    {
-      "id": "34912",
-      "loja": "Shopee",
-      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
-      "link": "https://s.shopee.com.br/7VHOpf3f47",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
-      "preco": 77.9,
-      "precoDe": 194.75,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T14:04:12.955Z"
-    },
-    {
-      "id": "34911",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Pares Meia Antiderrapante Esportiva Futebol Treino Pro",
-      "link": "https://meli.la/1s86KLC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817737-MLB119274870415_102026-O.webp",
-      "preco": 30.9,
-      "precoDe": 42.5,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T13:58:01.335Z"
-    },
-    {
-      "id": "34903",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray Sevilla 700ml",
-      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 124.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T13:46:24.154Z"
     }
   ]
 }
