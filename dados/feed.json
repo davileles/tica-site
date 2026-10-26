@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-26T13:15:56.967Z",
+  "atualizadoEm": "2026-10-26T13:35:12.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35858",
+      "loja": "Amazon",
+      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 24.24,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:33:42.624Z"
+    },
+    {
+      "id": "35857",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
+      "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51fJ2kJ+fLL._SL400_.jpg",
+      "preco": 658.42,
+      "precoDe": 715.66,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:30:05.630Z"
+    },
+    {
+      "id": "35854",
+      "loja": "Mercado Livre",
+      "titulo": "Espelho Redondo 30cm C/ Led Para Parede Quarto Banheiro Sala",
+      "link": "https://meli.la/12NrB97",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_600271-MLB95836200945_102025-O.webp",
+      "preco": 45.9,
+      "precoDe": 69.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:29:15.890Z"
+    },
+    {
+      "id": "35851",
+      "loja": "Shopee",
+      "titulo": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
+      "link": "https://s.shopee.com.br/30p4DMEhlf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c_tn",
+      "preco": 34.98,
+      "precoDe": 69.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:25:29.212Z"
+    },
+    {
+      "id": "35847",
+      "loja": "Mercado Livre",
+      "titulo": "Glosslicious Kit Fran - By Franciny Elkhe",
+      "link": "https://meli.la/1cW4Zeh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621041-MLA110838260235_042026-F.jpg",
+      "preco": 32.97,
+      "precoDe": 49.17,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:21:54.569Z"
+    },
+    {
+      "id": "35845",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+11dLmKBL._SL400_.jpg",
+      "preco": 55.99,
+      "precoDe": 69.67,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:17:22.489Z"
+    },
     {
       "id": "35836",
       "loja": "Amazon",
@@ -3087,18 +3159,6 @@
       "enviadoEm": "2026-10-24T15:14:57.809Z"
     },
     {
-      "id": "35302",
-      "loja": "Amazon",
-      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 24.24,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T15:09:51.387Z"
-    },
-    {
       "id": "35301",
       "loja": "Amazon",
       "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
@@ -3613,18 +3673,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-24T11:20:36.793Z"
-    },
-    {
-      "id": "35211",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+11dLmKBL._SL400_.jpg",
-      "preco": 55.99,
-      "precoDe": 69.67,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:17:53.582Z"
     },
     {
       "id": "35209",
@@ -4285,18 +4333,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-23T19:50:45.021Z"
-    },
-    {
-      "id": "35103",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
-      "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fJ2kJ+fLL._SL400_.jpg",
-      "preco": 658.42,
-      "precoDe": 715.66,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:46:51.922Z"
     },
     {
       "id": "35101",
@@ -5965,42 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-10-22T16:16:10.086Z"
-    },
-    {
-      "id": "34481",
-      "loja": "Mercado Livre",
-      "titulo": "Óculos Esportivo Pace Premium Proteção Uv400 Baixa Ciclismo",
-      "link": "https://meli.la/2zE3CAt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630123-MLB113939874086_072026-O.webp",
-      "preco": 67,
-      "precoDe": 199.99,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:12:27.383Z"
-    },
-    {
-      "id": "34476",
-      "loja": "Mercado Livre",
-      "titulo": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Branco",
-      "link": "https://meli.la/1dbwoAA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701125-MLA107189193811_022026-F.jpg",
-      "preco": 99.99,
-      "precoDe": 211.25,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:04:23.708Z"
-    },
-    {
-      "id": "34475",
-      "loja": "Mercado Livre",
-      "titulo": "Garrafa Térmica Stanley Aerolight Flip Straw Black 473ml",
-      "link": "https://meli.la/2AG9idJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_672773-MLA113821651425_062026-F.jpg",
-      "preco": 127.85,
-      "precoDe": 289,
-      "desconto": 51,
-      "cupom": "LOJASOFICIAISRESGATE",
-      "enviadoEm": "2026-10-22T16:00:40.238Z"
     }
   ]
 }
