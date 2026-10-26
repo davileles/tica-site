@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-26T13:35:12.344Z",
+  "atualizadoEm": "2026-10-26T14:05:12.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "35867",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Jogger Tactel Soltinha Moda Fitness Joggings Esportiva",
+      "link": "https://meli.la/266XY6n",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753355-MLB111255282870_052026-O.webp",
+      "preco": 38.7,
+      "precoDe": 88.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:55:26.563Z"
+    },
+    {
+      "id": "35865",
+      "loja": "Shopee",
+      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
+      "link": "https://s.shopee.com.br/9APhaLBpTt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
+      "preco": 34.9,
+      "precoDe": 60.17,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T13:48:33.219Z"
+    },
     {
       "id": "35858",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-10-22T16:21:13.788Z"
-    },
-    {
-      "id": "34488",
-      "loja": "Amazon",
-      "titulo": "Britânia Aspirador de Pó Vertical 2 em 1 BAS1295P 1250W 127V Preto",
-      "link": "https://www.amazon.com.br/dp/B0CBSZ6YXZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21WoJNBz-vL._SL400_.jpg",
-      "preco": 142.9,
-      "precoDe": 204,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:20:04.926Z"
-    },
-    {
-      "id": "34483",
-      "loja": "Shopee",
-      "titulo": "iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
-      "link": "https://s.shopee.com.br/1qd0dDj9L6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2_tn",
-      "preco": 7580,
-      "precoDe": 14862.75,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-22T16:16:10.086Z"
     }
   ]
 }
