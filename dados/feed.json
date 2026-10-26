@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T20:05:12.719Z",
+  "atualizadoEm": "2026-10-26T20:23:00.574Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36101",
+      "loja": "Shopee",
+      "titulo": "Ring Light Anel de Luz LED 10 Polegadas com Tripé 2,1m Suporte Celular Iluminador TikTok YouTube",
+      "link": "https://s.shopee.com.br/5LCzRh33BH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
+      "preco": 44.59,
+      "precoDe": 79.63,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-26T20:13:00.565Z"
+    },
     {
       "id": "36099",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-23T14:23:43.915Z"
-    },
-    {
-      "id": "34913",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Bermudas Dry Fit De Alto Padrão Para Academia",
-      "link": "https://meli.la/23w8Dji",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653478-MLB108194594139_032026-O.webp",
-      "preco": 67.66,
-      "precoDe": 134.99,
-      "desconto": 37,
-      "cupom": "MELISUPERCLUB",
-      "enviadoEm": "2026-10-23T14:07:48.990Z"
     }
   ]
 }
