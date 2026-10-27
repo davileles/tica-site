@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-27T22:05:33.684Z",
+  "atualizadoEm": "2026-10-27T22:35:33.684Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36781",
+      "loja": "Amazon",
+      "titulo": "Shampoo Johnson's Baby Gotas de Brilho, 400ml | Hipoalergênico, Brilho Suave, Cabelos Normais",
+      "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/319bF1G8bJL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 34.99,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:27:47.292Z"
+    },
+    {
+      "id": "36780",
+      "loja": "Shopee",
+      "titulo": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
+      "link": "https://s.shopee.com.br/4B13nSkAyd",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdym-lxrzfhio6fhl9d_tn",
+      "preco": 45.88,
+      "precoDe": 152.93,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:24:17.698Z"
+    },
+    {
+      "id": "36779",
+      "loja": "Amazon",
+      "titulo": "Pack de Coca-Cola Lata 350ML 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B09JZ8J5ZD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5107PLcQ1YL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 24.24,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:18:23.523Z"
+    },
     {
       "id": "36775",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-24T18:54:47.987Z"
-    },
-    {
-      "id": "35402",
-      "loja": "Shopee",
-      "titulo": "Kit Berço Completo  com Mosquiteiro Antialérgico Macio Menina Berço Americano",
-      "link": "https://s.shopee.com.br/2qVbBLpUcX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mo01g0mfrdhg7e_tn",
-      "preco": 169,
-      "precoDe": 238.03,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:50:53.391Z"
-    },
-    {
-      "id": "35400",
-      "loja": "Amazon",
-      "titulo": "Tênis Mizuno Enigma 3, Lilas, Tamanho 35",
-      "link": "https://www.amazon.com.br/dp/B0H5Y3V717?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JTTsoaKSL._SL400_.jpg",
-      "preco": 269.9,
-      "precoDe": 499.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:47:02.697Z"
-    },
-    {
-      "id": "35399",
-      "loja": "Mercado Livre",
-      "titulo": "Edredom Casal Queen 400 Fios Dupla Face Grosso Hotel Oferta",
-      "link": "https://meli.la/1SDhEX7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927946-MLB79941434390_102024-O.webp",
-      "preco": 49.9,
-      "precoDe": 78.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:43:12.933Z"
     }
   ]
 }
