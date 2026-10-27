@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-27T15:05:32.101Z",
+  "atualizadoEm": "2026-10-27T15:35:32.286Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36415",
+      "loja": "Shopee",
+      "titulo": "Kit Tupia Manual Laminadora 800w 6mm + Jogo De Fresas 15 Pcs",
+      "link": "https://s.shopee.com.br/7favUcHrLk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb98c0auyrnz19_tn",
+      "preco": 189,
+      "precoDe": 590.63,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:31:51.136Z"
+    },
+    {
+      "id": "36414",
+      "loja": "Amazon",
+      "titulo": "Enxaguante Bucal Listerine Cuidado Total, Menta, Sem Álcool, 500ml | 14 Benefícios em 1, Elimina 99, 9% Dos Germes, Previne Placa e Cáries",
+      "link": "https://www.amazon.com.br/dp/B07DG3HSZF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ScNuuTAvL._SL400_.jpg",
+      "preco": 22.1,
+      "precoDe": 34.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:30:33.756Z"
+    },
+    {
+      "id": "36411",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante Absorvente 58x38cm Bolinha Macarrão Tecido Microfibra Macio Versátil",
+      "link": "https://s.shopee.com.br/40hd7Stj45",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mut6mnlpyz9e00_tn",
+      "preco": 29.97,
+      "precoDe": 48.34,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:22:55.211Z"
+    },
+    {
+      "id": "36409",
+      "loja": "Shopee",
+      "titulo": "Whiskas Sachê 85g – 16 Unid +4 Grátis Leve 20",
+      "link": "https://s.shopee.com.br/6Am7hLNIP1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911_tn",
+      "preco": 39.9,
+      "precoDe": 78.24,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:19:03.456Z"
+    },
+    {
+      "id": "36405",
+      "loja": "Mercado Livre",
+      "titulo": "Eps-6905 BaIan Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
+      "link": "https://meli.la/1LikcoN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941738-MLA106814881195_022026-F.jpg",
+      "preco": 26.99,
+      "precoDe": 59.99,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:15:14.207Z"
+    },
+    {
+      "id": "36395",
+      "loja": "Amazon",
+      "titulo": "O Pequeno Príncipe – Edição de luxo com capa dura almofadada e aquarelas originais do autor",
+      "link": "https://www.amazon.com.br/dp/6559801365?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41994e7I+PL._SL400_.jpg",
+      "preco": 13.9,
+      "precoDe": 19.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:06:43.550Z"
+    },
     {
       "id": "36393",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-24T11:00:21.630Z"
-    },
-    {
-      "id": "35197",
-      "loja": "Amazon",
-      "titulo": "Almaden Vinho Cabernet Sauvgnon Tinto Suave 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMGRNX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+-j3y9QmL._SL400_.jpg",
-      "preco": 16.62,
-      "precoDe": 30.54,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T01:31:39.076Z"
-    },
-    {
-      "id": "35195",
-      "loja": "Amazon",
-      "titulo": "Cachaça de Jambu - Jambuzera 500ml",
-      "link": "https://www.amazon.com.br/dp/B08HT16FKW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315VDU3RSWL._SL400_.jpg",
-      "preco": 55.9,
-      "precoDe": 89.67,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T23:33:40.550Z"
-    },
-    {
-      "id": "35194",
-      "loja": "Amazon",
-      "titulo": "Gin Rocks, Stramberry, 995ml, 1L",
-      "link": "https://www.amazon.com.br/dp/B07Y2CZWP8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gMcHYSHyL._SL400_.jpg",
-      "preco": 29.21,
-      "precoDe": 43.23,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T23:25:54.069Z"
-    },
-    {
-      "id": "35193",
-      "loja": "Amazon",
-      "titulo": "White Horse Whisky 1L | Whisky escocês blended de 1L, com sabor equilibrado, notas doces e frutadas e um toque defumado marcante.",
-      "link": "https://www.amazon.com.br/dp/B009UWD34O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31icFtXbfYL._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 89.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T23:16:56.256Z"
-    },
-    {
-      "id": "35192",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray No Ten 750ml",
-      "link": "https://www.amazon.com.br/dp/B0DXF1QBM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UEcjFNlTL._SL400_.jpg",
-      "preco": 137.44,
-      "precoDe": 176.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T23:15:33.948Z"
-    },
-    {
-      "id": "35191",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml | Refrescante, leve e aromático, com sabor marcante de Moscato.",
-      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
-      "preco": 29.89,
-      "precoDe": 36.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:58:04.360Z"
     }
   ]
 }
