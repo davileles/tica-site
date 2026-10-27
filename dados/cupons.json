@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T11:05:33.735Z",
+  "atualizadoEm": "2026-10-27T11:35:33.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1944,6 +1944,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "EXCLUSIVONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-12-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
