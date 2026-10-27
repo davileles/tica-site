@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-27T14:33:35.453Z",
+  "atualizadoEm": "2026-10-27T15:05:32.101Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36393",
+      "loja": "Shopee",
+      "titulo": " Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+      "link": "https://s.shopee.com.br/6L5Xszup3i",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-mp4m6nw7jxmq22_tn",
+      "preco": 22.94,
+      "precoDe": 38.23,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T15:01:10.505Z"
+    },
+    {
+      "id": "36391",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
+      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
+      "preco": 27.77,
+      "precoDe": 39.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:57:06.081Z"
+    },
+    {
+      "id": "36383",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 106.18,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:53:08.004Z"
+    },
+    {
+      "id": "36381",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/1LgruoLRLa",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:49:05.159Z"
+    },
+    {
+      "id": "36379",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Aerolight Fast Flow Lilac 710ml",
+      "link": "https://www.amazon.com.br/dp/B0DXQDGYKW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21IKVUzzgcL._SL400_.jpg",
+      "preco": 199.9,
+      "precoDe": 309,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:45:20.153Z"
+    },
+    {
+      "id": "36378",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Bitter Campari 748ml",
+      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
+      "preco": 48.99,
+      "precoDe": 59.9,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:41:27.859Z"
+    },
+    {
+      "id": "36373",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+      "link": "https://s.shopee.com.br/1qd8V97kW1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539_tn",
+      "preco": 72.99,
+      "precoDe": 260.68,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T14:38:07.505Z"
+    },
     {
       "id": "36362",
       "loja": "Shopee",
@@ -4011,18 +4095,6 @@
       "enviadoEm": "2026-10-25T12:29:45.209Z"
     },
     {
-      "id": "35501",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 42.5,
-      "precoDe": 59.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T12:26:09.238Z"
-    },
-    {
       "id": "35499",
       "loja": "Mercado Livre",
       "titulo": "iPhone 17 Pro 256GB - Azul-profundo - Distribuidor Autorizado",
@@ -5929,78 +6001,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-10-23T22:58:04.360Z"
-    },
-    {
-      "id": "35190",
-      "loja": "Shopee",
-      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "link": "https://s.shopee.com.br/BUoglLpxG",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
-      "preco": 8.87,
-      "precoDe": 17.06,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:56:42.535Z"
-    },
-    {
-      "id": "35188",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON CS2 25\" 310Hz 0.3 ms HDR400 IPS Base Ajustável CS25G",
-      "link": "https://meli.la/19jfiTg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726509-MLA115635838320_092026-F.jpg",
-      "preco": 1113,
-      "precoDe": 1899,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:52:58.726Z"
-    },
-    {
-      "id": "35187",
-      "loja": "Amazon",
-      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
-      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
-      "preco": 112.99,
-      "precoDe": 119,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:34:30.385Z"
-    },
-    {
-      "id": "35186",
-      "loja": "Shopee",
-      "titulo": "Mini Mixer Elétrico Portátil Batedor de Ovos e Leite Espumador Café – Utensílio de Cozinha a Pilha",
-      "link": "https://s.shopee.com.br/4B0xQV2wBt",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcch-lt6uk55nl3vc80_tn",
-      "preco": 10.98,
-      "precoDe": 49.91,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:33:32.564Z"
-    },
-    {
-      "id": "35184",
-      "loja": "Mercado Livre",
-      "titulo": "Pokémon ME04 Caos Ascendente Blister Quádruplo Toxel 4 Boosters copag",
-      "link": "https://meli.la/1G6sAnS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_861056-MLA116069207296_092026-F.jpg",
-      "preco": 39.9,
-      "precoDe": 55.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:22:50.784Z"
-    },
-    {
-      "id": "35183",
-      "loja": "Amazon",
-      "titulo": "Monitor Gamer Curvo Ultrawide Concórdia 34\" WQHD 165Hz 1ms, sRGB 100%, 2 HDMI, 2 DisplayPort, PIP/PBP UZ340",
-      "link": "https://www.amazon.com.br/dp/B0F4YW4XRP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HSiyR06UL._SL400_.jpg",
-      "preco": 1602.81,
-      "precoDe": 1758.9,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T22:19:00.144Z"
     }
   ]
 }
