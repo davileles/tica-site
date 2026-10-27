@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T16:35:35.641Z",
+  "atualizadoEm": "2026-10-27T18:05:35.261Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2091,18 +2091,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TCMPD2610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido pagando com cartão Mercado Pago Visa",
-      "validadeAte": "2026-10-27T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CACIFEPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2136,6 +2124,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS2710",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-28T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
