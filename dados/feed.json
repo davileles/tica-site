@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-27T21:05:33.084Z",
+  "atualizadoEm": "2026-10-27T21:35:33.084Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36753",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0H1JZFBS7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41PuDXzI4+L._SL400_.jpg",
+      "preco": 56.75,
+      "precoDe": 77.37,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:35:08.818Z"
+    },
+    {
+      "id": "36752",
+      "loja": "Shopee",
+      "titulo": "OralGos Escova Premium com Cerdas de Carvão,Cerdas de altadensidade+Pega Antiderrapante",
+      "link": "https://s.shopee.com.br/W7lMsFU0v",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mo7xe5vymf4454_tn",
+      "preco": 19.9,
+      "precoDe": 52.37,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:34:08.185Z"
+    },
+    {
+      "id": "36750",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras para Bebês Desitin, 57g",
+      "link": "https://www.amazon.com.br/dp/B0DW9L8BFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VeGOKMVtL._SL400_.jpg",
+      "preco": 71.96,
+      "precoDe": 83.99,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:30:00.161Z"
+    },
+    {
+      "id": "36749",
+      "loja": "Amazon",
+      "titulo": "Fraldas Pompom M + Lenços + Cotonete Baby - Kit Higiene Bebê",
+      "link": "https://www.amazon.com.br/dp/B0GWNN396W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+85iWCjBL._SL400_.jpg",
+      "preco": 62.91,
+      "precoDe": 69.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:26:14.844Z"
+    },
+    {
+      "id": "36747",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Lupo Max Feminina Academia Cintura Alta",
+      "link": "https://meli.la/2eChLZR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746919-MLB111371620555_052026-O.webp",
+      "preco": 115.44000000000001,
+      "precoDe": 197,
+      "desconto": 27,
+      "cupom": "MELISUPERCLUB",
+      "enviadoEm": "2026-10-27T21:25:19.869Z"
+    },
+    {
+      "id": "36745",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
+      "link": "https://www.amazon.com.br/dp/B09LRZZYQD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gyvRQbUuL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 39,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:21:53.782Z"
+    },
+    {
+      "id": "36743",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/4qGjrTEAjk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:21:02.931Z"
+    },
+    {
+      "id": "36739",
+      "loja": "Shopee",
+      "titulo": "Mangueira Jardim Reforçada Trançada Completa 05/10/15/20/25/30/35/50 Metros",
+      "link": "https://s.shopee.com.br/7Ky5U3bPLg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mldkkkytkpona7_tn",
+      "preco": 16.9,
+      "precoDe": 26.83,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:17:11.711Z"
+    },
+    {
+      "id": "36738",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola Fixação Finca Pino Ação Direta Pregos Epi Maleta Pinador Pregador Grampeador Rebitador De Prego Pressão Manual Ferramenta Para Drywal Gesso Concreto Aço Parede Forro PVC Gr",
+      "link": "https://meli.la/2K3Vnp2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_926154-MLA99583620794_122025-F.jpg",
+      "preco": 59.9,
+      "precoDe": 109.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:16:02.776Z"
+    },
+    {
+      "id": "36735",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/30p6JfBbzS",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
+      "preco": 28.88,
+      "precoDe": 30.08,
+      "desconto": 4,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T21:08:29.004Z"
+    },
     {
       "id": "36734",
       "loja": "Mercado Livre",
@@ -1947,18 +2067,6 @@
       "enviadoEm": "2026-10-27T11:39:35.855Z"
     },
     {
-      "id": "36199",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/4qGjrTEAjk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 69.99,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T11:26:23.347Z"
-    },
-    {
       "id": "36198",
       "loja": "Shopee",
       "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
@@ -2509,18 +2617,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-10-26T19:02:19.306Z"
-    },
-    {
-      "id": "36054",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 80 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0H1JZFBS7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41PuDXzI4+L._SL400_.jpg",
-      "preco": 56.75,
-      "precoDe": 77.37,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T18:58:14.118Z"
     },
     {
       "id": "36046",
@@ -5235,18 +5331,6 @@
       "enviadoEm": "2026-10-25T12:11:30.419Z"
     },
     {
-      "id": "35493",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Lupo Max Feminina Academia Cintura Alta",
-      "link": "https://meli.la/2eChLZR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746919-MLB111371620555_052026-O.webp",
-      "preco": 115.44000000000001,
-      "precoDe": 197,
-      "desconto": 27,
-      "cupom": "MELISUPERCLUB",
-      "enviadoEm": "2026-10-25T12:10:34.044Z"
-    },
-    {
       "id": "35492",
       "loja": "Mercado Livre",
       "titulo": "Set Juguete De Construc Lego Jurassic World Baryonyx 75935",
@@ -5917,90 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-24T18:15:53.810Z"
-    },
-    {
-      "id": "35390",
-      "loja": "Shopee",
-      "titulo": "Conjunto Tricot Premium Bebê Menino Blusa Polo Manga Curta Shorts Clássico Elegante",
-      "link": "https://s.shopee.com.br/AAIBrnXS93",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-motsyxbc40li0e_tn",
-      "preco": 59.98,
-      "precoDe": 119.96,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:07:42.752Z"
-    },
-    {
-      "id": "35389",
-      "loja": "Shopee",
-      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
-      "link": "https://s.shopee.com.br/3LRrjEXH3X",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
-      "preco": 69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:03:56.814Z"
-    },
-    {
-      "id": "35388",
-      "loja": "Amazon",
-      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.08,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:00:11.758Z"
-    },
-    {
-      "id": "35387",
-      "loja": "Shopee",
-      "titulo": "Vestido infantil menina sem mangas regata de algodão com estampa de bolinhas estiloso casual",
-      "link": "https://s.shopee.com.br/3g4i7bOrhO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mqpcv3lzdhc3fa_tn",
-      "preco": 59.33,
-      "precoDe": 89.89,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:59:01.994Z"
-    },
-    {
-      "id": "35385",
-      "loja": "Shopee",
-      "titulo": "Kit Família Natal Camiseta Papai Mamãe e Body Bebê Estampa Rena Roupa Natalina Look em Família",
-      "link": "https://s.shopee.com.br/AKbc3W3ZM5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt6np6710e13b3_tn",
-      "preco": 99.99,
-      "precoDe": 129.86,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:55:25.173Z"
-    },
-    {
-      "id": "35384",
-      "loja": "Amazon",
-      "titulo": "Gin Bulldog London Dry 750ml",
-      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
-      "preco": 78.95,
-      "precoDe": 156.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:51:45.466Z"
-    },
-    {
-      "id": "35383",
-      "loja": "Shopee",
-      "titulo": "​Kit 10 Faixinhas Laço para Bebê Menina – Meia de Seda Slim (0 a 24 Meses) – Não Aperta",
-      "link": "https://s.shopee.com.br/W7gKtoCVf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdytyz8q9mgx10_tn",
-      "preco": 26.01,
-      "precoDe": 28.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:50:30.405Z"
     }
   ]
 }
