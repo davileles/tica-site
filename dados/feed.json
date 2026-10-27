@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-27T11:02:42.041Z",
+  "atualizadoEm": "2026-10-27T11:05:32.008Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36181",
+      "loja": "Shopee",
+      "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "link": "https://s.shopee.com.br/2gCFFuMPbw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc_tn",
+      "preco": 69.9,
+      "precoDe": 120.52,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T11:02:56.100Z"
+    },
     {
       "id": "36170",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 32,
       "cupom": "TECHPROMO",
       "enviadoEm": "2026-10-23T17:53:50.838Z"
-    },
-    {
-      "id": "35013",
-      "loja": "Shopee",
-      "titulo": "Presépio de Natal Minimalista Decorativo com Bandeja e Vela de LED",
-      "link": "https://s.shopee.com.br/80Dfg1xTzQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mtydzq73bldu0c_tn",
-      "preco": 49.5,
-      "precoDe": 55,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T17:49:31.922Z"
     }
   ]
 }
