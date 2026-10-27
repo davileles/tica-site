@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T11:02:44.317Z",
+  "atualizadoEm": "2026-10-27T11:05:33.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -672,18 +672,6 @@
       "limite": 50,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-27T12:00:41.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESTOQUE2710",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-28T03:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
