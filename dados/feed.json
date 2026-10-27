@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-27T22:35:33.684Z",
+  "atualizadoEm": "2026-10-27T22:57:07.437Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36787",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/906JZvNFVo",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m31syvxotyp390_tn",
+      "preco": 24.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:47:07.425Z"
+    },
+    {
+      "id": "36786",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 49,
+      "precoDe": 55.84,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:42:44.957Z"
+    },
+    {
+      "id": "36785",
+      "loja": "Amazon",
+      "titulo": "Rum Montilla Carta Cristal - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B07XL4Y3WK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQLZScnaL._SL400_.jpg",
+      "preco": 27.99,
+      "precoDe": 39.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T22:41:18.643Z"
+    },
     {
       "id": "36781",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:07:02.530Z"
-    },
-    {
-      "id": "35410",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-      "link": "https://meli.la/1zaaibc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-      "preco": 39.9,
-      "precoDe": 64.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:02:44.820Z"
-    },
-    {
-      "id": "35407",
-      "loja": "Shopee",
-      "titulo": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha Jogo Completo Batedeira Colher Pegador",
-      "link": "https://s.shopee.com.br/50a5lruNfS",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7renk-m1xc44ie67goa3_tn",
-      "preco": 53.17,
-      "precoDe": 204.5,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:58:35.925Z"
-    },
-    {
-      "id": "35406",
-      "loja": "Shopee",
-      "titulo": "Kit 45 Bolas de Natal Bolinhas Decoração Árvore Enfeites Natalina Pendentes Premium",
-      "link": "https://s.shopee.com.br/3qO8NilcjW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrqaehj67qis87_tn",
-      "preco": 56.9,
-      "precoDe": 75.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T18:54:47.987Z"
     }
   ]
 }
