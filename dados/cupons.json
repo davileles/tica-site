@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T12:05:33.824Z",
+  "atualizadoEm": "2026-10-27T12:35:33.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -648,6 +648,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAIS2710",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-10-28T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1995,18 +2007,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMODARROW15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Cupom válido em selecionados conforme lista indicada",
-      "validadeAte": "2026-10-27T12:29:36.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIMAIS2610",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2031,6 +2031,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CACIFEPROMOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-28T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "HOJETECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2039,7 +2051,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-28T12:00:00.000Z",
+      "validadeAte": "2026-10-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
