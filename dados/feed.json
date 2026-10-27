@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-10-27T20:05:33.083Z",
+  "atualizadoEm": "2026-10-27T20:35:33.083Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36719",
+      "loja": "Mercado Livre",
+      "titulo": "Samsung Smart Tv 55 Crystal Uhd 4k + Soundbar Hw-b400f",
+      "link": "https://meli.la/1ufZR5k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969929-MLB115733183917_082026-O.webp",
+      "preco": 2454,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTADEHOJE",
+      "enviadoEm": "2026-10-27T20:35:11.971Z"
+    },
+    {
+      "id": "36678",
+      "loja": "Mercado Livre",
+      "titulo": "Samsung Smart TV 58\" Crystal UHD 4K 2026 + Soundbar Samsung HW-B400F",
+      "link": "https://meli.la/2hcat6w",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619198-MLA113462666416_072026-F.jpg",
+      "preco": 2699,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFERTADEHOJE",
+      "enviadoEm": "2026-10-27T20:31:40.453Z"
+    },
+    {
+      "id": "36655",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
+      "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RinA21hsL._SL400_.jpg",
+      "preco": 175.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T20:27:58.681Z"
+    },
+    {
+      "id": "36612",
+      "loja": "Shopee",
+      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
+      "link": "https://s.shopee.com.br/3B8WT29UcW",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
+      "preco": 501.9,
+      "precoDe": 643.46,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T20:19:13.336Z"
+    },
+    {
+      "id": "36608",
+      "loja": "Shopee",
+      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
+      "link": "https://s.shopee.com.br/6Am81qFz3D",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
+      "preco": 24.99,
+      "precoDe": 32.04,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T20:12:18.732Z"
+    },
+    {
+      "id": "36606",
+      "loja": "Amazon",
+      "titulo": "Whisky Glenfiddich 15 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B08H6H7L2Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rRyLNO0mL._SL400_.jpg",
+      "preco": 569.91,
+      "precoDe": 680,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T20:08:32.071Z"
+    },
     {
       "id": "36604",
       "loja": "Mercado Livre",
@@ -5929,78 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-24T17:11:27.503Z"
-    },
-    {
-      "id": "35368",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
-      "link": "https://meli.la/1Y6nFut",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951617-MLB110943565198_052026-O.webp",
-      "preco": 104.31,
-      "precoDe": 299.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:07:52.424Z"
-    },
-    {
-      "id": "35365",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto Body Manga Longa E Mijão Culote Pé Reversível Bebê",
-      "link": "https://meli.la/2hMTos7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857518-MLB116060221174_092026-O.webp",
-      "preco": 39.9,
-      "precoDe": 45.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T17:03:58.007Z"
-    },
-    {
-      "id": "35363",
-      "loja": "Mercado Livre",
-      "titulo": "Krups Heineken Chopeira De Cerveja Preto De Com 5l",
-      "link": "https://meli.la/16M2QmQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_962841-MLA113042681325_062026-F.jpg",
-      "preco": 869.99,
-      "precoDe": 1899.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T16:59:47.773Z"
-    },
-    {
-      "id": "35360",
-      "loja": "Shopee",
-      "titulo": "Enfeite Porta Maternidade Bordado Menino Cavalo",
-      "link": "https://s.shopee.com.br/1gJdfXsMJo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mpwyl60x2arm3e_tn",
-      "preco": 97.93,
-      "precoDe": 139.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T16:55:45.407Z"
-    },
-    {
-      "id": "35358",
-      "loja": "Shopee",
-      "titulo": "Kit Baús Organizadores Multiuso Em Fibra Sintética -S-  P/M/G",
-      "link": "https://s.shopee.com.br/AUv2B1huTq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbpti0avdit23_tn",
-      "preco": 68,
-      "precoDe": 85,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T16:51:37.414Z"
-    },
-    {
-      "id": "35357",
-      "loja": "Shopee",
-      "titulo": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "link": "https://s.shopee.com.br/113wrKOLCX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50_tn",
-      "preco": 42.8,
-      "precoDe": 147.59,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T16:48:07.713Z"
     }
   ]
 }
