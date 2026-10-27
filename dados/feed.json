@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-27T16:05:32.596Z",
+  "atualizadoEm": "2026-10-27T16:35:32.664Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36466",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
+      "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ItOpTbhlL._SL400_.jpg",
+      "preco": 52.08,
+      "precoDe": 77.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T16:35:30.445Z"
+    },
+    {
+      "id": "36464",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
+      "link": "https://s.shopee.com.br/9APjM0oPb7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
+      "preco": 27.14,
+      "precoDe": 118,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T16:31:34.523Z"
+    },
+    {
+      "id": "36463",
+      "loja": "Mercado Livre",
+      "titulo": "Coberta Manta Soft Casal Microfibra Anti-alérgica Dupla Face",
+      "link": "https://meli.la/324Btju",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742738-MLB109125449330_042026-O.webp",
+      "preco": 34.9,
+      "precoDe": 55.44,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T16:27:56.487Z"
+    },
+    {
+      "id": "36462",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Split Electrolux MaxComfort Inverter Frio 12.000 BTUs (NI12F/NE12F)",
+      "link": "https://meli.la/1kt1YkF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971304-MLA115855903282_092026-F.jpg",
+      "preco": 1729,
+      "precoDe": 2329,
+      "desconto": 15,
+      "cupom": "MELHORPROMO",
+      "enviadoEm": "2026-10-27T16:24:27.144Z"
+    },
+    {
+      "id": "36461",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/9fLzwNiZm3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 149.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T16:20:33.137Z"
+    },
+    {
+      "id": "36459",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Reserva Go Horizon Social Casual Elegante Trabalho",
+      "link": "https://meli.la/18ZtAz6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903916-MLB115313748595_072026-O.webp",
+      "preco": 174.99,
+      "precoDe": 299.99,
+      "desconto": 35,
+      "cupom": "MODA15",
+      "enviadoEm": "2026-10-27T16:16:43.616Z"
+    },
+    {
+      "id": "36457",
+      "loja": "Mercado Livre",
+      "titulo": "Impressora 3D Bambu Lab A1 Mini cor cinza Sem AMS",
+      "link": "https://meli.la/29grHGq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809225-MLA116319959373_082026-F.jpg",
+      "preco": 1711,
+      "precoDe": 2087,
+      "desconto": 6,
+      "cupom": "MELHORPROMO",
+      "enviadoEm": "2026-10-27T16:12:12.915Z"
+    },
+    {
+      "id": "36454",
+      "loja": "Amazon",
+      "titulo": "Berço Cosco Kids, Nanny, 0 a 18kg, Preto Mescla",
+      "link": "https://www.amazon.com.br/dp/B0D6X6XTQN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GimLxWf1L._SL400_.jpg",
+      "preco": 359.95,
+      "precoDe": 396,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T16:07:50.304Z"
+    },
     {
       "id": "36444",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-10-24T12:03:15.039Z"
-    },
-    {
-      "id": "35227",
-      "loja": "Mercado Livre",
-      "titulo": "Basike Carregador Portátil Power Bank B205 Magsafe 10000mah PD 22.5w Turbo Rápido PD Tipo C USB C Sem Fio Universal Potente Com Display Para iPhone 15/16/17 Pro Max Samsung Galaxy ",
-      "link": "https://meli.la/2bwWzH1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_778846-MLA108206570125_032026-F.jpg",
-      "preco": 129.7,
-      "precoDe": 258.46,
-      "desconto": 37,
-      "cupom": "MELISUPERCLUB",
-      "enviadoEm": "2026-10-24T11:59:22.081Z"
-    },
-    {
-      "id": "35225",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/8KqXGz8hS6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 22.99,
-      "precoDe": 47.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:51:01.938Z"
-    },
-    {
-      "id": "35224",
-      "loja": "Shopee",
-      "titulo": "Caixa com 10 Lenços/Toalhas Umedecidas Baby Free c/ 100 Unidades Cada",
-      "link": "https://s.shopee.com.br/9Kj4SYlAH7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mu142n9hzzls4f_tn",
-      "preco": 56.9,
-      "precoDe": 73.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:45:36.761Z"
-    },
-    {
-      "id": "35223",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Pomada Assadura Babymed 45g Proteção Bebê Contra Assad",
-      "link": "https://s.shopee.com.br/4B0yJ3nAJu",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yk-mo7d0e4yo4qqf6_tn",
-      "preco": 24.33,
-      "precoDe": 27.34,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:44:45.473Z"
-    },
-    {
-      "id": "35221",
-      "loja": "Amazon",
-      "titulo": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-      "link": "https://www.amazon.com.br/dp/B0DBR1N89F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51jfJ2jeimL._SL400_.jpg",
-      "preco": 549.9,
-      "precoDe": 1199,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:40:21.456Z"
-    },
-    {
-      "id": "35220",
-      "loja": "Mercado Livre",
-      "titulo": "Licor Ballena 750ml – Bebida Cremosa à Base de Leite",
-      "link": "https://meli.la/2fQg51G",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698868-MLA99925127551_112025-F.jpg",
-      "preco": 68,
-      "precoDe": 179.9,
-      "desconto": 53,
-      "cupom": "MELISUPERCLUB",
-      "enviadoEm": "2026-10-24T11:36:30.615Z"
-    },
-    {
-      "id": "35219",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Regata Ribana Infantil Menina 2 a 14 anos",
-      "link": "https://s.shopee.com.br/7VHQGMLsdh",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258k-mtlpmj5uy3gl62_tn",
-      "preco": 52.9,
-      "precoDe": 82.66,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:32:42.803Z"
-    },
-    {
-      "id": "35216",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/8KqXFP01mh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 37.09,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T11:28:22.158Z"
     }
   ]
 }
