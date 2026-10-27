@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-26T23:35:12.982Z",
+  "atualizadoEm": "2026-10-27T03:28:05.566Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36167",
+      "loja": "Amazon",
+      "titulo": "Garrafa Térmica Firenze Mini 250ml Preto Invicta",
+      "link": "https://www.amazon.com.br/dp/B0778Y54PT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316qx5OdXAL._SL400_.jpg",
+      "preco": 27.97,
+      "precoDe": 43.79,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T03:18:05.558Z"
+    },
     {
       "id": "36152",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-10-23T17:19:35.201Z"
-    },
-    {
-      "id": "34992",
-      "loja": "Mercado Livre",
-      "titulo": "Whey protein +Mu Chocowheyfer em barra de cereais sabor Mix x 300g 12 un",
-      "link": "https://meli.la/2Bo3MTU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728054-MLA118427560236_102026-F.jpg",
-      "preco": 50.39,
-      "precoDe": 87.88,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T17:13:14.510Z"
     }
   ]
 }
