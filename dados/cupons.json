@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T21:35:15.074Z",
+  "atualizadoEm": "2026-10-27T03:05:13.343Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -447,18 +447,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "FARMOU",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "PLAYNINJA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -567,18 +555,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "AURAGAMER",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 9,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -675,15 +651,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ALLSITERESGATE2610",
+      "codigo": "TODOSITERESGATE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 60,
       "minimo": 499,
       "maximo": null,
       "limite": null,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-27T03:00:00.000Z",
+      "observacao": null,
+      "validadeAte": "2026-10-28T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -699,27 +675,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMADEESTOQUE",
+      "codigo": "ESTOQUE2710",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 35,
       "minimo": 99,
       "maximo": null,
       "limite": 50,
-      "observacao": "Válido apenas em produtos selecionados",
-      "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEIMADEESTOQUE1610",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-27T03:00:29.000Z",
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-28T03:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1563,18 +1527,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPEROFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BATEUDESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1704,18 +1656,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUSTOUPOUQUINHO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2031,18 +1971,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOEFERAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BNPLD2611",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2088,30 +2016,6 @@
       "limite": 50,
       "observacao": "Válido pagando com cartão Mercado Pago Visa",
       "validadeAte": "2026-10-27T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2233,150 +2137,6 @@
       "observacao": null,
       "validadeAte": "2031-01-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17910&id=1207116"
-    },
-    {
-      "codigo": "VALE500",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE450",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 450,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE400",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 400,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE350",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 350,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE300",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE250",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE200",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE150",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE100",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE80",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE50",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "VALE25",
-      "loja": "Shopclub",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": null,
-      "maximo": 500,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-27T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
       "codigo": "10BRAVOCUPOM",
