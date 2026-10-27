@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T19:05:34.757Z",
+  "atualizadoEm": "2026-10-27T19:35:35.427Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -681,7 +681,7 @@
       "valor": 300,
       "minimo": 1999,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": null,
       "validadeAte": "2026-10-28T19:00:45.000Z",
       "url": "https://meli.la/2xystLt"
