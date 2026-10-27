@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T12:35:33.713Z",
+  "atualizadoEm": "2026-10-27T13:05:34.139Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -648,6 +648,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1979,7 +1991,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-10-28T12:00:00.000Z",
+      "validadeAte": "2026-10-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1991,7 +2003,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-10-28T12:00:00.000Z",
+      "validadeAte": "2026-10-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2700,6 +2712,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-27T15:05:16.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "BTS3V1D4",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-28T13:01:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
