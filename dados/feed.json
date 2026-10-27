@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-27T22:57:07.437Z",
+  "atualizadoEm": "2026-10-27T23:26:19.934Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36793",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Fire 1L",
+      "link": "https://www.amazon.com.br/dp/B01I1316QE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yu8CpLcsL._SL400_.jpg",
+      "preco": 123.9,
+      "precoDe": 174.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T23:16:19.928Z"
+    },
     {
       "id": "36787",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:11:17.140Z"
-    },
-    {
-      "id": "35411",
-      "loja": "Shopee",
-      "titulo": "Árvore De Natal 1,50M Branca Decoração Natalina",
-      "link": "https://s.shopee.com.br/6fiJljlIff",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-msy4kt04yoed79_tn",
-      "preco": 99.99,
-      "precoDe": 129.86,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:07:02.530Z"
     }
   ]
 }
