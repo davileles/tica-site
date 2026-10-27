@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-27T03:28:05.566Z",
+  "atualizadoEm": "2026-10-27T11:02:42.041Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36170",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Finest Blended Escocês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07YNYMP5B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31R07Elzk5L._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 84.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T10:52:42.038Z"
+    },
+    {
+      "id": "36169",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Citron - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B003WIG5J2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312-DYHnNAL._SL400_.jpg",
+      "preco": 77.67,
+      "precoDe": 117.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T10:46:38.012Z"
+    },
     {
       "id": "36167",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-23T17:49:31.922Z"
-    },
-    {
-      "id": "35006",
-      "loja": "Shopee",
-      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
-      "link": "https://s.shopee.com.br/2BFsis4Kv4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
-      "preco": 10.8,
-      "precoDe": 27,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T17:42:53.235Z"
-    },
-    {
-      "id": "34993",
-      "loja": "Shopee",
-      "titulo": "Cobertor Manta Casal 2,20X1,80 Microfibra Soft Lisa Antialérgica Coberta Macia Quentinha Inverno",
-      "link": "https://s.shopee.com.br/gR4uWAIm6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mozslt41oy6e43_tn",
-      "preco": 44.98,
-      "precoDe": 70.28,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T17:19:35.201Z"
     }
   ]
 }
