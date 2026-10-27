@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-27T23:26:19.934Z",
+  "atualizadoEm": "2026-10-27T23:35:33.686Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36794",
+      "loja": "Amazon",
+      "titulo": "Vodka Skyy 980ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HFs6AMv8L._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 46.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T23:28:11.977Z"
+    },
     {
       "id": "36793",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:19:29.073Z"
-    },
-    {
-      "id": "35412",
-      "loja": "Shopee",
-      "titulo": "Cesto De Roupa Suja Bambu Dobrável Redondo 57L Grande Organizador Forrado Tampa Alças Banheiro Lavanderia Multiuso",
-      "link": "https://s.shopee.com.br/2BFuPlQ1j6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-msbkpyyx2yh189_tn",
-      "preco": 52.84,
-      "precoDe": 89.56,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:11:17.140Z"
     }
   ]
 }
