@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-27T12:35:32.012Z",
+  "atualizadoEm": "2026-10-27T13:05:32.012Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36288",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Prateleiras Arredondadas De 60x15 Suporte Invisível",
+      "link": "https://meli.la/1TDB6C9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640464-MLB106907103994_022026-O.webp",
+      "preco": 145.42000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BARRATINHOAQUI",
+      "enviadoEm": "2026-10-27T13:05:24.172Z"
+    },
+    {
+      "id": "36287",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/1qd8Nf5zc7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 78.96,
+      "precoDe": 136.14,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T13:01:44.489Z"
+    },
+    {
+      "id": "36283",
+      "loja": "Mercado Livre",
+      "titulo": "Fone de Ouvido Esportivo Basike TWS Com Bluetooth 6.0 e Bateria de 60h",
+      "link": "https://meli.la/25C9MUF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997784-MLA100022311359_122025-F.jpg",
+      "preco": 129.5,
+      "precoDe": 284,
+      "desconto": 39,
+      "cupom": "OFFAQUI",
+      "enviadoEm": "2026-10-27T12:57:10.810Z"
+    },
+    {
+      "id": "36281",
+      "loja": "Shopee",
+      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
+      "link": "https://s.shopee.com.br/906IuboYii",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
+      "preco": 33.96,
+      "precoDe": 109.55,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T12:53:27.379Z"
+    },
+    {
+      "id": "36274",
+      "loja": "Mercado Livre",
+      "titulo": "Processador Amd Ryzen 5 5500x3d (oem) sem cooler box",
+      "link": "https://meli.la/1dhwpe2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_793677-MLA99494793514_112025-F.jpg",
+      "preco": 1266.32,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "HOJETECH",
+      "enviadoEm": "2026-10-27T12:49:54.234Z"
+    },
+    {
+      "id": "36267",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-qdyooPzL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 42.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T12:45:57.122Z"
+    },
+    {
+      "id": "36266",
+      "loja": "Amazon",
+      "titulo": "JBL, Óculos Inteligentes, Soundgear Frames Round, Com Alto-Falantes - Ônix",
+      "link": "https://www.amazon.com.br/dp/B0D344ZXQZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fG8wixRnL._SL400_.jpg",
+      "preco": 399,
+      "precoDe": 799,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-27T12:44:53.414Z"
+    },
+    {
+      "id": "36260",
+      "loja": "Mercado Livre",
+      "titulo": "Memória Pc Ddr4 16gb 2666 4bit Infinity Memory",
+      "link": "https://meli.la/16xoFtx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786573-MLA81649546848_012025-F.jpg",
+      "preco": 467.64,
+      "precoDe": 899,
+      "desconto": 40,
+      "cupom": "MELIMAIS2710",
+      "enviadoEm": "2026-10-27T12:37:49.872Z"
+    },
     {
       "id": "36256",
       "loja": "Amazon",
@@ -3255,18 +3351,6 @@
       "enviadoEm": "2026-10-25T15:28:20.714Z"
     },
     {
-      "id": "35545",
-      "loja": "Amazon",
-      "titulo": "JBL, Óculos Inteligentes, Soundgear Frames Round, Com Alto-Falantes - Ônix",
-      "link": "https://www.amazon.com.br/dp/B0D344ZXQZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fG8wixRnL._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 799,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:27:17.053Z"
-    },
-    {
       "id": "35544",
       "loja": "Shopee",
       "titulo": "Sandália Bebê Menino Joaquim Sapatinho Infantil Franciscana Papete Caramelo Confortável Verão",
@@ -5917,90 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-23T19:58:05.688Z"
-    },
-    {
-      "id": "35110",
-      "loja": "Amazon",
-      "titulo": "Smirnoff Vodka 600Ml",
-      "link": "https://www.amazon.com.br/dp/B07QZB3PDY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hT1BMKFcL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 27.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:54:11.713Z"
-    },
-    {
-      "id": "35108",
-      "loja": "Shopee",
-      "titulo": "【110V/220V】5 Em 1 Máquina Solda Inversora Profissional Máquina de solda 160A MMA/LIFT TIG D13",
-      "link": "https://s.shopee.com.br/W7eshGtIP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqpo4w1yqoea53_tn",
-      "preco": 249.99,
-      "precoDe": 531.89,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:53:10.515Z"
-    },
-    {
-      "id": "35107",
-      "loja": "Amazon",
-      "titulo": "Boia Colete Braço Infantil para Piscina (Flamingo)",
-      "link": "https://www.amazon.com.br/dp/B0FNRSFCNM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oMXPuMu+L._SL400_.jpg",
-      "preco": 48.4,
-      "precoDe": 69.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:51:57.878Z"
-    },
-    {
-      "id": "35106",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Shorts Feminino Basico Cintura Alta Confortável",
-      "link": "https://meli.la/11XRejP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739246-MLB86992204079_062025-O.webp",
-      "preco": 38.99,
-      "precoDe": 64.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:50:45.021Z"
-    },
-    {
-      "id": "35101",
-      "loja": "Mercado Livre",
-      "titulo": "Batedeira Cake Premium, Mondial, 500W - B-50-B",
-      "link": "https://meli.la/1TWhqMP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905145-MLA99448429848_112025-F.jpg",
-      "preco": 104.92,
-      "precoDe": 189.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:45:48.679Z"
-    },
-    {
-      "id": "35096",
-      "loja": "Shopee",
-      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
-      "link": "https://s.shopee.com.br/8pmmn44bIC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
-      "preco": 329.9,
-      "precoDe": 701.91,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-23T19:42:21.044Z"
-    },
-    {
-      "id": "35095",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Térmica Marmita Lancheira Alça Transversal Ajustável Removível Alça de mão reforçada 2 Compartimentos Organiza Conserva Seus Alimentos Quente ou Frio Cor Preto Tche Amo",
-      "link": "https://meli.la/1ud9LRC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812040-MLA118982376049_102026-F.jpg",
-      "preco": 25.589999999999996,
-      "precoDe": 46.93,
-      "desconto": 32,
-      "cupom": "MELISUPERCLUB",
-      "enviadoEm": "2026-10-23T19:38:31.215Z"
     }
   ]
 }
