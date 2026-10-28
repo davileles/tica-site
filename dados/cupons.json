@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T12:37:27.595Z",
+  "atualizadoEm": "2026-10-28T13:07:27.481Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2104,6 +2104,18 @@
     },
     {
       "codigo": "OFERTAS10",
+      "loja": "Outro: não especificada",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código genérico sem contexto de loja ou condições de uso",
+      "validadeAte": "2026-10-29T13:00:15.000Z",
+      "url": null
+    },
+    {
+      "codigo": "OFERTAS10",
       "loja": "Outro: não informada",
       "tipo": "pct",
       "valor": 10,
@@ -2715,6 +2727,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "11DO113N4SH050",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T13:04:47.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "11D011400FF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2727,15 +2751,15 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "BTS3V1D4",
+      "codigo": "START1NOWAF",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
+      "valor": 25,
+      "minimo": 119,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-28T13:01:15.000Z",
+      "validadeAte": "2026-10-29T13:01:36.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
