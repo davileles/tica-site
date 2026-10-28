@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T15:37:27.602Z",
+  "atualizadoEm": "2026-10-28T16:37:27.107Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -671,7 +671,7 @@
       "maximo": null,
       "limite": 150,
       "observacao": null,
-      "validadeAte": "2026-10-30T02:59:00.000Z",
+      "validadeAte": "2026-10-28T18:00:31.801Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1911,6 +1911,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-10-28T18:00:31.801Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FULLRESGATE2810",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1956,6 +1968,18 @@
       "limite": 30,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-10-29T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2016,6 +2040,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOCONSTRUIR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": null,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-29T16:20:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2100,6 +2136,18 @@
       "limite": 20,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-10-29T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OBRASEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-10-28T18:00:31.801Z",
       "url": "https://meli.la/2xystLt"
     },
     {
