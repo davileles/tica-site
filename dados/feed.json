@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-28T03:24:03.180Z",
+  "atualizadoEm": "2026-10-28T04:07:25.185Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36806",
+      "loja": "Shopee",
+      "titulo": "Kit com 6 Energético Monster Mango Loco Lata 473ml",
+      "link": "https://s.shopee.com.br/1qd9OSCmqb",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261x-ml4181gylhxh7e_tn",
+      "preco": 56.71,
+      "precoDe": 81.01,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T04:00:42.411Z"
+    },
     {
       "id": "36804",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:30:52.194Z"
-    },
-    {
-      "id": "35416",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Peças Naninha + Travesseiro Menino E Menina Para Bebe",
-      "link": "https://meli.la/12k35PH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_708208-MLB106299127642_022026-O.webp",
-      "preco": 29.25,
-      "precoDe": 39.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:27:01.118Z"
     }
   ]
 }
