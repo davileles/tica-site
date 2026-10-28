@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-28T12:18:50.957Z",
+  "atualizadoEm": "2026-10-28T12:37:25.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36871",
+      "loja": "Shopee",
+      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
+      "link": "https://s.shopee.com.br/60SiuNONoI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
+      "preco": 31.89,
+      "precoDe": 33.93,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T12:36:53.664Z"
+    },
+    {
+      "id": "36866",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
+      "link": "https://meli.la/2CNfb2o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
+      "preco": 515.7,
+      "precoDe": 999.98,
+      "desconto": 43,
+      "cupom": "VALETECH",
+      "enviadoEm": "2026-10-28T12:28:51.062Z"
+    },
+    {
+      "id": "36865",
+      "loja": "Amazon",
+      "titulo": "Colônia Refrescante Johnson's Baby, Lavanda, 400ml | Hipoalergênico, Fragrância Suave, Toque Refrescante",
+      "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GKnPu8VBL._SL400_.jpg",
+      "preco": 48.09,
+      "precoDe": 68.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T12:25:05.937Z"
+    },
+    {
+      "id": "36860",
+      "loja": "Amazon",
+      "titulo": "CAFÉ REGIÕES BRASILEIRAS SUL DE MINAS 250G",
+      "link": "https://www.amazon.com.br/dp/B07YCLVSY7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vZsboNv-L._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 23.5,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T12:21:25.238Z"
+    },
     {
       "id": "36850",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-10-24T21:23:53.760Z"
-    },
-    {
-      "id": "35447",
-      "loja": "Amazon",
-      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
-      "preco": 52.9,
-      "precoDe": 76.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T21:06:41.541Z"
-    },
-    {
-      "id": "35445",
-      "loja": "Shopee",
-      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
-      "link": "https://s.shopee.com.br/5LCwJDY1SY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
-      "preco": 22.49,
-      "precoDe": 77.55,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T21:00:52.276Z"
-    },
-    {
-      "id": "35443",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
-      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:46:17.161Z"
-    },
-    {
-      "id": "35442",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina D 1000ui 60 Caps Growth Supplements - Sem Sabor Sem Sabor",
-      "link": "https://meli.la/15BgqSP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727133-MLA116431896127_082026-F.jpg",
-      "preco": 29.79,
-      "precoDe": 35.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:44:59.066Z"
     }
   ]
 }
