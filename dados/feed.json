@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-28T11:37:25.392Z",
+  "atualizadoEm": "2026-10-28T12:07:25.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36846",
+      "loja": "Amazon",
+      "titulo": "Cerveja Guinness Draught 440ml",
+      "link": "https://www.amazon.com.br/dp/B07Y2BTQQT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41p+fr4OcrL._SL400_.jpg",
+      "preco": 23.99,
+      "precoDe": 34.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T12:00:08.370Z"
+    },
+    {
+      "id": "36843",
+      "loja": "Shopee",
+      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "link": "https://s.shopee.com.br/2qVh6q3hnL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
+      "preco": 38.99,
+      "precoDe": 129.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T11:59:10.328Z"
+    },
+    {
+      "id": "36842",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola De Água Elétrica Automática C/ Absorção De Água Branco",
+      "link": "https://meli.la/1omw1kY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729397-MLA114557456096_082026-F.jpg",
+      "preco": 44.61,
+      "precoDe": 189.98,
+      "desconto": 69,
+      "cupom": "COMPRANOMELI",
+      "enviadoEm": "2026-10-28T11:55:18.943Z"
+    },
+    {
+      "id": "36840",
+      "loja": "Amazon",
+      "titulo": "Kit Higiene Bucal",
+      "link": "https://www.amazon.com.br/dp/B0BDPGKWXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WDzdgZpAL._SL400_.jpg",
+      "preco": 27.9,
+      "precoDe": 42.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T11:45:39.575Z"
+    },
     {
       "id": "36835",
       "loja": "Shopee",
@@ -4023,18 +4071,6 @@
       "enviadoEm": "2026-10-26T11:49:52.570Z"
     },
     {
-      "id": "35755",
-      "loja": "Amazon",
-      "titulo": "Cerveja Guinness Draught 440ml",
-      "link": "https://www.amazon.com.br/dp/B07Y2BTQQT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41p+fr4OcrL._SL400_.jpg",
-      "preco": 27.9,
-      "precoDe": 34.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:30:58.375Z"
-    },
-    {
       "id": "35750",
       "loja": "Shopee",
       "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
@@ -5965,42 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-24T20:38:08.318Z"
-    },
-    {
-      "id": "35437",
-      "loja": "Amazon",
-      "titulo": "Azeite de oliva extra virgem, O-LIVE & Co, Chileno, vidro, 450ml | Blend das azeitonas Arbequina, Arbosana e Koroneiki, com sabor suave e notas frutadas e herbáceas",
-      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
-      "preco": 28.99,
-      "precoDe": 52.76,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:34:35.077Z"
-    },
-    {
-      "id": "35435",
-      "loja": "Mercado Livre",
-      "titulo": "Compressor De Ar Digital Pneu Calibrador Portátil Para Carro Moto Bike Sem Fio Mini Bomba De Ar Elétrico Tela Digital Led Pneus",
-      "link": "https://meli.la/11MjZBD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827531-MLA111356284440_052026-F.jpg",
-      "preco": 56,
-      "precoDe": 157.98,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:25:09.159Z"
-    },
-    {
-      "id": "35434",
-      "loja": "Amazon",
-      "titulo": "Ambersky Purificador de ar para casa, purificador de ar HEPA verdadeiro de até 2000 m² com sensor de qualidade do ar em tempo real, modo automático, modo de suspensão de 23 dB, fil",
-      "link": "https://www.amazon.com.br/dp/B0GFDDXKJV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iMKraCTjL._SL400_.jpg",
-      "preco": 214.14,
-      "precoDe": 233.13,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:21:00.459Z"
     }
   ]
 }
