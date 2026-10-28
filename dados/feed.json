@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-28T15:07:25.394Z",
+  "atualizadoEm": "2026-10-28T15:37:25.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37031",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Sem Lycra Stillge - R$ 63,90",
+      "link": "https://meli.la/1hjsUBD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624861-MLB116329533565_082026-P.webp",
+      "preco": 79.99,
+      "precoDe": 115.99,
+      "desconto": 14,
+      "cupom": "MODA2810",
+      "enviadoEm": "2026-10-28T15:30:12.924Z"
+    },
+    {
+      "id": "37027",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Caven 2.0 Puma",
+      "link": "https://meli.la/1aSSff3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652047-MLB72356338463_102023-P.webp",
+      "preco": 237,
+      "precoDe": 449.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T15:24:36.235Z"
+    },
+    {
+      "id": "37026",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/5VWSVj8VXe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 13.77,
+      "precoDe": 29.93,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T15:21:00.672Z"
+    },
     {
       "id": "37015",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-10-25T12:33:59.945Z"
-    },
-    {
-      "id": "35503",
-      "loja": "Mercado Livre",
-      "titulo": "Vinho Chileno Tinto Seco Reserva Casillero del Diablo Cabernet Sauvignon 375 ml",
-      "link": "https://meli.la/2hmxNG8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602596-MLA113704486344_072026-F.jpg",
-      "preco": 17.1,
-      "precoDe": 39.9,
-      "desconto": 43,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-25T12:29:45.209Z"
-    },
-    {
-      "id": "35499",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 17 Pro 256GB - Azul-profundo - Distribuidor Autorizado",
-      "link": "https://meli.la/1qUn1Sb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955993-MLA95356227225_102025-F.jpg",
-      "preco": 7999,
-      "precoDe": 11499,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T12:18:53.620Z"
-    },
-    {
-      "id": "35498",
-      "loja": "Shopee",
-      "titulo": "Blocos de montar infantil Brinquedo educativo Mini brinquedos Brinquedo",
-      "link": "https://s.shopee.com.br/113y9nSWCM",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1s-m4rmynogvubl03_tn",
-      "preco": 3.98,
-      "precoDe": 13.27,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T12:15:05.278Z"
     }
   ]
 }
