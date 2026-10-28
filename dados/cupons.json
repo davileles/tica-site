@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T17:37:27.434Z",
+  "atualizadoEm": "2026-10-28T18:07:27.353Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -663,18 +663,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVSECELULARES",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-10-28T18:00:31.801Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CELULARES2810",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -708,6 +696,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELITODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 80,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-10-29T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1911,18 +1911,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-10-28T18:00:31.801Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULLRESGATE2810",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2091,18 +2079,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJAS2710",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-28T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VALETECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2136,18 +2112,6 @@
       "limite": 20,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-10-29T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OBRASEFERRAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-10-28T18:00:31.801Z",
       "url": "https://meli.la/2xystLt"
     },
     {
