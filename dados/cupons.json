@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T19:37:27.779Z",
+  "atualizadoEm": "2026-10-28T20:07:27.464Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -747,6 +747,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "40TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-29T20:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PRECINHO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1272,6 +1284,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-29T12:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "Dois cupons válidos em produtos selecionados",
+      "validadeAte": "2026-10-29T20:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2256,18 +2280,6 @@
       "limite": null,
       "observacao": "Código genérico sem contexto de loja ou condições de uso",
       "validadeAte": "2026-10-29T13:00:15.000Z",
-      "url": null
-    },
-    {
-      "codigo": "OFERTAS10",
-      "loja": "Outro: não informada",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-28T19:43:25.000Z",
       "url": null
     },
     {
