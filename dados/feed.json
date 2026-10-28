@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-28T12:07:25.392Z",
+  "atualizadoEm": "2026-10-28T12:18:50.957Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36850",
+      "loja": "Shopee",
+      "titulo": "Máquina de Solda Inversora MMA 250A IGBT Portátil 110V ou 220V com Display Digital e Kit Completo",
+      "link": "https://s.shopee.com.br/AAIHqsnm13",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqo6x1rc17ggd2_tn",
+      "preco": 238.99,
+      "precoDe": 582.9,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T12:08:50.954Z"
+    },
+    {
+      "id": "36849",
+      "loja": "Mercado Livre",
+      "titulo": "Cortina Blackout Em Tecido 3x2,80 100% Corta Luz Veda Calor - R$ 76,99",
+      "link": "https://meli.la/2kjjAnH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874837-MLB80479392825_112024-P.webp",
+      "preco": 57.739999999999995,
+      "precoDe": 85.99,
+      "desconto": 10,
+      "cupom": "OFFAQUI",
+      "enviadoEm": "2026-10-28T12:07:40.349Z"
+    },
     {
       "id": "36846",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-10-24T20:44:59.066Z"
-    },
-    {
-      "id": "35441",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Bermuda Shorts Tactel Sandrini Elastano Academia Praia",
-      "link": "https://meli.la/2jurHtz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740026-MLB86614660221_062025-O.webp",
-      "preco": 59.99,
-      "precoDe": 124.99,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:41:38.750Z"
-    },
-    {
-      "id": "35438",
-      "loja": "Shopee",
-      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "link": "https://s.shopee.com.br/6Am3H32rz1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
-      "preco": 31.99,
-      "precoDe": 58.16,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T20:38:08.318Z"
     }
   ]
 }
