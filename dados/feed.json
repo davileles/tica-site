@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-28T13:37:25.393Z",
+  "atualizadoEm": "2026-10-28T14:07:25.393Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36980",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 43.9,
+      "precoDe": 71.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T14:06:19.001Z"
+    },
+    {
+      "id": "36978",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 77.9,
+      "precoDe": 126.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T13:59:23.673Z"
+    },
+    {
+      "id": "36969",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Taças Bowls De Vidro Para Sobremesas E Sorvete 6 Unidades - R$ 23,90",
+      "link": "https://meli.la/2sBnh7i",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-P.webp",
+      "preco": 23.9,
+      "precoDe": 39.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T13:53:57.766Z"
+    },
+    {
+      "id": "36968",
+      "loja": "Amazon",
+      "titulo": "Vinho Tinto Trapiche Roble Pinot Noir, 750ml",
+      "link": "https://www.amazon.com.br/dp/B004B26I5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21zCP1L8aZL._SL400_.jpg",
+      "preco": 47.99,
+      "precoDe": 84.62,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T13:49:57.562Z"
+    },
+    {
+      "id": "36966",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/60Sj0K2v0R",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
+      "preco": 28.98,
+      "precoDe": 60.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T13:48:32.516Z"
+    },
     {
       "id": "36960",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-10-25T11:07:42.465Z"
-    },
-    {
-      "id": "35477",
-      "loja": "Amazon",
-      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
-      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
-      "preco": 53.8,
-      "precoDe": 59.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T11:04:14.872Z"
-    },
-    {
-      "id": "35476",
-      "loja": "Shopee",
-      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
-      "link": "https://s.shopee.com.br/6q1l1oRGP8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
-      "preco": 199.99,
-      "precoDe": 307.68,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T11:03:13.567Z"
-    },
-    {
-      "id": "35466",
-      "loja": "Amazon",
-      "titulo": "el Jimador Reposado Tequila 750 mL",
-      "link": "https://www.amazon.com.br/dp/B07HM7PJFX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DxXjTZelL._SL400_.jpg",
-      "preco": 114.99,
-      "precoDe": 129.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T23:00:09.318Z"
-    },
-    {
-      "id": "35464",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "link": "https://s.shopee.com.br/2BFufDHQ8w",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
-      "preco": 51.9,
-      "precoDe": 140.27,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T22:54:46.237Z"
-    },
-    {
-      "id": "35462",
-      "loja": "Amazon",
-      "titulo": "Adega Brastemp 12 Garrafas com Painel Touch - BZC12BE",
-      "link": "https://www.amazon.com.br/dp/B07JP5KKK8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YHyR34ZKL._SL400_.jpg",
-      "preco": 799,
-      "precoDe": 1169,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T22:33:05.420Z"
     }
   ]
 }
