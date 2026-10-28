@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-28T14:21:33.370Z",
+  "atualizadoEm": "2026-10-28T14:37:25.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36999",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/7AegRby96y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T14:34:42.024Z"
+    },
+    {
+      "id": "36997",
+      "loja": "Amazon",
+      "titulo": "Larios Gin Espanhol Dry Original 700ml",
+      "link": "https://www.amazon.com.br/dp/B00XUNT40Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413omRYNgDL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 72.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T14:27:22.463Z"
+    },
     {
       "id": "36984",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-10-25T11:28:01.140Z"
-    },
-    {
-      "id": "35484",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51KK+Ampn6L._SL400_.jpg",
-      "preco": 213.43,
-      "precoDe": 235.87,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T11:26:48.358Z"
-    },
-    {
-      "id": "35483",
-      "loja": "Shopee",
-      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
-      "link": "https://s.shopee.com.br/4qGgfiUcsZ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
-      "preco": 32.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T11:25:57.745Z"
     }
   ]
 }
