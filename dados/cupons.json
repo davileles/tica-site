@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T20:07:27.464Z",
+  "atualizadoEm": "2026-10-28T20:37:27.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -715,7 +715,7 @@
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 80,
-      "minimo": 899,
+      "minimo": 499,
       "maximo": null,
       "limite": 80,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
@@ -1284,18 +1284,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-29T12:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 35,
-      "observacao": "Dois cupons válidos em produtos selecionados",
-      "validadeAte": "2026-10-29T20:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
