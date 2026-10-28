@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T19:07:29.207Z",
+  "atualizadoEm": "2026-10-28T19:37:27.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -205,6 +205,18 @@
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
+      "codigo": "ESQUENTABF",
+      "loja": "Centauro",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "CUPOMDESCONTO70",
@@ -637,6 +649,18 @@
       "observacao": null,
       "validadeAte": "2026-10-30T23:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "DESCONTOLG15",
+      "loja": "LG",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=33061&id=1207116"
     },
     {
       "codigo": "MOVEIS200",
@@ -2880,6 +2904,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T13:04:47.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "3SQU3NT411D011",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T19:12:51.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
