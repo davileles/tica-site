@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-28T20:07:25.579Z",
+  "atualizadoEm": "2026-10-28T20:37:25.581Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37312",
+      "loja": "Mercado Livre",
+      "titulo": "Headset Sem Fio Havit Fuxi H6",
+      "link": "https://meli.la/2KFW3qW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_996042-MLB117326903060_102026-P.webp",
+      "preco": 159,
+      "precoDe": 237,
+      "desconto": 16,
+      "cupom": "40TODOSITE",
+      "enviadoEm": "2026-10-28T20:35:32.098Z"
+    },
+    {
+      "id": "37302",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 5 Camisetas Masculinas Básicas Slim Hering 4fv31den",
+      "link": "https://meli.la/1LMsrPh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881097-MLB88020664835_072025-P.webp",
+      "preco": 75.6,
+      "precoDe": 249.99,
+      "desconto": 57,
+      "cupom": "TODOSITE2810",
+      "enviadoEm": "2026-10-28T20:32:11.962Z"
+    },
+    {
+      "id": "37301",
+      "loja": "Amazon",
+      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
+      "preco": 82.33,
+      "precoDe": 140.45,
+      "desconto": 31,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-28T20:28:15.201Z"
+    },
+    {
+      "id": "37297",
+      "loja": "Mercado Livre",
+      "titulo": "Mercusys MR30G Roteador Wifi5 AC1200 Gigabit Banda Dupla por TP-Link",
+      "link": "https://meli.la/1LinC4z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665973-MLA95688273664_102025-F.jpg",
+      "preco": 76.61,
+      "precoDe": 199,
+      "desconto": 45,
+      "cupom": "TODOSITE2810",
+      "enviadoEm": "2026-10-28T20:27:20.291Z"
+    },
+    {
+      "id": "37294",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
+      "link": "https://meli.la/1aRgNh5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
+      "preco": 89.9,
+      "precoDe": 259.9,
+      "desconto": 52,
+      "cupom": "TODOSITE2810",
+      "enviadoEm": "2026-10-28T20:23:17.410Z"
+    },
+    {
+      "id": "37291",
+      "loja": "Shopee",
+      "titulo": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
+      "link": "https://s.shopee.com.br/9KjBONDD9u",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz575a3eoft2f3_tn",
+      "preco": 52.89,
+      "precoDe": 72.45,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T20:19:29.411Z"
+    },
+    {
+      "id": "37290",
+      "loja": "Amazon",
+      "titulo": "Câmera instax mini 13 Dreamy Purple",
+      "link": "https://www.amazon.com.br/dp/B0G5NZ82TJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Y2w0pcFUL._SL400_.jpg",
+      "preco": 468.35,
+      "precoDe": 679,
+      "desconto": 19,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-28T20:15:50.576Z"
+    },
+    {
+      "id": "37289",
+      "loja": "Mercado Livre",
+      "titulo": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor - R$ 124,90",
+      "link": "https://meli.la/25iB54X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908822-MLA99935149295_112025-P.webp",
+      "preco": 258.46,
+      "precoDe": 334.9,
+      "desconto": 12,
+      "cupom": "TODOSITE2810",
+      "enviadoEm": "2026-10-28T20:12:35.414Z"
+    },
     {
       "id": "37287",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-25T18:18:41.695Z"
-    },
-    {
-      "id": "35613",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Rodinha Gatinho Holográfico Infantil Meninas Escolar",
-      "link": "https://meli.la/1CGWPxf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632126-MLA117701131565_092026-F.jpg",
-      "preco": 157.68,
-      "precoDe": 297.21,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T18:14:56.974Z"
-    },
-    {
-      "id": "35612",
-      "loja": "Amazon",
-      "titulo": "Camiseta Puma Essentials No. 1 Logo Masculina",
-      "link": "https://www.amazon.com.br/dp/B0D2RHQ2C5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21Ck4O3OUKL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 109.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T18:10:59.341Z"
-    },
-    {
-      "id": "35610",
-      "loja": "Shopee",
-      "titulo": "Berço Cercado Portátil para Bebê com Rodinhas e Tela Respirável, Cama Infantil Dobrável e Segura para Recém-Nascido",
-      "link": "https://s.shopee.com.br/20wVjQR71N",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mt0gqvhqy6mf62_tn",
-      "preco": 299,
-      "precoDe": 398.67,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T18:03:00.188Z"
-    },
-    {
-      "id": "35608",
-      "loja": "Shopee",
-      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
-      "link": "https://s.shopee.com.br/5q9EILXQ12",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
-      "preco": 35.91,
-      "precoDe": 39.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T17:59:15.062Z"
-    },
-    {
-      "id": "35607",
-      "loja": "Shopee",
-      "titulo": "Lenço Umedecido Cuidado e Carinho 576UN",
-      "link": "https://s.shopee.com.br/50a7IfvpDp",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g8-mf1ip24v28sqd3_tn",
-      "preco": 45.9,
-      "precoDe": 90,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T17:55:19.295Z"
-    },
-    {
-      "id": "35606",
-      "loja": "Shopee",
-      "titulo": "Sapato Mary Jane Infantil Menina Blogueirinha Tamanho 22 ao 32 Sapekitos",
-      "link": "https://s.shopee.com.br/2qVciQoXOS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj48jrlidrsy63_tn",
-      "preco": 58.9,
-      "precoDe": 89.24,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T17:51:31.412Z"
-    },
-    {
-      "id": "35605",
-      "loja": "Shopee",
-      "titulo": "KIT Camisola Amamentação Maternidade e Pós Parto + Robe em Microfibra com Renda.",
-      "link": "https://s.shopee.com.br/113yWS200a",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtgdnkwy9dv79_tn",
-      "preco": 60.98,
-      "precoDe": 99.97,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T17:47:41.897Z"
-    },
-    {
-      "id": "35603",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
-      "preco": 89.25,
-      "precoDe": 140.45,
-      "desconto": 25,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-25T17:43:45.398Z"
     }
   ]
 }
