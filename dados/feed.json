@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-28T22:37:25.581Z",
+  "atualizadoEm": "2026-10-28T22:42:14.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37421",
+      "loja": "Mercado Livre",
+      "titulo": "Hiper Mass 1kg Growth Supplements - Sabor Chocolate",
+      "link": "https://meli.la/2uRweh7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713346-MLA107082143625_022026-F.jpg",
+      "preco": 59.92,
+      "precoDe": 79.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:40:47.270Z"
+    },
     {
       "id": "37413",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-25T20:42:33.609Z"
-    },
-    {
-      "id": "35671",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto de 10 peças para o seu bebê menino, com estampas super divertidas, ideal para os pequenos de 1 a 3 meses.",
-      "link": "https://meli.la/1trNikZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775419-MLB113475852256_072026-O.webp",
-      "preco": 71,
-      "precoDe": 105.57,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:38:57.014Z"
     }
   ]
 }
