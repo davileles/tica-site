@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-28T17:07:25.395Z",
+  "atualizadoEm": "2026-10-28T17:37:25.396Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37137",
+      "loja": "Shopee",
+      "titulo": "Saco Plástico PP Transparente Incolor Brilhante Embalagem Kit 50 Celofane Unidades Diversas Medidas",
+      "link": "https://s.shopee.com.br/AAIIDDILCO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg0ecfh7hyiv98_tn",
+      "preco": 6.98,
+      "precoDe": 11.63,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T17:36:56.464Z"
+    },
+    {
+      "id": "37136",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Corporal em Loção Neutrogena Sun Fresh, FPS 70, 200ml | Embalagem família",
+      "link": "https://www.amazon.com.br/dp/B079VVY5FG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31gxbgqeHVL._SL400_.jpg",
+      "preco": 68.84,
+      "precoDe": 113.99,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T17:33:01.037Z"
+    },
+    {
+      "id": "37133",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Quencher Black 2.0 887ml",
+      "link": "https://www.amazon.com.br/dp/B0CZMDQVFJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kHtGgAK0L._SL400_.jpg",
+      "preco": 152.55,
+      "precoDe": 319,
+      "desconto": 44,
+      "cupom": "STANLEY15",
+      "enviadoEm": "2026-10-28T17:29:17.048Z"
+    },
+    {
+      "id": "37125",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/7Aegd3sePL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 121.5,
+      "precoDe": 270,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T17:28:10.102Z"
+    },
+    {
+      "id": "37122",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Calças Bebê 1 2 3 Anos Caneladas Frufru na Barra e Laço na Cintura",
+      "link": "https://s.shopee.com.br/1W0JsBd8Za",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820mh-mtfolxils1kz57_tn",
+      "preco": 34.9,
+      "precoDe": 70,
+      "desconto": 43,
+      "cupom": "5D3D3SC0NT0",
+      "enviadoEm": "2026-10-28T17:24:08.176Z"
+    },
+    {
+      "id": "37113",
+      "loja": "Shopee",
+      "titulo": "Micro-ondas 20L Branco Porta Preta Minuto Fácil Midea",
+      "link": "https://s.shopee.com.br/AAIIAJC3xm",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-mutjxunx67eo73_tn",
+      "preco": 329,
+      "precoDe": 518.18,
+      "desconto": 23,
+      "cupom": "3C0N0M1Z370",
+      "enviadoEm": "2026-10-28T17:15:35.914Z"
+    },
+    {
+      "id": "37112",
+      "loja": "Shopee",
+      "titulo": "Kit 30 Centros De Mesa Bebê MENINO Ursinho Na Lua Decoração Festa Infantil MDF",
+      "link": "https://s.shopee.com.br/AAIIAl59UR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mqhld9cfgyyo0c_tn",
+      "preco": 55.5,
+      "precoDe": 79.61,
+      "desconto": 24,
+      "cupom": "5D3D3SC0NT0",
+      "enviadoEm": "2026-10-28T17:11:40.430Z"
+    },
+    {
+      "id": "37110",
+      "loja": "Shopee",
+      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
+      "link": "https://s.shopee.com.br/1143Fr6osR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lqywie4_tn",
+      "preco": 67.99,
+      "precoDe": 79.99,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T17:07:42.861Z"
+    },
     {
       "id": "37106",
       "loja": "Mercado Livre",
@@ -37,18 +133,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-28T16:59:21.287Z"
-    },
-    {
-      "id": "37097",
-      "loja": "Shopee",
-      "titulo": "Micro-ondas 20L Branco Porta Preta Minuto Fácil Midea",
-      "link": "https://s.shopee.com.br/AAIIAJC3xm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-mutjxunx67eo73_tn",
-      "preco": 329,
-      "precoDe": 518.18,
-      "desconto": 23,
-      "cupom": "3C0N0M1Z370",
-      "enviadoEm": "2026-10-28T16:55:43.671Z"
     },
     {
       "id": "37093",
@@ -5917,90 +6001,6 @@
       "desconto": null,
       "cupom": "PRECINHO",
       "enviadoEm": "2026-10-25T15:50:13.793Z"
-    },
-    {
-      "id": "35555",
-      "loja": "Mercado Livre",
-      "titulo": "Pote Marmita Infantil Rosa 2 Andares 400ml Com Talheres Jacki Design",
-      "link": "https://meli.la/15jAsET",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681517-MLA98821931574_112025-F.jpg",
-      "preco": 30.23,
-      "precoDe": 45,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:46:28.437Z"
-    },
-    {
-      "id": "35553",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear Definição Natural 1kg",
-      "link": "https://s.shopee.com.br/4B109ry9Py",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
-      "preco": 37.5,
-      "precoDe": 42.13,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:42:51.699Z"
-    },
-    {
-      "id": "35552",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsas Maternidade Média e Pequena Personalizadas com Nome - Bege e Verde Musgo",
-      "link": "https://meli.la/2Y3jwU5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889784-MLB109638029604_042026-O.webp",
-      "preco": 110,
-      "precoDe": 192,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:39:06.487Z"
-    },
-    {
-      "id": "35548",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Escolar Costas Infantil Creche Bichinhos Divertida Cor Rosa",
-      "link": "https://meli.la/1zfLALC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829346-MLA113036969069_062026-F.jpg",
-      "preco": 76.61,
-      "precoDe": 138,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:35:44.084Z"
-    },
-    {
-      "id": "35547",
-      "loja": "Mercado Livre",
-      "titulo": "Romper Moranguinho Mesversario Morango",
-      "link": "https://meli.la/23SHHLu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_808558-MLB109603229364_042026-O.webp",
-      "preco": 50,
-      "precoDe": 55,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:32:10.993Z"
-    },
-    {
-      "id": "35546",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador Gbh 2-24 D 820W 220V Com Maleta",
-      "link": "https://www.amazon.com.br/dp/B076KRB8LP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
-      "preco": 673.8000000000001,
-      "precoDe": 899,
-      "desconto": 12,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-25T15:28:20.714Z"
-    },
-    {
-      "id": "35544",
-      "loja": "Shopee",
-      "titulo": "Sandália Bebê Menino Joaquim Sapatinho Infantil Franciscana Papete Caramelo Confortável Verão",
-      "link": "https://s.shopee.com.br/3qO9kBQLct",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hh-me44gej6zevb34_tn",
-      "preco": 44.99,
-      "precoDe": 59.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:23:32.914Z"
     }
   ]
 }
