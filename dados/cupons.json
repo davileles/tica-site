@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T14:07:27.312Z",
+  "atualizadoEm": "2026-10-28T14:21:35.840Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2808,6 +2808,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T13:23:38.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ESF3R42810SHOPB",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Limitado a 1 uso por CPF e 400 utilizações. Válido até 28/10.",
+      "validadeAte": "2026-10-29T14:09:44.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
