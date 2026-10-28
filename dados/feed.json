@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-28T14:37:25.394Z",
+  "atualizadoEm": "2026-10-28T14:55:26.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37005",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Camisetas Masculinas Polo Wear Sortido",
+      "link": "https://meli.la/1HPSE6B",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864609-MLB104431005254_012026-P.webp",
+      "preco": 115.99,
+      "precoDe": 239.99,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T14:45:26.772Z"
+    },
     {
       "id": "36999",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-10-25T11:48:50.237Z"
-    },
-    {
-      "id": "35485",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51sVgqfGx5L._SL400_.jpg",
-      "preco": 216.88,
-      "precoDe": 235.87,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T11:28:01.140Z"
     }
   ]
 }
