@@ -339,6 +339,7 @@ Cron do GitHub está degradado (atrasa 2–4 h): disparo real vem do Railway; cr
 
 ### 4.8 `tica-site`, `tsp-site`, `davileles-site`
 - `tica-site` (`ticapromos.com.br`) é o único site ativo; `dados/feed.json` e `dados/cupons.json` são publicados pelo `feed-publico.js` — **ninguém edita `dados/` à mão**. SEO: `canonical`/`og:url` para `https://ticapromos.com.br/`, `robots.txt` e `sitemap.xml` na raiz.
+- **Blog** (`/blog/`, out/2026): um produto por dia com mini-review. Fonte da verdade `blog/posts.json`; `node blog/gerar.js` regera `blog/index.html`, `blog/<slug>/index.html` e o `sitemap.xml` (pastas de post são descartáveis). Esquema e regras de texto em `blog/README.md`. Publicação diária por tarefa agendada do Claude ("Blog Tica Promos — post do dia", ~8h36 SP): escolhe o produto no `dados/feed.json`, pesquisa na web (WebSearch → WebFetch; curl em loja é bloqueado), acrescenta ao `posts.json`, gera e faz push na `main`. Link "Blog" no topo e no rodapé do `index.html`.
 - `tsp-site` (out/2026): domínio `tudosobrepromos.com` **não renovado**. `index.html` e `404.html` só redirecionam para `ticapromos.com.br` (canonical + refresh 0 + JS repassando `?utm` e `#`); `dados/` congelado. Quando o domínio expirar: apagar `CNAME` e arquivar o repo.
 - `davileles-site` (`davileles.com`) lê dados por HTTP de `ticapromos.com.br/dados/` (`BASES_DADOS`).
 

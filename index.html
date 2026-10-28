@@ -96,6 +96,9 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .marca small{font-size:9px;font-weight:700;letter-spacing:2.2px;color:var(--muted-2);
   text-transform:uppercase;margin-top:4px}
 .topo-acoes{display:flex;align-items:center;gap:8px}
+.lnk-topo{font-size:12px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);
+  padding:9px 12px;border-radius:999px;transition:color .15s,background .15s}
+.lnk-topo:hover{color:var(--text);background:var(--surface-2)}
 .btn-tema{width:36px;height:36px;border-radius:50%;border:1px solid var(--border);
   display:grid;place-items:center;font-size:14px;line-height:1;transition:border-color .15s,background .15s}
 .btn-tema:hover{border-color:var(--border-forte);background:var(--surface-2)}
@@ -249,6 +252,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 @media (max-width:560px){
   .topo-in{height:56px}
   .btn-grupo{padding:10px 14px;font-size:11px}
+  .lnk-topo{padding:8px 9px;font-size:11px}
   .grade{grid-template-columns:repeat(auto-fill,minmax(158px,1fr));gap:11px}
   .tickets{grid-template-columns:1fr}
 }
@@ -270,6 +274,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       </span>
     </a>
     <div class="topo-acoes">
+      <a class="lnk-topo" href="/blog/">Blog</a>
       <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
       <a class="btn-grupo" id="cta-topo" href="https://ir.ticapromos.com.br/geral" target="_blank" rel="noopener">Entrar no grupo</a>
     </div>
@@ -324,6 +329,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       Como Associado Amazon, recebemos por compras qualificadas.
       <br/>
       <a href="https://ir.ticapromos.com.br/geral" target="_blank" rel="noopener">Entrar no grupo do WhatsApp</a>
+      · <a href="/blog/">Blog: um produto por dia, explicado</a>
     </p>
     <div class="assina">Tica Promos · o Tico tica ✔️</div>
   </div>
