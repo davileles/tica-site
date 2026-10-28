@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-28T04:07:25.185Z",
+  "atualizadoEm": "2026-10-28T11:07:25.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36817",
+      "loja": "Amazon",
+      "titulo": "Frigideira Rochedo Stone Pro 24cm Preto com Efeito Pedra e Antiaderente Minerium, Alta Resistência e Durabilidade, Cabos Ergonômicos para Maior Segurança e Base Limpa Fácil",
+      "link": "https://www.amazon.com.br/dp/B0DKG4VZ3Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21sFda6XDLL._SL400_.jpg",
+      "preco": 44.64,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T11:06:33.322Z"
+    },
+    {
+      "id": "36816",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
+      "link": "https://s.shopee.com.br/1qd9rI7knv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
+      "preco": 19.9,
+      "precoDe": 49.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T11:02:59.877Z"
+    },
+    {
+      "id": "36815",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel's Honey Tennessee Whiskey 700ml",
+      "link": "https://www.amazon.com.br/dp/B0089E2OJE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Rx4FHhdxL._SL400_.jpg",
+      "preco": 96.64,
+      "precoDe": 144.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T10:58:24.209Z"
+    },
     {
       "id": "36806",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:42:23.552Z"
-    },
-    {
-      "id": "35423",
-      "loja": "Shopee",
-      "titulo": "Macacão Bebê Curto Romper Estampado 100% Algodão RN ao 24 Meses Unissex Menino Menina Botão Pressão",
-      "link": "https://s.shopee.com.br/1BNNFrGhAp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mulag61jz6rla7_tn",
-      "preco": 36.48,
-      "precoDe": 49.97,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:38:39.936Z"
-    },
-    {
-      "id": "35419",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Pampers, Aroma de Aloe Vera 12 pacotes em total 576 Unidades",
-      "link": "https://meli.la/1yg8gv5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804658-MLA99451702072_112025-F.jpg",
-      "preco": 99.43,
-      "precoDe": 134.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:34:53.752Z"
-    },
-    {
-      "id": "35418",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M 148 Unidades",
-      "link": "https://meli.la/15ceK3v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989179-MLA116258420400_092026-F.jpg",
-      "preco": 140.95,
-      "precoDe": 178.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:30:52.194Z"
     }
   ]
 }
