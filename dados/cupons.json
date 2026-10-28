@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T11:07:27.281Z",
+  "atualizadoEm": "2026-10-28T11:44:19.290Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2040,6 +2040,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-28T19:43:25.000Z",
+      "url": null
+    },
+    {
+      "codigo": "SVPDAY",
+      "loja": "Outro: Shell Box",
+      "tipo": "reais",
+      "valor": 0.1,
+      "minimo": null,
+      "maximo": null,
+      "limite": 7,
+      "observacao": "Desconto de R$0,10 por litro em abastecimento com Shell V-Power (Gasolina, Racing ou Etanol). Desconto máximo de R$7,00 ao atingir 70 litros. Válido até hoje ou até 100.000 ativações.",
+      "validadeAte": "2026-10-29T11:41:39.000Z",
       "url": null
     },
     {
