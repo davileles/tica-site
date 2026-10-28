@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-28T00:05:33.688Z",
+  "atualizadoEm": "2026-10-28T03:24:03.180Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "36804",
+      "loja": "Amazon",
+      "titulo": "Calamares Vinho Verde Português Branco 750Ml",
+      "link": "https://www.amazon.com.br/dp/B0BTDMWBDC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315Owndj3tL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 57.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T03:14:03.172Z"
+    },
     {
       "id": "36796",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-10-24T19:27:01.118Z"
-    },
-    {
-      "id": "35415",
-      "loja": "Shopee",
-      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
-      "link": "https://s.shopee.com.br/80DhNHwozN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
-      "preco": 39.99,
-      "precoDe": 49.37,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-24T19:23:12.829Z"
     }
   ]
 }
