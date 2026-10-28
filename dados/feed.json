@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-28T22:42:14.059Z",
+  "atualizadoEm": "2026-10-28T23:07:45.122Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37434",
+      "loja": "Amazon",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
+      "preco": 191,
+      "precoDe": 475.22,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:57:45.116Z"
+    },
+    {
+      "id": "37433",
+      "loja": "Shopee",
+      "titulo": "Porta Frios Duplo Preto para Presunto e Queijo Com Fundo Removível Para Conservar e Organizar a Geladeira Hermetico",
+      "link": "https://s.shopee.com.br/40hfEGNGXi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ml6ctmoc7ojo37_tn",
+      "preco": 17.7,
+      "precoDe": 17.88,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:56:37.098Z"
+    },
+    {
+      "id": "37431",
+      "loja": "Amazon",
+      "titulo": "Kit Perfume Masculino Hugo Boss Bottled Parfum, Amadeirado Âmbar, 3 Itens | Eau de Parfum 100ml, Itens de 100ml e 75ml",
+      "link": "https://www.amazon.com.br/dp/B0FT5XQVRC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Pn16MxOGL._SL400_.jpg",
+      "preco": 479.71,
+      "precoDe": 859,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:52:43.472Z"
+    },
+    {
+      "id": "37430",
+      "loja": "Amazon",
+      "titulo": "Gin Beefeater London Dry - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
+      "preco": 77.79,
+      "precoDe": 119.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:48:44.138Z"
+    },
+    {
+      "id": "37429",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Furadeira e Parafusadeira de Impacto à Bateria 20V BCD704C1 110V",
+      "link": "https://www.amazon.com.br/dp/B083ZZ1RV2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BiE7GwfGL._SL400_.jpg",
+      "preco": 339.15,
+      "precoDe": 499,
+      "desconto": 20,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-28T22:47:24.788Z"
+    },
+    {
+      "id": "37428",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelete rompedor GBH 185-LI 18V Brushless 2 baterias, em maleta",
+      "link": "https://www.amazon.com.br/dp/B0CJH5MM1T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HcqHLvxbL._SL400_.jpg",
+      "preco": 1847.9,
+      "precoDe": 2461.9,
+      "desconto": 12,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-28T22:46:11.755Z"
+    },
+    {
+      "id": "37427",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 136.9,
+      "precoDe": 189.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:45:20.428Z"
+    },
+    {
+      "id": "37426",
+      "loja": "Amazon",
+      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410UriYRE2L._SL400_.jpg",
+      "preco": 419,
+      "precoDe": 1199.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T22:44:21.770Z"
+    },
     {
       "id": "37421",
       "loja": "Mercado Livre",
@@ -157,18 +253,6 @@
       "desconto": 23,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-28T22:07:33.117Z"
-    },
-    {
-      "id": "37393",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete rompedor GBH 185-LI 18V Brushless 2 baterias, em maleta",
-      "link": "https://www.amazon.com.br/dp/B0CJH5MM1T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HcqHLvxbL._SL400_.jpg",
-      "preco": 1847.9,
-      "precoDe": 2461.9,
-      "desconto": 12,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-28T22:06:44.217Z"
     },
     {
       "id": "37392",
@@ -5917,90 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-10-25T21:08:00.150Z"
-    },
-    {
-      "id": "35682",
-      "loja": "Shopee",
-      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
-      "link": "https://s.shopee.com.br/50a7VNlYyO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
-      "preco": 54.5,
-      "precoDe": 78.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T21:01:27.887Z"
-    },
-    {
-      "id": "35681",
-      "loja": "Amazon",
-      "titulo": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0051LRFB0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+psDcHE3L._SL400_.jpg",
-      "preco": 142,
-      "precoDe": 243.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:58:05.083Z"
-    },
-    {
-      "id": "35679",
-      "loja": "Shopee",
-      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
-      "link": "https://s.shopee.com.br/40haJEARXA",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
-      "preco": 27.89,
-      "precoDe": 32.81,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:56:48.747Z"
-    },
-    {
-      "id": "35678",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Bluetooth Àprova D&#x27;água Com 50h Bateria Inova",
-      "link": "https://meli.la/14nguU7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731825-MLB109751863746_042026-O.webp",
-      "preco": 56.37,
-      "precoDe": 90.8,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:53:11.189Z"
-    },
-    {
-      "id": "35677",
-      "loja": "Shopee",
-      "titulo": "Sunga Infantil 1, 2 ou 3 uni Boxer Menino Estampada Dinossauro Tubarão Caranguejo Praia Piscina Sortidas",
-      "link": "https://s.shopee.com.br/40haIptwdm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt143i8d6ryd16_tn",
-      "preco": 29,
-      "precoDe": 32.95,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:49:41.073Z"
-    },
-    {
-      "id": "35675",
-      "loja": "Shopee",
-      "titulo": "Calçado Infantil Tipo Meia Antiderrapante Bebê Menina Confortável Flexível",
-      "link": "https://s.shopee.com.br/7VHST1M8yZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvlt7ongcm0290_tn",
-      "preco": 32.99,
-      "precoDe": 40.23,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:46:11.102Z"
-    },
-    {
-      "id": "35673",
-      "loja": "Mercado Livre",
-      "titulo": "Macacão Bebe Estampado Fresquinho Zíper E Vira Pé Algodão",
-      "link": "https://meli.la/2p6VXDV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994530-MLB104341219254_012026-O.webp",
-      "preco": 28.8,
-      "precoDe": 39.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T20:42:33.609Z"
     }
   ]
 }
