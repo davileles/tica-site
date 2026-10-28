@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T03:07:25.614Z",
+  "atualizadoEm": "2026-10-28T11:07:27.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1834,7 +1834,7 @@
       "minimo": 119,
       "maximo": null,
       "limite": 40,
-      "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-29T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2616,6 +2616,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T03:04:25.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CMPR7X11AO",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T11:00:49.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
