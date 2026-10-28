@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-28T22:37:27.502Z",
+  "atualizadoEm": "2026-10-28T23:07:46.827Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "AMAZON15VEM",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 60,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-29T23:00:12.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "ESTILO15",
       "loja": "ASICS",
@@ -612,6 +624,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "KORUJAO",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
