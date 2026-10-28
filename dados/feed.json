@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-28T16:37:25.394Z",
+  "atualizadoEm": "2026-10-28T17:07:25.395Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37106",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Puma Térmica Manga Longa Proteção Uv 50+ Masculina - R$ 116,88",
+      "link": "https://meli.la/2K5zacV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831367-MLB116656036404_092026-P.webp",
+      "preco": 93.5,
+      "precoDe": 377.03,
+      "desconto": 69,
+      "cupom": "MODA",
+      "enviadoEm": "2026-10-28T17:04:12.128Z"
+    },
+    {
+      "id": "37104",
+      "loja": "Amazon",
+      "titulo": "Mateus Rose Vinho 750Ml",
+      "link": "https://www.amazon.com.br/dp/B001TP8O4E?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b8B+ow-GL._SL400_.jpg",
+      "preco": 58.9,
+      "precoDe": 65.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T17:00:19.115Z"
+    },
+    {
+      "id": "37103",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Fire 700mL",
+      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
+      "preco": 85.44,
+      "precoDe": 144.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-28T16:59:21.287Z"
+    },
+    {
+      "id": "37097",
+      "loja": "Shopee",
+      "titulo": "Micro-ondas 20L Branco Porta Preta Minuto Fácil Midea",
+      "link": "https://s.shopee.com.br/AAIIAJC3xm",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825am-mutjxunx67eo73_tn",
+      "preco": 329,
+      "precoDe": 518.18,
+      "desconto": 23,
+      "cupom": "3C0N0M1Z370",
+      "enviadoEm": "2026-10-28T16:55:43.671Z"
+    },
+    {
+      "id": "37093",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Peças Conjunto de Bebê Menina Menino e Neutro Infantil Boddy Manga Longa e Calça",
+      "link": "https://s.shopee.com.br/2LZQpjoj5s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnkcrqavm3us10_tn",
+      "preco": 97.19,
+      "precoDe": 179.69,
+      "desconto": 32,
+      "cupom": "START1NOWAF",
+      "enviadoEm": "2026-10-28T16:52:01.277Z"
+    },
+    {
+      "id": "37086",
+      "loja": "Shopee",
+      "titulo": "Número de LED Neon - Painel 50cm Acrílico Decoração Festa Aniversário Números 0 /9 com base",
+      "link": "https://s.shopee.com.br/2LZQpSmaVo",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bc-mtnz0ofpxzpmb0_tn",
+      "preco": 54.13,
+      "precoDe": 79.91,
+      "desconto": 26,
+      "cupom": "5D3D3SC0NT0",
+      "enviadoEm": "2026-10-28T16:42:45.539Z"
+    },
+    {
+      "id": "37084",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível Liso Cores Neutras Sortidas",
+      "link": "https://s.shopee.com.br/8VA4AXMhsZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mtjmffjesl4w4e_tn",
+      "preco": 74.9,
+      "precoDe": 128.87,
+      "desconto": 38,
+      "cupom": "5D3D3SC0NT0",
+      "enviadoEm": "2026-10-28T16:38:53.740Z"
+    },
     {
       "id": "37077",
       "loja": "Shopee",
@@ -4623,18 +4707,6 @@
       "enviadoEm": "2026-10-26T11:03:27.921Z"
     },
     {
-      "id": "35735",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 700mL",
-      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
-      "preco": 85.44,
-      "precoDe": 144.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T10:59:17.779Z"
-    },
-    {
       "id": "35722",
       "loja": "Amazon",
       "titulo": "Whisky Johnnie Walker Blonde 750ml",
@@ -5929,78 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-10-25T15:23:32.914Z"
-    },
-    {
-      "id": "35542",
-      "loja": "Shopee",
-      "titulo": "Vestido Bebê Menina Festa Luxo Rosa Algodão Confortável 2 Meses a 4 Anos",
-      "link": "https://s.shopee.com.br/1gJf9neQp5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mtkwqwjozgu8dc_tn",
-      "preco": 79.9,
-      "precoDe": 128.87,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:19:59.891Z"
-    },
-    {
-      "id": "35541",
-      "loja": "Shopee",
-      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "link": "https://s.shopee.com.br/7fasIkoL66",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
-      "preco": 27.89,
-      "precoDe": 68.02,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:16:28.877Z"
-    },
-    {
-      "id": "35539",
-      "loja": "Amazon",
-      "titulo": "Adega Climatizada 12 Garrafas Midea Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0F7TFM927?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HFVjRAHmL._SL400_.jpg",
-      "preco": 679,
-      "precoDe": 1099,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:08:05.666Z"
-    },
-    {
-      "id": "35537",
-      "loja": "Amazon",
-      "titulo": "BOSCH Esmerilhadeira Angular 4.1/2POL 710W GWS 700",
-      "link": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4174YWDDKJL._SL400_.jpg",
-      "preco": 242.25,
-      "precoDe": 364.9,
-      "desconto": 22,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-25T15:02:35.327Z"
-    },
-    {
-      "id": "35536",
-      "loja": "Amazon",
-      "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-      "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/410UriYRE2L._SL400_.jpg",
-      "preco": 419,
-      "precoDe": 1199.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T15:01:39.462Z"
-    },
-    {
-      "id": "35533",
-      "loja": "Amazon",
-      "titulo": "Bosch Serra Mármore Gdc 150 Titan 1500W 220V Com 1 Disco",
-      "link": "https://www.amazon.com.br/dp/B076ZQZ8F5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v6okjnrPL._SL400_.jpg",
-      "preco": 348.4,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-25T14:39:47.984Z"
     }
   ]
 }
