@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T18:07:27.353Z",
+  "atualizadoEm": "2026-10-28T18:37:27.431Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,6 +699,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 80,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELITODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -708,18 +720,6 @@
       "limite": null,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-29T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1971,6 +1971,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SAUDE2810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Três cupons em categorias selecionadas com limite de desconto",
+      "validadeAte": "2026-10-29T18:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MLMELHORESPROMOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2035,11 +2047,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": null,
+      "minimo": 79,
       "maximo": null,
       "limite": 80,
       "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-10-29T16:20:07.000Z",
+      "validadeAte": "2026-10-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2076,6 +2088,42 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-10-29T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRO2810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Três cupons em categorias selecionadas com limite de desconto",
+      "validadeAte": "2026-10-29T18:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOVEIS2810",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Três cupons em categorias selecionadas com limite de desconto",
+      "validadeAte": "2026-10-29T18:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BEBESML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Lista de múltiplos cupons do Mercado Livre com diferentes categorias e limites de desconto",
+      "validadeAte": "2026-10-29T18:08:29.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2928,6 +2976,18 @@
       "limite": null,
       "observacao": "Limitado a 1 uso por CPF e 400 utilizações. Válido até 28/10.",
       "validadeAte": "2026-10-29T14:09:44.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ULT1M0D0D1A",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-29T18:04:28.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
