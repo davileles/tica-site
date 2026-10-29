@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T11:11:16.174Z",
+  "atualizadoEm": "2026-10-29T12:11:16.173Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -591,18 +591,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "KORUJAO",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "VGA8",
       "loja": "Kabum",
       "tipo": "pct",
@@ -687,18 +675,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "99TODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 99,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELITODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -708,18 +684,6 @@
       "limite": null,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-29T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "40ALLSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1224,30 +1188,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESQUENTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CLIENTEVIP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1827,15 +1767,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAESPECIAL",
+      "codigo": "SUPERDESCONTOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:05.000Z",
+      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
+      "validadeAte": "2026-10-30T11:59:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERPROMOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
+      "validadeAte": "2026-10-30T11:59:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1911,18 +1863,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE2810",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 219,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CLUBNIVEA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1968,6 +1908,18 @@
       "limite": 50,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-30T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BONUSML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
+      "validadeAte": "2026-10-30T11:59:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2031,6 +1983,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
+      "validadeAte": "2026-10-30T11:59:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2079,6 +2043,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIMAISTODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-10-30T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2112,6 +2088,18 @@
       "limite": 25,
       "observacao": null,
       "validadeAte": "2026-10-30T03:00:40.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAPRATECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
+      "validadeAte": "2026-10-30T11:59:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2208,18 +2196,6 @@
       "limite": null,
       "observacao": "Código genérico sem contexto de loja ou condições de uso",
       "validadeAte": "2026-10-29T13:00:15.000Z",
-      "url": null
-    },
-    {
-      "codigo": "SVPDAY",
-      "loja": "Outro: Shell Box",
-      "tipo": "reais",
-      "valor": 0.1,
-      "minimo": null,
-      "maximo": null,
-      "limite": 7,
-      "observacao": "Desconto de R$0,10 por litro em abastecimento com Shell V-Power (Gasolina, Racing ou Etanol). Desconto máximo de R$7,00 ao atingir 70 litros. Válido até hoje ou até 100.000 ativações.",
-      "validadeAte": "2026-10-29T11:41:39.000Z",
       "url": null
     },
     {
@@ -2835,18 +2811,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "11D011400FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:04:26.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "N3WSTARTAF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2868,18 +2832,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T13:01:36.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "V3M11D011",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T12:00:48.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
