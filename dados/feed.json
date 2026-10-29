@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-29T22:50:21.873Z",
+  "atualizadoEm": "2026-10-29T23:15:20.874Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38078",
+      "loja": "Amazon",
+      "titulo": "Cachaça de Jambu - Jambuzera 500ml",
+      "link": "https://www.amazon.com.br/dp/B08HT16FKW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315VDU3RSWL._SL400_.jpg",
+      "preco": 55.9,
+      "precoDe": 89.67,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T23:05:20.869Z"
+    },
+    {
+      "id": "38076",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
+      "link": "https://meli.la/1EFQGVU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_983068-MLA116274196004_092026-F.jpg",
+      "preco": 2236,
+      "precoDe": 3099,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T23:00:28.546Z"
+    },
+    {
+      "id": "38074",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Fanta Uva, Lata 220ml, 6 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CKWDPN2H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JJvNt5MqL._SL400_.jpg",
+      "preco": 17.04,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T22:50:41.680Z"
+    },
     {
       "id": "38071",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-10-27T13:40:24.530Z"
-    },
-    {
-      "id": "36328",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Tesouro da Serpente Jogo de Estratégia Educativo- Pegue o Ouro",
-      "link": "https://s.shopee.com.br/6q1oOQcL95",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mna4g0xnoge80f_tn",
-      "preco": 99.9,
-      "precoDe": 129.74,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:39:18.596Z"
-    },
-    {
-      "id": "36327",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Pica Pau Magnético Pega Minhocas Montessori",
-      "link": "https://s.shopee.com.br/AUv6l5QXRS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mt9swmpe9kw1b6_tn",
-      "preco": 34.21,
-      "precoDe": 39.78,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:38:10.809Z"
-    },
-    {
-      "id": "36323",
-      "loja": "Shopee",
-      "titulo": "Maçã com Frutas de Corte Interativas Com 40 peças Para Crianças Brincar",
-      "link": "https://s.shopee.com.br/9fLzlTa87y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhmbc66i6add12_tn",
-      "preco": 109.99,
-      "precoDe": 189.64,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:36:59.019Z"
     }
   ]
 }
