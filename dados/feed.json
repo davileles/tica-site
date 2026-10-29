@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-29T11:11:14.364Z",
+  "atualizadoEm": "2026-10-29T11:41:14.364Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37493",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/6VP13FpgRV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 16.99,
+      "precoDe": 22.36,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:40:14.246Z"
+    },
+    {
+      "id": "37492",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 66.66,
+      "precoDe": 92.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:36:24.755Z"
+    },
+    {
+      "id": "37489",
+      "loja": "Amazon",
+      "titulo": "Daily T-shirt Masculino Preto G",
+      "link": "https://www.amazon.com.br/dp/B0BHMGY76M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jj072r3bL._SL400_.jpg",
+      "preco": 65.55,
+      "precoDe": 139,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:32:07.126Z"
+    },
+    {
+      "id": "37487",
+      "loja": "Shopee",
+      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
+      "link": "https://s.shopee.com.br/1144UK4YA1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
+      "preco": 17.9,
+      "precoDe": 29.83,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:27:54.950Z"
+    },
+    {
+      "id": "37483",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola de Pintura HVLP Deko 600W LED 1,2L 3 Bicos",
+      "link": "https://meli.la/2eqgqdF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680609-MLA100031211051_122025-F.jpg",
+      "preco": 329.98,
+      "precoDe": 404.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:23:47.499Z"
+    },
+    {
+      "id": "37482",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label, 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 73.68,
+      "precoDe": 115.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:22:36.830Z"
+    },
+    {
+      "id": "37477",
+      "loja": "Amazon",
+      "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e ",
+      "link": "https://www.amazon.com.br/dp/B0845Y8VWJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CvcY6GNpL._SL400_.jpg",
+      "preco": 66.59,
+      "precoDe": 72.48,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:21:24.492Z"
+    },
+    {
+      "id": "37474",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador Portátil De Mão Recarregável, 199 Níveis, Modo De Resfriamento, Mini Ventilador Com 10000mAh E Display Digital, Silencioso E Potente Para Viagens, Cinza",
+      "link": "https://meli.la/2XiaHDF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606809-MLA119982435445_102026-F.jpg",
+      "preco": 57.19,
+      "precoDe": 212.41,
+      "desconto": 64,
+      "cupom": "COMPRANOMELI",
+      "enviadoEm": "2026-10-29T11:20:23.152Z"
+    },
+    {
+      "id": "37472",
+      "loja": "Shopee",
+      "titulo": "Potes de Vidro redondo 200/300/550/1200/1500/1700/2000ml Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
+      "link": "https://s.shopee.com.br/4qGn1jdxXR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
+      "preco": 8.9,
+      "precoDe": 44.5,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:16:38.692Z"
+    },
+    {
+      "id": "37473",
+      "loja": "Amazon",
+      "titulo": "Tramontina Aparelho de Jantar Floralis em Porcelana Decorada 20 Peças",
+      "link": "https://www.amazon.com.br/dp/B0DJDR74JX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41H6yi8gw8L._SL400_.jpg",
+      "preco": 219.9,
+      "precoDe": 363.85,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:13:03.565Z"
+    },
     {
       "id": "37471",
       "loja": "Amazon",
@@ -49,18 +169,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:00:24.595Z"
-    },
-    {
-      "id": "37439",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 73.68,
-      "precoDe": 115.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T23:36:16.425Z"
     },
     {
       "id": "37434",
@@ -5893,114 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-26T11:23:12.074Z"
-    },
-    {
-      "id": "35740",
-      "loja": "Amazon",
-      "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-      "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fV6m3ESES._SL400_.jpg",
-      "preco": 109.99,
-      "precoDe": 136.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:07:25.997Z"
-    },
-    {
-      "id": "35737",
-      "loja": "Amazon",
-      "titulo": "Licor 43 Chocolate 700ml",
-      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
-      "preco": 166.56,
-      "precoDe": 189.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:04:32.138Z"
-    },
-    {
-      "id": "35736",
-      "loja": "Shopee",
-      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
-      "link": "https://s.shopee.com.br/6VOwE6Wxzl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
-      "preco": 21.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:03:27.921Z"
-    },
-    {
-      "id": "35722",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
-      "preco": 44.9,
-      "precoDe": 115.9,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T10:36:43.803Z"
-    },
-    {
-      "id": "35700",
-      "loja": "Shopee",
-      "titulo": "Termômetro Digital Infantil Ultra Rápido Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
-      "link": "https://s.shopee.com.br/3B8TRhXF6v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
-      "preco": 26.99,
-      "precoDe": 45.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T22:51:25.677Z"
-    },
-    {
-      "id": "35698",
-      "loja": "Amazon",
-      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
-      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
-      "preco": 69.54,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T22:29:32.407Z"
-    },
-    {
-      "id": "35697",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
-      "link": "https://s.shopee.com.br/7puIyiNvlk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
-      "preco": 74.9,
-      "precoDe": 110.15,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T22:28:31.515Z"
-    },
-    {
-      "id": "35694",
-      "loja": "Shopee",
-      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
-      "link": "https://s.shopee.com.br/6L5VANKtur",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
-      "preco": 23.31,
-      "precoDe": 25.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T22:05:37.052Z"
-    },
-    {
-      "id": "35691",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 38.34,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-25T21:43:50.513Z"
     }
   ]
 }
