@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T03:11:14.685Z",
+  "atualizadoEm": "2026-10-29T03:41:14.657Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -145,18 +145,6 @@
       "observacao": null,
       "validadeAte": "9999-02-23T03:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "ESQUENTABLACK",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T13:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "ESPORTIVO",
@@ -2197,6 +2185,18 @@
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
+    },
+    {
+      "codigo": "ESQUENTABLACK",
+      "loja": "Outro: C&A",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-10-30T03:25:09.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "OFERTAS10",
