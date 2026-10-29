@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T03:41:14.657Z",
+  "atualizadoEm": "2026-10-29T11:11:16.174Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -699,18 +699,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELITODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1031,7 +1019,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1715,7 +1703,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-10-31T02:59:00.000Z",
+      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1978,7 +1966,7 @@
       "minimo": 89,
       "maximo": null,
       "limite": 50,
-      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-30T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2088,6 +2076,18 @@
       "limite": 30,
       "observacao": "Lista de múltiplos cupons do Mercado Livre com diferentes categorias e limites de desconto",
       "validadeAte": "2026-10-29T18:08:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2808,18 +2808,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T17:07:48.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CMPR7X11AO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T11:00:49.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
