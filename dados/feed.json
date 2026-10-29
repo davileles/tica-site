@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-29T15:20:21.560Z",
+  "atualizadoEm": "2026-10-29T15:50:21.560Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37713",
+      "loja": "Amazon",
+      "titulo": "Serra tico-tico GST 680 500W 220V 1 lâmina e protetor anti-farpas Bosch",
+      "link": "https://www.amazon.com.br/dp/B0C35PHXK2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Jr+Uo9JEL._SL400_.jpg",
+      "preco": 337.35999999999996,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T15:48:04.864Z"
+    },
+    {
+      "id": "37712",
+      "loja": "Amazon",
+      "titulo": "WAP Serra Sabre Elétrica WF SA01 20mm com Punho Giratório e Ajuste de Velocidade 2800gpm 1200W 127V",
+      "link": "https://www.amazon.com.br/dp/B0FTT3QV8V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3178FAeA9vL._SL400_.jpg",
+      "preco": 193.64,
+      "precoDe": 529.9,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:46:51.314Z"
+    },
+    {
+      "id": "37711",
+      "loja": "Amazon",
+      "titulo": "Cerveja Spaten, Puro Malte, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sVZJEZS0L._SL400_.jpg",
+      "preco": 53.42,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-29T15:43:28.601Z"
+    },
+    {
+      "id": "37710",
+      "loja": "Amazon",
+      "titulo": "Camiseta Tech Insider Feminina, Nori Green, Tamanho PP",
+      "link": "https://www.amazon.com.br/dp/B0DZ33VYFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3158SkvAmYL._SL400_.jpg",
+      "preco": 51.6,
+      "precoDe": 159,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:39:54.512Z"
+    },
+    {
+      "id": "37709",
+      "loja": "Amazon",
+      "titulo": "Camiseta Mizuno Spark Mescl Masculino - Cinza - M | Tam: M, Cor: Cinza",
+      "link": "https://www.amazon.com.br/dp/B0G98TY492?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WYTOyq1FL._SL400_.jpg",
+      "preco": 46.33,
+      "precoDe": 119.99,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:36:38.647Z"
+    },
+    {
+      "id": "37708",
+      "loja": "Amazon",
+      "titulo": "asmodee, Little Secret, Jogo de Cartas para Galera",
+      "link": "https://www.amazon.com.br/dp/B0F49JSC2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414uzrkBPCL._SL400_.jpg",
+      "preco": 58.16,
+      "precoDe": 159.99,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:33:07.895Z"
+    },
+    {
+      "id": "37707",
+      "loja": "Amazon",
+      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App par",
+      "link": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31w0XadAh-L._SL400_.jpg",
+      "preco": 146,
+      "precoDe": 249,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:28:41.696Z"
+    },
+    {
+      "id": "37705",
+      "loja": "Shopee",
+      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+      "link": "https://s.shopee.com.br/3g4pvWEDOq",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
+      "preco": 17.72,
+      "precoDe": 21.35,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T15:24:46.356Z"
+    },
     {
       "id": "37690",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-10-26T16:59:35.658Z"
-    },
-    {
-      "id": "35966",
-      "loja": "Mercado Livre",
-      "titulo": "Adaptador CarPlay Sem Fio Android Auto 2 em 1 Compatível Carro Som Multimídia Portátil Plug And Play Automático Usb Wireless Automotivo Kateluo",
-      "link": "https://meli.la/13jyQoX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_915428-MLA118506212077_092026-F.jpg",
-      "preco": 55.28,
-      "precoDe": 108.18,
-      "desconto": 27,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-26T16:58:31.877Z"
-    },
-    {
-      "id": "35965",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
-      "link": "https://s.shopee.com.br/20wXFmZbXe",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c_tn",
-      "preco": 44.9,
-      "precoDe": 59.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:54:20.363Z"
-    },
-    {
-      "id": "35964",
-      "loja": "Shopee",
-      "titulo": "Quarto Infantil para Bebê Guarda Roupas 2 Portas com Cômoda 2 Gavetas Pimpolho Multimóveis Branco",
-      "link": "https://s.shopee.com.br/5q9FofpNjJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-9un8tuq534ivdb_tn",
-      "preco": 559.99,
-      "precoDe": 727.26,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:50:51.791Z"
-    },
-    {
-      "id": "35961",
-      "loja": "Mercado Livre",
-      "titulo": "Fone de Ouvido Sem Fio Bluetooth 6.1 Esportivo OWS Com Ganchos Estéreo Hi-Fi com Microfone para Chamadas Claras, Controle de Volume Basike Fone Ouvido para Academia Corrida e Gamer",
-      "link": "https://meli.la/1fX2NfW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830154-MLA109617878624_042026-F.jpg",
-      "preco": 81.48,
-      "precoDe": 184.14,
-      "desconto": 41,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-26T16:47:04.468Z"
-    },
-    {
-      "id": "35956",
-      "loja": "Mercado Livre",
-      "titulo": "Colar Cordão Filhos Pingente Duas Meninas Banhado A Ouro 18k Dourado",
-      "link": "https://meli.la/2P9wmbx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_681507-MLB93888849195_102025-O.webp",
-      "preco": 89.39,
-      "precoDe": 120.81,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:43:23.839Z"
-    },
-    {
-      "id": "35953",
-      "loja": "Mercado Livre",
-      "titulo": "Berço Portátil Basic Cinza Galzerano Chiqueiro Cercado Bebê",
-      "link": "https://meli.la/189dJLg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_823352-MLA116565097240_092026-F.jpg",
-      "preco": 321.7,
-      "precoDe": 536.16,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:39:08.240Z"
-    },
-    {
-      "id": "35952",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Carolina Herrera CH Men Eau De Toilette 200ml Masculino",
-      "link": "https://meli.la/1HzEGYt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957388-MLA45187812752_032021-F.jpg",
-      "preco": 505.42999999999995,
-      "precoDe": 1049.89,
-      "desconto": 44,
-      "cupom": "MELIMAIS2610",
-      "enviadoEm": "2026-10-26T16:38:20.482Z"
-    },
-    {
-      "id": "35948",
-      "loja": "Mercado Livre",
-      "titulo": "Conjunto de Higiene Infantil Personalizado Ursinho e Ovelhinha Marrom!",
-      "link": "https://meli.la/2NN8niC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680269-MLB118175224466_102026-O.webp",
-      "preco": 159.85,
-      "precoDe": 169.9,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:33:14.916Z"
     }
   ]
 }
