@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-29T12:11:14.364Z",
+  "atualizadoEm": "2026-10-29T12:41:14.364Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37540",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit De Pontas E Brocas Em Titânio X-Line Com 103 Peças",
+      "link": "https://www.amazon.com.br/dp/B07CVCTJLQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ieHNnNUiS._SL400_.jpg",
+      "preco": 268.24,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T12:40:07.036Z"
+    },
+    {
+      "id": "37539",
+      "loja": "Amazon",
+      "titulo": "Caixa de Som PULSEBOX 3 1300W RMS - SP519",
+      "link": "https://www.amazon.com.br/dp/B0FV3S8R2L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BIhYfk9JL._SL400_.jpg",
+      "preco": 749,
+      "precoDe": 1249,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:38:52.805Z"
+    },
+    {
+      "id": "37531",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
+      "link": "https://s.shopee.com.br/6fiRHujcuR",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
+      "preco": 17.8,
+      "precoDe": 24.72,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:34:51.731Z"
+    },
+    {
+      "id": "37530",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Tcl Mini Led 25\", 300Hz, 1ms, Hdr 600, Altura Ajustável 25G64",
+      "link": "https://meli.la/1h11G5F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-P.webp",
+      "preco": 993.6,
+      "precoDe": 1299,
+      "desconto": 15,
+      "cupom": "OFERTAPRATECH",
+      "enviadoEm": "2026-10-29T12:30:59.227Z"
+    },
+    {
+      "id": "37529",
+      "loja": "Amazon",
+      "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
+      "link": "https://www.amazon.com.br/dp/B07XPCK5H5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316ZnUTUHWL._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 21.69,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:27:22.165Z"
+    },
+    {
+      "id": "37524",
+      "loja": "Mercado Livre",
+      "titulo": "Mallory Turbo 30cm 6 Pás B9440186 Ventilador De Mesa",
+      "link": "https://meli.la/2haPtak",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_629782-MLU77098554272_062024-F.jpg",
+      "preco": 71.25,
+      "precoDe": 109.9,
+      "desconto": 14,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-10-29T12:19:18.444Z"
+    },
+    {
+      "id": "37523",
+      "loja": "Amazon",
+      "titulo": "Buba Pote Térmico Com Colher Rosa",
+      "link": "https://www.amazon.com.br/dp/B0BDMQCYJV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+wgnaz90L._SL400_.jpg",
+      "preco": 68.99,
+      "precoDe": 147.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:15:05.641Z"
+    },
+    {
+      "id": "37517",
+      "loja": "Shopee",
+      "titulo": "WHISKY JACK DANIELS 1000ML",
+      "link": "https://s.shopee.com.br/7puOfVbJzW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtgz5d2gq51db3_tn",
+      "preco": 142.9,
+      "precoDe": 201.27,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:11:15.127Z"
+    },
     {
       "id": "37515",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-26T13:05:56.951Z"
-    },
-    {
-      "id": "35827",
-      "loja": "Shopee",
-      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
-      "link": "https://s.shopee.com.br/qkZalVKnR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
-      "preco": 29.98,
-      "precoDe": 41.07,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T13:01:30.323Z"
-    },
-    {
-      "id": "35826",
-      "loja": "Amazon",
-      "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
-      "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JbHUV2IRL._SL400_.jpg",
-      "preco": 34.92,
-      "precoDe": 50,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:56:41.939Z"
-    },
-    {
-      "id": "35815",
-      "loja": "Amazon",
-      "titulo": "Philco Panela de Pressão, Digital Inox Ppp01p, 6L, Preto, 110v",
-      "link": "https://www.amazon.com.br/dp/B076HYCMZ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31CjYeIs8vL._SL400_.jpg",
-      "preco": 379,
-      "precoDe": 684.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:52:51.508Z"
-    },
-    {
-      "id": "35812",
-      "loja": "Mercado Livre",
-      "titulo": "Controle sem fio PlayStation DualSense – Remix Green",
-      "link": "https://meli.la/1h5AP5T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
-      "preco": 368.1,
-      "precoDe": 599.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:48:37.201Z"
-    },
-    {
-      "id": "35803",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Stanley Quencher Cream Chevron 591ml",
-      "link": "https://meli.la/1oQ4NtK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665651-MLA104701658854_012026-F.jpg",
-      "preco": 63.290000000000006,
-      "precoDe": 289,
-      "desconto": 61,
-      "cupom": "COMPRAFACIL",
-      "enviadoEm": "2026-10-26T12:39:27.575Z"
-    },
-    {
-      "id": "35799",
-      "loja": "Mercado Livre",
-      "titulo": "Aparelho De Jantar Mayara Em Porcelana 40 Peças Cor Branco E Azul Hauskraft",
-      "link": "https://meli.la/1zisn4o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_631932-MLA82895560965_032025-F.jpg",
-      "preco": 321.92999999999995,
-      "precoDe": 899.9,
-      "desconto": 49,
-      "cupom": "QUEROOFF",
-      "enviadoEm": "2026-10-26T12:35:42.380Z"
-    },
-    {
-      "id": "35795",
-      "loja": "Amazon",
-      "titulo": "Clear Men Shampoo Anticaspa 2 em 1 Limpeza Diária 400ml",
-      "link": "https://www.amazon.com.br/dp/B07LFF11LM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41J0AD3feML._SL400_.jpg",
-      "preco": 22.99,
-      "precoDe": 27.99,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:31:44.426Z"
-    },
-    {
-      "id": "35789",
-      "loja": "Amazon",
-      "titulo": "WAP Esmerilhadeira Angular 5” WF ES02 com Empunhadura Auxiliar 3 Posições Protetor de Disco 125MM 13000RPM 1200W 220v",
-      "link": "https://www.amazon.com.br/dp/B0G5RMW3XV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31x+OQBXvQL._SL400_.jpg",
-      "preco": 193.81,
-      "precoDe": 229.9,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:27:40.558Z"
     }
   ]
 }
