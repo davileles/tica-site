@@ -1,7 +1,151 @@
 {
-  "atualizadoEm": "2026-10-29T21:20:21.869Z",
+  "atualizadoEm": "2026-10-29T21:50:21.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38038",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
+      "preco": 123.65,
+      "precoDe": 174.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:47:36.882Z"
+    },
+    {
+      "id": "38036",
+      "loja": "Amazon",
+      "titulo": "Finish Powerball Detergente para Lava Louças em Tabletes e Secante, 13 Tabletes",
+      "link": "https://www.amazon.com.br/dp/B078D7MH2P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MZOp1zHlL._SL400_.jpg",
+      "preco": 13.280000000000001,
+      "precoDe": 25.99,
+      "desconto": 15,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T21:46:33.414Z"
+    },
+    {
+      "id": "38035",
+      "loja": "Mercado Livre",
+      "titulo": "Aparelho de Jantar e Chá 30 peças Donna Colb",
+      "link": "https://meli.la/1at9Vkf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775434-MLA99377706050_112025-F.jpg",
+      "preco": 186.91,
+      "precoDe": 464.94,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:43:14.525Z"
+    },
+    {
+      "id": "38034",
+      "loja": "Amazon",
+      "titulo": "Móbile Chocalho Para Carrinho e Berço de Bebê Clip Maxi Baby - Leão",
+      "link": "https://www.amazon.com.br/dp/B0GML3C2MC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WXhZcIoqL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 60.79,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:39:50.114Z"
+    },
+    {
+      "id": "38033",
+      "loja": "Shopee",
+      "titulo": "Licor Amarula 750ml",
+      "link": "https://s.shopee.com.br/AAIJtsfMEB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf33i6rkblza8b_tn",
+      "preco": 89.6,
+      "precoDe": 134.38,
+      "desconto": 11,
+      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
+      "enviadoEm": "2026-10-29T21:38:45.034Z"
+    },
+    {
+      "id": "38031",
+      "loja": "Amazon",
+      "titulo": "Whisky Glenfiddich 15 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B08H6H7L2Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rRyLNO0mL._SL400_.jpg",
+      "preco": 341.94999999999993,
+      "precoDe": 680,
+      "desconto": 16,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T21:34:56.633Z"
+    },
+    {
+      "id": "38030",
+      "loja": "Mercado Livre",
+      "titulo": "Copo Térmico para Cerveja Stanley Pint Adventure Frost 473ml",
+      "link": "https://meli.la/2oF1awd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652992-MLA105482194731_012026-F.jpg",
+      "preco": 62.21,
+      "precoDe": 169,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:33:47.366Z"
+    },
+    {
+      "id": "38028",
+      "loja": "Amazon",
+      "titulo": "Stanley Lixadeira e Politriz Angular 7 Polegadas, com Maleta de Ferramentas, Boina para Polimento, Disco de Borracha e Chave de Aperto, Modelo SP137K, 110V",
+      "link": "https://www.amazon.com.br/dp/B07THLYSPG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31a5Eo2G3vL._SL400_.jpg",
+      "preco": 623.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T21:30:11.627Z"
+    },
+    {
+      "id": "38027",
+      "loja": "Amazon",
+      "titulo": "Cadeira de escritório Diretor Jadel Preta Healer",
+      "link": "https://www.amazon.com.br/dp/B0D9MSVSSP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413rCJbS6GL._SL400_.jpg",
+      "preco": 119.92999999999999,
+      "precoDe": 299.9,
+      "desconto": 33,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T21:29:11.453Z"
+    },
+    {
+      "id": "38026",
+      "loja": "Amazon",
+      "titulo": "Bolsa Saída Maternidade Grande Bebê com Trocador Portátil Impermeável e Porta Chupeta Moby Cinza Maxi Baby",
+      "link": "https://www.amazon.com.br/dp/B0H1NT7CK3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QofzHmTTL._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 159,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:25:50.296Z"
+    },
+    {
+      "id": "38025",
+      "loja": "Amazon",
+      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
+      "preco": 81.9,
+      "precoDe": 106.18,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:24:39.038Z"
+    },
+    {
+      "id": "38024",
+      "loja": "Amazon",
+      "titulo": "Azeite Andorinha Extra Virgem Projeto Revoa 500ml",
+      "link": "https://www.amazon.com.br/dp/B0BHV6X11C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zFNH8QyIL._SL400_.jpg",
+      "preco": 31.25,
+      "precoDe": 34.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:23:19.465Z"
+    },
     {
       "id": "38023",
       "loja": "Shopee",
@@ -493,18 +637,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-29T19:01:19.771Z"
-    },
-    {
-      "id": "37907",
-      "loja": "Shopee",
-      "titulo": "Licor Amarula 750ml",
-      "link": "https://s.shopee.com.br/AAIJtsfMEB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf33i6rkblza8b_tn",
-      "preco": 89.6,
-      "precoDe": 134.38,
-      "desconto": 11,
-      "cupom": "RESGATE AQUI: HTTPS://S.SHOPEE.COM.BR/2LZSSOPU6M",
-      "enviadoEm": "2026-10-29T18:57:27.195Z"
     },
     {
       "id": "37904",
@@ -4467,18 +4599,6 @@
       "enviadoEm": "2026-10-27T20:12:18.732Z"
     },
     {
-      "id": "36606",
-      "loja": "Amazon",
-      "titulo": "Whisky Glenfiddich 15 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B08H6H7L2Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rRyLNO0mL._SL400_.jpg",
-      "preco": 569.91,
-      "precoDe": 680,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T20:08:32.071Z"
-    },
-    {
       "id": "36604",
       "loja": "Mercado Livre",
       "titulo": "Tênis Ultimashow 2.0 adidas",
@@ -5881,126 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-27T13:06:24.843Z"
-    },
-    {
-      "id": "36288",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Prateleiras Arredondadas De 60x15 Suporte Invisível",
-      "link": "https://meli.la/1TDB6C9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640464-MLB106907103994_022026-O.webp",
-      "preco": 145.42000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BARRATINHOAQUI",
-      "enviadoEm": "2026-10-27T13:05:24.172Z"
-    },
-    {
-      "id": "36287",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/1qd8Nf5zc7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 78.96,
-      "precoDe": 136.14,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:01:44.489Z"
-    },
-    {
-      "id": "36283",
-      "loja": "Mercado Livre",
-      "titulo": "Fone de Ouvido Esportivo Basike TWS Com Bluetooth 6.0 e Bateria de 60h",
-      "link": "https://meli.la/25C9MUF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997784-MLA100022311359_122025-F.jpg",
-      "preco": 129.5,
-      "precoDe": 284,
-      "desconto": 39,
-      "cupom": "OFFAQUI",
-      "enviadoEm": "2026-10-27T12:57:10.810Z"
-    },
-    {
-      "id": "36281",
-      "loja": "Shopee",
-      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
-      "link": "https://s.shopee.com.br/906IuboYii",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
-      "preco": 33.96,
-      "precoDe": 109.55,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T12:53:27.379Z"
-    },
-    {
-      "id": "36274",
-      "loja": "Mercado Livre",
-      "titulo": "Processador Amd Ryzen 5 5500x3d (oem) sem cooler box",
-      "link": "https://meli.la/1dhwpe2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_793677-MLA99494793514_112025-F.jpg",
-      "preco": 1266.32,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJETECH",
-      "enviadoEm": "2026-10-27T12:49:54.234Z"
-    },
-    {
-      "id": "36267",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-qdyooPzL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 42.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T12:45:57.122Z"
-    },
-    {
-      "id": "36260",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Pc Ddr4 16gb 2666 4bit Infinity Memory",
-      "link": "https://meli.la/16xoFtx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786573-MLA81649546848_012025-F.jpg",
-      "preco": 467.64,
-      "precoDe": 899,
-      "desconto": 40,
-      "cupom": "MELIMAIS2710",
-      "enviadoEm": "2026-10-27T12:37:49.872Z"
-    },
-    {
-      "id": "36256",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DK3M6161?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v4TJKkdjL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 42.9,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T12:34:10.153Z"
-    },
-    {
-      "id": "36255",
-      "loja": "Amazon",
-      "titulo": "Chocolate Recheio Crocante Garoto Recheados Pacote 90g",
-      "link": "https://www.amazon.com.br/dp/B0GSH1TJ24?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ksepfEj8L._SL400_.jpg",
-      "preco": 5.99,
-      "precoDe": 10.59,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T12:33:17.569Z"
-    },
-    {
-      "id": "36254",
-      "loja": "Mercado Livre",
-      "titulo": "Carteira Masculina de Couro Legítimo Águia, Preta com Porta Moedas e 7 Cartões",
-      "link": "https://meli.la/1x6Hjqj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794782-MLA112061055359_052026-F.jpg",
-      "preco": 28.4,
-      "precoDe": 46.65,
-      "desconto": 13,
-      "cupom": "AGORAOUNUNCA",
-      "enviadoEm": "2026-10-27T12:26:02.903Z"
     }
   ]
 }
