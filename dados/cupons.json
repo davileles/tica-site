@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T15:00:12.600Z",
+  "atualizadoEm": "2026-10-29T15:20:23.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -181,6 +181,18 @@
       "observacao": null,
       "validadeAte": "2030-01-02T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "ELETRO100",
+      "loja": "Carrefour",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-03T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
       "codigo": "OPORTUNIDADE10",
@@ -588,6 +600,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "HUSKY10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -2055,6 +2079,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJAS2910",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-10-30T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "camerasinistra",
+      "loja": "Motorola",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=24534&id=1207116"
+    },
+    {
+      "codigo": "motobruxa",
+      "loja": "Motorola",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=24534&id=1207116"
+    },
+    {
       "codigo": "AWINBODYS",
       "loja": "Natura",
       "tipo": "reais",
@@ -2772,6 +2832,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T18:04:28.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "PR1NC1P1AK1T100FF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-10-30T15:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
