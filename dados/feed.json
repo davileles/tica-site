@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-29T14:20:21.544Z",
+  "atualizadoEm": "2026-10-29T14:50:21.544Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37660",
+      "loja": "Amazon",
+      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
+      "preco": 73.34,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-29T14:50:12.227Z"
+    },
+    {
+      "id": "37655",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Granado Vintage Fervo Intenso 75ml",
+      "link": "https://meli.la/1pLTjLG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_839289-MLB106396754912_022026-P.webp",
+      "preco": 184.2,
+      "precoDe": 305.1,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:42:20.014Z"
+    },
+    {
+      "id": "37654",
+      "loja": "Amazon",
+      "titulo": "Perfume adidas Vibes Smooth PaceEau de Parfum 100ml",
+      "link": "https://www.amazon.com.br/dp/B0FFBQ2FPW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21FoQpiBzYL._SL400_.jpg",
+      "preco": 88.2,
+      "precoDe": 189,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:38:58.028Z"
+    },
+    {
+      "id": "37651",
+      "loja": "Shopee",
+      "titulo": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+      "link": "https://s.shopee.com.br/40hgGg2b4X",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra3j-mblwmvx5pq1o34_tn",
+      "preco": 37.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:35:30.481Z"
+    },
+    {
+      "id": "37650",
+      "loja": "Amazon",
+      "titulo": "Buba Lixeira Antiodor para Fraldas",
+      "link": "https://www.amazon.com.br/dp/B0C5GP554J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wKX48kOjL._SL400_.jpg",
+      "preco": 144.06,
+      "precoDe": 304.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:31:57.406Z"
+    },
+    {
+      "id": "37649",
+      "loja": "Amazon",
+      "titulo": "Bosch Parafusadeira Furadeira Gsr 1000 Smart 12V Com 1 Bateria 1 Carregador E Maleta",
+      "link": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xDueOPgeL._SL400_.jpg",
+      "preco": 291.74,
+      "precoDe": 399,
+      "desconto": 14,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T14:28:15.451Z"
+    },
+    {
+      "id": "37648",
+      "loja": "Amazon",
+      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
+      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
+      "preco": 399.9,
+      "precoDe": 899.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:26:40.848Z"
+    },
+    {
+      "id": "37644",
+      "loja": "Amazon",
+      "titulo": "Kit 12 Cuecas Boxer Reebok Masculinas Microfibra Adulto Box Sem Costura (BR, Alfa, G, Regular, Sortidos 2)",
+      "link": "https://www.amazon.com.br/dp/B0CW246HNL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Xkf4qynAL._SL400_.jpg",
+      "preco": 94.99,
+      "precoDe": 184,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T14:22:23.471Z"
+    },
     {
       "id": "37641",
       "loja": "Amazon",
@@ -1537,18 +1633,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-28T19:22:53.337Z"
-    },
-    {
-      "id": "37230",
-      "loja": "Amazon",
-      "titulo": "Cerveja Sem Glúten Stella Artois, Pure Gold, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLJJPR3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kAh4LGKvL._SL400_.jpg",
-      "preco": 86.28,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:18:56.357Z"
     },
     {
       "id": "37220",
@@ -5247,18 +5331,6 @@
       "enviadoEm": "2026-10-26T19:58:55.001Z"
     },
     {
-      "id": "36097",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
-      "preco": 399.9,
-      "precoDe": 899.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:58:06.024Z"
-    },
-    {
       "id": "36089",
       "loja": "Mercado Livre",
       "titulo": "Torneira Tubo Flexível Bancada Cozinha Color Preta Luxo Cor Preto Alpha Hidrometais Torneira C65",
@@ -5929,78 +6001,6 @@
       "desconto": 26,
       "cupom": "DESCONTO",
       "enviadoEm": "2026-10-26T16:21:15.974Z"
-    },
-    {
-      "id": "35933",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Life Realizações Feminino Couro Lilas Lilás",
-      "link": "https://meli.la/1Jz1EkA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620903-MLU75695989667_042024-F.jpg",
-      "preco": 241.5,
-      "precoDe": 690,
-      "desconto": 50,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-26T16:16:37.322Z"
-    },
-    {
-      "id": "35932",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Portátil Full Hd 15.6 Notebook, Celular, Games C/ Cor Preto",
-      "link": "https://meli.la/28p83Sr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994228-MLA99486883402_112025-F.jpg",
-      "preco": 309.65000000000003,
-      "precoDe": 549.99,
-      "desconto": 34,
-      "cupom": "MELIMAIS2610",
-      "enviadoEm": "2026-10-26T16:12:47.916Z"
-    },
-    {
-      "id": "35928",
-      "loja": "Amazon",
-      "titulo": "NESTLÉ PRESTÍGIO Recheado 90g Tablete",
-      "link": "https://www.amazon.com.br/dp/B0FV52C6FM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41J-2oPtMuL._SL400_.jpg",
-      "preco": 5.99,
-      "precoDe": 11.49,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:08:42.738Z"
-    },
-    {
-      "id": "35927",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
-      "link": "https://s.shopee.com.br/7VHTk0SM2C",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
-      "preco": 12.9,
-      "precoDe": 30,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:04:45.217Z"
-    },
-    {
-      "id": "35926",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 8 peças para bebês (1 a 3 meses) com bodies de manga curta e shorts variados em algodão.",
-      "link": "https://meli.la/16GXYN5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818836-MLB119371328437_102026-O.webp",
-      "preco": 82.73,
-      "precoDe": 119.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T16:00:55.594Z"
-    },
-    {
-      "id": "35925",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
-      "link": "https://meli.la/2dgRoum",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620355-MLA99033065284_112025-F.jpg",
-      "preco": 243.17,
-      "precoDe": 440,
-      "desconto": 35,
-      "cupom": "MELIMAIS2610",
-      "enviadoEm": "2026-10-26T15:56:53.655Z"
     }
   ]
 }
