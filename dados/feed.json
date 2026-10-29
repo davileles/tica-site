@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-29T11:41:14.364Z",
+  "atualizadoEm": "2026-10-29T12:11:14.364Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37515",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 124.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:10:08.439Z"
+    },
+    {
+      "id": "37509",
+      "loja": "Shopee",
+      "titulo": "2026 smartwatch 9 pro Carregamento sem fio relógio inteligente 2.02 inches Série 9 Bluetooth Call",
+      "link": "https://s.shopee.com.br/9fM2qglMAf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw9-lzabd7yd64ru41_tn",
+      "preco": 55.88,
+      "precoDe": 151.03,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:03:51.232Z"
+    },
+    {
+      "id": "37505",
+      "loja": "Amazon",
+      "titulo": "JBL, Óculos Inteligentes, Soundgear Frames Round, Com Alto-Falantes - Ônix",
+      "link": "https://www.amazon.com.br/dp/B0D344ZXQZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fG8wixRnL._SL400_.jpg",
+      "preco": 399,
+      "precoDe": 799,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:59:53.929Z"
+    },
+    {
+      "id": "37503",
+      "loja": "Amazon",
+      "titulo": "Larios Gin Espanhol Dry Original 700ml",
+      "link": "https://www.amazon.com.br/dp/B00XUNT40Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413omRYNgDL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 72.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:56:04.959Z"
+    },
+    {
+      "id": "37502",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Refeição Burigotto Poke, Polar",
+      "link": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bJdu3dS4L._SL400_.jpg",
+      "preco": 186.99,
+      "precoDe": 345,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:51:58.030Z"
+    },
+    {
+      "id": "37500",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/30p8tawXhD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:50:53.428Z"
+    },
+    {
+      "id": "37499",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 82.5,
+      "precoDe": 117.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T11:42:55.544Z"
+    },
+    {
+      "id": "37494",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Pistola de Pintura Elétrica HVLP BDPH200B 110V",
+      "link": "https://www.amazon.com.br/dp/B0777PXK5X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I3RM6zGvL._SL400_.jpg",
+      "preco": 311.01,
+      "precoDe": 399,
+      "desconto": 8,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T11:41:23.057Z"
+    },
     {
       "id": "37493",
       "loja": "Shopee",
@@ -1717,18 +1813,6 @@
       "desconto": 78,
       "cupom": null,
       "enviadoEm": "2026-10-28T14:34:42.024Z"
-    },
-    {
-      "id": "36997",
-      "loja": "Amazon",
-      "titulo": "Larios Gin Espanhol Dry Original 700ml",
-      "link": "https://www.amazon.com.br/dp/B00XUNT40Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413omRYNgDL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 72.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T14:27:22.463Z"
     },
     {
       "id": "36984",
@@ -4131,18 +4215,6 @@
       "enviadoEm": "2026-10-27T12:45:57.122Z"
     },
     {
-      "id": "36266",
-      "loja": "Amazon",
-      "titulo": "JBL, Óculos Inteligentes, Soundgear Frames Round, Com Alto-Falantes - Ônix",
-      "link": "https://www.amazon.com.br/dp/B0D344ZXQZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fG8wixRnL._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 799,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T12:44:53.414Z"
-    },
-    {
       "id": "36260",
       "loja": "Mercado Livre",
       "titulo": "Memória Pc Ddr4 16gb 2666 4bit Infinity Memory",
@@ -5929,78 +6001,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-10-26T12:27:40.558Z"
-    },
-    {
-      "id": "35788",
-      "loja": "Shopee",
-      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
-      "link": "https://s.shopee.com.br/8pmr59JRxp",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
-      "preco": 19.88,
-      "precoDe": 26.86,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:23:25.301Z"
-    },
-    {
-      "id": "35787",
-      "loja": "Amazon",
-      "titulo": "ELG Câmera Robô Wi-Fi Full HD 360° com Rastreamento de Movimento | Áudio Bidirecional, Visão Noturna, Compatível com Alexa e Google, Requer Wi-Fi 2,4GHz, MicroSD até 128GB, Modelo ",
-      "link": "https://www.amazon.com.br/dp/B0B8GNV5LS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FfvXy6LNL._SL400_.jpg",
-      "preco": 189.99,
-      "precoDe": 545,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T12:19:32.922Z"
-    },
-    {
-      "id": "35779",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pants Ajuste Total Tamanho G 90 Unidades Pampers",
-      "link": "https://meli.la/1GJXjb1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645177-MLA110685776176_052026-F.jpg",
-      "preco": 108.72,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CPAMD2610",
-      "enviadoEm": "2026-10-26T12:15:50.941Z"
-    },
-    {
-      "id": "35762",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "link": "https://s.shopee.com.br/2VsnVvlwwb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
-      "preco": 44.9,
-      "precoDe": 71.27,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:49:52.570Z"
-    },
-    {
-      "id": "35750",
-      "loja": "Shopee",
-      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
-      "link": "https://s.shopee.com.br/qkZVGoDgv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
-      "preco": 59.97,
-      "precoDe": 85.67,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:26:47.966Z"
-    },
-    {
-      "id": "35749",
-      "loja": "Amazon",
-      "titulo": "VINHO ESPUMANTE CHARMAT DEMI SEC 1X660ML SAN MARTIN",
-      "link": "https://www.amazon.com.br/dp/B094DN92S5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51XcZfhhqgL._SL400_.jpg",
-      "preco": 34.02,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T11:23:12.074Z"
     }
   ]
 }
