@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T12:11:16.173Z",
+  "atualizadoEm": "2026-10-29T12:41:16.441Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1863,18 +1863,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CLUBNIVEA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 59.9,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Cupom válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-29T12:32:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA2810",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2099,7 +2087,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T11:59:59.000Z",
+      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
