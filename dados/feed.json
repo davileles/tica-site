@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-29T12:41:14.364Z",
+  "atualizadoEm": "2026-10-29T12:51:21.520Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37543",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 85,
+      "precoDe": 129.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T12:43:53.876Z"
+    },
     {
       "id": "37540",
       "loja": "Amazon",
@@ -2449,18 +2461,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-27T22:01:20.097Z"
-    },
-    {
-      "id": "36773",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 85,
-      "precoDe": 129.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T21:54:46.370Z"
     },
     {
       "id": "36772",
