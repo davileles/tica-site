@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-29T17:50:21.625Z",
+  "atualizadoEm": "2026-10-29T18:20:21.638Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "37839",
+      "loja": "Shopee",
+      "titulo": "Calcinha Renda Cinta Cintura Alta Confortável Adulto Delicada",
+      "link": "https://s.shopee.com.br/3qOGJM1BVm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mldw3q8yo2djf5_tn",
+      "preco": 79.9,
+      "precoDe": 99.88,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T18:16:56.030Z"
+    },
+    {
+      "id": "37836",
+      "loja": "Shopee",
+      "titulo": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
+      "link": "https://s.shopee.com.br/9APmeur8K1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e_tn",
+      "preco": 14.9,
+      "precoDe": 19.87,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T18:13:34.824Z"
+    },
+    {
+      "id": "37835",
+      "loja": "Shopee",
+      "titulo": "Vestido Midi Manga Longa Gestante Gola Alta Feminino Inverno Maternidade Canelado Elegante De Frio",
+      "link": "https://s.shopee.com.br/4qGnUiDtYG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqf2dnlu9tkz98_tn",
+      "preco": 39.98,
+      "precoDe": 79.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T18:09:53.532Z"
+    },
+    {
+      "id": "37828",
+      "loja": "Shopee",
+      "titulo": "Cerveja Coronita Extra 210ml - Caixa Com 24 Unidades",
+      "link": "https://s.shopee.com.br/8AXFSYufS2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may7cjm4bk3za0_tn",
+      "preco": 139.9,
+      "precoDe": 180.74,
+      "desconto": 6,
+      "cupom": "RESGATE AQUI: HTTPS://S.SHOPEE.COM.BR/2LZSSOPU6M",
+      "enviadoEm": "2026-10-29T18:06:21.127Z"
+    },
+    {
+      "id": "37827",
+      "loja": "Shopee",
+      "titulo": "Macacão Bebê Natal Tricot Papai Noel Feliz Natal RN A 3 Meses",
+      "link": "https://s.shopee.com.br/60SksWvG83",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mu0lozhgxjb622_tn",
+      "preco": 36.89,
+      "precoDe": 89.98,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T18:02:49.440Z"
+    },
+    {
+      "id": "37824",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER Serra Mármore 115mm, Potência 1200W, Sem Disco, BES41200, 220V",
+      "link": "https://www.amazon.com.br/dp/B0FN6F29KW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414ueyDYB2L._SL400_.jpg",
+      "preco": 270.3,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-29T17:59:15.885Z"
+    },
+    {
+      "id": "37814",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Laços de Bebê Menina Recém-Nascida Faixinha Enxoval Saída Maternidade",
+      "link": "https://s.shopee.com.br/30p9IRyosI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-muqbo73r7z0hd3_tn",
+      "preco": 24.33,
+      "precoDe": 39.89,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T17:58:08.202Z"
+    },
+    {
+      "id": "37812",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 78.9,
+      "precoDe": 106.18,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T17:54:14.127Z"
+    },
+    {
+      "id": "37811",
+      "loja": "Amazon",
+      "titulo": "Fischer Air Fryer Smart 8L Preto 220V 37010-104682",
+      "link": "https://www.amazon.com.br/dp/B0DYQFSGXD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Laers4OvL._SL400_.jpg",
+      "preco": 281.38,
+      "precoDe": 899,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T17:53:14.821Z"
+    },
     {
       "id": "37810",
       "loja": "Shopee",
@@ -4755,18 +4863,6 @@
       "enviadoEm": "2026-10-27T14:57:06.081Z"
     },
     {
-      "id": "36383",
-      "loja": "Amazon",
-      "titulo": "Bourbon Whiskey Jim Beam White 1L",
-      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
-      "preco": 78.9,
-      "precoDe": 106.18,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:53:08.004Z"
-    },
-    {
       "id": "36381",
       "loja": "Shopee",
       "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
@@ -5905,102 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-10-26T19:59:48.350Z"
-    },
-    {
-      "id": "36098",
-      "loja": "Amazon",
-      "titulo": "Staright White Noise Sleep Machine Built-in 6 Som suave Luz de respiração suave 15/30/60 Sincronização inteligente para pessoas de todas as idades",
-      "link": "https://www.amazon.com.br/dp/B0989P62HY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UraNfiCOS._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 63,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:58:55.001Z"
-    },
-    {
-      "id": "36089",
-      "loja": "Mercado Livre",
-      "titulo": "Torneira Tubo Flexível Bancada Cozinha Color Preta Luxo Cor Preto Alpha Hidrometais Torneira C65",
-      "link": "https://meli.la/1UngT1E",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655940-MLA109768713549_032026-F.jpg",
-      "preco": 33.23,
-      "precoDe": 67.85,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:41:22.659Z"
-    },
-    {
-      "id": "36087",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Challenger Extra Small Puma",
-      "link": "https://meli.la/12YAGfM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_904747-MLA104280721787_012026-F.jpg",
-      "preco": 161.1,
-      "precoDe": 279.99,
-      "desconto": 36,
-      "cupom": "TIENDAS2610",
-      "enviadoEm": "2026-10-26T19:37:44.632Z"
-    },
-    {
-      "id": "36084",
-      "loja": "Amazon",
-      "titulo": "PHILIPS, Headphone Bluetooth, TAH2300BK/00, Com Microfone, Até 55 horas de bateria, Design Over-ear, Dobrável, Preto",
-      "link": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zIK5XKiPL._SL400_.jpg",
-      "preco": 119.84,
-      "precoDe": 149,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:33:50.936Z"
-    },
-    {
-      "id": "36080",
-      "loja": "Shopee",
-      "titulo": "Mini Máquina Seladora De Embalagem 2 em 1 Recarregável 5v Bivolt",
-      "link": "https://s.shopee.com.br/5VWPayYQhE",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82262-mhvlzshohmh275_tn",
-      "preco": 11.99,
-      "precoDe": 26.07,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:29:57.952Z"
-    },
-    {
-      "id": "36076",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml | Praia e Piscina, Extra Proteção, Dermatologicamente Testado, Extratos Calmantes",
-      "link": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31698Pax84L._SL400_.jpg",
-      "preco": 44.99,
-      "precoDe": 48.99,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:26:36.451Z"
-    },
-    {
-      "id": "36071",
-      "loja": "Amazon",
-      "titulo": "Papi Textil Paninho De Boca Papi Compose Bordado C/Prendedor De Chupeta 38Cm X 38Cm Contem 03 Un",
-      "link": "https://www.amazon.com.br/dp/B097NW6C11?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41M11HIocNS._SL400_.jpg",
-      "preco": 15.67,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:22:43.788Z"
-    },
-    {
-      "id": "36070",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Johnson's Baby, Frutas Vermelhas, Edição Limitada, 400ml | Fórmula Chega de Lágrimas, Livre de Parabenos e Sulfatos, Dermatologicamente Testado",
-      "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41J8B7O2O1L._SL400_.jpg",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-26T19:21:51.154Z"
     }
   ]
 }
