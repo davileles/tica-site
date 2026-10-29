@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T14:50:23.251Z",
+  "atualizadoEm": "2026-10-29T15:00:12.600Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -648,18 +648,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CELULARES2810",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-29T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1863,18 +1851,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA2810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-10-29T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SAUDE2810",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2052,18 +2028,6 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-30T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OBRAS2810",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
-      "validadeAte": "2026-10-29T15:00:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2808,6 +2772,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T18:04:28.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "P0S3SQU3NT4",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-30T14:55:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
