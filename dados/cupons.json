@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T18:20:23.584Z",
+  "atualizadoEm": "2026-10-29T18:50:24.733Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -111,6 +111,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
+      "codigo": "BF50EXTRA",
+      "loja": "Brinox Shop",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "BF30",
+      "loja": "Brinox Shop",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "BF25",
+      "loja": "Brinox Shop",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-20T18:14:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
       "codigo": "HOJETEMASSA",
       "loja": "Brinox Shop",
       "tipo": "pct",
@@ -120,6 +156,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
+    },
+    {
+      "codigo": "BF15",
+      "loja": "Brinox Shop",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-20T18:12:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
