@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-10-29T21:50:21.873Z",
+  "atualizadoEm": "2026-10-29T22:20:21.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38059",
+      "loja": "Shopee",
+      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "link": "https://s.shopee.com.br/4B16yX32Hb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
+      "preco": 10.97,
+      "precoDe": 18.28,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T22:19:49.390Z"
+    },
+    {
+      "id": "38057",
+      "loja": "Amazon",
+      "titulo": "Tech T-shirt Gola U Masculino Preto G",
+      "link": "https://www.amazon.com.br/dp/B0BFT97SDN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Z5Lba0iIL._SL400_.jpg",
+      "preco": 53.940000000000005,
+      "precoDe": 159,
+      "desconto": 43,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T22:16:30.842Z"
+    },
+    {
+      "id": "38056",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino E Feminino Response Runner 2 Adidas",
+      "link": "https://meli.la/1naeNiG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867418-MLB114319935420_082026-P.webp",
+      "preco": 249.99,
+      "precoDe": 399.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T22:12:58.431Z"
+    },
+    {
+      "id": "38054",
+      "loja": "Shopee",
+      "titulo": "Gabinete Gamer Gb1790 Hayom 4 Fans Rgb Micro-atx Vidro Temp Cor Preto",
+      "link": "https://s.shopee.com.br/1145BsnIGY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meatrpxmaupv51_tn",
+      "preco": 234.96,
+      "precoDe": 499.91,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T22:09:14.967Z"
+    },
+    {
+      "id": "38053",
+      "loja": "Shopee",
+      "titulo": "VODKA ABSOLUT NATURAL 1L KIT 2 UNIDADES",
+      "link": "https://s.shopee.com.br/80DpLeRZXl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqx5085xhn2f6b_tn",
+      "preco": 129.99,
+      "precoDe": 219.16,
+      "desconto": 27,
+      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
+      "enviadoEm": "2026-10-29T22:05:16.493Z"
+    },
+    {
+      "id": "38052",
+      "loja": "Amazon",
+      "titulo": "Mala de Viagem Samsonite Fiero 3.0 Spinner com Cadeado TSA",
+      "link": "https://www.amazon.com.br/dp/B0DSCDZWKM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hiF9czkCL._SL400_.jpg",
+      "preco": 529.9,
+      "precoDe": 1200,
+      "desconto": 31,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T22:01:22.498Z"
+    },
+    {
+      "id": "38045",
+      "loja": "Amazon",
+      "titulo": "Mala de Viagem American Tourister Tesa 4.0 Spinner Prata Grande",
+      "link": "https://www.amazon.com.br/dp/B0G59WDVD5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ukgoc+QML._SL400_.jpg",
+      "preco": 364.5,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T21:55:46.115Z"
+    },
+    {
+      "id": "38044",
+      "loja": "Amazon",
+      "titulo": "Vinho Espumante Demi-Sec Omnium Importado Argentina 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0GRKCQXP9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fMfHuo5JL._SL400_.jpg",
+      "preco": 30.73,
+      "precoDe": 56.9,
+      "desconto": 10,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-29T21:52:12.383Z"
+    },
+    {
+      "id": "38040",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/20wcMPC0NQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
+      "preco": 28.44,
+      "precoDe": 60.51,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-29T21:50:52.541Z"
+    },
     {
       "id": "38038",
       "loja": "Amazon",
@@ -541,18 +649,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-29T19:30:41.528Z"
-    },
-    {
-      "id": "37938",
-      "loja": "Shopee",
-      "titulo": "VODKA ABSOLUT NATURAL 1L KIT 2 UNIDADES",
-      "link": "https://s.shopee.com.br/80DpLeRZXl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqx5085xhn2f6b_tn",
-      "preco": 129.99,
-      "precoDe": 219.16,
-      "desconto": 27,
-      "cupom": "RESGATE AQUI: HTTPS://S.SHOPEE.COM.BR/2LZSSOPU6M",
-      "enviadoEm": "2026-10-29T19:27:19.958Z"
     },
     {
       "id": "37937",
@@ -5905,102 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-10-27T13:28:47.799Z"
-    },
-    {
-      "id": "36303",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/1141Q1f1sW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.95,
-      "precoDe": 67.8,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:28:00.485Z"
-    },
-    {
-      "id": "36302",
-      "loja": "Mercado Livre",
-      "titulo": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
-      "link": "https://meli.la/1t72T7s",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940680-MLA99700976956_122025-F.jpg",
-      "preco": 469.96,
-      "precoDe": 699,
-      "desconto": 24,
-      "cupom": "HOJETECH",
-      "enviadoEm": "2026-10-27T13:24:21.231Z"
-    },
-    {
-      "id": "36301",
-      "loja": "Amazon",
-      "titulo": "WAP Trena Digital a Laser TLP 40 Alcance 40m Tela LCD | Alcance de até 40m, tela LCD",
-      "link": "https://www.amazon.com.br/dp/B0BFFGX3CV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/519sQv-JSOL._SL400_.jpg",
-      "preco": 162.02,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:20:29.882Z"
-    },
-    {
-      "id": "36300",
-      "loja": "Amazon",
-      "titulo": "Kit Infantil para Unhas Pais e Filhos, Azul",
-      "link": "https://www.amazon.com.br/dp/B07FWBJ74V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41w40PhaoPL._SL400_.jpg",
-      "preco": 9.49,
-      "precoDe": 17.35,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:19:26.002Z"
-    },
-    {
-      "id": "36299",
-      "loja": "Amazon",
-      "titulo": "Creme Hidratante Neutrogena Hidrata&Repara, Kit 2 Unidades de 400ml | Corporal, Fragrância Suave, Cruelty-Free",
-      "link": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4102EXm3qIL._SL400_.jpg",
-      "preco": 58.49,
-      "precoDe": 72.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:18:36.618Z"
-    },
-    {
-      "id": "36293",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G7WGYR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51AsF1KY2fL._SL400_.jpg",
-      "preco": 21.76,
-      "precoDe": 30.17,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:10:37.176Z"
-    },
-    {
-      "id": "36290",
-      "loja": "Amazon",
-      "titulo": "Refrigerante de Guaraná Fanta, 350ml, Pack com 6 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BZ1M58PB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51IIULFYg4L._SL400_.jpg",
-      "preco": 16.74,
-      "precoDe": 20.94,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:09:45.583Z"
-    },
-    {
-      "id": "36289",
-      "loja": "Amazon",
-      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
-      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
-      "preco": 67.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T13:06:24.843Z"
     }
   ]
 }
