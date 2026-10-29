@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T13:50:23.720Z",
+  "atualizadoEm": "2026-10-29T14:20:23.452Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1983,6 +1983,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2040,18 +2052,6 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-30T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 25,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2811,18 +2811,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "ESF3R42810SHOPB",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Limitado a 1 uso por CPF e 400 utilizações. Válido até 28/10.",
-      "validadeAte": "2026-10-29T14:09:44.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "ULT1M0D0D1A",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2832,18 +2820,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-29T18:04:28.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "5D3D3SC0NT0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-29T14:00:47.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
