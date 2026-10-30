@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-10-30T20:44:30.463Z",
+  "atualizadoEm": "2026-10-30T21:14:30.464Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38605",
+      "loja": "Shopee",
+      "titulo": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
+      "link": "https://s.shopee.com.br/3B8bJPEpmW",
+      "imagem": "https://cf.shopee.com.br/file/5b4a2c4487753a6da0ae4e835b39afed_tn",
+      "preco": 142.99,
+      "precoDe": 153.75,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:13:47.364Z"
+    },
+    {
+      "id": "38593",
+      "loja": "Shopee",
+      "titulo": "Tênis infantil Sapatos infantis casuais para meninos Tênis de moda para meninas Leve e macio",
+      "link": "https://s.shopee.com.br/60Smg0bGwe",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lt14nejtnufx0d_tn",
+      "preco": 51.18,
+      "precoDe": 127.46,
+      "desconto": 52,
+      "cupom": "ULT1M0D0M3S",
+      "enviadoEm": "2026-10-30T21:10:10.108Z"
+    },
+    {
+      "id": "38584",
+      "loja": "Amazon",
+      "titulo": "Tônica Antarctica 350ml 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0933GRS63?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eDcELpUyS._SL400_.jpg",
+      "preco": 66.97,
+      "precoDe": 71.9,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:02:30.139Z"
+    },
+    {
+      "id": "38583",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila Phase Puma",
+      "link": "https://meli.la/2r8Mk6R",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854764-MLA81945554258_022025-F.jpg",
+      "preco": 111.37,
+      "precoDe": 229.99,
+      "desconto": 46,
+      "cupom": "MODA3010",
+      "enviadoEm": "2026-10-30T21:01:25.687Z"
+    },
+    {
+      "id": "38582",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/7fb0eHk2r2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 23.89,
+      "precoDe": 70.26,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T20:57:57.816Z"
+    },
+    {
+      "id": "38581",
+      "loja": "Amazon",
+      "titulo": "BLACK+DECKER FRIGIDEIRA 22 CM 1,5 LITROS CERAMIC LINE - CORPO COM REVESTIMENTO CERÂMICO ANTIADERENTE COM ACABAMENTO EXTERNO NA COR PRETA E BASE COMPATÍVEL COM INDUÇÃO - BLACK",
+      "link": "https://www.amazon.com.br/dp/B0GV5H1TTQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rYUtzpZ8L._SL400_.jpg",
+      "preco": 86.93,
+      "precoDe": 144.67,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T20:54:05.843Z"
+    },
+    {
+      "id": "38579",
+      "loja": "Shopee",
+      "titulo": "Saída Maternidade de Menina Luxo Rosa e Cinza com Cereja 4 pçs",
+      "link": "https://s.shopee.com.br/50aFSxMhdl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mta3ggc7mdc12d_tn",
+      "preco": 72.9,
+      "precoDe": 90,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T20:50:35.198Z"
+    },
+    {
+      "id": "38578",
+      "loja": "Amazon",
+      "titulo": "Shorts Esportivo Serotonin Insider Feminina, Preto, Tamanho P",
+      "link": "https://www.amazon.com.br/dp/B0G8N43PM3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/317Li2hVeQL._SL400_.jpg",
+      "preco": 72.48,
+      "precoDe": 229,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T20:47:16.749Z"
+    },
     {
       "id": "38577",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-10-28T12:21:25.238Z"
-    },
-    {
-      "id": "36850",
-      "loja": "Shopee",
-      "titulo": "Máquina de Solda Inversora MMA 250A IGBT Portátil 110V ou 220V com Display Digital e Kit Completo",
-      "link": "https://s.shopee.com.br/AAIHqsnm13",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqo6x1rc17ggd2_tn",
-      "preco": 238.99,
-      "precoDe": 582.9,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T12:08:50.954Z"
-    },
-    {
-      "id": "36849",
-      "loja": "Mercado Livre",
-      "titulo": "Cortina Blackout Em Tecido 3x2,80 100% Corta Luz Veda Calor - R$ 76,99",
-      "link": "https://meli.la/2kjjAnH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874837-MLB80479392825_112024-P.webp",
-      "preco": 57.739999999999995,
-      "precoDe": 85.99,
-      "desconto": 10,
-      "cupom": "OFFAQUI",
-      "enviadoEm": "2026-10-28T12:07:40.349Z"
-    },
-    {
-      "id": "36846",
-      "loja": "Amazon",
-      "titulo": "Cerveja Guinness Draught 440ml",
-      "link": "https://www.amazon.com.br/dp/B07Y2BTQQT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41p+fr4OcrL._SL400_.jpg",
-      "preco": 23.99,
-      "precoDe": 34.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T12:00:08.370Z"
-    },
-    {
-      "id": "36843",
-      "loja": "Shopee",
-      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
-      "link": "https://s.shopee.com.br/2qVh6q3hnL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
-      "preco": 38.99,
-      "precoDe": 129.97,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T11:59:10.328Z"
-    },
-    {
-      "id": "36842",
-      "loja": "Mercado Livre",
-      "titulo": "Pistola De Água Elétrica Automática C/ Absorção De Água Branco",
-      "link": "https://meli.la/1omw1kY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729397-MLA114557456096_082026-F.jpg",
-      "preco": 44.61,
-      "precoDe": 189.98,
-      "desconto": 69,
-      "cupom": "COMPRANOMELI",
-      "enviadoEm": "2026-10-28T11:55:18.943Z"
-    },
-    {
-      "id": "36840",
-      "loja": "Amazon",
-      "titulo": "Kit Higiene Bucal",
-      "link": "https://www.amazon.com.br/dp/B0BDPGKWXK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41WDzdgZpAL._SL400_.jpg",
-      "preco": 27.9,
-      "precoDe": 42.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T11:45:39.575Z"
-    },
-    {
-      "id": "36835",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/5AtbrXzDCd",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 12.03,
-      "precoDe": 50.13,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T11:34:18.991Z"
-    },
-    {
-      "id": "36833",
-      "loja": "Shopee",
-      "titulo": "Termômetro De Testa Infravermelha Digital",
-      "link": "https://s.shopee.com.br/7fawpZhcxl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
-      "preco": 22.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T11:25:41.768Z"
     }
   ]
 }
