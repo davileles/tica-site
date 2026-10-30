@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T12:14:31.461Z",
+  "atualizadoEm": "2026-10-30T12:44:32.165Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -675,6 +675,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 99,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 99,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "99SITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1198,7 +1210,7 @@
       "minimo": 0,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
       "validadeAte": "2026-12-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1779,18 +1791,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 219,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1947,6 +1947,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELICASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
+      "validadeAte": "2026-10-31T12:16:33.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJAS2910",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1967,7 +1979,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-10-31T12:00:16.000Z",
+      "validadeAte": "2026-10-31T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
