@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-30T21:58:51.455Z",
+  "atualizadoEm": "2026-10-30T22:14:30.473Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38646",
+      "loja": "Amazon",
+      "titulo": "Pack de SCHWEPPES Tônica 350ml 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BYTQHNSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41O-VpfJiwL._SL400_.jpg",
+      "preco": 20.94,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T22:13:06.553Z"
+    },
+    {
+      "id": "38644",
+      "loja": "Shopee",
+      "titulo": "Mini Torno Bancada Profissional Base Fixa Morsa 40mm Aço Reforçado Starfer Liga Aluminio CTZ",
+      "link": "https://s.shopee.com.br/4LKYlafOhW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mu9kx92vd8n77c_tn",
+      "preco": 34.9,
+      "precoDe": 51.32,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T22:10:17.183Z"
+    },
+    {
+      "id": "38643",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/4Vdyxk5pgF",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259j-muxlzi424n441e_tn",
+      "preco": 34.02,
+      "precoDe": 42,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T22:09:13.063Z"
+    },
+    {
+      "id": "38641",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraGear - Tela VA FHD 32”, 144Hz nativo, 1ms (MBR), AMD FreeSync, HDR10, sRGB 99%, Preto - 32G403B",
+      "link": "https://meli.la/2z1zHEp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992594-MLA118348137126_102026-F.jpg",
+      "preco": 969,
+      "precoDe": 1448.88,
+      "desconto": 23,
+      "cupom": "MELI150TODOSITE",
+      "enviadoEm": "2026-10-30T22:03:32.458Z"
+    },
+    {
+      "id": "38640",
+      "loja": "Mercado Livre",
+      "titulo": "Gabinete Gamer Obsid Frame Preto Vidro Mid Tower S/ Fan Preto - R$ 339,86",
+      "link": "https://meli.la/1QPtb8L",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811749-MLB114971963855_072026-P.webp",
+      "preco": 288.88,
+      "precoDe": 399,
+      "desconto": 15,
+      "cupom": "SITEMELIMAIS15",
+      "enviadoEm": "2026-10-30T21:59:56.543Z"
+    },
     {
       "id": "38635",
       "loja": "Shopee",
@@ -5941,66 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-10-28T14:11:33.359Z"
-    },
-    {
-      "id": "36980",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 43.9,
-      "precoDe": 71.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T14:06:19.001Z"
-    },
-    {
-      "id": "36969",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Taças Bowls De Vidro Para Sobremesas E Sorvete 6 Unidades - R$ 23,90",
-      "link": "https://meli.la/2sBnh7i",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761806-MLB110796598632_052026-P.webp",
-      "preco": 23.9,
-      "precoDe": 39.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T13:53:57.766Z"
-    },
-    {
-      "id": "36968",
-      "loja": "Amazon",
-      "titulo": "Vinho Tinto Trapiche Roble Pinot Noir, 750ml",
-      "link": "https://www.amazon.com.br/dp/B004B26I5O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21zCP1L8aZL._SL400_.jpg",
-      "preco": 47.99,
-      "precoDe": 84.62,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T13:49:57.562Z"
-    },
-    {
-      "id": "36966",
-      "loja": "Shopee",
-      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "link": "https://s.shopee.com.br/60Sj0K2v0R",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
-      "preco": 28.98,
-      "precoDe": 60.38,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T13:48:32.516Z"
-    },
-    {
-      "id": "36945",
-      "loja": "Shopee",
-      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
-      "link": "https://s.shopee.com.br/9APkkN8tpW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
-      "preco": 39.9,
-      "precoDe": 66.5,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T13:25:56.812Z"
     }
   ]
 }
