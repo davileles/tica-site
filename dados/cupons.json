@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T13:44:31.592Z",
+  "atualizadoEm": "2026-10-30T14:44:31.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -627,6 +627,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "GANHA100",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T14:40:33.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "MOVEIS200",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1200,6 +1212,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-31T12:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GARIMPEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
