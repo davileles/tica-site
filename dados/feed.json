@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-30T13:44:29.667Z",
+  "atualizadoEm": "2026-10-30T14:03:30.083Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38285",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/70LJOHDVQa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 79.89,
+      "precoDe": 199.73,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T13:53:30.074Z"
+    },
+    {
+      "id": "38279",
+      "loja": "Amazon",
+      "titulo": "Electrolux Liquidificador 3 em 1 1300W 3,2L TriForce EBL1300 127V Preto | 2,1L capacidade útil 12 velocidades 6 lâminas função pulsar triturar misturar preparar sucos vitaminas mas",
+      "link": "https://www.amazon.com.br/dp/B0FPRHGDK8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31dPCYHGM4L._SL400_.jpg",
+      "preco": 101.94000000000001,
+      "precoDe": 229.9,
+      "desconto": 26,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T13:48:45.496Z"
+    },
     {
       "id": "38277",
       "loja": "Mercado Livre",
@@ -829,18 +853,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-29T21:04:30.027Z"
-    },
-    {
-      "id": "38006",
-      "loja": "Amazon",
-      "titulo": "Electrolux Liquidificador 3 em 1 1300W 3,2L TriForce EBL1300 127V Preto | 2,1L capacidade útil 12 velocidades 6 lâminas função pulsar triturar misturar preparar sucos vitaminas mas",
-      "link": "https://www.amazon.com.br/dp/B0FPRHGDK8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dPCYHGM4L._SL400_.jpg",
-      "preco": 107.94000000000001,
-      "precoDe": 229.9,
-      "desconto": 22,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T21:00:42.455Z"
     },
     {
       "id": "38004",
@@ -5989,18 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-10-27T15:50:58.574Z"
-    },
-    {
-      "id": "36424",
-      "loja": "Amazon",
-      "titulo": "WAAW by ALOK Fone de Ouvido Gamer ENERGY 10EWG com Fio, Intra-Auricular, Microfone Extra Destacável, Case de Transporte",
-      "link": "https://www.amazon.com.br/dp/B0BWPJYPC8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LkzIF9wOL._SL400_.jpg",
-      "preco": 34.9,
-      "precoDe": 99.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T15:47:10.038Z"
     }
   ]
 }
