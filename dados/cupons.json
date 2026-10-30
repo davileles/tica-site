@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T19:14:31.864Z",
+  "atualizadoEm": "2026-10-30T19:44:31.541Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -243,6 +243,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
+      "codigo": "ELUXTEM10",
+      "loja": "Carrefour",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
+    },
+    {
       "codigo": "ELUXCOM5",
       "loja": "Carrefour",
       "tipo": "pct",
@@ -349,6 +361,18 @@
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
+    },
+    {
+      "codigo": "ESQUENTAPLAY",
+      "loja": "Kabum",
+      "tipo": "reais",
+      "valor": 400,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T15:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "ASROCK100",
@@ -2799,18 +2823,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "TRUQU3",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T19:33:14.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "M3USH0WF4V0R1T0",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2856,18 +2868,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T11:34:44.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "0UTUBR050FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T19:32:10.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
