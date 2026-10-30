@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T13:14:31.919Z",
+  "atualizadoEm": "2026-10-30T13:44:31.592Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -613,6 +613,18 @@
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=33061&id=1207116"
+    },
+    {
+      "codigo": "PELANDO300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois códigos alternativos para o mesmo desconto de R$300",
+      "validadeAte": "2026-10-31T13:26:16.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "MOVEIS200",
