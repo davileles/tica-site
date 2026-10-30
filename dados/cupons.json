@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T02:07:59.228Z",
+  "atualizadoEm": "2026-10-30T03:07:59.235Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,42 +13,6 @@
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "ESTILO15",
-      "loja": "ASICS",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
-    },
-    {
-      "codigo": "JOGA15",
-      "loja": "ASICS",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
-    },
-    {
-      "codigo": "RUN15",
-      "loja": "ASICS",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
     },
     {
       "codigo": "15SELECAO",
@@ -1599,18 +1563,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELICOMPRACERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:32.621Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BARRATINHOAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1656,18 +1608,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VEMDEOFFMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:32.621Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1887,18 +1827,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "20TIENDAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-30T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BONUSML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1911,15 +1839,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MLMELHORESPROMOS",
+      "codigo": "ESTOQUE2910",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 18,
-      "minimo": 0,
+      "valor": 20,
+      "minimo": 99,
       "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-30T02:59:00.000Z",
+      "limite": 50,
+      "observacao": "Válido na lista específica",
+      "validadeAte": "2026-10-31T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1983,18 +1911,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2016,42 +1932,6 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-30T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE2810TODO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-10-30T03:00:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAPRATECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2739,6 +2619,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
+      "codigo": "300MENOSAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T03:00:05.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "10M1LH03S",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2784,6 +2676,18 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-10-30T15:00:15.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "VEMNOVEMBROAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 35,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T03:00:05.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
