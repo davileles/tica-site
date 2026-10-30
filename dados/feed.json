@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-30T14:03:30.083Z",
+  "atualizadoEm": "2026-10-30T14:14:29.668Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38290",
+      "loja": "Amazon",
+      "titulo": "Mixer de mão Electrolux Preto 400W com Tecnologia TruFlow 1 velocidade função turbo EIB05 220V",
+      "link": "https://www.amazon.com.br/dp/B0CZLXP9WS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/216D0yyOwIL._SL400_.jpg",
+      "preco": 59.940000000000005,
+      "precoDe": 169.9,
+      "desconto": 41,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T14:11:24.847Z"
+    },
     {
       "id": "38285",
       "loja": "Shopee",
@@ -1033,18 +1045,6 @@
       "desconto": 25,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:14:08.272Z"
-    },
-    {
-      "id": "37980",
-      "loja": "Amazon",
-      "titulo": "Mixer de mão Electrolux Preto 400W com Tecnologia TruFlow 1 velocidade função turbo EIB05 220V",
-      "link": "https://www.amazon.com.br/dp/B0CZLXP9WS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/216D0yyOwIL._SL400_.jpg",
-      "preco": 59.940000000000005,
-      "precoDe": 169.9,
-      "desconto": 41,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:10:46.339Z"
     },
     {
       "id": "37978",
