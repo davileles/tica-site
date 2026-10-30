@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-30T14:44:29.668Z",
+  "atualizadoEm": "2026-10-30T15:11:36.984Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38316",
+      "loja": "Shopee",
+      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
+      "link": "https://s.shopee.com.br/5q9M4oxBze",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
+      "preco": 12.97,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:01:36.981Z"
+    },
+    {
+      "id": "38313",
+      "loja": "Amazon",
+      "titulo": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
+      "link": "https://www.amazon.com.br/dp/B0DBR1N89F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51jfJ2jeimL._SL400_.jpg",
+      "preco": 329.93999999999994,
+      "precoDe": 1199,
+      "desconto": 54,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T14:56:49.374Z"
+    },
+    {
+      "id": "38312",
+      "loja": "Amazon",
+      "titulo": "Buba, Naninha Unicórnio",
+      "link": "https://www.amazon.com.br/dp/B088H536P5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31alm73L5AL._SL400_.jpg",
+      "preco": 41.78,
+      "precoDe": 51.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T14:52:21.472Z"
+    },
+    {
+      "id": "38309",
+      "loja": "Amazon",
+      "titulo": "Daily T-shirt Masculino Preto G",
+      "link": "https://www.amazon.com.br/dp/B0BHMGY76M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jj072r3bL._SL400_.jpg",
+      "preco": 47.36,
+      "precoDe": 139,
+      "desconto": 60,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-30T14:51:27.360Z"
+    },
+    {
+      "id": "38306",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa de Som Bluetooth Portátil Xtreme 4 JBL Cor Preta",
+      "link": "https://meli.la/1KAVgcV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730591-MLA99979900471_112025-F.jpg",
+      "preco": 1052.1,
+      "precoDe": 2199,
+      "desconto": 47,
+      "cupom": "AQUITEMTECH",
+      "enviadoEm": "2026-10-30T14:46:43.623Z"
+    },
     {
       "id": "38301",
       "loja": "Shopee",
@@ -1009,18 +1069,6 @@
       "desconto": 17,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:41:44.595Z"
-    },
-    {
-      "id": "37991",
-      "loja": "Amazon",
-      "titulo": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-      "link": "https://www.amazon.com.br/dp/B0DBR1N89F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51jfJ2jeimL._SL400_.jpg",
-      "preco": 329.93999999999994,
-      "precoDe": 1199,
-      "desconto": 54,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:38:09.095Z"
     },
     {
       "id": "37989",
@@ -2725,18 +2773,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:36:24.755Z"
-    },
-    {
-      "id": "37489",
-      "loja": "Amazon",
-      "titulo": "Daily T-shirt Masculino Preto G",
-      "link": "https://www.amazon.com.br/dp/B0BHMGY76M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jj072r3bL._SL400_.jpg",
-      "preco": 65.55,
-      "precoDe": 139,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:32:07.126Z"
     },
     {
       "id": "37487",
@@ -5965,42 +6001,6 @@
       "desconto": 35,
       "cupom": "MODA15",
       "enviadoEm": "2026-10-27T16:16:43.616Z"
-    },
-    {
-      "id": "36457",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora 3D Bambu Lab A1 Mini cor cinza Sem AMS",
-      "link": "https://meli.la/29grHGq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809225-MLA116319959373_082026-F.jpg",
-      "preco": 1711,
-      "precoDe": 2087,
-      "desconto": 6,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T16:12:12.915Z"
-    },
-    {
-      "id": "36454",
-      "loja": "Amazon",
-      "titulo": "Berço Cosco Kids, Nanny, 0 a 18kg, Preto Mescla",
-      "link": "https://www.amazon.com.br/dp/B0D6X6XTQN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GimLxWf1L._SL400_.jpg",
-      "preco": 359.95,
-      "precoDe": 396,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:07:50.304Z"
-    },
-    {
-      "id": "36444",
-      "loja": "Shopee",
-      "titulo": "Creme para Pentear Multifuncional Hidra Multy Kids Salon Line 300ml",
-      "link": "https://s.shopee.com.br/9Kj9WSqEXZ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msbwuxmc5dl2c9_tn",
-      "preco": 10.5,
-      "precoDe": 14.79,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:02:36.149Z"
     }
   ]
 }
