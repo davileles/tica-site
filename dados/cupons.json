@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T23:07:39.693Z",
+  "atualizadoEm": "2026-10-30T23:26:39.939Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2047,7 +2047,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 249,
+      "minimo": 0,
       "maximo": null,
       "limite": 70,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
