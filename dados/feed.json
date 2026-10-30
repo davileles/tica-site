@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-30T12:14:29.497Z",
+  "atualizadoEm": "2026-10-30T12:44:29.650Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38223",
+      "loja": "Shopee",
+      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
+      "link": "https://s.shopee.com.br/AAIL50Zwmn",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
+      "preco": 23.9,
+      "precoDe": 79.67,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T12:42:16.081Z"
+    },
+    {
+      "id": "38198",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Nike Sportswear Essentials Feminina - R$ 69,99",
+      "link": "https://meli.la/12Xs8bx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810201-MLB100382519158_122025-P.webp",
+      "preco": 48.989999999999995,
+      "precoDe": 129.99,
+      "desconto": 46,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-10-30T12:39:00.115Z"
+    },
+    {
+      "id": "38194",
+      "loja": "Amazon",
+      "titulo": "Pasta de Dente Oral-B 3D White Carvão, 3 Un de 70 g",
+      "link": "https://www.amazon.com.br/dp/B0H96XW8TW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51lHJho7mhL._SL400_.jpg",
+      "preco": 12.589999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T12:34:27.514Z"
+    },
+    {
+      "id": "38184",
+      "loja": "Mercado Livre",
+      "titulo": "Mouse Gamer Mchose A5 V3 Ultra Sem Fio Paw3395 26k Dpi",
+      "link": "https://meli.la/2rc7o8D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632729-MLB114466962769_072026-P.webp",
+      "preco": 184.8,
+      "precoDe": 420,
+      "desconto": 37,
+      "cupom": "CUPOMAQUI",
+      "enviadoEm": "2026-10-30T12:27:05.208Z"
+    },
+    {
+      "id": "38183",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeteira Elétrica Arno Soleil 1,25l Spfc",
+      "link": "https://meli.la/1W2M2fp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602354-MLA99470567950_112025-F.jpg",
+      "preco": 79.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ESTOQUE2910",
+      "enviadoEm": "2026-10-30T12:23:31.414Z"
+    },
+    {
+      "id": "38178",
+      "loja": "Amazon",
+      "titulo": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E+tvOEf4L._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 45.56,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T12:20:16.317Z"
+    },
+    {
+      "id": "38172",
+      "loja": "Shopee",
+      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
+      "link": "https://s.shopee.com.br/6VP2gKNJGZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
+      "preco": 350,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T12:16:37.602Z"
+    },
     {
       "id": "38165",
       "loja": "Amazon",
@@ -97,18 +181,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-10-30T11:25:51.991Z"
-    },
-    {
-      "id": "38117",
-      "loja": "Amazon",
-      "titulo": "Pasta de Dente Oral-B 3D White Carvão, 3 Un de 70 g",
-      "link": "https://www.amazon.com.br/dp/B0H96XW8TW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51lHJho7mhL._SL400_.jpg",
-      "preco": 12.589999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-30T11:17:21.747Z"
     },
     {
       "id": "38112",
@@ -5929,78 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-27T14:57:06.081Z"
-    },
-    {
-      "id": "36381",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/1LgruoLRLa",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:49:05.159Z"
-    },
-    {
-      "id": "36379",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Aerolight Fast Flow Lilac 710ml",
-      "link": "https://www.amazon.com.br/dp/B0DXQDGYKW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21IKVUzzgcL._SL400_.jpg",
-      "preco": 199.9,
-      "precoDe": 309,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:45:20.153Z"
-    },
-    {
-      "id": "36378",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Bitter Campari 748ml",
-      "link": "https://www.amazon.com.br/dp/B0CPFJMNZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SL400_.jpg",
-      "preco": 48.99,
-      "precoDe": 59.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:41:27.859Z"
-    },
-    {
-      "id": "36373",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "link": "https://s.shopee.com.br/1qd8V97kW1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539_tn",
-      "preco": 72.99,
-      "precoDe": 260.68,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:38:07.505Z"
-    },
-    {
-      "id": "36362",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/4qGk3awafT",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:23:35.444Z"
-    },
-    {
-      "id": "36360",
-      "loja": "Mercado Livre",
-      "titulo": "Alicate Universal 8'' Isolado 1000 Volts Tramontina",
-      "link": "https://meli.la/2vsgwqt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836661-MLA99598899482_122025-F.jpg",
-      "preco": 35.76,
-      "precoDe": 37.65,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T14:20:08.164Z"
     }
   ]
 }
