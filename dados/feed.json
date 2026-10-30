@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-30T00:08:57.498Z",
+  "atualizadoEm": "2026-10-30T03:36:44.701Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38089",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Barril 5L",
+      "link": "https://s.shopee.com.br/6AmB3CfG3u",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
+      "preco": 115.9,
+      "precoDe": 139.64,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T03:26:44.687Z"
+    },
     {
       "id": "38081",
       "loja": "Amazon",
@@ -649,18 +661,6 @@
       "desconto": 41,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:10:46.339Z"
-    },
-    {
-      "id": "37979",
-      "loja": "Shopee",
-      "titulo": "Cerveja Heineken Barril 5L",
-      "link": "https://s.shopee.com.br/6AmB3CfG3u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mn66ily8y9du29_tn",
-      "preco": 85.9,
-      "precoDe": 139.64,
-      "desconto": 17,
-      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
-      "enviadoEm": "2026-10-29T20:07:27.564Z"
     },
     {
       "id": "37978",
