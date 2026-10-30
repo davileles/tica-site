@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T15:11:39.131Z",
+  "atualizadoEm": "2026-10-30T15:44:31.521Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -672,6 +672,18 @@
       "limite": null,
       "observacao": "Dois cupons em selecionados: 10% OFF com limite de R$30 e R$100 OFF em compras de R$899",
       "validadeAte": "2026-10-31T15:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TUDOPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1896,6 +1908,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-10-31T12:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FAVSFAXINA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-10-31T15:29:37.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PET20SHOP",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 149,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T15:29:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
