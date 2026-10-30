@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T14:44:31.744Z",
+  "atualizadoEm": "2026-10-30T15:11:39.131Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -660,6 +660,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA3010",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons em selecionados: 10% OFF com limite de R$30 e R$100 OFF em compras de R$899",
+      "validadeAte": "2026-10-31T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1959,18 +1971,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJAS2910",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-10-30T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AQUITEMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,6 +1980,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-10-31T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA3010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Dois cupons em selecionados: 10% OFF com limite de R$30 e R$100 OFF em compras de R$899",
+      "validadeAte": "2026-10-31T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2715,18 +2727,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "PR1NC1P1AK1T100FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-10-30T15:00:15.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "VEMNOVEMBROAF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2748,18 +2748,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T11:34:44.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "P0S3SQU3NT4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T14:55:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
