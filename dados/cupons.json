@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T19:44:31.541Z",
+  "atualizadoEm": "2026-10-30T20:14:33.543Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -744,6 +744,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECOREELETRO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-10-30T22:00:38.262Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2088,6 +2100,18 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-31T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-10-30T22:00:39.262Z",
       "url": "https://meli.la/2xystLt"
     },
     {
