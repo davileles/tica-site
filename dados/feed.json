@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-30T15:11:36.984Z",
+  "atualizadoEm": "2026-10-30T15:14:29.668Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38325",
+      "loja": "Amazon",
+      "titulo": "Caixa de Som, Basike boombox F9 Pro, Bluetooth, 300W(Preto) | TWS, RGB, IPX6, Bateria de longa duração, Equalizador Pop/Externo, Entrada TF/USB/AUX, Carregamento Type-C",
+      "link": "https://www.amazon.com.br/dp/B0H6JH248L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QIZ2WeaoL._SL400_.jpg",
+      "preco": 822.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-30T15:14:06.134Z"
+    },
     {
       "id": "38316",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-27T16:20:33.137Z"
-    },
-    {
-      "id": "36459",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Reserva Go Horizon Social Casual Elegante Trabalho",
-      "link": "https://meli.la/18ZtAz6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903916-MLB115313748595_072026-O.webp",
-      "preco": 174.99,
-      "precoDe": 299.99,
-      "desconto": 35,
-      "cupom": "MODA15",
-      "enviadoEm": "2026-10-27T16:16:43.616Z"
     }
   ]
 }
