@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-30T23:26:37.795Z",
+  "atualizadoEm": "2026-10-30T23:41:30.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38664",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Fire 700mL",
+      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
+      "preco": 88.78,
+      "precoDe": 144.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T23:31:30.710Z"
+    },
+    {
+      "id": "38663",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 71.39,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T23:27:49.371Z"
+    },
     {
       "id": "38662",
       "loja": "Amazon",
@@ -4215,18 +4239,6 @@
       "enviadoEm": "2026-10-29T13:11:27.975Z"
     },
     {
-      "id": "37586",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 700mL",
-      "link": "https://www.amazon.com.br/dp/B07F8JQYLL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b84N8y+yL._SL400_.jpg",
-      "preco": 85.44,
-      "precoDe": 144.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:10:20.569Z"
-    },
-    {
       "id": "37581",
       "loja": "Amazon",
       "titulo": "Celular Galaxy A27 5G 128GB, câmera tripla de 50MP - Preto",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "VALETECH",
       "enviadoEm": "2026-10-28T15:47:49.659Z"
-    },
-    {
-      "id": "37041",
-      "loja": "Shopee",
-      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
-      "link": "https://s.shopee.com.br/30p7YiDQi5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
-      "preco": 20.7,
-      "precoDe": 20.91,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T15:43:57.459Z"
     }
   ]
 }
