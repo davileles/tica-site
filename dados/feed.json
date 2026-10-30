@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-30T21:14:30.464Z",
+  "atualizadoEm": "2026-10-30T21:44:30.472Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38628",
+      "loja": "Amazon",
+      "titulo": "Vodka Dubar Zvonka Melancia 900 ml",
+      "link": "https://www.amazon.com.br/dp/B0H4NNZR1P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31agbOvb3ML._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:37:45.440Z"
+    },
+    {
+      "id": "38623",
+      "loja": "Mercado Livre",
+      "titulo": "Blister Triplo Pokémon ME05 Escuridão Absoluta",
+      "link": "https://meli.la/1j3irib",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650344-MLA116714869329_082026-F.jpg",
+      "preco": 29.9,
+      "precoDe": 42.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:31:58.225Z"
+    },
+    {
+      "id": "38620",
+      "loja": "Shopee",
+      "titulo": "Máquina de Solda Inversora Portátil Black Arc Start MMA e TIG 220V Fan Cooler Engate 9mm",
+      "link": "https://s.shopee.com.br/1BNWwkAGdk",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ag-mtshuc6k4pvocc_tn",
+      "preco": 199.9,
+      "precoDe": 464.88,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:28:43.913Z"
+    },
+    {
+      "id": "38619",
+      "loja": "Amazon",
+      "titulo": "Buddemeyer Jogo de Toalhas Vanilla Extra Soft Banho Bege 5 peças",
+      "link": "https://www.amazon.com.br/dp/B0H9YYKG3L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gvFjr8-tL._SL400_.jpg",
+      "preco": 135.12,
+      "precoDe": 259.9,
+      "desconto": 13,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T21:27:31.620Z"
+    },
+    {
+      "id": "38618",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/4fxP6hA1X9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 19,
+      "precoDe": 35.19,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:24:14.750Z"
+    },
+    {
+      "id": "38617",
+      "loja": "Amazon",
+      "titulo": "Ventilador de Mesa Mondial VSP-40-W Super Power 40CM Branco 110V",
+      "link": "https://www.amazon.com.br/dp/B09B18KMHD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Fz-VxzAhL._SL400_.jpg",
+      "preco": 95.04,
+      "precoDe": 189.9,
+      "desconto": 17,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T21:20:53.230Z"
+    },
+    {
+      "id": "38611",
+      "loja": "Shopee",
+      "titulo": "Conjunto Infantil Menino Camiseta Oversize e Shorts Algodão Verão 1 a 8 Anos Colorido Banim",
+      "link": "https://s.shopee.com.br/9APoSgpzvl",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825as-mujhspme27es0f_tn",
+      "preco": 56,
+      "precoDe": 79.52,
+      "desconto": 17,
+      "cupom": "ULT1M0D0M3S",
+      "enviadoEm": "2026-10-30T21:17:34.700Z"
+    },
     {
       "id": "38605",
       "loja": "Shopee",
@@ -3291,18 +3375,6 @@
       "enviadoEm": "2026-10-29T16:29:55.559Z"
     },
     {
-      "id": "37738",
-      "loja": "Mercado Livre",
-      "titulo": "Blister Triplo Pokémon ME05 Escuridão Absoluta",
-      "link": "https://meli.la/1j3irib",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650344-MLA116714869329_082026-F.jpg",
-      "preco": 29.9,
-      "precoDe": 42.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T16:27:41.526Z"
-    },
-    {
       "id": "37733",
       "loja": "Amazon",
       "titulo": "American Tourister Mala de Viagem Linex Azul Grande",
@@ -5929,78 +6001,6 @@
       "desconto": 31,
       "cupom": "VALETECH",
       "enviadoEm": "2026-10-28T12:52:10.485Z"
-    },
-    {
-      "id": "36895",
-      "loja": "Mercado Livre",
-      "titulo": "Mondial LAP-04 GY Lavadora de Alta Pressão 1400W + Jato Ajustável",
-      "link": "https://meli.la/18EBb9H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811406-MLA113291070942_072026-F.jpg",
-      "preco": 254.15,
-      "precoDe": 479.9,
-      "desconto": 38,
-      "cupom": "OFFCONSTRUIR",
-      "enviadoEm": "2026-10-28T12:47:55.593Z"
-    },
-    {
-      "id": "36876",
-      "loja": "Mercado Livre",
-      "titulo": "Chuveiro Eletrônico Fame Intense Black 7800W Preto/Cromado Parede",
-      "link": "https://meli.la/17zuJj9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841943-MLA99385074738_112025-F.jpg",
-      "preco": 231,
-      "precoDe": 453.66,
-      "desconto": 27,
-      "cupom": "ESQUENTA",
-      "enviadoEm": "2026-10-28T12:40:22.649Z"
-    },
-    {
-      "id": "36871",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/60SiuNONoI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 31.89,
-      "precoDe": 33.93,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T12:36:53.664Z"
-    },
-    {
-      "id": "36866",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 515.7,
-      "precoDe": 999.98,
-      "desconto": 43,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T12:28:51.062Z"
-    },
-    {
-      "id": "36865",
-      "loja": "Amazon",
-      "titulo": "Colônia Refrescante Johnson's Baby, Lavanda, 400ml | Hipoalergênico, Fragrância Suave, Toque Refrescante",
-      "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31GKnPu8VBL._SL400_.jpg",
-      "preco": 48.09,
-      "precoDe": 68.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T12:25:05.937Z"
-    },
-    {
-      "id": "36860",
-      "loja": "Amazon",
-      "titulo": "CAFÉ REGIÕES BRASILEIRAS SUL DE MINAS 250G",
-      "link": "https://www.amazon.com.br/dp/B07YCLVSY7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vZsboNv-L._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 23.5,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T12:21:25.238Z"
     }
   ]
 }
