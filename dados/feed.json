@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-30T22:26:37.633Z",
+  "atualizadoEm": "2026-10-30T22:43:01.932Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38651",
+      "loja": "Shopee",
+      "titulo": "Painel Suporte Porta Ferramentas Organizador Parede Perfurado 118x52 + Brindes",
+      "link": "https://s.shopee.com.br/4fxPBfDCQn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5k3hnqv2f8b6_tn",
+      "preco": 119.99,
+      "precoDe": 126.31,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T22:33:01.928Z"
+    },
+    {
+      "id": "38650",
+      "loja": "Shopee",
+      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+      "link": "https://s.shopee.com.br/AUvC8JVr0g",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
+      "preco": 75.79,
+      "precoDe": 199.45,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T22:32:08.304Z"
+    },
     {
       "id": "38648",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 78,
       "cupom": null,
       "enviadoEm": "2026-10-28T14:57:51.413Z"
-    },
-    {
-      "id": "37005",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Camisetas Masculinas Polo Wear Sortido",
-      "link": "https://meli.la/1HPSE6B",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864609-MLB104431005254_012026-P.webp",
-      "preco": 115.99,
-      "precoDe": 239.99,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T14:45:26.772Z"
-    },
-    {
-      "id": "36999",
-      "loja": "Shopee",
-      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
-      "link": "https://s.shopee.com.br/7AegRby96y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
-      "preco": 26.9,
-      "precoDe": 122.27,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T14:34:42.024Z"
     }
   ]
 }
