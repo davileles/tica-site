@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-30T15:14:29.668Z",
+  "atualizadoEm": "2026-10-30T15:44:29.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38347",
+      "loja": "Shopee",
+      "titulo": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
+      "link": "https://s.shopee.com.br/6q1tIhdHWN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msbapxbqpouead_tn",
+      "preco": 429,
+      "precoDe": 997.67,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:42:24.220Z"
+    },
+    {
+      "id": "38340",
+      "loja": "Shopee",
+      "titulo": "Torno Morsa De Bancada N4 e N5 Leve/Pesado Trava Reforçada Aliyeahyeah",
+      "link": "https://s.shopee.com.br/3qOHixy066",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyy3b4ocj5t4d_tn",
+      "preco": 285,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:38:53.173Z"
+    },
+    {
+      "id": "38339",
+      "loja": "Shopee",
+      "titulo": "Caixa De Som Bluetooth Amplificada Potente LED RGB USB SD Radio Fm Mp3 Celular Note Tablet Conexão TWS",
+      "link": "https://s.shopee.com.br/4B187Iuapb",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratx-ma1h9d9oo1ape0_tn",
+      "preco": 27.99,
+      "precoDe": 84.82,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:37:57.671Z"
+    },
+    {
+      "id": "38338",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
+      "link": "https://meli.la/1twLpFY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981459-MLA117136184907_092026-F.jpg",
+      "preco": 99.88,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:34:48.937Z"
+    },
+    {
+      "id": "38337",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino",
+      "link": "https://meli.la/1kpxMKT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794567-MLA84558392742_052025-F.jpg",
+      "preco": 261.9,
+      "precoDe": 738.85,
+      "desconto": 61,
+      "cupom": "MODA3010",
+      "enviadoEm": "2026-10-30T15:31:34.699Z"
+    },
+    {
+      "id": "m1793374146312",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Vitafor em Pó 300g sem Sabor",
+      "link": "https://meli.la/1u6XzFP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787447-MLA116960489892_092026-F.jpg",
+      "preco": 65.67,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:29:06.312Z"
+    },
+    {
+      "id": "38334",
+      "loja": "Mercado Livre",
+      "titulo": "️ Kit Saquinhos Maternidade Organizador Para Bebê Carrinho Azul",
+      "link": "https://meli.la/2hW3aW9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890937-MLB115594603210_092026-P.webp",
+      "preco": 39.6,
+      "precoDe": 45,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:28:20.882Z"
+    },
+    {
+      "id": "38333",
+      "loja": "Amazon",
+      "titulo": "WAP Furadeira Parafusaderia de Impacto WF 1000FE 1/2\" com Seletor de Velocidade e Limitador de Profundidade 22Nm 1000W 127V",
+      "link": "https://www.amazon.com.br/dp/B0FMYSGWLK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41YnPweG0UL._SL400_.jpg",
+      "preco": 119.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T15:25:09.863Z"
+    },
+    {
+      "id": "38332",
+      "loja": "Mercado Livre",
+      "titulo": "Garrafa Térmica Stanley Aerolight Flip Straw Ash 473ml",
+      "link": "https://meli.la/1yErEmx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669061-MLA113821946379_062026-F.jpg",
+      "preco": 118.77,
+      "precoDe": 289,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:21:43.312Z"
+    },
+    {
+      "id": "38331",
+      "loja": "Shopee",
+      "titulo": "Kit 5 Caixas Organizadoras com Tampa Cesto Grande de Plástico 2 Litros 4,5 Litros 17 Litros",
+      "link": "https://s.shopee.com.br/3VlRJf7ZAO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mqvxcnrv84joe4_tn",
+      "preco": 49.9,
+      "precoDe": 105.09,
+      "desconto": 43,
+      "cupom": "ULT1M0D0M3S",
+      "enviadoEm": "2026-10-30T15:18:08.316Z"
+    },
     {
       "id": "38325",
       "loja": "Amazon",
@@ -1033,18 +1153,6 @@
       "desconto": 8,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:52:59.280Z"
-    },
-    {
-      "id": "38000",
-      "loja": "Amazon",
-      "titulo": "WAP Furadeira Parafusaderia de Impacto WF 1000FE 1/2\" com Seletor de Velocidade e Limitador de Profundidade 22Nm 1000W 127V",
-      "link": "https://www.amazon.com.br/dp/B0FMYSGWLK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41YnPweG0UL._SL400_.jpg",
-      "preco": 119.4,
-      "precoDe": 469.9,
-      "desconto": 58,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:49:27.218Z"
     },
     {
       "id": "37998",
@@ -5893,114 +6001,6 @@
       "desconto": 35,
       "cupom": "MELHORPROMO",
       "enviadoEm": "2026-10-27T16:53:52.576Z"
-    },
-    {
-      "id": "36481",
-      "loja": "Shopee",
-      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "link": "https://s.shopee.com.br/4VdtofjjeC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
-      "preco": 458.99,
-      "precoDe": 596.09,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:48:55.708Z"
-    },
-    {
-      "id": "36478",
-      "loja": "Mercado Livre",
-      "titulo": "Impressora 3d Creality Hi Combo Fdm Com Cfs Sistema Multicol 127/220v Cinza",
-      "link": "https://meli.la/24tTUQw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838822-MLB115752075517_082026-O.webp",
-      "preco": 3133,
-      "precoDe": 6265,
-      "desconto": 46,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T16:45:31.633Z"
-    },
-    {
-      "id": "36469",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Duas Camisetas Regular Essence Reserva",
-      "link": "https://meli.la/2bRf1dD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784206-MLB101684932431_122025-O.webp",
-      "preco": 117.99,
-      "precoDe": 249,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:41:53.466Z"
-    },
-    {
-      "id": "36468",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Aramis Peak Road Ajuste Confortável E Solado Casual",
-      "link": "https://meli.la/13UXPkr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602922-MLB116445315263_082026-O.webp",
-      "preco": 216.99,
-      "precoDe": 399.99,
-      "desconto": 41,
-      "cupom": "MODA15",
-      "enviadoEm": "2026-10-27T16:38:51.740Z"
-    },
-    {
-      "id": "36466",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
-      "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ItOpTbhlL._SL400_.jpg",
-      "preco": 52.08,
-      "precoDe": 77.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:35:30.445Z"
-    },
-    {
-      "id": "36464",
-      "loja": "Shopee",
-      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
-      "link": "https://s.shopee.com.br/9APjM0oPb7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
-      "preco": 27.14,
-      "precoDe": 118,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:31:34.523Z"
-    },
-    {
-      "id": "36463",
-      "loja": "Mercado Livre",
-      "titulo": "Coberta Manta Soft Casal Microfibra Anti-alérgica Dupla Face",
-      "link": "https://meli.la/324Btju",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742738-MLB109125449330_042026-O.webp",
-      "preco": 34.9,
-      "precoDe": 55.44,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:27:56.487Z"
-    },
-    {
-      "id": "36462",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Split Electrolux MaxComfort Inverter Frio 12.000 BTUs (NI12F/NE12F)",
-      "link": "https://meli.la/1kt1YkF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971304-MLA115855903282_092026-F.jpg",
-      "preco": 1729,
-      "precoDe": 2329,
-      "desconto": 15,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T16:24:27.144Z"
-    },
-    {
-      "id": "36461",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/9fLzwNiZm3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 149.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:20:33.137Z"
     }
   ]
 }
