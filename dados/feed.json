@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-30T23:07:37.817Z",
+  "atualizadoEm": "2026-10-30T23:26:37.795Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38662",
+      "loja": "Amazon",
+      "titulo": "Micro Retífica 4000 com 26 Acessórios 4000-N/26-220V Dremel",
+      "link": "https://www.amazon.com.br/dp/B076KNH6VK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315O+HYj0EL._SL400_.jpg",
+      "preco": 487.78000000000003,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTA15",
+      "enviadoEm": "2026-10-30T23:16:37.788Z"
+    },
     {
       "id": "38659",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 1,
       "cupom": null,
       "enviadoEm": "2026-10-28T15:43:57.459Z"
-    },
-    {
-      "id": "37031",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Sem Lycra Stillge - R$ 63,90",
-      "link": "https://meli.la/1hjsUBD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_624861-MLB116329533565_082026-P.webp",
-      "preco": 79.99,
-      "precoDe": 115.99,
-      "desconto": 14,
-      "cupom": "MODA2810",
-      "enviadoEm": "2026-10-28T15:30:12.924Z"
     }
   ]
 }
