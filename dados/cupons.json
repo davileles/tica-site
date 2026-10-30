@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T11:44:31.352Z",
+  "atualizadoEm": "2026-10-30T12:14:31.461Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CHEGOUMSI",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-30T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "CADEIRA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -684,6 +672,30 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "99SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 99,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE3010",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1188,6 +1200,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GANHOUOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1731,27 +1755,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERDESCONTOS",
+      "codigo": "GANHOUPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 1,
       "maximo": null,
       "limite": 500,
-      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T11:59:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPERPROMOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T11:59:59.000Z",
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1764,6 +1776,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 219,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1827,18 +1851,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BONUSML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T11:59:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ESTOQUE2910",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1848,6 +1860,30 @@
       "limite": 50,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-10-31T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE3010",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 219,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESPECIALMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1899,18 +1935,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MEUDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons para Mercado Livre com limite de desconto em R$",
-      "validadeAte": "2026-10-30T11:59:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1923,18 +1947,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIMAISTODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-10-30T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJAS2910",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1944,6 +1956,18 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-10-30T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AQUITEMTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
