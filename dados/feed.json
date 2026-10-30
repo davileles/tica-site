@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-10-30T15:44:29.669Z",
+  "atualizadoEm": "2026-10-30T16:14:29.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38362",
+      "loja": "Shopee",
+      "titulo": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+      "link": "https://s.shopee.com.br/4VdyYQJfbb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2_tn",
+      "preco": 99.99,
+      "precoDe": 303,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T16:13:24.123Z"
+    },
+    {
+      "id": "38361",
+      "loja": "Mercado Livre",
+      "titulo": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 | Raspa, Apara e Contorna | Uso Seco e Molhado | 100% À Prova d'Água | Sem Fio | Bivolt | QP1425/10",
+      "link": "https://meli.la/11u2kfD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750670-MLA118429558724_102026-F.jpg",
+      "preco": 125.99000000000001,
+      "precoDe": 212.38,
+      "desconto": 34,
+      "cupom": "MODA3010",
+      "enviadoEm": "2026-10-30T16:10:16.104Z"
+    },
+    {
+      "id": "38357",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Travel System Reverse, Preto Rajado",
+      "link": "https://www.amazon.com.br/dp/B07QZ9GLS5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51TLt3hgzKL._SL400_.jpg",
+      "preco": 413.11999999999995,
+      "precoDe": 749.9,
+      "desconto": 8,
+      "cupom": "OUTLETPRIME",
+      "enviadoEm": "2026-10-30T16:02:59.719Z"
+    },
+    {
+      "id": "38355",
+      "loja": "Shopee",
+      "titulo": "Conjunto Camisola com Rob Feminino Algodão Gestante Maternidade Pós-Cirurgico Pijama Vestido",
+      "link": "https://s.shopee.com.br/7fb0JACgE7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zue-mkwwwf9tcqv7e7_tn",
+      "preco": 73.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ULT1M0D0M3S",
+      "enviadoEm": "2026-10-30T15:59:17.513Z"
+    },
+    {
+      "id": "38354",
+      "loja": "Amazon",
+      "titulo": "Tangle Teezer - Escova de cabelo desembaraçadora The Wet Detangler para texturas grossas a crespas. Ideal para o uso em fios úmidos Cor: Mango Pink",
+      "link": "https://www.amazon.com.br/dp/B0B3JL4VLZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zsrhuDNvL._SL400_.jpg",
+      "preco": 86.33,
+      "precoDe": 160,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T15:55:40.939Z"
+    },
+    {
+      "id": "38352",
+      "loja": "Amazon",
+      "titulo": "DDPAI N1 Câmera Veicular Dupla 1296P + 1080P com Wi-Fi, Câmera para Carro com Visão Noturna, Sensor G, Gravação em Loop e Modo Estacionamento 24h, Supercapacitor (Cartão SD Não Inc",
+      "link": "https://www.amazon.com.br/dp/B0FH6QVXRK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rpKbllYfL._SL400_.jpg",
+      "preco": 551.65,
+      "precoDe": 699,
+      "desconto": 7,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-10-30T15:52:31.289Z"
+    },
+    {
+      "id": "38351",
+      "loja": "Mercado Livre",
+      "titulo": "Revimax 50mg - 2 Caixas Com 30 Comprimidos",
+      "link": "https://meli.la/2zSuvup",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723187-MLA110283628587_042026-F.jpg",
+      "preco": 195.99,
+      "precoDe": 299.9,
+      "desconto": 28,
+      "cupom": "PET20SHOP",
+      "enviadoEm": "2026-10-30T15:49:29.396Z"
+    },
     {
       "id": "38347",
       "loja": "Shopee",
@@ -1141,18 +1225,6 @@
       "desconto": 58,
       "cupom": "LOJAS2910",
       "enviadoEm": "2026-10-29T20:56:13.453Z"
-    },
-    {
-      "id": "38002",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Travel System Reverse, Preto Rajado",
-      "link": "https://www.amazon.com.br/dp/B07QZ9GLS5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51TLt3hgzKL._SL400_.jpg",
-      "preco": 413.11999999999995,
-      "precoDe": 749.9,
-      "desconto": 8,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:52:59.280Z"
     },
     {
       "id": "37998",
@@ -5929,78 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-10-27T17:12:00.349Z"
-    },
-    {
-      "id": "36495",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
-      "link": "https://meli.la/1oaZzzH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792011-MLA96077651979_102025-F.jpg",
-      "preco": 117.15,
-      "precoDe": 211,
-      "desconto": 35,
-      "cupom": "MODA15",
-      "enviadoEm": "2026-10-27T17:10:55.021Z"
-    },
-    {
-      "id": "36490",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Odyssey G5 2.7 Qhd 180 Hz 0,03 ms G-sync Freesync",
-      "link": "https://meli.la/1e8WGcb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874400-MLA106481154366_022026-F.jpg",
-      "preco": 2979,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T17:07:21.083Z"
-    },
-    {
-      "id": "36489",
-      "loja": "Mercado Livre",
-      "titulo": "Consul Cervejeira Titanium CZD12MT 83L 127V Cinza Escuro com porta de vidro",
-      "link": "https://meli.la/1n3c2Dq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_933547-MLA111085436701_042026-F.jpg",
-      "preco": 1499,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T17:03:21.637Z"
-    },
-    {
-      "id": "36488",
-      "loja": "Shopee",
-      "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "link": "https://s.shopee.com.br/40hdEVfzSO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439_tn",
-      "preco": 20.47,
-      "precoDe": 52.49,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:59:01.083Z"
-    },
-    {
-      "id": "36487",
-      "loja": "Amazon",
-      "titulo": "Red Bull Wings Cup Energético, Energy Drink, 250ml, 24 latas (Embalagem pode variar)",
-      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
-      "preco": 186.96,
-      "precoDe": 251.76,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T16:55:15.854Z"
-    },
-    {
-      "id": "36484",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira LG Frost Free Inverter 395l Duplex Cor Branca - 12 Branco",
-      "link": "https://meli.la/1JG8ZvY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878982-MLA100075741481_122025-F.jpg",
-      "preco": 2154,
-      "precoDe": 3699,
-      "desconto": 35,
-      "cupom": "MELHORPROMO",
-      "enviadoEm": "2026-10-27T16:53:52.576Z"
     }
   ]
 }
