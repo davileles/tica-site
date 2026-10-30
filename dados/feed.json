@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-10-30T18:14:29.670Z",
+  "atualizadoEm": "2026-10-30T18:44:29.671Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38471",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 141.27,
+      "precoDe": 189.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:43:29.906Z"
+    },
+    {
+      "id": "38470",
+      "loja": "Shopee",
+      "titulo": "Plaina Elétrica 82mm Industrial Manual 750W Profissional TPLA750 Trato",
+      "link": "https://s.shopee.com.br/9APoHZQwZ8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-lz0mjjy7mb1ede_tn",
+      "preco": 180.15,
+      "precoDe": 272.95,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:42:31.448Z"
+    },
+    {
+      "id": "38466",
+      "loja": "Amazon",
+      "titulo": "Sunny, Playmobil, Getafix com o Caldeirão da Poção Mágica, Asterix",
+      "link": "https://www.amazon.com.br/dp/B0B86PSF55?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61kUiUSuQoL._SL400_.jpg",
+      "preco": 147.77,
+      "precoDe": 369.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:41:28.506Z"
+    },
+    {
+      "id": "38465",
+      "loja": "Mercado Livre",
+      "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada XG - 48 Un",
+      "link": "https://meli.la/1bbdUtn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981664-MLA99928286417_112025-F.jpg",
+      "preco": 70.76,
+      "precoDe": 99.07,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:37:52.255Z"
+    },
+    {
+      "id": "38463",
+      "loja": "Shopee",
+      "titulo": "Kit 3 necessaire transparente organizadores Bolsa Mala Saída Maternidade Troca e Fralda bebe Higiêne",
+      "link": "https://s.shopee.com.br/80DqtEVcrC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mucdwmj3ubcxf7_tn",
+      "preco": 31.9,
+      "precoDe": 55.91,
+      "desconto": 34,
+      "cupom": "0UTUBR050FF",
+      "enviadoEm": "2026-10-30T18:36:42.951Z"
+    },
+    {
+      "id": "38459",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável Removedor De Pelos Navalha Dupla Sem Fio Portátil Para Pernas Axilas E Corpo",
+      "link": "https://s.shopee.com.br/4fxOujVbng",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j4-mptr1pbcopohf6_tn",
+      "preco": 24.99,
+      "precoDe": 99.96,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:32:19.077Z"
+    },
+    {
+      "id": "38458",
+      "loja": "Shopee",
+      "titulo": "Macacão Bebê Curto Romper Estampado 100% Algodão RN ao 24 Meses Unissex Menino Menina Botão Pressão",
+      "link": "https://s.shopee.com.br/3VlRWOEhjd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mulag61jz6rla7_tn",
+      "preco": 31.479999999999997,
+      "precoDe": 49.97,
+      "desconto": 27,
+      "cupom": "0UTUBR050FF",
+      "enviadoEm": "2026-10-30T18:29:11.154Z"
+    },
+    {
+      "id": "38456",
+      "loja": "Mercado Livre",
+      "titulo": "Lixeira Inteligente Automática Preta Universal Com Sensor Lumi Recarregável Anti Odor 16l",
+      "link": "https://meli.la/1s9SB6d",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_926150-MLA111459071720_052026-F.jpg",
+      "preco": 61.86,
+      "precoDe": 199.98,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T18:25:22.493Z"
+    },
+    {
+      "id": "38450",
+      "loja": "Shopee",
+      "titulo": "Conjunto Bebê Menino RN Primeira Troca Completo",
+      "link": "https://s.shopee.com.br/9KjES9yWe2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259w-mszjbe079sljd2_tn",
+      "preco": 44.99,
+      "precoDe": 60.23,
+      "desconto": 17,
+      "cupom": "0UTUBR050FF",
+      "enviadoEm": "2026-10-30T18:20:49.131Z"
+    },
+    {
+      "id": "38447",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Escritório Gamer Nitro Ergonômica Estofado Couro Sintético Reclinável Altura Ajustável Apoio Para Pés Cor Verde Luvinco",
+      "link": "https://meli.la/2zdNvXc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_743250-MLA100927167560_122025-F.jpg",
+      "preco": 354.31,
+      "precoDe": 899.9,
+      "desconto": 54,
+      "cupom": "MELICASA",
+      "enviadoEm": "2026-10-30T18:17:04.968Z"
+    },
     {
       "id": "38446",
       "loja": "Amazon",
@@ -3639,18 +3759,6 @@
       "enviadoEm": "2026-10-28T22:46:11.755Z"
     },
     {
-      "id": "37427",
-      "loja": "Amazon",
-      "titulo": "Licor 43 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
-      "preco": 136.9,
-      "precoDe": 189.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T22:45:20.428Z"
-    },
-    {
       "id": "37421",
       "loja": "Mercado Livre",
       "titulo": "Hiper Mass 1kg Growth Supplements - Sabor Chocolate",
@@ -5893,114 +6001,6 @@
       "desconto": null,
       "cupom": "OFERTADEHOJE",
       "enviadoEm": "2026-10-27T20:31:40.453Z"
-    },
-    {
-      "id": "36655",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
-      "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RinA21hsL._SL400_.jpg",
-      "preco": 175.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T20:27:58.681Z"
-    },
-    {
-      "id": "36612",
-      "loja": "Shopee",
-      "titulo": "Secadora de Roupa Mueller Sun 8kg Timer 6 Cabides 220v",
-      "link": "https://s.shopee.com.br/3B8WT29UcW",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rceq-m6mpsl92q9e435_tn",
-      "preco": 501.9,
-      "precoDe": 643.46,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T20:19:13.336Z"
-    },
-    {
-      "id": "36608",
-      "loja": "Shopee",
-      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "link": "https://s.shopee.com.br/6Am81qFz3D",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
-      "preco": 24.99,
-      "precoDe": 32.04,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T20:12:18.732Z"
-    },
-    {
-      "id": "36604",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Ultimashow 2.0 adidas",
-      "link": "https://meli.la/2kRX2Qf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_943377-MLB82053617935_012025-O.webp",
-      "preco": 193.67,
-      "precoDe": 379.99,
-      "desconto": 43,
-      "cupom": "LOJAS2710",
-      "enviadoEm": "2026-10-27T20:01:52.393Z"
-    },
-    {
-      "id": "36600",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/5Atap91bSp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T19:56:09.187Z"
-    },
-    {
-      "id": "36598",
-      "loja": "Mercado Livre",
-      "titulo": "Starlink Mini Kit Antena Satélite com Roteador Wi-Fi",
-      "link": "https://meli.la/31QmrRK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
-      "preco": 329.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T19:51:39.998Z"
-    },
-    {
-      "id": "36597",
-      "loja": "Shopee",
-      "titulo": "Cerveja Corona Extra Long Neck 330ml - Pack Com 24 Unidades",
-      "link": "https://s.shopee.com.br/2VspdlNnsI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may6knakuc556d_tn",
-      "preco": 179.9,
-      "precoDe": 236.71,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T19:47:35.104Z"
-    },
-    {
-      "id": "36595",
-      "loja": "Shopee",
-      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga À Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
-      "link": "https://s.shopee.com.br/6Am80GFpqL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
-      "preco": 29.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T19:46:06.546Z"
-    },
-    {
-      "id": "36594",
-      "loja": "Amazon",
-      "titulo": "Burigotto Berço New Aconchego Rosa",
-      "link": "https://www.amazon.com.br/dp/B095Z135KC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hlIITq7TL._SL400_.jpg",
-      "preco": 498.99,
-      "precoDe": 899,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-27T19:42:00.690Z"
     }
   ]
 }
