@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-30T21:44:30.472Z",
+  "atualizadoEm": "2026-10-30T21:58:51.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38635",
+      "loja": "Shopee",
+      "titulo": "Parafusadeira furadeira elétrica 1200W furadeira de impacto  martelete rompedor bosch 220V Original",
+      "link": "https://s.shopee.com.br/2LZUMWMQiO",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mp4ji8518nwhe2_tn",
+      "preco": 329.26,
+      "precoDe": 645.61,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:48:51.451Z"
+    },
+    {
+      "id": "38631",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/6q1tiTw8BJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-10-30T21:46:44.088Z"
+    },
     {
       "id": "38628",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-28T13:25:56.812Z"
-    },
-    {
-      "id": "36920",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/1W0JagX7Jy",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.32,
-      "precoDe": 35.05,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T13:00:00.079Z"
-    },
-    {
-      "id": "36912",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte XPG Kyber 850W 80 Plus Gold com Cabo KYBER850G-BKCBR Preto",
-      "link": "https://meli.la/1HCVdHh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804834-MLA99928910053_112025-F.jpg",
-      "preco": 437.64,
-      "precoDe": 699.9,
-      "desconto": 31,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T12:52:10.485Z"
     }
   ]
 }
