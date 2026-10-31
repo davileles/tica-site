@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-31T14:46:09.734Z",
+  "atualizadoEm": "2026-10-31T15:01:39.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38747",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+      "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUuhoGYgL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 39,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T14:59:36.921Z"
+    },
+    {
+      "id": "38746",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Monica Baby, M, 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+11dLmKBL._SL400_.jpg",
+      "preco": 55.99,
+      "precoDe": 69.67,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T14:58:40.195Z"
+    },
+    {
+      "id": "38745",
+      "loja": "Mercado Livre",
+      "titulo": "Bepantol Baby Creme 120g Preventivo Assaduras Toy Story",
+      "link": "https://meli.la/2s3BsV7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870245-MLB118418512822_102026-P.webp",
+      "preco": 38.55,
+      "precoDe": 41.46,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T14:57:18.243Z"
+    },
+    {
+      "id": "38743",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/2BG5Ia2vlo",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T14:55:58.986Z"
+    },
+    {
+      "id": "38742",
+      "loja": "Amazon",
+      "titulo": "Conjunto de chaves de fenda de precisão 115 em 1 kit de ferramentas de reparo com kit de driver magnético, conjunto de chaves de fenda de precisão eletrônica com bolsa portátil par",
+      "link": "https://www.amazon.com.br/dp/B092SPZFYT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51APugFLBKS._SL400_.jpg",
+      "preco": 18.9,
+      "precoDe": 26,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T14:51:51.712Z"
+    },
     {
       "id": "38740",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 41,
       "cupom": "PROMOCONSTRUIR",
       "enviadoEm": "2026-10-28T18:51:25.124Z"
-    },
-    {
-      "id": "37194",
-      "loja": "Mercado Livre",
-      "titulo": "Mercadinho Infantil + Caixa Registradora E Carrinho 48 Peças Vermelho",
-      "link": "https://meli.la/2hT99cN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_659476-MLA99937751405_112025-F.jpg",
-      "preco": 259.02,
-      "precoDe": 350,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T18:46:56.658Z"
-    },
-    {
-      "id": "37190",
-      "loja": "Shopee",
-      "titulo": "Sapateira com 3 Portas Guarda Sapato Multiuso Para Hall Quartos Closet",
-      "link": "https://s.shopee.com.br/2LZQxqX5NW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhug9kqd9dz73d_tn",
-      "preco": 176.95,
-      "precoDe": 360.62,
-      "desconto": 44,
-      "cupom": "START1NOWAF",
-      "enviadoEm": "2026-10-28T18:46:04.503Z"
-    },
-    {
-      "id": "37186",
-      "loja": "Amazon",
-      "titulo": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
-      "link": "https://www.amazon.com.br/dp/B07VYYWYDK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21pmGFRZ06L._SL400_.jpg",
-      "preco": 107.68,
-      "precoDe": 140.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T18:42:09.153Z"
-    },
-    {
-      "id": "37185",
-      "loja": "Shopee",
-      "titulo": "kit 4 lacos de bebê candy para meninas- saída maternidade roupas e conjuntos de meninas- laços na meia de seda",
-      "link": "https://s.shopee.com.br/906KtM7j5Z",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mqrr0hgrow76a8_tn",
-      "preco": 34.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "5D3D3SC0NT0",
-      "enviadoEm": "2026-10-28T18:40:59.786Z"
-    },
-    {
-      "id": "37184",
-      "loja": "Shopee",
-      "titulo": "Kit Pet Para Cachorro Caminha  Sanitário Comedouro Para Cães Pequeno",
-      "link": "https://s.shopee.com.br/2Vsr8yV8qB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
-      "preco": 66.99,
-      "precoDe": 67.67,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T18:33:56.099Z"
     }
   ]
 }
