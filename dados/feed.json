@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-31T15:31:39.904Z",
+  "atualizadoEm": "2026-10-31T16:01:39.904Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38760",
+      "loja": "Amazon",
+      "titulo": "Karsten Jogo Banho Lotus Vanilla 100% Algodão 4 peças",
+      "link": "https://www.amazon.com.br/dp/B0GP39ZDNY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IxDfYtDYL._SL400_.jpg",
+      "preco": 117.7,
+      "precoDe": 153.89,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T15:57:35.951Z"
+    },
+    {
+      "id": "38759",
+      "loja": "Mercado Livre",
+      "titulo": "Bioré Óleo Demaquilante Limpeza Facial Cleansing Oil Refil 210ml",
+      "link": "https://meli.la/1r1HRo2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687043-MLA118703203524_102026-F.jpg",
+      "preco": 37,
+      "precoDe": 72.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T15:54:31.229Z"
+    },
+    {
+      "id": "38758",
+      "loja": "Mercado Livre",
+      "titulo": "Top Selene Alta Sustentação Sem Costura Fitness Academia - R$ 29,99",
+      "link": "https://meli.la/2iAejCr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687132-MLB104884534085_012026-P.webp",
+      "preco": 29.99,
+      "precoDe": 78.99,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T15:51:18.814Z"
+    },
+    {
+      "id": "38755",
+      "loja": "Shopee",
+      "titulo": "GL&DD Depilador Eletrico Feminino Recarregável Removedor De Pelos Navalha Dupla- Envio rápido",
+      "link": "https://s.shopee.com.br/AAIMsPMrQ8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt96n3tald6rd5_tn",
+      "preco": 29.99,
+      "precoDe": 99.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T15:41:19.023Z"
+    },
+    {
+      "id": "38753",
+      "loja": "Mercado Livre",
+      "titulo": "Necessaire Organizadora Malas Viagem Maquiagem Higiene Preto Notnull",
+      "link": "https://meli.la/1SC66f2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960396-MLA116125927462_092026-F.jpg",
+      "preco": 23.99,
+      "precoDe": 31.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T15:34:40.365Z"
+    },
     {
       "id": "38752",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 9,
       "cupom": null,
       "enviadoEm": "2026-10-28T19:34:25.964Z"
-    },
-    {
-      "id": "37247",
-      "loja": "Shopee",
-      "titulo": "Beliche Infantil/Juvenil 2 Gavetões e Escada com 4 Nichos Star Plus Casatema MadeiraOriginals Branco",
-      "link": "https://s.shopee.com.br/7faxMWS7Jg",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-mu3yq9tmg6pu38_tn",
-      "preco": 1659,
-      "precoDe": 1906.9,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:30:41.778Z"
-    },
-    {
-      "id": "37235",
-      "loja": "Shopee",
-      "titulo": "Cama Colchão Solteiro Montessoriana Infantil - Balaqui Decor",
-      "link": "https://s.shopee.com.br/1BWDcGf2k",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mdq27icrlpskee_tn",
-      "preco": 1599.99,
-      "precoDe": 3018.85,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:22:53.337Z"
-    },
-    {
-      "id": "37220",
-      "loja": "Mercado Livre",
-      "titulo": "Shorts fitness com forro e modelagem longa em suplex, pra você arrasar na academia (e em várias cores!).",
-      "link": "https://meli.la/1yZZRr7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625070-MLB116031412543_082026-P.webp",
-      "preco": 46.24,
-      "precoDe": 109.9,
-      "desconto": 40,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-28T19:10:40.344Z"
-    },
-    {
-      "id": "37216",
-      "loja": "Amazon",
-      "titulo": "Shorts Masculino New Balance Rc Essential 5, Preto, P",
-      "link": "https://www.amazon.com.br/dp/B0F7FVQQYV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mju0FS9-L._SL400_.jpg",
-      "preco": 139.9,
-      "precoDe": 379.99,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:07:06.130Z"
-    },
-    {
-      "id": "37215",
-      "loja": "Shopee",
-      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
-      "link": "https://s.shopee.com.br/2VsrB3Qfp5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72_tn",
-      "preco": 74.9,
-      "precoDe": 107,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:03:11.229Z"
     }
   ]
 }
