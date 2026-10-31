@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-31T19:31:39.910Z",
+  "atualizadoEm": "2026-10-31T20:01:39.909Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38791",
+      "loja": "Amazon",
+      "titulo": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
+      "link": "https://www.amazon.com.br/dp/B08DPL6H9X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31yhUVedEgL._SL400_.jpg",
+      "preco": 49.55,
+      "precoDe": 76.4,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T20:01:25.905Z"
+    },
+    {
+      "id": "38790",
+      "loja": "Shopee",
+      "titulo": "Soprador Térmico Vonder STV150 110V ou 220V Com 4 Bicos",
+      "link": "https://s.shopee.com.br/AKbnLu02EM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmm-lo713tw4bu3j66_tn",
+      "preco": 159,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T19:52:55.379Z"
+    },
+    {
+      "id": "38789",
+      "loja": "Shopee",
+      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
+      "link": "https://s.shopee.com.br/8AXIlu4HtI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
+      "preco": 22.49,
+      "precoDe": 77.55,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T19:51:44.221Z"
+    },
     {
       "id": "38788",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-10-28T20:52:48.147Z"
-    },
-    {
-      "id": "37329",
-      "loja": "Shopee",
-      "titulo": "Tenis Infantil Jessie Toy Story Meninas Conforto Disney Original",
-      "link": "https://s.shopee.com.br/AKbibNY9EJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a3-ms2ucdiccu82ac_tn",
-      "preco": 164.54,
-      "precoDe": 315.9,
-      "desconto": 40,
-      "cupom": "START1NOWAF",
-      "enviadoEm": "2026-10-28T20:48:27.400Z"
-    },
-    {
-      "id": "37321",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo De Ferramentas 27 Peças Com Maleta Chaves Allen Alicate Martelo Completos",
-      "link": "https://s.shopee.com.br/1LgtsnGQAU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnebufxbery8a9_tn",
-      "preco": 71.24,
-      "precoDe": 263.85,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:44:11.990Z"
-    },
-    {
-      "id": "37315",
-      "loja": "Shopee",
-      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
-      "link": "https://s.shopee.com.br/8KqeDbYM1L",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqxmdp0mir5y37_tn",
-      "preco": 24.2,
-      "precoDe": 29.51,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:43:10.863Z"
     }
   ]
 }
