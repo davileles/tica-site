@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T16:01:41.591Z",
+  "atualizadoEm": "2026-10-31T17:21:24.099Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1908,6 +1908,18 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados conforme lista",
       "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODAEBELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em produtos de moda e bem-estar",
+      "validadeAte": "2026-11-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
