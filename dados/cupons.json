@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T23:26:39.939Z",
+  "atualizadoEm": "2026-10-31T03:07:56.013Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -48,18 +48,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
-    {
-      "codigo": "BELEZA10",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -588,18 +576,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-02T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "STRE10OFF",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -1935,18 +1911,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ESTOQUE2910",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-10-31T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE3010",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1992,6 +1956,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T15:29:37.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL3010",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-11-01T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2075,7 +2051,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
-      "validadeAte": "2026-10-31T02:59:00.000Z",
+      "validadeAte": "2026-10-31T03:48:17.837Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2088,18 +2064,6 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-31T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AQUITEMTECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-10-31T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2799,18 +2763,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "300MENOSAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T03:00:05.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "H4LLOWEENAF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2844,18 +2796,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-10-31T15:34:03.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "VEMNOVEMBROAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 35,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T03:00:05.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
