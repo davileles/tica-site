@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T11:37:57.180Z",
+  "atualizadoEm": "2026-10-31T12:02:33.148Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -471,18 +471,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "KASPERSKY15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "HUSKY15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -723,18 +711,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "99SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 99,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DECOR3010",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -747,15 +723,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITE3010",
+      "codigo": "50TODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
+      "valor": 50,
+      "minimo": 499,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-10-31T12:00:02.000Z",
+      "validadeAte": "2026-11-01T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1272,18 +1248,6 @@
       "limite": 500,
       "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
       "validadeAte": "2026-12-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GANHOUOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1839,18 +1803,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GANHOUPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:16.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1920,30 +1872,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITE3010",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 219,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPECIALMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-10-31T12:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2064,6 +1992,18 @@
       "limite": 70,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-31T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVROS3110",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-01T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
