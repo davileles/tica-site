@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T03:37:55.808Z",
+  "atualizadoEm": "2026-10-31T04:07:55.847Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2052,18 +2052,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados conforme lista",
       "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELICASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
-      "validadeAte": "2026-10-31T03:48:17.837Z",
       "url": "https://meli.la/2xystLt"
     },
     {
