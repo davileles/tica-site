@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T12:02:33.148Z",
+  "atualizadoEm": "2026-10-31T12:07:55.864Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2040,6 +2040,18 @@
       "limite": 20,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-10-31T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFNOTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-01T12:02:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
