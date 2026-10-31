@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T18:54:39.202Z",
+  "atualizadoEm": "2026-10-31T19:16:07.806Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38786",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/6L5eXPSnFn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T19:06:07.803Z"
+    },
     {
       "id": "38784",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 16,
       "cupom": "40TODOSITE",
       "enviadoEm": "2026-10-28T20:35:32.098Z"
-    },
-    {
-      "id": "37302",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 5 Camisetas Masculinas Básicas Slim Hering 4fv31den",
-      "link": "https://meli.la/1LMsrPh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881097-MLB88020664835_072025-P.webp",
-      "preco": 75.6,
-      "precoDe": 249.99,
-      "desconto": 57,
-      "cupom": "TODOSITE2810",
-      "enviadoEm": "2026-10-28T20:32:11.962Z"
     }
   ]
 }
