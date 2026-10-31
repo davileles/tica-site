@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-10-31T12:02:31.345Z",
+  "atualizadoEm": "2026-10-31T12:33:54.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38710",
+      "loja": "Mercado Livre",
+      "titulo": "Havaianas Top Athletic Masculino - Chinelo Casual - R$ 34,71",
+      "link": "https://meli.la/2e2uRqE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_757421-MLB103338987858_012026-P.webp",
+      "preco": 34.71,
+      "precoDe": 44.29,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T12:23:54.781Z"
+    },
+    {
+      "id": "38709",
+      "loja": "Amazon",
+      "titulo": "Carregador Universal Ultra Rápido Geonav",
+      "link": "https://www.amazon.com.br/dp/B09R8ZY2JN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21-+ffHLVFL._SL400_.jpg",
+      "preco": 42.3,
+      "precoDe": 52.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T12:20:43.836Z"
+    },
+    {
+      "id": "38707",
+      "loja": "Shopee",
+      "titulo": "Serra Mármore 1200w Profissional Corta Piso Granito Ceramica Ferro Madeira Concreto Potente Tipo Makita Com Disco 110/22",
+      "link": "https://s.shopee.com.br/1Lgy80s1K5",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd60-lu6rvlcndr8pa1_tn",
+      "preco": 183.88,
+      "precoDe": 346.94,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T12:17:16.479Z"
+    },
+    {
+      "id": "38706",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo para Gato Protetor para Sofá e Cama Box Cantos Premium",
+      "link": "https://s.shopee.com.br/3VlShuPnEK",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmri6d1f3o5ka2_tn",
+      "preco": 10.77,
+      "precoDe": 26.27,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T12:16:07.846Z"
+    },
+    {
+      "id": "38705",
+      "loja": "Mercado Livre",
+      "titulo": "Calça Legging Leg Zero Transparência Cintura Alta Academia - R$ 34,90",
+      "link": "https://meli.la/1BgN6B3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_939486-MLB90652136179_082025-P.webp",
+      "preco": 24.43,
+      "precoDe": 49.9,
+      "desconto": 30,
+      "cupom": "VALEPROMO",
+      "enviadoEm": "2026-10-31T12:12:46.881Z"
+    },
     {
       "id": "38699",
       "loja": "Shopee",
@@ -5941,66 +6001,6 @@
       "desconto": 24,
       "cupom": "5D3D3SC0NT0",
       "enviadoEm": "2026-10-28T17:11:40.430Z"
-    },
-    {
-      "id": "37110",
-      "loja": "Shopee",
-      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "link": "https://s.shopee.com.br/1143Fr6osR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lqywie4_tn",
-      "preco": 67.99,
-      "precoDe": 79.99,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T17:07:42.861Z"
-    },
-    {
-      "id": "37106",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Puma Térmica Manga Longa Proteção Uv 50+ Masculina - R$ 116,88",
-      "link": "https://meli.la/2K5zacV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831367-MLB116656036404_092026-P.webp",
-      "preco": 93.5,
-      "precoDe": 377.03,
-      "desconto": 69,
-      "cupom": "MODA",
-      "enviadoEm": "2026-10-28T17:04:12.128Z"
-    },
-    {
-      "id": "37104",
-      "loja": "Amazon",
-      "titulo": "Mateus Rose Vinho 750Ml",
-      "link": "https://www.amazon.com.br/dp/B001TP8O4E?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b8B+ow-GL._SL400_.jpg",
-      "preco": 58.9,
-      "precoDe": 65.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T17:00:19.115Z"
-    },
-    {
-      "id": "37093",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Peças Conjunto de Bebê Menina Menino e Neutro Infantil Boddy Manga Longa e Calça",
-      "link": "https://s.shopee.com.br/2LZQpjoj5s",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnkcrqavm3us10_tn",
-      "preco": 97.19,
-      "precoDe": 179.69,
-      "desconto": 32,
-      "cupom": "START1NOWAF",
-      "enviadoEm": "2026-10-28T16:52:01.277Z"
-    },
-    {
-      "id": "37086",
-      "loja": "Shopee",
-      "titulo": "Número de LED Neon - Painel 50cm Acrílico Decoração Festa Aniversário Números 0 /9 com base",
-      "link": "https://s.shopee.com.br/2LZQpSmaVo",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bc-mtnz0ofpxzpmb0_tn",
-      "preco": 54.13,
-      "precoDe": 79.91,
-      "desconto": 26,
-      "cupom": "5D3D3SC0NT0",
-      "enviadoEm": "2026-10-28T16:42:45.539Z"
     }
   ]
 }
