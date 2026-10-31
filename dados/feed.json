@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T16:44:07.580Z",
+  "atualizadoEm": "2026-10-31T16:58:50.097Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38768",
+      "loja": "Shopee",
+      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
+      "link": "https://s.shopee.com.br/40hjbiCdBw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-morvlwsqwz5s5a_tn",
+      "preco": 22.99,
+      "precoDe": 88.42,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T16:48:50.091Z"
+    },
     {
       "id": "38766",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": "ULT1M0D0D1A",
       "enviadoEm": "2026-10-28T19:51:21.954Z"
-    },
-    {
-      "id": "37267",
-      "loja": "Shopee",
-      "titulo": "Mini Cama Infantil Montessoriana Pompom Espuma D26 Menina Menino Proteção Lateral Bege Rosa Azul Incluso Colchão - AV",
-      "link": "https://s.shopee.com.br/5VWSnwSNQf",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mt8jn8dtxzpcc3_tn",
-      "preco": 505,
-      "precoDe": 631.25,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:47:16.118Z"
     }
   ]
 }
