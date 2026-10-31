@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-31T00:08:55.145Z",
+  "atualizadoEm": "2026-10-31T11:07:55.499Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38681",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira De Impacto 1/4 (6,35 Mm) 16v 170 Tramontina",
+      "link": "https://meli.la/1oqffD4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_998645-MLA111079767274_052026-F.jpg",
+      "preco": 682.74,
+      "precoDe": 810,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T11:07:28.415Z"
+    },
+    {
+      "id": "38680",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/5LD6oOzkAS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 16.49,
+      "precoDe": 31.71,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T11:06:21.430Z"
+    },
+    {
+      "id": "38679",
+      "loja": "Shopee",
+      "titulo": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "link": "https://s.shopee.com.br/60SnbcxCd7",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9_tn",
+      "preco": 8.87,
+      "precoDe": 17.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T11:02:50.965Z"
+    },
     {
       "id": "38665",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 11,
       "cupom": "VALETECH",
       "enviadoEm": "2026-10-28T16:03:12.663Z"
-    },
-    {
-      "id": "37052",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear - Tela VA FHD 32”, 144Hz nativo, 1ms (MBR), AMD FreeSync, HDR10, sRGB 99%, Preto - 32G403B",
-      "link": "https://meli.la/1jaM7Xa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782837-MLA119791860281_102026-F.jpg",
-      "preco": 1007.1,
-      "precoDe": 1448.88,
-      "desconto": 23,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T15:59:18.440Z"
-    },
-    {
-      "id": "37047",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc Agon G50 27\" 144Hz 0,5Ms Ips Hdr10 G-Sync 27G50f",
-      "link": "https://meli.la/1rfDhsp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_614514-MLB96765098695_102025-P.webp",
-      "preco": 647.19,
-      "precoDe": 1284,
-      "desconto": 44,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T15:55:23.124Z"
-    },
-    {
-      "id": "37046",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Samsung Odyssey G40 27\", 240 Hz, 1ms, ajuste de altura, Gsync, Freesync,HDMI, DP, FHD, Preto",
-      "link": "https://meli.la/1PLLYV9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960196-MLA90885249892_082025-F.jpg",
-      "preco": 950.4,
-      "precoDe": 1819,
-      "desconto": 42,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T15:51:12.815Z"
     }
   ]
 }
