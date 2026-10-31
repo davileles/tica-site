@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-10-31T18:31:39.909Z",
+  "atualizadoEm": "2026-10-31T18:54:39.202Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38784",
+      "loja": "Shopee",
+      "titulo": "Soprador Térmico Portátil Multiuso 350 °C com Bico Direcionador",
+      "link": "https://s.shopee.com.br/6AmEJh6cNx",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyj-mctedwye327a8c_tn",
+      "preco": 54.8,
+      "precoDe": 83.03,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:44:39.199Z"
+    },
+    {
+      "id": "38783",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/2gCM92TirY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 64.9,
+      "precoDe": 92.71,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:43:17.198Z"
+    },
+    {
+      "id": "38782",
+      "loja": "Amazon",
+      "titulo": "Dewar's, Whisky 18 anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B006IL39O4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312WZ20lvML._SL400_.jpg",
+      "preco": 403.9,
+      "precoDe": 729.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:39:49.492Z"
+    },
     {
       "id": "38781",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 57,
       "cupom": "TODOSITE2810",
       "enviadoEm": "2026-10-28T20:32:11.962Z"
-    },
-    {
-      "id": "37301",
-      "loja": "Amazon",
-      "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
-      "link": "https://www.amazon.com.br/dp/B076N2S8FV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OyxZnEHHL._SL400_.jpg",
-      "preco": 82.33,
-      "precoDe": 140.45,
-      "desconto": 31,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-28T20:28:15.201Z"
-    },
-    {
-      "id": "37297",
-      "loja": "Mercado Livre",
-      "titulo": "Mercusys MR30G Roteador Wifi5 AC1200 Gigabit Banda Dupla por TP-Link",
-      "link": "https://meli.la/1LinC4z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665973-MLA95688273664_102025-F.jpg",
-      "preco": 76.61,
-      "precoDe": 199,
-      "desconto": 45,
-      "cupom": "TODOSITE2810",
-      "enviadoEm": "2026-10-28T20:27:20.291Z"
-    },
-    {
-      "id": "37294",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-      "link": "https://meli.la/1aRgNh5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
-      "preco": 89.9,
-      "precoDe": 259.9,
-      "desconto": 52,
-      "cupom": "TODOSITE2810",
-      "enviadoEm": "2026-10-28T20:23:17.410Z"
     }
   ]
 }
