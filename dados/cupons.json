@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T15:01:41.690Z",
+  "atualizadoEm": "2026-10-31T15:31:41.493Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1836,30 +1836,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FAVSFAXINA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-10-31T15:29:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PET20SHOP",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 149,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-10-31T15:29:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
