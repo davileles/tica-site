@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-10-31T18:01:39.909Z",
+  "atualizadoEm": "2026-10-31T18:31:39.909Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38781",
+      "loja": "Mercado Livre",
+      "titulo": "Gel de Limpeza Facial Antibacteriano Vitamina C Uniform Mat Garnier 150ml",
+      "link": "https://meli.la/2JWTAEP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727916-MLA105361468859_012026-F.jpg",
+      "preco": 21.82,
+      "precoDe": 35.99,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:23:59.891Z"
+    },
+    {
+      "id": "38780",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/AAIN3GAaQK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 39.99,
+      "precoDe": 40.39,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:19:40.640Z"
+    },
+    {
+      "id": "38779",
+      "loja": "Amazon",
+      "titulo": "Buffalo Trace Whisky Ame Sabor Na 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B001P4SEXA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31eNsTT-m+L._SL400_.jpg",
+      "preco": 155.44,
+      "precoDe": 179.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:11:51.738Z"
+    },
+    {
+      "id": "38778",
+      "loja": "Amazon",
+      "titulo": "Vonder, Esmerilhadeira Angular 41/2\", 860 W, 127 V~, Eav 860n",
+      "link": "https://www.amazon.com.br/dp/B076YG9VWN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31w8ThoQydL._SL400_.jpg",
+      "preco": 284.33,
+      "precoDe": 540.26,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T18:10:49.009Z"
+    },
     {
       "id": "38774",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 52,
       "cupom": "TODOSITE2810",
       "enviadoEm": "2026-10-28T20:23:17.410Z"
-    },
-    {
-      "id": "37291",
-      "loja": "Shopee",
-      "titulo": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
-      "link": "https://s.shopee.com.br/9KjBONDD9u",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lz575a3eoft2f3_tn",
-      "preco": 52.89,
-      "precoDe": 72.45,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:19:29.411Z"
-    },
-    {
-      "id": "37290",
-      "loja": "Amazon",
-      "titulo": "Câmera instax mini 13 Dreamy Purple",
-      "link": "https://www.amazon.com.br/dp/B0G5NZ82TJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Y2w0pcFUL._SL400_.jpg",
-      "preco": 468.35,
-      "precoDe": 679,
-      "desconto": 19,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-28T20:15:50.576Z"
-    },
-    {
-      "id": "37289",
-      "loja": "Mercado Livre",
-      "titulo": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor - R$ 124,90",
-      "link": "https://meli.la/25iB54X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908822-MLA99935149295_112025-P.webp",
-      "preco": 258.46,
-      "precoDe": 334.9,
-      "desconto": 12,
-      "cupom": "TODOSITE2810",
-      "enviadoEm": "2026-10-28T20:12:35.414Z"
-    },
-    {
-      "id": "37287",
-      "loja": "Amazon",
-      "titulo": "Vinho Tarapacá Cosecha Chardonnay Branco 750ml",
-      "link": "https://www.amazon.com.br/dp/B0FJ32QN1W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313ng-gzW2L._SL400_.jpg",
-      "preco": 36.42,
-      "precoDe": 49.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:04:33.632Z"
     }
   ]
 }
