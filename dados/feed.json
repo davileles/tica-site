@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T20:31:39.909Z",
+  "atualizadoEm": "2026-10-31T20:46:55.887Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38795",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo Aroma Lavanda e Citronela 10, 15, 30, 50 e 100 Litros - Qualysack",
+      "link": "https://s.shopee.com.br/40hjrN48V3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1z7v5992x3ed_tn",
+      "preco": 12.22,
+      "precoDe": 16.97,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T20:36:55.884Z"
+    },
     {
       "id": "38794",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-10-28T21:08:43.722Z"
-    },
-    {
-      "id": "37355",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi - R$ 53,82",
-      "link": "https://meli.la/11FgvU9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951368-MLB107638587427_022026-P.webp",
-      "preco": 53.82,
-      "precoDe": 69.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:04:56.044Z"
     }
   ]
 }
