@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T17:21:24.099Z",
+  "atualizadoEm": "2026-10-31T18:01:41.757Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -672,18 +672,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECOR3010",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-10-31T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1851,6 +1839,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIPROMO3111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-01T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PAGUEMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1923,18 +1923,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITEMELIMAIS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-10-31T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIVROS3110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1956,30 +1944,6 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-11-01T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBES3010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-10-31T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAS3010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-10-31T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
