@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T13:45:01.866Z",
+  "atualizadoEm": "2026-10-31T13:57:25.161Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38727",
+      "loja": "Shopee",
+      "titulo": "Chapinha prancha Modelador E Alisador De Cabelo E Barba Masculino",
+      "link": "https://s.shopee.com.br/2BG5DsKRcm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0lx5a03o8sh41_tn",
+      "preco": 17.91,
+      "precoDe": 66.33,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T13:47:25.159Z"
+    },
     {
       "id": "38726",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 57,
       "cupom": "5D3D3SC0NT0",
       "enviadoEm": "2026-10-28T17:49:25.291Z"
-    },
-    {
-      "id": "37146",
-      "loja": "Shopee",
-      "titulo": "Pos parto kit com 5 pecas, palla larga, cintura alta",
-      "link": "https://s.shopee.com.br/1BW7Vx0af",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mtnpmtlqp53721_tn",
-      "preco": 34.15,
-      "precoDe": 79.9,
-      "desconto": 51,
-      "cupom": "5D3D3SC0NT0",
-      "enviadoEm": "2026-10-28T17:45:51.815Z"
     }
   ]
 }
