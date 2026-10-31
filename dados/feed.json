@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T20:01:39.909Z",
+  "atualizadoEm": "2026-10-31T20:24:28.549Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38792",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/1LgyevQfWJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
+      "preco": 44.9,
+      "precoDe": 95.53,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T20:14:28.545Z"
+    },
     {
       "id": "38791",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-10-28T20:54:07.782Z"
-    },
-    {
-      "id": "37331",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Meia Invisível Mash 10 Pares Algodão Sem Cano Esportiva - R$ 53,46",
-      "link": "https://meli.la/27haPRu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709206-MLB83235178954_042025-P.webp",
-      "preco": 53.46,
-      "precoDe": 62.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:52:48.147Z"
     }
   ]
 }
