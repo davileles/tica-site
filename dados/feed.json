@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-30T23:41:30.713Z",
+  "atualizadoEm": "2026-10-31T00:08:55.145Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38665",
+      "loja": "Amazon",
+      "titulo": "Rum Montilla Carta Cristal - 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B07XL4Y3WK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JQLZScnaL._SL400_.jpg",
+      "preco": 36.62,
+      "precoDe": 39.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T00:08:54.482Z"
+    },
     {
       "id": "38664",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": "VALETECH",
       "enviadoEm": "2026-10-28T15:51:12.815Z"
-    },
-    {
-      "id": "37043",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1Tb Sata 3 Darkplayer Pro Gamer Alta Performance",
-      "link": "https://meli.la/1uE2h8Z",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725935-MLB110392420873_042026-P.webp",
-      "preco": 539.91,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VALETECH",
-      "enviadoEm": "2026-10-28T15:47:49.659Z"
     }
   ]
 }
