@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T14:46:11.504Z",
+  "atualizadoEm": "2026-10-31T15:01:41.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -651,18 +651,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASA3010",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Dois cupons em selecionados: 10% OFF com limite de R$30 e R$100 OFF em compras de R$899",
-      "validadeAte": "2026-10-31T15:00:06.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TUDOPRACASA",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -675,15 +663,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
+      "codigo": "TECH100",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
+      "valor": 100,
+      "minimo": 899,
       "maximo": null,
-      "limite": 50,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-10-31T15:00:37.147Z",
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-01T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1935,18 +1923,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROSEJOGOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-10-31T15:00:37.147Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BOOOO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1983,15 +1959,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA3010",
+      "codigo": "MODA3110",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 119,
+      "valor": 15,
+      "minimo": 89,
       "maximo": null,
-      "limite": 30,
-      "observacao": "Dois cupons em selecionados: 10% OFF com limite de R$30 e R$100 OFF em compras de R$899",
-      "validadeAte": "2026-10-31T15:00:06.000Z",
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-01T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
