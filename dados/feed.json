@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T16:01:39.904Z",
+  "atualizadoEm": "2026-10-31T16:13:53.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38763",
+      "loja": "Shopee",
+      "titulo": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "link": "https://s.shopee.com.br/3B8cZ5a66C",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50_tn",
+      "preco": 42.8,
+      "precoDe": 147.59,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T16:03:53.709Z"
+    },
     {
       "id": "38760",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-28T19:39:20.829Z"
-    },
-    {
-      "id": "37249",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/1143QI8gx1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.99,
-      "precoDe": 65.92,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T19:34:25.964Z"
     }
   ]
 }
