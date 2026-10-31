@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-10-31T13:32:39.904Z",
+  "atualizadoEm": "2026-10-31T13:45:01.866Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38726",
+      "loja": "Amazon",
+      "titulo": "G-Tech Kit Medidor Glicose Free 1 Completo",
+      "link": "https://www.amazon.com.br/dp/B076L335JC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eTgbnr6HL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 55.7,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T13:35:01.863Z"
+    },
     {
       "id": "38725",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 51,
       "cupom": "5D3D3SC0NT0",
       "enviadoEm": "2026-10-28T17:45:51.815Z"
-    },
-    {
-      "id": "37139",
-      "loja": "Shopee",
-      "titulo": "Kit Berço Arco-íris Nuvem Rosa 4 peças Trança 4 metros Lençol Almofada Bordada Micropercal 160 fios",
-      "link": "https://s.shopee.com.br/2gCHHn2Ktm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mta3m4i8kni8f3_tn",
-      "preco": 124.99000000000001,
-      "precoDe": 211.25,
-      "desconto": 29,
-      "cupom": "START1NOWAF",
-      "enviadoEm": "2026-10-28T17:42:06.505Z"
     }
   ]
 }
