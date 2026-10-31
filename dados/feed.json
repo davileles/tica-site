@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-31T20:24:28.549Z",
+  "atualizadoEm": "2026-10-31T20:31:39.909Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38794",
+      "loja": "Amazon",
+      "titulo": "White Horse Whisky 1L | Whisky escocês blended de 1L, com sabor equilibrado, notas doces e frutadas e um toque defumado marcante.",
+      "link": "https://www.amazon.com.br/dp/B009UWD34O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31icFtXbfYL._SL400_.jpg",
+      "preco": 66.56,
+      "precoDe": 89.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T20:27:52.173Z"
+    },
+    {
+      "id": "38793",
+      "loja": "Shopee",
+      "titulo": "Suporte Para Furadeira 1/2 E 3/8 Manual Bancada com Escala de Curso Visível e Base de Ferro Fundido",
+      "link": "https://s.shopee.com.br/4Ve0RdaORm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8hpj5z8x14he9_tn",
+      "preco": 99.96,
+      "precoDe": 199.92,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T20:25:14.579Z"
+    },
     {
       "id": "38792",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 23,
       "cupom": null,
       "enviadoEm": "2026-10-28T21:04:56.044Z"
-    },
-    {
-      "id": "37353",
-      "loja": "Mercado Livre",
-      "titulo": "Panela De Pressão Elétrica 5 Litros Kian Inox",
-      "link": "https://meli.la/1dmBhvb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_851133-MLA99475264230_112025-F.jpg",
-      "preco": 245.99,
-      "precoDe": 459.9,
-      "desconto": 38,
-      "cupom": "40TODOSITE",
-      "enviadoEm": "2026-10-28T21:01:15.708Z"
-    },
-    {
-      "id": "37332",
-      "loja": "Amazon",
-      "titulo": "Energético Monster Mango Loco, 473ml, Pack com 6 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BYTLPHBC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/61zJofTCTnL._SL400_.jpg",
-      "preco": 56.71,
-      "precoDe": 62.94,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T20:54:07.782Z"
     }
   ]
 }
