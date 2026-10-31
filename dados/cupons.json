@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-31T12:07:55.864Z",
+  "atualizadoEm": "2026-10-31T12:33:56.557Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -707,6 +707,18 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
+      "validadeAte": "2026-11-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1956,18 +1968,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
