@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-31T21:56:13.907Z",
+  "atualizadoEm": "2026-10-31T22:20:16.616Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38810",
+      "loja": "Shopee",
+      "titulo": "Alicate Automático Decapador Crimpador Eletricista Descacador Fios Decapador Fio Automático 18 Em 1",
+      "link": "https://s.shopee.com.br/4Ve0Yfzd1f",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ai-mte20vozrojq8f_tn",
+      "preco": 23.99,
+      "precoDe": 38.08,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T22:10:16.614Z"
+    },
+    {
+      "id": "38809",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
+      "link": "https://s.shopee.com.br/1LgymmwjTH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9_tn",
+      "preco": 18.82,
+      "precoDe": 48.26,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-10-31T22:09:02.501Z"
+    },
     {
       "id": "38807",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 14,
       "cupom": "START1NOWAF",
       "enviadoEm": "2026-10-28T21:24:37.704Z"
-    },
-    {
-      "id": "37363",
-      "loja": "Amazon",
-      "titulo": "Buba Protetor De Quina E Borda - Flexível Em Rolo Branco",
-      "link": "https://www.amazon.com.br/dp/B07HD741BW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rEFmaii5L._SL400_.jpg",
-      "preco": 12.19,
-      "precoDe": 23.5,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:20:35.951Z"
-    },
-    {
-      "id": "37362",
-      "loja": "Shopee",
-      "titulo": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
-      "link": "https://s.shopee.com.br/4LKVVMtDLr",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbl8-m5vxjacwdty663_tn",
-      "preco": 318,
-      "precoDe": 530,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:19:20.722Z"
     }
   ]
 }
