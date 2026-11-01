@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T13:51:53.076Z",
+  "atualizadoEm": "2026-11-01T14:05:40.702Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1860,6 +1860,18 @@
       "limite": null,
       "observacao": "Evento Promo 11.11 da AliExpress. Múltiplos códigos disponíveis com descontos em valor fixo conforme a compra mínima.",
       "validadeAte": "2026-11-01T21:26:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AESUPER5",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 650,
+      "minimo": 3800,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Resgate no aplicativo. Válido até o final do evento.",
+      "validadeAte": "2026-11-02T13:56:51.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
