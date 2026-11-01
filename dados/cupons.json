@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T16:05:40.732Z",
+  "atualizadoEm": "2026-11-01T18:05:40.614Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -243,6 +243,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
+      "codigo": "BLACKCHEIA",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácia ou Mercado. Contas selecionadas.",
+      "validadeAte": "2026-11-02T18:02:32.000Z",
+      "url": null
+    },
+    {
       "codigo": "ESQUENTAPLAY",
       "loja": "Kabum",
       "tipo": "reais",
@@ -397,18 +409,6 @@
       "observacao": null,
       "validadeAte": "2026-11-02T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "100TODOSITE",
@@ -1599,18 +1599,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIPROMO3111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-01T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CLUBEDECUPONS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1695,6 +1683,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPER15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-02T18:00:25.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODAEBELEZA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1704,30 +1704,6 @@
       "limite": 20,
       "observacao": "Válido em produtos de moda e bem-estar",
       "validadeAte": "2026-11-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAIS3110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em produtos selecionados conforme listas fornecidas",
-      "validadeAte": "2026-11-01T18:00:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTO3110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em produtos selecionados conforme listas fornecidas",
-      "validadeAte": "2026-11-01T18:00:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1800,6 +1776,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS0111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-02T18:00:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2173,6 +2161,18 @@
       "observacao": "Evento Promo 11.11 da AliExpress. Múltiplos códigos disponíveis com descontos em valor fixo conforme a compra mínima.",
       "validadeAte": "2026-11-01T21:26:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACKCHEIA",
+      "loja": "Outro: iFood Mercado",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom sem detalhes de desconto (valor, tipo, mínimo). Informações incompletas na mensagem.",
+      "validadeAte": "2026-11-02T18:02:36.000Z",
+      "url": null
     },
     {
       "codigo": "CHEGOU",
