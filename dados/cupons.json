@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T18:05:40.614Z",
+  "atualizadoEm": "2026-11-01T18:35:40.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1695,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-03T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODAEBELEZA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2749,6 +2761,18 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
+    },
+    {
+      "codigo": "ENORME50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T18:07:01.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "S4M4N401AF",
