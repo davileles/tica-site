@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-01T14:35:38.936Z",
+  "atualizadoEm": "2026-11-01T15:05:38.938Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38920",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut 750ml",
+      "link": "https://www.amazon.com.br/dp/B0034XJK2O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lDs1thyIL._SL400_.jpg",
+      "preco": 77.67,
+      "precoDe": 117.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T14:57:00.331Z"
+    },
+    {
+      "id": "38919",
+      "loja": "Amazon",
+      "titulo": "Decanter de Cristal 1500ml - Bohemia",
+      "link": "https://www.amazon.com.br/dp/B019H2ZKWY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31EYfp2Wi3L._SL400_.jpg",
+      "preco": 94.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T14:55:41.589Z"
+    },
+    {
+      "id": "38918",
+      "loja": "Mercado Livre",
+      "titulo": "Saboneteira Automática Espuma Sensor Usb 500ml Recarregável - R$ 59,20",
+      "link": "https://meli.la/2GBUVxc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702638-MLB118963012465_102026-P.webp",
+      "preco": 44.400000000000006,
+      "precoDe": 78,
+      "desconto": 24,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T14:54:32.498Z"
+    },
+    {
+      "id": "38916",
+      "loja": "Shopee",
+      "titulo": "1 Rosa/Preto/Azul Cesto De Roupa Caixa Dobrável Para Armazenagem E Organização De Vestuário Brinquedos",
+      "link": "https://s.shopee.com.br/80DtpUBrKq",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12_tn",
+      "preco": 14.59,
+      "precoDe": 44.21,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T14:45:47.784Z"
+    },
+    {
+      "id": "38915",
+      "loja": "Mercado Livre",
+      "titulo": "Lixadeira Esmerilhadeira C/ Regulagem Velocidade 900w Bosch Azul 60hz",
+      "link": "https://meli.la/2dDr3uz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868066-MLA112534190573_052026-F.jpg",
+      "preco": 523.71,
+      "precoDe": 1229,
+      "desconto": 53,
+      "cupom": "QUEROAGORA",
+      "enviadoEm": "2026-11-01T14:41:09.997Z"
+    },
     {
       "id": "38913",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:42:55.544Z"
-    },
-    {
-      "id": "37494",
-      "loja": "Amazon",
-      "titulo": "BLACK+DECKER Pistola de Pintura Elétrica HVLP BDPH200B 110V",
-      "link": "https://www.amazon.com.br/dp/B0777PXK5X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41I3RM6zGvL._SL400_.jpg",
-      "preco": 311.01,
-      "precoDe": 399,
-      "desconto": 8,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-29T11:41:23.057Z"
-    },
-    {
-      "id": "37493",
-      "loja": "Shopee",
-      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "link": "https://s.shopee.com.br/6VP13FpgRV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
-      "preco": 16.99,
-      "precoDe": 22.36,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:40:14.246Z"
-    },
-    {
-      "id": "37492",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 66.66,
-      "precoDe": 92.9,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:36:24.755Z"
-    },
-    {
-      "id": "37487",
-      "loja": "Shopee",
-      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
-      "link": "https://s.shopee.com.br/1144UK4YA1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
-      "preco": 17.9,
-      "precoDe": 29.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:27:54.950Z"
-    },
-    {
-      "id": "37483",
-      "loja": "Mercado Livre",
-      "titulo": "Pistola de Pintura HVLP Deko 600W LED 1,2L 3 Bicos",
-      "link": "https://meli.la/2eqgqdF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680609-MLA100031211051_122025-F.jpg",
-      "preco": 329.98,
-      "precoDe": 404.99,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:23:47.499Z"
     }
   ]
 }
