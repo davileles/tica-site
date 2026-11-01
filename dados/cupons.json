@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T12:11:22.646Z",
+  "atualizadoEm": "2026-11-01T12:35:40.564Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -430,7 +430,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupom de desconto fixo em R$. Preço final: R$ 41,29 (redução de R$ 17,70 em relação ao preço de R$ 58,99). Desconto progressivo anunciado: R$ 78,99 → R$ 58,99 → R$ 41,29.",
+      "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1467,6 +1467,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESPECIALDESCONTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1485,7 +1497,7 @@
       "valor": 20,
       "minimo": 249,
       "maximo": null,
-      "limite": 80,
+      "limite": 55,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1659,18 +1671,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAEBELEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em produtos de moda e bem-estar",
-      "validadeAte": "2026-11-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA3110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1680,6 +1680,30 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-11-01T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-11-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODAEBELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em produtos de moda e bem-estar",
+      "validadeAte": "2026-11-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1739,7 +1763,43 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Cupom válido em produtos selecionados. Ver lista completa no link.",
-      "validadeAte": "2026-11-02T12:09:39.000Z",
+      "validadeAte": "2026-11-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-02T12:10:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CONSTRUIRML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEROAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
