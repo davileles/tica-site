@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T11:05:40.670Z",
+  "atualizadoEm": "2026-11-01T12:05:40.654Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -420,18 +420,6 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-02T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "50TODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1623,6 +1611,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIMAIS0111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 55,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-02T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1671,18 +1671,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROS3110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-01T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA3110",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1692,18 +1680,6 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-11-01T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFNOTECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-01T12:02:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1740,6 +1716,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-01T21:25:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-02T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
