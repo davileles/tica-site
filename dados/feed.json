@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-01T19:48:49.013Z",
+  "atualizadoEm": "2026-11-01T20:03:51.350Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39142",
+      "loja": "Shopee",
+      "titulo": "Prateleira de Metal Adesiva Sem Furo para Banheiro e Cozinha, Organizador de Parede Porta Shampoo e Sabonete",
+      "link": "https://s.shopee.com.br/8VAAlUj9yy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 10.99,
+      "precoDe": 29.7,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T19:53:51.346Z"
+    },
+    {
+      "id": "39140",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças Vidro Cerveja Beer Master Profissional Degustação Gourmet 400 ml",
+      "link": "https://www.amazon.com.br/dp/B0GWS4PP5K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61TPhGju1eL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T19:49:17.135Z"
+    },
     {
       "id": "39130",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-10-29T14:00:49.419Z"
-    },
-    {
-      "id": "37630",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 73.68,
-      "precoDe": 115.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:59:36.279Z"
-    },
-    {
-      "id": "37627",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Carrinho de Bebê Toffy, Cinza Mescla",
-      "link": "https://www.amazon.com.br/dp/B0CCG9KL19?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Vc80sBSpL._SL400_.jpg",
-      "preco": 399.89,
-      "precoDe": 659,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:55:22.403Z"
     }
   ]
 }
