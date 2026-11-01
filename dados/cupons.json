@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T18:35:40.923Z",
+  "atualizadoEm": "2026-11-01T19:05:40.907Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -252,6 +252,18 @@
       "limite": null,
       "observacao": "Válido em Farmácia ou Mercado. Contas selecionadas.",
       "validadeAte": "2026-11-02T18:02:32.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CUIDADOBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácias ou Mercado. Ativa às 16h",
+      "validadeAte": "2026-11-02T18:59:04.000Z",
       "url": null
     },
     {
