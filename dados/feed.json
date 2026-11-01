@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-01T13:05:38.925Z",
+  "atualizadoEm": "2026-11-01T13:31:27.482Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38878",
+      "loja": "Mercado Livre",
+      "titulo": "Tripé Flexível Inova para Celular com Controle Bluetooth e Rotação 360° Tripé Celular universal Estável 360° para Celular Vlog",
+      "link": "https://meli.la/23GFLj2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_659723-MLA108884043215_032026-F.jpg",
+      "preco": 25.82,
+      "precoDe": 57.36,
+      "desconto": 36,
+      "cupom": "SUPERVALEMELI",
+      "enviadoEm": "2026-11-01T13:21:27.479Z"
+    },
+    {
+      "id": "38875",
+      "loja": "Mercado Livre",
+      "titulo": "Lixa Elétrica Black Raipe para Pés, Removedor de Calos com 2 Refis",
+      "link": "https://meli.la/1y2zXyX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796570-MLA111865242661_052026-F.jpg",
+      "preco": 18.74,
+      "precoDe": 45.99,
+      "desconto": 46,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T13:17:29.076Z"
+    },
+    {
+      "id": "38873",
+      "loja": "Shopee",
+      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
+      "link": "https://s.shopee.com.br/6VP5wFzRGi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
+      "preco": 37.99,
+      "precoDe": 67.84,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T13:12:42.444Z"
+    },
     {
       "id": "38865",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:00:24.595Z"
-    },
-    {
-      "id": "37434",
-      "loja": "Amazon",
-      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
-      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
-      "preco": 191,
-      "precoDe": 475.22,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T22:57:45.116Z"
-    },
-    {
-      "id": "37433",
-      "loja": "Shopee",
-      "titulo": "Porta Frios Duplo Preto para Presunto e Queijo Com Fundo Removível Para Conservar e Organizar a Geladeira Hermetico",
-      "link": "https://s.shopee.com.br/40hfEGNGXi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ml6ctmoc7ojo37_tn",
-      "preco": 17.7,
-      "precoDe": 17.88,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T22:56:37.098Z"
-    },
-    {
-      "id": "37431",
-      "loja": "Amazon",
-      "titulo": "Kit Perfume Masculino Hugo Boss Bottled Parfum, Amadeirado Âmbar, 3 Itens | Eau de Parfum 100ml, Itens de 100ml e 75ml",
-      "link": "https://www.amazon.com.br/dp/B0FT5XQVRC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Pn16MxOGL._SL400_.jpg",
-      "preco": 479.71,
-      "precoDe": 859,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T22:52:43.472Z"
     }
   ]
 }
