@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-01T22:05:39.197Z",
+  "atualizadoEm": "2026-11-01T22:35:39.197Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39289",
+      "loja": "Amazon",
+      "titulo": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
+      "link": "https://www.amazon.com.br/dp/B0G71HDJSM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yUDgAWMuL._SL400_.jpg",
+      "preco": 1152.53,
+      "precoDe": 1599,
+      "desconto": 9,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-01T22:31:55.282Z"
+    },
+    {
+      "id": "39286",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/3g4vArZVI9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 74.9,
+      "precoDe": 110.15,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T22:26:43.010Z"
+    },
+    {
+      "id": "39285",
+      "loja": "Amazon",
+      "titulo": "Vinho Argentino Bodega Argento Minimalista Pinot Grigio 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CGPYNVN2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21euzMXYelL._SL400_.jpg",
+      "preco": 49.81,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T22:23:20.752Z"
+    },
+    {
+      "id": "39284",
+      "loja": "Amazon",
+      "titulo": "Fone de Ouvido Intra-Auricular Sem Fio JBL Wave Buds 2, Branco | Bluetooth, Resistente à Água e Poeira",
+      "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21OmJkjIhGL._SL400_.jpg",
+      "preco": 136.08,
+      "precoDe": 466.66,
+      "desconto": 51,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-01T22:22:22.949Z"
+    },
+    {
+      "id": "39279",
+      "loja": "Shopee",
+      "titulo": "Kit 3 em1 Bico Esguicho De Alta Pressão Para Torneira Mangueira Lavagem De Carros Moto Rega Jardim",
+      "link": "https://s.shopee.com.br/2BG7Ng3WkJ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-m0ukvk3phd6m14_tn",
+      "preco": 35,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T22:14:50.531Z"
+    },
+    {
+      "id": "39277",
+      "loja": "Amazon",
+      "titulo": "Vinho Chileno Diablo Crystal Sauvignon Blanc 750ml 2023",
+      "link": "https://www.amazon.com.br/dp/B0D9BH6BG5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NpGoQVssL._SL400_.jpg",
+      "preco": 29.62,
+      "precoDe": 66.24,
+      "desconto": 25,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-01T22:12:43.086Z"
+    },
     {
       "id": "39268",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-10-29T16:15:13.369Z"
-    },
-    {
-      "id": "37723",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Corporal em Creme Sundown Praia e Piscina, FPS 50, 200ml | Resistente à Água, Sem Perfume, Proteção UVA e UVB, Para Toda a Família",
-      "link": "https://www.amazon.com.br/dp/B079VQJZJR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ytUJoJa3S._SL400_.jpg",
-      "preco": 42.27,
-      "precoDe": 66.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T16:11:54.524Z"
-    },
-    {
-      "id": "37722",
-      "loja": "Shopee",
-      "titulo": "VINHO TINTO ANGÉLICA ZAPATA CABERNET SAUVIGNON 750 ML CX COM 04 UNIDADES",
-      "link": "https://s.shopee.com.br/5fpuLM4Vra",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5ql26xnxts9f_tn",
-      "preco": 474.05,
-      "precoDe": 499,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T16:08:06.624Z"
-    },
-    {
-      "id": "37720",
-      "loja": "Amazon",
-      "titulo": "Baby Alive Boneca Bebê Confeiteira Gigi Giggles Morena com Avental e Acessórios de Cozinha",
-      "link": "https://www.amazon.com.br/dp/B0GGN4NX93?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41V2x6o9ahL._SL400_.jpg",
-      "preco": 44.25,
-      "precoDe": 99.99,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T16:03:24.881Z"
-    },
-    {
-      "id": "37717",
-      "loja": "Amazon",
-      "titulo": "Tênis Mizuno Enigma 3, Verde, 36",
-      "link": "https://www.amazon.com.br/dp/B0GV1H8YXL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418bXQ259sL._SL400_.jpg",
-      "preco": 269.9,
-      "precoDe": 499.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T15:59:54.659Z"
-    },
-    {
-      "id": "37716",
-      "loja": "Amazon",
-      "titulo": "Tech T-shirt Long Sleeve Masculino Azul Marinho P",
-      "link": "https://www.amazon.com.br/dp/B0CTN3NWL2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vVIH6a6XL._SL400_.jpg",
-      "preco": 66.4,
-      "precoDe": 209,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T15:56:13.552Z"
-    },
-    {
-      "id": "37715",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": 77.9,
-      "precoDe": 126.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T15:52:47.801Z"
     }
   ]
 }
