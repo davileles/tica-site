@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T12:35:40.564Z",
+  "atualizadoEm": "2026-11-01T13:51:53.076Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2161,6 +2161,18 @@
       "observacao": "Evento Promo 11.11 da AliExpress. Múltiplos códigos disponíveis com descontos em valor fixo conforme a compra mínima.",
       "validadeAte": "2026-11-01T21:26:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "CHEGOU",
+      "loja": "Outro: Natura",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 2,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto progressivo conforme a quantidade de itens adicionados",
+      "validadeAte": "2026-11-02T13:42:29.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
