@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-01T15:28:07.312Z",
+  "atualizadoEm": "2026-11-01T15:35:38.954Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38926",
+      "loja": "Amazon",
+      "titulo": "Energético Baly Morango e Pêssego 2L",
+      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
+      "preco": 17.01,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T15:31:00.960Z"
+    },
+    {
+      "id": "38925",
+      "loja": "Shopee",
+      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "link": "https://s.shopee.com.br/BV2Y1q24z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
+      "preco": 27.89,
+      "precoDe": 64.86,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T15:28:26.596Z"
+    },
     {
       "id": "38924",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:59:53.929Z"
-    },
-    {
-      "id": "37503",
-      "loja": "Amazon",
-      "titulo": "Larios Gin Espanhol Dry Original 700ml",
-      "link": "https://www.amazon.com.br/dp/B00XUNT40Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413omRYNgDL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 72.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:56:04.959Z"
-    },
-    {
-      "id": "37502",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Refeição Burigotto Poke, Polar",
-      "link": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bJdu3dS4L._SL400_.jpg",
-      "preco": 186.99,
-      "precoDe": 345,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:51:58.030Z"
     }
   ]
 }
