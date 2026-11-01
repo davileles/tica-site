@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-01T17:35:38.962Z",
+  "atualizadoEm": "2026-11-01T18:05:39.028Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39041",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Long Neck 330ml 12 Unidades",
+      "link": "https://s.shopee.com.br/8KqkRNHx2O",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx1-m0em60jmlrqo4c_tn",
+      "preco": 144.97,
+      "precoDe": 204.18,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T17:57:26.457Z"
+    },
+    {
+      "id": "39036",
+      "loja": "Shopee",
+      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
+      "link": "https://s.shopee.com.br/LoSu8lZhM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
+      "preco": 35.91,
+      "precoDe": 39.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T17:52:29.822Z"
+    },
+    {
+      "id": "39033",
+      "loja": "Shopee",
+      "titulo": "Torno Morsa de Bancada 6\" 150 mm / 5'' 125 mm Giratória C/ Bigorna",
+      "link": "https://s.shopee.com.br/W7t6Duznj",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m7nbbimro0bg74_tn",
+      "preco": 164,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T17:46:42.293Z"
+    },
     {
       "id": "39015",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-10-29T13:25:54.480Z"
-    },
-    {
-      "id": "37600",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 47.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:19:34.808Z"
-    },
-    {
-      "id": "37599",
-      "loja": "Amazon",
-      "titulo": "Smirnoff Vodka Nº 21 998ml",
-      "link": "https://www.amazon.com.br/dp/B07R1GV92N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kAcpmzjOL._SL400_.jpg",
-      "preco": 33.76,
-      "precoDe": 43.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:18:07.800Z"
-    },
-    {
-      "id": "37594",
-      "loja": "Amazon",
-      "titulo": "Bosch Lixadeira Orbital GSS 140 220V 220W com 1 lixa",
-      "link": "https://www.amazon.com.br/dp/B0D26V1BKQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KfSSSQqaL._SL400_.jpg",
-      "preco": 217.51,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-29T13:15:30.574Z"
     }
   ]
 }
