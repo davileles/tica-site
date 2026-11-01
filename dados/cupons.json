@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T03:31:40.332Z",
+  "atualizadoEm": "2026-11-01T10:35:39.354Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -360,6 +360,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-02T12:00:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "PLACAMAE10",
+      "loja": "Kabum",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-03T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
