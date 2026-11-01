@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-01T16:26:45.491Z",
+  "atualizadoEm": "2026-11-01T16:35:38.955Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38965",
+      "loja": "Shopee",
+      "titulo": "Kit Tupia Manual Laminadora 800w 6mm + Jogo De Fresas 15 Pcs",
+      "link": "https://s.shopee.com.br/8AXK9FISpw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb98c0auyrnz19_tn",
+      "preco": 185,
+      "precoDe": 596.77,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T16:34:04.679Z"
+    },
     {
       "id": "38946",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-10-29T12:38:52.805Z"
-    },
-    {
-      "id": "37531",
-      "loja": "Shopee",
-      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
-      "link": "https://s.shopee.com.br/6fiRHujcuR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
-      "preco": 17.8,
-      "precoDe": 24.72,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T12:34:51.731Z"
     }
   ]
 }
