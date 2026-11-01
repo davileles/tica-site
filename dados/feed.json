@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-01T18:57:28.256Z",
+  "atualizadoEm": "2026-11-01T19:05:39.032Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39095",
+      "loja": "Amazon",
+      "titulo": "Carrinho De Ferramentas 3 Gavetas Fercar Preto Chaveado C06",
+      "link": "https://www.amazon.com.br/dp/B07JK9ZMFR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41o1TT+uFKL._SL400_.jpg",
+      "preco": 1098.9,
+      "precoDe": 1159,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T19:02:17.803Z"
+    },
     {
       "id": "39079",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-10-29T13:48:29.207Z"
-    },
-    {
-      "id": "37620",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Sortido 4 Calça Legging Cotton Infantil Menina 2 Ao 8 - R$ 54,96",
-      "link": "https://meli.la/1vEkpUF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612156-MLB118277583776_102026-P.webp",
-      "preco": 54.96,
-      "precoDe": 84.92,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:44:48.304Z"
     }
   ]
 }
