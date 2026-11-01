@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T12:05:40.654Z",
+  "atualizadoEm": "2026-11-01T12:11:22.646Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1728,6 +1728,18 @@
       "limite": 20,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-11-02T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CHEGUEI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupom válido em produtos selecionados. Ver lista completa no link.",
+      "validadeAte": "2026-11-02T12:09:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
