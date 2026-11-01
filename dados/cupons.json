@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-01T19:05:40.907Z",
+  "atualizadoEm": "2026-11-01T20:03:53.164Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "TORCIDA50",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom válido para primeira compra no app Amazon",
+      "validadeAte": "2026-11-02T19:54:26.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "BF100",
       "loja": "Brinox Shop",
