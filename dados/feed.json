@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-01T16:05:38.955Z",
+  "atualizadoEm": "2026-11-01T16:26:45.491Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38946",
+      "loja": "Shopee",
+      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
+      "link": "https://s.shopee.com.br/2gCNZiHTiH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
+      "preco": 16.99,
+      "precoDe": 80.9,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T16:16:45.488Z"
+    },
+    {
+      "id": "38944",
+      "loja": "Amazon",
+      "titulo": "Tech T-shirt Gola V Masculino Azul Marinho P",
+      "link": "https://www.amazon.com.br/dp/B0BHJKQPS7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31KZf1VeaBL._SL400_.jpg",
+      "preco": 57.39,
+      "precoDe": 165,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T16:12:27.761Z"
+    },
+    {
+      "id": "38941",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": 46.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T16:06:47.577Z"
+    },
     {
       "id": "38931",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-10-29T12:34:51.731Z"
-    },
-    {
-      "id": "37530",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Tcl Mini Led 25\", 300Hz, 1ms, Hdr 600, Altura Ajustável 25G64",
-      "link": "https://meli.la/1h11G5F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723939-MLA103720530496_012026-P.webp",
-      "preco": 993.6,
-      "precoDe": 1299,
-      "desconto": 15,
-      "cupom": "OFERTAPRATECH",
-      "enviadoEm": "2026-10-29T12:30:59.227Z"
-    },
-    {
-      "id": "37529",
-      "loja": "Amazon",
-      "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
-      "link": "https://www.amazon.com.br/dp/B07XPCK5H5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316ZnUTUHWL._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 21.69,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T12:27:22.165Z"
-    },
-    {
-      "id": "37524",
-      "loja": "Mercado Livre",
-      "titulo": "Mallory Turbo 30cm 6 Pás B9440186 Ventilador De Mesa",
-      "link": "https://meli.la/2haPtak",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_629782-MLU77098554272_062024-F.jpg",
-      "preco": 71.25,
-      "precoDe": 109.9,
-      "desconto": 14,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-10-29T12:19:18.444Z"
     }
   ]
 }
