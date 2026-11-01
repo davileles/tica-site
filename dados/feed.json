@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-01T17:05:38.955Z",
+  "atualizadoEm": "2026-11-01T17:20:16.316Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38999",
+      "loja": "Shopee",
+      "titulo": "Chave de Impacto Sem Fio 350Nm 3200RPM Kit Completo Com Maleta e Soquetes + 2 Baterias Hagra",
+      "link": "https://s.shopee.com.br/5fpzDE86UZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpxk3o6c8ydc91_tn",
+      "preco": 133.2,
+      "precoDe": 493.33,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T17:10:16.313Z"
+    },
     {
       "id": "38993",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-10-29T13:12:31.335Z"
-    },
-    {
-      "id": "37590",
-      "loja": "Amazon",
-      "titulo": "Caneca de Aprendizado com Alça Lillo Evolution, Menina, 150ml | Rosa e Verde, Bebedor SIL",
-      "link": "https://www.amazon.com.br/dp/B08V2FY633?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418xVvi3VVL._SL400_.jpg",
-      "preco": 26.91,
-      "precoDe": 45.78,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:11:27.975Z"
     }
   ]
 }
