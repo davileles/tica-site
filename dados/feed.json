@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-01T18:35:39.030Z",
+  "atualizadoEm": "2026-11-01T18:57:28.256Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39079",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/1BcZJ2FFp",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75_tn",
+      "preco": 27.69,
+      "precoDe": 37.42,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T18:47:28.253Z"
+    },
+    {
+      "id": "39071",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 6pçs Tefal Refresh Ceramic Azul Ártico + 3 Acess.",
+      "link": "https://meli.la/1HL64WU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_814139-MLA99498419040_112025-F.jpg",
+      "preco": 261.9,
+      "precoDe": 899.99,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T18:37:48.872Z"
+    },
     {
       "id": "39069",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-10-29T13:44:48.304Z"
-    },
-    {
-      "id": "37619",
-      "loja": "Mercado Livre",
-      "titulo": "Sapatinho Bebê Tênis Menino Bebêmania Direto Da Fabrica71305 - R$ 21,90",
-      "link": "https://meli.la/1YtyZse",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685233-MLA104754891923_012026-P.webp",
-      "preco": 21.9,
-      "precoDe": 35.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:43:58.041Z"
-    },
-    {
-      "id": "37614",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Sandália Infantil + Bolsinha - Confortável, Leve E Linda - R$ 54,90",
-      "link": "https://meli.la/1nFd626",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705715-MLB84749488663_052025-P.webp",
-      "preco": 54.9,
-      "precoDe": 99.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T13:43:09.328Z"
     }
   ]
 }
