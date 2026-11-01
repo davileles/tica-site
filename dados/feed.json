@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-01T11:05:38.918Z",
+  "atualizadoEm": "2026-11-01T11:35:38.918Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38837",
+      "loja": "Mercado Livre",
+      "titulo": "Benjamin Adaptador Pino de Tomada 20A 3 Saídas Monobloco Etools Ferramentas Tripolar 2p+t 250v Bivolt",
+      "link": "https://meli.la/2yqFzTQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930347-MLA112859434718_072026-F.jpg",
+      "preco": 22.49,
+      "precoDe": 34.95,
+      "desconto": 14,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T11:34:18.615Z"
+    },
+    {
+      "id": "38836",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/9APqzxkSHG",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 32.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:31:06.111Z"
+    },
+    {
+      "id": "38835",
+      "loja": "Mercado Livre",
+      "titulo": "Garrafa Térmica 500ml Aço Inox Portátil Camping Viagem Cafe Pêssego Rosa",
+      "link": "https://meli.la/2EGAnkF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975060-MLA113798163358_072026-F.jpg",
+      "preco": 28.869999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CARRINHOCHEIOJA",
+      "enviadoEm": "2026-11-01T11:28:07.171Z"
+    },
+    {
+      "id": "38834",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 31.87,
+      "precoDe": 41.52,
+      "desconto": 10,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-01T11:24:49.002Z"
+    },
+    {
+      "id": "38830",
+      "loja": "Mercado Livre",
+      "titulo": "Pisca Cortina 300 Leds 3x3m Usb Ip44 8 Modos Iluminação Luzes Fada Decoração De Natal Festa Branco Frio Luvinco - R$ 29,99",
+      "link": "https://meli.la/26e5KbN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720324-MLA118519912953_092026-P.webp",
+      "preco": 29.99,
+      "precoDe": 49.87,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:19:40.630Z"
+    },
+    {
+      "id": "38829",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit De Pontas E Brocas Em Titânio X-Line Com 100 Peças",
+      "link": "https://www.amazon.com.br/dp/B07CVCHHHW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51QToYgeEIL._SL400_.jpg",
+      "preco": 275.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:16:12.235Z"
+    },
+    {
+      "id": "38828",
+      "loja": "Amazon",
+      "titulo": "Cachaça Seleta Prata 1L Seleta Sabor Suave 1000 Ml",
+      "link": "https://www.amazon.com.br/dp/B07Y3SSW1J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41OvrMVslTL._SL400_.jpg",
+      "preco": 37.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:14:57.237Z"
+    },
+    {
+      "id": "38827",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml | Merlot",
+      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
+      "preco": 24.98,
+      "precoDe": 39.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:11:53.897Z"
+    },
+    {
+      "id": "38826",
+      "loja": "Mercado Livre",
+      "titulo": "Basike Power Bank Carregador Portatil 35w Turbo 10000mah Com Cabo Usb C Super Carregamento Rápido Pd Leve Compacto Para iPhone 15/16/17 Pro Max Samsung Galaxy S25/S24/S23 Apple Mac",
+      "link": "https://meli.la/275a9UY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690235-MLA100454415730_122025-P.webp",
+      "preco": 87.5,
+      "precoDe": 220,
+      "desconto": 43,
+      "cupom": "SUPERVALEMELI",
+      "enviadoEm": "2026-11-01T11:10:31.545Z"
+    },
+    {
+      "id": "38825",
+      "loja": "Mercado Livre",
+      "titulo": "4em1 Kit Vassoura E Pá Multiuso Ajustável Limpeza Piso Pelos",
+      "link": "https://meli.la/2fkzGtN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747686-MLB101208079357_122025-P.webp",
+      "preco": 52.21000000000001,
+      "precoDe": 79.99,
+      "desconto": 13,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T11:07:09.562Z"
+    },
     {
       "id": "38824",
       "loja": "Shopee",
@@ -4851,18 +4971,6 @@
       "enviadoEm": "2026-10-29T15:24:46.356Z"
     },
     {
-      "id": "37690",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
-      "preco": 33.230000000000004,
-      "precoDe": 41.52,
-      "desconto": 6,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-29T15:17:33.587Z"
-    },
-    {
       "id": "37687",
       "loja": "Amazon",
       "titulo": "Kit de Pontas e Brocas Bosch V-Line 41 pçs",
@@ -5893,114 +6001,6 @@
       "desconto": 5,
       "cupom": "VALETECH",
       "enviadoEm": "2026-10-28T22:05:46.790Z"
-    },
-    {
-      "id": "37388",
-      "loja": "Mercado Livre",
-      "titulo": "3x Creatina Monohidratada Pura 500g Dark Lab Unidade - R$ 78,90",
-      "link": "https://meli.la/15RtAi7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989710-MLB117885955947_092026-P.webp",
-      "preco": 78.9,
-      "precoDe": 188.66,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T22:01:57.965Z"
-    },
-    {
-      "id": "37387",
-      "loja": "Mercado Livre",
-      "titulo": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável - R$ 29,99",
-      "link": "https://meli.la/1bagukn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639258-MLB82839590542_032025-P.webp",
-      "preco": 20.99,
-      "precoDe": 78.9,
-      "desconto": 62,
-      "cupom": "PRECINHO",
-      "enviadoEm": "2026-10-28T21:58:24.170Z"
-    },
-    {
-      "id": "37385",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-      "link": "https://meli.la/15Zhi6o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
-      "preco": 337.9,
-      "precoDe": 462.38,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:54:40.118Z"
-    },
-    {
-      "id": "37383",
-      "loja": "Shopee",
-      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
-      "link": "https://s.shopee.com.br/20walQ1kiA",
-      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
-      "preco": 14.84,
-      "precoDe": 40.11,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:53:52.133Z"
-    },
-    {
-      "id": "37379",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Masculino Armani Code Eau de Toilette Refilável, 125ml",
-      "link": "https://meli.la/1HSQ4z8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA92296026438_092025-F.jpg",
-      "preco": 489.19,
-      "precoDe": 929,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:46:32.877Z"
-    },
-    {
-      "id": "37378",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador GBH 18V-18 X sem bateria",
-      "link": "https://www.amazon.com.br/dp/B0FWMMWH5T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AA0iNH9xL._SL400_.jpg",
-      "preco": 849.06,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-28T21:42:34.484Z"
-    },
-    {
-      "id": "37377",
-      "loja": "Shopee",
-      "titulo": "Vestido Longo Liso de Festa Tomara que Caia com Lastex Liso em Linho Verão Réveillon",
-      "link": "https://s.shopee.com.br/AAIITTgXbn",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-mu110j0x1hj888_tn",
-      "preco": 49.45,
-      "precoDe": 89.91,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:41:27.688Z"
-    },
-    {
-      "id": "37371",
-      "loja": "Amazon",
-      "titulo": "Gopro Hero Bundle - Kit Câmera de Ação Compacta 4K Com Acessórios, 12Mp, Estabilização Hypersmooth, À Prova D'Água",
-      "link": "https://www.amazon.com.br/dp/B0DQR35QBH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31J+2wm9IqL._SL400_.jpg",
-      "preco": 1349.71,
-      "precoDe": 2299.9,
-      "desconto": 31,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-28T21:37:34.722Z"
-    },
-    {
-      "id": "37370",
-      "loja": "Amazon",
-      "titulo": "Jose Cuervo Tequila Gold Mexicana 35° 750ml",
-      "link": "https://www.amazon.com.br/dp/B09NVMP8GV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lELpNUJmL._SL400_.jpg",
-      "preco": 96,
-      "precoDe": 139.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:33:55.593Z"
     }
   ]
 }
