@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T14:05:40.702Z",
+  "atualizadoEm": "2026-11-01T15:05:40.662Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -399,15 +399,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TECH100",
+      "codigo": "100TODOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
-      "minimo": 899,
+      "minimo": 999,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-11-01T15:00:01.000Z",
+      "validadeAte": "2026-11-02T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1635,6 +1635,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SITE200111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1668,18 +1680,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA3110",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-01T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1775,7 +1775,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-02T12:10:04.000Z",
+      "validadeAte": "2026-11-02T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
