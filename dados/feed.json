@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-01T15:05:38.938Z",
+  "atualizadoEm": "2026-11-01T15:28:07.312Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38924",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com Brocas Soquetes E Bits 102 Pecas Makita E-10730 Nf",
+      "link": "https://meli.la/1na5zcz",
+      "imagem": "https://http2.mlstatic.com/D_780815-MLB81534778591_122024-F.jpg",
+      "preco": 247.06,
+      "precoDe": 425,
+      "desconto": 35,
+      "cupom": "QUEROAGORA",
+      "enviadoEm": "2026-11-01T15:18:07.309Z"
+    },
+    {
+      "id": "38923",
+      "loja": "Mercado Livre",
+      "titulo": "Vinho Tinto Espanhol Ramon Bilbao Crianza 750ml",
+      "link": "https://meli.la/1QCTCdw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811439-MLA111524331478_062026-F.jpg",
+      "preco": 67.27,
+      "precoDe": 226.9,
+      "desconto": 60,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T15:17:07.192Z"
+    },
     {
       "id": "38920",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-10-29T11:51:58.030Z"
-    },
-    {
-      "id": "37500",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/30p8tawXhD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:50:53.428Z"
-    },
-    {
-      "id": "37499",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Vanilia - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
-      "preco": 82.5,
-      "precoDe": 117.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:42:55.544Z"
     }
   ]
 }
