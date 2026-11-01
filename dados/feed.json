@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-10-31T22:54:32.879Z",
+  "atualizadoEm": "2026-11-01T11:05:38.918Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38824",
+      "loja": "Shopee",
+      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+      "link": "https://s.shopee.com.br/4LKbDQrGKN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
+      "preco": 199.99,
+      "precoDe": 307.68,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T11:04:08.563Z"
+    },
+    {
+      "id": "38823",
+      "loja": "Amazon",
+      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
+      "preco": 40.32,
+      "precoDe": 55.92,
+      "desconto": 15,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-01T11:00:26.526Z"
+    },
     {
       "id": "38815",
       "loja": "Amazon",
@@ -4635,18 +4659,6 @@
       "enviadoEm": "2026-10-29T16:20:16.520Z"
     },
     {
-      "id": "37728",
-      "loja": "Amazon",
-      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
-      "preco": 40.32,
-      "precoDe": 55.92,
-      "desconto": 15,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-29T16:18:53.536Z"
-    },
-    {
       "id": "37724",
       "loja": "Amazon",
       "titulo": "Caderno Inteligente Grande, 215 x 280 mm, 70 Folhas",
@@ -5989,18 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-10-28T21:33:55.593Z"
-    },
-    {
-      "id": "37369",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Organizadores Com 14 Multiuso Gavetas Empilhavel",
-      "link": "https://meli.la/2NwFk9U",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_876411-MLA85220468958_062025-F.jpg",
-      "preco": 44,
-      "precoDe": 139.9,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-10-28T21:32:28.459Z"
     }
   ]
 }
