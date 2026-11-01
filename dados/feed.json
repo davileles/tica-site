@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-01T13:31:27.482Z",
+  "atualizadoEm": "2026-11-01T13:51:51.240Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "38897",
+      "loja": "Mercado Livre",
+      "titulo": "Luminaria Teto Led,pendente Lustre Moderna Para Quarto Sala",
+      "link": "https://meli.la/1U75yAs",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_851072-MLB115232916000_082026-P.webp",
+      "preco": 59.239999999999995,
+      "precoDe": 239,
+      "desconto": 67,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-01T13:41:51.237Z"
+    },
+    {
+      "id": "38893",
+      "loja": "Shopee",
+      "titulo": "Assento Elevatório Portátil Para Bebê Com Capa Removível Suporte De Alimentação E Aniversário De Viagem Crianças",
+      "link": "https://s.shopee.com.br/9pfXw1yLNf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134301-7rbm6-m5wrjqqw898q47_tn",
+      "preco": 58.12,
+      "precoDe": 95.28,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-01T13:36:38.565Z"
+    },
     {
       "id": "38878",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 16,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-29T11:05:29.903Z"
-    },
-    {
-      "id": "37469",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "link": "https://s.shopee.com.br/9V2caHEH3i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mudmdk4tvwn563_tn",
-      "preco": 18.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:04:31.877Z"
-    },
-    {
-      "id": "37468",
-      "loja": "Shopee",
-      "titulo": "Torno Morsa De Bancada N4 e N5 Leve/Pesado Trava Reforçada Aliyeahyeah",
-      "link": "https://s.shopee.com.br/8VA4zKQaub",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyy3b4ocj5t4d_tn",
-      "preco": 285,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T11:00:24.595Z"
     }
   ]
 }
