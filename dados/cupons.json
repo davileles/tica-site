@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-10-31T22:01:40.498Z",
+  "atualizadoEm": "2026-11-01T03:01:40.229Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "15SELECAO",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
-    },
     {
       "codigo": "BF100",
       "loja": "Brinox Shop",
@@ -75,18 +63,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
-      "codigo": "HOJETEMASSA",
-      "loja": "Brinox Shop",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
       "codigo": "BF15",
       "loja": "Brinox Shop",
       "tipo": "reais",
@@ -96,18 +72,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-20T18:12:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
-    },
-    {
-      "codigo": "TRAVESSURA",
-      "loja": "Brinox Shop",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=25279&id=1207116"
     },
     {
@@ -183,30 +147,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
-      "codigo": "OPORTUNIDADE10",
-      "loja": "Carrefour",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
-      "codigo": "ELUXCOM10",
-      "loja": "Carrefour",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
       "codigo": "ELUXTEM10",
       "loja": "Carrefour",
       "tipo": "pct",
@@ -216,18 +156,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
-      "codigo": "ELUXCOM5",
-      "loja": "Carrefour",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
@@ -288,18 +216,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "moveis8",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
@@ -399,18 +315,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CASACONECTADA",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "SACY15",
       "loja": "Kabum",
       "tipo": "pct",
@@ -420,30 +324,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "HUSKY15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "STREAMER15",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -471,54 +351,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "CADEIRA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SETUPFULL10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "FONTEXPG",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "MSINOKABUM",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "LIQUIDA10",
       "loja": "Kabum",
       "tipo": "pct",
@@ -528,18 +360,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-02T12:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "HUSKY10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -567,54 +387,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "DESCONTOLG15",
-      "loja": "LG",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=33061&id=1207116"
-    },
-    {
-      "codigo": "MOVEIS200",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MOVEIS100",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDOPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TECH100",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -624,6 +396,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-01T15:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITERESGATE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-02T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -648,18 +432,6 @@
       "limite": 500,
       "observacao": "Cupom de desconto fixo em R$. Preço final: R$ 41,29 (redução de R$ 17,70 em relação ao preço de R$ 58,99). Desconto progressivo anunciado: R$ 78,99 → R$ 58,99 → R$ 41,29.",
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTEI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -888,30 +660,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-23T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAISOFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PEGAESSA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1203,18 +951,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LEVEAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPRINHASML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1383,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VIPAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCERTA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1416,18 +1140,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CARRINHOCHEIO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1476,18 +1188,6 @@
       "limite": 500,
       "observacao": "Cupons para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORCUPOMML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1560,18 +1260,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VOLTAAQUI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1791,18 +1479,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL3010",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-01T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIPROMO3111",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1812,18 +1488,6 @@
       "limite": 80,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-11-01T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PAGUEMENOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 29,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1860,18 +1524,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BOOOO15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados conforme lista",
-      "validadeAte": "2026-11-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1957,66 +1609,6 @@
       "observacao": null,
       "validadeAte": "2026-11-01T21:25:09.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "camerasinistra",
-      "loja": "Motorola",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=24534&id=1207116"
-    },
-    {
-      "codigo": "motobruxa",
-      "loja": "Motorola",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=24534&id=1207116"
-    },
-    {
-      "codigo": "AWINBODYS",
-      "loja": "Natura",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
-    },
-    {
-      "codigo": "AWINMINIK",
-      "loja": "Natura",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
-    },
-    {
-      "codigo": "AWINAMOR",
-      "loja": "Natura",
-      "tipo": "reais",
-      "valor": 115,
-      "minimo": 115,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
     },
     {
       "codigo": "QUEROREFIL",
@@ -2953,18 +2545,6 @@
       "observacao": null,
       "validadeAte": "2026-11-02T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18864&id=1207116"
-    },
-    {
-      "codigo": "WINE15",
-      "loja": "Wine",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-01T02:59:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17770&id=1207116"
     }
   ]
 }
