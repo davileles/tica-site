@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-02T17:43:21.743Z",
+  "atualizadoEm": "2026-11-02T17:58:42.851Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39577",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Proteção Bepantol Baby 120g Creme Fácil Limpeza",
+      "link": "https://meli.la/1tvdAQR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875969-MLA109670731028_042026-F.jpg",
+      "preco": 122.24,
+      "precoDe": 199.99,
+      "desconto": 32,
+      "cupom": "OFERTADEZ",
+      "enviadoEm": "2026-11-02T17:48:42.849Z"
+    },
+    {
+      "id": "39569",
+      "loja": "Amazon",
+      "titulo": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
+      "link": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41OihhzY+8L._SL400_.jpg",
+      "preco": 44.769999999999996,
+      "precoDe": 99,
+      "desconto": 25,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-02T17:46:51.780Z"
+    },
+    {
+      "id": "39568",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's 700 ml",
+      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 84.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T17:43:29.885Z"
+    },
     {
       "id": "39566",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 27,
       "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
       "enviadoEm": "2026-10-29T22:05:16.493Z"
-    },
-    {
-      "id": "38052",
-      "loja": "Amazon",
-      "titulo": "Mala de Viagem Samsonite Fiero 3.0 Spinner com Cadeado TSA",
-      "link": "https://www.amazon.com.br/dp/B0DSCDZWKM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hiF9czkCL._SL400_.jpg",
-      "preco": 529.9,
-      "precoDe": 1200,
-      "desconto": 31,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T22:01:22.498Z"
-    },
-    {
-      "id": "38044",
-      "loja": "Amazon",
-      "titulo": "Vinho Espumante Demi-Sec Omnium Importado Argentina 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0GRKCQXP9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fMfHuo5JL._SL400_.jpg",
-      "preco": 30.73,
-      "precoDe": 56.9,
-      "desconto": 10,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T21:52:12.383Z"
-    },
-    {
-      "id": "38040",
-      "loja": "Shopee",
-      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
-      "link": "https://s.shopee.com.br/20wcMPC0NQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
-      "preco": 28.44,
-      "precoDe": 60.51,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T21:50:52.541Z"
     }
   ]
 }
