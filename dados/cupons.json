@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T12:37:59.212Z",
+  "atualizadoEm": "2026-11-02T14:07:59.604Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1779,18 +1779,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "AESUPER5",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 650,
-      "minimo": 3800,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Resgate no aplicativo. Válido até o final do evento.",
-      "validadeAte": "2026-11-02T13:56:51.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
       "codigo": "BLACKCHEIA",
       "loja": "Outro: iFood Mercado",
       "tipo": "pct",
@@ -1801,18 +1789,6 @@
       "observacao": "Cupom sem detalhes de desconto (valor, tipo, mínimo). Informações incompletas na mensagem.",
       "validadeAte": "2026-11-02T18:02:36.000Z",
       "url": null
-    },
-    {
-      "codigo": "CHEGOU",
-      "loja": "Outro: Natura",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 2,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto progressivo conforme a quantidade de itens adicionados",
-      "validadeAte": "2026-11-02T13:42:29.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17658&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
