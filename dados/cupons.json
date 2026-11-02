@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T18:13:23.752Z",
+  "atualizadoEm": "2026-11-02T19:13:23.633Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -253,18 +253,6 @@
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "CUIDADOBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Farmácias ou Mercado. Ativa às 16h",
-      "validadeAte": "2026-11-02T18:59:04.000Z",
-      "url": null
     },
     {
       "codigo": "ASROCK100",
@@ -1800,6 +1788,18 @@
       "limite": null,
       "observacao": "Cupom válido em contas selecionadas",
       "validadeAte": "2026-11-03T18:02:55.000Z",
+      "url": null
+    },
+    {
+      "codigo": "SAUDEBLACK",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em categorias Farmácias e Mercado",
+      "validadeAte": "2026-11-03T19:03:11.000Z",
       "url": null
     },
     {
