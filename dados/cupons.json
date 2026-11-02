@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T14:07:59.604Z",
+  "atualizadoEm": "2026-11-02T15:05:18.375Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -279,18 +279,6 @@
       "url": null
     },
     {
-      "codigo": "ESQUENTAPLAY",
-      "loja": "Kabum",
-      "tipo": "reais",
-      "valor": 400,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-02T15:00:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -409,18 +397,6 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "100TODOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-02T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1623,18 +1599,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITE200111",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-02T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULLRESGAT0211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1704,6 +1668,42 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-02T18:00:25.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BNPLD02",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
+      "validadeAte": "2026-11-03T15:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
+      "validadeAte": "2026-11-03T15:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTO0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
+      "validadeAte": "2026-11-03T15:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
