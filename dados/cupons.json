@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T16:44:23.805Z",
+  "atualizadoEm": "2026-11-02T18:13:23.752Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -253,18 +253,6 @@
       "observacao": null,
       "validadeAte": "2026-11-03T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "BLACKCHEIA",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Farmácia ou Mercado. Contas selecionadas.",
-      "validadeAte": "2026-11-02T18:02:32.000Z",
-      "url": null
     },
     {
       "codigo": "CUIDADOBF",
@@ -936,6 +924,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-03T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CPAMD0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-03T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1659,18 +1659,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPER15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-02T18:00:25.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BNPLD02",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1707,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBES0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-03T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1716,18 +1716,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-03T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJAS0111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-02T18:00:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1767,6 +1755,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TO0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-03T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "WELCOME15",
       "loja": "Oceane",
       "tipo": "pct",
@@ -1791,15 +1791,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
-      "codigo": "BLACKCHEIA",
-      "loja": "Outro: iFood Mercado",
-      "tipo": "pct",
-      "valor": 0,
+      "codigo": "BFCARRINHO",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom sem detalhes de desconto (valor, tipo, mínimo). Informações incompletas na mensagem.",
-      "validadeAte": "2026-11-02T18:02:36.000Z",
+      "observacao": "Cupom válido em contas selecionadas",
+      "validadeAte": "2026-11-03T18:02:55.000Z",
       "url": null
     },
     {
@@ -2365,18 +2365,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "ENORME50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-02T18:07:01.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
