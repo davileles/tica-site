@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-02T17:58:42.851Z",
+  "atualizadoEm": "2026-11-02T18:13:21.761Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39594",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut Vanilia, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 117.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:10:45.690Z"
+    },
+    {
+      "id": "39593",
+      "loja": "Shopee",
+      "titulo": "Kit Chocalho 8 Peças Mordedor Bebê Brinquedo Sensorial Macio Presente Para Menina e Menino Móbile para Berço",
+      "link": "https://s.shopee.com.br/8pn2daj5kN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtzdbhwe4uae0_tn",
+      "preco": 27.62,
+      "precoDe": 56.37,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:09:15.907Z"
+    },
+    {
+      "id": "39589",
+      "loja": "Shopee",
+      "titulo": "Lavadora De Alta Pressão Recarregável Sem Fio 48V Baterias Linha Premium Para Carros e Jardins",
+      "link": "https://s.shopee.com.br/4LKdH56h71",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtxysxdl90jma6_tn",
+      "preco": 91.9,
+      "precoDe": 316.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T17:59:47.300Z"
+    },
     {
       "id": "39577",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 43,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T22:16:30.842Z"
-    },
-    {
-      "id": "38056",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino E Feminino Response Runner 2 Adidas",
-      "link": "https://meli.la/1naeNiG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867418-MLB114319935420_082026-P.webp",
-      "preco": 249.99,
-      "precoDe": 399.99,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:12:58.431Z"
-    },
-    {
-      "id": "38054",
-      "loja": "Shopee",
-      "titulo": "Gabinete Gamer Gb1790 Hayom 4 Fans Rgb Micro-atx Vidro Temp Cor Preto",
-      "link": "https://s.shopee.com.br/1145BsnIGY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meatrpxmaupv51_tn",
-      "preco": 234.96,
-      "precoDe": 499.91,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:09:14.967Z"
-    },
-    {
-      "id": "38053",
-      "loja": "Shopee",
-      "titulo": "VODKA ABSOLUT NATURAL 1L KIT 2 UNIDADES",
-      "link": "https://s.shopee.com.br/80DpLeRZXl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqx5085xhn2f6b_tn",
-      "preco": 129.99,
-      "precoDe": 219.16,
-      "desconto": 27,
-      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
-      "enviadoEm": "2026-10-29T22:05:16.493Z"
     }
   ]
 }
