@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-02T21:43:21.775Z",
+  "atualizadoEm": "2026-11-02T21:55:47.104Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39765",
+      "loja": "Amazon",
+      "titulo": "Licor 43 Chocolate 700ml",
+      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
+      "preco": 166.55,
+      "precoDe": 189.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T21:45:47.101Z"
+    },
     {
       "id": "39761",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-10-30T13:08:07.310Z"
-    },
-    {
-      "id": "38250",
-      "loja": "Amazon",
-      "titulo": "GLACO BIG 120ml | cristalizador repelente de chuva para vidros automotivos",
-      "link": "https://www.amazon.com.br/dp/B07YCLFHQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51U2sArN2SL._SL400_.jpg",
-      "preco": 44.78,
-      "precoDe": 110,
-      "desconto": 32,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-30T13:00:38.906Z"
     }
   ]
 }
