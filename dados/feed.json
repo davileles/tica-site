@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-02T15:05:16.460Z",
+  "atualizadoEm": "2026-11-02T15:33:41.798Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39476",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Panelas Cerâmico Triplo Indução Tuut Ecoglid 5 Peças Cor Marble",
+      "link": "https://meli.la/1pb3mMS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651872-MLA95634538762_102025-F.jpg",
+      "preco": 247.87,
+      "precoDe": 479.99,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T15:23:41.790Z"
+    },
+    {
+      "id": "39474",
+      "loja": "Shopee",
+      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+      "link": "https://s.shopee.com.br/1qdI7GSyfH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mry50y1zr1mo61_tn",
+      "preco": 19.9,
+      "precoDe": 26.89,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T15:19:00.429Z"
+    },
+    {
+      "id": "39469",
+      "loja": "Amazon",
+      "titulo": "Chupeta Ultra Air 0-6 Meses Philips Avent Boy Unitária Elefante 081/06",
+      "link": "https://www.amazon.com.br/dp/B0C4M8S87B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jmfZtSWQL._SL400_.jpg",
+      "preco": 19.91,
+      "precoDe": 40.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T15:10:11.966Z"
+    },
     {
       "id": "39454",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 5,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-29T20:42:39.735Z"
-    },
-    {
-      "id": "37993",
-      "loja": "Amazon",
-      "titulo": "Jogo de Toalhas Luciana Marcotex 5 Peças (2 Banho, 2 Rosto e 1 Piso Chevron) 100% Algodão - Branco",
-      "link": "https://www.amazon.com.br/dp/B0H5NGHZBX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QABmnPSRL._SL400_.jpg",
-      "preco": 74.39,
-      "precoDe": 149.5,
-      "desconto": 17,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:41:44.595Z"
-    },
-    {
-      "id": "37989",
-      "loja": "Shopee",
-      "titulo": "Cerveja Coronita Extra 210ml - Caixa Com 24 Unidades",
-      "link": "https://s.shopee.com.br/8AXFSYufS2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may7cjm4bk3za0_tn",
-      "preco": 139.9,
-      "precoDe": 180.74,
-      "desconto": 6,
-      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
-      "enviadoEm": "2026-10-29T20:34:55.854Z"
-    },
-    {
-      "id": "37987",
-      "loja": "Amazon",
-      "titulo": "Camesa Edredom Ecopluma Toque de Pluma Queen 240x260cm - Rosé",
-      "link": "https://www.amazon.com.br/dp/B0D51L4QC3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418VlYMhE2L._SL400_.jpg",
-      "preco": 135.26,
-      "precoDe": 299,
-      "desconto": 25,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:31:32.447Z"
     }
   ]
 }
