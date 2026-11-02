@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T11:07:59.100Z",
+  "atualizadoEm": "2026-11-02T12:07:59.379Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -384,18 +384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "LIQUIDA10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-02T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -960,6 +948,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CPAMD021",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 85,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-03T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1611,18 +1611,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIMAIS0111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 55,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-02T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE200111",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1644,6 +1632,18 @@
       "limite": 40,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-03T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "0211MELIMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-03T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1707,18 +1707,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-02T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJAS0111",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1728,6 +1716,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-11-02T18:00:25.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-03T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
