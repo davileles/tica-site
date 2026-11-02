@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-02T20:43:21.774Z",
+  "atualizadoEm": "2026-11-02T21:05:34.274Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39726",
+      "loja": "Amazon",
+      "titulo": "Cerveja Pilsen Eisenbahn, Lata 350ml, 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BW1GMVMD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vO-AYLqPL._SL400_.jpg",
+      "preco": 41.88,
+      "precoDe": 50.28,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T20:55:34.270Z"
+    },
+    {
+      "id": "39725",
+      "loja": "Shopee",
+      "titulo": "Rodo de Silicone Cabo 100CM/140CM Para Limpeza de Piso Vidros Com Gancho Secos e Molhados Uso Duplo Vassoura Mágica",
+      "link": "https://s.shopee.com.br/6L5hqZO9qN",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h8-meyidaptp5agca_tn",
+      "preco": 19.9,
+      "precoDe": 42.34,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T20:54:15.740Z"
+    },
+    {
+      "id": "39718",
+      "loja": "Shopee",
+      "titulo": "Jogo De Chaves Torx Allen Tipo L Com 08 Peças",
+      "link": "https://s.shopee.com.br/50aKFRxOo4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljhtwbrp1toq38_tn",
+      "preco": 11.65,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T20:45:34.231Z"
+    },
     {
       "id": "39716",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "ESTOQUE2910",
       "enviadoEm": "2026-10-30T12:23:31.414Z"
-    },
-    {
-      "id": "38178",
-      "loja": "Amazon",
-      "titulo": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E+tvOEf4L._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 45.56,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T12:20:16.317Z"
-    },
-    {
-      "id": "38172",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/6VP2gKNJGZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 350,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T12:16:37.602Z"
-    },
-    {
-      "id": "38165",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
-      "preco": 83.9,
-      "precoDe": 159.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T12:08:58.013Z"
     }
   ]
 }
