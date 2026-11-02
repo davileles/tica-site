@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-02T20:07:04.436Z",
+  "atualizadoEm": "2026-11-02T21:43:23.508Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "DOMINGO40OFF",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons acumuláveis conforme quantidade de itens: 3 itens (15% + 40%) ou 6 itens (30% + 40%)",
-      "validadeAte": "2026-11-02T21:16:35.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "BF100",
       "loja": "Brinox Shop",
