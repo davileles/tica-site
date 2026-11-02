@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-02T20:07:02.453Z",
+  "atualizadoEm": "2026-11-02T20:13:21.773Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39692",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 139.62,
+      "precoDe": 189.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T20:10:43.746Z"
+    },
     {
       "id": "39678",
       "loja": "Amazon",
@@ -4777,18 +4789,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-30T18:47:13.584Z"
-    },
-    {
-      "id": "38471",
-      "loja": "Amazon",
-      "titulo": "Licor 43 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
-      "preco": 141.27,
-      "precoDe": 189.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T18:43:29.906Z"
     },
     {
       "id": "38470",
