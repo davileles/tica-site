@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T15:05:18.375Z",
+  "atualizadoEm": "2026-11-02T15:52:48.867Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1752,6 +1752,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-03T12:04:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTADEZ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-03T15:45:40.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
