@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-02T18:13:21.761Z",
+  "atualizadoEm": "2026-11-02T18:43:21.761Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39618",
+      "loja": "Shopee",
+      "titulo": "KODI 5 Em 1 Máquina Solda Inversora Profissional Máquina de solda 120A MMA/LIFT TIG",
+      "link": "https://s.shopee.com.br/5VWai5ncFP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-muonj99eig3ld4_tn",
+      "preco": 229.99,
+      "precoDe": 534.86,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:41:46.385Z"
+    },
+    {
+      "id": "39616",
+      "loja": "Amazon",
+      "titulo": "Philips Walita Multiprocessador PowerChop 1000, Preto, Copo com capacidade de 1,5 litros, Duas velocidades + pulsar, 6 acessórios, 1000W, 110V (HR7304/93)",
+      "link": "https://www.amazon.com.br/dp/B0GT7FR4LH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31EjKL1Zq4L._SL400_.jpg",
+      "preco": 176.86999999999998,
+      "precoDe": 499.9,
+      "desconto": 41,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-02T18:39:30.817Z"
+    },
+    {
+      "id": "39615",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 92.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:36:12.821Z"
+    },
+    {
+      "id": "39613",
+      "loja": "Shopee",
+      "titulo": "Kit Golzinho Mini Trave Futebol Infantil Gol Brinquedo 60x40 Crianças Bola e Bomba de Ar",
+      "link": "https://s.shopee.com.br/3g4wVx0mkz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mpmnvtnq4r28c5_tn",
+      "preco": 33.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:33:54.942Z"
+    },
+    {
+      "id": "39607",
+      "loja": "Mercado Livre",
+      "titulo": "Baba Eletronica Visão Noturna Vb603 Video Voz Camera S/ Fio Cor Branco 127/220v",
+      "link": "https://meli.la/2o22T1F",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826486-MLA112994427279_062026-P.webp",
+      "preco": 184.29,
+      "precoDe": 289.08,
+      "desconto": 25,
+      "cupom": "BEBES0211",
+      "enviadoEm": "2026-11-02T18:24:53.558Z"
+    },
+    {
+      "id": "39605",
+      "loja": "Mercado Livre",
+      "titulo": "Cercadinho Bebê Infantil Cercado Grande 182 120 64cm Cinza Liso",
+      "link": "https://meli.la/1uVJX5b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_847092-MLB102095318747_122025-P.webp",
+      "preco": 161.66,
+      "precoDe": 239,
+      "desconto": 20,
+      "cupom": "BEBES0211",
+      "enviadoEm": "2026-11-02T18:22:36.117Z"
+    },
+    {
+      "id": "39603",
+      "loja": "Amazon",
+      "titulo": "Parafusadeira Furadeira Gsb18v-65 +bateria+carregador Bosch",
+      "link": "https://www.amazon.com.br/dp/B0GM1LHQJG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gnVwvWwvL._SL400_.jpg",
+      "preco": 896.9,
+      "precoDe": 1083.75,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T18:20:39.340Z"
+    },
+    {
+      "id": "39597",
+      "loja": "Amazon",
+      "titulo": "WAP Lavadora de Alta Pressão ECO FIT PLUS WL1830 1600W 1700 PSI 360L/h, 220V",
+      "link": "https://www.amazon.com.br/dp/B0HGB42P45?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31FMIOMXAQL._SL400_.jpg",
+      "preco": 239.36999999999998,
+      "precoDe": 499.9,
+      "desconto": 20,
+      "cupom": "40% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-02T18:15:04.084Z"
+    },
     {
       "id": "39594",
       "loja": "Amazon",
@@ -841,18 +937,6 @@
       "desconto": 31,
       "cupom": "FULL0211",
       "enviadoEm": "2026-11-02T12:19:49.687Z"
-    },
-    {
-      "id": "39370",
-      "loja": "Amazon",
-      "titulo": "Philips Walita Multiprocessador PowerChop 1000, Preto, Copo com capacidade de 1,5 litros, Duas velocidades + pulsar, 6 acessórios, 1000W, 110V (HR7304/93)",
-      "link": "https://www.amazon.com.br/dp/B0GT7FR4LH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EjKL1Zq4L._SL400_.jpg",
-      "preco": 294.78,
-      "precoDe": 499.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T12:11:57.837Z"
     },
     {
       "id": "39369",
@@ -3651,18 +3735,6 @@
       "enviadoEm": "2026-10-30T22:32:08.304Z"
     },
     {
-      "id": "38648",
-      "loja": "Amazon",
-      "titulo": "Parafusadeira Furadeira Gsb18v-65 +bateria+carregador Bosch",
-      "link": "https://www.amazon.com.br/dp/B0GM1LHQJG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gnVwvWwvL._SL400_.jpg",
-      "preco": 917.9100000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-30T22:16:37.630Z"
-    },
-    {
       "id": "38646",
       "loja": "Amazon",
       "titulo": "Pack de SCHWEPPES Tônica 350ml 6 unidades",
@@ -5929,78 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-10-29T22:42:24.226Z"
-    },
-    {
-      "id": "38069",
-      "loja": "Shopee",
-      "titulo": "Andador Musical para Bebês--2931",
-      "link": "https://s.shopee.com.br/4fxNax2t0y",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mts930g90hz4eb_tn",
-      "preco": 169.99,
-      "precoDe": 298.23,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:33:00.319Z"
-    },
-    {
-      "id": "38066",
-      "loja": "Shopee",
-      "titulo": "WHISKY BOURBON JIM BEAM WHITE 4 ANOS 1L",
-      "link": "https://s.shopee.com.br/6AmBCLMNLl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mehimsrgwvlud3_tn",
-      "preco": 59.989999999999995,
-      "precoDe": 126.75,
-      "desconto": 29,
-      "cupom": "RESGATE AQUI: https://s.shopee.com.br/9pfTZrGSNn",
-      "enviadoEm": "2026-10-29T22:28:01.283Z"
-    },
-    {
-      "id": "38061",
-      "loja": "Amazon",
-      "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
-      "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31t0l+Bm-pL._SL400_.jpg",
-      "preco": 66.79,
-      "precoDe": 93.02,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:24:17.293Z"
-    },
-    {
-      "id": "38060",
-      "loja": "Mercado Livre",
-      "titulo": "2 Coberta Manta Soft Casal Microfibra Veludo 2,00x1,80 Mts - R$ 56,90",
-      "link": "https://meli.la/28AABXR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852590-MLB111358080156_052026-P.webp",
-      "preco": 56.9,
-      "precoDe": 74.87,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:23:17.225Z"
-    },
-    {
-      "id": "38059",
-      "loja": "Shopee",
-      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-      "link": "https://s.shopee.com.br/4B16yX32Hb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
-      "preco": 10.97,
-      "precoDe": 18.28,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T22:19:49.390Z"
-    },
-    {
-      "id": "38057",
-      "loja": "Amazon",
-      "titulo": "Tech T-shirt Gola U Masculino Preto G",
-      "link": "https://www.amazon.com.br/dp/B0BFT97SDN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Z5Lba0iIL._SL400_.jpg",
-      "preco": 53.940000000000005,
-      "precoDe": 159,
-      "desconto": 43,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T22:16:30.842Z"
     }
   ]
 }
