@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-02T19:13:23.633Z",
+  "atualizadoEm": "2026-11-02T20:07:04.436Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "TORCIDA50",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 80,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom válido para primeira compra no app Amazon",
-      "validadeAte": "2026-11-02T19:54:26.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "DOMINGO40OFF",
       "loja": "Amazon",
