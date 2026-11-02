@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-02T14:07:57.444Z",
+  "atualizadoEm": "2026-11-02T14:37:57.442Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39442",
+      "loja": "Shopee",
+      "titulo": "Cadeira de Descanso e Balanço para Bebê Bliss Baby Style com Música, Mosquiteiro e Controle Remoto",
+      "link": "https://s.shopee.com.br/1Bdt0704X",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-ms1dooh7lds4c6_tn",
+      "preco": 659.99,
+      "precoDe": 702.12,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:37:45.980Z"
+    },
+    {
+      "id": "39439",
+      "loja": "Mercado Livre",
+      "titulo": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Potência e Bico de Autolimpeza",
+      "link": "https://meli.la/34iMkij",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945436-MLA100025553119_122025-F.jpg",
+      "preco": 484.9,
+      "precoDe": 948.57,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:33:18.645Z"
+    },
+    {
+      "id": "39438",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "link": "https://s.shopee.com.br/9APsn6QHon",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
+      "preco": 10.5,
+      "precoDe": 12.65,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:29:51.327Z"
+    },
+    {
+      "id": "39436",
+      "loja": "Shopee",
+      "titulo": "Cadeira + Puff Opallinha Confortável Para Amamentação Quarto e Sala de Jantar Suede Bege",
+      "link": "https://s.shopee.com.br/60Sr19fEK6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mnk1juytfz0i4e_tn",
+      "preco": 299.93,
+      "precoDe": 399.91,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:25:34.178Z"
+    },
+    {
+      "id": "39432",
+      "loja": "Mercado Livre",
+      "titulo": "Trocador De Nenem Plastificado 68x45 Baby Reto Atenas Oferta - R$ 29",
+      "link": "https://meli.la/18XmHjK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657783-MLB71352220930_082023-P.webp",
+      "preco": 21.75,
+      "precoDe": 64,
+      "desconto": 55,
+      "cupom": "PROMOCERTA",
+      "enviadoEm": "2026-11-02T14:20:36.733Z"
+    },
+    {
+      "id": "39430",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Camisolas Amamentação + 3 Sutiãs amamentação + 3 Calcinhas Compressão",
+      "link": "https://s.shopee.com.br/4LKd1T1fkk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5mvfclfx7ea75_tn",
+      "preco": 139.9,
+      "precoDe": 211.97,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:15:57.932Z"
+    },
+    {
+      "id": "39427",
+      "loja": "Shopee",
+      "titulo": "Lovito Kids Vestido Casual com Apliques de Laço Drapeado Primavera/verão Rosa para Meninas L192AD009",
+      "link": "https://s.shopee.com.br/2gCP24PId8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82592-mtnmozeghzwkff_tn",
+      "preco": 45.5,
+      "precoDe": 65.94,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:11:32.439Z"
+    },
     {
       "id": "39425",
       "loja": "Shopee",
@@ -5917,90 +6001,6 @@
       "desconto": 18,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:04:08.002Z"
-    },
-    {
-      "id": "37976",
-      "loja": "Amazon",
-      "titulo": "Parafusadeira/Furadeira a Bateria 7.2V - 20 pecas",
-      "link": "https://www.amazon.com.br/dp/B088PPH4VK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hfBa34DgL._SL400_.jpg",
-      "preco": 195.45999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-29T20:00:22.844Z"
-    },
-    {
-      "id": "37973",
-      "loja": "Amazon",
-      "titulo": "Lavadora Alta Pressão Lava Jato UWS2250 Lava Car Electrolux 2250PSI com 1800W Potencia UltraWash com Dispenser Detergente Integrado Alça Retrátil 220v",
-      "link": "https://www.amazon.com.br/dp/B0DD5PZ559?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mvWUo96UL._SL400_.jpg",
-      "preco": 407.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T19:59:35.734Z"
-    },
-    {
-      "id": "37971",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-      "link": "https://s.shopee.com.br/2gCJ1jwlzg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
-      "preco": 73.4,
-      "precoDe": 100.55,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T19:52:47.307Z"
-    },
-    {
-      "id": "37962",
-      "loja": "Amazon",
-      "titulo": "Kit 2 Detergentes Lava Louças Finish Powerball 13 tabs + 1 Finish Secante 250ml",
-      "link": "https://www.amazon.com.br/dp/B08KL4GQZV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51vnzkOC-vL._SL400_.jpg",
-      "preco": 51.17,
-      "precoDe": 124.49,
-      "desconto": 31,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T19:45:25.456Z"
-    },
-    {
-      "id": "37946",
-      "loja": "Amazon",
-      "titulo": "Tech T-shirt Gola U Feminino Preto G",
-      "link": "https://www.amazon.com.br/dp/B0BFZT5N44?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31g8GlPg0WL._SL400_.jpg",
-      "preco": 117.61,
-      "precoDe": 159,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T19:37:52.960Z"
-    },
-    {
-      "id": "37945",
-      "loja": "Mercado Livre",
-      "titulo": "Câmera Bullet Thc-b127-lpc Fixa Luz Dupla 2mp Hikvision",
-      "link": "https://meli.la/2wLx9Qa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947992-MLA100012721541_122025-F.jpg",
-      "preco": 73.26,
-      "precoDe": 105.66,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T19:34:10.691Z"
-    },
-    {
-      "id": "37941",
-      "loja": "Shopee",
-      "titulo": "Berço Cômoda com Colchão Incluso Meu Bebê Multimóveis MP4309",
-      "link": "https://s.shopee.com.br/4VdxBftuqU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep8-m1o8e8gcec2va5_tn",
-      "preco": 560.99,
-      "precoDe": 779.15,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T19:30:41.528Z"
     }
   ]
 }
