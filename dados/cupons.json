@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-02T12:07:59.379Z",
+  "atualizadoEm": "2026-11-02T12:37:59.212Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1503,6 +1503,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-03T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1728,6 +1740,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-11-03T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "COMPRAPREFERIDA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-03T12:04:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
