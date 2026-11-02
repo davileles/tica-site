@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-02T14:37:57.442Z",
+  "atualizadoEm": "2026-11-02T15:05:16.460Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39454",
+      "loja": "Shopee",
+      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
+      "link": "https://s.shopee.com.br/9APsozVtG5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
+      "preco": 49.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:55:16.456Z"
+    },
+    {
+      "id": "39452",
+      "loja": "Mercado Livre",
+      "titulo": "Aquecedor De Mamadeira Sem Fio Digital Bivolt Portátil Branco 127/220v",
+      "link": "https://meli.la/27AJvDF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616643-MLB118528049836_102026-P.webp",
+      "preco": 39.99,
+      "precoDe": 45.9,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:50:37.154Z"
+    },
+    {
+      "id": "39450",
+      "loja": "Shopee",
+      "titulo": "Quarto Infantil Completo Guarda Roupa 3 Portas 2 Gavetas com Cômoda Selene Espresso Móveis Rosa/Fosco/Nature Rosa",
+      "link": "https://s.shopee.com.br/6L5hRGtBrh",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mc-mnuknpslrhtw8d_tn",
+      "preco": 712.25,
+      "precoDe": 913.14,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:48:28.322Z"
+    },
+    {
+      "id": "39446",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo de Jantar 20 Peças Biona Cerâmica Donna Margaridas",
+      "link": "https://meli.la/1Uhcdnq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753850-MLA95668635310_102025-F.jpg",
+      "preco": 198.2,
+      "precoDe": 349.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-02T14:42:31.327Z"
+    },
     {
       "id": "39442",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 25,
       "cupom": "OUTLETPRIME",
       "enviadoEm": "2026-10-29T20:31:32.447Z"
-    },
-    {
-      "id": "37984",
-      "loja": "Amazon",
-      "titulo": "Plasútil Kit 16 Potes de Plástico Tampa Fixa e Trava Não Perde a Tampa",
-      "link": "https://www.amazon.com.br/dp/B0BNLKR3HN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HJCjgm2bL._SL400_.jpg",
-      "preco": 47.940000000000005,
-      "precoDe": 104.99,
-      "desconto": 24,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:24:26.122Z"
-    },
-    {
-      "id": "37983",
-      "loja": "Amazon",
-      "titulo": "Papel Higiênico Neve Toque de Seda Folha Dupla 40 rolos 30M",
-      "link": "https://www.amazon.com.br/dp/B0GYPQ75SG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Z9gW9LyDL._SL400_.jpg",
-      "preco": 47.38999999999999,
-      "precoDe": 91.99,
-      "desconto": 14,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:20:50.687Z"
-    },
-    {
-      "id": "37982",
-      "loja": "Shopee",
-      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
-      "link": "https://s.shopee.com.br/9V2dCDjFpM",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
-      "preco": 29.9,
-      "precoDe": 34.77,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-10-29T20:17:21.250Z"
-    },
-    {
-      "id": "37978",
-      "loja": "Amazon",
-      "titulo": "NVSP-30-AP2 - Ventilador de Mesa 30cm Super Power II 220V - Mondial",
-      "link": "https://www.amazon.com.br/dp/B0F8C5XCLQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51-9pqXHd9L._SL400_.jpg",
-      "preco": 78.50999999999999,
-      "precoDe": 159.9,
-      "desconto": 18,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-29T20:04:08.002Z"
     }
   ]
 }
