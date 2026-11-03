@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-03T10:43:21.807Z",
+  "atualizadoEm": "2026-11-03T11:13:21.808Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39897",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Fralda-Calça Dia&Noite G 60 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CHZBJVVZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51pQ+v9XuIL._SL400_.jpg",
+      "preco": 68.97,
+      "precoDe": 107.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T11:10:58.704Z"
+    },
+    {
+      "id": "39896",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
+      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31e1MAYEMSL._SL400_.jpg",
+      "preco": 122.5,
+      "precoDe": 245,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T11:09:47.292Z"
+    },
+    {
+      "id": "39895",
+      "loja": "Amazon",
+      "titulo": "WAP Aspirador de Pó Vertical Power Speed Max CZ40 1600W 3 em 1 127V | Reservatório de poeira com capacidade total de 1,3L.",
+      "link": "https://www.amazon.com.br/dp/B0HG3BRBPC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21TJ72iSkDL._SL400_.jpg",
+      "preco": 329.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T11:06:19.623Z"
+    },
+    {
+      "id": "39894",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
+      "link": "https://s.shopee.com.br/5fq1zfw0Ws",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
+      "preco": 124.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T11:03:02.460Z"
+    },
     {
       "id": "39888",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-10-30T15:21:43.312Z"
-    },
-    {
-      "id": "38331",
-      "loja": "Shopee",
-      "titulo": "Kit 5 Caixas Organizadoras com Tampa Cesto Grande de Plástico 2 Litros 4,5 Litros 17 Litros",
-      "link": "https://s.shopee.com.br/3VlRJf7ZAO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mqvxcnrv84joe4_tn",
-      "preco": 49.9,
-      "precoDe": 105.09,
-      "desconto": 43,
-      "cupom": "ULT1M0D0M3S",
-      "enviadoEm": "2026-10-30T15:18:08.316Z"
-    },
-    {
-      "id": "38325",
-      "loja": "Amazon",
-      "titulo": "Caixa de Som, Basike boombox F9 Pro, Bluetooth, 300W(Preto) | TWS, RGB, IPX6, Bateria de longa duração, Equalizador Pop/Externo, Entrada TF/USB/AUX, Carregamento Type-C",
-      "link": "https://www.amazon.com.br/dp/B0H6JH248L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QIZ2WeaoL._SL400_.jpg",
-      "preco": 822.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-30T15:14:06.134Z"
-    },
-    {
-      "id": "38316",
-      "loja": "Shopee",
-      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
-      "link": "https://s.shopee.com.br/5q9M4oxBze",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
-      "preco": 12.97,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T15:01:36.981Z"
-    },
-    {
-      "id": "38313",
-      "loja": "Amazon",
-      "titulo": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-      "link": "https://www.amazon.com.br/dp/B0DBR1N89F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51jfJ2jeimL._SL400_.jpg",
-      "preco": 329.93999999999994,
-      "precoDe": 1199,
-      "desconto": 54,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-30T14:56:49.374Z"
     }
   ]
 }
