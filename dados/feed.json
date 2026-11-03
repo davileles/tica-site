@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-03T16:54:31.831Z",
+  "atualizadoEm": "2026-11-03T17:11:22.228Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40219",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Zero Pepsi, Black, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0954R6FNH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61xHGkdDlLL._SL400_.jpg",
+      "preco": 31.08,
+      "precoDe": 47.88,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T17:01:22.225Z"
+    },
+    {
+      "id": "40216",
+      "loja": "Shopee",
+      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
+      "link": "https://s.shopee.com.br/9V2kxCWz6w",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
+      "preco": 149.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:59:55.994Z"
+    },
+    {
+      "id": "40218",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec, Tamanho XXG, 48 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410zIUm477L._SL400_.jpg",
+      "preco": 49.88,
+      "precoDe": 57.22,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:58:19.490Z"
+    },
+    {
+      "id": "40217",
+      "loja": "Amazon",
+      "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07Z9T391J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415EsQAputL._SL400_.jpg",
+      "preco": 49.46,
+      "precoDe": 101.58,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:57:49.696Z"
+    },
+    {
+      "id": "40215",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
+      "preco": 49.46,
+      "precoDe": 101.58,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:57:20.786Z"
+    },
+    {
+      "id": "40214",
+      "loja": "Amazon",
+      "titulo": "Fraldas Descartáveis Babysec Ultrasec, Tamanho M, 72 Unidades | Galinha Pintadinha, 5 - 9, 5 Kg, Azul",
+      "link": "https://www.amazon.com.br/dp/B07Z9T391C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MDDM2pBSL._SL400_.jpg",
+      "preco": 49.45,
+      "precoDe": 101.58,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:56:46.854Z"
+    },
+    {
+      "id": "40213",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Pampers Aroma de Aloe Vera, 576 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGZ9B5G8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410+MmA9JiL._SL400_.jpg",
+      "preco": 99.43,
+      "precoDe": 121.72,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:56:13.101Z"
+    },
+    {
+      "id": "40211",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
+      "link": "https://s.shopee.com.br/4LKenZKCln",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-muxr1hl9yk9162_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T16:55:47.770Z"
+    },
     {
       "id": "40209",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": null,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-30T23:16:37.788Z"
-    },
-    {
-      "id": "38659",
-      "loja": "Amazon",
-      "titulo": "Pack de Refrigerante Fanta Maracuja Lata 350ml - 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0GYB6PXPV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51XOFCPCcuL._SL400_.jpg",
-      "preco": 28.79,
-      "precoDe": 32.94,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:57:37.814Z"
-    },
-    {
-      "id": "38658",
-      "loja": "Shopee",
-      "titulo": "Painel Suporte Porta Ferramentas Organizador Parede Perfurado 148x52 + Brindes",
-      "link": "https://s.shopee.com.br/1W0NRPGrzl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5iafaksxdz48_tn",
-      "preco": 117.59,
-      "precoDe": 119.99,
-      "desconto": 2,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:56:28.277Z"
-    },
-    {
-      "id": "38657",
-      "loja": "Shopee",
-      "titulo": "Mini Mixer Elétrico Portátil Batedor de Ovos e Leite Espumador Café – Utensílio de Cozinha a Pilha",
-      "link": "https://s.shopee.com.br/8fTXyWcqLK",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcch-lt6uk55nl3vc80_tn",
-      "preco": 10.98,
-      "precoDe": 49.91,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:55:18.684Z"
-    },
-    {
-      "id": "38654",
-      "loja": "Amazon",
-      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
-      "preco": 24.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:48:36.674Z"
-    },
-    {
-      "id": "38651",
-      "loja": "Shopee",
-      "titulo": "Painel Suporte Porta Ferramentas Organizador Parede Perfurado 118x52 + Brindes",
-      "link": "https://s.shopee.com.br/4fxPBfDCQn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5k3hnqv2f8b6_tn",
-      "preco": 119.99,
-      "precoDe": 126.31,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:33:01.928Z"
-    },
-    {
-      "id": "38650",
-      "loja": "Shopee",
-      "titulo": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "link": "https://s.shopee.com.br/AUvC8JVr0g",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4_tn",
-      "preco": 75.79,
-      "precoDe": 199.45,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:32:08.304Z"
-    },
-    {
-      "id": "38646",
-      "loja": "Amazon",
-      "titulo": "Pack de SCHWEPPES Tônica 350ml 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B0BYTQHNSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41O-VpfJiwL._SL400_.jpg",
-      "preco": 20.94,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:13:06.553Z"
-    },
-    {
-      "id": "38644",
-      "loja": "Shopee",
-      "titulo": "Mini Torno Bancada Profissional Base Fixa Morsa 40mm Aço Reforçado Starfer Liga Aluminio CTZ",
-      "link": "https://s.shopee.com.br/4LKYlafOhW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mu9kx92vd8n77c_tn",
-      "preco": 34.9,
-      "precoDe": 51.32,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:10:17.183Z"
     }
   ]
 }
