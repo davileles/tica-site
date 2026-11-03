@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-03T23:14:24.472Z",
+  "atualizadoEm": "2026-11-03T23:38:54.491Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40442",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido Johnson's Baby Hora do Sono, Lavanda, 400ml | Ajuda a Dormir Mais Rápido e por Mais Tempo, Essência Calm, Hipoalergênico",
+      "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wRCIkR7cL._SL400_.jpg",
+      "preco": 17.75,
+      "precoDe": 44.99,
+      "desconto": 51,
+      "cupom": "IMPERDIVEL20",
+      "enviadoEm": "2026-11-03T23:28:54.488Z"
+    },
     {
       "id": "40430",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": "QUEROAGORA",
       "enviadoEm": "2026-11-01T14:05:50.624Z"
-    },
-    {
-      "id": "38904",
-      "loja": "Shopee",
-      "titulo": "Capa Volante Carro Couro Universal  Costurada acessórios para carro",
-      "link": "https://s.shopee.com.br/1qdGQxa7fW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0us9vcjpk0w5c_tn",
-      "preco": 15.19,
-      "precoDe": 29.78,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T14:00:19.570Z"
     }
   ]
 }
