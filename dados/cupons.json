@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T22:24:33.959Z",
+  "atualizadoEm": "2026-11-03T22:54:34.084Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,6 +12,18 @@
       "limite": null,
       "observacao": "Exclusivo para clientes Prime selecionados",
       "validadeAte": "2026-11-04T12:23:34.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "IMPERDIVEL20",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados do link fornecido",
+      "validadeAte": "2026-11-04T22:52:32.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
