@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T11:13:23.610Z",
+  "atualizadoEm": "2026-11-03T12:13:23.589Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -108,18 +108,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "RELOGIO20",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -276,18 +264,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "PLACAMAE10",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T12:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -831,18 +807,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CPAMD021",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 85,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-03T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CPAMD0211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -852,6 +816,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-03T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOMENTOPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1407,6 +1383,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRAAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOIMPERDIVEL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GANHEDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1527,15 +1539,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "0211MELIMAIS",
+      "codigo": "CASAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 249,
+      "minimo": 79,
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-03T12:00:02.000Z",
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1572,6 +1584,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1623,27 +1647,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL0211",
+      "codigo": "CONSTRUIRMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
+      "valor": 15,
+      "minimo": 79,
       "maximo": null,
-      "limite": 20,
+      "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-03T12:00:02.000Z",
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRAPREFERIDA",
+      "codigo": "MODAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
+      "valor": 12,
+      "minimo": 79,
       "maximo": null,
-      "limite": 100,
+      "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-03T12:04:14.000Z",
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1668,6 +1692,30 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-11-03T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-04T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VOLTESEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-04T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
