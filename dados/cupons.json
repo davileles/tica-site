@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T01:43:22.056Z",
+  "atualizadoEm": "2026-11-03T03:13:22.085Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -135,18 +135,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "ELETRO100",
-      "loja": "Carrefour",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
-    },
-    {
       "codigo": "ELUXTEM10",
       "loja": "Carrefour",
       "tipo": "pct",
@@ -193,42 +181,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
-    },
-    {
-      "codigo": "PS5125",
-      "loja": "Fastshop",
-      "tipo": "reais",
-      "valor": 125,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "WEST5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": 4999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
-    },
-    {
-      "codigo": "Coffee5",
-      "loja": "Fastshop",
-      "tipo": "pct",
-      "valor": 5,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17590&id=1207116"
     },
     {
       "codigo": "ASROCK100",
@@ -1431,6 +1383,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESTOQUE0311",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-04T03:00:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1440,18 +1404,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-03T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1563,18 +1515,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULLRESGAT0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-03T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "0211MELIMAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1584,6 +1524,18 @@
       "limite": 80,
       "observacao": null,
       "validadeAte": "2026-11-03T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "RESGATEALLSITE0211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-04T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1671,18 +1623,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-03T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL0211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1741,18 +1681,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "OLYBF",
-      "loja": "Olympikus",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-03T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
       "codigo": "BFCARRINHO",
