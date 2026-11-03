@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-03T12:13:21.809Z",
+  "atualizadoEm": "2026-11-03T12:29:55.428Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39996",
+      "loja": "Amazon",
+      "titulo": "Azeite de oliva extra virgem, O-LIVE & Co, Chileno, vidro, 450ml | Blend das azeitonas Arbequina, Arbosana e Koroneiki, com sabor suave e notas frutadas e herbáceas",
+      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
+      "preco": 25.9,
+      "precoDe": 52.76,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:19:55.424Z"
+    },
+    {
+      "id": "39958",
+      "loja": "Amazon",
+      "titulo": "Bosch Trena Laser GLM 50-27 C, 50 metros, com Bluetooth",
+      "link": "https://www.amazon.com.br/dp/B08V5BV42G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MelrDGI8L._SL400_.jpg",
+      "preco": 905.99,
+      "precoDe": 1132.18,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:17:22.793Z"
+    },
+    {
+      "id": "39957",
+      "loja": "Amazon",
+      "titulo": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
+      "link": "https://www.amazon.com.br/dp/B09VQ39F41?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PrRkf43QL._SL400_.jpg",
+      "preco": 71.36,
+      "precoDe": 100,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:13:44.546Z"
+    },
     {
       "id": "39954",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 43,
       "cupom": "H4LLOWEENAF",
       "enviadoEm": "2026-10-30T16:43:36.682Z"
-    },
-    {
-      "id": "38380",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Professionnel Serie Expert Inforcer Máscara de Tratamento, Fortificante Anti-Quebra que Estimula o Crescimento e Previne a Queda, com Biotina e Vitamina B6 para Cabelos Frá",
-      "link": "https://www.amazon.com.br/dp/B09GSRB2CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oz40vYkJL._SL400_.jpg",
-      "preco": 138.97,
-      "precoDe": 214.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T16:40:15.692Z"
-    },
-    {
-      "id": "38378",
-      "loja": "Amazon",
-      "titulo": "Mala de Viagem American Tourister Tesa 4.0 Spinner Prata Grande",
-      "link": "https://www.amazon.com.br/dp/B0G59WDVD5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ukgoc+QML._SL400_.jpg",
-      "preco": 364.5,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OUTLETPRIME",
-      "enviadoEm": "2026-10-30T16:35:54.650Z"
-    },
-    {
-      "id": "38374",
-      "loja": "Shopee",
-      "titulo": "Kit Bolsas Maternidade 4 Peças Luxo, Completo Personalizado térmico e impermeável, Coleção Realeza",
-      "link": "https://s.shopee.com.br/4fxOm5fL0w",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-moj4jdsx9hxfc3_tn",
-      "preco": 331.78,
-      "precoDe": 495.19,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T16:32:00.283Z"
     }
   ]
 }
