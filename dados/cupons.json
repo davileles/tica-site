@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-03T12:13:23.589Z",
+  "atualizadoEm": "2026-11-03T12:29:57.497Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BLACKPRIME25",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 80,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo para clientes Prime selecionados",
+      "validadeAte": "2026-11-04T12:23:34.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "BF100",
       "loja": "Brinox Shop",
@@ -1547,7 +1559,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1595,7 +1607,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1655,7 +1667,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1667,7 +1679,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1715,7 +1727,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
