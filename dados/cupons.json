@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T18:44:29.731Z",
+  "atualizadoEm": "2026-11-03T19:24:33.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -289,6 +289,18 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "PROMOHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-04T19:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "CELL0311",
@@ -1791,15 +1803,15 @@
       "url": null
     },
     {
-      "codigo": "SAUDEBLACK",
+      "codigo": "BFFARMAON",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 10,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em categorias Farmácias e Mercado",
-      "validadeAte": "2026-11-03T19:03:11.000Z",
+      "observacao": "Desconto válido em Farmácias no iFood",
+      "validadeAte": "2026-11-04T19:02:23.000Z",
       "url": null
     },
     {
