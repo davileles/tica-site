@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T12:29:57.497Z",
+  "atualizadoEm": "2026-11-03T14:06:09.762Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -289,6 +289,18 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CELL0311",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-04T13:02:47.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1671,6 +1683,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOREALNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79.9,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados. Desconto máximo de R$50.",
+      "validadeAte": "2026-11-04T13:55:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1728,6 +1752,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPREPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-04T13:02:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
