@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T20:24:33.865Z",
+  "atualizadoEm": "2026-11-03T21:24:33.731Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1659,6 +1659,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-03T22:01:00.404Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CONSTRUIRMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1704,6 +1716,18 @@
       "limite": 80,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-04T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITE031115",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "15% de desconto com compra mínima de R$ 89, limitado a R$ 20 de desconto",
+      "validadeAte": "2026-11-04T21:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
