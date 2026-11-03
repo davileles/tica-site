@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-03T12:43:21.809Z",
+  "atualizadoEm": "2026-11-03T13:13:21.809Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39983",
+      "loja": "Amazon",
+      "titulo": "Performance T-shirt 2.0 Masculino Preto P",
+      "link": "https://www.amazon.com.br/dp/B0DZ356D28?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310oE8koDlL._SL400_.jpg",
+      "preco": 68.81,
+      "precoDe": 249,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:10:05.018Z"
+    },
+    {
+      "id": "39980",
+      "loja": "Amazon",
+      "titulo": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1kg | Para Roupas Brancas, Sem Cloro, Com Percarbonato",
+      "link": "https://www.amazon.com.br/dp/B07PNK7TZK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qsaD1ZaaL._SL400_.jpg",
+      "preco": 29.97,
+      "precoDe": 119.09,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:06:35.298Z"
+    },
+    {
+      "id": "39979",
+      "loja": "Amazon",
+      "titulo": "WAP Fritadeira Elétrica Air Fryer GRAND FAMILY 5,2 Litros, Temperatura Ajustável, Revestimento Antiaderente, 1500W 127V",
+      "link": "https://www.amazon.com.br/dp/B0CH5MMSH5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hID6NeVCL._SL400_.jpg",
+      "preco": 169.89,
+      "precoDe": 659.9,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:02:59.774Z"
+    },
+    {
+      "id": "39978",
+      "loja": "Amazon",
+      "titulo": "Apple Pulseira para AirTag - Branco",
+      "link": "https://www.amazon.com.br/dp/B0932R62GX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310GObzdXyL._SL400_.jpg",
+      "preco": 95.39,
+      "precoDe": 379,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:59:30.685Z"
+    },
+    {
+      "id": "39976",
+      "loja": "Amazon",
+      "titulo": "Roupa Íntima para Incontinência Plenitud Femme, 16 Unidades | Tamanho P/M",
+      "link": "https://www.amazon.com.br/dp/B07HCK1656?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ImB5-Hk0L._SL400_.jpg",
+      "preco": 7.99,
+      "precoDe": 76.17,
+      "desconto": 90,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:55:59.240Z"
+    },
+    {
+      "id": "39975",
+      "loja": "Amazon",
+      "titulo": "Creme Huggies c/3 de 80g",
+      "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51PB1xzjkuL._SL400_.jpg",
+      "preco": 11.49,
+      "precoDe": 85.5,
+      "desconto": 87,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:52:30.054Z"
+    },
+    {
+      "id": "39971",
+      "loja": "Amazon",
+      "titulo": "Roupa Íntima Plenitud G/XG, 2x32-64 Un",
+      "link": "https://www.amazon.com.br/dp/B0DHLYGXM3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/519QkyJ51lL._SL400_.jpg",
+      "preco": 29.99,
+      "precoDe": 234.21,
+      "desconto": 87,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:48:27.368Z"
+    },
+    {
+      "id": "39969",
+      "loja": "Amazon",
+      "titulo": "WAP Air Fryer Oven Digital WAOD1 12L, 10 Funções Programadas 220V | Faça a higienização dos acessórios utilizando a lava-louça.",
+      "link": "https://www.amazon.com.br/dp/B0CH5PR9G9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jjdjAlXML._SL400_.jpg",
+      "preco": 169.89,
+      "precoDe": 504.79,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:45:09.724Z"
+    },
     {
       "id": "39964",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 73,
       "cupom": null,
       "enviadoEm": "2026-10-30T17:18:04.533Z"
-    },
-    {
-      "id": "38407",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
-      "link": "https://s.shopee.com.br/40hi2FGRtm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
-      "preco": 40.99,
-      "precoDe": 56.15,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:13:28.343Z"
-    },
-    {
-      "id": "38406",
-      "loja": "Shopee",
-      "titulo": "Lovito Kids Babado Vestido Casual Fofo de Renda Azul Marinho para Primavera/verão para Meninas Bordado L168LD185",
-      "link": "https://s.shopee.com.br/AAILNXTNkz",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261w-mji68qfovw1v2c_tn",
-      "preco": 46.94,
-      "precoDe": 68.03,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:09:56.687Z"
-    },
-    {
-      "id": "38403",
-      "loja": "Mercado Livre",
-      "titulo": "Whey Isolado Isofreak 900g Sabor: Chocolate - Fórmula Avançada Com 23g De Proteína Por Dose",
-      "link": "https://meli.la/1SGUcc5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901913-MLA99553813558_122025-F.jpg",
-      "preco": 53.63000000000001,
-      "precoDe": 199.99,
-      "desconto": 62,
-      "cupom": "PARAVC",
-      "enviadoEm": "2026-10-30T17:06:35.620Z"
-    },
-    {
-      "id": "38401",
-      "loja": "Shopee",
-      "titulo": "Kit Mochila de Rodinhas Infantil Yepp Lancheira Estojo Picolé Capivara Unicórnio 3D Arco Íris",
-      "link": "https://s.shopee.com.br/3B8b1u8kGN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggwzyrzku1072_tn",
-      "preco": 159.8,
-      "precoDe": 301.27,
-      "desconto": 37,
-      "cupom": "H4LLOWEENAF",
-      "enviadoEm": "2026-10-30T17:02:52.660Z"
-    },
-    {
-      "id": "38393",
-      "loja": "Amazon",
-      "titulo": "XT808 Drone GPS com Câmera 4K Drone Profissional | Controle Remoto com Tela 5G, Retorno Inteligente, Quadricóptero, com Bolsa De Transporte, 2 Baterias",
-      "link": "https://www.amazon.com.br/dp/B0H2VKSZ3J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41F40-CZ1fL._SL400_.jpg",
-      "preco": 696.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-30T16:58:52.474Z"
-    },
-    {
-      "id": "38391",
-      "loja": "Shopee",
-      "titulo": "Vestido Infantil Natal Rodado Verão Brandili 1 a 10  anos Malha Confortável Original 37114",
-      "link": "https://s.shopee.com.br/60SmOJDkyE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-ms68p5ouqzgnd0_tn",
-      "preco": 79.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ULT1M0D0M3S",
-      "enviadoEm": "2026-10-30T16:55:21.936Z"
-    },
-    {
-      "id": "38389",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/dp/B0DG32SNZ4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51sLzfmMUbL._SL400_.jpg",
-      "preco": 279.9,
-      "precoDe": 829.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T16:51:53.452Z"
-    },
-    {
-      "id": "38387",
-      "loja": "Amazon",
-      "titulo": "Tramontina 41001118, Alicate Universal 8'', Amarelo",
-      "link": "https://www.amazon.com.br/dp/B076KK1RW8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LOlxI2XnL._SL400_.jpg",
-      "preco": 23.82,
-      "precoDe": 44,
-      "desconto": 40,
-      "cupom": "10% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-10-30T16:48:11.240Z"
     }
   ]
 }
