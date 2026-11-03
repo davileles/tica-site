@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-03T13:13:21.809Z",
+  "atualizadoEm": "2026-11-03T13:43:21.809Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40001",
+      "loja": "Amazon",
+      "titulo": "Catharine Hill Base Líquida Alta Cobertura Angel Wings 2022/A11 40ml À Prova D'água Acabamento Matte Vegano Ácido Hialurônico",
+      "link": "https://www.amazon.com.br/dp/B0FFVKHRCZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31njIHYHOmL._SL400_.jpg",
+      "preco": 37.18,
+      "precoDe": 94.69,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:40:40.281Z"
+    },
+    {
+      "id": "39998",
+      "loja": "Shopee",
+      "titulo": "110V Politriz Esmerilhadeira Lixadeira 3 em 1 Multifuncional 125mm Profissional 1150W 6 Velocidades",
+      "link": "https://s.shopee.com.br/1gJtJd9qZD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mrza42erb5l2b4_tn",
+      "preco": 157.99,
+      "precoDe": 298.09,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:37:01.901Z"
+    },
+    {
+      "id": "39997",
+      "loja": "Shopee",
+      "titulo": "Whisky Johnnie Walker Black Label - 1L",
+      "link": "https://s.shopee.com.br/7VHgGGU4bJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134275-820lx-mlw9z60nyb5ye3_tn",
+      "preco": 193.9,
+      "precoDe": 242.38,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:36:00.171Z"
+    },
+    {
+      "id": "39994",
+      "loja": "Amazon",
+      "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
+      "link": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HUUt5+o4L._SL400_.jpg",
+      "preco": 439.9,
+      "precoDe": 849.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:34:57.695Z"
+    },
+    {
+      "id": "39990",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "link": "https://s.shopee.com.br/3qONtCU72e",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1_tn",
+      "preco": 18.69,
+      "precoDe": 89,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:31:12.137Z"
+    },
+    {
+      "id": "39988",
+      "loja": "Amazon",
+      "titulo": "WAP Air Fryer Oven Digital WAOD1 12L, 10 Funções Programadas 220V | Faça a higienização dos acessórios utilizando a lava-louça.",
+      "link": "https://www.amazon.com.br/dp/B0CH5PR9G9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41jjdjAlXML._SL400_.jpg",
+      "preco": 169.89,
+      "precoDe": 504.79,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:23:33.013Z"
+    },
+    {
+      "id": "39986",
+      "loja": "Amazon",
+      "titulo": "Meia Pack 2 Fila F-Box Color, Branco/Marinho, Único",
+      "link": "https://www.amazon.com.br/dp/B0FGZL4Z2G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31TPLQIk1VL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 69.99,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:20:05.349Z"
+    },
+    {
+      "id": "39985",
+      "loja": "Amazon",
+      "titulo": "Scooby-Doo! Figura Colecionavel Piloto , Sunny",
+      "link": "https://www.amazon.com.br/dp/B091D5CG5C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51YI9vCDW9L._SL400_.jpg",
+      "preco": 27.86,
+      "precoDe": 99.99,
+      "desconto": 72,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:16:47.114Z"
+    },
+    {
+      "id": "39984",
+      "loja": "Amazon",
+      "titulo": "Kit de Aparelho de Barbear Gillette Mach3 Carbono, 2 Refis | 1 Cabo, Cuidado com a Barba",
+      "link": "https://www.amazon.com.br/dp/B0DR39GRHW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41otm4av5gL._SL400_.jpg",
+      "preco": 9.6,
+      "precoDe": 32.5,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T13:13:38.238Z"
+    },
     {
       "id": "39983",
       "loja": "Amazon",
@@ -85,18 +193,6 @@
       "desconto": 87,
       "cupom": null,
       "enviadoEm": "2026-11-03T12:48:27.368Z"
-    },
-    {
-      "id": "39969",
-      "loja": "Amazon",
-      "titulo": "WAP Air Fryer Oven Digital WAOD1 12L, 10 Funções Programadas 220V | Faça a higienização dos acessórios utilizando a lava-louça.",
-      "link": "https://www.amazon.com.br/dp/B0CH5PR9G9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41jjdjAlXML._SL400_.jpg",
-      "preco": 169.89,
-      "precoDe": 504.79,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T12:45:09.724Z"
     },
     {
       "id": "39964",
@@ -5905,102 +6001,6 @@
       "desconto": 7,
       "cupom": "FERRAMENTA15",
       "enviadoEm": "2026-10-30T17:34:56.663Z"
-    },
-    {
-      "id": "38422",
-      "loja": "Shopee",
-      "titulo": "Conjunto Polo com Bermuda Trick Nick Azul",
-      "link": "https://s.shopee.com.br/3LS1GQjAEm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-muwen2gsfv9g11_tn",
-      "preco": 74.99,
-      "precoDe": 220.56,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:33:42.177Z"
-    },
-    {
-      "id": "38421",
-      "loja": "Amazon",
-      "titulo": "Mionetto Prosecco Orange Label D.O.C. Brut 750ml",
-      "link": "https://www.amazon.com.br/dp/B00QURGOSE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IqKuzlsRL._SL400_.jpg",
-      "preco": 110.16,
-      "precoDe": 139.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:30:01.950Z"
-    },
-    {
-      "id": "38419",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray No Ten 750ml",
-      "link": "https://www.amazon.com.br/dp/B0DXF1QBM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UEcjFNlTL._SL400_.jpg",
-      "preco": 139.99,
-      "precoDe": 176.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:29:02.284Z"
-    },
-    {
-      "id": "38417",
-      "loja": "Shopee",
-      "titulo": "Lovito Kids Vestido Casual com Estampa Floral Drapeado Primavera/verão Branco para Meninas L192AD013",
-      "link": "https://s.shopee.com.br/7Aejp59k61",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820ls-mnxrvqlq86bk81_tn",
-      "preco": 37.9,
-      "precoDe": 54.14,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:27:41.711Z"
-    },
-    {
-      "id": "38415",
-      "loja": "Amazon",
-      "titulo": "Bosch Esmerilhadeira Angular Gws 850 De 4 1/2' 850W 127V Com Maleta",
-      "link": "https://www.amazon.com.br/dp/B07JR6JH62?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CDrMRh+OL._SL400_.jpg",
-      "preco": 355.58,
-      "precoDe": 462.07,
-      "desconto": 9,
-      "cupom": "FERRAMENTA15",
-      "enviadoEm": "2026-10-30T17:23:50.512Z"
-    },
-    {
-      "id": "38412",
-      "loja": "Amazon",
-      "titulo": "Granado Hidratante Bebê, Tradicional, 120ml",
-      "link": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vJUEEv8qL._SL400_.jpg",
-      "preco": 23.9,
-      "precoDe": 34,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:22:49.076Z"
-    },
-    {
-      "id": "38411",
-      "loja": "Shopee",
-      "titulo": "Lovito Kids Floral Conjunto Casual de Shorts com Apliques de Babados Azul Primavera/verão para Meninas L186LD218",
-      "link": "https://s.shopee.com.br/1146SvIPq4",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258e-mt38q82hnx1k6f_tn",
-      "preco": 45.5,
-      "precoDe": 65.94,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:21:50.170Z"
-    },
-    {
-      "id": "38410",
-      "loja": "Shopee",
-      "titulo": "Lavadora De Alta Pressão Recarregável Sem Fio 48V Baterias Linha Premium Para Carros e Jardins",
-      "link": "https://s.shopee.com.br/6fiTDDRR4A",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtxysxdl90jma6_tn",
-      "preco": 97.99,
-      "precoDe": 362.93,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T17:18:04.533Z"
     }
   ]
 }
