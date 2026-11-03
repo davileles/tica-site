@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-tema="claro">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Avisos de preço — Tica Promos</title>
+<link rel="canonical" href="https://ticapromos.com.br/avisos/"/>
+<meta name="description" content="Diga qual produto você quer comprar e o preço que espera pagar. O Tico acompanha e te avisa no WhatsApp quando o preço cair."/>
+<meta name="theme-color" content="#ffffff"/>
+<meta property="og:title" content="Avisos de preço — Tica Promos"/>
+<meta property="og:description" content="O Tico acompanha o preço do produto que você quer e te avisa no WhatsApp quando cair."/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://ticapromos.com.br/tico-ancora.png"/>
+<meta property="og:url" content="https://ticapromos.com.br/avisos/"/>
+<meta property="og:site_name" content="Tica Promos"/>
+<meta property="og:locale" content="pt_BR"/>
+<link rel="icon" href="/favicon.ico" sizes="any"/>
+<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+/* Mesma paleta da home (ver comentário lá): --accent recebe texto branco,
+   --tinta é o coral escurecido para texto, --coral só decora. */
+:root{
+  --bg:#f4f5f8;--surface:#ffffff;--surface-2:#eef0f5;--border:#d4d7e2;--border-forte:#b8bdce;
+  --coral:#fa5150;--navy:#2e3348;--accent:#d93636;--accent-hover:#c22f2f;--tinta:#c22f2f;
+  --ok:#1f7a4d;--ok-bg:#e6f4ec;--aviso:#8a5a00;--aviso-bg:#fff4dc;
+  --text:#2e3348;--muted:#616880;--muted-2:#8a91a6;
+  --sombra:0 1px 2px rgba(0,0,0,.05);--sombra-alta:0 6px 20px rgba(0,0,0,.09);
+  --topo-bg:rgba(255,255,255,.9);--radius:14px;--font:'Montserrat',system-ui,sans-serif;
+}
+[data-tema="escuro"]{
+  --bg:#12141c;--surface:#1a1d28;--surface-2:#232838;--border:#2e3348;--border-forte:#3c4256;
+  --tinta:#fa5150;--ok:#5fd39a;--ok-bg:#16301f;--aviso:#f5c35b;--aviso-bg:#33280f;
+  --text:#f5f6fa;--muted:#9ba1b4;--muted-2:#767d93;--sombra:none;--sombra-alta:none;--topo-bg:rgba(18,20,28,.92);
+}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font);font-weight:500;line-height:1.5;min-height:100vh;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+:focus-visible{outline:2px solid var(--tinta);outline-offset:3px;border-radius:4px}
+.wrap{width:100%;max-width:640px;margin:0 auto;padding:0 16px}
+
+.topo{position:sticky;top:0;z-index:50;background:var(--topo-bg);backdrop-filter:blur(10px);border-bottom:1px solid var(--border)}
+.topo-in{display:flex;align-items:center;justify-content:space-between;gap:12px;height:60px;max-width:1160px}
+.marca{display:flex;align-items:center;gap:10px;line-height:1;text-decoration:none}
+.marca-tico{width:40px;height:40px;object-fit:contain;border-radius:9px;background:#fff;flex-shrink:0}
+.marca-txt{display:flex;flex-direction:column;line-height:1}
+.marca b{font-size:15px;font-weight:900;letter-spacing:-.4px}
+.marca b em{font-style:normal;color:var(--tinta)}
+.marca small{font-size:9px;font-weight:700;letter-spacing:2.2px;color:var(--muted-2);text-transform:uppercase;margin-top:4px}
+.topo-acoes{display:flex;align-items:center;gap:6px}
+.lnk-topo{font-size:12px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);padding:9px 10px;border-radius:999px;text-decoration:none}
+.lnk-topo:hover,.lnk-topo[aria-current="page"]{color:var(--text);background:var(--surface-2)}
+.btn-tema{width:36px;height:36px;border-radius:50%;border:1px solid var(--border);display:grid;place-items:center;font-size:14px}
+
+.abertura{padding:28px 0 18px}
+.abertura h1{font-size:clamp(23px,5.4vw,32px);font-weight:900;letter-spacing:-1px;line-height:1.12}
+.abertura h1 span{color:var(--tinta)}
+.abertura p{color:var(--muted);font-size:14px;margin-top:10px}
+
+.cartao{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--sombra);padding:20px;margin-bottom:16px}
+.passo{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.passo-n{width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;font-weight:900;font-size:13px;display:grid;place-items:center;flex-shrink:0}
+.passo h2{font-size:16px;font-weight:800;letter-spacing:-.3px}
+
+label{display:block;font-size:12px;font-weight:800;letter-spacing:.3px;color:var(--muted);margin:14px 0 6px}
+label:first-of-type{margin-top:0}
+input[type=text],input[type=url],input[type=tel],input[type=number]{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:12px 14px;font-family:var(--font);font-size:15px;font-weight:600;color:var(--text);outline:none}
+input:focus{border-color:var(--tinta)}
+.linha{display:flex;gap:8px}
+.linha input{flex:1;min-width:0}
+.ajuda{font-size:12px;color:var(--muted);margin-top:6px}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:#fff;font-size:14px;font-weight:800;padding:13px 20px;border-radius:999px;text-decoration:none;transition:background .15s,transform .15s;white-space:nowrap}
+.btn:hover{background:var(--accent-hover)}
+.btn:disabled{opacity:.55;cursor:wait}
+.btn.cheio{width:100%;margin-top:18px}
+.btn.zap{background:#1f8f4e}
+.btn.zap:hover{background:#18763f}
+.btn.leve{background:var(--surface-2);color:var(--text);border:1px solid var(--border)}
+.btn.leve:hover{background:var(--border)}
+
+.produto{display:flex;gap:14px;align-items:center;margin-top:16px;padding:12px;border:1px solid var(--border);border-radius:12px;background:var(--bg)}
+.produto img{width:72px;height:72px;object-fit:contain;border-radius:8px;background:#fff;flex-shrink:0}
+.produto .sem-img{width:72px;height:72px;border-radius:8px;background:var(--surface-2);flex-shrink:0}
+.produto-info{min-width:0}
+.produto-loja{font-size:10px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted-2)}
+.produto-titulo{font-size:13.5px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:2px 0 4px}
+.produto-preco{font-size:18px;font-weight:900;letter-spacing:-.5px}
+.produto-preco small{font-size:11.5px;font-weight:600;color:var(--muted);letter-spacing:0;margin-left:6px}
+
+.dica{background:var(--surface-2);border-radius:10px;padding:12px 14px;font-size:13px;color:var(--text);margin-top:14px}
+.dica b{color:var(--tinta)}
+.alerta{border-radius:10px;padding:12px 14px;font-size:13px;margin-top:10px;display:none}
+.alerta.on{display:block}
+.alerta.aviso{background:var(--aviso-bg);color:var(--aviso)}
+.alerta.erro{background:#fdeaea;color:#a12323}
+[data-tema="escuro"] .alerta.erro{background:#3a1717;color:#ff9a9a}
+.alerta.ok{background:var(--ok-bg);color:var(--ok)}
+.atalhos{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.atalho{font-size:12px;font-weight:700;padding:7px 11px;border-radius:999px;border:1px solid var(--border);background:var(--surface)}
+.atalho:hover{border-color:var(--border-forte)}
+
+.check{display:flex;gap:10px;align-items:flex-start;margin-top:16px;font-size:13px;color:var(--text);cursor:pointer}
+.check input{width:18px;height:18px;margin-top:2px;accent-color:var(--accent);flex-shrink:0}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+
+.oculto{display:none !important}
+.numero-grande{font-size:26px;font-weight:900;letter-spacing:-.5px;margin:6px 0 12px}
+.pedido-n{display:inline-block;font-size:12px;font-weight:800;padding:5px 12px;border-radius:999px;background:var(--surface-2);border:1px solid var(--border);margin-bottom:12px}
+.msg-pronta{background:var(--bg);border:1px dashed var(--border-forte);border-radius:10px;padding:12px 14px;font-size:13px;margin:10px 0 0}
+.lista-como{list-style:none;margin-top:4px}
+.lista-como li{position:relative;padding-left:22px;font-size:13.5px;margin-top:8px;color:var(--text)}
+.lista-como li::before{content:"✔";position:absolute;left:0;color:var(--tinta);font-weight:900}
+
+.rodape{border-top:1px solid var(--border);margin-top:32px;padding:22px 0 40px;font-size:12px;color:var(--muted)}
+.rodape a{color:var(--tinta);font-weight:700;text-decoration:none}
+@media (max-width:420px){.lnk-topo.opc{display:none}.cartao{padding:16px}}
+</style>
+</head>
+<body>
+
+<header class="topo">
+  <div class="wrap topo-in">
+    <a class="marca" href="/">
+      <img class="marca-tico" src="/tico-ancora-128.png" alt="Tico" width="40" height="40"/>
+      <span class="marca-txt"><b>TICA <em>PROMOS</em></b><small>O Tico tica ✔️</small></span>
+    </a>
+    <div class="topo-acoes">
+      <a class="lnk-topo opc" href="/">Ofertas</a>
+      <a class="lnk-topo" href="/avisos/" aria-current="page">Avisos</a>
+      <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="abertura">
+    <h1>Quer comprar algo? <span>O Tico te avisa quando o preço cair.</span></h1>
+    <p>Cole o link do produto, diga quanto você quer pagar e receba o aviso no seu WhatsApp. É grátis.</p>
+  </section>
+
+  <div id="tela-pausado" class="cartao oculto">
+    <p>Os avisos de preço estão pausados no momento. Volte daqui a pouco 🙂</p>
+  </div>
+
+  <!-- PASSO 1: produto e preço -->
+  <form id="tela-pedido" class="cartao" autocomplete="on" novalidate>
+    <div class="passo"><span class="passo-n">1</span><h2>Qual produto você quer?</h2></div>
+
+    <label for="f-url">Link do produto</label>
+    <div class="linha">
+      <input type="url" id="f-url" inputmode="url" placeholder="Cole aqui o link da Amazon, Mercado Livre ou Shopee" required/>
+      <button type="button" class="btn" id="btn-buscar">Buscar</button>
+    </div>
+    <p class="ajuda">No app da loja, toque em <b>Compartilhar</b> e depois em <b>Copiar link</b>.</p>
+    <div id="alerta-link" class="alerta erro"></div>
+
+    <div id="bloco-produto" class="oculto">
+      <div class="produto" id="produto-card"></div>
+
+      <label for="f-alvo">Quanto você quer pagar? <span style="font-weight:600">(opcional)</span></label>
+      <input type="text" id="f-alvo" inputmode="decimal" placeholder="Ex.: 149,90"/>
+      <div class="atalhos" id="atalhos"></div>
+      <div class="dica" id="dica">
+        💡 Seja realista: <b>a maioria das boas ofertas fica entre 10% e 25% abaixo do preço normal.</b>
+        Descontos de 50% acontecem, mas são raros. Se você deixar em branco, avisamos quando cair 10% ou mais.
+      </div>
+      <div id="alerta-alvo" class="alerta aviso"></div>
+
+      <div class="passo" style="margin-top:22px"><span class="passo-n">2</span><h2>Para onde mandamos o aviso?</h2></div>
+
+      <label for="f-nome">Seu nome</label>
+      <input type="text" id="f-nome" autocomplete="given-name" maxlength="60" placeholder="Como podemos te chamar"/>
+
+      <label for="f-tel">Seu WhatsApp</label>
+      <input type="tel" id="f-tel" autocomplete="tel-national" inputmode="tel" placeholder="(31) 99999-9999"/>
+      <p class="ajuda">Use o número do WhatsApp em que você quer receber os avisos.</p>
+
+      <div class="hp" aria-hidden="true"><label for="f-site">Site</label><input type="text" id="f-site" tabindex="-1" autocomplete="off"/></div>
+
+      <label class="check"><input type="checkbox" id="f-aceite"/>
+        <span>Aceito receber no WhatsApp os avisos de preço deste produto. Posso cancelar quando quiser respondendo <b>SAIR</b>.</span></label>
+
+      <div id="alerta-envio" class="alerta erro"></div>
+      <button type="submit" class="btn cheio" id="btn-enviar">Quero receber o aviso 🔔</button>
+    </div>
+  </form>
+
+  <!-- PASSO FINAL: ativação no WhatsApp -->
+  <section id="tela-ativar" class="oculto">
+    <div class="cartao">
+      <span class="pedido-n" id="ativar-pedido">Pedido</span>
+      <div class="passo"><span class="passo-n">3</span><h2>Falta só ativar no WhatsApp</h2></div>
+      <p style="font-size:14px">O WhatsApp só deixa a gente te avisar se <b>você falar com a gente primeiro</b>. É uma mensagem só, e você pode cancelar quando quiser mandando SAIR.</p>
+
+      <div id="ativar-com-numero">
+        <label style="margin-top:18px">1. Salve nosso número</label>
+        <div class="numero-grande" id="ativar-numero"></div>
+        <button type="button" class="btn leve" id="btn-vcard">📇 Salvar contato do Tico</button>
+        <p class="ajuda">Salvo como <b>Tico — Tica Promos</b>. Assim nossos avisos não se perdem.</p>
+
+        <label style="margin-top:22px">2. Mande a mensagem de ativação</label>
+        <p style="font-size:13.5px">Toque no botão: o WhatsApp abre com a mensagem pronta. É só tocar em <b>enviar</b>.</p>
+        <div class="msg-pronta" id="ativar-texto"></div>
+        <a class="btn zap cheio" id="btn-zap" href="#" target="_blank" rel="noopener">Ativar no WhatsApp</a>
+        <p class="ajuda" style="text-align:center">Assim que a mensagem chegar, respondemos confirmando. O pedido fica guardado por <span id="ativar-dias">7</span> dias esperando a ativação.</p>
+      </div>
+
+      <div id="ativar-sem-numero" class="oculto">
+        <div class="alerta aviso on" style="margin-top:16px">
+          Seu pedido está guardado. A ativação pelo WhatsApp abre em breve — volte a esta página com o número do seu pedido (<b id="ativar-cod-2"></b>) para ativar.
+        </div>
+      </div>
+    </div>
+
+    <div class="cartao">
+      <h2 style="font-size:15px;font-weight:800">Como funciona</h2>
+      <ul class="lista-como">
+        <li>O Tico confere o preço algumas vezes por dia.</li>
+        <li>Quando cair, você recebe uma mensagem com o preço e o link da loja.</li>
+        <li>No máximo um aviso por dia, sempre em horário comercial.</li>
+        <li>Para parar, responda <b>SAIR</b> a qualquer momento.</li>
+      </ul>
+      <button type="button" class="btn leve cheio" id="btn-outro">Acompanhar outro produto</button>
+    </div>
+  </section>
+
+  <!-- PRONTO: número já estava ativo -->
+  <section id="tela-pronto" class="cartao oculto">
+    <div class="alerta ok on" style="font-size:14px">✅ <b>Pronto!</b> Seu WhatsApp já estava ativado, então este produto já entrou nos seus avisos. Mandamos uma confirmação por lá.</div>
+    <button type="button" class="btn leve cheio" id="btn-outro-2">Acompanhar outro produto</button>
+  </section>
+
+</main>
+
+<footer class="rodape">
+  <div class="wrap">
+    <p>Preço e estoque mudam a qualquer momento — confira sempre no site da loja antes de fechar a compra.
+      Os links dos avisos são de afiliado: você paga o mesmo preço e o Tica Promos recebe uma comissão da loja.
+      Seu nome e WhatsApp servem só para mandar os avisos que você pediu.
+      <br/><a href="/">Ver as ofertas de hoje</a> · <a href="https://ir.ticapromos.com.br/geral?o=avisos" target="_blank" rel="noopener">Entrar no grupo do WhatsApp</a></p>
+  </div>
+</footer>
+
+<script>
+'use strict';
+
+var API = 'https://baileys-server-production-ebfe.up.railway.app';
+var $ = function (id) { return document.getElementById(id); };
+var estado = { info: null, previa: null, url: '' };
+
+// ── Tema (mesma chave da home) ─────────────────────────────────────────────
+(function () {
+  var salvo = null;
+  try { salvo = localStorage.getItem('tsp-tema'); } catch (e) {}
+  aplicarTema(salvo || (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'escuro' : 'claro'));
+})();
+function aplicarTema(t) {
+  document.documentElement.setAttribute('data-tema', t);
+  $('btn-tema').textContent = t === 'escuro' ? '☀️' : '🌙';
+}
+$('btn-tema').addEventListener('click', function () {
+  var novo = document.documentElement.getAttribute('data-tema') === 'escuro' ? 'claro' : 'escuro';
+  aplicarTema(novo);
+  try { localStorage.setItem('tsp-tema', novo); } catch (e) {}
+});
+
+// ── Utilitários ───────────────────────────────────────────────────────────
+function brl(v) {
+  var n = Number(v);
+  return isFinite(n) ? 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : '—';
+}
+function numeroBr(s) {
+  var t = String(s || '').replace(/[^\d,.]/g, '');
+  if (!t) return null;
+  if (t.indexOf(',') >= 0) t = t.replace(/\./g, '').replace(',', '.');
+  var n = Number(t);
+  return isFinite(n) && n > 0 ? n : null;
+}
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+function mostrarAlerta(id, texto) {
+  var el = $(id);
+  el.textContent = texto || '';
+  el.classList.toggle('on', !!texto);
+}
+function origem() {
+  var p = new URLSearchParams(location.search);
+  return (p.get('o') || p.get('utm_source') || '').slice(0, 40);
+}
+async function api(caminho, corpo) {
+  var r = await fetch(API + caminho, corpo ? {
+    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(corpo)
+  } : {});
+  var d = null;
+  try { d = await r.json(); } catch (e) {}
+  if (!d) throw new Error('Não conseguimos falar com o servidor. Tente de novo em instantes.');
+  return d;
+}
+
+// ── Máscara do telefone ───────────────────────────────────────────────────
+$('f-tel').addEventListener('input', function () {
+  var d = this.value.replace(/\D/g, '').replace(/^55(?=\d{10,11}$)/, '').slice(0, 11);
+  var out = d;
+  if (d.length > 2) out = '(' + d.slice(0, 2) + ') ' + d.slice(2);
+  if (d.length > 7) out = '(' + d.slice(0, 2) + ') ' + d.slice(2, d.length - 4) + '-' + d.slice(-4);
+  this.value = out;
+});
+
+// ── Passo 1: ler o link ───────────────────────────────────────────────────
+async function buscar() {
+  var url = $('f-url').value.trim();
+  var m = url.match(/https?:\/\/\S+/);
+  if (m) { url = m[0]; $('f-url').value = url; }
+  mostrarAlerta('alerta-link', '');
+  if (!/^https?:\/\//i.test(url)) { mostrarAlerta('alerta-link', 'Cole o link completo do produto (começando com https://).'); return; }
+  var btn = $('btn-buscar');
+  btn.disabled = true; btn.textContent = 'Buscando…';
+  try {
+    var d = await api('/avisos-preco/previa', { url: url });
+    if (!d.ok) { mostrarAlerta('alerta-link', d.erro || 'Não conseguimos ler esse link.'); $('bloco-produto').classList.add('oculto'); return; }
+    estado.previa = d; estado.url = url;
+    desenharProduto(d);
+    $('bloco-produto').classList.remove('oculto');
+    setTimeout(function () { $('produto-card').scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 50);
+  } catch (e) {
+    mostrarAlerta('alerta-link', e.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Buscar';
+  }
+}
+$('btn-buscar').addEventListener('click', buscar);
+$('f-url').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); buscar(); } });
+$('f-url').addEventListener('paste', function () { setTimeout(buscar, 60); });
+
+function desenharProduto(d) {
+  var p = d.produto;
+  var img = p.imagem ? '<img src="' + esc(p.imagem) + '" alt="" loading="lazy" referrerpolicy="no-referrer"/>' : '<div class="sem-img"></div>';
+  var preco = p.preco ? brl(p.preco) + '<small>preço de agora</small>' : '<small>preço indisponível agora — vamos acompanhar</small>';
+  $('produto-card').innerHTML = img + '<div class="produto-info"><div class="produto-loja">' + esc(p.loja) + '</div>'
+    + '<div class="produto-titulo">' + esc(p.titulo || 'Produto') + '</div><div class="produto-preco">' + preco + '</div></div>';
+
+  // Sugestões realistas: o menor preço recente (quando há histórico) e quedas de 10% e 15%.
+  var at = $('atalhos'); at.innerHTML = '';
+  var opcoes = [];
+  if (d.sugestao) opcoes.push({ v: d.sugestao.valor, t: brl(d.sugestao.valor) + ' · ' + d.sugestao.motivo });
+  if (p.preco) {
+    [0.9, 0.85].forEach(function (f) {
+      var v = Math.floor(p.preco * f);
+      if (!opcoes.some(function (o) { return Math.abs(o.v - v) < 1; })) opcoes.push({ v: v, t: brl(v) + ' · ' + Math.round((1 - f) * 100) + '% abaixo' });
+    });
+  }
+  opcoes.forEach(function (o) {
+    var b = document.createElement('button');
+    b.type = 'button'; b.className = 'atalho'; b.textContent = o.t;
+    b.addEventListener('click', function () { $('f-alvo').value = String(o.v).replace('.', ','); conferirAlvo(); });
+    at.appendChild(b);
+  });
+  $('f-alvo').value = d.sugestao ? String(d.sugestao.valor).replace('.', ',') : '';
+  conferirAlvo();
+}
+
+// Aviso de expectativa: alvo muito abaixo do atual quase nunca acontece.
+function conferirAlvo() {
+  var p = estado.previa && estado.previa.produto;
+  var alvo = numeroBr($('f-alvo').value);
+  var msg = '';
+  if (p && p.preco && alvo) {
+    var queda = 1 - alvo / p.preco;
+    if (alvo >= p.preco) msg = 'Esse valor já é igual ou maior que o preço de agora. Coloque um valor abaixo de ' + brl(p.preco) + ', ou deixe em branco para avisarmos de qualquer queda boa.';
+    else if (queda > 0.3) msg = 'Quedas de ' + Math.round(queda * 100) + '% são raras. Com esse valor, talvez você nunca receba um aviso. Que tal um preço mais perto do atual?';
+  }
+  mostrarAlerta('alerta-alvo', msg);
+}
+$('f-alvo').addEventListener('input', conferirAlvo);
+
+// ── Passo 2: enviar o pedido ──────────────────────────────────────────────
+$('tela-pedido').addEventListener('submit', async function (e) {
+  e.preventDefault();
+  mostrarAlerta('alerta-envio', '');
+  if (!estado.previa) { mostrarAlerta('alerta-envio', 'Busque o produto primeiro.'); return; }
+  var nome = $('f-nome').value.trim();
+  var tel = $('f-tel').value.replace(/\D/g, '');
+  if (!nome) { mostrarAlerta('alerta-envio', 'Diga seu nome.'); $('f-nome').focus(); return; }
+  if (tel.length < 10) { mostrarAlerta('alerta-envio', 'Confira o WhatsApp: DDD + número.'); $('f-tel').focus(); return; }
+  if (!$('f-aceite').checked) { mostrarAlerta('alerta-envio', 'Marque que aceita receber os avisos no WhatsApp.'); return; }
+  var alvo = numeroBr($('f-alvo').value);
+  var btn = $('btn-enviar');
+  btn.disabled = true; btn.textContent = 'Registrando…';
+  try {
+    var d = await api('/avisos-preco/pedido', {
+      url: estado.url, nome: nome, telefone: tel, precoAlvo: alvo, aceite: true,
+      site: $('f-site').value, origem: origem()
+    });
+    if (!d.ok) { mostrarAlerta('alerta-envio', d.erro || 'Não conseguimos registrar o pedido.'); return; }
+    try { localStorage.setItem('tsp-avisos-nome', nome); localStorage.setItem('tsp-avisos-tel', $('f-tel').value); } catch (e2) {}
+    if (d.jaAtivo) { trocarTela('tela-pronto'); return; }
+    mostrarAtivacao(d.codigo, d.ativacao);
+  } catch (err) {
+    mostrarAlerta('alerta-envio', err.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Quero receber o aviso 🔔';
+  }
+});
+
+function trocarTela(id) {
+  ['tela-pedido', 'tela-ativar', 'tela-pronto'].forEach(function (t) { $(t).classList.toggle('oculto', t !== id); });
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ── Passo 3: ativação ─────────────────────────────────────────────────────
+function textoAtivacao(codigo) {
+  return 'Oi, Tico! Quero receber os avisos de preço do Tica Promos 🔔 (pedido ' + codigo + ')';
+}
+function mostrarAtivacao(codigo, at) {
+  trocarTela('tela-ativar');
+  $('ativar-pedido').textContent = 'Pedido ' + codigo;
+  $('ativar-cod-2').textContent = codigo;
+  var numero = at && at.numero;
+  $('ativar-com-numero').classList.toggle('oculto', !numero);
+  $('ativar-sem-numero').classList.toggle('oculto', !!numero);
+  if (!numero) return;
+  $('ativar-numero').textContent = at.numeroFormatado || numero;
+  $('ativar-dias').textContent = at.expiraDias || 7;
+  var texto = textoAtivacao(codigo);
+  $('ativar-texto').textContent = texto;
+  $('btn-zap').href = at.link || ('https://wa.me/' + numero + '?text=' + encodeURIComponent(texto));
+  $('btn-vcard').onclick = function () { baixarVcard(numero); };
+  try { history.replaceState(null, '', location.pathname + '?pedido=' + codigo); } catch (e) {}
+}
+
+function baixarVcard(numero) {
+  var vcf = ['BEGIN:VCARD', 'VERSION:3.0', 'FN:Tico — Tica Promos', 'N:Tica Promos;Tico;;;', 'ORG:Tica Promos',
+             'TEL;TYPE=CELL:+' + numero, 'URL:https://ticapromos.com.br/avisos/', 'END:VCARD'].join('\r\n');
+  var blob = new Blob([vcf], { type: 'text/vcard;charset=utf-8' });
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'Tico-Tica-Promos.vcf';
+  document.body.appendChild(a); a.click();
+  setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+}
+
+function novoPedido() {
+  estado.previa = null; estado.url = '';
+  $('f-url').value = ''; $('f-alvo').value = ''; $('f-aceite').checked = false;
+  $('bloco-produto').classList.add('oculto');
+  try { history.replaceState(null, '', location.pathname); } catch (e) {}
+  trocarTela('tela-pedido');
+  setTimeout(function () { $('f-url').focus(); }, 300);
+}
+$('btn-outro').addEventListener('click', novoPedido);
+$('btn-outro-2').addEventListener('click', novoPedido);
+
+// ── Início ────────────────────────────────────────────────────────────────
+(async function () {
+  try {
+    var n = localStorage.getItem('tsp-avisos-nome'), t = localStorage.getItem('tsp-avisos-tel');
+    if (n) $('f-nome').value = n;
+    if (t) $('f-tel').value = t;
+  } catch (e) {}
+  try {
+    var info = await api('/avisos-preco/info');
+    estado.info = info;
+    if (info && info.ativo === false) {
+      $('tela-pausado').classList.remove('oculto');
+      $('tela-pedido').classList.add('oculto');
+      return;
+    }
+  } catch (e) {}
+  // Volta à página para ativar: ?pedido=1234 mostra direto o passo de ativação.
+  var cod = (new URLSearchParams(location.search).get('pedido') || '').replace(/\D/g, '');
+  if (cod.length >= 4 && estado.info) {
+    var i = estado.info;
+    mostrarAtivacao(cod, i.numero ? { numero: i.numero, numeroFormatado: i.numeroFormatado, expiraDias: 7 } : null);
+  }
+  var u = new URLSearchParams(location.search).get('url');
+  if (u) { $('f-url').value = u; buscar(); }
+})();
+</script>
+</body>
+</html>

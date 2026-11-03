@@ -225,6 +225,7 @@ function sitemap(posts) {
   const urls = [
     `  <url><loc>${SITE}/</loc><lastmod>${hoje}</lastmod><changefreq>hourly</changefreq></url>`,
     `  <url><loc>${SITE}/blog/</loc><lastmod>${hoje}</lastmod><changefreq>daily</changefreq></url>`,
+    `  <url><loc>${SITE}/avisos/</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq></url>`,
     ...posts.map(p => `  <url><loc>${SITE}/blog/${p.slug}/</loc><lastmod>${p.data}</lastmod><changefreq>weekly</changefreq></url>`)
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>\n`;
