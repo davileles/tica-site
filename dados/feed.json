@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-02T23:05:23.106Z",
+  "atualizadoEm": "2026-11-03T08:54:15.333Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39871",
+      "loja": "Amazon",
+      "titulo": "Flash Limp - Mop Flex - MOP7092 - PP Verde",
+      "link": "https://www.amazon.com.br/dp/B08HRBN5CY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3121KNHv0RL._SL400_.jpg",
+      "preco": 64.98,
+      "precoDe": 149.88,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T08:44:15.328Z"
+    },
     {
       "id": "39813",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 60,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-10-30T14:51:27.360Z"
-    },
-    {
-      "id": "38306",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa de Som Bluetooth Portátil Xtreme 4 JBL Cor Preta",
-      "link": "https://meli.la/1KAVgcV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730591-MLA99979900471_112025-F.jpg",
-      "preco": 1052.1,
-      "precoDe": 2199,
-      "desconto": 47,
-      "cupom": "AQUITEMTECH",
-      "enviadoEm": "2026-10-30T14:46:43.623Z"
     }
   ]
 }
