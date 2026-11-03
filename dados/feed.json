@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-03T16:49:32.182Z",
+  "atualizadoEm": "2026-11-03T16:54:31.831Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40209",
+      "loja": "Mercado Livre",
+      "titulo": "Smartwatch HUAWEI Band 10 Caixa de Polímeros Duráveis Análise do Sono em Nível Profissional Assistente de Bem-estar Emocional Relógio Smartwatch Compatível com Android e iOS Preto",
+      "link": "https://meli.la/2YBDz7f",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772291-MLA100008466405_122025-F.jpg",
+      "preco": 147.16,
+      "precoDe": 215,
+      "desconto": 19,
+      "cupom": "TIENDAS0311",
+      "enviadoEm": "2026-11-03T16:51:55.066Z"
+    },
     {
       "id": "40205",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-10-30T22:10:17.183Z"
-    },
-    {
-      "id": "38643",
-      "loja": "Shopee",
-      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
-      "link": "https://s.shopee.com.br/4Vdyxk5pgF",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259j-muxlzi424n441e_tn",
-      "preco": 34.02,
-      "precoDe": 42,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T22:09:13.063Z"
     }
   ]
 }
