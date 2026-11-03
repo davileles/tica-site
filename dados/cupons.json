@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T14:54:47.993Z",
+  "atualizadoEm": "2026-11-03T15:24:48.056Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1623,39 +1623,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BNPLD02",
+      "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 15,
-      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
-      "validadeAte": "2026-11-03T15:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 159,
+      "minimo": 89,
       "maximo": null,
       "limite": 40,
-      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
-      "validadeAte": "2026-11-03T15:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTO0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons válidos para pagamento com Mercado Parcelado",
-      "validadeAte": "2026-11-03T15:00:10.000Z",
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1692,6 +1668,18 @@
       "limite": 50,
       "observacao": "Válido em produtos selecionados. Desconto máximo de R$50.",
       "validadeAte": "2026-11-04T13:55:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TIENDAS0311",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-04T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1763,7 +1751,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-04T13:02:47.000Z",
+      "validadeAte": "2026-11-04T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
