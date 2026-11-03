@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-03T23:38:54.491Z",
+  "atualizadoEm": "2026-11-03T23:50:14.095Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40444",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml | Aroma Aloe Vera",
+      "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SaIZLexVL._SL400_.jpg",
+      "preco": 20.78,
+      "precoDe": 47.99,
+      "desconto": 57,
+      "cupom": "IMPERDIVEL20",
+      "enviadoEm": "2026-11-03T23:40:14.093Z"
+    },
     {
       "id": "40442",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": "VALEAPENANOML",
       "enviadoEm": "2026-11-01T14:09:13.745Z"
-    },
-    {
-      "id": "38906",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira À Bateria 20v PFV 212IB Vonder Plus",
-      "link": "https://meli.la/2fxh4Jy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799685-MLA99953120851_112025-F.jpg",
-      "preco": 592.11,
-      "precoDe": 939.9,
-      "desconto": 30,
-      "cupom": "QUEROAGORA",
-      "enviadoEm": "2026-11-01T14:05:50.624Z"
     }
   ]
 }
