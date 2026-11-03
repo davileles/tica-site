@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T17:24:33.668Z",
+  "atualizadoEm": "2026-11-03T18:24:33.810Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -831,18 +831,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CPAMD0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-03T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "QUEIMADEESTOQUE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1647,18 +1635,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBES0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-03T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CONSTRUIRMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1695,6 +1671,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CASA0311",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-04T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODAML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1704,18 +1692,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-04T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TO0211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-03T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1791,15 +1767,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
-      "codigo": "BFCARRINHO",
+      "codigo": "CESTABLACK",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom válido em contas selecionadas",
-      "validadeAte": "2026-11-03T18:02:55.000Z",
+      "observacao": "Válido em mercados selecionados",
+      "validadeAte": "2026-11-04T18:01:50.000Z",
       "url": null
     },
     {
@@ -1812,6 +1788,18 @@
       "limite": null,
       "observacao": "Válido em categorias Farmácias e Mercado",
       "validadeAte": "2026-11-03T19:03:11.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CESTABLACK",
+      "loja": "Outro: iFood Mercado e Farmácias",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para Mercado e Farmácias no iFood",
+      "validadeAte": "2026-11-04T18:02:13.000Z",
       "url": null
     },
     {
