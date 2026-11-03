@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-03T17:54:31.949Z",
+  "atualizadoEm": "2026-11-03T18:24:31.948Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40255",
+      "loja": "Amazon",
+      "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+      "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DtpwlWPkL._SL400_.jpg",
+      "preco": 46.18,
+      "precoDe": 91.5,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T18:15:55.751Z"
+    },
+    {
+      "id": "40252",
+      "loja": "Shopee",
+      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
+      "link": "https://s.shopee.com.br/2qVr5efbXc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
+      "preco": 197.9,
+      "precoDe": 599.7,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T18:06:50.572Z"
+    },
+    {
+      "id": "40247",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
+      "preco": 117.46,
+      "precoDe": 174.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T17:58:56.157Z"
+    },
     {
       "id": "40244",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-10-31T11:51:22.787Z"
-    },
-    {
-      "id": "38697",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec G Mega 9x34pads Leve 34 pague 32 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RzLukzVDL._SL400_.jpg",
-      "preco": 32.99,
-      "precoDe": 37.02,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-31T11:46:09.553Z"
-    },
-    {
-      "id": "38696",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DupqCSKGL._SL400_.jpg",
-      "preco": 32.99,
-      "precoDe": 36.96,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-10-31T11:44:58.971Z"
-    },
-    {
-      "id": "38694",
-      "loja": "Shopee",
-      "titulo": "Pistola De Cola Quente Bivolt 10w + 10, 20 ou 30 Bastões De Cola Revolver (110v e 220v) Profissional",
-      "link": "https://s.shopee.com.br/7VHbQEpJHP",
-      "imagem": "https://cf.shopee.com.br/file/e66d544521b287be5b25ba87de5740c7_tn",
-      "preco": 20.49,
-      "precoDe": 55.38,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-10-31T11:30:08.273Z"
     }
   ]
 }
