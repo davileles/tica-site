@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-03T19:47:54.761Z",
+  "atualizadoEm": "2026-11-03T19:54:31.954Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40302",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/80DxMYPZZY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 339.99,
+      "precoDe": 693.86,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T19:54:11.846Z"
+    },
+    {
+      "id": "40301",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/4qGvaUhgfa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d_tn",
+      "preco": 31.7,
+      "precoDe": 44.65,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T19:50:49.975Z"
+    },
     {
       "id": "40298",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-10-31T14:19:35.899Z"
-    },
-    {
-      "id": "38732",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo P 180 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C31H5KBG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51UPmBRCeBL._SL400_.jpg",
-      "preco": 127.9,
-      "precoDe": 171.48,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-10-31T14:13:49.491Z"
-    },
-    {
-      "id": "38730",
-      "loja": "Amazon",
-      "titulo": "Burigotto Kit Banho Branco",
-      "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fom31KWKS._SL400_.jpg",
-      "preco": 196.99,
-      "precoDe": 355.05,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-10-31T14:11:28.501Z"
     }
   ]
 }
