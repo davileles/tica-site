@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-03T12:29:55.428Z",
+  "atualizadoEm": "2026-11-03T12:43:21.809Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "39964",
+      "loja": "Amazon",
+      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
+      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31e1MAYEMSL._SL400_.jpg",
+      "preco": 122.5,
+      "precoDe": 245,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:41:16.808Z"
+    },
+    {
+      "id": "39961",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
+      "preco": 98.89,
+      "precoDe": 194.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:40:11.317Z"
+    },
+    {
+      "id": "39960",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 73.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-03T12:36:01.054Z"
+    },
     {
       "id": "39996",
       "loja": "Amazon",
@@ -301,18 +337,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-03T11:10:58.704Z"
-    },
-    {
-      "id": "39896",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
-      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31e1MAYEMSL._SL400_.jpg",
-      "preco": 122.5,
-      "precoDe": 245,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T11:09:47.292Z"
     },
     {
       "id": "39895",
@@ -5977,30 +6001,6 @@
       "desconto": 40,
       "cupom": "10% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-10-30T16:48:11.240Z"
-    },
-    {
-      "id": "38383",
-      "loja": "Shopee",
-      "titulo": "Caminha Cama Pet com Fundo impermeável com Zíper para Cão Gato Grande, Médio e Pequeno",
-      "link": "https://s.shopee.com.br/2BG3oYg00B",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3niuyi7s3kd3_tn",
-      "preco": 58.99,
-      "precoDe": 89.38,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-10-30T16:47:09.848Z"
-    },
-    {
-      "id": "38381",
-      "loja": "Shopee",
-      "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
-      "link": "https://s.shopee.com.br/3g4rbDcVQv",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e_tn",
-      "preco": 139.99,
-      "precoDe": 298.23,
-      "desconto": 43,
-      "cupom": "H4LLOWEENAF",
-      "enviadoEm": "2026-10-30T16:43:36.682Z"
     }
   ]
 }
