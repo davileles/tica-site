@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T19:24:33.714Z",
+  "atualizadoEm": "2026-11-03T20:24:33.865Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -300,6 +300,18 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-11-04T19:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MP0310",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 299,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido pagando com cartão MP Visa. Aplicável em selecionados.",
+      "validadeAte": "2026-11-04T20:00:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
