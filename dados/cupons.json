@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T14:46:37.177Z",
+  "atualizadoEm": "2026-11-04T15:26:34.987Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1695,18 +1695,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TIENDAS0311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-04T15:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CASA0311",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1751,7 +1739,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "validadeAte": "2026-11-05T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1788,6 +1776,42 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-05T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS0411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-05T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL0411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-05T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMDEZ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-05T15:04:46.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2436,6 +2460,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-05T14:00:05.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "72HPOEVB9O",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-05T15:00:06.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
