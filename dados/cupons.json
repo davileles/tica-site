@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T11:26:35.191Z",
+  "atualizadoEm": "2026-11-04T12:05:08.838Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -336,6 +336,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-04T13:02:47.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "150TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1099,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ALLSITE04011",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -867,7 +891,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MOMENTOPROMO",
+      "codigo": "SUPERVANTAGEM",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
@@ -875,7 +899,19 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MEUDESCONTAO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1419,7 +1455,7 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "COMPRAAGORA",
+      "codigo": "PEGUEOFF",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
@@ -1427,31 +1463,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOIMPERDIVEL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GANHEDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 1,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-04T12:00:03.000Z",
+      "validadeAte": "2026-11-05T12:01:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1464,6 +1476,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEMCOMPRAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 1,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1587,6 +1611,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOSITE0411",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CONSTRUSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASASEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1620,6 +1680,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1668,6 +1740,66 @@
       "limite": 20,
       "observacao": "15% de desconto com compra mínima de R$ 89, limitado a R$ 20 de desconto",
       "validadeAte": "2026-11-04T21:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPREMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SAUDEML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTOSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-05T12:01:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
