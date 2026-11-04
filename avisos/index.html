@@ -101,6 +101,23 @@ input:focus{border-color:var(--tinta)}
 [data-tema="escuro"] .alerta.erro{background:#3a1717;color:#ff9a9a}
 .alerta.ok{background:var(--ok-bg);color:var(--ok)}
 .atalhos{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+/* Régua de desconto: verde = queda comum, amarelo = acontece às vezes, vermelho = rara */
+.regua{margin-top:14px;padding:14px;border:1px solid var(--border);border-radius:12px;background:var(--bg)}
+.regua-topo{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.regua-pct{font-size:20px;font-weight:900;letter-spacing:-.5px}
+.regua-pct small{font-size:12px;font-weight:600;color:var(--muted);letter-spacing:0;margin-left:4px}
+.regua-selo{font-size:11px;font-weight:800;padding:4px 10px;border-radius:999px;white-space:nowrap}
+.regua-selo.verde{background:var(--ok-bg);color:var(--ok)}
+.regua-selo.amarelo{background:var(--aviso-bg);color:var(--aviso)}
+.regua-selo.vermelho{background:#fdeaea;color:#a12323}
+[data-tema="escuro"] .regua-selo.vermelho{background:#3a1717;color:#ff9a9a}
+.regua input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:10px;border-radius:999px;margin:16px 0 6px;outline:none;
+  background:linear-gradient(90deg,#2fb36d 0%,#2fb36d 40%,#f0b429 40%,#f0b429 60%,#e25555 60%,#e25555 100%)}
+.regua input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:26px;height:26px;border-radius:50%;background:#fff;border:3px solid var(--navy);box-shadow:0 2px 6px rgba(0,0,0,.25);cursor:pointer}
+.regua input[type=range]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:#fff;border:3px solid var(--navy);cursor:pointer}
+.regua-faixas{display:flex;font-size:10.5px;font-weight:700;color:var(--muted-2)}
+.regua-faixas span:nth-child(1){width:40%}.regua-faixas span:nth-child(2){width:20%;text-align:center}.regua-faixas span:nth-child(3){width:40%;text-align:right}
+.regua-hist{font-size:12px;color:var(--muted);margin-top:8px}
 .atalho{font-size:12px;font-weight:700;padding:7px 11px;border-radius:999px;border:1px solid var(--border);background:var(--surface)}
 .atalho:hover{border-color:var(--border-forte)}
 
@@ -166,6 +183,15 @@ input:focus{border-color:var(--tinta)}
       <label for="f-alvo">Quanto você quer pagar? <span style="font-weight:600">(opcional)</span></label>
       <input type="text" id="f-alvo" inputmode="decimal" placeholder="Ex.: 149,90"/>
       <div class="atalhos" id="atalhos"></div>
+      <div class="regua oculto" id="regua">
+        <div class="regua-topo">
+          <span class="regua-pct" id="regua-pct">10%<small>abaixo do preço de agora</small></span>
+          <span class="regua-selo verde" id="regua-selo">Queda comum</span>
+        </div>
+        <input type="range" id="f-pct" min="0" max="50" step="1" value="10" aria-label="Quanto abaixo do preço de agora"/>
+        <div class="regua-faixas"><span>comum · até 20%</span><span>às vezes</span><span>raro · 30%+</span></div>
+        <div class="regua-hist" id="regua-hist"></div>
+      </div>
       <div class="dica" id="dica">
         💡 Seja realista: <b>a maioria das boas ofertas fica entre 10% e 25% abaixo do preço normal.</b>
         Descontos de 50% acontecem, mas são raros. Se você deixar em branco, avisamos quando cair 10% ou mais.
@@ -348,16 +374,21 @@ function desenharProduto(d) {
   $('produto-card').innerHTML = img + '<div class="produto-info"><div class="produto-loja">' + esc(p.loja) + '</div>'
     + '<div class="produto-titulo">' + esc(p.titulo || 'Produto') + '</div><div class="produto-preco">' + preco + '</div></div>';
 
-  // Sugestões realistas: o menor preço recente (quando há histórico) e quedas de 10% e 15%.
+  // Atalho só para o menor preço recente (quando há histórico). As quedas em %
+  // ficam na régua logo abaixo.
   var at = $('atalhos'); at.innerHTML = '';
   var opcoes = [];
-  if (d.sugestao) opcoes.push({ v: d.sugestao.valor, t: brl(d.sugestao.valor) + ' · ' + d.sugestao.motivo });
-  if (p.preco) {
-    [0.9, 0.85].forEach(function (f) {
-      var v = Math.floor(p.preco * f);
-      if (!opcoes.some(function (o) { return Math.abs(o.v - v) < 1; })) opcoes.push({ v: v, t: brl(v) + ' · ' + Math.round((1 - f) * 100) + '% abaixo' });
-    });
+  var h = d.historico;
+  if (p.preco && h && h.min90 && h.min90 < p.preco) {
+    var vh = Math.floor(h.min90);
+    opcoes.push({ v: vh, t: brl(vh) + ' · menor preço dos últimos ' + Math.min(90, h.dias) + ' dias' });
   }
+  $('regua').classList.toggle('oculto', !p.preco);
+  $('regua-hist').textContent = !p.preco ? '' : (h && h.min90
+    ? (h.min90 < p.preco
+        ? 'Nos últimos ' + Math.min(90, h.dias) + ' dias o menor preço foi ' + brl(h.min90) + ' (' + Math.round((1 - h.min90 / p.preco) * 100) + '% abaixo de agora).'
+        : 'Nos últimos ' + Math.min(90, h.dias) + ' dias ele não ficou mais barato que agora.')
+    : 'Ainda não temos histórico de preço deste produto: use a régua como guia.');
   opcoes.forEach(function (o) {
     var b = document.createElement('button');
     b.type = 'button'; b.className = 'atalho'; b.textContent = o.t;
@@ -368,15 +399,39 @@ function desenharProduto(d) {
   conferirAlvo();
 }
 
+// Régua e valor andam juntos: mexer num atualiza o outro. Faixas: até 20%
+// queda comum, 20–30% acontece às vezes, acima de 30% rara.
+function pintarRegua(pct) {
+  $('regua-pct').innerHTML = pct + '%<small>abaixo do preço de agora</small>';
+  var selo = $('regua-selo');
+  if (pct <= 20) { selo.textContent = 'Queda comum'; selo.className = 'regua-selo verde'; }
+  else if (pct <= 30) { selo.textContent = 'Acontece às vezes'; selo.className = 'regua-selo amarelo'; }
+  else { selo.textContent = 'Dificilmente chega'; selo.className = 'regua-selo vermelho'; }
+}
+$('f-pct').addEventListener('input', function () {
+  var p = estado.previa && estado.previa.produto;
+  if (!p || !p.preco) return;
+  var pct = Number(this.value) || 0;
+  var v = Math.floor(p.preco * (1 - pct / 100) * 100) / 100;
+  $('f-alvo').value = pct ? v.toFixed(2).replace('.', ',') : '';
+  conferirAlvo(true);
+});
+
 // Aviso de expectativa: alvo muito abaixo do atual quase nunca acontece.
-function conferirAlvo() {
+function conferirAlvo(vemDaRegua) {
   var p = estado.previa && estado.previa.produto;
   var alvo = numeroBr($('f-alvo').value);
   var msg = '';
+  if (p && p.preco) {
+    var pct = alvo && alvo < p.preco ? Math.round((1 - alvo / p.preco) * 100) : 0;
+    if (vemDaRegua !== true) $('f-pct').value = Math.min(50, pct);
+    pintarRegua(pct);
+    if (!alvo) $('regua-pct').innerHTML = 'Qualquer queda boa<small>(10% ou mais)</small>';
+  }
   if (p && p.preco && alvo) {
     var queda = 1 - alvo / p.preco;
     if (alvo >= p.preco) msg = 'Esse valor já é igual ou maior que o preço de agora. Coloque um valor abaixo de ' + brl(p.preco) + ', ou deixe em branco para avisarmos de qualquer queda boa.';
-    else if (queda > 0.3) msg = 'Quedas de ' + Math.round(queda * 100) + '% são raras. Com esse valor, talvez você nunca receba um aviso. Que tal um preço mais perto do atual?';
+    else if (queda > 0.3) msg = 'Acima de 30% de desconto, dificilmente o preço chega lá. Com ' + Math.round(queda * 100) + '% você talvez nunca receba um aviso. Que tal puxar a régua para a faixa verde ou amarela?';
   }
   mostrarAlerta('alerta-alvo', msg);
 }
