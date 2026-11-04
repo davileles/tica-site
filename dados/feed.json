@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-04T12:52:21.878Z",
+  "atualizadoEm": "2026-11-04T12:56:33.158Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40563",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+      "link": "https://meli.la/1uhepGa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705629-MLA107373286811_022026-F.jpg",
+      "preco": 158.83,
+      "precoDe": 349.99,
+      "desconto": 48,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-11-04T12:52:38.003Z"
+    },
     {
       "id": "40556",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-01T20:40:54.729Z"
-    },
-    {
-      "id": "39189",
-      "loja": "Amazon",
-      "titulo": "Bebida Mista Beats, Red Mix, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DV5SMHHC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBJpdJcfL._SL400_.jpg",
-      "preco": 51.92,
-      "precoDe": 54.78,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:25:16.301Z"
     }
   ]
 }
