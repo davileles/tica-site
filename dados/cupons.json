@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T18:12:17.291Z",
+  "atualizadoEm": "2026-11-04T18:34:58.242Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1872,18 +1872,6 @@
       "limite": null,
       "observacao": "Desconto válido em compras no Mercado pelo iFood",
       "validadeAte": "2026-11-05T18:00:18.000Z",
-      "url": null
-    },
-    {
-      "codigo": "SHOWBLACK",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 27,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-04T18:31:35.000Z",
       "url": null
     },
     {
