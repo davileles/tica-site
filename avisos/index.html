@@ -101,6 +101,8 @@ input:focus{border-color:var(--tinta)}
 [data-tema="escuro"] .alerta.erro{background:#3a1717;color:#ff9a9a}
 .alerta.ok{background:var(--ok-bg);color:var(--ok)}
 .atalhos{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.lnk-nome{display:inline-block;margin-top:10px;font-size:13px;font-weight:700;color:var(--tinta);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.bloco-nome{margin-top:16px}
 /* Régua de desconto: verde = queda comum, amarelo = acontece às vezes, vermelho = rara */
 .regua{margin-top:14px;padding:14px;border:1px solid var(--border);border-radius:12px;background:var(--bg)}
 .regua-topo{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
@@ -176,9 +178,16 @@ input:focus{border-color:var(--tinta)}
     </div>
     <p class="ajuda">No app da loja, toque em <b>Compartilhar</b> e depois em <b>Copiar link</b>.</p>
     <div id="alerta-link" class="alerta erro"></div>
+    <button type="button" class="lnk-nome" id="lnk-nome">Não tem o link? Escreva o nome do produto</button>
 
     <div id="bloco-produto" class="oculto">
       <div class="produto" id="produto-card"></div>
+
+      <div class="bloco-nome oculto" id="bloco-nome">
+        <label for="f-produto">Nome do produto</label>
+        <input type="text" id="f-produto" maxlength="200" placeholder="Ex.: Air fryer Mondial 5 litros preta"/>
+        <p class="ajuda">Quanto mais detalhe (marca, modelo, tamanho, cor), melhor. A gente procura o produto e passa a acompanhar o preço.</p>
+      </div>
 
       <label for="f-alvo">Quanto você quer pagar? <span style="font-weight:600">(opcional)</span></label>
       <input type="text" id="f-alvo" inputmode="decimal" placeholder="Ex.: 149,90"/>
@@ -352,7 +361,13 @@ async function buscar() {
   btn.disabled = true; btn.textContent = 'Buscando…';
   try {
     var d = await api('/avisos-preco/previa', { url: url });
-    if (!d.ok) { mostrarAlerta('alerta-link', d.erro || 'Não conseguimos ler esse link.'); $('bloco-produto').classList.add('oculto'); return; }
+    if (!d.ok) {
+      mostrarAlerta('alerta-link', (d.erro || 'Não conseguimos ler esse link.') + ' Se preferir, escreva o nome do produto abaixo e a gente procura para você.');
+      estado.url = url;
+      modoNome(true);
+      return;
+    }
+    modoNome(false);
     estado.previa = d; estado.url = url;
     desenharProduto(d);
     $('bloco-produto').classList.remove('oculto');
@@ -366,6 +381,23 @@ async function buscar() {
 $('btn-buscar').addEventListener('click', buscar);
 $('f-url').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); buscar(); } });
 $('f-url').addEventListener('paste', function () { setTimeout(buscar, 60); });
+
+// Modo "pelo nome": sem link (ou com link que não deu para ler). O pedido vai
+// para avaliação e a equipe vincula o produto certo depois.
+function modoNome(ligar) {
+  estado.porNome = !!ligar;
+  $('bloco-nome').classList.toggle('oculto', !ligar);
+  $('produto-card').classList.toggle('oculto', !!ligar);
+  $('atalhos').classList.toggle('oculto', !!ligar);
+  if (ligar) { estado.previa = null; $('regua').classList.add('oculto'); mostrarAlerta('alerta-alvo', ''); }
+  $('lnk-nome').classList.toggle('oculto', !!ligar);
+  $('bloco-produto').classList.remove('oculto');
+}
+$('lnk-nome').addEventListener('click', function () {
+  mostrarAlerta('alerta-link', '');
+  modoNome(true);
+  setTimeout(function () { $('f-produto').focus(); }, 50);
+});
 
 function desenharProduto(d) {
   var p = d.produto;
@@ -441,7 +473,10 @@ $('f-alvo').addEventListener('input', conferirAlvo);
 $('tela-pedido').addEventListener('submit', async function (e) {
   e.preventDefault();
   mostrarAlerta('alerta-envio', '');
-  if (!estado.previa) { mostrarAlerta('alerta-envio', 'Busque o produto primeiro.'); return; }
+  var produtoTexto = $('f-produto').value.trim();
+  if (estado.porNome) {
+    if (produtoTexto.length < 3) { mostrarAlerta('alerta-envio', 'Escreva o nome do produto.'); $('f-produto').focus(); return; }
+  } else if (!estado.previa) { mostrarAlerta('alerta-envio', 'Busque o produto primeiro ou escreva o nome dele.'); return; }
   var nome = $('f-nome').value.trim();
   var tel = $('f-tel').value.replace(/\D/g, '');
   if (!nome) { mostrarAlerta('alerta-envio', 'Diga seu nome.'); $('f-nome').focus(); return; }
@@ -452,7 +487,8 @@ $('tela-pedido').addEventListener('submit', async function (e) {
   btn.disabled = true; btn.textContent = 'Registrando…';
   try {
     var d = await api('/avisos-preco/pedido', {
-      url: estado.url, nome: nome, telefone: tel, precoAlvo: alvo, aceite: true,
+      url: estado.porNome ? (estado.url || '') : estado.url, produtoTexto: estado.porNome ? produtoTexto : '',
+      nome: nome, telefone: tel, precoAlvo: alvo, aceite: true,
       site: $('f-site').value, origem: origem()
     });
     if (!d.ok) { mostrarAlerta('alerta-envio', d.erro || 'Não conseguimos registrar o pedido.'); return; }
@@ -505,7 +541,8 @@ function baixarVcard(numero) {
 
 function novoPedido() {
   estado.previa = null; estado.url = '';
-  $('f-url').value = ''; $('f-alvo').value = ''; $('f-aceite').checked = false;
+  $('f-url').value = ''; $('f-alvo').value = ''; $('f-aceite').checked = false; $('f-produto').value = '';
+  modoNome(false);
   $('bloco-produto').classList.add('oculto');
   try { history.replaceState(null, '', location.pathname); } catch (e) {}
   trocarTela('tela-pedido');
