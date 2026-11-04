@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T21:56:35.472Z",
+  "atualizadoEm": "2026-11-04T22:26:35.329Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,6 +24,18 @@
       "limite": null,
       "observacao": "Válido para produtos selecionados conforme link fornecido",
       "validadeAte": "2026-11-05T15:33:58.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BF20OFF",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-05T22:01:00.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
