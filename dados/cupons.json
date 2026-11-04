@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T17:26:35.171Z",
+  "atualizadoEm": "2026-11-04T18:12:17.291Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1707,18 +1707,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASA0311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-04T18:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SITE031115",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1731,6 +1719,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "15MODA0411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-05T18:05:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPER0411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-05T18:05:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SEMPREMODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1740,18 +1752,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-05T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-04T18:00:33.848Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1839,15 +1839,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
+      "codigo": "SOM0411",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 89,
+      "minimo": 500,
       "maximo": null,
-      "limite": 20,
+      "limite": 70,
       "observacao": null,
-      "validadeAte": "2026-11-04T18:00:33.848Z",
+      "validadeAte": "2026-11-05T18:05:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1863,15 +1863,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
-      "codigo": "CESTABLACK",
+      "codigo": "COMPROUBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em mercados selecionados",
-      "validadeAte": "2026-11-04T18:01:50.000Z",
+      "observacao": "Desconto válido em compras no Mercado pelo iFood",
+      "validadeAte": "2026-11-05T18:00:18.000Z",
       "url": null
     },
     {
@@ -1896,18 +1896,6 @@
       "limite": null,
       "observacao": "Desconto válido em Farmácias no iFood",
       "validadeAte": "2026-11-04T19:02:23.000Z",
-      "url": null
-    },
-    {
-      "codigo": "CESTABLACK",
-      "loja": "Outro: iFood Mercado e Farmácias",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para Mercado e Farmácias no iFood",
-      "validadeAte": "2026-11-04T18:02:13.000Z",
       "url": null
     },
     {
