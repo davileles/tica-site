@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T18:34:58.242Z",
+  "atualizadoEm": "2026-11-04T19:26:35.186Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -183,6 +183,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
+      "codigo": "ALIVIOBR",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácias",
+      "validadeAte": "2026-11-05T19:02:32.000Z",
+      "url": null
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -315,15 +327,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PROMOHOJE",
+      "codigo": "AQUITEMPROMO",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 300,
-      "minimo": 1999,
+      "minimo": 2199,
       "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-04T19:00:01.000Z",
+      "limite": null,
+      "observacao": "Válido na lista específica de produtos",
+      "validadeAte": "2026-11-05T19:24:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1875,15 +1887,15 @@
       "url": null
     },
     {
-      "codigo": "BFFARMAON",
+      "codigo": "RANGOUBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
-      "valor": 10,
+      "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em Farmácias no iFood",
-      "validadeAte": "2026-11-04T19:02:23.000Z",
+      "observacao": "Desconto válido para restaurante",
+      "validadeAte": "2026-11-05T19:01:58.000Z",
       "url": null
     },
     {
