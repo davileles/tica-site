@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-04T13:22:26.125Z",
+  "atualizadoEm": "2026-11-04T13:26:33.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40580",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/5VWdY22w2s",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
+      "preco": 28.98,
+      "precoDe": 60.38,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T13:24:30.516Z"
+    },
     {
       "id": "40577",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "40% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-01T20:58:28.065Z"
-    },
-    {
-      "id": "39217",
-      "loja": "Shopee",
-      "titulo": "Trem Elétrico Pista Magnética Blocos de Montar Brinquedo Educativo Anti-Gravidade DIY Alta Velocidade Presente Infantil",
-      "link": "https://s.shopee.com.br/30pEHQQZvi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mojbckplyh390d_tn",
-      "preco": 79.99,
-      "precoDe": 123.06,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:53:58.347Z"
     }
   ]
 }
