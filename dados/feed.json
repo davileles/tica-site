@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-04T17:21:43.582Z",
+  "atualizadoEm": "2026-11-04T17:26:33.165Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40774",
+      "loja": "Amazon",
+      "titulo": "DuoPack Pringles Nacho 200g",
+      "link": "https://www.amazon.com.br/dp/B0H37S6Y1M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419eid5w0eL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 23.9,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T17:25:05.777Z"
+    },
     {
       "id": "40769",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-02T14:48:28.322Z"
-    },
-    {
-      "id": "39446",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo de Jantar 20 Peças Biona Cerâmica Donna Margaridas",
-      "link": "https://meli.la/1Uhcdnq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753850-MLA95668635310_102025-F.jpg",
-      "preco": 198.2,
-      "precoDe": 349.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T14:42:31.327Z"
     }
   ]
 }
