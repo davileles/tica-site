@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-04T01:01:08.234Z",
+  "atualizadoEm": "2026-11-04T02:05:18.513Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40452",
+      "loja": "Amazon",
+      "titulo": "KISSU Spray Bucal Ice Fresh 15 Ml – Hálito Puro E Perfumado À Qualquer Momento Do Dia Com Aroma Refrescante De Menta Em Frasco Portátil",
+      "link": "https://www.amazon.com.br/dp/B099L2MB9G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21m55B6nbqL._SL400_.jpg",
+      "preco": 14.9,
+      "precoDe": 18.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T01:55:18.511Z"
+    },
+    {
+      "id": "40451",
+      "loja": "Shopee",
+      "titulo": "Mesa Flor Infantil Decoração Madeira Quarto Sala Desmontável",
+      "link": "https://s.shopee.com.br/80DxkhS5rY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqouhs2ukvsy8d_tn",
+      "preco": 188.91,
+      "precoDe": 209.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T01:46:09.715Z"
+    },
     {
       "id": "40450",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-11-01T14:45:47.784Z"
-    },
-    {
-      "id": "38915",
-      "loja": "Mercado Livre",
-      "titulo": "Lixadeira Esmerilhadeira C/ Regulagem Velocidade 900w Bosch Azul 60hz",
-      "link": "https://meli.la/2dDr3uz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868066-MLA112534190573_052026-F.jpg",
-      "preco": 523.71,
-      "precoDe": 1229,
-      "desconto": 53,
-      "cupom": "QUEROAGORA",
-      "enviadoEm": "2026-11-01T14:41:09.997Z"
-    },
-    {
-      "id": "38913",
-      "loja": "Mercado Livre",
-      "titulo": "Pillow Top Para Colchão Queen C/ Elástico Manta 100% Algodão - R$ 135,53",
-      "link": "https://meli.la/1juDmv5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796033-MLB110161927434_042026-P.webp",
-      "preco": 101.65,
-      "precoDe": 294.14,
-      "desconto": 54,
-      "cupom": "VALEAPENANOML",
-      "enviadoEm": "2026-11-01T14:31:54.004Z"
     }
   ]
 }
