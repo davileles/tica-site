@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-04T00:39:29.953Z",
+  "atualizadoEm": "2026-11-04T01:01:08.234Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40450",
+      "loja": "Amazon",
+      "titulo": "Pantene Pro-V Óleo Capilar Queratina Milagroso Finalizador Leave-in 95 ml",
+      "link": "https://www.amazon.com.br/dp/B0CVXT2K1S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312AOb4lXVL._SL400_.jpg",
+      "preco": 17.61,
+      "precoDe": 38.95,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T00:51:08.232Z"
+    },
+    {
+      "id": "40449",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 109.9,
+      "precoDe": 157.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T00:41:36.726Z"
+    },
     {
       "id": "40448",
       "loja": "Amazon",
@@ -3999,18 +4023,6 @@
       "enviadoEm": "2026-11-02T18:52:40.888Z"
     },
     {
-      "id": "39627",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 114.99,
-      "precoDe": 157.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T18:50:45.547Z"
-    },
-    {
       "id": "39626",
       "loja": "Mercado Livre",
       "titulo": "Andador Infantil Brinquedo Educativo Musical Didático Bebê - R$ 109,15",
@@ -5989,18 +6001,6 @@
       "desconto": 54,
       "cupom": "VALEAPENANOML",
       "enviadoEm": "2026-11-01T14:31:54.004Z"
-    },
-    {
-      "id": "38912",
-      "loja": "Shopee",
-      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "link": "https://s.shopee.com.br/2VsxFofFgn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
-      "preco": 10.9,
-      "precoDe": 21.37,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T14:23:03.946Z"
     }
   ]
 }
