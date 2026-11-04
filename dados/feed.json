@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-04T12:26:33.157Z",
+  "atualizadoEm": "2026-11-04T12:52:21.878Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40556",
+      "loja": "Mercado Livre",
+      "titulo": "Whiskas ração úmida para gatos carne ao molho 85gr com kit de 20 sachês",
+      "link": "https://meli.la/2DTV4ZQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684780-MLA118487055202_102026-F.jpg",
+      "preco": 28.9,
+      "precoDe": 71.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T12:42:21.876Z"
+    },
+    {
+      "id": "40555",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/5VWdV2gwOi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.9,
+      "precoDe": 34.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T12:40:33.535Z"
+    },
+    {
+      "id": "40551",
+      "loja": "Amazon",
+      "titulo": "Ventilador de Parede Oscilante Ventisol, 3 Pás Preto, 50cm, Bivolt | 200W, 1500RPM",
+      "link": "https://www.amazon.com.br/dp/B074JFBY2L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QEj8RsYCL._SL400_.jpg",
+      "preco": 144.55,
+      "precoDe": 206.5,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T12:34:35.444Z"
+    },
     {
       "id": "40543",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 5,
       "cupom": null,
       "enviadoEm": "2026-11-01T20:25:16.301Z"
-    },
-    {
-      "id": "39179",
-      "loja": "Shopee",
-      "titulo": "Esguicho Bocal De Mangueira Regar Jardim Pistola Spray Água Alta Pressão Bico Limpeza Quintal",
-      "link": "https://s.shopee.com.br/2BG7FUF8yR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mttwyvrsar5v8e_tn",
-      "preco": 14.95,
-      "precoDe": 40.41,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:18:21.295Z"
-    },
-    {
-      "id": "39178",
-      "loja": "Shopee",
-      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
-      "link": "https://s.shopee.com.br/AUvFAnkAxI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
-      "preco": 68.9,
-      "precoDe": 140.61,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:17:19.643Z"
-    },
-    {
-      "id": "39161",
-      "loja": "Amazon",
-      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 24.24,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:08:10.976Z"
     }
   ]
 }
