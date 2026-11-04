@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-04T14:46:35.089Z",
+  "atualizadoEm": "2026-11-04T14:56:33.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40634",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/30pIfgsBJC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.99,
+      "precoDe": 40.51,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:55:21.581Z"
+    },
+    {
+      "id": "40633",
+      "loja": "Amazon",
+      "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0D7D6RKV9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rQ5nZ0SzL._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 55.92,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:51:36.075Z"
+    },
     {
       "id": "40630",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-11-02T11:28:14.524Z"
-    },
-    {
-      "id": "39339",
-      "loja": "Amazon",
-      "titulo": "Bodegas Los Tinos Vinho Belo Verdejo Branco Espanha 750Ml",
-      "link": "https://www.amazon.com.br/dp/B09RKTM6BW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MpVhLIhhL._SL400_.jpg",
-      "preco": 20.979999999999997,
-      "precoDe": 38.9,
-      "desconto": 10,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-02T11:22:41.490Z"
-    },
-    {
-      "id": "39330",
-      "loja": "Shopee",
-      "titulo": "Motosserra Profissional 78cc A Gasolina Muito Potente Sabre 55cm Moto Serra",
-      "link": "https://s.shopee.com.br/1BdeNlwPN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mmvxxxtihzi9e4_tn",
-      "preco": 469.9,
-      "precoDe": 573.05,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:08:44.015Z"
     }
   ]
 }
