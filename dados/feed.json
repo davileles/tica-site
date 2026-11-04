@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-03T23:50:14.095Z",
+  "atualizadoEm": "2026-11-04T00:39:29.953Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40448",
+      "loja": "Amazon",
+      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
+      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
+      "preco": 33.9,
+      "precoDe": 35.94,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T00:32:11.932Z"
+    },
+    {
+      "id": "40447",
+      "loja": "Amazon",
+      "titulo": "Cerveja Corona, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0F3XRNDMK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ETw4fyieL._SL400_.jpg",
+      "preco": 30.32,
+      "precoDe": 39.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T00:23:33.902Z"
+    },
     {
       "id": "40444",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-01T14:23:03.946Z"
-    },
-    {
-      "id": "38911",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0H6MVT6LJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YdY9SVY-L._SL400_.jpg",
-      "preco": 56.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T14:17:41.937Z"
-    },
-    {
-      "id": "38907",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Kart Elétrico Infantil Justfun A Bateria",
-      "link": "https://meli.la/1fnqocK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935816-MLB117806044405_092026-P.webp",
-      "preco": 416.8,
-      "precoDe": 899.9,
-      "desconto": 38,
-      "cupom": "VALEAPENANOML",
-      "enviadoEm": "2026-11-01T14:09:13.745Z"
     }
   ]
 }
