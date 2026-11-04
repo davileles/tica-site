@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-04T16:56:33.164Z",
+  "atualizadoEm": "2026-11-04T17:21:43.582Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40769",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek XXG 30 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093G8NZ4Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Jr7bqPhJL._SL400_.jpg",
+      "preco": 29.19,
+      "precoDe": 39.19,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T17:11:43.578Z"
+    },
+    {
+      "id": "40768",
+      "loja": "Shopee",
+      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
+      "link": "https://s.shopee.com.br/9KjMMaMafg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
+      "preco": 19.9,
+      "precoDe": 39.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T17:09:55.015Z"
+    },
+    {
+      "id": "40762",
+      "loja": "Amazon",
+      "titulo": "Travel System Safety 1st, Magnific, 5 em 1, 0 a 15kg, Full Black",
+      "link": "https://www.amazon.com.br/dp/B0CRZ8Z7FH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41oHAqmeFXL._SL400_.jpg",
+      "preco": 1889.9,
+      "precoDe": 2999,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T17:00:52.383Z"
+    },
+    {
+      "id": "40752",
+      "loja": "Shopee",
+      "titulo": "Cadeira Portátil Dobrável Até 115Kg com Apoio de Braço e Porta Copos",
+      "link": "https://s.shopee.com.br/LoXdDFvVu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-msctq7597ax159_tn",
+      "preco": 59.9,
+      "precoDe": 176.18,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T16:57:44.215Z"
+    },
     {
       "id": "40751",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-11-02T14:42:31.327Z"
-    },
-    {
-      "id": "39442",
-      "loja": "Shopee",
-      "titulo": "Cadeira de Descanso e Balanço para Bebê Bliss Baby Style com Música, Mosquiteiro e Controle Remoto",
-      "link": "https://s.shopee.com.br/1Bdt0704X",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-ms1dooh7lds4c6_tn",
-      "preco": 659.99,
-      "precoDe": 702.12,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T14:37:45.980Z"
-    },
-    {
-      "id": "39439",
-      "loja": "Mercado Livre",
-      "titulo": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Potência e Bico de Autolimpeza",
-      "link": "https://meli.la/34iMkij",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945436-MLA100025553119_122025-F.jpg",
-      "preco": 484.9,
-      "precoDe": 948.57,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T14:33:18.645Z"
-    },
-    {
-      "id": "39438",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "link": "https://s.shopee.com.br/9APsn6QHon",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
-      "preco": 10.5,
-      "precoDe": 12.65,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T14:29:51.327Z"
-    },
-    {
-      "id": "39436",
-      "loja": "Shopee",
-      "titulo": "Cadeira + Puff Opallinha Confortável Para Amamentação Quarto e Sala de Jantar Suede Bege",
-      "link": "https://s.shopee.com.br/60Sr19fEK6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mnk1juytfz0i4e_tn",
-      "preco": 299.93,
-      "precoDe": 399.91,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T14:25:34.178Z"
     }
   ]
 }
