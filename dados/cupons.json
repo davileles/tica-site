@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T13:56:35.123Z",
+  "atualizadoEm": "2026-11-04T14:23:27.017Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2424,6 +2424,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-05T13:00:16.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "MGG1W103DG",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-05T14:00:05.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
