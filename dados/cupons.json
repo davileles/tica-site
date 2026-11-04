@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T19:26:35.186Z",
+  "atualizadoEm": "2026-11-04T19:56:35.827Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -333,7 +333,7 @@
       "valor": 300,
       "minimo": 2199,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": "Válido na lista específica de produtos",
       "validadeAte": "2026-11-05T19:24:02.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1752,6 +1752,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-05T18:05:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERMERCADO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-06T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
