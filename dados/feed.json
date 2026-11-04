@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-04T13:56:33.162Z",
+  "atualizadoEm": "2026-11-04T14:23:25.052Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40621",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
+      "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31klUfBdRQL._SL400_.jpg",
+      "preco": 429.9,
+      "precoDe": 799,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:13:25.050Z"
+    },
+    {
+      "id": "40619",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Alimentação Portátil Berry 3 em 1 Rosa Multikids",
+      "link": "https://www.amazon.com.br/dp/B0C7LR9X83?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zDHFFEUtL._SL400_.jpg",
+      "preco": 207.57,
+      "precoDe": 239,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:12:51.658Z"
+    },
+    {
+      "id": "40618",
+      "loja": "Amazon",
+      "titulo": "Buba, Bichinhos Para Banho Amiguinhos Aquaticos - 10 Un",
+      "link": "https://www.amazon.com.br/dp/B0CWJ2SCW4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414MCBgccrL._SL400_.jpg",
+      "preco": 39.89,
+      "precoDe": 65.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:12:22.874Z"
+    },
+    {
+      "id": "40616",
+      "loja": "Shopee",
+      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
+      "link": "https://s.shopee.com.br/6q21BalxkX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
+      "preco": 26.9,
+      "precoDe": 122.27,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:11:06.568Z"
+    },
+    {
+      "id": "40617",
+      "loja": "Shopee",
+      "titulo": "5 Unidades  Petisqueira Barquinha Canoa Petiscos Churrasco Festa Frios Para Servir Amendoim Caldo Branca - Kaziva",
+      "link": "https://s.shopee.com.br/3VlZDSyeW5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moqthjsfjyf4dc_tn",
+      "preco": 7.9,
+      "precoDe": 30.38,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:09:13.408Z"
+    },
+    {
+      "id": "40615",
+      "loja": "Amazon",
+      "titulo": "Frigideira Grande 24cm Em Cerâmica Cabo De Madeira Fundo Indução Fogão a Gás Elétrico e Indução Saudável Frita Sem Usar Óleo Durável Premium",
+      "link": "https://www.amazon.com.br/dp/B0FTWCQ5W7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41r9lLt288L._SL400_.jpg",
+      "preco": 47.9,
+      "precoDe": 59.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:06:34.281Z"
+    },
+    {
+      "id": "40606",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Secador, Max Travel, Bivolt, Preto/Vermelho, 1200W - SC-10 | Bivolt, 1200W",
+      "link": "https://www.amazon.com.br/dp/B01643M5KY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kTaNjV+0L._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 99.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:00:03.021Z"
+    },
+    {
+      "id": "40604",
+      "loja": "Amazon",
+      "titulo": "Preservativo SKYN Elite, 8 Unidades | sem látex",
+      "link": "https://www.amazon.com.br/dp/B0F2GKPBVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rb-hOjwHL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 42.66,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T13:57:41.408Z"
+    },
     {
       "id": "40601",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 77,
       "cupom": null,
       "enviadoEm": "2026-11-01T22:56:06.315Z"
-    },
-    {
-      "id": "39306",
-      "loja": "Amazon",
-      "titulo": "WAP Serra Sabre Elétrica WF SA01 20mm com Punho Giratório e Ajuste de Velocidade 2800gpm 1200W 127V",
-      "link": "https://www.amazon.com.br/dp/B0FTT3QV8V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3178FAeA9vL._SL400_.jpg",
-      "preco": 167.29999999999995,
-      "precoDe": 529.9,
-      "desconto": 47,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-01T22:54:45.833Z"
-    },
-    {
-      "id": "39304",
-      "loja": "Shopee",
-      "titulo": "Termômetro Digital Infantil Ultra Rápido Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
-      "link": "https://s.shopee.com.br/5VWZO6U43H",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
-      "preco": 26.99,
-      "precoDe": 45.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:50:31.222Z"
-    },
-    {
-      "id": "39296",
-      "loja": "Shopee",
-      "titulo": "Raquete Elétrica Mata Mosquito 360° Recarregável USB Branca",
-      "link": "https://s.shopee.com.br/gRJcT6PZ4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mu8542jjf4ld8e_tn",
-      "preco": 61.65,
-      "precoDe": 92.01,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:39:08.926Z"
-    },
-    {
-      "id": "39289",
-      "loja": "Amazon",
-      "titulo": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
-      "link": "https://www.amazon.com.br/dp/B0G71HDJSM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yUDgAWMuL._SL400_.jpg",
-      "preco": 1152.53,
-      "precoDe": 1599,
-      "desconto": 9,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-01T22:31:55.282Z"
-    },
-    {
-      "id": "39286",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
-      "link": "https://s.shopee.com.br/3g4vArZVI9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
-      "preco": 74.9,
-      "precoDe": 110.15,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:26:43.010Z"
-    },
-    {
-      "id": "39285",
-      "loja": "Amazon",
-      "titulo": "Vinho Argentino Bodega Argento Minimalista Pinot Grigio 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CGPYNVN2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21euzMXYelL._SL400_.jpg",
-      "preco": 49.81,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:23:20.752Z"
-    },
-    {
-      "id": "39284",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Intra-Auricular Sem Fio JBL Wave Buds 2, Branco | Bluetooth, Resistente à Água e Poeira",
-      "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21OmJkjIhGL._SL400_.jpg",
-      "preco": 136.08,
-      "precoDe": 466.66,
-      "desconto": 51,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-01T22:22:22.949Z"
-    },
-    {
-      "id": "39279",
-      "loja": "Shopee",
-      "titulo": "Kit 3 em1 Bico Esguicho De Alta Pressão Para Torneira Mangueira Lavagem De Carros Moto Rega Jardim",
-      "link": "https://s.shopee.com.br/2BG7Ng3WkJ",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-m0ukvk3phd6m14_tn",
-      "preco": 35,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:14:50.531Z"
     }
   ]
 }
