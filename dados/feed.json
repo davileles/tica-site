@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-04T18:12:15.384Z",
+  "atualizadoEm": "2026-11-04T18:26:33.187Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40800",
+      "loja": "Mercado Livre",
+      "titulo": "Mala Bordo Leve 10kg Rodas 360° Cadeado Antifurto Bagagem - R$ 170,99",
+      "link": "https://meli.la/2AHZD1y",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815918-MLB113681629386_072026-P.webp",
+      "preco": 150.47,
+      "precoDe": 257.9,
+      "desconto": 34,
+      "cupom": "SEMPREMODA",
+      "enviadoEm": "2026-11-04T18:24:57.935Z"
+    },
+    {
+      "id": "40797",
+      "loja": "Mercado Livre",
+      "titulo": "Copo Stanley Quencher Frost 887ml",
+      "link": "https://meli.la/28uKxWm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632974-MLA107582605197_022026-F.jpg",
+      "preco": 129.59,
+      "precoDe": 319,
+      "desconto": 52,
+      "cupom": "15MODA0411",
+      "enviadoEm": "2026-11-04T18:17:59.090Z"
+    },
+    {
+      "id": "40795",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/LoXiTkxbF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.99,
+      "precoDe": 65.92,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T18:14:24.430Z"
+    },
     {
       "id": "40789",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-11-02T16:06:57.754Z"
-    },
-    {
-      "id": "39511",
-      "loja": "Amazon",
-      "titulo": "Máquina de Água com Gás Gaia Preta SodaStream com Cilindro",
-      "link": "https://www.amazon.com.br/dp/B0BS6PKKV4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GnZH3jiEL._SL400_.jpg",
-      "preco": 497,
-      "precoDe": 999,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T16:02:24.650Z"
-    },
-    {
-      "id": "39495",
-      "loja": "Shopee",
-      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
-      "link": "https://s.shopee.com.br/4LKd7TR34l",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
-      "preco": 24.99,
-      "precoDe": 47.15,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T15:42:46.815Z"
-    },
-    {
-      "id": "39476",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Panelas Cerâmico Triplo Indução Tuut Ecoglid 5 Peças Cor Marble",
-      "link": "https://meli.la/1pb3mMS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651872-MLA95634538762_102025-F.jpg",
-      "preco": 247.87,
-      "precoDe": 479.99,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T15:23:41.790Z"
     }
   ]
 }
