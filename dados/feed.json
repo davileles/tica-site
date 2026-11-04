@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-04T14:26:33.162Z",
+  "atualizadoEm": "2026-11-04T14:46:35.089Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40630",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LPPafVF3L._SL400_.jpg",
+      "preco": 164.8,
+      "precoDe": 235.87,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:36:35.086Z"
+    },
+    {
+      "id": "40627",
+      "loja": "Shopee",
+      "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "link": "https://s.shopee.com.br/1qdLG04BwO",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa_tn",
+      "preco": 42.89,
+      "precoDe": 194.95,
+      "desconto": 78,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:33:33.088Z"
+    },
+    {
+      "id": "40626",
+      "loja": "Amazon",
+      "titulo": "SUGGAR FOGÃO NEO GLASS PRATA MESA DE VIDRO 4 BOCAS TREMPE 6 APOIOS ACENDIMENTO AUTOMÁTICO FGVNG410PRIX",
+      "link": "https://www.amazon.com.br/dp/B0D164HJPD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HeLdm9FbL._SL400_.jpg",
+      "preco": 683.02,
+      "precoDe": 1039,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:31:48.576Z"
+    },
+    {
+      "id": "40625",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
+      "preco": 74.9,
+      "precoDe": 159.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:29:32.335Z"
+    },
     {
       "id": "40623",
       "loja": "Mercado Livre",
@@ -5953,54 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-11-02T11:08:44.015Z"
-    },
-    {
-      "id": "39329",
-      "loja": "Shopee",
-      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
-      "link": "https://s.shopee.com.br/7fb4mTIgYz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
-      "preco": 21.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:07:34.737Z"
-    },
-    {
-      "id": "39328",
-      "loja": "Amazon",
-      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
-      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
-      "preco": 69.54,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:04:08.851Z"
-    },
-    {
-      "id": "39316",
-      "loja": "Amazon",
-      "titulo": "WAP Aspirador de Pó Vertical Power Speed Max CZ40 1600W 3 em 1 220V | Reservatório de poeira com capacidade total de 1,3L.",
-      "link": "https://www.amazon.com.br/dp/B0HG3NQJHK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21TJ72iSkDL._SL400_.jpg",
-      "preco": 197.93999999999997,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-01T23:04:02.864Z"
-    },
-    {
-      "id": "39313",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 38.34,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:58:50.829Z"
     }
   ]
 }
