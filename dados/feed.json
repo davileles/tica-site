@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-04T14:23:25.052Z",
+  "atualizadoEm": "2026-11-04T14:26:33.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40623",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV AIWA 50” Android 4K Borda Ultrafina HDR10 Dolby Áudio AWS-TV-50-BL-02-A",
+      "link": "https://meli.la/2ZqHMS4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_768600-MLA99887667399_112025-F.jpg",
+      "preco": 5998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-11-04T14:25:17.853Z"
+    },
     {
       "id": "40621",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-01T22:58:50.829Z"
-    },
-    {
-      "id": "39307",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 47 De Acessorios Ferramentas Completo Para Impressão 3d Manuais Orginal Novo Estilete Pinças Agulha Inox Agulhas De Limpeza De Bico Alicate Para Bambu Labs 0.2/0.25/0.3/0.35/0.",
-      "link": "https://meli.la/1kaj73o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758490-MLA109974216256_042026-F.jpg",
-      "preco": 77.51,
-      "precoDe": 337,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T22:56:06.315Z"
     }
   ]
 }
