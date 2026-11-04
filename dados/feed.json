@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-04T14:56:33.162Z",
+  "atualizadoEm": "2026-11-04T15:26:33.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40652",
+      "loja": "Amazon",
+      "titulo": "Isotônico Gatorade, Uva, Garrafa 500ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY2BSD2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41rSfW-Fi5L._SL400_.jpg",
+      "preco": 25.14,
+      "precoDe": 32.94,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:26:08.755Z"
+    },
+    {
+      "id": "40651",
+      "loja": "Shopee",
+      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
+      "link": "https://s.shopee.com.br/3B8itUTB98",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
+      "preco": 20.7,
+      "precoDe": 20.91,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:16:58.779Z"
+    },
+    {
+      "id": "40644",
+      "loja": "Shopee",
+      "titulo": "Máquina de Lavar Brastemp 18Kg Branca com Ciclo Tira Manchas Advanced e Ciclo Antibolinhas - BWF18AB",
+      "link": "https://s.shopee.com.br/AKbtPnjmBT",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258m-mv2mly5sta0xc0_tn",
+      "preco": 1999,
+      "precoDe": 2498.75,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:07:24.299Z"
+    },
+    {
+      "id": "40642",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
+      "preco": 23,
+      "precoDe": 29.24,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:02:00.698Z"
+    },
+    {
+      "id": "40641",
+      "loja": "Amazon",
+      "titulo": "Algodão Quadrado para Bebê Bellacotton, 100% Algodão, 100 Unidades | 100% Algodão, Macio",
+      "link": "https://www.amazon.com.br/dp/B0B5YF3HSW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BRBkfUZ+L._SL400_.jpg",
+      "preco": 24,
+      "precoDe": 29.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:01:29.292Z"
+    },
+    {
+      "id": "40639",
+      "loja": "Amazon",
+      "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 60 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51pJLarXKuL._SL400_.jpg",
+      "preco": 62.69,
+      "precoDe": 113.25,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:01:01.495Z"
+    },
+    {
+      "id": "40638",
+      "loja": "Amazon",
+      "titulo": "Gillette Desodorante Antitranspirante em Gel Antibacterial 82 g",
+      "link": "https://www.amazon.com.br/dp/B074T2L1GX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ONDwZ1-YL._SL400_.jpg",
+      "preco": 12.48,
+      "precoDe": 31.66,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:00:31.312Z"
+    },
+    {
+      "id": "40635",
+      "loja": "Amazon",
+      "titulo": "Viva Verde Areia Higiênica Biodegradável para Gatos Grãos Finos 4kg",
+      "link": "https://www.amazon.com.br/dp/B07YP1K82Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41acvqYQlhL._SL400_.jpg",
+      "preco": 43,
+      "precoDe": 69.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T14:58:37.192Z"
+    },
     {
       "id": "40634",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-11-02T11:59:09.328Z"
-    },
-    {
-      "id": "39363",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "link": "https://s.shopee.com.br/5VWaG4tdTB",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
-      "preco": 35.45,
-      "precoDe": 70.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:56:36.060Z"
-    },
-    {
-      "id": "39356",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira De Alimentação Bebê Portátil 3em1baby Segura 6m-25kg - R$ 171",
-      "link": "https://meli.la/1yD3jGi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_783303-MLB100546333925_122025-P.webp",
-      "preco": 171,
-      "precoDe": 299.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:51:57.834Z"
-    },
-    {
-      "id": "39355",
-      "loja": "Amazon",
-      "titulo": "Legend Montblanc Perfume Masculino EDP 100ml",
-      "link": "https://www.amazon.com.br/dp/B08KZ1BVZC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31G34Rji34L._SL400_.jpg",
-      "preco": 264,
-      "precoDe": 873.95,
-      "desconto": 50,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-02T11:48:15.888Z"
-    },
-    {
-      "id": "39354",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 144.99,
-      "precoDe": 222.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:44:31.981Z"
-    },
-    {
-      "id": "39352",
-      "loja": "Shopee",
-      "titulo": "Frigideira Wok com Tampa 30cm Grande Alta Antiaderente Teflon de Vidro Caçarola paella paelleira",
-      "link": "https://s.shopee.com.br/qkkgbuMfh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mr68xc5dyltz61_tn",
-      "preco": 94.98,
-      "precoDe": 110.44,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:42:37.566Z"
-    },
-    {
-      "id": "39345",
-      "loja": "Amazon",
-      "titulo": "Buddemeyer Jogo de Toalhas Vanilla Extra Soft Banho Branco 5 peças",
-      "link": "https://www.amazon.com.br/dp/B0H9Z5HSG9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21VUb7rMZ8L._SL400_.jpg",
-      "preco": 143.67,
-      "precoDe": 259.9,
-      "desconto": 8,
-      "cupom": "40% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-02T11:35:55.013Z"
-    },
-    {
-      "id": "39344",
-      "loja": "Shopee",
-      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
-      "link": "https://s.shopee.com.br/9V2iziDAsK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
-      "preco": 59.97,
-      "precoDe": 85.67,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:32:32.248Z"
-    },
-    {
-      "id": "39341",
-      "loja": "Amazon",
-      "titulo": "Troninho Styll Baby",
-      "link": "https://www.amazon.com.br/dp/B076X885F6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qc6e6lK+L._SL400_.jpg",
-      "preco": 26.1,
-      "precoDe": 89.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:28:14.524Z"
     }
   ]
 }
