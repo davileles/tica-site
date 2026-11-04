@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-04T15:26:33.162Z",
+  "atualizadoEm": "2026-11-04T15:56:33.162Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40662",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label, 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 115.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:53:03.859Z"
+    },
+    {
+      "id": "40659",
+      "loja": "Mercado Livre",
+      "titulo": "Ducha Eletrônica Intense Fame 5400w Preta E Inox Cor Preto Potência",
+      "link": "https://meli.la/2qbwYkS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_770592-MLA99479918624_112025-F.jpg",
+      "preco": 183.92000000000002,
+      "precoDe": 409,
+      "desconto": 44,
+      "cupom": "CONSTRUSEMPRE",
+      "enviadoEm": "2026-11-04T15:43:55.098Z"
+    },
+    {
+      "id": "40658",
+      "loja": "Amazon",
+      "titulo": "Artelassê Jogo de Lençol King 400 Fios Giardino Branco Algodão Egípcio",
+      "link": "https://www.amazon.com.br/dp/B0H5DP3L3M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21viNXUweHL._SL400_.jpg",
+      "preco": 1626.8,
+      "precoDe": 4067,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:42:07.198Z"
+    },
+    {
+      "id": "40657",
+      "loja": "Amazon",
+      "titulo": "Artelassê Capa de Duvet King 400 Fios Giardino Branco Algodão Egípcio",
+      "link": "https://www.amazon.com.br/dp/B0H5F98DBC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21T4nPvWGYL._SL400_.jpg",
+      "preco": 1498.8,
+      "precoDe": 3747,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:40:18.963Z"
+    },
+    {
+      "id": "40656",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
+      "link": "https://s.shopee.com.br/4B1G6p0w2w?sub_id1=20399549464",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
+      "preco": 27.99,
+      "precoDe": 69.97,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:38:34.206Z"
+    },
+    {
+      "id": "40654",
+      "loja": "Amazon",
+      "titulo": "Artelassê Jogo de Lençol Queen 400 Fios Giardino Branco Algodão Egípcio",
+      "link": "https://www.amazon.com.br/dp/B0H5F3Z3W4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21viNXUweHL._SL400_.jpg",
+      "preco": 1494.8,
+      "precoDe": 3737,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T15:32:47.592Z"
+    },
     {
       "id": "40652",
       "loja": "Amazon",
@@ -4191,18 +4263,6 @@
       "enviadoEm": "2026-11-03T12:05:19.164Z"
     },
     {
-      "id": "39946",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 73.67,
-      "precoDe": 115.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T12:02:05.640Z"
-    },
-    {
       "id": "39945",
       "loja": "Amazon",
       "titulo": "Euro Home - Frigideira 24 cm 2 l de Alumínio com Antiaderente Color Stone Volcano - ALU8303-VO",
@@ -5941,66 +6001,6 @@
       "desconto": 29,
       "cupom": "40% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-02T12:27:57.048Z"
-    },
-    {
-      "id": "39374",
-      "loja": "Shopee",
-      "titulo": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
-      "link": "https://s.shopee.com.br/4fxTHTDnEF",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zv2-mimr97xprbi923_tn",
-      "preco": 549,
-      "precoDe": 631.03,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T12:23:18.886Z"
-    },
-    {
-      "id": "39373",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-      "link": "https://meli.la/1Ay5akm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740337-MLA80358584554_112024-F.jpg",
-      "preco": 191.25,
-      "precoDe": 307.9,
-      "desconto": 31,
-      "cupom": "FULL0211",
-      "enviadoEm": "2026-11-02T12:19:49.687Z"
-    },
-    {
-      "id": "39369",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Antiassaduras Bepantol para assadura Baby Hipoalergênico 100g",
-      "link": "https://meli.la/31JPDU7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_646510-MLA117833897134_102026-F.jpg",
-      "preco": 43.9,
-      "precoDe": 59.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T12:08:20.966Z"
-    },
-    {
-      "id": "39367",
-      "loja": "Shopee",
-      "titulo": "Strobo Pisca Pisca Cordão Natal 1600 Leds 50m Prova D'Água Bivolt 320 Flash Decoração Enfeite Natal LuvinCo",
-      "link": "https://s.shopee.com.br/8VABpmvNXI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mu2dkvami13588_tn",
-      "preco": 309.9,
-      "precoDe": 704.32,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T12:06:09.075Z"
-    },
-    {
-      "id": "39365",
-      "loja": "Amazon",
-      "titulo": "Pomada Bepantol Baby com Pró-Vitamina B5, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
-      "preco": 43.9,
-      "precoDe": 59.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-02T11:59:09.328Z"
     }
   ]
 }
