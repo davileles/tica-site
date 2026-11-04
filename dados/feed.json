@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-04T12:56:33.158Z",
+  "atualizadoEm": "2026-11-04T13:22:26.125Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "40577",
+      "loja": "Amazon",
+      "titulo": "Fralda Personal Baby Protect & Sec Grande Promo - 78 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GXaStNUdL._SL400_.jpg",
+      "preco": 59.52,
+      "precoDe": 89.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T13:12:26.123Z"
+    },
+    {
+      "id": "40574",
+      "loja": "Shopee",
+      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
+      "link": "https://s.shopee.com.br/4fxWWzQToN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
+      "preco": 39.9,
+      "precoDe": 66.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-04T13:02:26.148Z"
+    },
     {
       "id": "40563",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-01T20:53:58.347Z"
-    },
-    {
-      "id": "39213",
-      "loja": "Shopee",
-      "titulo": "Kit Montagem Esqueleto Fóssil Dinossauro Surpresa - Monte seu Próprio Museu em Casa!",
-      "link": "https://s.shopee.com.br/AAIOo5yPd8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-msmvjk3offgl38_tn",
-      "preco": 28.9,
-      "precoDe": 40.14,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:49:02.806Z"
-    },
-    {
-      "id": "39208",
-      "loja": "Shopee",
-      "titulo": "Suporte Celular Para-brisa Super Fixador Para Painel Carro",
-      "link": "https://s.shopee.com.br/2VsxfiLsQe",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82623-mlt4ygg1hq84fa_tn",
-      "preco": 27.89,
-      "precoDe": 32.81,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-01T20:40:54.729Z"
     }
   ]
 }
