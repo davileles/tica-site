@@ -138,7 +138,49 @@ input:focus{border-color:var(--tinta)}
 
 .rodape{border-top:1px solid var(--border);margin-top:32px;padding:22px 0 40px;font-size:12px;color:var(--muted)}
 .rodape a{color:var(--tinta);font-weight:700;text-decoration:none}
-@media (max-width:420px){.cartao{padding:16px}}
+
+/* ── Meus alertas ─────────────────────────────────────────────────────── */
+.lnk-meus{display:inline-block;margin-top:10px;font-size:13px;font-weight:700;color:var(--tinta);text-decoration:underline;text-underline-offset:3px}
+.meus-topo{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.meus-sair{font-size:12px;font-weight:700;color:var(--muted);text-decoration:underline;text-underline-offset:3px;background:none;border:0;cursor:pointer;font-family:var(--font)}
+.al{border:1px solid var(--border);border-radius:12px;background:var(--bg);padding:14px;margin-top:12px}
+.al-cab{display:flex;gap:12px;align-items:flex-start}
+.al-cab img,.al-cab .sem-img{width:56px;height:56px;object-fit:contain;border-radius:8px;background:#fff;flex-shrink:0}
+.al-cab .sem-img{background:var(--surface-2)}
+.al-n{font-size:10px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted-2)}
+.al-titulo{font-size:13.5px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:2px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.chip{font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:999px;background:var(--surface-2);color:var(--muted)}
+.chip.ok{background:var(--ok-bg);color:var(--ok)}
+.chip.aviso{background:var(--aviso-bg);color:var(--aviso)}
+.al-precos{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+.al-precos div{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:8px 10px;min-width:0}
+.al-precos span{display:block;font-size:10.5px;font-weight:800;letter-spacing:.3px;color:var(--muted)}
+.al-precos b{display:block;font-size:15px;font-weight:900;letter-spacing:-.3px;line-height:1.25;overflow-wrap:anywhere}
+.al-precos b small{display:block;font-size:11px;font-weight:700;color:var(--muted);letter-spacing:0}
+.al-precos b.ok{color:var(--ok)}
+.trilho{position:relative;height:8px;border-radius:999px;background:var(--surface-2);margin:26px 6px 22px}
+.trilho .faixa{position:absolute;top:0;bottom:0;border-radius:999px;background:var(--border-forte)}
+.trilho .mk{position:absolute;top:50%;transform:translate(-50%,-50%)}
+.trilho .mk.atual{width:16px;height:16px;border-radius:50%;background:var(--navy);border:3px solid var(--surface);box-shadow:0 1px 4px rgba(0,0,0,.3)}
+[data-tema="escuro"] .trilho .mk.atual{background:#f5f6fa;border-color:var(--bg)}
+.trilho .mk.alvo{width:3px;height:22px;border-radius:2px;background:var(--accent)}
+.trilho .rot{position:absolute;transform:translateX(-50%);font-size:10px;font-weight:800;white-space:nowrap;color:var(--muted)}
+.trilho .rot.cima{bottom:16px}
+.trilho .rot.baixo{top:14px}
+.trilho .rot.alvo{color:var(--tinta)}
+.trilho .rot.esq{transform:none}
+.trilho .rot.dir{transform:translateX(-100%)}
+.spark{display:block;width:100%;height:64px;margin-top:4px}
+.spark .linha-preco{fill:none;stroke:var(--navy);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+[data-tema="escuro"] .spark .linha-preco{stroke:#f5f6fa}
+.spark .linha-alvo{stroke:var(--accent);stroke-width:1.5;stroke-dasharray:4 4}
+.spark .area{fill:var(--surface-2)}
+.al-rodape{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:10px;font-size:11.5px;color:var(--muted)}
+.al-parar{font-size:12px;font-weight:700;color:var(--tinta);background:none;border:0;cursor:pointer;font-family:var(--font);text-decoration:underline;text-underline-offset:3px}
+.cmds{margin-top:14px;font-size:13px}
+.cmds code{font-family:var(--font);font-weight:800;background:var(--surface-2);padding:1px 7px;border-radius:6px}
+@media (max-width:420px){.cartao{padding:16px}.al-precos{gap:6px}.al-precos div{padding:7px 8px}.al-precos b{font-size:13px}}
 .btn-tema:hover{border-color:var(--border-forte);background:var(--surface-2)}
 .btn-grupo{background:var(--accent);color:#fff;font-size:12px;font-weight:800;padding:11px 18px;border-radius:999px;
   white-space:nowrap;text-decoration:none;transition:background .15s,transform .15s;display:inline-block}
@@ -183,6 +225,7 @@ input:focus{border-color:var(--tinta)}
   <section class="abertura">
     <h1>Quer comprar algo? <span>O Tico te avisa quando o preço cair.</span></h1>
     <p>Cole o link do produto, diga quanto você quer pagar e receba o aviso no seu WhatsApp. É grátis.</p>
+    <a class="lnk-meus" href="#meus">Já tem alertas? Veja seus produtos e a régua de preços ↓</a>
   </section>
 
   <div id="tela-pausado" class="cartao oculto">
@@ -281,6 +324,7 @@ input:focus{border-color:var(--tinta)}
         <li>O Tico confere o preço algumas vezes por dia.</li>
         <li>Quando cair, você recebe uma mensagem com o preço e o link da loja.</li>
         <li>No máximo um aviso por dia, sempre em horário comercial.</li>
+        <li>Mande <b>MEUS ALERTAS</b> para o Tico para ver sua lista, ou cole lá o link de outro produto.</li>
         <li>Para parar, responda <b>SAIR</b> a qualquer momento.</li>
       </ul>
       <button type="button" class="btn leve cheio" id="btn-outro">Acompanhar outro produto</button>
@@ -291,6 +335,41 @@ input:focus{border-color:var(--tinta)}
   <section id="tela-pronto" class="cartao oculto">
     <div class="alerta ok on" style="font-size:14px">✅ <b>Pronto!</b> Seu WhatsApp já estava ativado, então este produto já entrou nos seus avisos. Mandamos uma confirmação por lá.</div>
     <button type="button" class="btn leve cheio" id="btn-outro-2">Acompanhar outro produto</button>
+  </section>
+
+  <!-- MEUS ALERTAS: consulta com código no WhatsApp -->
+  <section id="meus" class="cartao">
+    <div class="meus-topo">
+      <div class="passo" style="margin-bottom:0"><span class="passo-n">🔔</span><h2>Meus alertas</h2></div>
+      <button type="button" class="meus-sair oculto" id="meus-sair">Sair</button>
+    </div>
+    <p class="ajuda" id="meus-intro" style="margin-top:8px">Veja os produtos que você acompanha, o preço que o Tico tem lido e quanto falta para o seu preço.</p>
+
+    <div id="meus-entrar">
+      <label for="m-tel" style="margin-top:14px">Seu WhatsApp</label>
+      <div class="linha">
+        <input type="tel" id="m-tel" autocomplete="tel-national" inputmode="tel" placeholder="(31) 99999-9999"/>
+        <button type="button" class="btn" id="m-btn-codigo">Receber código</button>
+      </div>
+      <p class="ajuda">O Tico manda um código de 6 dígitos nesse WhatsApp. Assim só você vê seus alertas.</p>
+      <div id="m-bloco-codigo" class="oculto">
+        <label for="m-cod">Código que o Tico mandou</label>
+        <div class="linha">
+          <input type="text" id="m-cod" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="000000"/>
+          <button type="button" class="btn" id="m-btn-entrar">Ver alertas</button>
+        </div>
+      </div>
+      <div id="m-alerta" class="alerta"></div>
+    </div>
+
+    <div id="meus-lista" class="oculto">
+      <div id="m-itens"></div>
+      <div class="cmds">
+        <b>No WhatsApp do Tico também dá:</b><br/>
+        <code>MEUS ALERTAS</code> mostra esta lista · <code>SAIR 2</code> para o alerta 2 · <code>SAIR</code> para todos.<br/>
+        Para criar um alerta por lá, é só colar o link do produto na conversa.
+      </div>
+    </div>
   </section>
 
 </main>
@@ -598,6 +677,202 @@ $('btn-outro-2').addEventListener('click', novoPedido);
   }
   var u = new URLSearchParams(location.search).get('url');
   if (u) { $('f-url').value = u; buscar(); }
+})();
+
+// ── Meus alertas ──────────────────────────────────────────────────────────
+var meus = { token: null, tel: '' };
+function mAlerta(tipo, txt) {
+  var a = $('m-alerta');
+  a.className = 'alerta' + (txt ? ' on ' + tipo : '');
+  a.textContent = txt || '';
+}
+function mascaraTel(el) {
+  el.addEventListener('input', function () {
+    var d = this.value.replace(/\D/g, '').replace(/^55(?=\d{10,11}$)/, '').slice(0, 11);
+    var f = d;
+    if (d.length > 2) f = '(' + d.slice(0, 2) + ') ' + d.slice(2);
+    if (d.length > 7) f = '(' + d.slice(0, 2) + ') ' + d.slice(2, d.length - 4) + '-' + d.slice(-4);
+    this.value = f;
+  });
+}
+mascaraTel($('m-tel'));
+
+$('m-btn-codigo').addEventListener('click', async function () {
+  var btn = this, tel = $('m-tel').value.replace(/\D/g, '');
+  if (tel.length < 10) { mAlerta('erro', 'Confira o WhatsApp: DDD + número.'); return; }
+  btn.disabled = true; btn.textContent = 'Enviando…'; mAlerta('', '');
+  try {
+    var r = await api('/avisos-preco/consulta/codigo', { telefone: tel });
+    if (!r.ok) { mAlerta('erro', r.erro || 'Não conseguimos mandar o código.'); return; }
+    meus.tel = tel;
+    try { localStorage.setItem('tsp-avisos-tel', $('m-tel').value); } catch (e) {}
+    $('m-bloco-codigo').classList.remove('oculto');
+    mAlerta('ok', r.mensagem || 'Código enviado no WhatsApp.');
+    setTimeout(function () { $('m-cod').focus(); }, 100);
+  } catch (e) { mAlerta('erro', e.message); }
+  finally { btn.disabled = false; btn.textContent = 'Receber código'; }
+});
+
+async function mEntrar() {
+  var btn = $('m-btn-entrar'), cod = $('m-cod').value.replace(/\D/g, '');
+  if (cod.length !== 6) { mAlerta('erro', 'O código tem 6 dígitos.'); return; }
+  btn.disabled = true; btn.textContent = 'Entrando…';
+  try {
+    var r = await api('/avisos-preco/consulta/entrar', { telefone: meus.tel || $('m-tel').value, codigo: cod });
+    if (!r.ok) { mAlerta('erro', r.erro || 'Não deu certo.'); return; }
+    meus.token = r.token;
+    try { sessionStorage.setItem('tsp-avisos-sessao', r.token); } catch (e) {}
+    mAlerta('', '');
+    mostrarLista(r);
+  } catch (e) { mAlerta('erro', e.message); }
+  finally { btn.disabled = false; btn.textContent = 'Ver alertas'; }
+}
+$('m-btn-entrar').addEventListener('click', mEntrar);
+$('m-cod').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); mEntrar(); } });
+$('m-cod').addEventListener('input', function () { if (this.value.replace(/\D/g, '').length === 6) mEntrar(); });
+
+$('meus-sair').addEventListener('click', function () {
+  meus.token = null;
+  try { sessionStorage.removeItem('tsp-avisos-sessao'); } catch (e) {}
+  $('meus-lista').classList.add('oculto'); $('meus-entrar').classList.remove('oculto'); this.classList.add('oculto');
+  $('m-cod').value = ''; $('m-bloco-codigo').classList.add('oculto');
+  $('meus-intro').textContent = 'Veja os produtos que você acompanha, o preço que o Tico tem lido e quanto falta para o seu preço.';
+});
+
+function dataCurta(iso) {
+  if (!iso) return '';
+  var d = new Date(iso);
+  return d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', timeZone: 'America/Sao_Paulo' });
+}
+function dataHora(iso) {
+  if (!iso) return '';
+  var d = new Date(iso);
+  return dataCurta(iso) + ' às ' + d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' });
+}
+
+// Pontos da série: um por dia (menor preço do dia); com poucos dias, as leituras.
+function pontosDaSerie(s) {
+  var dias = (s && s.dias) || [], leit = (s && s.leituras) || [];
+  if (dias.length >= 3) return dias.map(function (x) { return x.p; });
+  return leit.map(function (x) { return x.p; });
+}
+
+function regua(a) {
+  var s = a.serie || {}, atual = a.precoAtual, alvo = a.precoAlvo;
+  var vals = [s.min, s.max, atual, alvo].filter(function (v) { return v > 0; });
+  if (!vals.length || !(atual > 0)) return '';
+  var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals);
+  if (hi - lo < hi * 0.02) { lo = lo * 0.95; hi = hi * 1.05; }
+  var pos = function (v) { return Math.max(0, Math.min(100, (v - lo) / (hi - lo) * 100)); };
+  var ladoRot = function (p) { return p < 12 ? ' esq' : (p > 88 ? ' dir' : ''); };
+  var h = '<div class="trilho" aria-hidden="true">';
+  if (s.min > 0 && s.max > 0) h += '<div class="faixa" style="left:' + pos(s.min) + '%;right:' + (100 - pos(s.max)) + '%"></div>';
+  if (alvo > 0) {
+    var pa = pos(alvo);
+    h += '<span class="mk alvo" style="left:' + pa + '%"></span><span class="rot cima alvo' + ladoRot(pa) + '" style="left:' + pa + '%">seu preço</span>';
+  }
+  var pt = pos(atual);
+  h += '<span class="mk atual" style="left:' + pt + '%"></span><span class="rot baixo' + ladoRot(pt) + '" style="left:' + pt + '%">agora</span>';
+  h += '</div>';
+  var leg = [];
+  if (s.min > 0) leg.push('menor lido ' + brl(s.min));
+  if (s.max > 0 && s.max !== s.min) leg.push('maior ' + brl(s.max));
+  return h + (leg.length ? '<div class="ajuda" style="margin-top:0">' + esc(leg.join(' · ')) + '</div>' : '');
+}
+
+function grafico(a) {
+  var p = pontosDaSerie(a.serie);
+  if (p.length < 2) return '';
+  var alvo = a.precoAlvo;
+  var vals = p.concat(alvo > 0 ? [alvo] : []);
+  var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals);
+  if (hi - lo < hi * 0.02) { lo *= 0.97; hi *= 1.03; }
+  var W = 300, H = 60, pad = 4;
+  var x = function (i) { return pad + i * (W - 2 * pad) / (p.length - 1); };
+  var y = function (v) { return pad + (hi - v) / (hi - lo) * (H - 2 * pad); };
+  var linha = p.map(function (v, i) { return x(i).toFixed(1) + ',' + y(v).toFixed(1); }).join(' ');
+  var area = 'M' + x(0).toFixed(1) + ',' + H + ' L' + linha.replace(/ /g, ' L') + ' L' + x(p.length - 1).toFixed(1) + ',' + H + ' Z';
+  var svg = '<svg class="spark" viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" role="img" aria-label="Histórico do preço">'
+    + '<path class="area" d="' + area + '"/>'
+    + (alvo > 0 ? '<line class="linha-alvo" x1="0" x2="' + W + '" y1="' + y(alvo).toFixed(1) + '" y2="' + y(alvo).toFixed(1) + '" vector-effect="non-scaling-stroke"/>' : '')
+    + '<polyline class="linha-preco" points="' + linha + '" vector-effect="non-scaling-stroke"/></svg>';
+  return svg;
+}
+
+function cartaoAlerta(a, cfg) {
+  var atual = a.precoAtual, alvo = a.precoAlvo;
+  var chips = [];
+  if (a.status === 'aguardando') chips.push('<span class="chip aviso">aguardando ativação</span>');
+  if (a.pausado) chips.push('<span class="chip">pausado</span>');
+  if (a.porNome) chips.push('<span class="chip aviso">estamos procurando o produto</span>');
+  if (a.disponivel === false) chips.push('<span class="chip aviso">sem estoque na última leitura</span>');
+  if (alvo > 0 && atual > 0 && atual <= alvo) chips.push('<span class="chip ok">chegou no seu preço</span>');
+  if (a.avisos && a.avisos.length) chips.push('<span class="chip">' + a.avisos.length + (a.avisos.length === 1 ? ' aviso enviado' : ' avisos enviados') + '</span>');
+
+  var falta = '—', faltaCls = '';
+  if (alvo > 0 && atual > 0) {
+    if (atual <= alvo) { falta = 'Chegou!'; faltaCls = 'ok'; }
+    else falta = brl(atual - alvo) + '<small>' + Math.max(1, Math.round((atual - alvo) / atual * 100)) + '% abaixo de agora</small>';
+  } else if (!(alvo > 0)) falta = cfg.quedaSemAlvoPct + '%<small>de queda para avisar</small>';
+
+  var img = a.imagem ? '<img src="' + esc(a.imagem) + '" alt="" loading="lazy"/>' : '<div class="sem-img"></div>';
+  var nLeit = ((a.serie && a.serie.leituras) || []).length;
+  var rod = [];
+  if (a.lidoEm) rod.push('Última leitura ' + dataHora(a.lidoEm));
+  if (a.criadoEm) rod.push('desde ' + dataCurta(a.criadoEm));
+  if (nLeit) rod.push(nLeit + (nLeit === 1 ? ' leitura' : ' leituras'));
+
+  return '<div class="al">'
+    + '<div class="al-cab">' + img + '<div style="min-width:0"><div class="al-n">' + a.n + ' · ' + esc(a.loja || 'produto') + '</div>'
+    + '<div class="al-titulo">' + esc(a.titulo) + '</div>'
+    + (chips.length ? '<div class="chips">' + chips.join('') + '</div>' : '') + '</div></div>'
+    + '<div class="al-precos">'
+    + '<div><span>Agora</span><b>' + (atual > 0 ? brl(atual) : '—') + '</b></div>'
+    + '<div><span>Seu preço</span><b>' + (alvo > 0 ? brl(alvo) : 'Qualquer<small>queda boa</small>') + '</b></div>'
+    + '<div><span>Falta</span><b class="' + faltaCls + '">' + falta + '</b></div>'
+    + '</div>'
+    + regua(a) + grafico(a)
+    + '<div class="al-rodape"><span>' + esc(rod.join(' · ')) + '</span>'
+    + '<button type="button" class="al-parar" data-id="' + esc(a.id) + '">Parar este alerta</button></div>'
+    + '</div>';
+}
+
+function mostrarLista(r) {
+  $('meus-entrar').classList.add('oculto');
+  $('meus-lista').classList.remove('oculto');
+  $('meus-sair').classList.remove('oculto');
+  var n = (r.alertas || []).length;
+  $('meus-intro').textContent = (r.nome ? 'Oi, ' + r.nome.split(' ')[0] + '! ' : '')
+    + (n ? 'Você acompanha ' + n + (n === 1 ? ' produto' : ' produtos') + ' (máximo ' + r.limite + ').' : 'Você não tem alertas ativos agora.');
+  var cfg = { quedaSemAlvoPct: r.quedaSemAlvoPct || 10 };
+  $('m-itens').innerHTML = n ? r.alertas.map(function (a) { return cartaoAlerta(a, cfg); }).join('')
+    : '<p class="ajuda">Crie um alerta no formulário acima ou cole o link de um produto na conversa com o Tico.</p>';
+}
+
+$('m-itens').addEventListener('click', async function (e) {
+  var b = e.target.closest('.al-parar');
+  if (!b) return;
+  if (!confirm('Parar o alerta deste produto? Você deixa de receber avisos dele.')) return;
+  b.disabled = true; b.textContent = 'Parando…';
+  try {
+    var r = await api('/avisos-preco/consulta/parar', { token: meus.token, id: b.getAttribute('data-id') });
+    if (r.sessao === false) { $('meus-sair').click(); mAlerta('erro', r.erro); return; }
+    if (!r.ok) { alert(r.erro || 'Não deu certo.'); b.disabled = false; b.textContent = 'Parar este alerta'; return; }
+    mostrarLista(r);
+  } catch (err) { alert(err.message); b.disabled = false; b.textContent = 'Parar este alerta'; }
+});
+
+// Sessão aberta nesta aba (30 min no servidor) e número já usado antes.
+(async function () {
+  try { var t = localStorage.getItem('tsp-avisos-tel'); if (t) $('m-tel').value = t; } catch (e) {}
+  var tok = null;
+  try { tok = sessionStorage.getItem('tsp-avisos-sessao'); } catch (e) {}
+  if (!tok) return;
+  try {
+    var r = await api('/avisos-preco/consulta/lista', { token: tok });
+    if (r.ok) { meus.token = tok; mostrarLista(r); }
+    else { try { sessionStorage.removeItem('tsp-avisos-sessao'); } catch (e) {} }
+  } catch (e) {}
 })();
 </script>
 </body>
