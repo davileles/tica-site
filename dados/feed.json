@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-05T19:36:15.666Z",
+  "atualizadoEm": "2026-11-05T19:50:27.857Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41545",
+      "loja": "Shopee",
+      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
+      "link": "https://s.shopee.com.br/5LDFMT7dhi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
+      "preco": 15.9,
+      "precoDe": 23.38,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T19:40:27.855Z"
+    },
     {
       "id": "41541",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-03T21:23:10.395Z"
-    },
-    {
-      "id": "40367",
-      "loja": "Amazon",
-      "titulo": "Shampoo L’Oréal Professionnel Absolut Repair Serie Expert, 1L | Com Proteína e Quinoa Dourada para cabelos danificados e secos",
-      "link": "https://www.amazon.com.br/dp/B0H4RYGBPN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21ze7IjWGnL._SL400_.jpg",
-      "preco": 149,
-      "precoDe": 259.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:21:31.043Z"
     }
   ]
 }
