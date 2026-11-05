@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T19:06:17.779Z",
+  "atualizadoEm": "2026-11-05T19:29:00.105Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -303,15 +303,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "AQUITEMPROMO",
+      "codigo": "HOJECOMCUPOM",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 300,
       "minimo": 2199,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Válido na lista específica de produtos",
-      "validadeAte": "2026-11-05T19:24:02.000Z",
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-06T19:25:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
