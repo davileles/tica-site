@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T18:36:17.832Z",
+  "atualizadoEm": "2026-11-05T19:06:17.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -180,18 +180,6 @@
       "limite": null,
       "observacao": "Desconto válido em restaurantes",
       "validadeAte": "2026-11-06T18:30:31.000Z",
-      "url": null
-    },
-    {
-      "codigo": "ALIVIOBR",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Farmácias",
-      "validadeAte": "2026-11-05T19:02:32.000Z",
       "url": null
     },
     {
@@ -1875,15 +1863,15 @@
       "url": null
     },
     {
-      "codigo": "RANGOUBF",
+      "codigo": "BLACKSAUDE",
       "loja": "Outro: iFood",
       "tipo": "reais",
-      "valor": 15,
+      "valor": 10,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido para restaurante",
-      "validadeAte": "2026-11-05T19:01:58.000Z",
+      "observacao": "Desconto válido para pedidos em Farmácias pelo iFood",
+      "validadeAte": "2026-11-06T19:01:58.000Z",
       "url": null
     },
     {
