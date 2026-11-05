@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-05T12:37:52.439Z",
+  "atualizadoEm": "2026-11-05T13:06:01.518Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41190",
+      "loja": "Amazon",
+      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
+      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
+      "preco": 90.15,
+      "precoDe": 119,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:56:01.515Z"
+    },
+    {
+      "id": "41177",
+      "loja": "Shopee",
+      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
+      "link": "https://s.shopee.com.br/1BiVrXaXK",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
+      "preco": 17.8,
+      "precoDe": 22.82,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:51:59.492Z"
+    },
+    {
+      "id": "41221",
+      "loja": "Amazon",
+      "titulo": "Escrivaninha Trevalla Kuadra ML150 em L Snow",
+      "link": "https://www.amazon.com.br/dp/B089YBW8SB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51rgdyC9yVL._SL400_.jpg",
+      "preco": 332.7,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:49:52.530Z"
+    },
+    {
+      "id": "41217",
+      "loja": "Amazon",
+      "titulo": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades – Dura até 10x Mais – Ideal para Controle de Videogame e Brinquedos",
+      "link": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ECbFP9CDL._SL400_.jpg",
+      "preco": 99.63,
+      "precoDe": 124.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:47:57.905Z"
+    },
+    {
+      "id": "41215",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Bluetooth Jbl Partybox On-the-go Essential",
+      "link": "https://meli.la/2SBNhZy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746151-MLA99548961712_122025-F.jpg",
+      "preco": 1214.1,
+      "precoDe": 2999,
+      "desconto": 55,
+      "cupom": "PROMOSML",
+      "enviadoEm": "2026-11-05T12:45:56.472Z"
+    },
+    {
+      "id": "41214",
+      "loja": "Amazon",
+      "titulo": "Personal Papel Higiênico Vip Folha Tripla Com 12 Rolos De 20M",
+      "link": "https://www.amazon.com.br/dp/B0C4CFDJVJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41SqfwiZkkL._SL400_.jpg",
+      "preco": 12.63,
+      "precoDe": 19.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:43:32.159Z"
+    },
+    {
+      "id": "41212",
+      "loja": "Amazon",
+      "titulo": "Havit Fone de Ouvido Headset Gamer Fuxi-H3 Black Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C",
+      "link": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HSHdfDfxL._SL400_.jpg",
+      "preco": 149.88,
+      "precoDe": 265.45,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:41:27.217Z"
+    },
+    {
+      "id": "41211",
+      "loja": "Amazon",
+      "titulo": "Energy Drink Red Bull 250ml, 4 latas",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51X+QfSrVQL._SL400_.jpg",
+      "preco": 28.62,
+      "precoDe": 41.96,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T12:39:30.994Z"
+    },
     {
       "id": "41210",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-11-03T15:29:36.118Z"
-    },
-    {
-      "id": "40123",
-      "loja": "Shopee",
-      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "link": "https://s.shopee.com.br/1BNcvPflVP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d_tn",
-      "preco": 99.9,
-      "precoDe": 199.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:25:25.432Z"
-    },
-    {
-      "id": "40122",
-      "loja": "Mercado Livre",
-      "titulo": "Mala De Viagem Bordo Mão Pequena 10kg Abs Cadeado 360 - R$ 144,90",
-      "link": "https://meli.la/2bREjbf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_646472-MLB112309948934_062026-P.webp",
-      "preco": 127.51,
-      "precoDe": 349.9,
-      "desconto": 59,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-11-03T15:23:59.079Z"
-    },
-    {
-      "id": "40121",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Organizador De Mala Necessaire Bolsa De Viagem Travel Bag Premium",
-      "link": "https://s.shopee.com.br/8VADempwTz",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repg-m2poj36o1kzt4b_tn",
-      "preco": 23.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:22:22.718Z"
-    },
-    {
-      "id": "40120",
-      "loja": "Amazon",
-      "titulo": "adidas Vibes Power Zone Eau de Parfum para todos, forte e ousado, fragrância de longa duração, oud e néctar de ameixa, 50 ml",
-      "link": "https://www.amazon.com.br/dp/B0FFBKSSGP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qkVE9ijgL._SL400_.jpg",
-      "preco": 59.49,
-      "precoDe": 129,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:19:37.578Z"
-    },
-    {
-      "id": "40119",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Legging Fitness Zero Transparência Cintura Alta Koenig - R$ 29",
-      "link": "https://meli.la/2Rtxvxa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_694011-MLB95881582766_102025-P.webp",
-      "preco": 20.3,
-      "precoDe": 59.9,
-      "desconto": 52,
-      "cupom": "PARAVC",
-      "enviadoEm": "2026-11-03T15:17:59.842Z"
-    },
-    {
-      "id": "40118",
-      "loja": "Amazon",
-      "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
-      "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415LptFnx-L._SL400_.jpg",
-      "preco": 22.9,
-      "precoDe": 32.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:16:34.955Z"
-    },
-    {
-      "id": "40116",
-      "loja": "Shopee",
-      "titulo": "Cafe Graos Torra Media Gourmet Café Italle 1kg",
-      "link": "https://s.shopee.com.br/1W0TJ1CoU4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmmbeg9bwuf61_tn",
-      "preco": 64.9,
-      "precoDe": 99.85,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:09:32.739Z"
-    },
-    {
-      "id": "40113",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
-      "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51IA1iUma3L._SL400_.jpg",
-      "preco": 28.9,
-      "precoDe": 48.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:08:06.161Z"
     }
   ]
 }
