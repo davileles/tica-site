@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T14:12:40.050Z",
+  "atualizadoEm": "2026-11-05T14:42:05.062Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -312,18 +312,6 @@
       "limite": null,
       "observacao": "Cupom requer envio de ID do item via WhatsApp da Magalu",
       "validadeAte": "2026-11-05T22:27:07.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMBLACKINFLU",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": "Válido em compras até R$ 1000",
-      "validadeAte": "2026-11-05T14:31:29.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1847,7 +1835,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-11-06T12:00:15.000Z",
+      "validadeAte": "2026-11-06T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1859,7 +1847,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": "Válido para todo o site",
-      "validadeAte": "2026-11-06T12:01:03.000Z",
+      "validadeAte": "2026-11-06T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
