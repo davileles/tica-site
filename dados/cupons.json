@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T17:18:30.871Z",
+  "atualizadoEm": "2026-11-05T18:07:17.584Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -336,6 +336,18 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-06T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECOR0511",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-06T18:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1707,30 +1719,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "15MODA0411",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-05T18:05:53.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPER0411",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-05T18:05:53.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SUPERMERCADO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1776,18 +1764,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-06T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOM0411",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 70,
-      "observacao": null,
-      "validadeAte": "2026-11-05T18:05:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1873,18 +1849,6 @@
       "observacao": "Desconto aplicável em produtos Nike na Centauro",
       "validadeAte": "2026-11-06T11:53:53.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
-    },
-    {
-      "codigo": "COMPROUBF",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido em compras no Mercado pelo iFood",
-      "validadeAte": "2026-11-05T18:00:18.000Z",
-      "url": null
     },
     {
       "codigo": "RANGOUBF",
