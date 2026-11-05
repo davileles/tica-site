@@ -503,7 +503,7 @@ $('lnk-nome').addEventListener('click', function () {
 function desenharProduto(d) {
   var p = d.produto;
   var img = p.imagem ? '<img src="' + esc(p.imagem) + '" alt="" loading="lazy" referrerpolicy="no-referrer"/>' : '<div class="sem-img"></div>';
-  var preco = p.preco ? brl(p.preco) + '<small>preço de agora</small>' : '<small>preço indisponível agora — vamos acompanhar</small>';
+  var preco = p.preco ? brl(p.preco) + '<small>preço de agora</small>' : '<small>Ainda não conseguimos ler o preço deste anúncio, mas vamos acompanhar. Olhe o preço na loja e diga quanto quer pagar.</small>';
   $('produto-card').innerHTML = img + '<div class="produto-info"><div class="produto-loja">' + esc(p.loja) + '</div>'
     + '<div class="produto-titulo">' + esc(p.titulo || 'Produto') + '</div><div class="produto-preco">' + preco + '</div></div>';
 
