@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-05T14:49:44.390Z",
+  "atualizadoEm": "2026-11-05T15:08:06.081Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41316",
+      "loja": "Amazon",
+      "titulo": "Calamares Vinho Verde Português Rosé 750Ml",
+      "link": "https://www.amazon.com.br/dp/B0BTDMP937?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SQpoT1TqL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 49.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T15:06:42.675Z"
+    },
+    {
+      "id": "41315",
+      "loja": "Amazon",
+      "titulo": "Morte Súbita Máscara Super Hidratante 450g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/dp/B074LTNQBP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NioiYkd7L._SL400_.jpg",
+      "preco": 27.52,
+      "precoDe": 64.9,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T15:06:04.536Z"
+    },
+    {
+      "id": "41312",
+      "loja": "Amazon",
+      "titulo": "Burigotto Cadeira De Refeição Poke Verde",
+      "link": "https://www.amazon.com.br/dp/B09LRFXDL9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HCsYEJ9DL._SL400_.jpg",
+      "preco": 171,
+      "precoDe": 345,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T14:57:55.435Z"
+    },
+    {
+      "id": "41310",
+      "loja": "Amazon",
+      "titulo": "Tampa para Garrafa de Vinho Mimo Style, Alumínio, Design Afunilado, Rolha Seladora a Vácuo, Reutilizável, Prata",
+      "link": "https://www.amazon.com.br/dp/B0BSLT7NV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31aCvlH7g8L._SL400_.jpg",
+      "preco": 9.93,
+      "precoDe": 29.9,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T14:53:24.654Z"
+    },
+    {
+      "id": "41309",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Árabe Lattafa Fakhar Gold Extrait Unissex",
+      "link": "https://meli.la/1NBkAVY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979781-MLA118361877452_102026-F.jpg",
+      "preco": 135.94,
+      "precoDe": 269,
+      "desconto": 44,
+      "cupom": "DESCONTOSESPECIAIS",
+      "enviadoEm": "2026-11-05T14:52:51.431Z"
+    },
+    {
+      "id": "41308",
+      "loja": "Shopee",
+      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
+      "link": "https://s.shopee.com.br/5q9VYLChr9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
+      "preco": 17.97,
+      "precoDe": 42.79,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T14:51:07.432Z"
+    },
     {
       "id": "41307",
       "loja": "Amazon",
@@ -49,18 +121,6 @@
       "desconto": 30,
       "cupom": "PROMOSML",
       "enviadoEm": "2026-11-05T14:31:52.093Z"
-    },
-    {
-      "id": "41302",
-      "loja": "Shopee",
-      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
-      "link": "https://s.shopee.com.br/5q9VYLChr9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
-      "preco": 17.97,
-      "precoDe": 42.79,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T14:30:56.931Z"
     },
     {
       "id": "41297",
@@ -5941,66 +6001,6 @@
       "desconto": 13,
       "cupom": "VOLTESEMPRE",
       "enviadoEm": "2026-11-03T16:33:08.331Z"
-    },
-    {
-      "id": "40193",
-      "loja": "Amazon",
-      "titulo": "Fórmula Infantil Nanlac 800G",
-      "link": "https://www.amazon.com.br/dp/B09K2Y4BFC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QKK1ctdsL._SL400_.jpg",
-      "preco": 85.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:31:34.324Z"
-    },
-    {
-      "id": "40192",
-      "loja": "Amazon",
-      "titulo": "Fórmula Infantil Piracanjuba Plura de 1 a 3 anos, 800g",
-      "link": "https://www.amazon.com.br/dp/B0GFGW45LX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51fuFO5+dfL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:31:03.740Z"
-    },
-    {
-      "id": "40185",
-      "loja": "Amazon",
-      "titulo": "Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - Stelatopi",
-      "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31aA2QcZiZL._SL400_.jpg",
-      "preco": 121.4,
-      "precoDe": 134.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:28:49.928Z"
-    },
-    {
-      "id": "40184",
-      "loja": "Amazon",
-      "titulo": "Amaciante Ypê Ultra Aconchego 5L",
-      "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41oPg-57k+L._SL400_.jpg",
-      "preco": 17.28,
-      "precoDe": 29.26,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:28:18.267Z"
-    },
-    {
-      "id": "40176",
-      "loja": "Mercado Livre",
-      "titulo": "LEGO® Duplo® Disney Mickey Mouse Casa de Minnie e Plutão 10465",
-      "link": "https://meli.la/32w5Scm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703111-MLA107243706355_022026-F.jpg",
-      "preco": 264.86,
-      "precoDe": 399.99,
-      "desconto": 24,
-      "cupom": "TIENDAS0311",
-      "enviadoEm": "2026-11-03T16:26:57.982Z"
     }
   ]
 }
