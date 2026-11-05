@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-05T13:06:01.518Z",
+  "atualizadoEm": "2026-11-05T13:07:52.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41240",
+      "loja": "Amazon",
+      "titulo": "Personal Baby Premium Protection P 24 unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FLPXG7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nwADgflIL._SL400_.jpg",
+      "preco": 20.24,
+      "precoDe": 33.2,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T13:07:07.370Z"
+    },
+    {
+      "id": "41236",
+      "loja": "Mercado Livre",
+      "titulo": "Reparador Oil Reflections 100ml - Wella",
+      "link": "https://meli.la/2bhnNpF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817412-MLA99844697407_112025-F.jpg",
+      "preco": 73.8,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTOSESPECIAIS",
+      "enviadoEm": "2026-11-05T13:06:35.522Z"
+    },
     {
       "id": "41190",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-03T15:33:24.066Z"
-    },
-    {
-      "id": "40127",
-      "loja": "Amazon",
-      "titulo": "Elite Gourmet ERC006SS Panela de arroz elétrica de 6 xícaras com panela interna de aço inoxidável de grau cirúrgico 304, faz sopas, ensopados, papas, grãos e cereais, 6 xícaras (3 ",
-      "link": "https://www.amazon.com.br/dp/B0BT61CVHM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NN9iLIpAL._SL400_.jpg",
-      "preco": 136.55,
-      "precoDe": 344.34,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:31:36.709Z"
-    },
-    {
-      "id": "40126",
-      "loja": "Amazon",
-      "titulo": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E+tvOEf4L._SL400_.jpg",
-      "preco": 14.98,
-      "precoDe": 45.56,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:29:36.118Z"
     }
   ]
 }
