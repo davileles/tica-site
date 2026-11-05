@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T22:36:18.108Z",
+  "atualizadoEm": "2026-11-05T23:06:18.111Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1825,6 +1825,18 @@
       "observacao": "Desconto aplicável em produtos Nike na Centauro",
       "validadeAte": "2026-11-06T11:53:53.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
+    },
+    {
+      "codigo": "SEARAOUT26",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 50,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas com adição de produto SEARA no pedido",
+      "validadeAte": "2026-11-06T22:45:16.000Z",
+      "url": null
     },
     {
       "codigo": "BLACKLEVA",
