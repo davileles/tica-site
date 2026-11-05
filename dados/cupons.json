@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T18:07:17.584Z",
+  "atualizadoEm": "2026-11-05T18:36:17.832Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -169,6 +169,18 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
+    },
+    {
+      "codigo": "FOODBLACK",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido em restaurantes",
+      "validadeAte": "2026-11-06T18:30:31.000Z",
+      "url": null
     },
     {
       "codigo": "ALIVIOBR",
@@ -1849,6 +1861,18 @@
       "observacao": "Desconto aplicável em produtos Nike na Centauro",
       "validadeAte": "2026-11-06T11:53:53.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
+    },
+    {
+      "codigo": "BLACKLEVA",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$20 em pedidos do Mercado",
+      "validadeAte": "2026-11-06T18:07:34.000Z",
+      "url": null
     },
     {
       "codigo": "RANGOUBF",
