@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-05T14:29:35.082Z",
+  "atualizadoEm": "2026-11-05T14:42:02.856Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41305",
+      "loja": "Mercado Livre",
+      "titulo": "Arvore Natal 1,5 Metros 600 Galhos Volumosa Pinheiro Natalino Verde Base de Metal Reforçada e Resistente",
+      "link": "https://meli.la/2cNpy9j",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945678-MLA116324324380_092026-F.jpg",
+      "preco": 99.92,
+      "precoDe": 209.9,
+      "desconto": 40,
+      "cupom": "CASAAQUI",
+      "enviadoEm": "2026-11-05T14:39:16.792Z"
+    },
+    {
+      "id": "41304",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Hi Wall Philco 18000 Btus/h Quente E F",
+      "link": "https://meli.la/1rBYqvd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676873-MLA85154410822_052025-F.jpg",
+      "preco": 2022.16,
+      "precoDe": 3198,
+      "desconto": 37,
+      "cupom": "CLIENTESTOP",
+      "enviadoEm": "2026-11-05T14:33:48.579Z"
+    },
+    {
+      "id": "41303",
+      "loja": "Mercado Livre",
+      "titulo": "Freezer Horizontal Electrolux 95L Inverter Bivolt Uma Porta Branco (HB100) Bivolt",
+      "link": "https://meli.la/1fBjVw3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_898583-MLA110271497884_052026-F.jpg",
+      "preco": 1113.3,
+      "precoDe": 1759,
+      "desconto": 30,
+      "cupom": "PROMOSML",
+      "enviadoEm": "2026-11-05T14:31:52.093Z"
+    },
+    {
+      "id": "41302",
+      "loja": "Shopee",
+      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
+      "link": "https://s.shopee.com.br/5q9VYLChr9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
+      "preco": 17.97,
+      "precoDe": 42.79,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T14:30:56.931Z"
+    },
     {
       "id": "41301",
       "loja": "Amazon",
@@ -193,18 +241,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-05T13:36:37.171Z"
-    },
-    {
-      "id": "41259",
-      "loja": "Shopee",
-      "titulo": "Caneleira Tornozeleira de Peso UNIDADE de 500G 1KG 2KG 3KG 4KG 5KG Preta Rosa Exercício Musculação Fisioterapia Academia",
-      "link": "https://s.shopee.com.br/5q9VYLChr9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2kklpwdfk75c_tn",
-      "preco": 17.97,
-      "precoDe": 42.79,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T13:35:53.093Z"
     },
     {
       "id": "41258",
@@ -5965,42 +6001,6 @@
       "desconto": 24,
       "cupom": "TIENDAS0311",
       "enviadoEm": "2026-11-03T16:26:57.982Z"
-    },
-    {
-      "id": "40175",
-      "loja": "Amazon",
-      "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen",
-      "link": "https://www.amazon.com.br/dp/B0FDCLCBZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41F9wQaldHL._SL400_.jpg",
-      "preco": 19.89,
-      "precoDe": 26.39,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:26:27.720Z"
-    },
-    {
-      "id": "40173",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
-      "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RinA21hsL._SL400_.jpg",
-      "preco": 122,
-      "precoDe": 175.49,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:25:01.035Z"
-    },
-    {
-      "id": "40172",
-      "loja": "Amazon",
-      "titulo": "Whisky Old Parr 12 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
-      "preco": 79.99,
-      "precoDe": 126.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:24:32.132Z"
     }
   ]
 }
