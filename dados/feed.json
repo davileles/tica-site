@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-05T22:36:15.669Z",
+  "atualizadoEm": "2026-11-05T23:06:15.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41666",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 48,
+      "precoDe": 55.84,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:56:37.121Z"
+    },
+    {
+      "id": "41664",
+      "loja": "Shopee",
+      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
+      "link": "https://s.shopee.com.br/2LZe0M09yg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
+      "preco": 118.95,
+      "precoDe": 158.6,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:55:36.314Z"
+    },
+    {
+      "id": "41659",
+      "loja": "Shopee",
+      "titulo": "iPhone 18 Pro Max Apple 256GB, Câmera Tripla Fusion de 48MP, Chip A20 Pro, Tela 6.3\" Super Retina XDR, Preto",
+      "link": "https://s.shopee.com.br/3qORmRJs1k",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82597-muay5hv3b5l6ad_tn",
+      "preco": 10138.12,
+      "precoDe": 10671.71,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:48:00.716Z"
+    },
+    {
+      "id": "41657",
+      "loja": "Amazon",
+      "titulo": "Whisky Dewars 12 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B07GF2Q1VZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41h49JcTfWL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 139.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:43:23.640Z"
+    },
+    {
+      "id": "41656",
+      "loja": "Amazon",
+      "titulo": "Whisky Singleton Of Dufftown 12 Anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07WSHYVQ8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31nNbZLjvXL._SL400_.jpg",
+      "preco": 138.99,
+      "precoDe": 267.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:38:38.075Z"
+    },
+    {
+      "id": "41655",
+      "loja": "Amazon",
+      "titulo": "Cerveja De Trigo Paulaner Weissbier Original 500ml (12 Und)",
+      "link": "https://www.amazon.com.br/dp/B0F7TBM1J6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51GdKCo3VDL._SL400_.jpg",
+      "preco": 234.88,
+      "precoDe": 379.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T22:36:23.479Z"
+    },
     {
       "id": "41654",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-11-04T01:55:18.511Z"
-    },
-    {
-      "id": "40451",
-      "loja": "Shopee",
-      "titulo": "Mesa Flor Infantil Decoração Madeira Quarto Sala Desmontável",
-      "link": "https://s.shopee.com.br/80DxkhS5rY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqouhs2ukvsy8d_tn",
-      "preco": 188.91,
-      "precoDe": 209.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T01:46:09.715Z"
-    },
-    {
-      "id": "40450",
-      "loja": "Amazon",
-      "titulo": "Pantene Pro-V Óleo Capilar Queratina Milagroso Finalizador Leave-in 95 ml",
-      "link": "https://www.amazon.com.br/dp/B0CVXT2K1S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312AOb4lXVL._SL400_.jpg",
-      "preco": 17.61,
-      "precoDe": 38.95,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T00:51:08.232Z"
-    },
-    {
-      "id": "40449",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 109.9,
-      "precoDe": 157.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T00:41:36.726Z"
-    },
-    {
-      "id": "40448",
-      "loja": "Amazon",
-      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
-      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
-      "preco": 33.9,
-      "precoDe": 35.94,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T00:32:11.932Z"
-    },
-    {
-      "id": "40447",
-      "loja": "Amazon",
-      "titulo": "Cerveja Corona, Lata 269ml, Pack com 8 unidades",
-      "link": "https://www.amazon.com.br/dp/B0F3XRNDMK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ETw4fyieL._SL400_.jpg",
-      "preco": 30.32,
-      "precoDe": 39.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T00:23:33.902Z"
-    },
-    {
-      "id": "40444",
-      "loja": "Amazon",
-      "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml | Aroma Aloe Vera",
-      "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SaIZLexVL._SL400_.jpg",
-      "preco": 20.78,
-      "precoDe": 47.99,
-      "desconto": 57,
-      "cupom": "IMPERDIVEL20",
-      "enviadoEm": "2026-11-03T23:40:14.093Z"
     }
   ]
 }
