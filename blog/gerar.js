@@ -50,8 +50,11 @@ function cabecalho(ativo) {
       <span class="marca-txt"><b>TICA <em>PROMOS</em></b><small>O Tico tica ✔️</small></span>
     </a>
     <div class="topo-acoes">
-      <a class="lnk-topo" href="/">Ofertas</a>
-      <a class="lnk-topo" href="/blog/"${ativo === 'blog' ? ' aria-current="page"' : ''}>Blog</a>
+      <nav class="topo-links" aria-label="Seções">
+        <a class="lnk-topo" href="/">Ofertas</a>
+        <a class="lnk-topo" href="/blog/"${ativo === 'blog' ? ' aria-current="page"' : ''}>Blog</a>
+        <a class="lnk-topo" href="/avisos/">Alerta de preço</a>
+      </nav>
       <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
       <a class="btn-grupo" href="${GRUPO}" target="_blank" rel="noopener">Entrar no grupo</a>
     </div>

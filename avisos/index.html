@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>Avisos de preço — Tica Promos</title>
+<title>Alerta de preço — Tica Promos</title>
 <link rel="canonical" href="https://ticapromos.com.br/avisos/"/>
 <meta name="description" content="Diga qual produto você quer comprar e o preço que espera pagar. O Tico acompanha e te avisa no WhatsApp quando o preço cair."/>
 <meta name="theme-color" content="#ffffff"/>
-<meta property="og:title" content="Avisos de preço — Tica Promos"/>
+<meta property="og:title" content="Alerta de preço — Tica Promos"/>
 <meta property="og:description" content="O Tico acompanha o preço do produto que você quer e te avisa no WhatsApp quando cair."/>
 <meta property="og:type" content="website"/>
 <meta property="og:image" content="https://ticapromos.com.br/tico-ancora.png"/>
@@ -51,8 +51,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .marca b{font-size:15px;font-weight:900;letter-spacing:-.4px}
 .marca b em{font-style:normal;color:var(--tinta)}
 .marca small{font-size:9px;font-weight:700;letter-spacing:2.2px;color:var(--muted-2);text-transform:uppercase;margin-top:4px}
-.topo-acoes{display:flex;align-items:center;gap:6px}
-.lnk-topo{font-size:12px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);padding:9px 10px;border-radius:999px;text-decoration:none}
+.topo-acoes{display:flex;align-items:center;gap:8px}
+.lnk-topo{font-size:12px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--muted);padding:9px 12px;border-radius:999px;text-decoration:none}
 .lnk-topo:hover,.lnk-topo[aria-current="page"]{color:var(--text);background:var(--surface-2)}
 .btn-tema{width:36px;height:36px;border-radius:50%;border:1px solid var(--border);display:grid;place-items:center;font-size:14px}
 
@@ -137,7 +137,24 @@ input:focus{border-color:var(--tinta)}
 
 .rodape{border-top:1px solid var(--border);margin-top:32px;padding:22px 0 40px;font-size:12px;color:var(--muted)}
 .rodape a{color:var(--tinta);font-weight:700;text-decoration:none}
-@media (max-width:420px){.lnk-topo.opc{display:none}.cartao{padding:16px}}
+@media (max-width:420px){.cartao{padding:16px}}
+.btn-tema:hover{border-color:var(--border-forte);background:var(--surface-2)}
+.btn-grupo{background:var(--accent);color:#fff;font-size:12px;font-weight:800;padding:11px 18px;border-radius:999px;
+  white-space:nowrap;text-decoration:none;transition:background .15s,transform .15s;display:inline-block}
+.btn-grupo:hover{background:var(--accent-hover);transform:translateY(-1px)}
+
+/* Cabeçalho padrão (igual em Ofertas, Blog e Alerta de preço). No celular os
+   links descem para uma segunda linha; marca, tema e grupo ficam na primeira. */
+.topo-links{display:flex;align-items:center;gap:2px}
+@media (max-width:640px){
+  .topo-in{flex-wrap:wrap;height:auto;column-gap:8px;row-gap:0;padding-top:8px}
+  .topo-acoes{display:contents}
+  .marca{margin-right:auto}
+  .topo-links{order:3;flex-basis:100%;justify-content:center;gap:4px;
+    margin-top:8px;padding:4px 0;border-top:1px solid var(--border)}
+  .lnk-topo{padding:7px 10px;font-size:11px}
+  .btn-grupo{padding:10px 14px;font-size:11px}
+}
 </style>
 </head>
 <body>
@@ -149,9 +166,13 @@ input:focus{border-color:var(--tinta)}
       <span class="marca-txt"><b>TICA <em>PROMOS</em></b><small>O Tico tica ✔️</small></span>
     </a>
     <div class="topo-acoes">
-      <a class="lnk-topo opc" href="/">Ofertas</a>
-      <a class="lnk-topo" href="/avisos/" aria-current="page">Avisos</a>
+      <nav class="topo-links" aria-label="Seções">
+        <a class="lnk-topo" href="/">Ofertas</a>
+        <a class="lnk-topo" href="/blog/">Blog</a>
+        <a class="lnk-topo" href="/avisos/" aria-current="page">Alerta de preço</a>
+      </nav>
       <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
+      <a class="btn-grupo" href="https://ir.ticapromos.com.br/geral?o=avisos" target="_blank" rel="noopener">Entrar no grupo</a>
     </div>
   </div>
 </header>

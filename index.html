@@ -260,6 +260,19 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   *{animation:none !important;transition:none !important}
   html{scroll-behavior:auto}
 }
+
+/* Cabeçalho padrão (igual em Ofertas, Blog e Alerta de preço). No celular os
+   links descem para uma segunda linha; marca, tema e grupo ficam na primeira. */
+.topo-links{display:flex;align-items:center;gap:2px}
+@media (max-width:640px){
+  .topo-in{flex-wrap:wrap;height:auto;column-gap:8px;row-gap:0;padding-top:8px}
+  .topo-acoes{display:contents}
+  .marca{margin-right:auto}
+  .topo-links{order:3;flex-basis:100%;justify-content:center;gap:4px;
+    margin-top:8px;padding:4px 0;border-top:1px solid var(--border)}
+  .lnk-topo{padding:7px 10px;font-size:11px}
+  .btn-grupo{padding:10px 14px;font-size:11px}
+}
 </style>
 </head>
 <body>
@@ -274,9 +287,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       </span>
     </a>
     <div class="topo-acoes">
-      <a class="lnk-topo" href="/" aria-current="page">Ofertas</a>
-      <a class="lnk-topo" href="/blog/">Blog</a>
-      <a class="lnk-topo" href="/avisos/">Avisos</a>
+      <nav class="topo-links" aria-label="Seções">
+        <a class="lnk-topo" href="/" aria-current="page">Ofertas</a>
+        <a class="lnk-topo" href="/blog/">Blog</a>
+        <a class="lnk-topo" href="/avisos/">Alerta de preço</a>
+      </nav>
       <button class="btn-tema" id="btn-tema" aria-label="Alternar tema" title="Alternar tema">🌙</button>
       <a class="btn-grupo" id="cta-topo" href="https://ir.ticapromos.com.br/geral" target="_blank" rel="noopener">Entrar no grupo</a>
     </div>
@@ -332,7 +347,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <br/>
       <a href="https://ir.ticapromos.com.br/geral" target="_blank" rel="noopener">Entrar no grupo do WhatsApp</a>
       · <a href="/blog/">Blog: um produto por dia, explicado</a>
-      · <a href="/avisos/">Avisos de preço no seu WhatsApp</a>
+      · <a href="/avisos/">Alerta de preço no seu WhatsApp</a>
     </p>
     <div class="assina">Tica Promos · o Tico tica ✔️</div>
   </div>

@@ -130,3 +130,16 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .artigo p{font-size:14.5px}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none !important;transition:none !important}html{scroll-behavior:auto}}
+
+/* Cabeçalho padrão (igual em Ofertas, Blog e Alerta de preço). No celular os
+   links descem para uma segunda linha; marca, tema e grupo ficam na primeira. */
+.topo-links{display:flex;align-items:center;gap:2px}
+@media (max-width:640px){
+  .topo-in{flex-wrap:wrap;height:auto;column-gap:8px;row-gap:0;padding-top:8px}
+  .topo-acoes{display:contents}
+  .marca{margin-right:auto}
+  .topo-links{order:3;flex-basis:100%;justify-content:center;gap:4px;
+    margin-top:8px;padding:4px 0;border-top:1px solid var(--border)}
+  .lnk-topo{padding:7px 10px;font-size:11px}
+  .btn-grupo{padding:10px 14px;font-size:11px}
+}
