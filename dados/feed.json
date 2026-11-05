@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-05T15:25:06.620Z",
+  "atualizadoEm": "2026-11-05T15:35:39.883Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41346",
+      "loja": "Amazon",
+      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
+      "preco": 20.91,
+      "precoDe": 24.99,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T15:32:51.166Z"
+    },
+    {
+      "id": "41345",
+      "loja": "Amazon",
+      "titulo": "Mondelez Bis Branco 100 8G",
+      "link": "https://www.amazon.com.br/dp/B0C842JL5V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418aZbcTzwL._SL400_.jpg",
+      "preco": 5.99,
+      "precoDe": 8.49,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T15:32:13.858Z"
+    },
+    {
+      "id": "41344",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Rabanne Pure XS Eau de Parfum 50 ml feminino",
+      "link": "https://meli.la/1W7i1K1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968535-MLA94548490888_102025-F.jpg",
+      "preco": 298.08,
+      "precoDe": 637.9,
+      "desconto": 47,
+      "cupom": "OFICIAIS0511",
+      "enviadoEm": "2026-11-05T15:30:36.238Z"
+    },
+    {
+      "id": "41342",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+      "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kCDw3B6+L._SL400_.jpg",
+      "preco": 370.64,
+      "precoDe": 463.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T15:26:57.576Z"
+    },
     {
       "id": "41340",
       "loja": "Amazon",
@@ -277,18 +325,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-05T14:04:36.725Z"
-    },
-    {
-      "id": "41278",
-      "loja": "Amazon",
-      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
-      "preco": 20.91,
-      "precoDe": 24.99,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T13:58:13.763Z"
     },
     {
       "id": "41274",
@@ -5439,18 +5475,6 @@
       "enviadoEm": "2026-11-03T20:05:30.675Z"
     },
     {
-      "id": "40304",
-      "loja": "Amazon",
-      "titulo": "Mondelez Bis Branco 100 8G",
-      "link": "https://www.amazon.com.br/dp/B0C842JL5V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418aZbcTzwL._SL400_.jpg",
-      "preco": 5.99,
-      "precoDe": 8.49,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T19:57:15.528Z"
-    },
-    {
       "id": "40302",
       "loja": "Shopee",
       "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
@@ -5977,30 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-03T16:39:03.398Z"
-    },
-    {
-      "id": "40202",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies, Tamanho XG, 140 Unidades | Tecnologia Xtra-Flex, Canais em X Adaptáveis aos Movimentos, Máxima Proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 229.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:38:34.289Z"
-    },
-    {
-      "id": "40201",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Tamanho G, 160 Unidades | Aberta, Tecnologia Xtra-Flex, Canais em X que se adaptam aos movimentos",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 229.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:38:04.031Z"
     }
   ]
 }
