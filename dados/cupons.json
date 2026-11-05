@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-05T15:25:08.686Z",
+  "atualizadoEm": "2026-11-05T15:35:41.906Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "RELAMPAGO20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para produtos selecionados conforme link fornecido",
-      "validadeAte": "2026-11-05T15:33:58.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "BF20OFF",
       "loja": "Amazon",
