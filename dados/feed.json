@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-04T23:40:25.326Z",
+  "atualizadoEm": "2026-11-05T11:07:52.439Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41101",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+      "link": "https://s.shopee.com.br/3qOR06C7hF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mudmdk4tvwn563_tn",
+      "preco": 18.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T11:06:54.860Z"
+    },
+    {
+      "id": "41102",
+      "loja": "Shopee",
+      "titulo": "Potes de Vidro redondo 200/300/550/1200/1500/1700/2000ml Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
+      "link": "https://s.shopee.com.br/50aOOF7gKa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
+      "preco": 12.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T11:05:06.671Z"
+    },
+    {
+      "id": "41106",
+      "loja": "Amazon",
+      "titulo": "Fraldas Babysec Premium Galinha Pintadinha Flexi Protect, 24 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51d5ZkOlzrL._SL400_.jpg",
+      "preco": 25.61,
+      "precoDe": 40.13,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T11:02:47.791Z"
+    },
+    {
+      "id": "41103",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
+      "preco": 49.46,
+      "precoDe": 101.58,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T11:02:18.261Z"
+    },
+    {
+      "id": "41100",
+      "loja": "Amazon",
+      "titulo": "AR CONDICIONADO SPLIT INVERTER HISENSE R-32 HI-WALL 12.000 BTUS QUENTE E FRIO WI-FI 220V",
+      "link": "https://www.amazon.com.br/dp/B0G4RXX4NC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uS8caFGxL._SL400_.jpg",
+      "preco": 1899.9,
+      "precoDe": 1999.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T11:01:43.823Z"
+    },
     {
       "id": "41079",
       "loja": "Amazon",
@@ -5007,18 +5067,6 @@
       "enviadoEm": "2026-11-03T16:57:49.696Z"
     },
     {
-      "id": "40215",
-      "loja": "Amazon",
-      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
-      "preco": 49.46,
-      "precoDe": 101.58,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T16:57:20.786Z"
-    },
-    {
       "id": "40214",
       "loja": "Amazon",
       "titulo": "Fraldas Descartáveis Babysec Ultrasec, Tamanho M, 72 Unidades | Galinha Pintadinha, 5 - 9, 5 Kg, Azul",
@@ -5953,54 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-03T14:19:21.659Z"
-    },
-    {
-      "id": "40051",
-      "loja": "Shopee",
-      "titulo": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
-      "link": "https://s.shopee.com.br/1BfR0QwuI",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf_tn",
-      "preco": 12.72,
-      "precoDe": 31.8,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T14:17:46.394Z"
-    },
-    {
-      "id": "40063",
-      "loja": "Shopee",
-      "titulo": "Cama Box Baú Casal Suede SerenePrime Bege 138x188x44",
-      "link": "https://s.shopee.com.br/1gJtRch4tP?sub_id1=22698856100",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mr9f7ar2qscl09_tn",
-      "preco": 459.99,
-      "precoDe": 613.32,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T14:16:16.497Z"
-    },
-    {
-      "id": "40052",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/5VWbvzMqkW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 81.99,
-      "precoDe": 136.65,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T14:14:47.784Z"
-    },
-    {
-      "id": "40060",
-      "loja": "Amazon",
-      "titulo": "NINHO Cremosinho Sabor Shake de Morango e Banana 180ml - 27 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0H9ZLD42J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/511k+ekreiL._SL400_.jpg",
-      "preco": 62.9,
-      "precoDe": 91.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T14:13:12.462Z"
     }
   ]
 }
