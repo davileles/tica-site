@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-05T19:28:57.841Z",
+  "atualizadoEm": "2026-11-05T19:36:15.666Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41541",
+      "loja": "Amazon",
+      "titulo": "Sebastian Professional, Dark Oil, Máscara de nutrição, brilho e maciez para todos os tipos de cabelo, 500ml",
+      "link": "https://www.amazon.com.br/dp/B07TDRCBCH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HsVz-BNfL._SL400_.jpg",
+      "preco": 229,
+      "precoDe": 360.67,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T19:36:07.254Z"
+    },
+    {
+      "id": "41540",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut 750ml",
+      "link": "https://www.amazon.com.br/dp/B0F6B9J986?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NnJstSriL._SL400_.jpg",
+      "preco": 64.96,
+      "precoDe": 117.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T19:31:44.764Z"
+    },
+    {
+      "id": "41539",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Inverter Philco Pac12qg 12000 Btus Qf Blanco",
+      "link": "https://meli.la/1ojj4tY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_679113-MLA110242366996_052026-F.jpg",
+      "preco": 1713.6,
+      "precoDe": 2319,
+      "desconto": 18,
+      "cupom": "CLIENTESTOP",
+      "enviadoEm": "2026-11-05T19:31:13.851Z"
+    },
     {
       "id": "41534",
       "loja": "Shopee",
@@ -1285,18 +1321,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-11-05T13:55:55.206Z"
-    },
-    {
-      "id": "41272",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut 750ml",
-      "link": "https://www.amazon.com.br/dp/B0F6B9J986?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31NnJstSriL._SL400_.jpg",
-      "preco": 64.96,
-      "precoDe": 117.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T13:53:48.493Z"
     },
     {
       "id": "41270",
@@ -5977,30 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-11-03T21:21:31.043Z"
-    },
-    {
-      "id": "40366",
-      "loja": "Amazon",
-      "titulo": "OralGos Escova de Dente Adulto Macia 6 Unidades | Cerdas Densas, Tampa de Proteção, Cabo Confortável, Embalagem Individual, Cores Variadas",
-      "link": "https://www.amazon.com.br/dp/B0G6SNPKF2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sPFLTU8KL._SL400_.jpg",
-      "preco": 34.8,
-      "precoDe": 49.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:17:00.554Z"
-    },
-    {
-      "id": "40364",
-      "loja": "Amazon",
-      "titulo": "Paçoquinha Zero Açúcar DaColônia, 18g, Pote com 32 Unidades | Paçoca Zero Açucar",
-      "link": "https://www.amazon.com.br/dp/B09DP75V7W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GVYO3w2VL._SL400_.jpg",
-      "preco": 28.66,
-      "precoDe": 36.67,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:09:05.329Z"
     }
   ]
 }
