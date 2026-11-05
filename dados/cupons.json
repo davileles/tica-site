@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T15:08:07.809Z",
+  "atualizadoEm": "2026-11-05T15:25:08.686Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1707,6 +1707,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-06T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "15MODA0411",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1849,6 +1861,18 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
+    },
+    {
+      "codigo": "11DO11",
+      "loja": "Outro: C&A",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom de 35% OFF na finalização. Há também promoção de até 50% OFF em lista, mas sem código específico informado.",
+      "validadeAte": "2026-11-06T15:18:05.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
       "codigo": "NIKE30",
