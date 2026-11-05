@@ -36,7 +36,7 @@
   --tinta:#fa5150;--ok:#5fd39a;--ok-bg:#16301f;--aviso:#f5c35b;--aviso-bg:#33280f;
   --text:#f5f6fa;--muted:#9ba1b4;--muted-2:#767d93;--sombra:none;--sombra-alta:none;--topo-bg:rgba(18,20,28,.92);
 }
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;scrollbar-gutter:stable}
 body{background:var(--bg);color:var(--text);font-family:var(--font);font-weight:500;line-height:1.5;min-height:100vh;-webkit-font-smoothing:antialiased}
 a{color:inherit}
 button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
@@ -45,6 +45,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 
 .topo{position:sticky;top:0;z-index:50;background:var(--topo-bg);backdrop-filter:blur(10px);border-bottom:1px solid var(--border)}
 .topo-in{display:flex;align-items:center;justify-content:space-between;gap:12px;height:60px;max-width:1160px}
+.topo .wrap{padding-left:18px;padding-right:18px}
 .marca{display:flex;align-items:center;gap:10px;line-height:1;text-decoration:none}
 .marca-tico{width:40px;height:40px;object-fit:contain;border-radius:9px;background:#fff;flex-shrink:0}
 .marca-txt{display:flex;flex-direction:column;line-height:1}
