@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-05T14:24:08.275Z",
+  "atualizadoEm": "2026-11-05T14:29:35.082Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41301",
+      "loja": "Amazon",
+      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
+      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
+      "preco": 30.9,
+      "precoDe": 38.34,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T14:29:00.670Z"
+    },
     {
       "id": "41297",
       "loja": "Mercado Livre",
@@ -217,18 +229,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-05T13:26:37.980Z"
-    },
-    {
-      "id": "41248",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 30.9,
-      "precoDe": 38.34,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T13:16:18.977Z"
     },
     {
       "id": "41246",
