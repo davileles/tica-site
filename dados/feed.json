@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-05T13:07:52.438Z",
+  "atualizadoEm": "2026-11-05T13:26:18.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41248",
+      "loja": "Amazon",
+      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
+      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
+      "preco": 30.9,
+      "precoDe": 38.34,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T13:16:18.977Z"
+    },
+    {
+      "id": "41246",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Blended Escocês, 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 105.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T13:14:46.615Z"
+    },
+    {
+      "id": "41245",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/7KyJJZ1NEf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
+      "preco": 99.9,
+      "precoDe": 199.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T13:14:10.092Z"
+    },
     {
       "id": "41240",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-03T15:44:59.380Z"
-    },
-    {
-      "id": "40115",
-      "loja": "Amazon",
-      "titulo": "Neve Papel Higiênico Ultracomfort, Folha Quádrupla, 20m, 12 rolos",
-      "link": "https://www.amazon.com.br/dp/B0DFMRTR6M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pC4lRufKL._SL400_.jpg",
-      "preco": 18.9,
-      "precoDe": 33.49,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:44:30.082Z"
-    },
-    {
-      "id": "40117",
-      "loja": "Amazon",
-      "titulo": "Dyson Airwrap™ Multiestilizador de cabelo - Kit Completo 127v",
-      "link": "https://www.amazon.com.br/dp/B0F2TPQVRX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mSpCQio7L._SL400_.jpg",
-      "preco": 3799.99,
-      "precoDe": 6999,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:42:59.054Z"
-    },
-    {
-      "id": "40128",
-      "loja": "Amazon",
-      "titulo": "Purificador de Água SlimPure Branco Bivolt Midea",
-      "link": "https://www.amazon.com.br/dp/B0FPGHQDQW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31RDSpUov+L._SL400_.jpg",
-      "preco": 379,
-      "precoDe": 579,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T15:33:24.066Z"
     }
   ]
 }
