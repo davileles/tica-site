@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-05T17:51:35.998Z",
+  "atualizadoEm": "2026-11-05T18:07:15.440Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41487",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Aqua Power I, Mondial 1400W - LAP-01-GY",
+      "link": "https://meli.la/31ypUap",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973760-MLA120371366947_102026-F.jpg",
+      "preco": 201.53,
+      "precoDe": 279.9,
+      "desconto": 10,
+      "cupom": "CONSTRUIRAQUI",
+      "enviadoEm": "2026-11-05T17:57:41.054Z"
+    },
+    {
+      "id": "41481",
+      "loja": "Amazon",
+      "titulo": "Buba Pote Termico C/Colher - Gumy Azul Azul",
+      "link": "https://www.amazon.com.br/dp/B08JXDZVY8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313CACz7fnL._SL400_.jpg",
+      "preco": 72.99,
+      "precoDe": 151.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T17:53:42.364Z"
+    },
+    {
+      "id": "41479",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Flex Experience 12 Masculino - R$ 251,99",
+      "link": "https://meli.la/2T6UzsA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707495-MLB84757709369_052025-P.webp",
+      "preco": 214.19,
+      "precoDe": 349.99,
+      "desconto": 28,
+      "cupom": "OFICIAIS0511",
+      "enviadoEm": "2026-11-05T17:52:39.475Z"
+    },
     {
       "id": "41477",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-11-03T20:19:23.923Z"
-    },
-    {
-      "id": "40318",
-      "loja": "Shopee",
-      "titulo": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
-      "link": "https://s.shopee.com.br/7VHgmr5ETS",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c_tn",
-      "preco": 11.99,
-      "precoDe": 26.07,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T20:17:28.949Z"
-    },
-    {
-      "id": "40321",
-      "loja": "Amazon",
-      "titulo": "Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades (Embalagem pode variar)",
-      "link": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aRvYjm3DL._SL400_.jpg",
-      "preco": 27.07,
-      "precoDe": 46.01,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T20:15:35.128Z"
-    },
-    {
-      "id": "40317",
-      "loja": "Amazon",
-      "titulo": "Ar Condicionado Consul Triple Inverter Economaxi Split Frio 12.000 Btu's Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0BX4GZRKY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZVE+9yH0L._SL400_.jpg",
-      "preco": 2099,
-      "precoDe": 2469,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T20:13:35.727Z"
     }
   ]
 }
