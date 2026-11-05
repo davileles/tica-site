@@ -531,7 +531,8 @@ function trocarTela(id) {
 
 // ── Passo 3: ativação ─────────────────────────────────────────────────────
 function textoAtivacao(codigo) {
-  return 'Oi, Tico! Quero receber os avisos de preço do Tica Promos 🔔 (pedido ' + codigo + ')';
+  // Sem emoji: o wa.me estraga caractere fora do plano básico (chegava "�").
+  return 'Oi, Tico! Quero receber os alertas de preço do Tica Promos (pedido ' + codigo + ')';
 }
 function mostrarAtivacao(codigo, at) {
   trocarTela('tela-ativar');
@@ -545,7 +546,7 @@ function mostrarAtivacao(codigo, at) {
   $('ativar-dias').textContent = at.expiraDias || 7;
   var texto = textoAtivacao(codigo);
   $('ativar-texto').textContent = texto;
-  $('btn-zap').href = at.link || ('https://wa.me/' + numero + '?text=' + encodeURIComponent(texto));
+  $('btn-zap').href = 'https://wa.me/' + numero + '?text=' + encodeURIComponent(texto);
   $('btn-vcard').onclick = function () { baixarVcard(numero); };
   try { history.replaceState(null, '', location.pathname + '?pedido=' + codigo); } catch (e) {}
 }
