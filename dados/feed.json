@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-05T19:50:27.857Z",
+  "atualizadoEm": "2026-11-05T20:06:15.665Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41551",
+      "loja": "Amazon",
+      "titulo": "Bronzeador Óleo Spray FPS 15 Cenoura & Bronze 110ml",
+      "link": "https://www.amazon.com.br/dp/B0FKVNX694?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315Jl7J1-5L._SL400_.jpg",
+      "preco": 18.67,
+      "precoDe": 45.99,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T20:05:24.818Z"
+    },
+    {
+      "id": "41550",
+      "loja": "Amazon",
+      "titulo": "Cristalizador Para Para-Brisa Luxcar 100 Ml",
+      "link": "https://www.amazon.com.br/dp/B07VHF1DKM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pjCW-CwLL._SL400_.jpg",
+      "preco": 9.94,
+      "precoDe": 27.43,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T20:03:38.326Z"
+    },
+    {
+      "id": "41549",
+      "loja": "Shopee",
+      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "link": "https://s.shopee.com.br/8VAH9lXHC0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
+      "preco": 59.9,
+      "precoDe": 85.57,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T20:01:59.444Z"
+    },
+    {
+      "id": "41546",
+      "loja": "Amazon",
+      "titulo": "Vinho Tarapacá Cosecha Chardonnay Branco 750ml",
+      "link": "https://www.amazon.com.br/dp/B0FJ32QN1W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313ng-gzW2L._SL400_.jpg",
+      "preco": 34.09,
+      "precoDe": 49.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-05T19:52:07.797Z"
+    },
     {
       "id": "41545",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-11-03T21:30:54.809Z"
-    },
-    {
-      "id": "40374",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis New Balance 2002d Masculino Moda Casual Original",
-      "link": "https://meli.la/2hCkvWz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992919-MLB110798054399_042026-P.webp",
-      "preco": 489.9,
-      "precoDe": 999.9,
-      "desconto": 45,
-      "cupom": "MODAML",
-      "enviadoEm": "2026-11-03T21:29:32.148Z"
-    },
-    {
-      "id": "40373",
-      "loja": "Amazon",
-      "titulo": "Bosch Kit De Pontas E Brocas Em Titânio X-Line Com 103 Peças",
-      "link": "https://www.amazon.com.br/dp/B07CVCTJLQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ieHNnNUiS._SL400_.jpg",
-      "preco": 197.09,
-      "precoDe": 219,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:27:59.109Z"
-    },
-    {
-      "id": "40372",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/7VHgDPiJ6g",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 69.99,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:27:23.474Z"
-    },
-    {
-      "id": "40369",
-      "loja": "Shopee",
-      "titulo": "Manta Canelada Casal Premium Soft 2,00x1,80",
-      "link": "https://s.shopee.com.br/8AXNesAj72",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnlvg1tbda8403_tn",
-      "preco": 33.9,
-      "precoDe": 63.96,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-03T21:23:10.395Z"
     }
   ]
 }
