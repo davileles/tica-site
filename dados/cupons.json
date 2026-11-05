@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-05T23:06:18.111Z",
+  "atualizadoEm": "2026-11-05T23:36:16.303Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BLACK20OFF",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido para produtos específicos da página informada",
+      "validadeAte": "2026-11-06T23:15:04.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "BF100",
       "loja": "Brinox Shop",
