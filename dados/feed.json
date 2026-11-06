@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-06T13:44:27.385Z",
+  "atualizadoEm": "2026-11-06T13:53:52.896Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41885",
+      "loja": "Amazon",
+      "titulo": "Bomba Tira-Leite Manual G-Tech",
+      "link": "https://www.amazon.com.br/dp/B076CW881T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VAh3mFNBL._SL400_.jpg",
+      "preco": 47.41,
+      "precoDe": 61.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:46:56.364Z"
+    },
+    {
+      "id": "41884",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
+      "preco": 98.89,
+      "precoDe": 194.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:46:27.815Z"
+    },
+    {
+      "id": "41883",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
+      "preco": 98.89,
+      "precoDe": 194.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:45:57.767Z"
+    },
+    {
+      "id": "41880",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/5q9X9uQyeI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 69.9,
+      "precoDe": 179.23,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:45:33.012Z"
+    },
     {
       "id": "41872",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:39:19.924Z"
-    },
-    {
-      "id": "40593",
-      "loja": "Mercado Livre",
-      "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
-      "link": "https://meli.la/1DNb6go",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-F.jpg",
-      "preco": 519.9,
-      "precoDe": 799,
-      "desconto": 30,
-      "cupom": "ALLSITE04011",
-      "enviadoEm": "2026-11-04T13:37:25.103Z"
-    },
-    {
-      "id": "40592",
-      "loja": "Amazon",
-      "titulo": "Secador 2000w 127v, Taiff, Style 333, Preto, Pequeno",
-      "link": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eDQh2oSCL._SL400_.jpg",
-      "preco": 168.95,
-      "precoDe": 229.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:35:42.131Z"
-    },
-    {
-      "id": "40591",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby XG, 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KV2733?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mkRUpyKEL._SL400_.jpg",
-      "preco": 35.31,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:32:59.165Z"
-    },
-    {
-      "id": "40590",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby G, 44 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KWB62Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qbt3WOV7L._SL400_.jpg",
-      "preco": 34.88,
-      "precoDe": 50.04,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:32:32.833Z"
     }
   ]
 }
