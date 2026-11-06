@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-06T22:38:58.782Z",
+  "atualizadoEm": "2026-11-06T22:50:18.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42306",
+      "loja": "Amazon",
+      "titulo": "Don Julio Tequila Blanco 750Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL1QE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31F+NcYuKhL._SL400_.jpg",
+      "preco": 249.99,
+      "precoDe": 318.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:46:45.669Z"
+    },
     {
       "id": "42303",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-11-04T20:54:58.776Z"
-    },
-    {
-      "id": "40937",
-      "loja": "Amazon",
-      "titulo": "Tuut Quebra Nozes Azul e Vermelho 38cm – Visual Imponente e Cores Tradicionais",
-      "link": "https://www.amazon.com.br/dp/B09GHC7K25?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Oggm-utQL._SL400_.jpg",
-      "preco": 60.32,
-      "precoDe": 153.28,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:53:00.938Z"
     }
   ]
 }
