@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T12:26:23.838Z",
+  "atualizadoEm": "2026-11-06T13:08:35.388Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -300,6 +300,18 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-11-06T19:25:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -838,7 +850,7 @@
       "minimo": 0,
       "maximo": null,
       "limite": 500,
-      "observacao": "Múltiplos cupons do Mercado Livre com diferentes categorias de desconto",
+      "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -876,6 +888,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "APROVEITAMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BARATOAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1467,15 +1503,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
+      "codigo": "QUEROOFERTA",
       "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 199,
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": null,
       "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-08T02:59:00.000Z",
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1623,6 +1659,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFPRACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFPRACONSTRU",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1692,6 +1752,30 @@
       "limite": 60,
       "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SAUDEMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFNOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-07T12:42:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2343,18 +2427,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "AU5BHXTPDP",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-06T13:00:21.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "QIP98Q1ZXO",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2400,6 +2472,18 @@
       "limite": 50,
       "observacao": null,
       "validadeAte": "2026-11-06T16:56:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CBFNO6B9M8",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-07T13:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
