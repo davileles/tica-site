@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-06T14:52:29.054Z",
+  "atualizadoEm": "2026-11-06T15:06:33.344Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41933",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic - R$ 78,29",
+      "link": "https://meli.la/246gMsU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878492-MLB108664426620_032026-P.webp",
+      "preco": 78.29,
+      "precoDe": 142,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T15:05:17.925Z"
+    },
     {
       "id": "41927",
       "loja": "Shopee",
@@ -2233,18 +2245,6 @@
       "desconto": 26,
       "cupom": "MODAMELI",
       "enviadoEm": "2026-11-05T17:05:35.328Z"
-    },
-    {
-      "id": "41445",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic - R$ 89,99",
-      "link": "https://meli.la/246gMsU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878492-MLB108664426620_032026-P.webp",
-      "preco": 79.19,
-      "precoDe": 142,
-      "desconto": 37,
-      "cupom": "MODAMELI",
-      "enviadoEm": "2026-11-05T16:59:13.777Z"
     },
     {
       "id": "41442",
