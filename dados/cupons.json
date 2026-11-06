@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T18:03:07.551Z",
+  "atualizadoEm": "2026-11-06T18:32:08.177Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -169,18 +169,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
-    },
-    {
-      "codigo": "FOODBLACK",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 12,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido em restaurantes",
-      "validadeAte": "2026-11-06T18:30:31.000Z",
-      "url": null
     },
     {
       "codigo": "ASROCK100",
@@ -1923,18 +1911,6 @@
       "url": null
     },
     {
-      "codigo": "BLACKLEVA",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 em pedidos do Mercado",
-      "validadeAte": "2026-11-06T18:07:34.000Z",
-      "url": null
-    },
-    {
       "codigo": "PRESENTEBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1944,6 +1920,18 @@
       "limite": null,
       "observacao": "Válido em compras no Shopping",
       "validadeAte": "2026-11-07T17:16:26.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFCESTOU",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
+      "validadeAte": "2026-11-07T18:13:36.000Z",
       "url": null
     },
     {
