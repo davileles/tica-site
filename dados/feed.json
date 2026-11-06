@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-06T21:50:18.373Z",
+  "atualizadoEm": "2026-11-06T22:17:02.310Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42296",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelete Perfurador Gbh 2-24D 820W 127V Com Maleta",
+      "link": "https://www.amazon.com.br/dp/B076KPXF6P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
+      "preco": 650,
+      "precoDe": 899,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:07:02.307Z"
+    },
+    {
+      "id": "42295",
+      "loja": "Amazon",
+      "titulo": "Gin Beefeater 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
+      "preco": 77.79,
+      "precoDe": 119.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:06:23.238Z"
+    },
+    {
+      "id": "42294",
+      "loja": "Amazon",
+      "titulo": "Cerveja Guinness Draught 440ml",
+      "link": "https://www.amazon.com.br/dp/B07Y2BTQQT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41p+fr4OcrL._SL400_.jpg",
+      "preco": 23.99,
+      "precoDe": 34.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:05:49.585Z"
+    },
+    {
+      "id": "42289",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Olympikus Zex 2",
+      "link": "https://meli.la/1q96ejA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_997685-MLA98895341577_112025-P.webp",
+      "preco": 125.96,
+      "precoDe": 259.99,
+      "desconto": 43,
+      "cupom": "MODASEMPRE",
+      "enviadoEm": "2026-11-06T21:55:58.796Z"
+    },
+    {
+      "id": "42287",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51KK+Ampn6L._SL400_.jpg",
+      "preco": 158.69,
+      "precoDe": 235.87,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T21:52:45.745Z"
+    },
+    {
+      "id": "42286",
+      "loja": "Amazon",
+      "titulo": "Detergente em Pó Ypê 1Kg | Fórmula 3 em 1 com ação desengordurante, secante e sontrole de odor",
+      "link": "https://www.amazon.com.br/dp/B0CSYPRC2Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZjFXftpGL._SL400_.jpg",
+      "preco": 35,
+      "precoDe": 48.87,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T21:52:22.767Z"
+    },
     {
       "id": "42285",
       "loja": "Mercado Livre",
@@ -3051,18 +3123,6 @@
       "enviadoEm": "2026-11-05T20:41:58.876Z"
     },
     {
-      "id": "41570",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51KK+Ampn6L._SL400_.jpg",
-      "preco": 158.69,
-      "precoDe": 235.87,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:37:30.918Z"
-    },
-    {
       "id": "41568",
       "loja": "Amazon",
       "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
@@ -5941,66 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-11-04T20:46:10.937Z"
-    },
-    {
-      "id": "40930",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 222.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:44:27.114Z"
-    },
-    {
-      "id": "40929",
-      "loja": "Amazon",
-      "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
-      "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416Ap+9jf6L._SL400_.jpg",
-      "preco": 22.7,
-      "precoDe": 32.99,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:43:55.606Z"
-    },
-    {
-      "id": "40928",
-      "loja": "Amazon",
-      "titulo": "Chupeta Anatômica de Silicone Lillo, Cachorro, Bege, Tamanho 2 | Funny Animais",
-      "link": "https://www.amazon.com.br/dp/B089M5VWXP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Pfa+NANqL._SL400_.jpg",
-      "preco": 9.91,
-      "precoDe": 19.84,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:42:06.235Z"
-    },
-    {
-      "id": "40927",
-      "loja": "Shopee",
-      "titulo": "Conjunto de 5 peças de macacão para bebê algodão diversas cores disponíveis série de gola virada",
-      "link": "https://s.shopee.com.br/8KqpPFoUbJ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mtnku5013m694b_tn",
-      "preco": 77.9,
-      "precoDe": 123.65,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:41:31.810Z"
-    },
-    {
-      "id": "40926",
-      "loja": "Amazon",
-      "titulo": "Café Pilão Torrado e Moído Extraforte",
-      "link": "https://www.amazon.com.br/dp/B07CZ51RMT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LA6GW8NNL._SL400_.jpg",
-      "preco": 19.89,
-      "precoDe": 33.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:39:40.095Z"
     }
   ]
 }
