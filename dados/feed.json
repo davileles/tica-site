@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-06T13:53:52.896Z",
+  "atualizadoEm": "2026-11-06T14:13:39.195Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41892",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes Vidro Hermético Aristus 640ml Marmita Anti Vazamento Forno Micro-ondas Freezer Tampa 4 Travas - Branco",
+      "link": "https://meli.la/2cLjW6K",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967837-MLA114246925459_072026-F.jpg",
+      "preco": 67.64,
+      "precoDe": 179.99,
+      "desconto": 53,
+      "cupom": "OFFPRACASA",
+      "enviadoEm": "2026-11-06T14:08:24.651Z"
+    },
+    {
+      "id": "41889",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
+      "link": "https://s.shopee.com.br/6L5nmIjARM",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
+      "preco": 3.9,
+      "precoDe": 8.86,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:06:54.244Z"
+    },
     {
       "id": "41885",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:46:06.095Z"
-    },
-    {
-      "id": "40596",
-      "loja": "Amazon",
-      "titulo": "Mor - Caixa Térmica 18 Litros Preta",
-      "link": "https://www.amazon.com.br/dp/B0BBPM1KCG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316ZQlt2dKL._SL400_.jpg",
-      "preco": 54.63,
-      "precoDe": 64.11,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:43:07.780Z"
-    },
-    {
-      "id": "40594",
-      "loja": "Amazon",
-      "titulo": "Britânia Escova Secadora BEC02PR Bivolt 4 em 1 1300W Plástico Rosa/Preto",
-      "link": "https://www.amazon.com.br/dp/B0BZLJLQ58?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Pd4NQbrCL._SL400_.jpg",
-      "preco": 73.9,
-      "precoDe": 129.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:39:19.924Z"
     }
   ]
 }
