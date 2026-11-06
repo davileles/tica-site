@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-06T22:17:02.310Z",
+  "atualizadoEm": "2026-11-06T22:38:58.782Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42303",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão WAP WL 1820 1400W com Stop Total, Jato Leque e Concentrado",
+      "link": "https://meli.la/2tPPEHf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812803-MLA87439178751_072025-F.jpg",
+      "preco": 276.99,
+      "precoDe": 728,
+      "desconto": 52,
+      "cupom": "OFFPRACONSTRU ou DECORACAO0611 ou ITENSPARACASA",
+      "enviadoEm": "2026-11-06T22:28:58.778Z"
+    },
+    {
+      "id": "42302",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelete Perfurador GBH 18V-18 X sem bateria",
+      "link": "https://www.amazon.com.br/dp/B0FWMMWH5T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41AA0iNH9xL._SL400_.jpg",
+      "preco": 809.09,
+      "precoDe": 899,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:27:20.712Z"
+    },
+    {
+      "id": "42301",
+      "loja": "Shopee",
+      "titulo": "Kit 3x Vinho Português Branco DOC Vinho Verde Casal Garcia 750ml",
+      "link": "https://s.shopee.com.br/8KqsiMcgMl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mseyvqjvuv4478_tn",
+      "preco": 99.9,
+      "precoDe": 227.05,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:26:31.650Z"
+    },
+    {
+      "id": "42300",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+      "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412G3EnreFL._SL400_.jpg",
+      "preco": 28.5,
+      "precoDe": 31.79,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T22:22:20.110Z"
+    },
     {
       "id": "42296",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-11-04T20:53:00.938Z"
-    },
-    {
-      "id": "40936",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Tcl Qled 55 4K Ultra HD TV+Google TV/HDR",
-      "link": "https://meli.la/1jML2UC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_840781-MLA87162024763_072025-F.jpg",
-      "preco": 1874,
-      "precoDe": 2499,
-      "desconto": 5,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-11-04T20:51:01.387Z"
-    },
-    {
-      "id": "40933",
-      "loja": "Amazon",
-      "titulo": "Fischer Cervejeira Infinity Multi Frost Free 92L Preto 127V",
-      "link": "https://www.amazon.com.br/dp/B0DYQML8L2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21RojXzHc2L._SL400_.jpg",
-      "preco": 1451.57,
-      "precoDe": 2599,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:49:11.604Z"
-    },
-    {
-      "id": "40932",
-      "loja": "Amazon",
-      "titulo": "Conjunto Alleanza de 6 Pratos Fundo Relevo Silver",
-      "link": "https://www.amazon.com.br/dp/B0CHG2QWRC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hcyc1f51L._SL400_.jpg",
-      "preco": 179.05,
-      "precoDe": 472.89,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:48:39.989Z"
-    },
-    {
-      "id": "40931",
-      "loja": "Shopee",
-      "titulo": "Kiddiezoom 5 Peças Moda Recém-Nascido Desenho Animado Manga Curta Bebê Menino Menina Bodysuits Macios 100 % Algodão Maca",
-      "link": "https://s.shopee.com.br/4Ve6qKzNBr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqyfk3n5b5z8da_tn",
-      "preco": 70.99,
-      "precoDe": 173.15,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T20:46:10.937Z"
     }
   ]
 }
