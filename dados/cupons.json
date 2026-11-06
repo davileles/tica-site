@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T11:43:02.778Z",
+  "atualizadoEm": "2026-11-06T11:56:23.887Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1753,18 +1753,6 @@
       "observacao": "Cupom de 35% OFF na finalização. Há também promoção de até 50% OFF em lista, mas sem código específico informado.",
       "validadeAte": "2026-11-06T15:18:05.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "NIKE30",
-      "loja": "Outro: Centauro",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto aplicável em produtos Nike na Centauro",
-      "validadeAte": "2026-11-06T11:53:53.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
       "codigo": "SEARAOUT26",
