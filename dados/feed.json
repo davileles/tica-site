@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-06T18:32:05.844Z",
+  "atualizadoEm": "2026-11-06T18:51:17.834Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42143",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 131.7,
+      "precoDe": 189.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:48:16.400Z"
+    },
+    {
+      "id": "42141",
+      "loja": "Amazon",
+      "titulo": "Micro Retífica 4000 com 26 Acessórios 4000-N/26-220V Dremel",
+      "link": "https://www.amazon.com.br/dp/B076KNH6VK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315O+HYj0EL._SL400_.jpg",
+      "preco": 404.09,
+      "precoDe": 449,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:43:01.375Z"
+    },
+    {
+      "id": "42140",
+      "loja": "Amazon",
+      "titulo": "Gin Beefeater Pink 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B0763W2SN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Qcw8Y+sqL._SL400_.jpg",
+      "preco": 77.8,
+      "precoDe": 123.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:41:15.918Z"
+    },
+    {
+      "id": "42138",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Lenovo Ideapad Slim 3 Ryzen 5 8gb 512gb Linux",
+      "link": "https://meli.la/1ivfez4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLB117044233971_092026-P.webp",
+      "preco": 2883,
+      "precoDe": 3423,
+      "desconto": 16,
+      "cupom": "TECH0611",
+      "enviadoEm": "2026-11-06T18:40:15.992Z"
+    },
+    {
+      "id": "42136",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G77 5g 256GB 8GB Ram Dual Sim Marrom",
+      "link": "https://meli.la/1B89Qrj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_663178-MLA106043575046_022026-P.webp",
+      "preco": 1359,
+      "precoDe": 1999,
+      "desconto": 21,
+      "cupom": "TECH0611",
+      "enviadoEm": "2026-11-06T18:38:23.806Z"
+    },
+    {
+      "id": "42135",
+      "loja": "Amazon",
+      "titulo": "Copo NUK Mini-Me Flip 500ml 2 em 1 – Roxo",
+      "link": "https://www.amazon.com.br/dp/B0CNXVR4CR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31C2YMHab+L._SL400_.jpg",
+      "preco": 29.04,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:34:17.687Z"
+    },
+    {
+      "id": "42132",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/3g52tfG6Ka",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 349.9,
+      "precoDe": 699.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:32:41.265Z"
+    },
     {
       "id": "42130",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-11-04T18:52:49.730Z"
-    },
-    {
-      "id": "40816",
-      "loja": "Mercado Livre",
-      "titulo": "Polo Aramis Algodão Piquet Manga Curta Preto - R$ 119,90",
-      "link": "https://meli.la/2W6phh4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660417-MLB118861849072_102026-P.webp",
-      "preco": 105.51,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-11-04T18:50:58.600Z"
-    },
-    {
-      "id": "40815",
-      "loja": "Mercado Livre",
-      "titulo": "Cooktop de Indução Itatiaia Master 4Q 220V - Preto",
-      "link": "https://meli.la/2AbuEzu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975067-MLA112250309002_062026-F.jpg",
-      "preco": 622.42,
-      "precoDe": 1231.81,
-      "desconto": 33,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-11-04T18:49:10.485Z"
-    },
-    {
-      "id": "40813",
-      "loja": "Shopee",
-      "titulo": "Saída de Maternidade Bebê Menina Cerejinha 3 Peças 100% Algodão Macio Confortável",
-      "link": "https://s.shopee.com.br/1BNekHCokd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m2-mqypaakg47ph16_tn",
-      "preco": 98.9,
-      "precoDe": 193.92,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:47:26.907Z"
-    },
-    {
-      "id": "40812",
-      "loja": "Mercado Livre",
-      "titulo": "Floratta Rose: Body Spray 2x100ml",
-      "link": "https://meli.la/28R2yzv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616967-MLA104945299334_012026-F.jpg",
-      "preco": 75.8,
-      "precoDe": 105.8,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:45:17.090Z"
-    },
-    {
-      "id": "40811",
-      "loja": "Amazon",
-      "titulo": "Lubrificante Íntimo K-Med",
-      "link": "https://www.amazon.com.br/dp/B07GG1FBCX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418y7QbGDtL._SL400_.jpg",
-      "preco": 18.49,
-      "precoDe": 38.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:43:21.530Z"
-    },
-    {
-      "id": "40809",
-      "loja": "Amazon",
-      "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
-      "link": "https://www.amazon.com.br/dp/B08MKNH3B4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3116nHiD1sL._SL400_.jpg",
-      "preco": 82.62,
-      "precoDe": 111.84,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:41:16.563Z"
-    },
-    {
-      "id": "40808",
-      "loja": "Shopee",
-      "titulo": "Kit Hidrabene Clareador Skincare Clareador Facial: Sabonete, Protetor 70 FPS e Sérum Multicorretivo",
-      "link": "https://s.shopee.com.br/1BNejnGcNo",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mt45q21kcvt09d_tn",
-      "preco": 74.9,
-      "precoDe": 152.86,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:40:50.423Z"
     }
   ]
 }
