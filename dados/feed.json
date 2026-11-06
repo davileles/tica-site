@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-06T16:56:29.909Z",
+  "atualizadoEm": "2026-11-06T17:00:18.850Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42040",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
+      "preco": 66,
+      "precoDe": 101.58,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T17:00:13.801Z"
+    },
+    {
+      "id": "42038",
+      "loja": "Amazon",
+      "titulo": "Brastoy Blocos de Montar Magnéticos Infantil Construção STEM Brinquedo (130 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0D221YB3L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xIan6srYL._SL400_.jpg",
+      "preco": 175.49,
+      "precoDe": 239,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:59:46.272Z"
+    },
+    {
+      "id": "42037",
+      "loja": "Mercado Livre",
+      "titulo": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
+      "link": "https://meli.la/2ZPrC4V",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748103-MLA99906601653_112025-F.jpg",
+      "preco": 254.90999999999997,
+      "precoDe": 514.14,
+      "desconto": 42,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-11-06T16:58:49.772Z"
+    },
     {
       "id": "42034",
       "loja": "Amazon",
@@ -3975,18 +4011,6 @@
       "enviadoEm": "2026-11-05T11:02:47.791Z"
     },
     {
-      "id": "41103",
-      "loja": "Amazon",
-      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
-      "preco": 49.46,
-      "precoDe": 101.58,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T11:02:18.261Z"
-    },
-    {
       "id": "41100",
       "loja": "Amazon",
       "titulo": "AR CONDICIONADO SPLIT INVERTER HISENSE R-32 HI-WALL 12.000 BTUS QUENTE E FRIO WI-FI 220V",
@@ -5977,30 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-04T16:39:34.874Z"
-    },
-    {
-      "id": "40732",
-      "loja": "Amazon",
-      "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B09JZBTWV1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Wu-oFUGgL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 24.24,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:38:53.345Z"
-    },
-    {
-      "id": "40731",
-      "loja": "Amazon",
-      "titulo": "Tramontina Jogo de Facas Inox 4 Peças Plenus Preto",
-      "link": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kxSHCk3wL._SL400_.jpg",
-      "preco": 27.53,
-      "precoDe": 44.57,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:37:01.556Z"
     }
   ]
 }
