@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-06T14:49:06.399Z",
+  "atualizadoEm": "2026-11-06T14:52:29.054Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41927",
+      "loja": "Shopee",
+      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
+      "link": "https://s.shopee.com.br/8KqsCuLiGb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
+      "preco": 12.97,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:49:30.372Z"
+    },
     {
       "id": "41926",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "DESCONTO",
       "enviadoEm": "2026-11-04T14:25:17.853Z"
-    },
-    {
-      "id": "40621",
-      "loja": "Amazon",
-      "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
-      "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31klUfBdRQL._SL400_.jpg",
-      "preco": 429.9,
-      "precoDe": 799,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:13:25.050Z"
     }
   ]
 }
