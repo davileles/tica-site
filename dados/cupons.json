@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T13:08:35.388Z",
+  "atualizadoEm": "2026-11-06T14:06:10.853Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2427,18 +2427,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "QIP98Q1ZXO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-06T14:00:28.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "PR5N8I4P40",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2484,6 +2472,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-07T13:00:15.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "YY37Q9AH8R",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-07T14:00:59.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
