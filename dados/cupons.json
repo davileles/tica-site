@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T17:38:50.992Z",
+  "atualizadoEm": "2026-11-06T18:03:07.551Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -315,6 +315,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TECH0611",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Três cupons para selecionados no Mercado Livre",
+      "validadeAte": "2026-11-07T18:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -348,18 +360,6 @@
       "limite": null,
       "observacao": "Três cupons com descontos escalonados conforme o valor mínimo de compra",
       "validadeAte": "2026-11-07T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DECOR0511",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-06T18:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1815,15 +1815,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODAEBELEZA",
+      "codigo": "SUPER0611",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
+      "valor": 15,
+      "minimo": 99,
       "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em produtos de moda e bem-estar",
-      "validadeAte": "2026-11-06T18:00:41.959Z",
+      "limite": 30,
+      "observacao": "Três cupons para selecionados no Mercado Livre",
+      "validadeAte": "2026-11-07T18:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1860,6 +1860,18 @@
       "limite": 20,
       "observacao": null,
       "validadeAte": "2026-11-07T15:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL0611",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Três cupons para selecionados no Mercado Livre",
+      "validadeAte": "2026-11-07T18:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
