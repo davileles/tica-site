@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T16:56:32.599Z",
+  "atualizadoEm": "2026-11-06T17:38:50.992Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1719,6 +1719,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ITENSPARACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1803,6 +1815,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODAEBELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em produtos de moda e bem-estar",
+      "validadeAte": "2026-11-06T18:00:41.959Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOM10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1863,6 +1887,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
+      "codigo": "BLACK50",
+      "loja": "Outro: Época Cosméticos",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-07T17:25:20.000Z",
+      "url": null
+    },
+    {
       "codigo": "SEARAOUT26",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -1884,6 +1920,18 @@
       "limite": null,
       "observacao": "Desconto de R$20 em pedidos do Mercado",
       "validadeAte": "2026-11-06T18:07:34.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PRESENTEBF",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em compras no Shopping",
+      "validadeAte": "2026-11-07T17:16:26.000Z",
       "url": null
     },
     {
