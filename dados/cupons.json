@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T14:06:10.853Z",
+  "atualizadoEm": "2026-11-06T14:27:32.570Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1734,12 +1734,12 @@
       "codigo": "FAVORITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 12,
+      "valor": 15,
       "minimo": 149,
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-07T02:59:00.000Z",
+      "validadeAte": "2026-11-07T02:59:00.435Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1776,6 +1776,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-07T12:42:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOM10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-07T14:25:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
