@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-06T18:03:05.762Z",
+  "atualizadoEm": "2026-11-06T18:32:05.844Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42130",
+      "loja": "Amazon",
+      "titulo": "Bosch Multicortadora Gop 30-28 300W 220V Com Maleta E 3 Lixas",
+      "link": "https://www.amazon.com.br/dp/B0786RN7X6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IcMJj+doL._SL400_.jpg",
+      "preco": 1468.99,
+      "precoDe": 1569,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:22:47.851Z"
+    },
+    {
+      "id": "42128",
+      "loja": "Amazon",
+      "titulo": "Vermute Martini Bianco 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM75F83?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31l1eK3jMgL._SL400_.jpg",
+      "preco": 35.43,
+      "precoDe": 42.9,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:20:59.108Z"
+    },
+    {
+      "id": "42097",
+      "loja": "Shopee",
+      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
+      "link": "https://s.shopee.com.br/3g52s9Rbd3",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp7x1cv6r7da88_tn",
+      "preco": 20.55,
+      "precoDe": 25.06,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:11:33.079Z"
+    },
+    {
+      "id": "42088",
+      "loja": "Mercado Livre",
+      "titulo": "Motosserra Eletrica 36v Bateria Portátil 4 Com 6 Polegada C",
+      "link": "https://meli.la/2kTeEQg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838054-MLB89176330788_082025-P.webp",
+      "preco": 123.78,
+      "precoDe": 159.51,
+      "desconto": 3,
+      "cupom": "OFFPRACONSTRU ou DECORACAO0611 ou ITENSPARACASA",
+      "enviadoEm": "2026-11-06T18:10:03.076Z"
+    },
+    {
+      "id": "42081",
+      "loja": "Amazon",
+      "titulo": "Gin Beefeater Botanics 750ml",
+      "link": "https://www.amazon.com.br/dp/B094X1ZPZB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41TtLuuhamL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 95.99,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T18:06:01.656Z"
+    },
     {
       "id": "42080",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-11-04T18:40:50.423Z"
-    },
-    {
-      "id": "40807",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 400ml",
-      "link": "https://www.amazon.com.br/dp/B08JQRQYCL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yetZwSg0L._SL400_.jpg",
-      "preco": 18.99,
-      "precoDe": 34.17,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:39:01.310Z"
-    },
-    {
-      "id": "40806",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Cadeirinha Evolutty 360 X, 0 a 36kg, com Giro 360º e Isofix, Preto",
-      "link": "https://www.amazon.com.br/dp/B0B9CLH2W2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31s-y3hNcgL._SL400_.jpg",
-      "preco": 750,
-      "precoDe": 999,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:38:30.816Z"
-    },
-    {
-      "id": "40805",
-      "loja": "Amazon",
-      "titulo": "Head & Shoulders Shampoo Anticaspa Fragrância Poderosa Old Spice 400 ml",
-      "link": "https://www.amazon.com.br/dp/B09WP6MNK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41smfrCSvFL._SL400_.jpg",
-      "preco": 17.99,
-      "precoDe": 30.27,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:37:46.576Z"
-    },
-    {
-      "id": "40804",
-      "loja": "Shopee",
-      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
-      "link": "https://s.shopee.com.br/9fMCr6j46r",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
-      "preco": 7.99,
-      "precoDe": 29.59,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T18:35:59.384Z"
-    },
-    {
-      "id": "40800",
-      "loja": "Mercado Livre",
-      "titulo": "Mala Bordo Leve 10kg Rodas 360° Cadeado Antifurto Bagagem - R$ 170,99",
-      "link": "https://meli.la/2AHZD1y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815918-MLB113681629386_072026-P.webp",
-      "preco": 150.47,
-      "precoDe": 257.9,
-      "desconto": 34,
-      "cupom": "SEMPREMODA",
-      "enviadoEm": "2026-11-04T18:24:57.935Z"
     }
   ]
 }
