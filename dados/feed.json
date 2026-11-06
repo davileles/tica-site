@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-06T13:34:00.110Z",
+  "atualizadoEm": "2026-11-06T13:44:27.385Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41872",
+      "loja": "Amazon",
+      "titulo": "Dewar's, Whisky 18 anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B006IL39O4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312WZ20lvML._SL400_.jpg",
+      "preco": 379.9,
+      "precoDe": 729.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:36:20.500Z"
+    },
+    {
+      "id": "41871",
+      "loja": "Amazon",
+      "titulo": "Licor Baileys Original, 750ml",
+      "link": "https://www.amazon.com.br/dp/B004CY6VLC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vZdHM+brL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 166.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:35:08.851Z"
+    },
     {
       "id": "41864",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:32:32.833Z"
-    },
-    {
-      "id": "40589",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby M, 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KaiafcWwL._SL400_.jpg",
-      "preco": 35.77,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:32:03.343Z"
-    },
-    {
-      "id": "40588",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby P, 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Rwj1O-RDL._SL400_.jpg",
-      "preco": 35.77,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:31:37.798Z"
     }
   ]
 }
