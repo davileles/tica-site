@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T19:13:37.128Z",
+  "atualizadoEm": "2026-11-06T19:50:20.925Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,6 +13,30 @@
       "observacao": "Válido para produtos específicos da página informada",
       "validadeAte": "2026-11-06T23:15:04.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "OLEO",
+      "loja": "BELEZA NA WEB",
+      "tipo": "reais",
+      "valor": 359,
+      "minimo": 359,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-09T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "GANHE20SIAGE",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 149,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "BF100",
@@ -360,18 +384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-07T15:00:36.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HOJECOMCUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2199,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-06T19:25:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2028,6 +2040,30 @@
       "limite": null,
       "observacao": "Válido em Farmácias Selecionadas",
       "validadeAte": "2026-11-07T19:00:47.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PETISCOBF",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido para Pet Shops no iFood",
+      "validadeAte": "2026-11-07T19:40:51.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFLOUCURA",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 27,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em restaurantes selecionados",
+      "validadeAte": "2026-11-07T19:21:12.000Z",
       "url": null
     },
     {
