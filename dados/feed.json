@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-06T14:13:39.195Z",
+  "atualizadoEm": "2026-11-06T14:21:37.722Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41899",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50-",
+      "link": "https://meli.la/2wowv3T",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992466-MLB116831200087_082026-O-kit-3-camisetas-termicas-masculina-segunda-pele-camisa-uv50-.webp",
+      "preco": 78.9,
+      "precoDe": 122.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:20:10.937Z"
+    },
     {
       "id": "41892",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:47:53.668Z"
-    },
-    {
-      "id": "40597",
-      "loja": "Shopee",
-      "titulo": "5  Unidades vPetisqueira Barquinha Canoa Petiscos Churrasco Festa Frios Para Servir Amendoim Caldo Branca - Kaziva",
-      "link": "https://s.shopee.com.br/1qdLCnnNb4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moqthjsfjyf4dc_tn",
-      "preco": 7.9,
-      "precoDe": 30.38,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:46:06.095Z"
     }
   ]
 }
