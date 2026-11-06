@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-06T19:13:35.246Z",
+  "atualizadoEm": "2026-11-06T19:20:18.189Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42171",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/4LKjjnt6mm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 23.89,
+      "precoDe": 70.26,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:15:11.009Z"
+    },
     {
       "id": "42159",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-11-04T19:04:04.758Z"
-    },
-    {
-      "id": "40827",
-      "loja": "Mercado Livre",
-      "titulo": "Fogão 4 Bocas Dako Supreme Mesa de Inox A Gás Titanium Bivolt",
-      "link": "https://meli.la/1tzsL5c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_938425-MLA99453275098_112025-F.jpg",
-      "preco": 674.92,
-      "precoDe": 1189,
-      "desconto": 24,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-11-04T19:02:18.364Z"
     }
   ]
 }
