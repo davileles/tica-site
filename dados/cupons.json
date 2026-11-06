@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T11:26:23.788Z",
+  "atualizadoEm": "2026-11-06T11:43:02.778Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1623,6 +1623,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFFPRAAUTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-11-07T11:42:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1683,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODASEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos em selecionados conforme listas fornecidas",
+      "validadeAte": "2026-11-07T11:42:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FAVORITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1691,7 +1715,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-07T11:24:33.000Z",
+      "validadeAte": "2026-11-07T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
