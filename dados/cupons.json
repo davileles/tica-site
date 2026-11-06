@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T14:49:08.320Z",
+  "atualizadoEm": "2026-11-06T15:06:35.837Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -289,6 +289,18 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "SEMPREOFF",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 400,
+      "minimo": 2699,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-07T15:00:36.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "HOJECOMCUPOM",
@@ -859,10 +871,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Ambos os cupons são para produtos selecionados",
       "validadeAte": "2026-12-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1695,6 +1707,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "DECORACAO0611",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-07T15:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1728,18 +1752,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAIS0511",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-06T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1788,6 +1800,30 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-07T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS0611",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-07T15:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BELEZA0611",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-07T15:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2439,30 +2475,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "PR5N8I4P40",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-06T15:00:05.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "P4P41N03L100FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-06T15:00:46.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "OFERTAS10",
       "loja": "Shopee",
       "tipo": "pct",
@@ -2496,6 +2508,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-07T14:00:59.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "HBRPOIG8F1",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-07T15:00:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
