@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-06T14:21:37.722Z",
+  "atualizadoEm": "2026-11-06T14:27:30.895Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41902",
+      "loja": "Mercado Livre",
+      "titulo": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "link": "https://meli.la/1JVBYQL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "preco": 52.489999999999995,
+      "precoDe": 159.9,
+      "desconto": 56,
+      "cupom": "SUPERDESCONTO",
+      "enviadoEm": "2026-11-06T14:25:37.051Z"
+    },
+    {
+      "id": "41900",
+      "loja": "Mercado Livre",
+      "titulo": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
+      "link": "https://meli.la/1DEKcFg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742060-MLA99449598594_112025-F.jpg",
+      "preco": 425.95,
+      "precoDe": 659,
+      "desconto": 27,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T14:23:16.064Z"
+    },
     {
       "id": "41899",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:55:46.752Z"
-    },
-    {
-      "id": "40599",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Safety 1st, Orbital 360 i-Size, com Isofix, 0 até 12 anos, Black",
-      "link": "https://www.amazon.com.br/dp/B0FPD6358V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31igQ-6gFqL._SL400_.jpg",
-      "preco": 1298.33,
-      "precoDe": 2199,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:51:31.421Z"
-    },
-    {
-      "id": "40598",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
-      "link": "https://s.shopee.com.br/9zz2voRZO7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
-      "preco": 44.99,
-      "precoDe": 99.98,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:47:53.668Z"
     }
   ]
 }
