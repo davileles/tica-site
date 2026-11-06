@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-06T17:00:18.850Z",
+  "atualizadoEm": "2026-11-06T17:09:48.399Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42046",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
+      "link": "https://s.shopee.com.br/9zz6LKIBKe",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 10.8,
+      "precoDe": 27,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T17:05:35.480Z"
+    },
+    {
+      "id": "42044",
+      "loja": "Mercado Livre",
+      "titulo": "Latex acrílica tinta coral anti mofo branco 18l coralar branco fosco",
+      "link": "https://meli.la/1zZktPW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807241-MLA99565665626_122025-F.jpg",
+      "preco": 177.41,
+      "precoDe": 320.9,
+      "desconto": 31,
+      "cupom": "OFFPRACONSTRU ou DECORACAO0611",
+      "enviadoEm": "2026-11-06T17:04:06.183Z"
+    },
+    {
+      "id": "42042",
+      "loja": "Mercado Livre",
+      "titulo": "Frigobar 47l Elgin Classe A Inmetro 2026 Branco",
+      "link": "https://meli.la/1MagyEq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691157-MLA117482553931_092026-F.jpg",
+      "preco": 373.15,
+      "precoDe": 789,
+      "desconto": 44,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-11-06T17:02:01.483Z"
+    },
+    {
+      "id": "42041",
+      "loja": "Amazon",
+      "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07Z9T391J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415EsQAputL._SL400_.jpg",
+      "preco": 64.99,
+      "precoDe": 101.58,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T17:00:37.008Z"
+    },
     {
       "id": "42040",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-11-04T16:45:11.282Z"
-    },
-    {
-      "id": "40738",
-      "loja": "Amazon",
-      "titulo": "Iluminador Mari Maria Splendid",
-      "link": "https://www.amazon.com.br/dp/B0F493DZMH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uQ6BH4ukL._SL400_.jpg",
-      "preco": 21.75,
-      "precoDe": 57.01,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:44:13.175Z"
-    },
-    {
-      "id": "40737",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 47.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:42:10.924Z"
-    },
-    {
-      "id": "40734",
-      "loja": "Amazon",
-      "titulo": "Lancôme La Vie Est Belle Eau de Parfum, Perfume Feminino Refilável, Fragrância Floral Gourmand Icônica com Íris, Baunilha e Patchouli, Alta Projeção, 30ml",
-      "link": "https://www.amazon.com.br/dp/B008SBKTZ4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SuR2w7efL._SL400_.jpg",
-      "preco": 299.99,
-      "precoDe": 529,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:41:35.270Z"
-    },
-    {
-      "id": "40733",
-      "loja": "Amazon",
-      "titulo": "Whisky Buchanan's Deluxe 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B00MTFIL0U?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41NLYjmlnwL._SL400_.jpg",
-      "preco": 139.9,
-      "precoDe": 199.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:39:34.874Z"
     }
   ]
 }
