@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T19:54:17.022Z",
+  "atualizadoEm": "2026-11-06T20:20:20.274Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1851,6 +1851,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SUPERMERCADO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-06T22:00:38.435Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FAVORITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1908,6 +1920,42 @@
       "limite": 30,
       "observacao": "Três cupons para selecionados no Mercado Livre",
       "validadeAte": "2026-11-07T18:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-07T19:59:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "15ELUX",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-07T20:06:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-06T22:00:38.435Z",
       "url": "https://meli.la/2xystLt"
     },
     {
