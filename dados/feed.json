@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-06T13:15:27.284Z",
+  "atualizadoEm": "2026-11-06T13:34:00.110Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41864",
+      "loja": "Shopee",
+      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+      "link": "https://s.shopee.com.br/W80mYtKZx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
+      "preco": 34.99,
+      "precoDe": 56.44,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:24:00.107Z"
+    },
+    {
+      "id": "41863",
+      "loja": "Amazon",
+      "titulo": "Whey Grego Bar Morango C/Chantilly Display 12 Unidades 480g",
+      "link": "https://www.amazon.com.br/dp/B08LCWCJL3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41wXeUDMQJL._SL400_.jpg",
+      "preco": 60.9,
+      "precoDe": 68.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T13:22:11.321Z"
+    },
+    {
+      "id": "41858",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto 10 Potes Vidro Hermético Marmita Mantimento 640ml",
+      "link": "https://meli.la/1DEkRrD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963860-MLB82525851297_022025-O-conjunto-10-potes-vidro-hermetico-marmita-mantimento-640ml.webp",
+      "preco": 78.27000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFPRACASA",
+      "enviadoEm": "2026-11-06T13:17:50.830Z"
+    },
     {
       "id": "41857",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-04T13:31:37.798Z"
-    },
-    {
-      "id": "40587",
-      "loja": "Amazon",
-      "titulo": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
-      "link": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41V493+opHL._SL400_.jpg",
-      "preco": 44,
-      "precoDe": 119.9,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:31:07.830Z"
-    },
-    {
-      "id": "40586",
-      "loja": "Amazon",
-      "titulo": "Eudora Siàge Hair-Plastia Máscara Capilar 250g",
-      "link": "https://www.amazon.com.br/dp/B09HW92VTZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3159MbW335L._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 85.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:29:07.847Z"
-    },
-    {
-      "id": "40582",
-      "loja": "Amazon",
-      "titulo": "Lysoform Lavanda Desinfetante Líquido Limpeza Pesada, 4 Unidades de 1L",
-      "link": "https://www.amazon.com.br/dp/B0DZR3J8TM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Yg5QbM5VL._SL400_.jpg",
-      "preco": 36.42,
-      "precoDe": 52.55,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:26:57.025Z"
     }
   ]
 }
