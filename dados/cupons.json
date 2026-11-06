@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T16:35:35.345Z",
+  "atualizadoEm": "2026-11-06T16:56:32.599Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1911,18 +1911,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "OFERTAS10",
-      "loja": "Outro: não especificada",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-06T16:56:16.000Z",
-      "url": null
-    },
-    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -2485,18 +2473,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "OFERTAS10",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-06T16:56:17.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "CBFNO6B9M8",
