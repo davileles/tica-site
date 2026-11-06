@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T22:50:21.176Z",
+  "atualizadoEm": "2026-11-06T23:00:50.514Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2016,6 +2016,18 @@
       "limite": 999,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-07T22:16:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ESQUENTA11DO11",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-07T22:54:43.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
