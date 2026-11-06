@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T22:17:04.255Z",
+  "atualizadoEm": "2026-11-06T22:20:19.116Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1992,6 +1992,18 @@
       "limite": 20,
       "observacao": "Três cupons para selecionados no Mercado Livre",
       "validadeAte": "2026-11-07T18:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BUDBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 999,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-07T22:16:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
