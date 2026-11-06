@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-06T14:35:12.127Z",
+  "atualizadoEm": "2026-11-06T14:49:06.399Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41926",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Jantar 10 Peças Ryo Maresia",
+      "link": "https://meli.la/2UAa3ek",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_956800-MLA105087248712_012026-F.jpg",
+      "preco": 149.92000000000002,
+      "precoDe": 323.89,
+      "desconto": 38,
+      "cupom": "OFFPRACASA",
+      "enviadoEm": "2026-11-06T14:46:02.985Z"
+    },
+    {
+      "id": "41918",
+      "loja": "Mercado Livre",
+      "titulo": "Árvore De Natal 1,80m 800 Galhos Grade Cheia Luxo Pinheiro Tradicional Natalino",
+      "link": "https://meli.la/2cc2ETE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_999097-MLA117747569644_102026-F.jpg",
+      "preco": 120.19,
+      "precoDe": 239.9,
+      "desconto": 33,
+      "cupom": "OFFPRACASA",
+      "enviadoEm": "2026-11-06T14:41:38.154Z"
+    },
     {
       "id": "41912",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-04T14:13:25.050Z"
-    },
-    {
-      "id": "40619",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Alimentação Portátil Berry 3 em 1 Rosa Multikids",
-      "link": "https://www.amazon.com.br/dp/B0C7LR9X83?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zDHFFEUtL._SL400_.jpg",
-      "preco": 207.57,
-      "precoDe": 239,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:12:51.658Z"
-    },
-    {
-      "id": "40618",
-      "loja": "Amazon",
-      "titulo": "Buba, Bichinhos Para Banho Amiguinhos Aquaticos - 10 Un",
-      "link": "https://www.amazon.com.br/dp/B0CWJ2SCW4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414MCBgccrL._SL400_.jpg",
-      "preco": 39.89,
-      "precoDe": 65.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:12:22.874Z"
     }
   ]
 }
