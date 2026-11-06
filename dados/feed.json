@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-06T12:26:22.081Z",
+  "atualizadoEm": "2026-11-06T12:39:33.498Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41824",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Hisense HI-QLED 4K 43\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 43Q6QVV",
+      "link": "https://meli.la/1HBrnbM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_607020-MLA119937862637_102026-F.jpg",
+      "preco": 1418,
+      "precoDe": 2199,
+      "desconto": 36,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:36:44.507Z"
+    },
+    {
+      "id": "41823",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Msi Mag Coreliquid A12 360, Argb, Preto",
+      "link": "https://meli.la/2u33a5k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875629-MLA84217866904_052025-F.jpg",
+      "preco": 332.44,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:35:05.149Z"
+    },
+    {
+      "id": "41818",
+      "loja": "Mercado Livre",
+      "titulo": "Disco sólido interno Lexar LNQ100X1920-RNNNU 1.92TB Preto",
+      "link": "https://meli.la/2k7LEZ7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641910-MLA99934033201_112025-F.jpg",
+      "preco": 1006,
+      "precoDe": 1699,
+      "desconto": 41,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:33:23.015Z"
+    },
+    {
+      "id": "41815",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P Preto",
+      "link": "https://meli.la/1hffGey",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687589-MLA99536545292_122025-F.jpg",
+      "preco": 967.12,
+      "precoDe": 1499,
+      "desconto": 27,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:31:40.443Z"
+    },
+    {
+      "id": "41810",
+      "loja": "Mercado Livre",
+      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte, Galaxy Ai",
+      "link": "https://meli.la/1oCDqoC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988774-MLB106707431674_022026-P.webp",
+      "preco": 1747.08,
+      "precoDe": 2099,
+      "desconto": 17,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:29:55.272Z"
+    },
+    {
+      "id": "41808",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer 27\" Acer Nitro KG3 com Tela Full HD 120Hz IPS Resposta de 1ms VRB Tecnologia Adaptive Sync Game Mode Proteção Visual AcerVisionCare Design ZeroFrame Entradas HDMI e V",
+      "link": "https://meli.la/2Aw2gkj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774819-MLA118112177575_092026-F.jpg",
+      "preco": 542.97,
+      "precoDe": 699,
+      "desconto": 12,
+      "cupom": "FAVORITO",
+      "enviadoEm": "2026-11-06T12:28:13.103Z"
+    },
     {
       "id": "41806",
       "loja": "Mercado Livre",
@@ -5929,78 +6001,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-11-04T12:18:59.129Z"
-    },
-    {
-      "id": "40541",
-      "loja": "Amazon",
-      "titulo": "Composto Lácteo Nestlé Ninho Forti+, 750g",
-      "link": "https://www.amazon.com.br/dp/B082JG4L27?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41JfRCi8vOL._SL400_.jpg",
-      "preco": 30.51,
-      "precoDe": 38.99,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T12:16:41.140Z"
-    },
-    {
-      "id": "40540",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina De Lavar Consul 9kg Branca Com Dosagem - C Branco",
-      "link": "https://meli.la/2Ka3DAX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731826-MLA115041949846_082026-F.jpg",
-      "preco": 1124.25,
-      "precoDe": 1612,
-      "desconto": 7,
-      "cupom": "DESCONTO",
-      "enviadoEm": "2026-11-04T12:16:10.923Z"
-    },
-    {
-      "id": "40539",
-      "loja": "Amazon",
-      "titulo": "Moisés Safety 1st, Dreamy, 0 a 9kg, Grey",
-      "link": "https://www.amazon.com.br/dp/B07B5V6RVK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VYEzmCPcL._SL400_.jpg",
-      "preco": 384.9,
-      "precoDe": 499,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T12:14:24.240Z"
-    },
-    {
-      "id": "40538",
-      "loja": "Amazon",
-      "titulo": "Integralmedica Whey Protein Crisp Bar Ovomaltine 12 Unidades | Praticidade no consumo",
-      "link": "https://www.amazon.com.br/dp/B0F2GMT6T3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Bek5lwJ+L._SL400_.jpg",
-      "preco": 84.32,
-      "precoDe": 145.44,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T12:14:00.226Z"
-    },
-    {
-      "id": "40536",
-      "loja": "Amazon",
-      "titulo": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza | BPA Free, Porta Mantimentos",
-      "link": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZauiM9kWL._SL400_.jpg",
-      "preco": 72.9,
-      "precoDe": 129.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T12:12:10.877Z"
-    },
-    {
-      "id": "40535",
-      "loja": "Mercado Livre",
-      "titulo": "Controle sem fio DualSense - Edição Limitada Wolverine - Adamantium",
-      "link": "https://meli.la/2t1VDi6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_724499-MLA118153311134_102026-F.jpg",
-      "preco": 537.91,
-      "precoDe": 599.9,
-      "desconto": 7,
-      "cupom": "TODOSITE0411",
-      "enviadoEm": "2026-11-04T12:10:26.841Z"
     }
   ]
 }
