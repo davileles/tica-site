@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T22:39:00.473Z",
+  "atualizadoEm": "2026-11-06T22:50:21.176Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1851,6 +1851,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESPECIALML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-07T22:46:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FAVORITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2040,18 +2052,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-07T17:25:20.000Z",
-      "url": null
-    },
-    {
-      "codigo": "SEARAOUT26",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 50,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas com adição de produto SEARA no pedido",
-      "validadeAte": "2026-11-06T22:45:16.000Z",
       "url": null
     },
     {
