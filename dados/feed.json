@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-06T19:20:18.189Z",
+  "atualizadoEm": "2026-11-06T19:50:18.353Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42197",
+      "loja": "Amazon",
+      "titulo": "Vonder, Parafusadeira/Furadeira a Bateria PFV 238, 20V, Bivolt, Velocidade Variável, com Maleta e Acessórios, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51WgYaTSy3L._SL400_.jpg",
+      "preco": 161.63,
+      "precoDe": 209,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:44:16.698Z"
+    },
+    {
+      "id": "42196",
+      "loja": "Amazon",
+      "titulo": "Cachaça Espírito de Minas Tradicional Artesanal de Alambique 700ml",
+      "link": "https://www.amazon.com.br/dp/B001HUBWKE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Cve9d1-wL._SL400_.jpg",
+      "preco": 53.47,
+      "precoDe": 89.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:41:40.409Z"
+    },
+    {
+      "id": "42193",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/5AtqknNyXX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 19,
+      "precoDe": 35.19,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:36:32.601Z"
+    },
+    {
+      "id": "42192",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
+      "preco": 95.99,
+      "precoDe": 177.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:34:49.813Z"
+    },
+    {
+      "id": "42186",
+      "loja": "Mercado Livre",
+      "titulo": "Frigobar 47l Elgin Classe A Inmetro 2026 Branco 220v - R$ 752,64",
+      "link": "https://meli.la/2xREhaP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_691157-MLA117482553931_092026-P.webp",
+      "preco": 639.74,
+      "precoDe": 789,
+      "desconto": 5,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-11-06T19:31:22.353Z"
+    },
+    {
+      "id": "42185",
+      "loja": "Amazon",
+      "titulo": "Vonder, Multímetro Digital Mdv 0610.",
+      "link": "https://www.amazon.com.br/dp/B07SRW4CKX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EXzKU+wYL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 157.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:24:01.331Z"
+    },
+    {
+      "id": "42178",
+      "loja": "Amazon",
+      "titulo": "Balde de Gelo Inox Isolado 3L com Tampa, Colher, Pinça e Coador",
+      "link": "https://www.amazon.com.br/dp/B0DC6HF3RV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41YOx56-b7L._SL400_.jpg",
+      "preco": 162.42,
+      "precoDe": 199.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T19:21:25.477Z"
+    },
     {
       "id": "42171",
       "loja": "Shopee",
@@ -1993,18 +2077,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-05T22:16:06.551Z"
-    },
-    {
-      "id": "41649",
-      "loja": "Amazon",
-      "titulo": "Cachaça Espírito de Minas Tradicional Artesanal de Alambique 700ml",
-      "link": "https://www.amazon.com.br/dp/B001HUBWKE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Cve9d1-wL._SL400_.jpg",
-      "preco": 53.47,
-      "precoDe": 89.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T22:15:28.542Z"
     },
     {
       "id": "41648",
@@ -5929,78 +6001,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-11-04T19:18:43.896Z"
-    },
-    {
-      "id": "40836",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Club De Nuit Intense Da Armaf Edt 105ml",
-      "link": "https://meli.la/1UxoT2n",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758939-MLB117366318080_102026-P.webp",
-      "preco": 190,
-      "precoDe": 320,
-      "desconto": 31,
-      "cupom": "SUPER0411",
-      "enviadoEm": "2026-11-04T19:16:49.061Z"
-    },
-    {
-      "id": "40835",
-      "loja": "Shopee",
-      "titulo": "Mesa de cabeceira Infantil Com Gaveta e Caixa Organizadora em MDF Com Rodinhas Rodizios",
-      "link": "https://s.shopee.com.br/6L5kvY1vI7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mia7fd7ac6wy7c_tn",
-      "preco": 159.97,
-      "precoDe": 170.18,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T19:13:20.922Z"
-    },
-    {
-      "id": "40834",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Bebê Móbile Girafa Pelúcia Mordedor Chocalho Sensorial Montessori Infantil Colorido",
-      "link": "https://s.shopee.com.br/8KqpJ51vpn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mqwi7tazqqklce_tn",
-      "preco": 35.8,
-      "precoDe": 68.85,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T19:11:07.951Z"
-    },
-    {
-      "id": "40833",
-      "loja": "Shopee",
-      "titulo": "Kit 3 necessaire transparente organizadores Bolsa Mala Saída Maternidade Troca e Fralda bebe Higiêne",
-      "link": "https://s.shopee.com.br/6VPB7W5Ipg",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mucdwmj3ubcxf7_tn",
-      "preco": 36.9,
-      "precoDe": 55.91,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T19:08:17.622Z"
-    },
-    {
-      "id": "40831",
-      "loja": "Shopee",
-      "titulo": "Manta de Bebê Tricot Coração 80x80 Macia Quentinha para Saída Maternidade e Enxoval",
-      "link": "https://s.shopee.com.br/8VAFUzozhN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mteayq3vsr9d12_tn",
-      "preco": 24.99,
-      "precoDe": 99.96,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T19:05:53.533Z"
-    },
-    {
-      "id": "40828",
-      "loja": "Shopee",
-      "titulo": "Manta Bebê Personalizada com Nome do Bebê Macia Microfibra Antialérgico Enxoval Soft",
-      "link": "https://s.shopee.com.br/3VlZXgc0Bw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mtsagyyt9ngg4e_tn",
-      "preco": 29.99,
-      "precoDe": 65.2,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T19:04:04.758Z"
     }
   ]
 }
