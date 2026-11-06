@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-06T14:27:30.895Z",
+  "atualizadoEm": "2026-11-06T14:35:12.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "41912",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 115.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:32:31.746Z"
+    },
+    {
+      "id": "41911",
+      "loja": "Amazon",
+      "titulo": "Buba Canudo Repositor Em Silicone",
+      "link": "https://www.amazon.com.br/dp/B08L3ZWD6Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21E1M2zk0fL._SL400_.jpg",
+      "preco": 11.99,
+      "precoDe": 14.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:31:46.808Z"
+    },
+    {
+      "id": "41910",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, Toy Story 120g",
+      "link": "https://meli.la/2s3BsV7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870245-MLB118418512822_102026-P.webp",
+      "preco": 38.97,
+      "precoDe": 41.46,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:31:20.154Z"
+    },
+    {
+      "id": "41909",
+      "loja": "Amazon",
+      "titulo": "TakTark Babá Eletrônica, 4.3\" Câmera para Bebês com Monitor, 2 Way Audio, Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Ideal par",
+      "link": "https://www.amazon.com.br/dp/B0BLVT9X7K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41USNuJ4clL._SL400_.jpg",
+      "preco": 369.97,
+      "precoDe": 549.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:30:55.781Z"
+    },
+    {
+      "id": "41908",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
+      "link": "https://meli.la/2MNF8JZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
+      "preco": 92.34,
+      "precoDe": 196,
+      "desconto": 41,
+      "cupom": "OFFPRACASA ou OFFPRACONSTRU",
+      "enviadoEm": "2026-11-06T14:30:33.187Z"
+    },
+    {
+      "id": "41905",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/30pLpdqJCL",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T14:28:08.598Z"
+    },
     {
       "id": "41902",
       "loja": "Mercado Livre",
@@ -5929,78 +6001,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-11-04T14:12:22.874Z"
-    },
-    {
-      "id": "40616",
-      "loja": "Shopee",
-      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
-      "link": "https://s.shopee.com.br/6q21BalxkX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
-      "preco": 26.9,
-      "precoDe": 122.27,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:11:06.568Z"
-    },
-    {
-      "id": "40617",
-      "loja": "Shopee",
-      "titulo": "5 Unidades  Petisqueira Barquinha Canoa Petiscos Churrasco Festa Frios Para Servir Amendoim Caldo Branca - Kaziva",
-      "link": "https://s.shopee.com.br/3VlZDSyeW5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moqthjsfjyf4dc_tn",
-      "preco": 7.9,
-      "precoDe": 30.38,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:09:13.408Z"
-    },
-    {
-      "id": "40615",
-      "loja": "Amazon",
-      "titulo": "Frigideira Grande 24cm Em Cerâmica Cabo De Madeira Fundo Indução Fogão a Gás Elétrico e Indução Saudável Frita Sem Usar Óleo Durável Premium",
-      "link": "https://www.amazon.com.br/dp/B0FTWCQ5W7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41r9lLt288L._SL400_.jpg",
-      "preco": 47.9,
-      "precoDe": 59.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:06:34.281Z"
-    },
-    {
-      "id": "40606",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Secador, Max Travel, Bivolt, Preto/Vermelho, 1200W - SC-10 | Bivolt, 1200W",
-      "link": "https://www.amazon.com.br/dp/B01643M5KY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kTaNjV+0L._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 99.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T14:00:03.021Z"
-    },
-    {
-      "id": "40604",
-      "loja": "Amazon",
-      "titulo": "Preservativo SKYN Elite, 8 Unidades | sem látex",
-      "link": "https://www.amazon.com.br/dp/B0F2GKPBVX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rb-hOjwHL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 42.66,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:57:41.408Z"
-    },
-    {
-      "id": "40601",
-      "loja": "Amazon",
-      "titulo": "Saponáceo Cremoso Cif, Original, 250ml | Limpeza Milagrosa, Remove 100% da Sujeira Difícil, Sem Esforço",
-      "link": "https://www.amazon.com.br/dp/B07DTLSF61?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bHzW9m3aL._SL400_.jpg",
-      "preco": 6.9,
-      "precoDe": 14.8,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T13:55:46.752Z"
     }
   ]
 }
