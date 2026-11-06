@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-06T16:05:33.344Z",
+  "atualizadoEm": "2026-11-06T16:35:33.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42020",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Hisense HI-QLED 4K 55\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 55Q6QV",
+      "link": "https://meli.la/1FACLG3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_959212-MLA117862689135_092026-F.jpg",
+      "preco": 1998,
+      "precoDe": 2799,
+      "desconto": 21,
+      "cupom": "OFFNOML",
+      "enviadoEm": "2026-11-06T16:32:32.875Z"
+    },
+    {
+      "id": "42017",
+      "loja": "Amazon",
+      "titulo": "Gillette Venus Pele Sensível Aparelho de Depilar com Aloe Vera, 1 Unidade",
+      "link": "https://www.amazon.com.br/dp/B0DSLLY366?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nNecTIAIL._SL400_.jpg",
+      "preco": 15.09,
+      "precoDe": 23.04,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:29:17.527Z"
+    },
+    {
+      "id": "42016",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 159.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:27:50.622Z"
+    },
+    {
+      "id": "42013",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Nike Sportswear Masculina",
+      "link": "https://meli.la/1P3d9yq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878697-MLB100487060598_122025-O-camiseta-nike-sportswear-masculina.webp",
+      "preco": 107.99,
+      "precoDe": 149.99,
+      "desconto": 20,
+      "cupom": "CUPOM10",
+      "enviadoEm": "2026-11-06T16:26:20.426Z"
+    },
+    {
+      "id": "42010",
+      "loja": "Mercado Livre",
+      "titulo": "Óleo Capilar Oil Reflections Wella 100ml",
+      "link": "https://meli.la/2FzpzxP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_745593-MLA106774218986_022026-F.jpg",
+      "preco": 116.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOM10",
+      "enviadoEm": "2026-11-06T16:21:30.964Z"
+    },
+    {
+      "id": "42009",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
+      "link": "https://s.shopee.com.br/7fbBVtiigw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mrptxbfmhqth6e_tn",
+      "preco": 40.99,
+      "precoDe": 56.15,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:19:57.721Z"
+    },
+    {
+      "id": "42007",
+      "loja": "Amazon",
+      "titulo": "Babysec Fralda Premium Hiper G 60 Un",
+      "link": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41x-LHyXsxL._SL400_.jpg",
+      "preco": 53,
+      "precoDe": 85.2,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:12:47.919Z"
+    },
+    {
+      "id": "42006",
+      "loja": "Amazon",
+      "titulo": "Aspirador Nasal Likluc Aspirar Baby",
+      "link": "https://www.amazon.com.br/dp/B07MLKYB46?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41tooos1zDL._SL400_.jpg",
+      "preco": 54.77,
+      "precoDe": 89.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:12:24.057Z"
+    },
+    {
+      "id": "42005",
+      "loja": "Amazon",
+      "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
+      "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31t0l+Bm-pL._SL400_.jpg",
+      "preco": 63.74,
+      "precoDe": 93.02,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-06T16:11:54.682Z"
+    },
     {
       "id": "41999",
       "loja": "Amazon",
@@ -4851,18 +4959,6 @@
       "enviadoEm": "2026-11-04T20:19:43.421Z"
     },
     {
-      "id": "40903",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Hisense HI-QLED 4K 55\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 55Q6QV",
-      "link": "https://meli.la/1FACLG3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_959212-MLA117862689135_092026-F.jpg",
-      "preco": 1829,
-      "precoDe": 2799,
-      "desconto": 17,
-      "cupom": "CUPOMAQUI",
-      "enviadoEm": "2026-11-04T20:17:48.991Z"
-    },
-    {
       "id": "40902",
       "loja": "Amazon",
       "titulo": "Notebook Multi Ultra 14\" HD Intel Pentium Gold 6500Y 4GB RAM 128GB eMMC Windows 11 Home Copilot Câmera 2MP - UB364",
@@ -5905,102 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-04T16:16:32.588Z"
-    },
-    {
-      "id": "40706",
-      "loja": "Amazon",
-      "titulo": "Eu consigo!: Para crianças determinadas",
-      "link": "https://www.amazon.com.br/dp/8538058983?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51X1zQQb8DL._SL400_.jpg",
-      "preco": 14.98,
-      "precoDe": 34.9,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:16:05.225Z"
-    },
-    {
-      "id": "40705",
-      "loja": "Amazon",
-      "titulo": "O Varal das Letras",
-      "link": "https://www.amazon.com.br/dp/8538094505?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51O91cmcx9L._SL400_.jpg",
-      "preco": 19.95,
-      "precoDe": 39.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:15:36.673Z"
-    },
-    {
-      "id": "40704",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 4 Cuecas Boxer Microfibra Mash Box Sem Costura - R$ 50,91",
-      "link": "https://meli.la/1PvXksQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665902-MLB98192698656_112025-P.webp",
-      "preco": 50.91,
-      "precoDe": 154.3,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:15:01.908Z"
-    },
-    {
-      "id": "40700",
-      "loja": "Amazon",
-      "titulo": "OralGos Escova de Dente Adulto, Macia, 5 Unidades para Gengivas Sensíveis | OralGos Cerdas de Carvão Ativo, Macia, Multi-Cores, Prática para Viagem e Uso Familiar",
-      "link": "https://www.amazon.com.br/dp/B0FFH7HBCN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41tBp1LH9OL._SL400_.jpg",
-      "preco": 24.66,
-      "precoDe": 29.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:03:53.287Z"
-    },
-    {
-      "id": "40699",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
-      "link": "https://s.shopee.com.br/7KyHu7R3Md",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
-      "preco": 15,
-      "precoDe": 35.71,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T16:00:09.001Z"
-    },
-    {
-      "id": "40685",
-      "loja": "Amazon",
-      "titulo": "Árvore de Natal Artificial 150cm 220 Galhos | Fácil Montagem, Aspecto Natural, Base Metálica Estável, Decoração Natalina, Uso Interno",
-      "link": "https://www.amazon.com.br/dp/B0HJBZH7V8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412vpC8jhHL._SL400_.jpg",
-      "preco": 61.9,
-      "precoDe": 69.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T15:57:38.754Z"
-    },
-    {
-      "id": "40659",
-      "loja": "Mercado Livre",
-      "titulo": "Ducha Eletrônica Intense Fame 5400w Preta E Inox Cor Preto Potência",
-      "link": "https://meli.la/2qbwYkS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_770592-MLA99479918624_112025-F.jpg",
-      "preco": 183.92000000000002,
-      "precoDe": 409,
-      "desconto": 44,
-      "cupom": "CONSTRUSEMPRE",
-      "enviadoEm": "2026-11-04T15:43:55.098Z"
-    },
-    {
-      "id": "40658",
-      "loja": "Amazon",
-      "titulo": "Artelassê Jogo de Lençol King 400 Fios Giardino Branco Algodão Egípcio",
-      "link": "https://www.amazon.com.br/dp/B0H5DP3L3M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21viNXUweHL._SL400_.jpg",
-      "preco": 1626.8,
-      "precoDe": 4067,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T15:42:07.198Z"
     }
   ]
 }
