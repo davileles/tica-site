@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T20:20:20.274Z",
+  "atualizadoEm": "2026-11-06T22:17:04.255Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1851,18 +1851,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERMERCADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-06T22:00:38.435Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FAVORITO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1947,15 +1935,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
+      "codigo": "BOTICARIO15",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
+      "valor": 15,
+      "minimo": 99,
       "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-06T22:00:38.435Z",
+      "limite": 25,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-07T21:56:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
