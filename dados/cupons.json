@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T12:27:02.015Z",
+  "atualizadoEm": "2026-11-07T12:57:02.275Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -384,18 +384,6 @@
       "limite": null,
       "observacao": "Três cupons para selecionados no Mercado Livre",
       "validadeAte": "2026-11-07T18:00:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -924,30 +912,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAMAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-07T12:42:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BARATOAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-07T12:42:59.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1539,15 +1503,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEROOFERTA",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "pct",
-      "valor": 22,
-      "minimo": null,
+      "valor": 20,
+      "minimo": 299,
       "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-07T12:42:59.000Z",
+      "limite": 80,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1763,7 +1727,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-08T12:01:55.000Z",
+      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1875,6 +1839,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJAS0611",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1955,7 +1931,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-08T12:01:55.000Z",
+      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
