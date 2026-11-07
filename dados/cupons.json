@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T18:16:26.957Z",
+  "atualizadoEm": "2026-11-07T18:37:33.861Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1527,6 +1527,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTAESPECIAL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-08T18:26:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1656,18 +1668,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ITENSPARACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 129,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-08T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2076,6 +2076,18 @@
       "limite": null,
       "observacao": "Válido em restaurantes selecionados",
       "validadeAte": "2026-11-07T19:21:12.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PROMOBLACK",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Em algumas contas aparece R$ 15 OFF",
+      "validadeAte": "2026-11-08T18:29:52.000Z",
       "url": null
     },
     {
