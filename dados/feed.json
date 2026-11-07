@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-07T14:27:00.137Z",
+  "atualizadoEm": "2026-11-07T14:57:00.136Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42444",
+      "loja": "Amazon",
+      "titulo": "Vodka Dubar Zvonka Melancia 900 ml",
+      "link": "https://www.amazon.com.br/dp/B0H4NNZR1P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31agbOvb3ML._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T14:55:56.920Z"
+    },
+    {
+      "id": "42443",
+      "loja": "Mercado Livre",
+      "titulo": "Floratta Flores Secretas 75ml O Boticário Feminino",
+      "link": "https://meli.la/2TB2rRH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889465-MLA99767551238_122025-F.jpg",
+      "preco": 78.21000000000001,
+      "precoDe": 174.9,
+      "desconto": 50,
+      "cupom": "OFERTANOMELI",
+      "enviadoEm": "2026-11-07T14:55:13.071Z"
+    },
+    {
+      "id": "42442",
+      "loja": "Mercado Livre",
+      "titulo": "Gloss Lip Bunny Triple Fran By Franciny",
+      "link": "https://meli.la/1LERHme",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_734337-MLA115657904125_082026-F.jpg",
+      "preco": 20,
+      "precoDe": 99.99,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T14:47:12.754Z"
+    },
+    {
+      "id": "42441",
+      "loja": "Amazon",
+      "titulo": "Havit Fone de Ouvido Headset Gamer Fuxi-H3 Black Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C",
+      "link": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HSHdfDfxL._SL400_.jpg",
+      "preco": 149.88,
+      "precoDe": 265.45,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T14:45:52.131Z"
+    },
+    {
+      "id": "42440",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/50aRpLY3Ig",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T14:44:37.151Z"
+    },
+    {
+      "id": "42438",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G Max 5g - 256gb 8gb Ram + 16gb Ram Boost, Câmera 200mp, Ois, Tela 1.5k Extreme Amoled 120hz, Ip68 E Ip69 - Azul Claro",
+      "link": "https://meli.la/31qpuCi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698621-MLA110748614648_052026-F.jpg",
+      "preco": 1475.1,
+      "precoDe": 2355,
+      "desconto": 30,
+      "cupom": "AMIGOVIP",
+      "enviadoEm": "2026-11-07T14:37:00.084Z"
+    },
     {
       "id": "42435",
       "loja": "Shopee",
@@ -4791,18 +4863,6 @@
       "enviadoEm": "2026-11-05T16:43:51.133Z"
     },
     {
-      "id": "41399",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Motorola Moto G Max 5g - 256gb 8gb Ram + 16gb Ram Boost, Câmera 200mp, Ois, Tela 1.5k Extreme Amoled 120hz, Ip68 E Ip69 - Azul Claro",
-      "link": "https://meli.la/31qpuCi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698621-MLA110748614648_052026-F.jpg",
-      "preco": 1639,
-      "precoDe": 2355,
-      "desconto": 30,
-      "cupom": "CLIENTESTOP",
-      "enviadoEm": "2026-11-05T16:41:49.857Z"
-    },
-    {
       "id": "41397",
       "loja": "Mercado Livre",
       "titulo": "Tênis De Corrida Duramo Rc2 adidas - R$ 182,30",
@@ -5535,18 +5595,6 @@
       "enviadoEm": "2026-11-05T12:43:32.159Z"
     },
     {
-      "id": "41212",
-      "loja": "Amazon",
-      "titulo": "Havit Fone de Ouvido Headset Gamer Fuxi-H3 Black Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C",
-      "link": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HSHdfDfxL._SL400_.jpg",
-      "preco": 149.88,
-      "precoDe": 265.45,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T12:41:27.217Z"
-    },
-    {
       "id": "41211",
       "loja": "Amazon",
       "titulo": "Energy Drink Red Bull 250ml, 4 latas",
@@ -5953,54 +6001,6 @@
       "desconto": 42,
       "cupom": "BF20OFF",
       "enviadoEm": "2026-11-04T22:53:54.613Z"
-    },
-    {
-      "id": "41063",
-      "loja": "Amazon",
-      "titulo": "Passport Scotch Whisky Passport 1L",
-      "link": "https://www.amazon.com.br/dp/B07BR9NMYH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41n-KNp4cwS._SL400_.jpg",
-      "preco": 38.18,
-      "precoDe": 55.9,
-      "desconto": 15,
-      "cupom": "BF20OFF",
-      "enviadoEm": "2026-11-04T22:53:21.239Z"
-    },
-    {
-      "id": "41051",
-      "loja": "Amazon",
-      "titulo": "Creme Hidratante Corporal para Pele Seca e Sensível Cetaphil 453g - Hidratação 48h",
-      "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qWqjOR8IL._SL400_.jpg",
-      "preco": 68.72,
-      "precoDe": 104.9,
-      "desconto": 18,
-      "cupom": "BF20OFF",
-      "enviadoEm": "2026-11-04T22:52:10.619Z"
-    },
-    {
-      "id": "41049",
-      "loja": "Amazon",
-      "titulo": "Kit 3 Fans Reverse Geometric Future Squama 2503R-14W",
-      "link": "https://www.amazon.com.br/dp/B0DGNSZNRH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51GBbc0ilxL._SL400_.jpg",
-      "preco": 171.14000000000001,
-      "precoDe": 303,
-      "desconto": 29,
-      "cupom": "BF20OFF",
-      "enviadoEm": "2026-11-04T22:50:21.330Z"
-    },
-    {
-      "id": "41046",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Ventilador de Mesa 30cm Super Power, Preto, 60W, 220V - VSP-30-B",
-      "link": "https://www.amazon.com.br/dp/B09B17MQLC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ye1x-V5iL._SL400_.jpg",
-      "preco": 79.92,
-      "precoDe": 139.9,
-      "desconto": 29,
-      "cupom": "BF20OFF",
-      "enviadoEm": "2026-11-04T22:48:24.618Z"
     }
   ]
 }
