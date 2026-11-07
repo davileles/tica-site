@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-07T22:08:58.565Z",
+  "atualizadoEm": "2026-11-07T22:27:47.700Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42630",
+      "loja": "Amazon",
+      "titulo": "Skin Aqua Protetor Solar Facial Super Moisture Milk FPS50 40g, FPS 50 UVA/UVB, Ácido Hialurônico, Sem Cor",
+      "link": "https://www.amazon.com.br/dp/B0C9L4ZNZ8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21GEOjeSdAL._SL400_.jpg",
+      "preco": 38.78,
+      "precoDe": 69,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:17:47.692Z"
+    },
+    {
+      "id": "42629",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
+      "preco": 117.46,
+      "precoDe": 174.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:09:34.521Z"
+    },
     {
       "id": "42628",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:34:04.332Z"
-    },
-    {
-      "id": "41468",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Philips 65 polegadas QLED 4K UHD Wi-Fi Bluetooth 120 Hz DLG HDR10+ 65PQG7811/78",
-      "link": "https://meli.la/1SbC6Eb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_643133-MLA117875032163_092026-F.jpg",
-      "preco": 2796,
-      "precoDe": 4049,
-      "desconto": 26,
-      "cupom": "PROMOSML",
-      "enviadoEm": "2026-11-05T17:32:36.937Z"
-    },
-    {
-      "id": "41467",
-      "loja": "Shopee",
-      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
-      "link": "https://s.shopee.com.br/9KjNyrj4cM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
-      "preco": 28.9,
-      "precoDe": 61.49,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:30:45.477Z"
     }
   ]
 }
