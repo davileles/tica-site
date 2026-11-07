@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T17:39:00.192Z",
+  "atualizadoEm": "2026-11-07T18:09:00.349Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,15 +363,39 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TECH0611",
+      "codigo": "SITE0711TODO",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 220,
       "minimo": 1499,
       "maximo": null,
       "limite": null,
-      "observacao": "Três cupons para selecionados no Mercado Livre",
-      "validadeAte": "2026-11-07T18:00:13.000Z",
+      "observacao": null,
+      "validadeAte": "2026-11-08T18:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO0711",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-08T18:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE0711",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-08T18:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1767,30 +1791,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-07T18:00:21.836Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPER0611",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Três cupons para selecionados no Mercado Livre",
-      "validadeAte": "2026-11-07T18:00:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CORREAGORA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1896,18 +1896,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-09T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL0611",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Três cupons para selecionados no Mercado Livre",
-      "validadeAte": "2026-11-07T18:00:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2079,6 +2067,18 @@
       "url": null
     },
     {
+      "codigo": "BLACKMERC",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$20 em pedidos do Mercado via iFood",
+      "validadeAte": "2026-11-08T18:00:22.000Z",
+      "url": null
+    },
+    {
       "codigo": "BFLOUCURA",
       "loja": "Outro: iFood",
       "tipo": "reais",
@@ -2088,6 +2088,18 @@
       "limite": null,
       "observacao": "Válido em restaurantes selecionados",
       "validadeAte": "2026-11-07T19:21:12.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BLACKMERC",
+      "loja": "Outro: iFood Mercado",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-08T18:01:30.000Z",
       "url": null
     },
     {
