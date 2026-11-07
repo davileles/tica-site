@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-07T16:57:00.137Z",
+  "atualizadoEm": "2026-11-07T17:09:58.548Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42517",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo de Toalhas Karsten Emcompre Cinza 4 Peças de Algodão Para Banho e Rosto",
+      "link": "https://meli.la/2UqSpRu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_657940-MLA108419854919_032026-F.jpg",
+      "preco": 98.32000000000001,
+      "precoDe": 213.2,
+      "desconto": 44,
+      "cupom": "CUPOMPRACASA",
+      "enviadoEm": "2026-11-07T17:08:12.037Z"
+    },
+    {
+      "id": "42516",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Kappa Pulse Unissex Academia Caminhada",
+      "link": "https://meli.la/1oNjc3A",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932856-MLB113427111477_062026-O-tnis-kappa-pulse-unissex-academia-caminhada.webp",
+      "preco": 83.32000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIOFERTAS",
+      "enviadoEm": "2026-11-07T17:04:53.770Z"
+    },
+    {
+      "id": "42515",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
+      "link": "https://meli.la/2zDxhVE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
+      "preco": 93.69,
+      "precoDe": 185,
+      "desconto": 40,
+      "cupom": "ENTREGASFULL ou FULL0711",
+      "enviadoEm": "2026-11-07T17:01:37.745Z"
+    },
+    {
+      "id": "42514",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/6fifxjVsd9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 69,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T17:00:12.542Z"
+    },
+    {
+      "id": "42513",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Panelas Brinox Cerâmico 5 Pçs Carbon Ceramic Indução Cor Preto",
+      "link": "https://meli.la/2vxFewR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877108-MLA96151131073_102025-F.jpg",
+      "preco": 347.05,
+      "precoDe": 439,
+      "desconto": 5,
+      "cupom": "CUPOMPRACASA",
+      "enviadoEm": "2026-11-07T16:58:34.867Z"
+    },
     {
       "id": "42511",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-11-05T13:14:10.092Z"
-    },
-    {
-      "id": "41240",
-      "loja": "Amazon",
-      "titulo": "Personal Baby Premium Protection P 24 unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FLPXG7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41nwADgflIL._SL400_.jpg",
-      "preco": 20.24,
-      "precoDe": 33.2,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T13:07:07.370Z"
-    },
-    {
-      "id": "41236",
-      "loja": "Mercado Livre",
-      "titulo": "Reparador Oil Reflections 100ml - Wella",
-      "link": "https://meli.la/2bhnNpF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817412-MLA99844697407_112025-F.jpg",
-      "preco": 73.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "DESCONTOSESPECIAIS",
-      "enviadoEm": "2026-11-05T13:06:35.522Z"
-    },
-    {
-      "id": "41190",
-      "loja": "Amazon",
-      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
-      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
-      "preco": 90.15,
-      "precoDe": 119,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T12:56:01.515Z"
-    },
-    {
-      "id": "41177",
-      "loja": "Shopee",
-      "titulo": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
-      "link": "https://s.shopee.com.br/1BiVrXaXK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s4oyypg0g116_tn",
-      "preco": 17.8,
-      "precoDe": 22.82,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T12:51:59.492Z"
-    },
-    {
-      "id": "41221",
-      "loja": "Amazon",
-      "titulo": "Escrivaninha Trevalla Kuadra ML150 em L Snow",
-      "link": "https://www.amazon.com.br/dp/B089YBW8SB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51rgdyC9yVL._SL400_.jpg",
-      "preco": 332.7,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T12:49:52.530Z"
     }
   ]
 }
