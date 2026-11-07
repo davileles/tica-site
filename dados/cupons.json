@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T16:27:01.822Z",
+  "atualizadoEm": "2026-11-07T17:39:00.192Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2029,30 +2029,6 @@
       "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
       "validadeAte": "2026-11-08T15:07:43.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BLACK50",
-      "loja": "Outro: Época Cosméticos",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-07T17:25:20.000Z",
-      "url": null
-    },
-    {
-      "codigo": "PRESENTEBF",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em compras no Shopping",
-      "validadeAte": "2026-11-07T17:16:26.000Z",
-      "url": null
     },
     {
       "codigo": "BFCESTOU",
