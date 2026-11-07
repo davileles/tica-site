@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T20:08:58.876Z",
+  "atualizadoEm": "2026-11-07T20:39:00.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -946,7 +946,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons em selecionados do Mercado Livre",
+      "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -982,7 +982,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1788,6 +1788,30 @@
       "limite": 70,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-11-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "HORADOCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-08T20:08:50.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MEUDESCONTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-08T20:28:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
