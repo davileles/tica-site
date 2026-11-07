@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-07T22:38:58.577Z",
+  "atualizadoEm": "2026-11-07T22:53:50.732Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42636",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Moto G06 - 64GB 4GB RAM + 8GB Ram Boost, Camera 50MP com AI, Bateria de 5200 mAh e Tela 6.9\" - Azul Marinho",
+      "link": "https://meli.la/1P1uXKU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879828-MLA116321124714_092026-F.jpg",
+      "preco": 619,
+      "precoDe": 1438.41,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:43:50.729Z"
+    },
+    {
+      "id": "42634",
+      "loja": "Amazon",
+      "titulo": "Fórmula Infantil Nanlac Comfor, 800G",
+      "link": "https://www.amazon.com.br/dp/B07M73V8QT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415t7eMtxmL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:39:49.487Z"
+    },
     {
       "id": "42633",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:49:39.498Z"
-    },
-    {
-      "id": "41475",
-      "loja": "Amazon",
-      "titulo": "Rum Bacardi Carta Blanca 980ml",
-      "link": "https://www.amazon.com.br/dp/B07XYH874V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZiyV9P38L._SL400_.jpg",
-      "preco": 35.9,
-      "precoDe": 52.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:47:27.364Z"
-    },
-    {
-      "id": "41474",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv 43'' Philco Full Hd Roku Tv Hdr10 Dolby P43cra",
-      "link": "https://meli.la/1CoVBP3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982443-MLA110296124162_052026-F.jpg",
-      "preco": 1349,
-      "precoDe": 1799,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:42:26.469Z"
     }
   ]
 }
