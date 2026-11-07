@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-07T21:35:30.203Z",
+  "atualizadoEm": "2026-11-07T21:38:58.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42615",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
+      "link": "https://s.shopee.com.br/7Aewris0cg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9_tn",
+      "preco": 18.82,
+      "precoDe": 48.26,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:37:56.480Z"
+    },
     {
       "id": "42614",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:06:11.576Z"
-    },
-    {
-      "id": "41446",
-      "loja": "Mercado Livre",
-      "titulo": "Tenis Feminino Casual Vizzano Branco Confortável Original - R$ 123,61",
-      "link": "https://meli.la/1Duw8ao",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905545-MLB82471497215_022025-P.webp",
-      "preco": 108.78,
-      "precoDe": 167.79,
-      "desconto": 26,
-      "cupom": "MODAMELI",
-      "enviadoEm": "2026-11-05T17:05:35.328Z"
     }
   ]
 }
