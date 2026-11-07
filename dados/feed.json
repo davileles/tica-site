@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-07T23:05:04.324Z",
+  "atualizadoEm": "2026-11-07T23:38:58.589Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42639",
+      "loja": "Mercado Livre",
+      "titulo": "Carro Elétrico Infantil 12v Off Road Com Controle Remoto - Rosa",
+      "link": "https://meli.la/1freVdb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_776651-MLA97452292053_112025-F.jpg",
+      "preco": 1149.9,
+      "precoDe": 2499.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T23:29:54.921Z"
+    },
     {
       "id": "42638",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 28,
       "cupom": "OFICIAIS0511",
       "enviadoEm": "2026-11-05T17:52:39.475Z"
-    },
-    {
-      "id": "41477",
-      "loja": "Mercado Livre",
-      "titulo": "Blocos De Montar Magnético 60 Peças Criativo Mundo De Cubo Construção 3d Infantil Educativo Brinquedo Nanotoyzzz Personagens Classic",
-      "link": "https://meli.la/1Zozyhe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782877-MLA116967379952_092026-F.jpg",
-      "preco": 37,
-      "precoDe": 78.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:49:39.498Z"
     }
   ]
 }
