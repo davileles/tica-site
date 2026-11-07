@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T13:06:33.474Z",
+  "atualizadoEm": "2026-11-07T14:27:01.916Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1935,6 +1935,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTANOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-08T14:23:32.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GUERRILHA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2617,18 +2629,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "YY37Q9AH8R",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-07T14:00:59.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "HBRPOIG8F1",
