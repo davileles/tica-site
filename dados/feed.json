@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-07T21:08:58.564Z",
+  "atualizadoEm": "2026-11-07T21:35:30.203Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42614",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs",
+      "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Uv+ZsF3RL._SL400_.jpg",
+      "preco": 59.77,
+      "precoDe": 169.9,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:25:30.201Z"
+    },
+    {
+      "id": "42613",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 109.9,
+      "precoDe": 157.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:16:20.998Z"
+    },
+    {
+      "id": "42612",
+      "loja": "Mizuno",
+      "titulo": "Tênis de Corrida Feminino Mizuno Wave Rebellion Sonic 2 39 Branco",
+      "link": "https://tidd.ly/4sMSGcV",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Amizunobr.vteximg.com.br%2Farquivos%2Fids%2F237006_2&feedId=85451&k=ce4ea17ad1ece2e1dcec219cdacd75b4dd6d7eee",
+      "preco": 399.99,
+      "precoDe": 999.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:12:20.081Z"
+    },
+    {
+      "id": "42611",
+      "loja": "Mercado Livre",
+      "titulo": "Lustre Led Sala Moderno 60w, 3 Arcos Pendente Luminária Teto",
+      "link": "https://meli.la/2uR9A1w",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_693366-MLB89308241348_082025-P.webp",
+      "preco": 134.89,
+      "precoDe": 299.99,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:11:00.950Z"
+    },
+    {
+      "id": "42610",
+      "loja": "Amazon",
+      "titulo": "Hada Labo® Gokujyun Lotion – Loção Hidratante facial com Ácido Hialurônico fermentado com lactobacilos 170ml",
+      "link": "https://www.amazon.com.br/dp/B07ZD69QXX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416gnpouGBL._SL400_.jpg",
+      "preco": 62.91,
+      "precoDe": 119,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:09:46.197Z"
+    },
     {
       "id": "42609",
       "loja": "Mercado Livre",
@@ -4611,18 +4671,6 @@
       "enviadoEm": "2026-11-06T11:13:26.597Z"
     },
     {
-      "id": "41706",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 109.9,
-      "precoDe": 157.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:10:13.416Z"
-    },
-    {
       "id": "41705",
       "loja": "Amazon",
       "titulo": "Creme Crocante Ovomaltine, 260g",
@@ -5953,54 +6001,6 @@
       "desconto": 26,
       "cupom": "MODAMELI",
       "enviadoEm": "2026-11-05T17:05:35.328Z"
-    },
-    {
-      "id": "41442",
-      "loja": "Amazon",
-      "titulo": "Apple 2024 iMac (de 24 polegadas, Chip M4 da Apple com CPU de 10 núcleos e GPU de 10 núcleos, 16GB Memória unificada, de 256 GB) - Prateado",
-      "link": "https://www.amazon.com.br/dp/B0DL8NL6SD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SMgvUId4L._SL400_.jpg",
-      "preco": 13672.74,
-      "precoDe": 17999,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T16:57:26.998Z"
-    },
-    {
-      "id": "41440",
-      "loja": "Amazon",
-      "titulo": "Whey Protein Concentrado Pote (900G) - Sabor Morango, Dux Nutrition, multi-colored",
-      "link": "https://www.amazon.com.br/dp/B07MJ78WT5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Fi58jLMAL._SL400_.jpg",
-      "preco": 173.99,
-      "precoDe": 237.4,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T16:54:22.742Z"
-    },
-    {
-      "id": "41422",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Merlot 750ml",
-      "link": "https://www.amazon.com.br/dp/B01IT28KG6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31swx27vAbL._SL400_.jpg",
-      "preco": 39.26,
-      "precoDe": 73.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T16:52:43.722Z"
-    },
-    {
-      "id": "41421",
-      "loja": "Mercado Livre",
-      "titulo": "ATENÇÃO MAMÃES DE MENINO, já separa pro verão",
-      "link": "https://meli.la/2oX8v4g",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854842-MLB115888752547_082026-P.webp",
-      "preco": 48,
-      "precoDe": 75.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T16:50:53.166Z"
     }
   ]
 }
