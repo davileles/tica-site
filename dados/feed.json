@@ -1,7 +1,139 @@
 {
-  "atualizadoEm": "2026-11-07T21:38:58.565Z",
+  "atualizadoEm": "2026-11-07T22:08:58.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42628",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 115.13,
+      "precoDe": 174.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:08:51.600Z"
+    },
+    {
+      "id": "42627",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Air Max Alpha Trainer 6 Masculino - R$ 449,99",
+      "link": "https://meli.la/2UXihDH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_767770-MLB100876249417_122025-P.webp",
+      "preco": 395.99,
+      "precoDe": 799.99,
+      "desconto": 44,
+      "cupom": "MODAAQUI",
+      "enviadoEm": "2026-11-07T22:08:16.948Z"
+    },
+    {
+      "id": "42626",
+      "loja": "Amazon",
+      "titulo": "Omo Sabão Líquido Puro Cuidado 5L - Tampa pode Variar",
+      "link": "https://www.amazon.com.br/dp/B08XMB1XFJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41M3mOT0YxL._SL400_.jpg",
+      "preco": 51.76,
+      "precoDe": 61.39,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:05:27.338Z"
+    },
+    {
+      "id": "42624",
+      "loja": "Amazon",
+      "titulo": "Parafusadeira Furadeira Gsb18v-65 +bateria+carregador Bosch",
+      "link": "https://www.amazon.com.br/dp/B0GM1LHQJG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gnVwvWwvL._SL400_.jpg",
+      "preco": 852.06,
+      "precoDe": 1050.29,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:00:47.066Z"
+    },
+    {
+      "id": "42623",
+      "loja": "Mercado Livre",
+      "titulo": "Travesseiro Viscoelástico Borboleta Cervical Sono Profundo",
+      "link": "https://meli.la/2RPJMn6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_940186-MLB115232945436_082026-P.webp",
+      "preco": 139,
+      "precoDe": 299,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:57:55.527Z"
+    },
+    {
+      "id": "42622",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Old No. 7 Tennessee Whiskey 1L",
+      "link": "https://www.amazon.com.br/dp/B000PQECW6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZhUwAjePL._SL400_.jpg",
+      "preco": 108.99,
+      "precoDe": 174.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:52:41.686Z"
+    },
+    {
+      "id": "42621",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 115.9,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:52:06.867Z"
+    },
+    {
+      "id": "42620",
+      "loja": "Amazon",
+      "titulo": "el Jimador Reposado Tequila 750 mL",
+      "link": "https://www.amazon.com.br/dp/B07HM7PJFX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DxXjTZelL._SL400_.jpg",
+      "preco": 113.84,
+      "precoDe": 129.9,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:46:28.967Z"
+    },
+    {
+      "id": "42619",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 500ml",
+      "link": "https://www.amazon.com.br/dp/B08C7VX6Q6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31iSk1WgnFL._SL400_.jpg",
+      "preco": 65.9,
+      "precoDe": 120.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:45:05.914Z"
+    },
+    {
+      "id": "42618",
+      "loja": "Amazon",
+      "titulo": "Whisky Buchanan's Deluxe 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B00MTFIL0U?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NLYjmlnwL._SL400_.jpg",
+      "preco": 139.9,
+      "precoDe": 199.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:40:12.464Z"
+    },
+    {
+      "id": "42616",
+      "loja": "Amazon",
+      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
+      "preco": 75,
+      "precoDe": 106.18,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T21:39:10.114Z"
+    },
     {
       "id": "42615",
       "loja": "Shopee",
@@ -3915,18 +4047,6 @@
       "enviadoEm": "2026-11-06T14:41:38.154Z"
     },
     {
-      "id": "41912",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
-      "preco": 44.9,
-      "precoDe": 115.9,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T14:32:31.746Z"
-    },
-    {
       "id": "41911",
       "loja": "Amazon",
       "titulo": "Buba Canudo Repositor Em Silicone",
@@ -5523,18 +5643,6 @@
       "enviadoEm": "2026-11-05T19:09:28.554Z"
     },
     {
-      "id": "41530",
-      "loja": "Amazon",
-      "titulo": "Omo Sabão Líquido Puro Cuidado 5L - Tampa pode Variar",
-      "link": "https://www.amazon.com.br/dp/B08XMB1XFJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41M3mOT0YxL._SL400_.jpg",
-      "preco": 52.24,
-      "precoDe": 61.39,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T19:06:54.958Z"
-    },
-    {
       "id": "41529",
       "loja": "Amazon",
       "titulo": "WAP Aspirador de Pó Automotivo Car 12V2, Portátil, 420ml, com Recipiente Removível e Filtro Lavável, 180W 12VDC",
@@ -5893,114 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:30:45.477Z"
-    },
-    {
-      "id": "41466",
-      "loja": "Mercado Livre",
-      "titulo": "Guarda-roupa Casal 6 Portas 2 Gavetas França Espresso Móveis cor cinamomo off-white",
-      "link": "https://meli.la/2ZJJDz9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893539-MLA107404130406_032026-F.jpg",
-      "preco": 564.99,
-      "precoDe": 964.67,
-      "desconto": 31,
-      "cupom": "MOVEIS100",
-      "enviadoEm": "2026-11-05T17:28:53.242Z"
-    },
-    {
-      "id": "41465",
-      "loja": "Amazon",
-      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
-      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
-      "preco": 60.9,
-      "precoDe": 69.54,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:27:06.494Z"
-    },
-    {
-      "id": "41463",
-      "loja": "Amazon",
-      "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
-      "link": "https://www.amazon.com.br/dp/6561263022?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL400_.jpg",
-      "preco": 19.74,
-      "precoDe": 49.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:25:00.131Z"
-    },
-    {
-      "id": "41461",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Consul Frost Free 377 Litros Duplex Inox - CRM44MK",
-      "link": "https://meli.la/1sBv78s",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636022-MLA100042417899_122025-F.jpg",
-      "preco": 2521,
-      "precoDe": 2999,
-      "desconto": 16,
-      "cupom": "PROMOSML",
-      "enviadoEm": "2026-11-05T17:24:35.748Z"
-    },
-    {
-      "id": "41460",
-      "loja": "Amazon",
-      "titulo": "Whisky Old Parr 18 Anos, 750ml",
-      "link": "https://www.amazon.com.br/dp/B07YM874SG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ofk2gHfcL._SL400_.jpg",
-      "preco": 349.99,
-      "precoDe": 499.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:21:55.866Z"
-    },
-    {
-      "id": "41458",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Óleos Capilares Oil Reflections 30ml - Wella",
-      "link": "https://meli.la/1t11FtR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918170-MLA99343394984_112025-F.jpg",
-      "preco": 63.79,
-      "precoDe": 119.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:19:49.814Z"
-    },
-    {
-      "id": "41449",
-      "loja": "Shopee",
-      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
-      "link": "https://s.shopee.com.br/9zz4kb5Jee",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
-      "preco": 19.29,
-      "precoDe": 21.43,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:08:29.151Z"
-    },
-    {
-      "id": "41447",
-      "loja": "Amazon",
-      "titulo": "Cachaça Tradicional 51 Garrafa 965ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8THCL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KoCW3KbUL._SL400_.jpg",
-      "preco": 21.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:06:45.631Z"
-    },
-    {
-      "id": "41448",
-      "loja": "Amazon",
-      "titulo": "Stanley - Garrafa de água térmica Twistflip, isolada em aço inoxidável para bebidas quentes e frias, resistente a fugas, 710ml, Chalck",
-      "link": "https://www.amazon.com.br/dp/B0GTC9FRH9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21KnL-FZDOL._SL400_.jpg",
-      "preco": 243.05,
-      "precoDe": 309.1,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:06:11.576Z"
     }
   ]
 }
