@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T18:09:00.349Z",
+  "atualizadoEm": "2026-11-07T18:16:26.957Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -967,10 +967,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": "10 cupons ativos do Mercado Livre",
+      "observacao": "Válido apenas em produtos selecionados conforme a lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1483,7 +1483,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
@@ -2017,18 +2017,6 @@
       "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
       "validadeAte": "2026-11-08T15:07:43.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BFCESTOU",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
-      "validadeAte": "2026-11-07T18:13:36.000Z",
-      "url": null
     },
     {
       "codigo": "BFCORRE",
