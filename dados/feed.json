@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-07T19:27:13.896Z",
+  "atualizadoEm": "2026-11-07T19:38:58.555Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42572",
+      "loja": "Amazon",
+      "titulo": "Café Pilão Torrado e Moído Espresso",
+      "link": "https://www.amazon.com.br/dp/B0H2FGZM6S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41bnlzYhsYL._SL400_.jpg",
+      "preco": 24.03,
+      "precoDe": 35.49,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T19:37:53.458Z"
+    },
+    {
+      "id": "42571",
+      "loja": "Shopee",
+      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
+      "link": "https://s.shopee.com.br/5VWijusycv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
+      "preco": 22.49,
+      "precoDe": 77.55,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T19:30:56.409Z"
+    },
+    {
+      "id": "42570",
+      "loja": "Amazon",
+      "titulo": "CACHAÇA SALINAS 1L TRADICIONAL",
+      "link": "https://www.amazon.com.br/dp/B07XS8XKKG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Rn74zBmjL._SL400_.jpg",
+      "preco": 67.99,
+      "precoDe": 81.95,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T19:28:07.726Z"
+    },
     {
       "id": "42568",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 42,
       "cupom": "DESCONTOSESPECIAIS",
       "enviadoEm": "2026-11-05T15:47:41.653Z"
-    },
-    {
-      "id": "41350",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Stanley Quencher Black 2.0 1.18L",
-      "link": "https://meli.la/2FcJgj5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756370-MLA120493710377_102026-F.jpg",
-      "preco": 109.84,
-      "precoDe": 359,
-      "desconto": 64,
-      "cupom": "OFICIAIS0511",
-      "enviadoEm": "2026-11-05T15:43:49.356Z"
-    },
-    {
-      "id": "41349",
-      "loja": "Amazon",
-      "titulo": "TCL, QLED Smart TV, 55”, 55P8K, 4K UHD, Google TV, 144Hz, Google Assistente, Dolby Vision, Dolby Atmos, Design Sem Bordas",
-      "link": "https://www.amazon.com.br/dp/B0GH2SC1XG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41UmF6dm83L._SL400_.jpg",
-      "preco": 300,
-      "precoDe": 2899,
-      "desconto": 90,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T15:42:05.627Z"
-    },
-    {
-      "id": "41346",
-      "loja": "Shopee",
-      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "link": "https://s.shopee.com.br/2LZdPP6CRh",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
-      "preco": 49.99,
-      "precoDe": 71.41,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T15:36:21.427Z"
     }
   ]
 }
