@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T19:09:00.271Z",
+  "atualizadoEm": "2026-11-07T19:27:15.477Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1075,10 +1075,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2040,18 +2040,6 @@
       "limite": null,
       "observacao": "Desconto de R$20 em pedidos do Mercado via iFood",
       "validadeAte": "2026-11-08T18:00:22.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFLOUCURA",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 27,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em restaurantes selecionados",
-      "validadeAte": "2026-11-07T19:21:12.000Z",
       "url": null
     },
     {
