@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-07T18:37:31.869Z",
+  "atualizadoEm": "2026-11-07T18:38:58.554Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42552",
+      "loja": "Mercado Livre",
+      "titulo": "Placa-mãe Msi B550m Gaming Plus Wifi6e, Amd Am4, Micro Atx",
+      "link": "https://meli.la/2JxFo4b",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698844-MLB120938429309_112026-P.webp",
+      "preco": 604,
+      "precoDe": 711.99,
+      "desconto": 15,
+      "cupom": "TODOSITE0711",
+      "enviadoEm": "2026-11-07T18:38:21.074Z"
+    },
     {
       "id": "42545",
       "loja": "Shopee",
@@ -3805,18 +3817,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-06T12:24:20.832Z"
-    },
-    {
-      "id": "41803",
-      "loja": "Mercado Livre",
-      "titulo": "Placa Mãe Msi B550m Gaming Plus Wifi6e, Amd Am4, Micro Atx",
-      "link": "https://meli.la/2JxFo4b",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_698844-MLB120938429309_112026-P.webp",
-      "preco": 546.98,
-      "precoDe": 690.63,
-      "desconto": 10,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:23:46.972Z"
     },
     {
       "id": "41798",
