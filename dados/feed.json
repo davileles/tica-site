@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-07T19:08:58.555Z",
+  "atualizadoEm": "2026-11-07T19:27:13.896Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42568",
+      "loja": "Amazon",
+      "titulo": "Cerveja Corona, Lata 269ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0F3XRNDMK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ETw4fyieL._SL400_.jpg",
+      "preco": 30.32,
+      "precoDe": 39.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T19:17:13.893Z"
+    },
+    {
+      "id": "42566",
+      "loja": "Shopee",
+      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "link": "https://s.shopee.com.br/gRSxaljRb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
+      "preco": 31.99,
+      "precoDe": 58.16,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T19:09:43.234Z"
+    },
     {
       "id": "42565",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-05T15:36:21.427Z"
-    },
-    {
-      "id": "41346",
-      "loja": "Amazon",
-      "titulo": "Ypióca Cachaça Ouro Sem Palha 965Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS9V9TH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hp6Vm83yL._SL400_.jpg",
-      "preco": 20.91,
-      "precoDe": 24.99,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T15:32:51.166Z"
-    },
-    {
-      "id": "41345",
-      "loja": "Amazon",
-      "titulo": "Mondelez Bis Branco 100 8G",
-      "link": "https://www.amazon.com.br/dp/B0C842JL5V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418aZbcTzwL._SL400_.jpg",
-      "preco": 5.99,
-      "precoDe": 8.49,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T15:32:13.858Z"
     }
   ]
 }
