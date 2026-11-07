@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-07T18:08:58.555Z",
+  "atualizadoEm": "2026-11-07T18:37:31.869Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42545",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/8VAKF5OYc3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 56.91,
+      "precoDe": 93.3,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T18:27:31.868Z"
+    },
+    {
+      "id": "42543",
+      "loja": "Amazon",
+      "titulo": "WAP Lavadora de Alta Pressão OUSADA PLUS 2200, 1500W 127V | Jato Leque e Concentrado, 342L/h, 1750psi",
+      "link": "https://www.amazon.com.br/dp/B077PT41YL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419ri-pmV3L._SL400_.jpg",
+      "preco": 378.87,
+      "precoDe": 779.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T18:26:10.994Z"
+    },
     {
       "id": "42538",
       "loja": "Shopee",
@@ -1609,18 +1633,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-11-07T11:01:16.902Z"
-    },
-    {
-      "id": "42315",
-      "loja": "Amazon",
-      "titulo": "WAP Lavadora de Alta Pressão OUSADA PLUS 2200, 1500W 127V | Jato Leque e Concentrado, 342L/h, 1750psi",
-      "link": "https://www.amazon.com.br/dp/B077PT41YL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/419ri-pmV3L._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 779.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T23:27:31.032Z"
     },
     {
       "id": "42314",
@@ -5989,18 +6001,6 @@
       "desconto": 58,
       "cupom": null,
       "enviadoEm": "2026-11-05T15:12:29.283Z"
-    },
-    {
-      "id": "41334",
-      "loja": "Amazon",
-      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
-      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
-      "preco": 77.9,
-      "precoDe": 129.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T15:10:40.321Z"
     }
   ]
 }
