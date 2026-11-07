@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-07T12:57:00.135Z",
+  "atualizadoEm": "2026-11-07T13:27:00.136Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42413",
+      "loja": "Amazon",
+      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Branca - 127V",
+      "link": "https://www.amazon.com.br/dp/B0DXMXSQSJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415vQEEvk4L._SL400_.jpg",
+      "preco": 297.43,
+      "precoDe": 499.9,
+      "desconto": 30,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-07T13:26:58.702Z"
+    },
+    {
+      "id": "42412",
+      "loja": "Shopee",
+      "titulo": "Cerveja Corona Extra Long Neck 330ml - Pack Com 24 Unidades",
+      "link": "https://s.shopee.com.br/BVBpB8DZ3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may6knakuc556d_tn",
+      "preco": 168.9,
+      "precoDe": 234.58,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T13:25:09.158Z"
+    },
+    {
+      "id": "42411",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
+      "preco": 42.18,
+      "precoDe": 76.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T13:24:37.552Z"
+    },
+    {
+      "id": "42409",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50CM Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/7VHmhyos90",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-muyst4850bnk97_tn",
+      "preco": 14.99,
+      "precoDe": 27.25,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T13:18:09.061Z"
+    },
     {
       "id": "42405",
       "loja": "Shopee",
@@ -457,18 +505,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-07T11:12:10.337Z"
-    },
-    {
-      "id": "42325",
-      "loja": "Shopee",
-      "titulo": "Cerveja Corona Extra Long Neck 330ml - Pack Com 24 Unidades",
-      "link": "https://s.shopee.com.br/BVBpB8DZ3",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may6knakuc556d_tn",
-      "preco": 168.9,
-      "precoDe": 234.58,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T11:07:22.776Z"
     },
     {
       "id": "42324",
@@ -5535,18 +5571,6 @@
       "enviadoEm": "2026-11-05T11:45:09.579Z"
     },
     {
-      "id": "41130",
-      "loja": "Amazon",
-      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
-      "preco": 42.18,
-      "precoDe": 76.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T11:38:58.926Z"
-    },
-    {
       "id": "41122",
       "loja": "Shopee",
       "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
@@ -5977,30 +6001,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-11-04T22:06:47.662Z"
-    },
-    {
-      "id": "41009",
-      "loja": "Amazon",
-      "titulo": "Kit Cronograma Capilar Lola Cosmetics Be(m) Dita Ghee, 3 Produtos",
-      "link": "https://www.amazon.com.br/dp/B0DKVJ1HWB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+uHo2ZTyL._SL400_.jpg",
-      "preco": 34.19,
-      "precoDe": 69.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T22:05:03.088Z"
-    },
-    {
-      "id": "41006",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Stanley Quencher Cream 1.18L",
-      "link": "https://meli.la/2XBuBWj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676816-MLA100061211687_122025-F.jpg",
-      "preco": 130.28,
-      "precoDe": 359,
-      "desconto": 57,
-      "cupom": "15MODA0411",
-      "enviadoEm": "2026-11-04T22:03:12.178Z"
     }
   ]
 }
