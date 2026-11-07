@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-07T11:27:00.132Z",
+  "atualizadoEm": "2026-11-07T11:57:00.134Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42345",
+      "loja": "Amazon",
+      "titulo": "Bosch Martelete Perfurador Gbh 2-24D 820W 127V Com Maleta",
+      "link": "https://www.amazon.com.br/dp/B076KPXF6P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
+      "preco": 650,
+      "precoDe": 899,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T11:56:10.685Z"
+    },
+    {
+      "id": "42344",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Descartável Premium Natural Care G - 132 Un",
+      "link": "https://www.amazon.com.br/dp/B0HF67275F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41tyBRSsC0L._SL400_.jpg",
+      "preco": 169.09,
+      "precoDe": 213.3,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T11:53:01.166Z"
+    },
+    {
+      "id": "42342",
+      "loja": "Amazon",
+      "titulo": "Mala de Viagem American Tourister Tesa 4.0 Spinner Prata Média",
+      "link": "https://www.amazon.com.br/dp/B0FVY8L1WQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pMZUYC+2L._SL400_.jpg",
+      "preco": 245.65,
+      "precoDe": 659,
+      "desconto": 56,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-07T11:52:10.455Z"
+    },
+    {
+      "id": "42341",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/2LZgS0hKw5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 22.99,
+      "precoDe": 47.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T11:43:32.682Z"
+    },
+    {
+      "id": "42340",
+      "loja": "Amazon",
+      "titulo": "Vichy Dercos DS Shampoo Anticaspa para Cabelos Secos, 125g | Elimina 100% da Caspa Visível Desde a 1ª Lavagem, Ação Antirrecidiva por 6 Semanas, Ácido Salicílico e Ceramida R",
+      "link": "https://www.amazon.com.br/dp/B0BY3JZNQ9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31RjvdrMlWL._SL400_.jpg",
+      "preco": 66.41,
+      "precoDe": 79.9,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T11:34:47.831Z"
+    },
     {
       "id": "42338",
       "loja": "Amazon",
@@ -169,18 +229,6 @@
       "desconto": 42,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-06T23:23:26.348Z"
-    },
-    {
-      "id": "42313",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador Gbh 2-24D 820W 127V Com Maleta",
-      "link": "https://www.amazon.com.br/dp/B076KPXF6P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
-      "preco": 650,
-      "precoDe": 899,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T23:21:30.793Z"
     },
     {
       "id": "42308",
@@ -577,18 +625,6 @@
       "desconto": 10,
       "cupom": "CORREAGORA",
       "enviadoEm": "2026-11-06T20:49:54.891Z"
-    },
-    {
-      "id": "42248",
-      "loja": "Amazon",
-      "titulo": "Vichy Dercos DS Shampoo Anticaspa para Cabelos Secos, 125g | Elimina 100% da Caspa Visível Desde a 1ª Lavagem, Ação Antirrecidiva por 6 Semanas, Ácido Salicílico e Ceramida R",
-      "link": "https://www.amazon.com.br/dp/B0BY3JZNQ9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31RjvdrMlWL._SL400_.jpg",
-      "preco": 66.41,
-      "precoDe": 79.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T20:48:20.574Z"
     },
     {
       "id": "42247",
@@ -5965,42 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-11-04T21:21:14.591Z"
-    },
-    {
-      "id": "40958",
-      "loja": "Shopee",
-      "titulo": "Kit Ninho Redutor de Berço + Almofada Amamentação + Trança Para Berço 4m Micropercal 200 Fios",
-      "link": "https://s.shopee.com.br/5VWe4bs6qs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhasxfmvm6984_tn",
-      "preco": 245.9,
-      "precoDe": 299.88,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T21:19:24.758Z"
-    },
-    {
-      "id": "40957",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
-      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
-      "preco": 37.99,
-      "precoDe": 72.65,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T21:17:26.875Z"
-    },
-    {
-      "id": "40956",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51pCzr1XvAL._SL400_.jpg",
-      "preco": 146.73,
-      "precoDe": 235.87,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-04T21:16:56.716Z"
     }
   ]
 }
