@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-07T22:27:47.700Z",
+  "atualizadoEm": "2026-11-07T22:38:58.577Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42633",
+      "loja": "Amazon",
+      "titulo": "Bosch Kit Parafusadeira Furadeira Gsb 120-Li E Chave De Impacto Gdr 120-Li 12V Com 1 Carregador 2 Baterias E 1 Maleta",
+      "link": "https://www.amazon.com.br/dp/B08C99QV6T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LrpcICXLL._SL400_.jpg",
+      "preco": 776.63,
+      "precoDe": 999,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:36:06.179Z"
+    },
+    {
+      "id": "42632",
+      "loja": "Amazon",
+      "titulo": "Tonéletce Vinho Tinto Francês 750Ml",
+      "link": "https://www.amazon.com.br/dp/B0BL1V55VM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JUNUi3G+L._SL400_.jpg",
+      "preco": 53.8,
+      "precoDe": 59.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:31:48.138Z"
+    },
+    {
+      "id": "42631",
+      "loja": "Amazon",
+      "titulo": "Cereal Matinal Chocolate Kitkat 210g",
+      "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41l3oWQdK7L._SL400_.jpg",
+      "preco": 8.91,
+      "precoDe": 15.99,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-07T22:28:35.243Z"
+    },
     {
       "id": "42630",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:42:26.469Z"
-    },
-    {
-      "id": "41473",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto - R$ 139,67",
-      "link": "https://meli.la/1EBJSFq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_802382-MLB117165413363_092026-P.webp",
-      "preco": 118.71999999999998,
-      "precoDe": 259.99,
-      "desconto": 46,
-      "cupom": "OFICIAIS0511",
-      "enviadoEm": "2026-11-05T17:40:17.503Z"
-    },
-    {
-      "id": "41470",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean LED15",
-      "link": "https://meli.la/1PxoHC6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651453-MLA99441269286_112025-F.jpg",
-      "preco": 1709.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOSML",
-      "enviadoEm": "2026-11-05T17:36:39.597Z"
-    },
-    {
-      "id": "41469",
-      "loja": "Amazon",
-      "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
-      "link": "https://www.amazon.com.br/dp/B09LRZZYQD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41gyvRQbUuL._SL400_.jpg",
-      "preco": 26.59,
-      "precoDe": 39,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:34:04.332Z"
     }
   ]
 }
