@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T19:27:15.477Z",
+  "atualizadoEm": "2026-11-07T20:01:59.538Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1174,7 +1174,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1747,10 +1747,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1788,18 +1788,6 @@
       "limite": 70,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
       "validadeAte": "2026-11-08T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CORREAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-07T19:59:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2017,18 +2005,6 @@
       "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
       "validadeAte": "2026-11-08T15:07:43.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "PETISCOBF",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido para Pet Shops no iFood",
-      "validadeAte": "2026-11-07T19:40:51.000Z",
-      "url": null
     },
     {
       "codigo": "BLACKMERC",
