@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T22:41:49.928Z",
+  "atualizadoEm": "2026-11-08T22:52:56.866Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42890",
+      "loja": "Mercado Livre",
+      "titulo": "SSD Kingston NV3 de 2TB M.2 NVMe PCIe 4.0 para Notebook e PC",
+      "link": "https://meli.la/1GGotp9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854995-MLA99992587149_112025-F.jpg",
+      "preco": 1679,
+      "precoDe": 2699,
+      "desconto": 30,
+      "cupom": "TODO0811SITE",
+      "enviadoEm": "2026-11-08T22:42:56.862Z"
+    },
     {
       "id": "42888",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:36:44.507Z"
-    },
-    {
-      "id": "41823",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Msi Mag Coreliquid A12 360, Argb, Preto",
-      "link": "https://meli.la/2u33a5k",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875629-MLA84217866904_052025-F.jpg",
-      "preco": 332.44,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:35:05.149Z"
     }
   ]
 }
