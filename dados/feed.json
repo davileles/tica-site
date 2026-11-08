@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-08T22:22:24.641Z",
+  "atualizadoEm": "2026-11-08T22:41:49.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42888",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis adidas Masculino Runfalcon 5 Jq6974",
+      "link": "https://meli.la/2qx56Cm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867451-MLB119049398570_112026-P.webp",
+      "preco": 189.04,
+      "precoDe": 399.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T22:40:04.360Z"
+    },
+    {
+      "id": "42886",
+      "loja": "Mercado Livre",
+      "titulo": "Disco sólido interno Lexar LNQ100X1920-RNNNU 1.92TB Preto",
+      "link": "https://meli.la/2k7LEZ7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641910-MLA99934033201_112025-F.jpg",
+      "preco": 1087,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SITETODO0811",
+      "enviadoEm": "2026-11-08T22:34:15.002Z"
+    },
+    {
+      "id": "42884",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Curvo Aoc Agon Quad 34\" Ultrawide Wqhd 180Hz 0,5ms Base Ajustável U34g4c",
+      "link": "https://meli.la/2GzNfix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774096-MLA96608370183_102025-P.webp",
+      "preco": 1579,
+      "precoDe": 2812.86,
+      "desconto": 36,
+      "cupom": "TODO0811SITE",
+      "enviadoEm": "2026-11-08T22:32:31.928Z"
+    },
+    {
+      "id": "42881",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Lenovo Ideapad Slim 3 Ryzen 5 8gb 512gb Linux",
+      "link": "https://meli.la/1ivfez4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLB117044233971_092026-P.webp",
+      "preco": 2827.05,
+      "precoDe": 3241,
+      "desconto": 13,
+      "cupom": "SITETODO0811",
+      "enviadoEm": "2026-11-08T22:24:47.078Z"
+    },
     {
       "id": "42879",
       "loja": "Amazon",
@@ -4779,18 +4827,6 @@
       "enviadoEm": "2026-11-06T18:41:15.918Z"
     },
     {
-      "id": "42138",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo Ideapad Slim 3 Ryzen 5 8gb 512gb Linux",
-      "link": "https://meli.la/1ivfez4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLB117044233971_092026-P.webp",
-      "preco": 2883,
-      "precoDe": 3423,
-      "desconto": 16,
-      "cupom": "TECH0611",
-      "enviadoEm": "2026-11-06T18:40:15.992Z"
-    },
-    {
       "id": "42136",
       "loja": "Mercado Livre",
       "titulo": "Smartphone Motorola Moto G77 5g 256GB 8GB Ram Dual Sim Marrom",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:35:05.149Z"
-    },
-    {
-      "id": "41818",
-      "loja": "Mercado Livre",
-      "titulo": "Disco sólido interno Lexar LNQ100X1920-RNNNU 1.92TB Preto",
-      "link": "https://meli.la/2k7LEZ7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641910-MLA99934033201_112025-F.jpg",
-      "preco": 1006,
-      "precoDe": 1699,
-      "desconto": 41,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:33:23.015Z"
-    },
-    {
-      "id": "41815",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P Preto",
-      "link": "https://meli.la/1hffGey",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_687589-MLA99536545292_122025-F.jpg",
-      "preco": 967.12,
-      "precoDe": 1499,
-      "desconto": 27,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:31:40.443Z"
-    },
-    {
-      "id": "41810",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte, Galaxy Ai",
-      "link": "https://meli.la/1oCDqoC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988774-MLB106707431674_022026-P.webp",
-      "preco": 1747.08,
-      "precoDe": 2099,
-      "desconto": 17,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:29:55.272Z"
     }
   ]
 }
