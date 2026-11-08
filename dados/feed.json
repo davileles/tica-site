@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-07T23:38:58.589Z",
+  "atualizadoEm": "2026-11-08T01:11:49.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42643",
+      "loja": "Amazon",
+      "titulo": "Bebida Láctea UHT YoPRO Chocolate, 15g de Proteínas, 250ml",
+      "link": "https://www.amazon.com.br/dp/B09M2B14V7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41v70UOgT-L._SL400_.jpg",
+      "preco": 60.8,
+      "precoDe": 98.29,
+      "desconto": 23,
+      "cupom": "YOPRO20APP",
+      "enviadoEm": "2026-11-08T01:09:13.585Z"
+    },
     {
       "id": "42639",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-05T17:53:42.364Z"
-    },
-    {
-      "id": "41479",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Nike Flex Experience 12 Masculino - R$ 251,99",
-      "link": "https://meli.la/2T6UzsA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707495-MLB84757709369_052025-P.webp",
-      "preco": 214.19,
-      "precoDe": 349.99,
-      "desconto": 28,
-      "cupom": "OFICIAIS0511",
-      "enviadoEm": "2026-11-05T17:52:39.475Z"
     }
   ]
 }
