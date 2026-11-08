@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T17:11:51.720Z",
+  "atualizadoEm": "2026-11-08T18:11:51.476Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -361,42 +361,6 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "SITE0711TODO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T18:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO0711",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T18:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE0711",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T18:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1911,6 +1875,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "JOGOS0811",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-09T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2007,15 +1983,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
-      "codigo": "BLACKMERC",
+      "codigo": "BFMERCADO",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto de R$20 em pedidos do Mercado via iFood",
-      "validadeAte": "2026-11-08T18:00:22.000Z",
+      "observacao": "Desconto de R$20 em pedidos do Mercado pelo iFood",
+      "validadeAte": "2026-11-09T18:00:29.000Z",
       "url": null
     },
     {
@@ -2040,18 +2016,6 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF",
       "validadeAte": "2026-11-08T18:29:52.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BLACKMERC",
-      "loja": "Outro: iFood Mercado",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T18:01:30.000Z",
       "url": null
     },
     {
