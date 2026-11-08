@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T14:32:48.301Z",
+  "atualizadoEm": "2026-11-08T14:41:49.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42738",
+      "loja": "Mercado Livre",
+      "titulo": "Attracione Men perfume Masculino Com Feromônios Ativados 25 mL",
+      "link": "https://meli.la/1GfFXRu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_948198-MLA81769955450_012025-F.jpg",
+      "preco": 47.2,
+      "precoDe": 149,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:38:54.465Z"
+    },
+    {
+      "id": "42737",
+      "loja": "Mercado Livre",
+      "titulo": "Ferro de Passar Roupa Seco e Vapor base antiaderente ceramica 1200W cabo 1,65m Electrolux vapor vertical extra anti gotejamento SIE70",
+      "link": "https://meli.la/1xzXGkT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_720456-MLA115253817803_072026-F.jpg",
+      "preco": 87.2,
+      "precoDe": 129.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:34:50.948Z"
+    },
     {
       "id": "42735",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 40,
       "cupom": "CLIENTESTOP",
       "enviadoEm": "2026-11-05T20:47:50.751Z"
-    },
-    {
-      "id": "41577",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Hi Wall Philco 24000 Btu/h Quente E Fr",
-      "link": "https://meli.la/2G7gegt",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_819649-MLA99518575270_112025-F.jpg",
-      "preco": 2558,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJECOMCUPOM",
-      "enviadoEm": "2026-11-05T20:46:01.510Z"
-    },
-    {
-      "id": "41576",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-      "link": "https://s.shopee.com.br/1BNgT9kUJ7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
-      "preco": 79.9,
-      "precoDe": 99.88,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:43:53.680Z"
     }
   ]
 }
