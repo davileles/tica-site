@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T00:12:50.154Z",
+  "atualizadoEm": "2026-11-08T00:41:50.213Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1908,6 +1908,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-08T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMODEZ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-09T00:12:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
