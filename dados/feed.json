@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T18:59:45.736Z",
+  "atualizadoEm": "2026-11-08T19:11:49.925Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42844",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/9fMJH0eds2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 68.9,
+      "precoDe": 140.61,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T19:09:26.287Z"
+    },
+    {
+      "id": "42843",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa lacrada com 6 Combo De Booster Pokémon - Celebração 30 Anos Copag Português",
+      "link": "https://meli.la/2iA7U5v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626547-MLA119141957229_102026-F.jpg",
+      "preco": 269.45,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "JOGOS0811",
+      "enviadoEm": "2026-11-08T19:06:35.266Z"
+    },
     {
       "id": "42842",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-11-06T11:47:39.270Z"
-    },
-    {
-      "id": "41733",
-      "loja": "Amazon",
-      "titulo": "Mili Fralda Infantil Love & Care Tamanho M, Alta Absorção, Ajuste Confortável, 78 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CN81BZKX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41h-qR9cFCL._SL400_.jpg",
-      "preco": 59.93,
-      "precoDe": 66.59,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:33:00.805Z"
-    },
-    {
-      "id": "41730",
-      "loja": "Amazon",
-      "titulo": "Fralda Personal Baby Protect e Sec XG Mega 9x28pads Leve 28 pague 26 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41CHTF2lZoL._SL400_.jpg",
-      "preco": 26.72,
-      "precoDe": 37.02,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:32:32.238Z"
     }
   ]
 }
