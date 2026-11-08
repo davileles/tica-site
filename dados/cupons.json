@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T20:31:47.164Z",
+  "atualizadoEm": "2026-11-08T20:41:51.638Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2556,6 +2556,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-09T02:17:32.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "GIGANTE50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-09T20:35:36.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
