@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-08T17:41:49.923Z",
+  "atualizadoEm": "2026-11-08T18:11:49.924Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42832",
+      "loja": "Shopee",
+      "titulo": "Película de Vidro 3D HD Transparente iPhone 18 17 16 15 14 13 12 11 XR XS Max – Alta Definição Toque Suave Sem Bolhas",
+      "link": "https://s.shopee.com.br/9pfjP0OfaV",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zg-mo7rai99mg3q89_tn",
+      "preco": 14.99,
+      "precoDe": 20.26,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T18:07:12.385Z"
+    },
+    {
+      "id": "42829",
+      "loja": "Amazon",
+      "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
+      "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41B1LVPbDTL._SL400_.jpg",
+      "preco": 105.89,
+      "precoDe": 359.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T18:03:00.623Z"
+    },
+    {
+      "id": "42830",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Aramis Daily Slip Confortável Leve Respiravel Bege",
+      "link": "https://meli.la/1UXH8pn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761741-MLB114490139789_072026-P.webp",
+      "preco": 130.5,
+      "precoDe": 399.99,
+      "desconto": 64,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T18:01:49.871Z"
+    },
+    {
+      "id": "42828",
+      "loja": "Mercado Livre",
+      "titulo": "Blush Too Faced Cloud Crush - R$ 166,15",
+      "link": "https://meli.la/24F7T9K",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892744-MLB115773756625_082026-P.webp",
+      "preco": 149.54000000000002,
+      "precoDe": 269,
+      "desconto": 38,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T18:00:42.428Z"
+    },
+    {
+      "id": "42826",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit C/ 2 Gel De Limpeza Facial Gl-02",
+      "link": "https://meli.la/2utXUP5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903047-MLA91754812966_092025-F.jpg",
+      "preco": 64.29,
+      "precoDe": 98,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T17:58:14.009Z"
+    },
+    {
+      "id": "42825",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic - R$ 89,99",
+      "link": "https://meli.la/246gMsU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878492-MLB108664426620_032026-P.webp",
+      "preco": 80.99,
+      "precoDe": 142,
+      "desconto": 37,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T17:50:57.510Z"
+    },
+    {
+      "id": "42824",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
+      "link": "https://www.amazon.com.br/dp/B07H113TPQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oaODRRbFL._SL400_.jpg",
+      "preco": 29.9,
+      "precoDe": 49.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T17:46:55.459Z"
+    },
+    {
+      "id": "42823",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/7KyOOyD0i1",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75_tn",
+      "preco": 27.69,
+      "precoDe": 37.42,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T17:45:39.486Z"
+    },
+    {
+      "id": "42822",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 20 Pote Herméticos Empilháveis Porta Mantimento Rebirth",
+      "link": "https://meli.la/1PKU3ZS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626035-MLA110075853411_042026-F.jpg",
+      "preco": 121.12,
+      "precoDe": 297,
+      "desconto": 46,
+      "cupom": "COMPRAHOJE",
+      "enviadoEm": "2026-11-08T17:44:07.364Z"
+    },
     {
       "id": "42820",
       "loja": "Mercado Livre",
@@ -2185,18 +2293,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-11-07T17:29:20.569Z"
-    },
-    {
-      "id": "42525",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição Profunda com 6 Óleos Preciosos, Anti-Frizz, Proteção Térmica até 230°C, Brilho Intenso para Todos os Tipos de",
-      "link": "https://www.amazon.com.br/dp/B07H113TPQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oaODRRbFL._SL400_.jpg",
-      "preco": 28.99,
-      "precoDe": 49.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T17:24:22.762Z"
     },
     {
       "id": "42524",
@@ -5235,18 +5331,6 @@
       "enviadoEm": "2026-11-06T15:13:20.208Z"
     },
     {
-      "id": "41933",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic - R$ 78,29",
-      "link": "https://meli.la/246gMsU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878492-MLB108664426620_032026-P.webp",
-      "preco": 78.29,
-      "precoDe": 142,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T15:05:17.925Z"
-    },
-    {
       "id": "41927",
       "loja": "Shopee",
       "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
@@ -5917,90 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-06T11:31:16.043Z"
-    },
-    {
-      "id": "41721",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/2qVvQnAMhZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 21.98,
-      "precoDe": 46.77,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:25:44.060Z"
-    },
-    {
-      "id": "41719",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 92.9,
-      "precoDe": 129.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:23:49.336Z"
-    },
-    {
-      "id": "41718",
-      "loja": "Shopee",
-      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "link": "https://s.shopee.com.br/5fq6npLgqm",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mik9ovwbhszk62_tn",
-      "preco": 31.99,
-      "precoDe": 58.16,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:23:14.774Z"
-    },
-    {
-      "id": "41715",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51p7Q6bht8L._SL400_.jpg",
-      "preco": 148.9,
-      "precoDe": 229.49,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:15:40.919Z"
-    },
-    {
-      "id": "41714",
-      "loja": "Amazon",
-      "titulo": "Pomada Bepantol Baby, 120g | Kit 5un 120g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-      "link": "https://www.amazon.com.br/dp/B098JNR2PD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EOSrjh9PL._SL400_.jpg",
-      "preco": 199.99,
-      "precoDe": 270,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:15:17.996Z"
-    },
-    {
-      "id": "41713",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Xtra-Flex, Tamanho XXXL, 128 Unidades | Canais em X que se adaptam aos movimentos, Máxima Proteção, Sem fralda caída",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 246.01,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:14:54.172Z"
-    },
-    {
-      "id": "41711",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies, Tamanho XXG, 140 Unidades | Tecnologia Xtra-Flex, Canais em X adaptáveis aos movimentos",
-      "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51kgcUDgWfL._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 229.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:14:30.688Z"
     }
   ]
 }
