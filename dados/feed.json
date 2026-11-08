@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T21:04:55.312Z",
+  "atualizadoEm": "2026-11-08T21:11:49.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42869",
+      "loja": "Mercado Livre",
+      "titulo": "Mala 23 Kg Média Sestini Para Despachar De Viagem Resistente",
+      "link": "https://meli.la/1ksAX9u",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971161-MLB120323491721_102026-P.webp",
+      "preco": 335.52,
+      "precoDe": 699,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T21:07:46.754Z"
+    },
     {
       "id": "42868",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-11-06T12:18:14.854Z"
-    },
-    {
-      "id": "41791",
-      "loja": "Mercado Livre",
-      "titulo": "Console Playstation 5 Slim Edição Digital 825 Gb",
-      "link": "https://meli.la/1zh9c1A",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971864-MLA91925160023_092025-F.jpg",
-      "preco": 3799,
-      "precoDe": 4599,
-      "desconto": 17,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:16:29.268Z"
     }
   ]
 }
