@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T13:03:23.344Z",
+  "atualizadoEm": "2026-11-08T14:32:50.110Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1608,6 +1608,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-09T12:03:54.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MUITOBARATO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-09T14:21:49.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
