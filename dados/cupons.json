@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T04:11:50.154Z",
+  "atualizadoEm": "2026-11-08T11:11:51.667Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -839,7 +839,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": null,
-      "validadeAte": "2026-11-23T02:59:00.000Z",
+      "validadeAte": "2027-06-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -924,6 +924,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MEUDESCONTAO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1479,6 +1491,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "COMPRAAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOIMPERDIVEL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GARANTAJA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUESEUCUPOM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1544,6 +1592,18 @@
       "tipo": "pct",
       "valor": 22,
       "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEROOFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1702,7 +1762,7 @@
       "minimo": 119,
       "maximo": null,
       "limite": 50,
-      "observacao": "Válido em selecionados conforme lista",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-09T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1764,6 +1824,18 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-08T20:28:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-02-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1836,18 +1908,6 @@
       "limite": 40,
       "observacao": "Segundo cupom válido para listas selecionadas",
       "validadeAte": "2026-11-08T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMODEZ",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-09T00:12:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2520,18 +2580,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-09T02:17:32.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "0O2RAK1VRJ",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T11:00:10.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
