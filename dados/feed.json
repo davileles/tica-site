@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T12:41:49.921Z",
+  "atualizadoEm": "2026-11-08T13:03:21.294Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42711",
+      "loja": "Mercado Livre",
+      "titulo": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, Toy Story 120g",
+      "link": "https://meli.la/2s3BsV7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870245-MLB118418512822_102026-P.webp",
+      "preco": 28.97,
+      "precoDe": 41.46,
+      "desconto": 6,
+      "cupom": "TODOSITE0811",
+      "enviadoEm": "2026-11-08T12:53:21.291Z"
+    },
+    {
+      "id": "42710",
+      "loja": "Shopee",
+      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
+      "link": "https://s.shopee.com.br/3g55hi3Xna",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
+      "preco": 37.99,
+      "precoDe": 67.84,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T12:46:53.896Z"
+    },
     {
       "id": "42707",
       "loja": "Amazon",
@@ -4491,18 +4515,6 @@
       "enviadoEm": "2026-11-06T14:31:46.808Z"
     },
     {
-      "id": "41910",
-      "loja": "Mercado Livre",
-      "titulo": "Creme Preventivo de Assaduras Para Bebês Bepantol Baby, Toy Story 120g",
-      "link": "https://meli.la/2s3BsV7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870245-MLB118418512822_102026-P.webp",
-      "preco": 38.97,
-      "precoDe": 41.46,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T14:31:20.154Z"
-    },
-    {
       "id": "41909",
       "loja": "Amazon",
       "titulo": "TakTark Babá Eletrônica, 4.3\" Câmera para Bebês com Monitor, 2 Way Audio, Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Ideal par",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-05T20:01:59.444Z"
-    },
-    {
-      "id": "41546",
-      "loja": "Amazon",
-      "titulo": "Vinho Tarapacá Cosecha Chardonnay Branco 750ml",
-      "link": "https://www.amazon.com.br/dp/B0FJ32QN1W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313ng-gzW2L._SL400_.jpg",
-      "preco": 34.09,
-      "precoDe": 49.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T19:52:07.797Z"
     }
   ]
 }
