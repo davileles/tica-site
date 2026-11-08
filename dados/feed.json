@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-08T14:11:49.922Z",
+  "atualizadoEm": "2026-11-08T14:32:48.301Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42735",
+      "loja": "Mercado Livre",
+      "titulo": "Gocase Bolsa Moove - Essencial Dia A Dia Academia Fitness - R$ 137,12",
+      "link": "https://meli.la/1r6X6cS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790532-MLB114602187352_082026-P.webp",
+      "preco": 137.12,
+      "precoDe": 249.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:22:48.297Z"
+    },
+    {
+      "id": "42734",
+      "loja": "Amazon",
+      "titulo": "Maionese Tradicional Hellmann's, 500g",
+      "link": "https://www.amazon.com.br/dp/B00LTZK7QW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41X28TlvDXL._SL400_.jpg",
+      "preco": 9.9,
+      "precoDe": 14.21,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:21:28.311Z"
+    },
+    {
+      "id": "42733",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Hiwall Agratto Inverter FICST18F-02I Fittop 18k Frio Cor Branco",
+      "link": "https://meli.la/2z1shU1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755226-MLA99991762523_112025-F.jpg",
+      "preco": 2459,
+      "precoDe": 3134,
+      "desconto": 15,
+      "cupom": "TAMOSJUNTO",
+      "enviadoEm": "2026-11-08T14:18:13.519Z"
+    },
+    {
+      "id": "42731",
+      "loja": "Amazon",
+      "titulo": "Furadeira Parafusadeira Impacto Sem Fio GSB 185-LI 18V com Maleta Bosch",
+      "link": "https://www.amazon.com.br/dp/B0BS77VG1X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RnsFj3lfL._SL400_.jpg",
+      "preco": 655,
+      "precoDe": 779.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:14:03.538Z"
+    },
+    {
+      "id": "42729",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Lata 473ml Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09CR3T4QN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FIozdgRxL._SL400_.jpg",
+      "preco": 66.9,
+      "precoDe": 81.48,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:13:26.530Z"
+    },
+    {
+      "id": "42728",
+      "loja": "Amazon",
+      "titulo": "Creme Multirreparador La Roche-Posay Cicaplast Baume B5+, 20ml | Calmante, Com Pantenol 5%, Madecassoside e Tribioma, Tripla Ação",
+      "link": "https://www.amazon.com.br/dp/B0C3S51L34?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21SWhJXUuTL._SL400_.jpg",
+      "preco": 36.94,
+      "precoDe": 49.9,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T14:12:50.875Z"
+    },
     {
       "id": "42726",
       "loja": "Shopee",
@@ -2269,18 +2341,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-11-07T13:49:07.787Z"
-    },
-    {
-      "id": "42418",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Lata 473ml Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09CR3T4QN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FIozdgRxL._SL400_.jpg",
-      "preco": 66.9,
-      "precoDe": 81.48,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T13:47:37.450Z"
     },
     {
       "id": "42417",
@@ -5941,66 +6001,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-11-05T20:43:53.680Z"
-    },
-    {
-      "id": "41573",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado 11.000 Btus Split LG Dual Inverter Compact",
-      "link": "https://meli.la/1rNVbYD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826724-MLB115349169883_072026-P.webp",
-      "preco": 1979,
-      "precoDe": 2839,
-      "desconto": 20,
-      "cupom": "HOJECOMCUPOM",
-      "enviadoEm": "2026-11-05T20:41:58.876Z"
-    },
-    {
-      "id": "41568",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
-      "preco": 46.21,
-      "precoDe": 55.08,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:33:02.412Z"
-    },
-    {
-      "id": "41567",
-      "loja": "Mercado Livre",
-      "titulo": "Processador AMD Ryzen 5 5600GT com Cooler, 3.6GHz (4.6GHz Turbo), 6-Cores 12-Thread",
-      "link": "https://meli.la/28tReUS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_975621-MLA99589746250_122025-F.jpg",
-      "preco": 899.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CLIENTESTOP",
-      "enviadoEm": "2026-11-05T20:32:12.306Z"
-    },
-    {
-      "id": "41565",
-      "loja": "Amazon",
-      "titulo": "Vodka Ketel One Grapefruit & Rose 750ml",
-      "link": "https://www.amazon.com.br/dp/B07DMZBJ7K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yhmnb2AXL._SL400_.jpg",
-      "preco": 29,
-      "precoDe": 127.9,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:28:45.516Z"
-    },
-    {
-      "id": "41561",
-      "loja": "Amazon",
-      "titulo": "Gran Turismo 7 Edição Padrão - PlayStation 5",
-      "link": "https://www.amazon.com.br/dp/B09C4T66X3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51O5B4rm73L._SL400_.jpg",
-      "preco": 139.92,
-      "precoDe": 399.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:23:11.636Z"
     }
   ]
 }
