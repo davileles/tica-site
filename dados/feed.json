@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T20:41:49.926Z",
+  "atualizadoEm": "2026-11-08T21:04:55.312Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42868",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/114L4KNqoS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 74.9,
+      "precoDe": 110.15,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T20:54:55.310Z"
+    },
     {
       "id": "42864",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 17,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:16:29.268Z"
-    },
-    {
-      "id": "41782",
-      "loja": "Mercado Livre",
-      "titulo": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
-      "link": "https://meli.la/1zWiFn3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_920822-MLA99469912962_112025-F.jpg",
-      "preco": 626.3199999999999,
-      "precoDe": 1099,
-      "desconto": 37,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:13:36.021Z"
     }
   ]
 }
