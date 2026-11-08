@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T20:11:49.925Z",
+  "atualizadoEm": "2026-11-08T20:31:45.422Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42862",
+      "loja": "Mercado Livre",
+      "titulo": "Mala De 10kg Bordo De Mão Bloguerinha Com Frasqueira",
+      "link": "https://meli.la/29z46TZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_960689-MLB104963902505_012026-P.webp",
+      "preco": 234.9,
+      "precoDe": 471.56,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T20:21:45.418Z"
+    },
+    {
+      "id": "42860",
+      "loja": "Shopee",
+      "titulo": "Tapete De Atividades Para Bebê Com Piano Musical Móbile Interativo Funny Dino Maxi Baby",
+      "link": "https://s.shopee.com.br/50aTmnJP0O",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv4rng9f02kic5_tn",
+      "preco": 64.9,
+      "precoDe": 129.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T20:12:56.996Z"
+    },
     {
       "id": "42858",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:11:19.188Z"
-    },
-    {
-      "id": "41777",
-      "loja": "Shopee",
-      "titulo": "Kit Completo Maca Power karseell  Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo P 50ml",
-      "link": "https://s.shopee.com.br/AAIWDG0BDa",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e_tn",
-      "preco": 350,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:09:29.172Z"
-    },
-    {
-      "id": "41776",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, ATX 3.1 PCIe 5.1, Full Modular, PFC Ativo",
-      "link": "https://meli.la/1wdXqxU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884598-MLA108671218237_032026-F.jpg",
-      "preco": 453.14,
-      "precoDe": 529.99,
-      "desconto": 5,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:07:44.311Z"
     }
   ]
 }
