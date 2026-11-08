@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T22:08:25.732Z",
+  "atualizadoEm": "2026-11-08T23:41:50.453Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1375,7 +1375,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1908,6 +1908,18 @@
       "limite": 80,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-09T18:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AVENE15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-11-09T23:21:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
