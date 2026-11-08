@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T18:11:51.476Z",
+  "atualizadoEm": "2026-11-08T18:41:50.206Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1539,18 +1539,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAESPECIAL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-08T18:26:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPRAHOJE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2007,15 +1995,27 @@
       "url": null
     },
     {
-      "codigo": "PROMOBLACK",
+      "codigo": "PEDIUBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF",
-      "validadeAte": "2026-11-08T18:29:52.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Valor pode variar entre R$ 12 e R$ 15.",
+      "validadeAte": "2026-11-09T18:30:13.000Z",
+      "url": null
+    },
+    {
+      "codigo": "PARTIUBF",
+      "loja": "Outro: iFood",
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "iFood divulgou o cupom PEDIUBF, mas o código funcional é PARTIUBF. Valor do desconto não foi informado na mensagem.",
+      "validadeAte": "2026-11-09T18:40:22.000Z",
       "url": null
     },
     {
