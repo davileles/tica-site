@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T22:08:23.973Z",
+  "atualizadoEm": "2026-11-08T22:11:49.928Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42878",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeirinha Automotiva Atentu BS05 para Bebê e Criança de 9 a 36 kg Vermelha",
+      "link": "https://meli.la/1wuSjYa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849686-MLA99207858759_112025-F.jpg",
+      "preco": 399.9,
+      "precoDe": 619.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T22:11:08.109Z"
+    },
     {
       "id": "42874",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 12,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:28:13.103Z"
-    },
-    {
-      "id": "41806",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla de até 50MP Selfie de 12MP IP67 Super AMOLED 6.7'' NFC Recursos AI Android e Segurança Snapdragon - Branco",
-      "link": "https://meli.la/1FQ84vq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968548-MLA99944961199_112025-F.jpg",
-      "preco": 1143.12,
-      "precoDe": 2538,
-      "desconto": 49,
-      "cupom": "FAVORITO",
-      "enviadoEm": "2026-11-06T12:26:02.919Z"
     }
   ]
 }
