@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T13:11:49.921Z",
+  "atualizadoEm": "2026-11-08T13:39:02.156Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42719",
+      "loja": "Shopee",
+      "titulo": "Capa Volante Carro Couro Universal  Costurada acessórios para carro",
+      "link": "https://s.shopee.com.br/80E4uYcoo6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0us9vcjpk0w5c_tn",
+      "preco": 15.19,
+      "precoDe": 29.78,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T13:29:02.154Z"
+    },
+    {
+      "id": "42718",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 159.9,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T13:21:45.436Z"
+    },
     {
       "id": "42716",
       "loja": "Amazon",
@@ -4179,18 +4203,6 @@
       "enviadoEm": "2026-11-06T16:29:17.527Z"
     },
     {
-      "id": "42016",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-      "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/412fqEaHBcL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 159.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T16:27:50.622Z"
-    },
-    {
       "id": "42013",
       "loja": "Mercado Livre",
       "titulo": "Camiseta Nike Sportswear Masculina",
@@ -5989,18 +6001,6 @@
       "desconto": 69,
       "cupom": null,
       "enviadoEm": "2026-11-05T20:09:36.855Z"
-    },
-    {
-      "id": "41551",
-      "loja": "Amazon",
-      "titulo": "Bronzeador Óleo Spray FPS 15 Cenoura & Bronze 110ml",
-      "link": "https://www.amazon.com.br/dp/B0FKVNX694?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315Jl7J1-5L._SL400_.jpg",
-      "preco": 18.67,
-      "precoDe": 45.99,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:05:24.818Z"
     }
   ]
 }
