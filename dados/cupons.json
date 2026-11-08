@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T14:41:51.560Z",
+  "atualizadoEm": "2026-11-08T15:11:51.603Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1231,10 +1231,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons para produtos selecionados no Mercado Livre",
+      "observacao": "Cupom válido em produtos selecionados",
       "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1327,10 +1327,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1755,18 +1755,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA0711",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 25,
-      "observacao": "Válido em selecionados conforme lista",
-      "validadeAte": "2026-11-08T15:00:50.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIOFERTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1887,30 +1875,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL0711",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-08T15:00:20.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBEPET0711",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-08T15:00:20.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORDOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1932,6 +1896,30 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-09T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRO0811",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 500,
+      "limite": 100,
+      "observacao": "Cupom válido em produtos selecionados",
+      "validadeAte": "2026-11-09T15:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJAS0811",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": 89,
+      "limite": 40,
+      "observacao": "Cupom válido em produtos selecionados",
+      "validadeAte": "2026-11-09T15:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2005,42 +1993,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "IFP4LGEY",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 490,
-      "minimo": 3200,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
-      "validadeAte": "2026-11-08T15:07:43.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "IFPKE1EG",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 55,
-      "minimo": 350,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
-      "validadeAte": "2026-11-08T15:07:43.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "IFPMPL0I",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Resgate os cupons no aplicativo para ficar salvo na sua conta até o final do Evento",
-      "validadeAte": "2026-11-08T15:07:43.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "BLACKMERC",
@@ -2667,18 +2619,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "I65FDHJK1E",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-08T15:00:05.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "FF5E8II49K",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2688,6 +2628,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-09T13:00:31.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "6GT6MJXK87",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-09T15:00:05.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
