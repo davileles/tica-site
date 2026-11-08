@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T12:11:51.535Z",
+  "atualizadoEm": "2026-11-08T12:41:51.574Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -859,7 +859,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1483,7 +1483,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": null,
@@ -1935,6 +1935,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 10,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOSITE0811",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1956,6 +1968,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-09T12:03:54.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": null,
+      "validadeAte": "2026-11-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
