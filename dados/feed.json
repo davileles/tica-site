@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-08T17:36:05.737Z",
+  "atualizadoEm": "2026-11-08T17:41:49.923Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42820",
+      "loja": "Mercado Livre",
+      "titulo": "Buffet Balcão Armário Cozinha Estilo Vintage P/ Microondas - R$ 243,31",
+      "link": "https://meli.la/2htq86J",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712036-MLB116705179213_082026-P.webp",
+      "preco": 182.48000000000002,
+      "precoDe": 347.59,
+      "desconto": 30,
+      "cupom": "COMPRAHOJE",
+      "enviadoEm": "2026-11-08T17:41:38.425Z"
+    },
+    {
+      "id": "42819",
+      "loja": "Mercado Livre",
+      "titulo": "Secador Modelador Cadence Poderosa, SEC1000, Escova e Cachos, 220 V",
+      "link": "https://meli.la/2vEz918",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844642-MLA120309939833_102026-F.jpg",
+      "preco": 269.1,
+      "precoDe": 499,
+      "desconto": 40,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T17:40:16.658Z"
+    },
+    {
+      "id": "42818",
+      "loja": "Mercado Livre",
+      "titulo": "Essencial Atrai Feminino Deo Parfum 100ml",
+      "link": "https://meli.la/2b6RiQ5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914972-MLA87117951600_072025-F.jpg",
+      "preco": 123.94000000000001,
+      "precoDe": 279.9,
+      "desconto": 51,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T17:38:55.618Z"
+    },
     {
       "id": "42817",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-06T11:14:30.688Z"
-    },
-    {
-      "id": "41710",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies, Tamanho XG, 140 Unidades | Tecnologia Xtra-Flex, Canais em X Adaptáveis aos Movimentos, Máxima Proteção",
-      "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51t4jmZ4mnL._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 229.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:14:01.858Z"
-    },
-    {
-      "id": "41709",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Tamanho G, 160 Unidades | Aberta, Tecnologia Xtra-Flex, Canais em X que se adaptam aos movimentos",
-      "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514iBwYO87L._SL400_.jpg",
-      "preco": 149.9,
-      "precoDe": 229.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:13:26.597Z"
-    },
-    {
-      "id": "41705",
-      "loja": "Amazon",
-      "titulo": "Creme Crocante Ovomaltine, 260g",
-      "link": "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51OYwnZUBuL._SL400_.jpg",
-      "preco": 15.34,
-      "precoDe": 25.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:09:35.888Z"
     }
   ]
 }
