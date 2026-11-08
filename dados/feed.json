@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T01:11:49.921Z",
+  "atualizadoEm": "2026-11-08T01:39:20.224Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42642",
+      "loja": "Mercado Livre",
+      "titulo": "Depurador De Ar Colormaq Cook 60cm Preto",
+      "link": "https://meli.la/1f9Egbi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944103-MLA99993095207_112025-F.jpg",
+      "preco": 255.6,
+      "precoDe": 387.9,
+      "desconto": 27,
+      "cupom": "OFERTANOMELI",
+      "enviadoEm": "2026-11-08T01:29:20.221Z"
+    },
     {
       "id": "42643",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 10,
       "cupom": "CONSTRUIRAQUI",
       "enviadoEm": "2026-11-05T17:57:41.054Z"
-    },
-    {
-      "id": "41481",
-      "loja": "Amazon",
-      "titulo": "Buba Pote Termico C/Colher - Gumy Azul Azul",
-      "link": "https://www.amazon.com.br/dp/B08JXDZVY8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313CACz7fnL._SL400_.jpg",
-      "preco": 72.99,
-      "precoDe": 151.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T17:53:42.364Z"
     }
   ]
 }
