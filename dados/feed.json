@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T15:11:49.923Z",
+  "atualizadoEm": "2026-11-08T15:28:24.827Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42760",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Floratta Blue Crystal 75ml O Boticário Lançamento",
+      "link": "https://meli.la/2QTXoje",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_661120-MLA119198515275_102026-F.jpg",
+      "preco": 166.15,
+      "precoDe": 174.9,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:18:24.825Z"
+    },
+    {
+      "id": "42758",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear Definição Natural 1kg",
+      "link": "https://s.shopee.com.br/1BNktC7OIz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpwvif6l0pvl1d_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:13:38.828Z"
+    },
     {
       "id": "42756",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 29,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-05T20:59:43.925Z"
-    },
-    {
-      "id": "41593",
-      "loja": "Amazon",
-      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 700ml",
-      "link": "https://www.amazon.com.br/dp/B000TVHK26?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xKe7q30bL._SL400_.jpg",
-      "preco": 80.99,
-      "precoDe": 144.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:57:49.229Z"
-    },
-    {
-      "id": "41592",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Curvo Asus Tuf Vg34wqml5a Wqhd 250hz 0.5ms",
-      "link": "https://meli.la/1aHPc77",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_736662-MLB120869384313_112026-P.webp",
-      "preco": 1719,
-      "precoDe": 2111,
-      "desconto": 19,
-      "cupom": "CLIENTESTOP",
-      "enviadoEm": "2026-11-05T20:57:09.629Z"
     }
   ]
 }
