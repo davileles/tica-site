@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-08T17:11:49.923Z",
+  "atualizadoEm": "2026-11-08T17:36:05.737Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42817",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
+      "link": "https://meli.la/139tT8E",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994871-MLA119301626806_112026-F.jpg",
+      "preco": 69.03999999999999,
+      "precoDe": 188.1,
+      "desconto": 51,
+      "cupom": "COMPRAHOJE",
+      "enviadoEm": "2026-11-08T17:26:05.731Z"
+    },
+    {
+      "id": "42816",
+      "loja": "Shopee",
+      "titulo": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
+      "link": "https://s.shopee.com.br/4LKmo0uFZ5",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71_tn",
+      "preco": 20.88,
+      "precoDe": 44.43,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T17:24:45.259Z"
+    },
+    {
+      "id": "42815",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
+      "link": "https://meli.la/2zDxhVE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
+      "preco": 93.69,
+      "precoDe": 185,
+      "desconto": 40,
+      "cupom": "HOJECONSTRU",
+      "enviadoEm": "2026-11-08T17:22:26.922Z"
+    },
+    {
+      "id": "42814",
+      "loja": "Mercado Livre",
+      "titulo": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 | Raspa, Apara e Contorna | Uso Seco e Molhado | 100% À Prova d'Água | Sem Fio | Bivolt | QP1425/10",
+      "link": "https://meli.la/11u2kfD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750670-MLA118429558724_102026-F.jpg",
+      "preco": 128.19,
+      "precoDe": 212.38,
+      "desconto": 33,
+      "cupom": "BORTODEZ",
+      "enviadoEm": "2026-11-08T17:17:15.706Z"
+    },
+    {
+      "id": "42813",
+      "loja": "Amazon",
+      "titulo": "GA.MA ITALY Secador de Cabelo Gama Lichia Ceramic Ion 2100W 220V",
+      "link": "https://www.amazon.com.br/dp/B0C9G2QNS9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QU9GfeEqL._SL400_.jpg",
+      "preco": 120.69,
+      "precoDe": 249.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T17:14:47.095Z"
+    },
     {
       "id": "42811",
       "loja": "Mercado Livre",
@@ -2209,18 +2269,6 @@
       "desconto": null,
       "cupom": "MELIOFERTAS",
       "enviadoEm": "2026-11-07T17:04:53.770Z"
-    },
-    {
-      "id": "42515",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
-      "link": "https://meli.la/2zDxhVE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
-      "preco": 93.69,
-      "precoDe": 185,
-      "desconto": 40,
-      "cupom": "ENTREGASFULL ou FULL0711",
-      "enviadoEm": "2026-11-07T17:01:37.745Z"
     },
     {
       "id": "42514",
@@ -5953,54 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-11-06T11:09:35.888Z"
-    },
-    {
-      "id": "41704",
-      "loja": "Amazon",
-      "titulo": "Whiskey Irlandês Jameson, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.08,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:07:42.122Z"
-    },
-    {
-      "id": "41701",
-      "loja": "Shopee",
-      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "link": "https://s.shopee.com.br/8pn8YCjv9x",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
-      "preco": 15.86,
-      "precoDe": 44.06,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:04:07.391Z"
-    },
-    {
-      "id": "41700",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 45.9,
-      "precoDe": 71.39,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:02:25.319Z"
-    },
-    {
-      "id": "41699",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/7pubMKfnwp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75_tn",
-      "preco": 39.9,
-      "precoDe": 56.2,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:01:44.176Z"
     }
   ]
 }
