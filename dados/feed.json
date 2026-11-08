@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T21:11:49.928Z",
+  "atualizadoEm": "2026-11-08T21:25:57.483Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42870",
+      "loja": "Shopee",
+      "titulo": "Termômetro Digital Infantil Ultra Rápido Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "link": "https://s.shopee.com.br/3Vlg4Me2zt",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
+      "preco": 27.99,
+      "precoDe": 47.44,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T21:15:57.480Z"
+    },
     {
       "id": "42869",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-11-06T12:20:22.795Z"
-    },
-    {
-      "id": "41793",
-      "loja": "Mercado Livre",
-      "titulo": "O Boticário Liz Flora Desodorante Colônia 100ml",
-      "link": "https://meli.la/2G9ZLHi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_837324-MLU75963465495_042024-F.jpg",
-      "preco": 71.9,
-      "precoDe": 179.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:18:14.854Z"
     }
   ]
 }
