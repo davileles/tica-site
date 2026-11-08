@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T20:41:51.638Z",
+  "atualizadoEm": "2026-11-08T21:25:59.361Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "NATORCIDA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom para primeira compra na Amazon",
+      "validadeAte": "2026-11-09T21:17:39.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "OLEO",
       "loja": "BELEZA NA WEB",
