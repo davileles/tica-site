@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-08T21:25:57.483Z",
+  "atualizadoEm": "2026-11-08T21:41:33.175Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42872",
+      "loja": "Mercado Livre",
+      "titulo": "Rainbow Six Siege X Elite Edition Ps5 Midia Fisica",
+      "link": "https://meli.la/2Ufdw4X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740949-MLA99945037129_112025-F.jpg",
+      "preco": 49.97,
+      "precoDe": 126.44,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T21:31:33.171Z"
+    },
     {
       "id": "42870",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-11-06T12:20:56.134Z"
-    },
-    {
-      "id": "41797",
-      "loja": "Amazon",
-      "titulo": "Cafeteira Elétrica Cadence Desperta Constrast 127V - CAF338",
-      "link": "https://www.amazon.com.br/dp/B09V32W24L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41x5UFRITdL._SL400_.jpg",
-      "preco": 78.19,
-      "precoDe": 97.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:20:22.795Z"
     }
   ]
 }
