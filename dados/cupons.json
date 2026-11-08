@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T14:32:50.110Z",
+  "atualizadoEm": "2026-11-08T14:41:51.560Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -943,11 +943,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-08T16:07:38.000Z",
+      "validadeAte": "2026-12-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1567,11 +1567,11 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-08T15:09:04.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1595,7 +1595,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-09T12:03:54.000Z",
+      "validadeAte": "2026-11-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1871,7 +1871,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-09T12:03:54.000Z",
+      "validadeAte": "2026-11-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1931,7 +1931,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-09T12:03:54.000Z",
+      "validadeAte": "2026-11-09T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
