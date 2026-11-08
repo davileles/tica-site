@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-08T16:10:35.042Z",
+  "atualizadoEm": "2026-11-08T16:41:51.743Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1968,6 +1968,18 @@
       "limite": 300,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-09T16:01:31.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BORTODEZ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-09T16:33:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
