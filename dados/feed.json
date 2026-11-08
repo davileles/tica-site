@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T21:41:33.175Z",
+  "atualizadoEm": "2026-11-08T22:08:23.973Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42874",
+      "loja": "Amazon",
+      "titulo": "Dove Hidratante Sérum Corporal Glicólico + Reparador de Textura 380ml",
+      "link": "https://www.amazon.com.br/dp/B0GY9B1RQL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31XRm8VcIDL._SL400_.jpg",
+      "preco": 28.44,
+      "precoDe": 53.48,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T21:58:23.969Z"
+    },
+    {
+      "id": "42873",
+      "loja": "Shopee",
+      "titulo": "Mala De Viagem/Bordo 10KG,Nova Estilo Zíper Dupla Camada Anti-Roubo,Rodas Duplas 360Grau lançamento",
+      "link": "https://s.shopee.com.br/1LhBWymm42",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6kfam0o02sw54_tn",
+      "preco": 121.5,
+      "precoDe": 270,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T21:53:47.635Z"
+    },
     {
       "id": "42872",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 49,
       "cupom": "FAVORITO",
       "enviadoEm": "2026-11-06T12:26:02.919Z"
-    },
-    {
-      "id": "41805",
-      "loja": "Amazon",
-      "titulo": "Cachaça Santo Grau 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B009NRD09O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31cTul9Yt5L._SL400_.jpg",
-      "preco": 54.28,
-      "precoDe": 72.11,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:24:20.832Z"
-    },
-    {
-      "id": "41798",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Double Black, 1L",
-      "link": "https://www.amazon.com.br/dp/B008X6TB08?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+2jx8jqgL._SL400_.jpg",
-      "preco": 179.99,
-      "precoDe": 266.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:20:56.134Z"
     }
   ]
 }
