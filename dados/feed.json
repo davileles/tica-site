@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T18:26:04.210Z",
+  "atualizadoEm": "2026-11-08T18:59:45.736Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42842",
+      "loja": "Amazon",
+      "titulo": "WOLFF - Garrafa Térmica de Aço Inox com Termômetro em Led 500ml Preto - Conserva Bebidas Quentes e Frias",
+      "link": "https://www.amazon.com.br/dp/B0B1N25YY5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wFqfyyWNL._SL400_.jpg",
+      "preco": 37.45,
+      "precoDe": 57.7,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T18:49:45.734Z"
+    },
+    {
+      "id": "42841",
+      "loja": "Shopee",
+      "titulo": "Prateleira de Metal Adesiva Sem Furo para Banheiro e Cozinha, Organizador de Parede Porta Shampoo e Sabonete",
+      "link": "https://s.shopee.com.br/8VALrQJN0F",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 16.99,
+      "precoDe": 32.67,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T18:48:31.715Z"
+    },
     {
       "id": "42836",
       "loja": "Wine",
@@ -5977,30 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-06T11:32:32.238Z"
-    },
-    {
-      "id": "41729",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec G Mega 9x34pads Leve 34 pague 32 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RzLukzVDL._SL400_.jpg",
-      "preco": 27.04,
-      "precoDe": 37.02,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:32:08.056Z"
-    },
-    {
-      "id": "41728",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DupqCSKGL._SL400_.jpg",
-      "preco": 27.99,
-      "precoDe": 36.96,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T11:31:41.070Z"
     }
   ]
 }
