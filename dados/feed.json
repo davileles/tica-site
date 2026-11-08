@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-08T15:41:49.923Z",
+  "atualizadoEm": "2026-11-08T16:10:33.208Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42776",
+      "loja": "Amazon",
+      "titulo": "Vichy Dercos Energy+ Shampoo Antiqueda Estimulante com Aminexil 1.5%, 400g",
+      "link": "https://www.amazon.com.br/dp/B0C3SQL65C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/319kjPGvcFL._SL400_.jpg",
+      "preco": 94.6,
+      "precoDe": 159.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T16:00:33.205Z"
+    },
+    {
+      "id": "42774",
+      "loja": "Shopee",
+      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - BNVT",
+      "link": "https://s.shopee.com.br/20wrvbxyaW",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3dg900h03zsa3_tn",
+      "preco": 14.9,
+      "precoDe": 29.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:55:41.775Z"
+    },
+    {
+      "id": "42773",
+      "loja": "Amazon",
+      "titulo": "TOYADENT Escova de Dente Adultos, 5500 Cerdas Macia, Kit Família 3 Unidades | Confortável para Escovação Diária, Alta Densidade com Tampa Protetora, Kit Família para Limpeza Suave ",
+      "link": "https://www.amazon.com.br/dp/B0FG2DG5RH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J9asX89tL._SL400_.jpg",
+      "preco": 23.56,
+      "precoDe": 29.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:52:21.966Z"
+    },
+    {
+      "id": "42772",
+      "loja": "Amazon",
+      "titulo": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXV5WLB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HMYUaJgHL._SL400_.jpg",
+      "preco": 40.9,
+      "precoDe": 46.68,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:50:29.147Z"
+    },
+    {
+      "id": "42771",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto De Panelas Sartin Champ 7 Peças Cerâmica Mimo Style",
+      "link": "https://meli.la/1devhy4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621492-MLA99502976516_112025-F.jpg",
+      "preco": 246.99,
+      "precoDe": 445.4,
+      "desconto": 27,
+      "cupom": "COMPRAHOJE",
+      "enviadoEm": "2026-11-08T15:49:54.025Z"
+    },
+    {
+      "id": "42770",
+      "loja": "Mercado Livre",
+      "titulo": "Bolsa Para Marmita Zíper Meimi Amores Preto Nylon Semi Impermeável",
+      "link": "https://meli.la/1K8hNgQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941280-MLU74332195206_022024-F.jpg",
+      "preco": 25.9,
+      "precoDe": 39.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:48:33.079Z"
+    },
+    {
+      "id": "42769",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+      "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kCDw3B6+L._SL400_.jpg",
+      "preco": 370.64,
+      "precoDe": 463.87,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T15:46:00.434Z"
+    },
     {
       "id": "42767",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-05T21:42:02.279Z"
-    },
-    {
-      "id": "41625",
-      "loja": "Amazon",
-      "titulo": "Licor Seco Ballantine's 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DZDVTJVZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yeX2k3zzL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 84.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:41:11.000Z"
-    },
-    {
-      "id": "41621",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXW6ZYB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41A3ELm8gAL._SL400_.jpg",
-      "preco": 54.6,
-      "precoDe": 67.08,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:35:19.136Z"
-    },
-    {
-      "id": "41620",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
-      "preco": 97.59,
-      "precoDe": 189.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:29:29.386Z"
-    },
-    {
-      "id": "41619",
-      "loja": "Amazon",
-      "titulo": "Santa Helena Vinho Reservado Sauvignon Blanc 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMFSWK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31EFw+sjVkL._SL400_.jpg",
-      "preco": 18.06,
-      "precoDe": 26.68,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:29:06.252Z"
-    },
-    {
-      "id": "41617",
-      "loja": "Shopee",
-      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
-      "link": "https://s.shopee.com.br/80E0eghLxl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
-      "preco": 18.9,
-      "precoDe": 27,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:27:15.756Z"
-    },
-    {
-      "id": "41615",
-      "loja": "Amazon",
-      "titulo": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
-      "link": "https://www.amazon.com.br/dp/B08DPL6H9X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yhUVedEgL._SL400_.jpg",
-      "preco": 41.66,
-      "precoDe": 76.4,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:23:37.572Z"
-    },
-    {
-      "id": "41611",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut Vanilia, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B0058GVP9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JRbcu-JyL._SL400_.jpg",
-      "preco": 66.71,
-      "precoDe": 117.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T21:15:00.070Z"
     }
   ]
 }
