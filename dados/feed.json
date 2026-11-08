@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-08T13:03:21.294Z",
+  "atualizadoEm": "2026-11-08T13:11:49.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42716",
+      "loja": "Amazon",
+      "titulo": "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Bege Onda",
+      "link": "https://www.amazon.com.br/dp/B0DB8XPQCT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41lHfYxjnqL._SL400_.jpg",
+      "preco": 650,
+      "precoDe": 899,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T13:10:05.441Z"
+    },
+    {
+      "id": "42715",
+      "loja": "Shopee",
+      "titulo": "Assento Elevatório Portátil Para Bebê Com Capa Removível Suporte De Alimentação E Aniversário De Viagem Crianças",
+      "link": "https://s.shopee.com.br/6AmQhkK9We",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134301-7rbm6-m5wrjqqw898q47_tn",
+      "preco": 63.41,
+      "precoDe": 94.64,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-08T13:07:56.379Z"
+    },
     {
       "id": "42711",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-11-05T20:05:24.818Z"
-    },
-    {
-      "id": "41550",
-      "loja": "Amazon",
-      "titulo": "Cristalizador Para Para-Brisa Luxcar 100 Ml",
-      "link": "https://www.amazon.com.br/dp/B07VHF1DKM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pjCW-CwLL._SL400_.jpg",
-      "preco": 9.94,
-      "precoDe": 27.43,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:03:38.326Z"
-    },
-    {
-      "id": "41549",
-      "loja": "Shopee",
-      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "link": "https://s.shopee.com.br/8VAH9lXHC0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
-      "preco": 59.9,
-      "precoDe": 85.57,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-05T20:01:59.444Z"
     }
   ]
 }
