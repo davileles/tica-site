@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-09T23:10:22.734Z",
+  "atualizadoEm": "2026-11-09T23:52:53.761Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43616",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Fluminense Puma Masculina Jogo Partida 2026",
+      "link": "https://meli.la/2kzyYSU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729468-MLB114597193419_072026-P.webp",
+      "preco": 258.58,
+      "precoDe": 369.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T23:42:53.756Z"
+    },
     {
       "id": "43614",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-07T20:59:20.538Z"
-    },
-    {
-      "id": "42604",
-      "loja": "Mercado Livre",
-      "titulo": "Cooktop a Gás Fischer 5 Bocas Fit Line Trempe Esmaltada Aramado",
-      "link": "https://meli.la/1V87yzG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_769171-MLA96419529722_102025-F.jpg",
-      "preco": 459.8,
-      "precoDe": 599,
-      "desconto": 23,
-      "cupom": "TODOSITE0711",
-      "enviadoEm": "2026-11-07T20:58:02.123Z"
     }
   ]
 }
