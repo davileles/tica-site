@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-09T22:57:48.583Z",
+  "atualizadoEm": "2026-11-09T23:10:22.734Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43614",
+      "loja": "Mercado Livre",
+      "titulo": "Suporte Celular Veicular Carro Ventosa Automatico Painel",
+      "link": "https://meli.la/23uf9BJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969028-MLB83232756988_042025-P.webp",
+      "preco": 20.99,
+      "precoDe": 28.65,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T23:00:22.730Z"
+    },
     {
       "id": "43612",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 23,
       "cupom": "TODOSITE0711",
       "enviadoEm": "2026-11-07T20:58:02.123Z"
-    },
-    {
-      "id": "42603",
-      "loja": "Shopee",
-      "titulo": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
-      "link": "https://s.shopee.com.br/1BmHeCo9c",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397_tn",
-      "preco": 39.8,
-      "precoDe": 147.41,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:56:49.115Z"
     }
   ]
 }
