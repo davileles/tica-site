@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-09T19:24:17.945Z",
+  "atualizadoEm": "2026-11-09T19:27:48.336Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43494",
+      "loja": "Amazon",
+      "titulo": "Bebida Láctea UHT YoPRO Chocolate, 15g de Proteínas, 250ml",
+      "link": "https://www.amazon.com.br/dp/B09M2B14V7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41v70UOgT-L._SL400_.jpg",
+      "preco": 75.99,
+      "precoDe": 98.29,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T19:25:52.944Z"
+    },
     {
       "id": "43481",
       "loja": "Shopee",
@@ -4897,18 +4909,6 @@
       "desconto": 27,
       "cupom": "OFERTANOMELI",
       "enviadoEm": "2026-11-08T01:29:20.221Z"
-    },
-    {
-      "id": "42643",
-      "loja": "Amazon",
-      "titulo": "Bebida Láctea UHT YoPRO Chocolate, 15g de Proteínas, 250ml",
-      "link": "https://www.amazon.com.br/dp/B09M2B14V7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v70UOgT-L._SL400_.jpg",
-      "preco": 60.8,
-      "precoDe": 98.29,
-      "desconto": 23,
-      "cupom": "YOPRO20APP",
-      "enviadoEm": "2026-11-08T01:09:13.585Z"
     },
     {
       "id": "42639",
