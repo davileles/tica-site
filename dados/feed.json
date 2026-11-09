@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-09T20:55:27.164Z",
+  "atualizadoEm": "2026-11-09T20:57:48.580Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43553",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente e Lança Regulável",
+      "link": "https://meli.la/281fxEY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746691-MLA118789821329_102026-F.jpg",
+      "preco": 216.75,
+      "precoDe": 550,
+      "desconto": 47,
+      "cupom": "OFFPRACONSTRUIR",
+      "enviadoEm": "2026-11-09T20:56:27.047Z"
+    },
     {
       "id": "43547",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 45,
       "cupom": null,
       "enviadoEm": "2026-11-07T17:58:57.552Z"
-    },
-    {
-      "id": "42534",
-      "loja": "Amazon",
-      "titulo": "Energético Baly Morango e Pêssego 2L | Energia Frutada, Grande Volume",
-      "link": "https://www.amazon.com.br/dp/B0CWMNHR45?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31z4a-1xssL._SL400_.jpg",
-      "preco": 17.01,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T17:57:37.699Z"
     }
   ]
 }
