@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T16:57:50.806Z",
+  "atualizadoEm": "2026-11-09T18:27:50.474Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -361,6 +361,18 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "TECH0911",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-10T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITETODO0911",
@@ -1863,6 +1875,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SAUDESEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFFPRACONSTRUIR",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1896,6 +1920,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORACAO0911",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-10T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2055,18 +2091,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SAUDESEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HOJEMESMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2103,15 +2127,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
-      "codigo": "BFMERCADO",
+      "codigo": "ESTOQUEBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto de R$20 em pedidos do Mercado pelo iFood",
-      "validadeAte": "2026-11-09T18:00:29.000Z",
+      "observacao": "R$ 20 OFF em Mercado",
+      "validadeAte": "2026-11-10T18:00:21.000Z",
       "url": null
     },
     {
