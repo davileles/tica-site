@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-09T18:42:07.565Z",
+  "atualizadoEm": "2026-11-09T18:57:48.323Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43464",
+      "loja": "Amazon",
+      "titulo": "Fralda Huggies Supreme Care M, 196 Un",
+      "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51+st-gYHFL._SL400_.jpg",
+      "preco": 142.4,
+      "precoDe": 229.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T18:56:39.577Z"
+    },
+    {
+      "id": "43462",
+      "loja": "Shopee",
+      "titulo": "Kit Chocalho 8 Peças Mordedor Bebê Brinquedo Sensorial Macio Presente Para Menina e Menino Móbile para Berço",
+      "link": "https://s.shopee.com.br/AAIbRh9qzm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtzdbhwe4uae0_tn",
+      "preco": 55.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T18:53:13.961Z"
+    },
+    {
+      "id": "43461",
+      "loja": "Amazon",
+      "titulo": "Chupeta Ultra Air 0-6 Meses Philips Avent Boy Unitária Elefante 081/06",
+      "link": "https://www.amazon.com.br/dp/B0C4M8S87B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jmfZtSWQL._SL400_.jpg",
+      "preco": 19.91,
+      "precoDe": 40.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T18:48:06.293Z"
+    },
     {
       "id": "43452",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 47,
       "cupom": "MELIOFERTAS",
       "enviadoEm": "2026-11-07T16:36:48.555Z"
-    },
-    {
-      "id": "42494",
-      "loja": "Mercado Livre",
-      "titulo": "Headset Gamer PRO X 7.1 Dolby Surround Logitech G",
-      "link": "https://meli.la/2LVokqn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738024-MLA108909281962_032026-F.jpg",
-      "preco": 683.09,
-      "precoDe": 999.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T16:35:30.394Z"
-    },
-    {
-      "id": "42493",
-      "loja": "Mercado Livre",
-      "titulo": "Teclado Mecânico Gamer Husky Anchorage Gateron Ef Brown Rgb",
-      "link": "https://meli.la/2XhcBP4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911549-MLB119556952131_102026-P.webp",
-      "preco": 139.54000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIOFERTAS",
-      "enviadoEm": "2026-11-07T16:34:06.069Z"
-    },
-    {
-      "id": "42491",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente e Lança Regulável",
-      "link": "https://meli.la/281fxEY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746691-MLA118789821329_102026-F.jpg",
-      "preco": 220,
-      "precoDe": 550,
-      "desconto": 60,
-      "cupom": "MELIOFERTAS",
-      "enviadoEm": "2026-11-07T16:32:35.528Z"
     }
   ]
 }
