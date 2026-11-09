@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T22:27:50.301Z",
+  "atualizadoEm": "2026-11-09T22:57:50.244Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2040,6 +2040,18 @@
       "limite": 40,
       "observacao": "Dois cupons com mesmas condições, em categorias/listas diferentes",
       "validadeAte": "2026-11-10T15:00:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRIMACIAL15OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 10,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-10T22:42:32.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
