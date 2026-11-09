@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-09T22:27:48.582Z",
+  "atualizadoEm": "2026-11-09T22:57:48.583Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43612",
+      "loja": "Amazon",
+      "titulo": "L’Oréal Professionnel Pro Longer Shampoo Para Cabelos Finos Serie Expert 1L | Com Filler-A100 + Aminoácidos para cabelos frágeis e com afinamento",
+      "link": "https://www.amazon.com.br/dp/B0H4S7D2TT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21z89jUSM+L._SL400_.jpg",
+      "preco": 149,
+      "precoDe": 259.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:57:14.191Z"
+    },
+    {
+      "id": "43611",
+      "loja": "Mercado Livre",
+      "titulo": "Chuteira De Futsal Masculina F50 Hyperfast Club adidas",
+      "link": "https://meli.la/14qgkDy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992637-MLB115195024575_072026-P.webp",
+      "preco": 236.54,
+      "precoDe": 499.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:55:56.256Z"
+    },
+    {
+      "id": "43610",
+      "loja": "Amazon",
+      "titulo": "Picarón Vinho Cabernet Sauvignon 750Ml",
+      "link": "https://www.amazon.com.br/dp/B09WPRPPC3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31n-tP5s1kL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:53:23.084Z"
+    },
+    {
+      "id": "43607",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+      "link": "https://s.shopee.com.br/qkwaQYfjq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde_tn",
+      "preco": 22.9,
+      "precoDe": 45.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:48:26.920Z"
+    },
+    {
+      "id": "43608",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
+      "link": "https://meli.la/1CKr4Zf",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_918307-MLA118847501699_102026-F.jpg",
+      "preco": 103.41000000000001,
+      "precoDe": 140,
+      "desconto": 18,
+      "cupom": "HOJEMESMO",
+      "enviadoEm": "2026-11-09T22:47:12.647Z"
+    },
+    {
+      "id": "43604",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 42,
+      "precoDe": 71.39,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:39:44.412Z"
+    },
+    {
+      "id": "43603",
+      "loja": "Amazon",
+      "titulo": "Jogo 6 Taças para Gin Tônica 600 ml Vidro Nadir Figueiredo (7948)",
+      "link": "https://www.amazon.com.br/dp/B08ZL4QMBF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vuuEP-N9L._SL400_.jpg",
+      "preco": 67.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:33:08.931Z"
+    },
+    {
+      "id": "43602",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Guaraná Antarctica, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B01LWRFFLP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31upYlT-w3L._SL400_.jpg",
+      "preco": 30.89,
+      "precoDe": 41.88,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:29:43.146Z"
+    },
     {
       "id": "43601",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 73,
       "cupom": null,
       "enviadoEm": "2026-11-07T20:56:49.115Z"
-    },
-    {
-      "id": "42602",
-      "loja": "Mercado Livre",
-      "titulo": "Umidificador De Ar Ultrassônico Umi Pop Health 2,3l Dellamed Cor Branco Bivolt",
-      "link": "https://meli.la/2UHHDhU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796573-MLU78868626071_092024-F.jpg",
-      "preco": 77.39,
-      "precoDe": 118,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:55:33.187Z"
-    },
-    {
-      "id": "42599",
-      "loja": "Amazon",
-      "titulo": "Bosch Serra Mármore Gdc 150 Titan 1500W 220V Com 1 Disco",
-      "link": "https://www.amazon.com.br/dp/B076ZQZ8F5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v6okjnrPL._SL400_.jpg",
-      "preco": 319.4,
-      "precoDe": 354.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:50:12.305Z"
-    },
-    {
-      "id": "42601",
-      "loja": "Mercado Livre",
-      "titulo": "Garrafa Térmica Stanley Aerolight Fast Flow Cream Chevron 710ml",
-      "link": "https://meli.la/1hd9Qnc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632334-MLA112638211624_062026-F.jpg",
-      "preco": 140.37,
-      "precoDe": 309,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:49:40.200Z"
-    },
-    {
-      "id": "42600",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff 1750ml | Vodka nº 1 do mundo em garrafa econômica de 1,75L ideal para drinks",
-      "link": "https://www.amazon.com.br/dp/B005IZZDAY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31vrzk3W5NL._SL400_.jpg",
-      "preco": 39.99,
-      "precoDe": 63.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:48:30.876Z"
-    },
-    {
-      "id": "42598",
-      "loja": "Amazon",
-      "titulo": "Verden Bicicleta Infantil Jack Aro 12 com rodinhas de apoio",
-      "link": "https://www.amazon.com.br/dp/B0B4YJ4424?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sWo+LVA3L._SL400_.jpg",
-      "preco": 131.9,
-      "precoDe": 249.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:48:04.301Z"
-    },
-    {
-      "id": "42567",
-      "loja": "Wine",
-      "titulo": "Kit 6 - Refrescantes Esteban Martín por R$199",
-      "link": "https://tidd.ly/4yLiF6l",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3A8dbd7777bbc323r01af38816375ccac9.wine.com.br%2FUCH128-01.png&feedId=47333&k=55d55d4f69a7a93403eb19ca5c1a0e1e014b69f7",
-      "preco": 199.06,
-      "precoDe": 599.4,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:46:52.057Z"
-    },
-    {
-      "id": "42597",
-      "loja": "Amazon",
-      "titulo": "Whisky Escocês Blended Grain Royal Salute, 21 Anos, 700ml",
-      "link": "https://www.amazon.com.br/dp/B0CYTCQZQC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RoeMGS7ML._SL400_.jpg",
-      "preco": 779.9,
-      "precoDe": 1364.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:45:43.853Z"
-    },
-    {
-      "id": "42573",
-      "loja": "Olympikus",
-      "titulo": "Jaqueta Funcionalidade Termo Olympikus Masculina P Azul",
-      "link": "https://tidd.ly/4dRukbL",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Avulcabras.vteximg.com.br%2Farquivos%2Fids%2F289741_2&feedId=51837&k=0a728dc0cb7a893eed36eabf08217c87578e7529",
-      "preco": 129.99,
-      "precoDe": 329.99,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:45:11.602Z"
     }
   ]
 }
