@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T19:24:19.642Z",
+  "atualizadoEm": "2026-11-09T20:27:51.065Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1677,7 +1677,7 @@
       "valor": 25,
       "minimo": 99,
       "maximo": null,
-      "limite": 60,
+      "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1690,6 +1690,18 @@
       "minimo": 79,
       "maximo": null,
       "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-10T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFPRACONSTRUIR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1882,18 +1894,6 @@
       "minimo": 79,
       "maximo": null,
       "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-10T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFPRACONSTRUIR",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-10T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
