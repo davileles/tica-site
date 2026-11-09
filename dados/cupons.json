@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T20:55:28.996Z",
+  "atualizadoEm": "2026-11-09T21:27:50.474Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": null,
       "observacao": "Cupom válido no aplicativo Amazon",
       "validadeAte": "2026-11-09T22:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "NATORCIDA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom para primeira compra na Amazon",
-      "validadeAte": "2026-11-09T21:17:39.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
