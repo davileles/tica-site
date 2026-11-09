@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-09T11:06:29.879Z",
+  "atualizadoEm": "2026-11-09T11:36:29.880Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "42921",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 109.9,
+      "precoDe": 157.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:29:14.991Z"
+    },
+    {
+      "id": "42920",
+      "loja": "Amazon",
+      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+      "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41okcss3BrL._SL400_.jpg",
+      "preco": 37.99,
+      "precoDe": 72.65,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:24:46.354Z"
+    },
+    {
+      "id": "42919",
+      "loja": "Amazon",
+      "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
+      "link": "https://www.amazon.com.br/dp/B09LRZZYQD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gyvRQbUuL._SL400_.jpg",
+      "preco": 26.59,
+      "precoDe": 39,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:24:17.280Z"
+    },
+    {
+      "id": "42916",
+      "loja": "Shopee",
+      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
+      "link": "https://s.shopee.com.br/8AXWZ3IlVV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
+      "preco": 59.97,
+      "precoDe": 82.15,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:22:11.758Z"
+    },
+    {
+      "id": "42914",
+      "loja": "Amazon",
+      "titulo": "Mustela Gel Lavante Corpo E Cabelo Bio 400Ml - Sabonete Líquido Vegano Sem Fragrância Fórmula Biodegradável Com 97% De Ingredientes De Origem Natural",
+      "link": "https://www.amazon.com.br/dp/B07YQ6P7PR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31cJm1eTfeL._SL400_.jpg",
+      "preco": 108.78,
+      "precoDe": 151.07,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:16:10.375Z"
+    },
+    {
+      "id": "42913",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xMvKb-oFL._SL400_.jpg",
+      "preco": 117.38,
+      "precoDe": 189.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T11:15:48.390Z"
+    },
     {
       "id": "42908",
       "loja": "Mercado Livre",
@@ -1969,18 +2041,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-11-07T21:25:30.201Z"
-    },
-    {
-      "id": "42613",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 109.9,
-      "precoDe": 157.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T21:16:20.998Z"
     },
     {
       "id": "42612",
@@ -5941,66 +6001,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-11-06T13:01:39.257Z"
-    },
-    {
-      "id": "41846",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Pants G, 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hE5VBrwRL._SL400_.jpg",
-      "preco": 65,
-      "precoDe": 116.89,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:52:53.274Z"
-    },
-    {
-      "id": "41845",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
-      "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41YFjbCzH3L._SL400_.jpg",
-      "preco": 38,
-      "precoDe": 62.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:52:31.532Z"
-    },
-    {
-      "id": "41844",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Maxi-Cosi, Anna³, Select Grey",
-      "link": "https://www.amazon.com.br/dp/B0DK3YVQN2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zx0g5VaSL._SL400_.jpg",
-      "preco": 1872.68,
-      "precoDe": 2999,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:52:05.019Z"
-    },
-    {
-      "id": "41838",
-      "loja": "Amazon",
-      "titulo": "Casa Perini Espumante Brut 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07XTRQ14Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JyKsVADDL._SL400_.jpg",
-      "preco": 44.41,
-      "precoDe": 76.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:51:10.486Z"
-    },
-    {
-      "id": "41839",
-      "loja": "Mercado Livre",
-      "titulo": "Coifa Ilha 75cm Vidro Reto Fogatti Inox - R$ 1.642",
-      "link": "https://meli.la/1RWrnJ7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_797156-MLB90162790134_082025-P.webp",
-      "preco": 84.99,
-      "precoDe": 124.99,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-06T12:47:16.527Z"
     }
   ]
 }
