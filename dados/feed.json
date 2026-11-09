@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-09T18:27:48.300Z",
+  "atualizadoEm": "2026-11-09T18:42:07.565Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43452",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Sacos de Lixo Perfumados Lavanda  10 Litros 160 Saquinhos Pia e Banheiro Neutraliza Odores",
+      "link": "https://s.shopee.com.br/8KqxEsrG0D",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-muwrdyvbrvnn51_tn",
+      "preco": 24.9,
+      "precoDe": 48.82,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T18:32:07.562Z"
+    },
+    {
+      "id": "43448",
+      "loja": "Amazon",
+      "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen",
+      "link": "https://www.amazon.com.br/dp/B0FDCLCBZB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41F9wQaldHL._SL400_.jpg",
+      "preco": 16.11,
+      "precoDe": 26.39,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T18:28:17.018Z"
+    },
     {
       "id": "43440",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 60,
       "cupom": "MELIOFERTAS",
       "enviadoEm": "2026-11-07T16:32:35.528Z"
-    },
-    {
-      "id": "42488",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
-      "link": "https://meli.la/264DryR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942823-MLA113526261849_062026-F.jpg",
-      "preco": 73.66,
-      "precoDe": 189.99,
-      "desconto": 52,
-      "cupom": "MELIOFERTAS",
-      "enviadoEm": "2026-11-07T16:28:07.992Z"
-    },
-    {
-      "id": "42487",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 269ml, Pack com 8 unidades | Lata, Cerveja",
-      "link": "https://www.amazon.com.br/dp/B0H6MVT6LJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YdY9SVY-L._SL400_.jpg",
-      "preco": 56.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T16:26:29.705Z"
     }
   ]
 }
