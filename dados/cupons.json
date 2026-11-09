@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T13:06:31.534Z",
+  "atualizadoEm": "2026-11-09T13:23:50.082Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1099,10 +1099,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2664,6 +2664,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-09T20:35:36.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "S3GUND0U20",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-10T13:16:05.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
