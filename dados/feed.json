@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-09T21:57:48.583Z",
+  "atualizadoEm": "2026-11-09T22:27:48.582Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43601",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+      "link": "https://s.shopee.com.br/1BNmxb7pNo",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mic25g35m1vl17_tn",
+      "preco": 64.98,
+      "precoDe": 151.12,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:23:21.626Z"
+    },
+    {
+      "id": "43599",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Zero Guaraná Antarctica, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B07XPK2DMQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fjVJPW5IL._SL400_.jpg",
+      "preco": 24.21,
+      "precoDe": 41.88,
+      "desconto": 23,
+      "cupom": "BLACK25OFF",
+      "enviadoEm": "2026-11-09T22:16:03.642Z"
+    },
+    {
+      "id": "43598",
+      "loja": "Amazon",
+      "titulo": "WAP Aspirador de Pó Automotivo Car 12V2, Portátil, 420ml, com Recipiente Removível e Filtro Lavável, 180W 12VDC",
+      "link": "https://www.amazon.com.br/dp/B0CLDRS18S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41nW5OWviVL._SL400_.jpg",
+      "preco": 52.42,
+      "precoDe": 119.9,
+      "desconto": 42,
+      "cupom": "BLACK25OFF",
+      "enviadoEm": "2026-11-09T22:14:20.296Z"
+    },
+    {
+      "id": "43597",
+      "loja": "Amazon",
+      "titulo": "Cerveja Pilsen Eisenbahn, Lata 350ml, 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BW1GMVMD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vO-AYLqPL._SL400_.jpg",
+      "preco": 41.88,
+      "precoDe": 50.28,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:12:49.255Z"
+    },
+    {
+      "id": "43596",
+      "loja": "Amazon",
+      "titulo": "Óculos de Sol Ray-Ban Round Flat Unissex",
+      "link": "https://www.amazon.com.br/dp/B07VZXQKMV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rv0MOeszL._SL400_.jpg",
+      "preco": 499.9,
+      "precoDe": 940,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:12:17.705Z"
+    },
+    {
+      "id": "43595",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Kart Elétrico Infantil Justfun A Bateria",
+      "link": "https://meli.la/1fnqocK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_935816-MLB117806044405_092026-P.webp",
+      "preco": 359.99,
+      "precoDe": 899.9,
+      "desconto": 47,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-09T22:09:00.885Z"
+    },
+    {
+      "id": "43593",
+      "loja": "Shopee",
+      "titulo": "suporte Ergonômico dobravel Portátil Celular/tablet - Ajustável Mesa/SUPORTE",
+      "link": "https://s.shopee.com.br/40hyJMSrK7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92ri00p68b_tn",
+      "preco": 10.99,
+      "precoDe": 45.79,
+      "desconto": 76,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T22:02:25.390Z"
+    },
+    {
+      "id": "43590",
+      "loja": "Amazon",
+      "titulo": "Toalha Umedecida Personalidade Baby Ultra Extrato de Calêndula e Aloe Vera 200 unidades 19cm X 14cm",
+      "link": "https://www.amazon.com.br/dp/B0FS9WMBNF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41D9qM8MHZL._SL400_.jpg",
+      "preco": 20.95,
+      "precoDe": 24.5,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-09T21:58:47.122Z"
+    },
     {
       "id": "43588",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 61,
       "cupom": null,
       "enviadoEm": "2026-11-07T20:45:11.602Z"
-    },
-    {
-      "id": "42579",
-      "loja": "Olympikus",
-      "titulo": "Moletom Cropped Olympikus Feminino G Azul",
-      "link": "https://tidd.ly/4AlRZtW",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Avulcabras.vteximg.com.br%2Farquivos%2Fids%2F287567_2&feedId=51837&k=aede8d6bbb199652516f562e314c168760b94db7",
-      "preco": 89.99,
-      "precoDe": 229.99,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:44:00.482Z"
-    },
-    {
-      "id": "42596",
-      "loja": "Mizuno",
-      "titulo": "Tênis Feminino Mizuno Wave Rider 27 39 Cinza",
-      "link": "https://tidd.ly/3UJtIP4",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Amizunobr.vteximg.com.br%2Farquivos%2Fids%2F233410_2&feedId=85451&k=955c95e55f50a6799d5771ea4de9531c5c799038",
-      "preco": 399.99,
-      "precoDe": 999.99,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:42:44.196Z"
-    },
-    {
-      "id": "42595",
-      "loja": "Shopee",
-      "titulo": "Shampoo SOS Cachos Kids Super Óleos 300ml",
-      "link": "https://s.shopee.com.br/AKbyZC9Pcb",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-msbvvyd3tdds66_tn",
-      "preco": 18.9,
-      "precoDe": 23.05,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:34:37.072Z"
-    },
-    {
-      "id": "42592",
-      "loja": "Amazon",
-      "titulo": "Tío Nacho Condicionador Anti-idade Antiqueda Natural com Geleia Real Concentrada – Reparação, Nutrição Profunda e Fortalecimento Capilar 415ml",
-      "link": "https://www.amazon.com.br/dp/B07FLHTKQJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416WOR6x3SL._SL400_.jpg",
-      "preco": 20.88,
-      "precoDe": 45.99,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:30:09.263Z"
-    },
-    {
-      "id": "42591",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Bobojaco Feminina Puffer Impermeavel Capuz Removível",
-      "link": "https://meli.la/11opFU2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750304-MLB117725876233_092026-P.webp",
-      "preco": 34.9,
-      "precoDe": 140,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:28:56.914Z"
-    },
-    {
-      "id": "42590",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-      "link": "https://meli.la/1JVBYQL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
-      "preco": 52.489999999999995,
-      "precoDe": 159.9,
-      "desconto": 56,
-      "cupom": "LEVEAGORA",
-      "enviadoEm": "2026-11-07T20:27:40.068Z"
-    },
-    {
-      "id": "42589",
-      "loja": "Mercado Livre",
-      "titulo": "Vitamina D3 e K2 MK7 Forged Nutrition Para Ossos e Imunidade 120 Cápsulas",
-      "link": "https://meli.la/2VsmqYF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892486-MLA114478065090_082026-F.jpg",
-      "preco": 44.92,
-      "precoDe": 79.9,
-      "desconto": 25,
-      "cupom": "PEGUEISEU",
-      "enviadoEm": "2026-11-07T20:26:28.933Z"
-    },
-    {
-      "id": "42587",
-      "loja": "Mercado Livre",
-      "titulo": "Estabilizador Gimbal GoPro Fluid Pro Ai para Smartphones, Câmeras, LED e Case inclusa",
-      "link": "https://meli.la/1maec1a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650342-MLA112804351255_062026-F.jpg",
-      "preco": 949.05,
-      "precoDe": 1999,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T20:23:54.012Z"
     }
   ]
 }
