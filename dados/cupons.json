@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T22:07:33.974Z",
+  "atualizadoEm": "2026-11-10T23:07:34.717Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2055,30 +2055,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRIMACIAL15OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 10,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-10T22:42:32.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ISDIN15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-10T23:03:48.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODABELEZA1011",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2160,6 +2136,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-11T15:00:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido na lista especificada no link fornecido",
+      "validadeAte": "2026-11-11T22:36:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
