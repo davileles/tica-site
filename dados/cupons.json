@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T21:37:34.285Z",
+  "atualizadoEm": "2026-11-10T22:07:33.974Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": null,
       "observacao": "Cupom exclusivo para o app Amazon",
       "validadeAte": "2026-11-11T15:00:40.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BLACK25OFF",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupom exclusivo para app Amazon",
-      "validadeAte": "2026-11-10T22:00:20.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
