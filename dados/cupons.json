@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T16:43:08.373Z",
+  "atualizadoEm": "2026-11-10T17:50:39.149Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2209,6 +2209,30 @@
       "observacao": "Cupom para restaurantes no iFood. Informações de tipo de desconto, valor e demais detalhes não foram fornecidos na mensagem.",
       "validadeAte": "2026-11-10T18:29:48.000Z",
       "url": null
+    },
+    {
+      "codigo": "CINQUENTINHA",
+      "loja": "Outro: O Boticário",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 300,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T17:47:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
+    },
+    {
+      "codigo": "11DO11",
+      "loja": "Outro: O Boticário",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T17:47:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
     },
     {
       "codigo": "FLASH",
