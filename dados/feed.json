@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-10T20:48:13.530Z",
+  "atualizadoEm": "2026-11-10T21:07:32.202Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44317",
+      "loja": "Amazon",
+      "titulo": "Chilano Vinho Chileno Rosé 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07YMPRGC9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21V7e9ElxdL._SL400_.jpg",
+      "preco": 30.59,
+      "precoDe": 43.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T21:05:49.341Z"
+    },
+    {
+      "id": "44316",
+      "loja": "Amazon",
+      "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 1l",
+      "link": "https://www.amazon.com.br/dp/B0D63J2X32?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xWZF34qoL._SL400_.jpg",
+      "preco": 111.1,
+      "precoDe": 155.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T20:59:45.371Z"
+    },
+    {
+      "id": "44315",
+      "loja": "Amazon",
+      "titulo": "Cerveja Baden Baden IPA, Lata 350ml, Pack com 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B0F695MQ9K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41w+y3PfDKL._SL400_.jpg",
+      "preco": 30.9,
+      "precoDe": 38.34,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T20:58:49.311Z"
+    },
+    {
+      "id": "44314",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/6VPKAsPY6k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T20:58:13.227Z"
+    },
+    {
+      "id": "44313",
+      "loja": "Amazon",
+      "titulo": "Máscara Capilar Eudora Siàge, 250g",
+      "link": "https://www.amazon.com.br/dp/B0CGQP6Q6Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31NGolRvEfL._SL400_.jpg",
+      "preco": 24.15,
+      "precoDe": 75.99,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T20:56:54.236Z"
+    },
+    {
+      "id": "44311",
+      "loja": "Shopee",
+      "titulo": "Protetor De Porta Aluminio Vedação Anti-Inchaço Veda Porta Salva Porta",
+      "link": "https://s.shopee.com.br/5VWncKdfzv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5xvdicw783e_tn",
+      "preco": 25.42,
+      "precoDe": 29.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T20:54:23.906Z"
+    },
     {
       "id": "44307",
       "loja": "Amazon",
@@ -2941,18 +3013,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-11-10T11:24:52.577Z"
-    },
-    {
-      "id": "43664",
-      "loja": "Shopee",
-      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "link": "https://s.shopee.com.br/6VPKAsPY6k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
-      "preco": 69.99,
-      "precoDe": 109.36,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T11:22:36.807Z"
     },
     {
       "id": "43663",
@@ -5941,66 +6001,6 @@
       "desconto": 45,
       "cupom": "HOJEMESMO",
       "enviadoEm": "2026-11-09T14:24:33.872Z"
-    },
-    {
-      "id": "43156",
-      "loja": "Amazon",
-      "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-      "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vgV4cm+QL._SL400_.jpg",
-      "preco": 42,
-      "precoDe": 55.53,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T14:23:13.509Z"
-    },
-    {
-      "id": "43155",
-      "loja": "Amazon",
-      "titulo": "Creme Facial Antissinais Neutrogena Face Care Intensive, FPS 22, 100g | Hidratação Intensa, Textura Leve, Oil Free",
-      "link": "https://www.amazon.com.br/dp/B08YZB3Z2V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41femH4P2vL._SL400_.jpg",
-      "preco": 23,
-      "precoDe": 48.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T14:22:45.883Z"
-    },
-    {
-      "id": "43152",
-      "loja": "Amazon",
-      "titulo": "Baby Carrier Natural Fit 3 em 1 - NUK, Cinza",
-      "link": "https://www.amazon.com.br/dp/B07FPWJHN7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31oPhV8C7dL._SL400_.jpg",
-      "preco": 125.86,
-      "precoDe": 199.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T14:21:27.647Z"
-    },
-    {
-      "id": "43145",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Masculino Rabanne Phantom Parfum de 100 mL",
-      "link": "https://meli.la/1vmU2BW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_963692-MLA73417336392_122023-F.jpg",
-      "preco": 521.09,
-      "precoDe": 840.9,
-      "desconto": 31,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T14:21:03.206Z"
-    },
-    {
-      "id": "43143",
-      "loja": "Amazon",
-      "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml | Aroma Aloe Vera",
-      "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SaIZLexVL._SL400_.jpg",
-      "preco": 21,
-      "precoDe": 47.99,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T14:15:55.996Z"
     }
   ]
 }
