@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-10T18:13:06.353Z",
+  "atualizadoEm": "2026-11-10T18:34:26.138Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44186",
+      "loja": "Amazon",
+      "titulo": "Sensodyne Creme Dental para Sensibilidade Rápido Alívio e Proteção Duradoura com Flúor, Leve 3 e Pague 2, Alívio Instantâneo, 90g cada",
+      "link": "https://www.amazon.com.br/dp/B08937VBT7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419sHOXCbHL._SL400_.jpg",
+      "preco": 18.99,
+      "precoDe": 45.9,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:24:26.134Z"
+    },
+    {
+      "id": "44185",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 222.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:23:09.943Z"
+    },
+    {
+      "id": "44184",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/6fikq3f09c",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 22.99,
+      "precoDe": 47.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:22:38.417Z"
+    },
+    {
+      "id": "44174",
+      "loja": "Mercado Livre",
+      "titulo": "Mattel Brick Shop Honda Civic EF",
+      "link": "https://meli.la/2FW21tW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756456-MLA104984657345_012026-F.jpg",
+      "preco": 102.9,
+      "precoDe": 239.99,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:21:27.038Z"
+    },
+    {
+      "id": "44159",
+      "loja": "Shopee",
+      "titulo": "Kit 13 Pçs Pincéis De Maquiagem Contorno Kabuki Profissional-GUI ANA",
+      "link": "https://s.shopee.com.br/AUvTO2HOFk",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw1-lxcudfiu913eee_tn",
+      "preco": 11.98,
+      "precoDe": 31.53,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:20:05.412Z"
+    },
+    {
+      "id": "44182",
+      "loja": "Amazon",
+      "titulo": "Enxaguante Bucal Listerine Cool Mint, Sem Álcool, 1,5L | Elimina até 99, 9% Dos Germes, 24H de Proteção, Hálito Fresco, Antibacteriano",
+      "link": "https://www.amazon.com.br/dp/B07FRKJRRP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HehWI1xsL._SL400_.jpg",
+      "preco": 29.8,
+      "precoDe": 51.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:18:48.760Z"
+    },
+    {
+      "id": "44177",
+      "loja": "Amazon",
+      "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
+      "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412-h5gqGmL._SL400_.jpg",
+      "preco": 29.85,
+      "precoDe": 59.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:16:48.505Z"
+    },
+    {
+      "id": "44172",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Zero Pepsi, Black, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0954R6FNH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61xHGkdDlLL._SL400_.jpg",
+      "preco": 29.88,
+      "precoDe": 47.88,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:16:20.691Z"
+    },
+    {
+      "id": "44175",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Split Electrolux MaxComfort Inverter Frio 12.000 BTUs (NI12F/NE12F)",
+      "link": "https://meli.la/1kt1YkF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971304-MLA115855903282_092026-F.jpg",
+      "preco": 1581,
+      "precoDe": 2329,
+      "desconto": 32,
+      "cupom": "MP1011",
+      "enviadoEm": "2026-11-10T18:15:08.672Z"
+    },
     {
       "id": "44161",
       "loja": "Mercado Livre",
@@ -349,18 +457,6 @@
       "desconto": 43,
       "cupom": null,
       "enviadoEm": "2026-11-10T17:11:07.744Z"
-    },
-    {
-      "id": "44088",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B004QEKTSO?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T3ato-nML._SL400_.jpg",
-      "preco": 129.9,
-      "precoDe": 222.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:10:45.669Z"
     },
     {
       "id": "44087",
@@ -5905,102 +6001,6 @@
       "desconto": 30,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-09T12:53:44.148Z"
-    },
-    {
-      "id": "43030",
-      "loja": "Amazon",
-      "titulo": "Travel System Safety 1st, Mobi Trio, Black & White",
-      "link": "https://www.amazon.com.br/dp/B09SP2G7MH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41W+tSQtkdL._SL400_.jpg",
-      "preco": 1557.04,
-      "precoDe": 2609.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:52:22.078Z"
-    },
-    {
-      "id": "43029",
-      "loja": "Mercado Livre",
-      "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
-      "link": "https://meli.la/1CAp48Q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-F.jpg",
-      "preco": 271.92,
-      "precoDe": 999,
-      "desconto": 69,
-      "cupom": "PRESENTE ou OFFSEMPRE",
-      "enviadoEm": "2026-11-09T12:51:54.789Z"
-    },
-    {
-      "id": "42989",
-      "loja": "Shopee",
-      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
-      "link": "https://s.shopee.com.br/7fbG2hXo2e",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
-      "preco": 29.98,
-      "precoDe": 41.07,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:50:37.674Z"
-    },
-    {
-      "id": "43028",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Asus Tuf Gaming Series 5vg279qm5f,27, Full Hd",
-      "link": "https://meli.la/17wtkFu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723394-MLB118769678118_102026-P.webp",
-      "preco": 752.39,
-      "precoDe": 949.99,
-      "desconto": 10,
-      "cupom": "PRESENTE ou OFFSEMPRE",
-      "enviadoEm": "2026-11-09T12:49:18.694Z"
-    },
-    {
-      "id": "43020",
-      "loja": "Amazon",
-      "titulo": "Tira Manchas em Pó Vanish Oxi Action Pink Refil 1kg para Roupas Coloridas, Sem Cloro, com Percarbonato, Remove Manchas Difíceis, Preserva as Cores e Deixa as Roupas Como Novas",
-      "link": "https://www.amazon.com.br/dp/B07PPQ5WW7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414mc3F9r2L._SL400_.jpg",
-      "preco": 31.47,
-      "precoDe": 79.45,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:46:31.274Z"
-    },
-    {
-      "id": "43019",
-      "loja": "Amazon",
-      "titulo": "Mamadeiras MAM Easy Start, Pack com 3 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D4F7TBYF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MtVBxQoVL._SL400_.jpg",
-      "preco": 174.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:45:12.549Z"
-    },
-    {
-      "id": "43016",
-      "loja": "Mercado Livre",
-      "titulo": "Cervejeira Midea Mdrx150fggdx Frost Free 82L Preto",
-      "link": "https://meli.la/2pzTt8p",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_985635-MLA99502134592_112025-F.jpg",
-      "preco": 1349.3,
-      "precoDe": 2399,
-      "desconto": 44,
-      "cupom": "PRESENTE",
-      "enviadoEm": "2026-11-09T12:44:49.829Z"
-    },
-    {
-      "id": "43013",
-      "loja": "Amazon",
-      "titulo": "Personal Papel Higiênico Kilométrico Folha Dupla, Com 20 Rolos 50M",
-      "link": "https://www.amazon.com.br/dp/B08YL8CJ97?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41prq0QMtZL._SL400_.jpg",
-      "preco": 44.4,
-      "precoDe": 64.36,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:43:08.719Z"
     }
   ]
 }
