@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-10T14:43:05.764Z",
+  "atualizadoEm": "2026-11-10T15:13:05.766Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43912",
+      "loja": "Shopee",
+      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
+      "link": "https://s.shopee.com.br/3LSIe8BkmF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
+      "preco": 54.32,
+      "precoDe": 72.43,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T15:07:07.546Z"
+    },
+    {
+      "id": "43921",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+      "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kCDw3B6+L._SL400_.jpg",
+      "preco": 299,
+      "precoDe": 612,
+      "desconto": 51,
+      "cupom": "BLACK70OFF",
+      "enviadoEm": "2026-11-10T15:05:53.584Z"
+    },
+    {
+      "id": "43920",
+      "loja": "Amazon",
+      "titulo": "Lixeira Mágica Antiodor 13 Litros Para Fraldas Bebe Lixo Anti Odor | Lixeira para Fraldas com Vedação 13 Litros - Lixeira Higiênica Anti-Odor para Quarto de Bebê e Troca de Fraldas",
+      "link": "https://www.amazon.com.br/dp/B0H56K2L78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21ovYfjOmkL._SL400_.jpg",
+      "preco": 98.91,
+      "precoDe": 149.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T15:04:06.964Z"
+    },
+    {
+      "id": "43910",
+      "loja": "Amazon",
+      "titulo": "Whiskey Jameson Caskmates IPA, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31y+GX1RnGL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 134.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T14:59:33.721Z"
+    },
+    {
+      "id": "43908",
+      "loja": "Shopee",
+      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
+      "link": "https://s.shopee.com.br/6fikc28m7i",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-muxr1hl9yk9162_tn",
+      "preco": 37.5,
+      "precoDe": 42.13,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T14:58:22.510Z"
+    },
+    {
+      "id": "43907",
+      "loja": "Amazon",
+      "titulo": "Fisher Price - Aprender, brincar e desenhar",
+      "link": "https://www.amazon.com.br/dp/8538089196?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Kl7WNHVsL._SL400_.jpg",
+      "preco": 25.29,
+      "precoDe": 69.9,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T14:57:00.558Z"
+    },
+    {
+      "id": "43901",
+      "loja": "Amazon",
+      "titulo": "Pack Ração Úmida Whiskas Sachê Carne/Frango/Atum para Gatos Adultos - Leve 24 Pague 18",
+      "link": "https://www.amazon.com.br/dp/B0F96F3CXL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Cf-9-8E6L._SL400_.jpg",
+      "preco": 43.65,
+      "precoDe": 61.2,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T14:45:36.357Z"
+    },
     {
       "id": "43899",
       "loja": "Amazon",
@@ -4623,18 +4707,6 @@
       "enviadoEm": "2026-11-09T12:49:18.694Z"
     },
     {
-      "id": "43027",
-      "loja": "Amazon",
-      "titulo": "Pack Ração Úmida Whiskas Sachê Carne/Frango/Atum para Gatos Adultos - Leve 24 Pague 18",
-      "link": "https://www.amazon.com.br/dp/B0F96F3CXL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Cf-9-8E6L._SL400_.jpg",
-      "preco": 43.65,
-      "precoDe": 61.2,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:47:55.594Z"
-    },
-    {
       "id": "43020",
       "loja": "Amazon",
       "titulo": "Tira Manchas em Pó Vanish Oxi Action Pink Refil 1kg para Roupas Coloridas, Sem Cloro, com Percarbonato, Remove Manchas Difíceis, Preserva as Cores e Deixa as Roupas Como Novas",
@@ -5929,78 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-08T16:28:18.258Z"
-    },
-    {
-      "id": "42783",
-      "loja": "Mercado Livre",
-      "titulo": "Ar condicionado lg inverter smart voice ai 12000 btus frio",
-      "link": "https://meli.la/1ukkmDJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642524-MLA107696344688_032026-P.webp",
-      "preco": 809.11,
-      "precoDe": 998.9,
-      "desconto": 10,
-      "cupom": "TAMOSJUNTO",
-      "enviadoEm": "2026-11-08T16:26:48.167Z"
-    },
-    {
-      "id": "42782",
-      "loja": "Amazon",
-      "titulo": "Creme Hidratante Corporal para Pele Seca e Sensível Cetaphil 453g - Hidratação 48h",
-      "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qWqjOR8IL._SL400_.jpg",
-      "preco": 85.9,
-      "precoDe": 104.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T16:18:04.401Z"
-    },
-    {
-      "id": "42781",
-      "loja": "Shopee",
-      "titulo": "Jogo de Palhetas Limpador de Parabrisa Palheta Silicone Fiat Palio Uno Mobi Siena Argo Punto Strada",
-      "link": "https://s.shopee.com.br/7fbEhT5xzX",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn26bqurhh50c3_tn",
-      "preco": 19.77,
-      "precoDe": 65.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T16:16:43.135Z"
-    },
-    {
-      "id": "42780",
-      "loja": "Amazon",
-      "titulo": "LEGO Technic Monster Jam™ DIGatron™ de Puxar 42199 (218 Peças)",
-      "link": "https://www.amazon.com.br/dp/B0DJ1C8TGP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51yz+OBz4XL._SL400_.jpg",
-      "preco": 147.43,
-      "precoDe": 259.99,
-      "desconto": 29,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-08T16:13:55.074Z"
-    },
-    {
-      "id": "42776",
-      "loja": "Amazon",
-      "titulo": "Vichy Dercos Energy+ Shampoo Antiqueda Estimulante com Aminexil 1.5%, 400g",
-      "link": "https://www.amazon.com.br/dp/B0C3SQL65C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319kjPGvcFL._SL400_.jpg",
-      "preco": 94.6,
-      "precoDe": 159.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T16:00:33.205Z"
-    },
-    {
-      "id": "42774",
-      "loja": "Shopee",
-      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - BNVT",
-      "link": "https://s.shopee.com.br/20wrvbxyaW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3dg900h03zsa3_tn",
-      "preco": 14.9,
-      "precoDe": 29.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T15:55:41.775Z"
     }
   ]
 }
