@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T18:34:28.117Z",
+  "atualizadoEm": "2026-11-10T19:07:34.109Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -387,6 +387,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "250MELIMAIS",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TVCEL1011",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODO1011SITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -396,6 +420,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-11T15:00:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAMELIMAIS1011",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T19:00:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1911,6 +1947,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESPORTE1011",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2043,6 +2091,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL1011ENTREGAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2163,15 +2223,15 @@
       "url": null
     },
     {
-      "codigo": "PELEBLACK",
+      "codigo": "REMEDIOBF",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em Farmácias pelo iFood",
-      "validadeAte": "2026-11-10T19:04:27.000Z",
+      "observacao": "Desconto válido para pedidos em farmácias pelo iFood",
+      "validadeAte": "2026-11-11T19:00:19.000Z",
       "url": null
     },
     {
