@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T15:43:08.612Z",
+  "atualizadoEm": "2026-11-10T16:13:09.282Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2113,6 +2113,54 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA18",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 750,
+      "minimo": 4400,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA17",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 550,
+      "minimo": 3400,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA16",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 370,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA15",
+      "loja": "Outro: AliExpress",
+      "tipo": "reais",
+      "valor": 170,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
       "codigo": "ESTOQUEBF",
