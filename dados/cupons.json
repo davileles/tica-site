@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T19:07:34.109Z",
+  "atualizadoEm": "2026-11-10T19:19:59.605Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1719,13 +1719,25 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOPRACONSTRU",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SEMPRENOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
       "minimo": 99,
       "maximo": null,
-      "limite": 60,
+      "limite": 100,
       "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2026-11-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -1884,18 +1896,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOPRACONSTRU",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
