@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-10T17:43:06.157Z",
+  "atualizadoEm": "2026-11-10T18:13:06.353Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44161",
+      "loja": "Mercado Livre",
+      "titulo": "Compre 1 Camiseta Light E Ganhe 1 Meia Spectrum - R$ 65",
+      "link": "https://meli.la/32Sepj1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969734-MLB90383586122_082025-P.webp",
+      "preco": 65,
+      "precoDe": 164,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:10:44.381Z"
+    },
+    {
+      "id": "44154",
+      "loja": "Mercado Livre",
+      "titulo": "Shampoo Kérastase Nutritive Bain Satin Riche Cabelos Secos 250ml",
+      "link": "https://meli.la/2ZxyE5c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884329-MLA99831897485_112025-F.jpg",
+      "preco": 158.32,
+      "precoDe": 199.9,
+      "desconto": 10,
+      "cupom": "PROMOBELEZA",
+      "enviadoEm": "2026-11-10T18:09:24.312Z"
+    },
+    {
+      "id": "44153",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Gola Polo Feminina Básica Algodão Social Uniforme",
+      "link": "https://meli.la/1UqLMEj",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739079-MLB119044667442_112026-O-camisa-gola-polo-feminina-basica-algodo-social-uniforme.webp",
+      "preco": 25.409999999999997,
+      "precoDe": 49.9,
+      "desconto": 40,
+      "cupom": "CUPOMPRAMODA",
+      "enviadoEm": "2026-11-10T18:08:03.457Z"
+    },
+    {
+      "id": "44152",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Rig Vizzion 32\" LED HD Com Google TV, HDR10 e Dolby Audio",
+      "link": "https://meli.la/2WZubRD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_719511-MLA118579668238_102026-F.jpg",
+      "preco": 899,
+      "precoDe": 1099,
+      "desconto": 9,
+      "cupom": "ULTIMASCHANCES",
+      "enviadoEm": "2026-11-10T18:06:49.063Z"
+    },
+    {
+      "id": "44138",
+      "loja": "Amazon",
+      "titulo": "Jagermeister Licor Licores Herbais 700 Ml Pacote De 1 | Jägermeister United in the Game: uma edição especial para celebrar a paixão pelo futebol",
+      "link": "https://www.amazon.com.br/dp/B07X6HW8NH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xiaH9BiNL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 129.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:01:58.631Z"
+    },
+    {
+      "id": "44137",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho",
+      "link": "https://s.shopee.com.br/9AQ5m7ouKa",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbxvjve9s7ff_tn",
+      "preco": 20.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:01:27.546Z"
+    },
+    {
+      "id": "44148",
+      "loja": "Amazon",
+      "titulo": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades – Dura Mais - Ideal para Controle de Videogame e Brinquedos",
+      "link": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Lh9KIVXqL._SL400_.jpg",
+      "preco": 99.63,
+      "precoDe": 124.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T18:00:06.097Z"
+    },
+    {
+      "id": "44146",
+      "loja": "Amazon",
+      "titulo": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades – Dura até 10x Mais – Ideal para Controle de Videogame e Brinquedos",
+      "link": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ECbFP9CDL._SL400_.jpg",
+      "preco": 99.63,
+      "precoDe": 124.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T17:59:42.043Z"
+    },
     {
       "id": "44134",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-09T12:43:08.719Z"
-    },
-    {
-      "id": "43009",
-      "loja": "Mercado Livre",
-      "titulo": "Floratta Flores Secretas 75ml O Boticário Feminino",
-      "link": "https://meli.la/2TB2rRH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_889465-MLA99767551238_122025-F.jpg",
-      "preco": 76.47,
-      "precoDe": 174.9,
-      "desconto": 50,
-      "cupom": "BELEZAMELI",
-      "enviadoEm": "2026-11-09T12:38:21.047Z"
-    },
-    {
-      "id": "43005",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Obsid Pro 360 Digital Argb Amd E Intel Preto",
-      "link": "https://meli.la/2p7KqwG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906182-MLB114702463289_072026-P.webp",
-      "preco": 307.3,
-      "precoDe": 499,
-      "desconto": 30,
-      "cupom": "PRESENTE ou OFFSEMPRE",
-      "enviadoEm": "2026-11-09T12:37:06.327Z"
-    },
-    {
-      "id": "42984",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore Bosch 1500W GDC 150 Titan 220V 06015486E0",
-      "link": "https://meli.la/32C4UWs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930158-MLA95712302522_102025-F.jpg",
-      "preco": 334.4,
-      "precoDe": 477.2,
-      "desconto": 12,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-11-09T12:35:52.338Z"
-    },
-    {
-      "id": "43003",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc 23,8 Full Hd 144hz Agon G50 0,5ms",
-      "link": "https://meli.la/2fCSuD5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791791-MLB119298960628_112026-P.webp",
-      "preco": 500.75999999999993,
-      "precoDe": 599,
-      "desconto": 5,
-      "cupom": "PRESENTE ou OFFSEMPRE",
-      "enviadoEm": "2026-11-09T12:35:19.067Z"
-    },
-    {
-      "id": "42996",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Asus Tuf 27 255hz 0.3ms Fast Ips Hdr10",
-      "link": "https://meli.la/32J6AUW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709760-MLB119234898752_112026-P.webp",
-      "preco": 1069,
-      "precoDe": 1349,
-      "desconto": 21,
-      "cupom": "PRESENTE",
-      "enviadoEm": "2026-11-09T12:33:59.409Z"
-    },
-    {
-      "id": "42994",
-      "loja": "Amazon",
-      "titulo": "Cafeteira Espresso Oster PrimaLatte Touch Red - 127V",
-      "link": "https://www.amazon.com.br/dp/B0C7FBYDFP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41hwTven9yL._SL400_.jpg",
-      "preco": 819.19,
-      "precoDe": 1999,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:32:30.060Z"
-    },
-    {
-      "id": "42993",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraGear - Tela VA FHD 32”, 144Hz nativo, 1ms (MBR), AMD FreeSync, HDR10, sRGB 99%, Preto - 32G403B",
-      "link": "https://meli.la/2z1zHEp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_992594-MLA118348137126_102026-F.jpg",
-      "preco": 879.12,
-      "precoDe": 1448.88,
-      "desconto": 31,
-      "cupom": "PRESENTE",
-      "enviadoEm": "2026-11-09T12:31:11.913Z"
-    },
-    {
-      "id": "42987",
-      "loja": "Amazon",
-      "titulo": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 220V - NPF-53",
-      "link": "https://www.amazon.com.br/dp/B07L8X97SR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ps2KzRo7L._SL400_.jpg",
-      "preco": 469.79,
-      "precoDe": 749.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T12:29:56.513Z"
     }
   ]
 }
