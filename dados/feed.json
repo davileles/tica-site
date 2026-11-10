@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-10T12:44:05.665Z",
+  "atualizadoEm": "2026-11-10T13:13:05.736Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43786",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/8pnF4FWvAX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 35.99,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T13:08:44.152Z"
+    },
+    {
+      "id": "43785",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
+      "link": "https://meli.la/1twLpFY",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_981459-MLA117136184907_092026-F.jpg",
+      "preco": 111.92,
+      "precoDe": 259.9,
+      "desconto": 46,
+      "cupom": "PROMOPRACONSTRU",
+      "enviadoEm": "2026-11-10T13:07:31.259Z"
+    },
+    {
+      "id": "43784",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira E Furadeira 3/8 A Bateria Bosch Gsr 120-li",
+      "link": "https://meli.la/196pyXh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923337-MLA113455559253_062026-F.jpg",
+      "preco": 295.91999999999996,
+      "precoDe": 571.29,
+      "desconto": 35,
+      "cupom": "PROMOPRACONSTRU",
+      "enviadoEm": "2026-11-10T13:06:13.569Z"
+    },
+    {
+      "id": "43777",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
+      "link": "https://s.shopee.com.br/LogwO0P2W",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
+      "preco": 17.99,
+      "precoDe": 69.19,
+      "desconto": 74,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T13:01:53.406Z"
+    },
+    {
+      "id": "43776",
+      "loja": "Amazon",
+      "titulo": "NAUTICA ROSE ISLAND EDP 100ML",
+      "link": "https://www.amazon.com.br/dp/B0DNQRQDF2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21icBraK0TL._SL400_.jpg",
+      "preco": 125,
+      "precoDe": 229.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:57:37.341Z"
+    },
+    {
+      "id": "43775",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300 Peças",
+      "link": "https://meli.la/2mswG7x",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705500-MLA99899450981_112025-F.jpg",
+      "preco": 239.92,
+      "precoDe": 492.71,
+      "desconto": 39,
+      "cupom": "PROMOPRACONSTRU",
+      "enviadoEm": "2026-11-10T12:56:16.375Z"
+    },
+    {
+      "id": "43769",
+      "loja": "Amazon",
+      "titulo": "Gin Bulldog London Dry 750ml",
+      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
+      "preco": 77.38,
+      "precoDe": 156.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:49:50.609Z"
+    },
+    {
+      "id": "43768",
+      "loja": "Mercado Livre",
+      "titulo": "Lixadeira De Parede E Teto 1000w Profissional 5 Velocidades 360° Com Led 6 Lixas Saco Coletor Tlt900 The Black Tools",
+      "link": "https://meli.la/25AUNqg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777026-MLA116987590778_102026-F.jpg",
+      "preco": 337,
+      "precoDe": 649.9,
+      "desconto": 36,
+      "cupom": "PROMOPRACONSTRU",
+      "enviadoEm": "2026-11-10T12:49:19.570Z"
+    },
+    {
+      "id": "43765",
+      "loja": "Amazon",
+      "titulo": "CORSAIR Memória de computador Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL38 Intel XMP iCUE - Preto (CMK32GX5M2B6000C38)",
+      "link": "https://www.amazon.com.br/dp/B0CQQTR1ZV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31s6I6ymzwL._SL400_.jpg",
+      "preco": 2333.32,
+      "precoDe": 3869,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:45:40.430Z"
+    },
+    {
+      "id": "43764",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/7Af13iN9yy",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 76.29,
+      "precoDe": 136.23,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:44:13.369Z"
+    },
     {
       "id": "43760",
       "loja": "Amazon",
@@ -901,18 +1021,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-11-09T21:16:55.924Z"
-    },
-    {
-      "id": "43561",
-      "loja": "Amazon",
-      "titulo": "Gin Bulldog London Dry 750ml",
-      "link": "https://www.amazon.com.br/dp/B005J9CJR4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PA4Ub3ZnL._SL400_.jpg",
-      "preco": 78.95,
-      "precoDe": 156.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T21:11:51.075Z"
     },
     {
       "id": "43560",
@@ -5893,114 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-11-08T12:30:27.832Z"
-    },
-    {
-      "id": "42701",
-      "loja": "Shopee",
-      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
-      "link": "https://s.shopee.com.br/5AttT1UGoc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
-      "preco": 25,
-      "precoDe": 50,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T12:25:52.468Z"
-    },
-    {
-      "id": "42697",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Lg UltraGear 27\" Ips, 144Hz Nativo, 1ms (Mbr), Full Hd (1920x1080), Hdr10, Nvidia G-Sync, Amd FreeSync, Preto 27G411",
-      "link": "https://meli.la/2h4g8ps",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968169-MLB115908055658_092026-P.webp",
-      "preco": 623.29,
-      "precoDe": 1039,
-      "desconto": 33,
-      "cupom": "TAMOSJUNTO",
-      "enviadoEm": "2026-11-08T12:18:18.891Z"
-    },
-    {
-      "id": "42696",
-      "loja": "Amazon",
-      "titulo": "Placa de captura de vídeo 4K HDTVI para USB 3.0, dispositivo de captura HDMI 1080P a 60 FPS, ideal para transmissões ao vivo e gravações",
-      "link": "https://www.amazon.com.br/dp/B0H5Q6CNHR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41wjHGvXN6L._SL400_.jpg",
-      "preco": 86.38,
-      "precoDe": 96,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T12:17:04.925Z"
-    },
-    {
-      "id": "42687",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc 21,5 Led Full Hd Va Hdmi Vga Vesa 120hz",
-      "link": "https://meli.la/1DL1TmR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973025-MLA84683838064_052025-P.webp",
-      "preco": 332.77,
-      "precoDe": 849.9,
-      "desconto": 56,
-      "cupom": "TAMOSJUNTO",
-      "enviadoEm": "2026-11-08T12:12:35.244Z"
-    },
-    {
-      "id": "42685",
-      "loja": "Mercado Livre",
-      "titulo": "Tonalizante Nouê Camuflage Pérola 140ml Cabelos Brancos Champagne",
-      "link": "https://meli.la/1SUhMdH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_653367-MLA99937532029_112025-F.jpg",
-      "preco": 104.92000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CARRINHOCHEIO",
-      "enviadoEm": "2026-11-08T12:11:12.361Z"
-    },
-    {
-      "id": "42684",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler 240mm Gamdias Aura Gl240 V2 Argb. Preto",
-      "link": "https://meli.la/1Q2PiyH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927499-MLA106304995514_022026-F.jpg",
-      "preco": 185.93,
-      "precoDe": 332.55,
-      "desconto": 38,
-      "cupom": "TAMOSJUNTO",
-      "enviadoEm": "2026-11-08T12:09:55.604Z"
-    },
-    {
-      "id": "42682",
-      "loja": "Mercado Livre",
-      "titulo": "Carteira Masculina de Couro Legítimo Águia, Preta com Porta Moedas e 7 Cartões",
-      "link": "https://meli.la/1x6Hjqj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794782-MLA112061055359_052026-F.jpg",
-      "preco": 36.51,
-      "precoDe": 46.65,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T12:08:36.630Z"
-    },
-    {
-      "id": "42681",
-      "loja": "Amazon",
-      "titulo": "Café Torrado e Moído 3 Corações Portinari",
-      "link": "https://www.amazon.com.br/dp/B0B7K31Z82?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31AMQXKAE1L._SL400_.jpg",
-      "preco": 17.9,
-      "precoDe": 34.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T12:07:19.193Z"
-    },
-    {
-      "id": "42680",
-      "loja": "Mercado Livre",
-      "titulo": "Power Bank 20000mAh Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display preto/branco",
-      "link": "https://meli.la/1DeSm1y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777263-MLA119727893867_102026-F.jpg",
-      "preco": 72.67,
-      "precoDe": 299.9,
-      "desconto": 68,
-      "cupom": "ESPECIALDESCONTOS",
-      "enviadoEm": "2026-11-08T12:06:10.453Z"
     }
   ]
 }
