@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T19:19:59.605Z",
+  "atualizadoEm": "2026-11-10T20:07:34.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -373,6 +373,18 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMALI50",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom para app Magalu em produtos selecionados",
+      "validadeAte": "2026-11-11T19:46:38.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "MP1011",
@@ -2245,6 +2257,18 @@
       "observacao": "Em algumas contas aparece R$ 15 OFF",
       "validadeAte": "2026-11-11T18:30:18.000Z",
       "url": null
+    },
+    {
+      "codigo": "JOGOS11DO11",
+      "loja": "Outro: KaBuM",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em jogos selecionados",
+      "validadeAte": "2026-11-11T20:00:24.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
       "codigo": "CINQUENTINHA",
