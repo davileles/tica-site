@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T23:07:34.717Z",
+  "atualizadoEm": "2026-11-10T23:37:33.254Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1968,6 +1968,18 @@
       "limite": 80,
       "observacao": null,
       "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-11T23:30:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
