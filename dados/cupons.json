@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T14:13:07.617Z",
+  "atualizadoEm": "2026-11-10T14:43:07.811Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2103,6 +2103,18 @@
       "url": null
     },
     {
+      "codigo": "FLASH",
+      "loja": "Outro: Riachuelo",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 229.99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T14:20:43.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
+    },
+    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -2688,18 +2700,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-11T13:00:51.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "KXWNREK8PK",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T14:20:16.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
