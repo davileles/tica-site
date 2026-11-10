@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T18:13:08.546Z",
+  "atualizadoEm": "2026-11-10T18:34:28.117Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2175,15 +2175,15 @@
       "url": null
     },
     {
-      "codigo": "BORABLACK",
+      "codigo": "COMEOUBF",
       "loja": "Outro: iFood",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom para restaurantes no iFood. Informações de tipo de desconto, valor e demais detalhes não foram fornecidos na mensagem.",
-      "validadeAte": "2026-11-10T18:29:48.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF",
+      "validadeAte": "2026-11-11T18:30:18.000Z",
       "url": null
     },
     {
