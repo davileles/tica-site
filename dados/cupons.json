@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T12:27:45.393Z",
+  "atualizadoEm": "2026-11-10T13:13:07.645Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -312,18 +312,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "NOTE14",
-      "loja": "Kabum",
-      "tipo": "pct",
-      "valor": 14,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T13:00:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -948,6 +936,54 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAJA30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LEVEAGORA30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "POUPAAGORA30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CHEGOUCUPOM30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1611,6 +1647,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LEVEAGORA25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1740,18 +1788,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BONUSML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-10T12:57:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1935,6 +1971,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CUPOMPRAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1944,6 +1992,18 @@
       "limite": 200,
       "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2026-11-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOBELEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
+      "validadeAte": "2026-11-11T13:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2583,6 +2643,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "V0UCH3R002AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T13:00:51.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "S3GUND0U20",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2592,18 +2664,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-10T13:16:05.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "DZVGPMM82I",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T13:00:41.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
@@ -2640,6 +2700,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-10T15:00:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OAEDOECVE6",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T13:00:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
