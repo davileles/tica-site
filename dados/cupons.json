@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T13:43:08.041Z",
+  "atualizadoEm": "2026-11-10T14:13:07.617Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -348,6 +348,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-10T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 349,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1851,6 +1863,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOEFERRAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-12T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1983,6 +2007,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ULTIMASCHANCES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-11T14:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUPOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2003,7 +2039,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
+      "validadeAte": "2026-11-11T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2655,18 +2691,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "4FFN0V3MBR0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T14:08:01.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "KXWNREK8PK",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2700,6 +2724,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-11T13:00:14.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "COSFOGYR3X",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T14:00:08.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
