@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-10T11:27:48.595Z",
+  "atualizadoEm": "2026-11-10T11:40:16.902Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43676",
+      "loja": "Mercado Livre",
+      "titulo": "Placa Mãe Maxsun Challenger B850m-k Wifi, B850, Am5, Matx",
+      "link": "https://meli.la/1GTGUM4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788586-MLA108121578725_032026-F.jpg",
+      "preco": 615.12,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMTECH",
+      "enviadoEm": "2026-11-10T11:30:16.897Z"
+    },
+    {
+      "id": "43674",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Acer Gamer 27 Kg270 240hz 0,5ms Hdr 10 Ips Nitro Preto",
+      "link": "https://meli.la/1rXtnwM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941880-MLA107656241687_022026-F.jpg",
+      "preco": 856,
+      "precoDe": 1034,
+      "desconto": 17,
+      "cupom": "CUPOMTECH",
+      "enviadoEm": "2026-11-10T11:28:52.112Z"
+    },
     {
       "id": "43673",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-07T22:28:35.243Z"
-    },
-    {
-      "id": "42628",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 115.13,
-      "precoDe": 174.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T22:08:51.600Z"
-    },
-    {
-      "id": "42626",
-      "loja": "Amazon",
-      "titulo": "Omo Sabão Líquido Puro Cuidado 5L - Tampa pode Variar",
-      "link": "https://www.amazon.com.br/dp/B08XMB1XFJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41M3mOT0YxL._SL400_.jpg",
-      "preco": 51.76,
-      "precoDe": 61.39,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-11-07T22:05:27.338Z"
     }
   ]
 }
