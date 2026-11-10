@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-10T19:19:57.778Z",
+  "atualizadoEm": "2026-11-10T19:37:32.108Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44266",
+      "loja": "Amazon",
+      "titulo": "Premier Rendez-Vous Merlot - Cabernet Sauvignon",
+      "link": "https://www.amazon.com.br/dp/B09226ZTTS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21oM0sem4eL._SL400_.jpg",
+      "preco": 90.15,
+      "precoDe": 119,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:29:50.840Z"
+    },
+    {
+      "id": "44265",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/70LbJFU7hQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 339.99,
+      "precoDe": 693.86,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:29:21.532Z"
+    },
+    {
+      "id": "44264",
+      "loja": "Shopee",
+      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga à Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
+      "link": "https://s.shopee.com.br/9zzCsfufUT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
+      "preco": 29.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:28:03.999Z"
+    },
+    {
+      "id": "44263",
+      "loja": "Mercado Livre",
+      "titulo": "Tapete Higiênico Ultra Espaço De Bicho 30un 80x60cm Lavanda",
+      "link": "https://meli.la/2J4GrHu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_607480-MLA99453737372_112025-F.jpg",
+      "preco": null,
+      "precoDe": 77.53,
+      "desconto": 16,
+      "cupom": "OFERTAMELIMAIS1011",
+      "enviadoEm": "2026-11-10T19:23:03.919Z"
+    },
     {
       "id": "44258",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 50,
       "cupom": "BELEZAMELI",
       "enviadoEm": "2026-11-09T13:48:05.031Z"
-    },
-    {
-      "id": "43091",
-      "loja": "Shopee",
-      "titulo": "Lava e Seca Philco Invertplus 16 Programas Lavagem 11kg Branco",
-      "link": "https://s.shopee.com.br/2gCZVe8vuV?sub_id1=23997771773",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-m0c40w4oy7em33_tn",
-      "preco": 2598.9,
-      "precoDe": 4125.24,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:46:42.643Z"
-    },
-    {
-      "id": "43087",
-      "loja": "Mercado Livre",
-      "titulo": "Escrivaninha Industrial 90cm Mesa Estudo Aparador  Aço Mdf",
-      "link": "https://meli.la/1f31Jcg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821169-MLB92889719857_092025-O-escrivaninha-industrial-90cm-mesa-estudo-aparador-aco-mdf.webp",
-      "preco": 91.86999999999999,
-      "precoDe": 185.6,
-      "desconto": 34,
-      "cupom": "CORREAQUI",
-      "enviadoEm": "2026-11-09T13:45:28.481Z"
-    },
-    {
-      "id": "43086",
-      "loja": "Shopee",
-      "titulo": "Ar Condicionado 9000 BTUs Split Hi Wall Inverter Midea Frio Lite R-32 42EBVCB09M5 220V",
-      "link": "https://s.shopee.com.br/5q9bwThZeR",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259m-mtil039vswsne3_tn",
-      "preco": 1599,
-      "precoDe": 1817.05,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:44:10.432Z"
-    },
-    {
-      "id": "43085",
-      "loja": "Mercado Livre",
-      "titulo": "Ar Condicionado Split Hi Wall Inverter R-32 Midea AI Ecomaster 9.000 BTUs Frio",
-      "link": "https://meli.la/1MNzxSU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779148-MLA118632321476_102026-F.jpg",
-      "preco": 1749,
-      "precoDe": 2449,
-      "desconto": 20,
-      "cupom": "PRESENTE ou OFFSEMPRE",
-      "enviadoEm": "2026-11-09T13:42:51.153Z"
     }
   ]
 }
