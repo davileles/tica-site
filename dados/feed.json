@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-10T18:34:26.138Z",
+  "atualizadoEm": "2026-11-10T18:38:31.193Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44197",
+      "loja": "Mercado Livre",
+      "titulo": "Lava E Seca Samsung Wd11m Com Digital Inverter Branca 11kg Cor Branco",
+      "link": "https://meli.la/1TeTt3C",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707477-MLA99987270185_112025-F.jpg",
+      "preco": 2735,
+      "precoDe": 3399,
+      "desconto": 20,
+      "cupom": "MP1011",
+      "enviadoEm": "2026-11-10T18:34:46.094Z"
+    },
     {
       "id": "44186",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 44,
       "cupom": "OFFPRACONSTRUIR",
       "enviadoEm": "2026-11-09T12:57:53.170Z"
-    },
-    {
-      "id": "43006",
-      "loja": "Amazon",
-      "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Passione Preta - 220V",
-      "link": "https://www.amazon.com.br/dp/B08S1ZS6R1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TqYxYMhpS._SL400_.jpg",
-      "preco": 297.43,
-      "precoDe": 499.9,
-      "desconto": 30,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-09T12:53:44.148Z"
     }
   ]
 }
