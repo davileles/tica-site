@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T03:27:48.918Z",
+  "atualizadoEm": "2026-11-10T11:27:50.866Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -360,18 +360,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-10T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO0911",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T12:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1099,7 +1087,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
@@ -1642,8 +1630,32 @@
       "minimo": 119,
       "maximo": null,
       "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-11T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPRENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-11T11:02:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-11T11:02:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1791,18 +1803,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITE0911",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T12:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BONUSML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1827,15 +1827,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIMAIS1011",
+      "codigo": "PROMOPRACONSTRU",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 249,
+      "minimo": 79,
       "maximo": null,
       "limite": 80,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-11T03:00:15.000Z",
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-11T11:02:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1956,6 +1956,30 @@
       "limite": 145,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-10T23:03:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-11T11:02:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": null,
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
