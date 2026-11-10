@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-10T12:40:27.232Z",
+  "atualizadoEm": "2026-11-10T12:44:05.665Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "43760",
+      "loja": "Amazon",
+      "titulo": "Philco Climatizador PCL10QF Display Touch 5 em 1 5L 127V Branco Portátil",
+      "link": "https://www.amazon.com.br/dp/B0BZWRMQWC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lrgezM6yL._SL400_.jpg",
+      "preco": 521.8,
+      "precoDe": 659.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:41:52.778Z"
+    },
+    {
+      "id": "43759",
+      "loja": "Shopee",
+      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
+      "link": "https://s.shopee.com.br/9V2vpZl75v",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
+      "preco": 33.96,
+      "precoDe": 109.55,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T12:40:37.268Z"
+    },
     {
       "id": "43746",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 68,
       "cupom": "ESPECIALDESCONTOS",
       "enviadoEm": "2026-11-08T12:06:10.453Z"
-    },
-    {
-      "id": "42674",
-      "loja": "Shopee",
-      "titulo": "Blocos de montar infantil Brinquedo educativo Mini brinquedos Brinquedo",
-      "link": "https://s.shopee.com.br/9KjSPCXu6L",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1s-m4rmynogvubl03_tn",
-      "preco": 3.98,
-      "precoDe": 13.27,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T12:04:54.456Z"
-    },
-    {
-      "id": "42671",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51J0vmQJEoL._SL400_.jpg",
-      "preco": 140.83,
-      "precoDe": 182.45,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-08T11:56:43.548Z"
     }
   ]
 }
