@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T17:50:39.149Z",
+  "atualizadoEm": "2026-11-10T18:13:08.546Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -375,27 +375,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TECH0911",
+      "codigo": "MP1011",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 220,
-      "minimo": 1599,
+      "valor": 350,
+      "minimo": 1000,
       "maximo": null,
       "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-10T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-10T18:00:04.744Z",
+      "observacao": "Válido pagando com cartão MP Visa em produtos selecionados",
+      "validadeAte": "2026-11-11T18:00:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1863,18 +1851,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECORACAO0911",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 129,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-10T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOPRACONSTRU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2175,15 +2151,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
-      "codigo": "ESTOQUEBF",
+      "codigo": "BFNACESTA",
       "loja": "Outro: iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "R$ 20 OFF em Mercado",
-      "validadeAte": "2026-11-10T18:00:21.000Z",
+      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
+      "validadeAte": "2026-11-11T18:00:25.000Z",
       "url": null
     },
     {
