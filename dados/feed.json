@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-10T19:07:31.609Z",
+  "atualizadoEm": "2026-11-10T19:19:57.778Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44258",
+      "loja": "Amazon",
+      "titulo": "Bang Toys - UTV Elétrico Infantil Solar Cruiser 12V - com Luzes de LED, Sons, Entrada USB/MP3, Suspensão e Controle Remoto - Suporta até 30kg - Cor Rosa",
+      "link": "https://www.amazon.com.br/dp/B0F3G6MQ1Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hUbt5+-+L._SL400_.jpg",
+      "preco": 919.08,
+      "precoDe": 1128,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:09:57.769Z"
+    },
+    {
+      "id": "44256",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 750ml",
+      "link": "https://www.amazon.com.br/dp/B006I1M8ZU?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mKO5ZVn0L._SL400_.jpg",
+      "preco": 73.97,
+      "precoDe": 142.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:08:38.612Z"
+    },
+    {
+      "id": "44253",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/3qOZVqcBGD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 129.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:08:07.523Z"
+    },
     {
       "id": "44248",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 20,
       "cupom": "PRESENTE ou OFFSEMPRE",
       "enviadoEm": "2026-11-09T13:42:51.153Z"
-    },
-    {
-      "id": "43084",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Facial Neutrogena Sun Fresh, Sem Cor, FPS 70, 2 Unidades 40g | Derm Care, Pele Oleosa, Oil Control, Resistente à Água",
-      "link": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41R4tTw2ngL._SL400_.jpg",
-      "preco": 75.95,
-      "precoDe": 99.89,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:41:33.076Z"
-    },
-    {
-      "id": "43080",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Qu4troSEC XXG 36U Turma da Mônica Baby",
-      "link": "https://meli.la/2vPhZSk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803954-MLA110115369722_042026-F.jpg",
-      "preco": 31.759999999999998,
-      "precoDe": 51.04,
-      "desconto": 31,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T13:37:00.827Z"
-    },
-    {
-      "id": "43079",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
-      "link": "https://meli.la/1Jy4wxy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
-      "preco": 31.78,
-      "precoDe": 51.04,
-      "desconto": 31,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T13:36:38.925Z"
     }
   ]
 }
