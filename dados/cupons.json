@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T20:07:34.419Z",
+  "atualizadoEm": "2026-11-10T21:37:34.285Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1779,6 +1779,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "HOJENOML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-11T21:32:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2028,6 +2040,18 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-11T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
