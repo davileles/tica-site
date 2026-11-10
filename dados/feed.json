@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-10T19:37:32.108Z",
+  "atualizadoEm": "2026-11-10T20:07:32.201Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44281",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Xiaomi Poco X8 Pro 12gb+12gb Ram 512gb Rom Dual Sim 6.59 Amoled Dimensity 8500 Ultra White",
+      "link": "https://meli.la/2BUD3Bb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_715749-MLA109626906325_032026-F.jpg",
+      "preco": 2597,
+      "precoDe": 3047,
+      "desconto": 7,
+      "cupom": "250MELIMAIS",
+      "enviadoEm": "2026-11-10T20:05:40.533Z"
+    },
+    {
+      "id": "44280",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 55QNED70BSA",
+      "link": "https://meli.la/17becKw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
+      "preco": 2261,
+      "precoDe": 3599,
+      "desconto": 37,
+      "cupom": "250MELIMAIS",
+      "enviadoEm": "2026-11-10T20:02:56.404Z"
+    },
+    {
+      "id": "44277",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Grand Court Base 3.0 Adidas",
+      "link": "https://meli.la/2MLJKMH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_744275-MLB104668646911_012026-P.webp",
+      "preco": 205.68,
+      "precoDe": 349.99,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:57:32.037Z"
+    },
+    {
+      "id": "44273",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Blended Escocês, 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B01ERTTV5O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31i7hauZqVL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 105.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:52:20.171Z"
+    },
+    {
+      "id": "44274",
+      "loja": "Amazon",
+      "titulo": "Kess, Pack com 4 Escovas Dentais Pro Extra Macias Whitelicious, Cores Sortidas",
+      "link": "https://www.amazon.com.br/dp/B0HHSX8MVR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sBMheEtqL._SL400_.jpg",
+      "preco": 29.91,
+      "precoDe": 34.9,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:51:49.036Z"
+    },
+    {
+      "id": "44272",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/60T48s1ulb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:50:30.044Z"
+    },
+    {
+      "id": "44271",
+      "loja": "Shopee",
+      "titulo": "Kit Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
+      "link": "https://s.shopee.com.br/114M4eOxyi?sub_id1=58263263481",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c_tn",
+      "preco": 24.99,
+      "precoDe": 32.04,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:49:02.805Z"
+    },
+    {
+      "id": "44268",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
+      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
+      "preco": 24.9,
+      "precoDe": 39.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-10T19:39:44.105Z"
+    },
     {
       "id": "44266",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 43,
       "cupom": "BELEZAMELI",
       "enviadoEm": "2026-11-09T13:55:19.942Z"
-    },
-    {
-      "id": "43107",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek G, 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414v-0iBtHL._SL400_.jpg",
-      "preco": 33.9,
-      "precoDe": 50.29,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:53:56.729Z"
-    },
-    {
-      "id": "43103",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek M, 48 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fxVMH6Z0L._SL400_.jpg",
-      "preco": 36.11,
-      "precoDe": 50.29,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:53:34.785Z"
-    },
-    {
-      "id": "43102",
-      "loja": "Mercado Livre",
-      "titulo": "Carrinho De Bebê Passeio Vira Berço Com Alça Reversível",
-      "link": "https://meli.la/1QGiR4n",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_627655-MLB105856513115_012026-O-carrinho-de-beb-passeio-vira-berco-com-alca-reversivel.webp",
-      "preco": 693.9,
-      "precoDe": 1999.99,
-      "desconto": 61,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T13:53:12.889Z"
-    },
-    {
-      "id": "43100",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek P, 54 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-jlGeDchL._SL400_.jpg",
-      "preco": 34.29,
-      "precoDe": 50.29,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:51:47.785Z"
-    },
-    {
-      "id": "43098",
-      "loja": "Amazon",
-      "titulo": "Travel System Cosco Kids, Reverse Trio, Rosa Rajado",
-      "link": "https://www.amazon.com.br/dp/B0FJ2SJN6W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VMg0B7SNL._SL400_.jpg",
-      "preco": 750,
-      "precoDe": 1399,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T13:50:11.191Z"
-    },
-    {
-      "id": "43097",
-      "loja": "Mercado Livre",
-      "titulo": "Bebê Conforto Wizz Cosco Kids Rosa Listras Listras Rosas Rosa",
-      "link": "https://meli.la/1stn5BW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_923612-MLB97921842880_112025-P.webp",
-      "preco": 253.98,
-      "precoDe": 345.41,
-      "desconto": 18,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T13:49:45.204Z"
-    },
-    {
-      "id": "43096",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 - Maxi Baby - Preto",
-      "link": "https://meli.la/2tRSuGF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786782-MLA99523938502_122025-F.jpg",
-      "preco": 352.34000000000003,
-      "precoDe": 670.56,
-      "desconto": 42,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T13:48:27.735Z"
-    },
-    {
-      "id": "43092",
-      "loja": "Mercado Livre",
-      "titulo": "Egeo Choc High Desodorante Colônia 90ml",
-      "link": "https://meli.la/2umrUHU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856185-MLA120946393717_112026-F.jpg",
-      "preco": 72.07000000000001,
-      "precoDe": 164.9,
-      "desconto": 50,
-      "cupom": "BELEZAMELI",
-      "enviadoEm": "2026-11-09T13:48:05.031Z"
     }
   ]
 }
