@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T17:41:25.985Z",
+  "atualizadoEm": "2026-11-11T18:11:25.846Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -315,15 +315,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BFNACESTA",
+      "codigo": "BFDUPLA",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
-      "validadeAte": "2026-11-11T18:00:25.000Z",
+      "observacao": "Desconto válido em Mercado no iFood",
+      "validadeAte": "2026-11-12T18:00:13.000Z",
       "url": null
     },
     {
@@ -516,6 +516,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-11-12T13:06:20.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PORTATEIS11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T18:04:50.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2187,6 +2199,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BELEZA1111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-12T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2319,6 +2343,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELHOROFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-12T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BELEZASEMPRE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2403,6 +2439,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "H3R1NGT0P100FF",
+      "loja": "não especificada",
+      "tipo": "pct",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código de desconto de 100% OFF. Loja não identificada na mensagem.",
+      "validadeAte": "2026-11-12T17:58:44.000Z",
+      "url": null
+    },
+    {
       "codigo": "GANHE50",
       "loja": "Nike",
       "tipo": "reais",
@@ -2413,30 +2461,6 @@
       "observacao": null,
       "validadeAte": "2026-11-14T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
-    },
-    {
-      "codigo": "CINQUENTINHA",
-      "loja": "O Boticário",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T17:47:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
-    },
-    {
-      "codigo": "11DO11",
-      "loja": "O Boticário",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T17:47:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
     },
     {
       "codigo": "WELCOME15",
@@ -3228,6 +3252,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T17:30:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "H3R1NGT0P100FF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 10,00 de desconto em produtos selecionados com compra mínima de R$ 40,00",
+      "validadeAte": "2026-11-12T17:58:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
