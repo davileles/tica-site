@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T17:24:53.661Z",
+  "atualizadoEm": "2026-11-11T17:41:25.985Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -576,6 +576,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:03:54.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CARRINHO11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para itens de mercado no app Magalu",
+      "validadeAte": "2026-11-12T17:33:27.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2355,6 +2367,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEAUTY10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-12T17:32:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOP10SHARK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 79,
+      "observacao": null,
+      "validadeAte": "2026-11-12T17:32:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "GUERRILHA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3111,6 +3147,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "1111ESPECIALMODA20",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Vendedores nacionais",
+      "validadeAte": "2026-11-12T17:36:30.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "NOVM0DA15OFF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3168,6 +3216,18 @@
       "limite": null,
       "observacao": "Exclusivo para este produto",
       "validadeAte": "2026-11-12T15:00:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "PR3C0B0MDOAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T17:30:35.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
