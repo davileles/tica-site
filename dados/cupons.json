@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T01:12:26.143Z",
+  "atualizadoEm": "2026-11-11T01:42:26.063Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2929,18 +2929,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "LOVI1111",
-      "loja": "Shopee",
-      "tipo": "pct",
-      "valor": 100,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Válido a partir de 11.11. Desconto de 100% com limite máximo de R$60.",
-      "validadeAte": "2026-11-11T01:12:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "V0UCH3R002AF",
