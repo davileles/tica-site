@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T18:41:26.198Z",
+  "atualizadoEm": "2026-11-11T19:09:13.352Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -327,15 +327,15 @@
       "url": null
     },
     {
-      "codigo": "REMEDIOBF",
+      "codigo": "FARMABF",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 15,
+      "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido para pedidos em farmácias pelo iFood",
-      "validadeAte": "2026-11-11T19:00:19.000Z",
+      "observacao": "Desconto válido em Farmácias pelo iFood",
+      "validadeAte": "2026-11-12T19:01:14.000Z",
       "url": null
     },
     {
@@ -495,6 +495,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "QUERO11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Magalu",
+      "validadeAte": "2026-11-12T19:03:22.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "NOV200",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -651,15 +663,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TVCEL1011",
+      "codigo": "TECH1111",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 220,
-      "minimo": 1599,
+      "minimo": 1499,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-11-11T19:00:10.000Z",
+      "validadeAte": "2026-11-12T19:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -684,6 +696,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ACELERAMOTO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 300,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-12T18:46:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1995,6 +2019,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AGORAPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-12T19:00:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2136,18 +2172,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPORTE1011",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-11T19:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2448,6 +2472,18 @@
       "limite": 79,
       "observacao": null,
       "validadeAte": "2026-11-12T17:32:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DATADUPLACAPACETES",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Cupom válido em selecionados. Desconto de 10% com mínimo de R$79 e limite máximo de R$70 de desconto.",
+      "validadeAte": "2026-11-12T18:46:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3216,6 +3252,18 @@
       "limite": null,
       "observacao": "Válido em Vendedores nacionais",
       "validadeAte": "2026-11-12T17:36:30.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "N4OP4R4",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T19:00:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
