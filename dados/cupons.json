@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T19:50:46.751Z",
+  "atualizadoEm": "2026-11-11T20:09:33.575Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,18 +435,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "JOGOS11DO11",
-      "loja": "KaBuM",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas em jogos selecionados",
-      "validadeAte": "2026-11-11T20:00:24.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
       "codigo": "MEGA11DO11",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -567,6 +555,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "ELETRO11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 3500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T20:02:50.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "MAGALU11DO11",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -663,6 +663,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "APROVEITAOFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 400,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T20:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TECH1111",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -684,6 +696,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T11:00:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MOVEIS1111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 899,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T20:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2347,7 +2371,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 15,
-      "minimo": 49,
+      "minimo": 149,
       "maximo": null,
       "limite": 60,
       "observacao": null,
@@ -2407,7 +2431,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 12,
-      "minimo": 79,
+      "minimo": 149,
       "maximo": null,
       "limite": 50,
       "observacao": null,
@@ -2424,6 +2448,18 @@
       "limite": 300,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-12T16:30:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASCOMTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-12T20:00:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3147,6 +3183,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "NASHOPEE120AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 120,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T20:03:49.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "11D011T3RRY3SH0P33",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3288,6 +3336,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T14:11:08.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CH4D0N15OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T19:59:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
