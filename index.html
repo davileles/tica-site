@@ -450,15 +450,22 @@ function buscarJson(nome) {
     });
 }
 
+// Parceiro cadastrado como "Outro: Nome" no painel: no site aparece só o nome.
+function limparLoja(i) {
+  if (i && typeof i.loja === 'string') i.loja = i.loja.replace(/^\s*outros?\s*:\s*/i, '').trim();
+}
+
 function carregar() {
   esqueletos();
   Promise.allSettled([buscarJson('feed.json'), buscarJson('cupons.json')]).then(function (res) {
     if (res[0].status === 'fulfilled') {
       estado.ofertas = res[0].value.ofertas || [];
+      estado.ofertas.forEach(limparLoja);
       if (res[0].value.grupoUrl) estado.grupoUrl = res[0].value.grupoUrl;
     }
     if (res[1].status === 'fulfilled') {
       estado.cupons = (res[1].value.cupons || []).filter(function (c) { return restante(c.validadeAte); });
+      estado.cupons.forEach(limparLoja);
     }
     if (res[0].status === 'rejected' && res[1].status === 'rejected') return falhou();
 
