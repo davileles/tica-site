@@ -427,6 +427,27 @@ function esc(s) {
 }
 
 
+// ── Cupons que não podem aparecer ─────────────────────────────────────────
+// A base grava na observação o resultado das reverificações (extensão, API do
+// ML). Isso é anotação interna: cupom marcado como esgotado/indisponível some
+// da página, e observação com jargão interno não é mostrada ao público.
+var RE_INDISPONIVEL = /reverificad|esgot|n[ãa]o est[áa] (mais )?dispon|indispon|invalid_|expirad|encerrad|n[ãa]o funciona/i;
+var RE_OBS_INTERNA  = /extens[ãa]o|conta tsp|\btsp\b|segundo o ml|aplicado ao produto|pre[çc]o final|link|fornecid|lista/i;
+
+function cupomDisponivel(c) {
+  return !(c && c.observacao && RE_INDISPONIVEL.test(c.observacao));
+}
+
+function obsPublica(o) {
+  if (!o) return '';
+  var t = String(o)
+    .replace(/\s*Lista completa dispon[íi]vel nos links\.?/i, '')
+    .replace(/,?\s*conforme (a )?lista( fornecida| informada)?/i, '')
+    .trim();
+  if (!t || RE_OBS_INTERNA.test(t) || RE_INDISPONIVEL.test(t)) return '';
+  return t;
+}
+
 // ── Carregamento ──────────────────────────────────────────────────────────
 function buscarJson(nome) {
   return fetch(BASE_DADOS + nome + '?t=' + Math.floor(Date.now() / 60000))
@@ -453,7 +474,7 @@ function carregar() {
   buscarJson('cupons.json').then(function (d) {
     primeiraCarga = false;
     estado.atualizadoEm = d.atualizadoEm || null;
-    estado.cupons = (d.cupons || []).filter(function (c) { return c.codigo && restante(c.validadeAte); });
+    estado.cupons = (d.cupons || []).filter(function (c) { return c.codigo && restante(c.validadeAte) && cupomDisponivel(c); });
     estado.cupons.forEach(limparLoja);
     estado.cupons.sort(ordenar);
     if (estado.loja && !estado.cupons.some(function (c) { return c.loja === estado.loja; })) estado.loja = null;
@@ -503,7 +524,7 @@ function filtrar(lista) {
   return lista.filter(function (i) {
     if (estado.loja && i.loja !== estado.loja) return false;
     if (!t) return true;
-    return ((i.loja || '') + ' ' + (i.codigo || '') + ' ' + (i.observacao || '')).toLowerCase().indexOf(t) >= 0;
+    return ((i.loja || '') + ' ' + (i.codigo || '') + ' ' + obsPublica(i.observacao)).toLowerCase().indexOf(t) >= 0;
   });
 }
 
@@ -526,7 +547,7 @@ function renderCupons() {
         '<span class="ticket-valor">' + valorCupom(c) + '</span>' +
       '</div>' +
       '<p class="ticket-regra">' + esc(regraCupom(c)) + '</p>' +
-      (c.observacao ? '<p class="ticket-obs">' + esc(c.observacao) + '</p>' : '') +
+      (obsPublica(c.observacao) ? '<p class="ticket-obs">' + esc(obsPublica(c.observacao)) + '</p>' : '') +
       '<div class="codigo-linha">' +
         '<span class="codigo" data-codigo="' + esc(c.codigo) + '" title="Clique para copiar o código">' + esc(c.codigo) + '</span>' +
         '<button class="acao" data-codigo="' + esc(c.codigo) + '">COPIAR CÓDIGO</button>' +
@@ -545,7 +566,7 @@ function renderCupons() {
 function textoCupom(c) {
   var linhas = ['🎟️ CUPOM ' + String(c.loja || '').toUpperCase(), '',
     regraCupom(c), '', 'Código: ' + c.codigo];
-  if (c.observacao) linhas.push('Obs.: ' + c.observacao);
+  if (obsPublica(c.observacao)) linhas.push('Obs.: ' + obsPublica(c.observacao));
   if (c.validadeAte) {
     var d = new Date(c.validadeAte);
     linhas.push('Válido até ' + d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit',

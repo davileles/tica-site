@@ -439,6 +439,27 @@ function esc(s) {
   });
 }
 
+// ── Cupons que não podem aparecer ─────────────────────────────────────────
+// A base grava na observação o resultado das reverificações (extensão, API do
+// ML). Isso é anotação interna: cupom marcado como esgotado/indisponível some
+// da página, e observação com jargão interno não é mostrada ao público.
+var RE_INDISPONIVEL = /reverificad|esgot|n[ãa]o est[áa] (mais )?dispon|indispon|invalid_|expirad|encerrad|n[ãa]o funciona/i;
+var RE_OBS_INTERNA  = /extens[ãa]o|conta tsp|\btsp\b|segundo o ml|aplicado ao produto|pre[çc]o final|link|fornecid|lista/i;
+
+function cupomDisponivel(c) {
+  return !(c && c.observacao && RE_INDISPONIVEL.test(c.observacao));
+}
+
+function obsPublica(o) {
+  if (!o) return '';
+  var t = String(o)
+    .replace(/\s*Lista completa dispon[íi]vel nos links\.?/i, '')
+    .replace(/,?\s*conforme (a )?lista( fornecida| informada)?/i, '')
+    .trim();
+  if (!t || RE_OBS_INTERNA.test(t) || RE_INDISPONIVEL.test(t)) return '';
+  return t;
+}
+
 // ── Carregamento ──────────────────────────────────────────────────────────
 // O parâmetro de tempo evita que o CDN entregue a versão anterior logo depois
 // de uma publicação.
@@ -464,7 +485,7 @@ function carregar() {
       if (res[0].value.grupoUrl) estado.grupoUrl = res[0].value.grupoUrl;
     }
     if (res[1].status === 'fulfilled') {
-      estado.cupons = (res[1].value.cupons || []).filter(function (c) { return restante(c.validadeAte); });
+      estado.cupons = (res[1].value.cupons || []).filter(function (c) { return restante(c.validadeAte) && cupomDisponivel(c); });
       estado.cupons.forEach(limparLoja);
     }
     if (res[0].status === 'rejected' && res[1].status === 'rejected') return falhou();
@@ -573,7 +594,7 @@ function renderCupons() {
         '<span class="ticket-valor">' + valorCupom(c) + '</span>' +
       '</div>' +
       '<p class="ticket-regra">' + esc(regraCupom(c)) + '</p>' +
-      (c.observacao ? '<p class="ticket-obs">' + esc(c.observacao) + '</p>' : '') +
+      (obsPublica(c.observacao) ? '<p class="ticket-obs">' + esc(obsPublica(c.observacao)) + '</p>' : '') +
       '<div class="codigo-linha">' +
         '<span class="codigo" data-codigo="' + esc(c.codigo) + '" title="Clique para copiar o código">' + esc(c.codigo) + '</span>' +
         botaoCupom(c) +
