@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T22:38:33.925Z",
+  "atualizadoEm": "2026-11-11T23:08:34.242Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -744,6 +744,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T20:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MP1111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 300,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas pagando com saldo Mercado Pago. Aplicável em produtos selecionados.",
+      "validadeAte": "2026-11-12T23:00:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
