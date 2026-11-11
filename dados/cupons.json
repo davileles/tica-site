@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-11T13:31:20.500Z",
+  "atualizadoEm": "2026-11-11T13:40:16.795Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "AEMEGA18",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 750,
+      "minimo": 4400,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA17",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 550,
+      "minimo": 3400,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA16",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 370,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AEMEGA15",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 170,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
+      "validadeAte": "2026-11-11T15:54:50.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "BLACK150",
       "loja": "Amazon",
@@ -303,6 +351,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
+      "codigo": "BFNACESTA",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
+      "validadeAte": "2026-11-11T18:00:25.000Z",
+      "url": null
+    },
+    {
+      "codigo": "REMEDIOBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido para pedidos em farmácias pelo iFood",
+      "validadeAte": "2026-11-11T19:00:19.000Z",
+      "url": null
+    },
+    {
+      "codigo": "COMEOUBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 27,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Em algumas contas aparece R$ 15 OFF",
+      "validadeAte": "2026-11-11T18:30:18.000Z",
+      "url": null
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -384,6 +468,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "JOGOS11DO11",
+      "loja": "KaBuM",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em jogos selecionados",
+      "validadeAte": "2026-11-11T20:00:24.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
@@ -2127,6 +2223,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CINQUENTINHA",
+      "loja": "O Boticário",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 300,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T17:47:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
+    },
+    {
+      "codigo": "11DO11",
+      "loja": "O Boticário",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T17:47:00.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
+    },
+    {
       "codigo": "WELCOME15",
       "loja": "Oceane",
       "tipo": "pct",
@@ -2139,138 +2259,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
     },
     {
-      "codigo": "AEMEGA18",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 750,
-      "minimo": 4400,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
-      "validadeAte": "2026-11-11T15:54:50.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "AEMEGA17",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 550,
-      "minimo": 3400,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
-      "validadeAte": "2026-11-11T15:54:50.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "AEMEGA16",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 370,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
-      "validadeAte": "2026-11-11T15:54:50.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "AEMEGA15",
-      "loja": "Outro: AliExpress",
-      "tipo": "reais",
-      "valor": 170,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
-      "validadeAte": "2026-11-11T15:54:50.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BFNACESTA",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 em pedidos no Mercado via iFood",
-      "validadeAte": "2026-11-11T18:00:25.000Z",
-      "url": null
-    },
-    {
-      "codigo": "REMEDIOBF",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido para pedidos em farmácias pelo iFood",
-      "validadeAte": "2026-11-11T19:00:19.000Z",
-      "url": null
-    },
-    {
-      "codigo": "COMEOUBF",
-      "loja": "Outro: iFood",
-      "tipo": "reais",
-      "valor": 12,
-      "minimo": 27,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF",
-      "validadeAte": "2026-11-11T18:30:18.000Z",
-      "url": null
-    },
-    {
-      "codigo": "JOGOS11DO11",
-      "loja": "Outro: KaBuM",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas em jogos selecionados",
-      "validadeAte": "2026-11-11T20:00:24.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CINQUENTINHA",
-      "loja": "Outro: O Boticário",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 300,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T17:47:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
-    },
-    {
-      "codigo": "11DO11",
-      "loja": "Outro: O Boticário",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T17:47:00.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17659&id=1207116"
-    },
-    {
-      "codigo": "FLASH",
-      "loja": "Outro: Riachuelo",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 229.99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T14:20:43.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
-    },
-    {
       "codigo": "BEMVINDA",
       "loja": "Posthaus",
       "tipo": "pct",
@@ -2281,6 +2269,18 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
+    },
+    {
+      "codigo": "FLASH",
+      "loja": "Riachuelo",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": 229.99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-11T14:20:43.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "GANHE10",
