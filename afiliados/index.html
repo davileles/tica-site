@@ -279,11 +279,6 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .selo-pagina{display:inline-block;margin-bottom:10px;padding:4px 10px;border-radius:999px;
   background:var(--surface-2);border:1px solid var(--border);font-size:10px;font-weight:800;
   letter-spacing:1.4px;text-transform:uppercase;color:var(--muted)}
-.acoes-ticket{display:flex;gap:8px}
-.acao-2{flex:1;background:var(--surface-2);border:1px solid var(--border);border-radius:9px;
-  padding:10px;font-size:11px;font-weight:800;letter-spacing:.6px;text-align:center;transition:.15s}
-.acao-2:hover{border-color:var(--border-forte)}
-.ticket.texto-copiado .acao-2{background:var(--text);color:var(--surface);border-color:var(--text)}
 .dica{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
   padding:14px 18px;font-size:12.5px;color:var(--muted);margin-bottom:18px;line-height:1.6}
 .dica b{color:var(--text)}
@@ -321,8 +316,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     </div>
   </section>
 
-  <p class="dica"><b>Como usar:</b> “Copiar código” copia só o cupom. “Copiar texto” copia uma mensagem pronta
-    (loja, desconto, regra, código e validade) para você colar no seu grupo junto com o seu link de afiliado.
+  <p class="dica"><b>Como usar:</b> clique no código ou em “Copiar código” e use o cupom com o seu link de afiliado.
     A página se atualiza sozinha a cada 5 minutos.</p>
 
   <div class="barra">
@@ -540,8 +534,8 @@ function renderCupons() {
                                     : 'Cupom nasce e vence rápido. A página se atualiza sozinha.') + '</p></div>';
     return;
   }
-  $('grade-cupons').innerHTML = itens.map(function (c, i) {
-    return '<article class="ticket" data-idx="' + estado.cupons.indexOf(c) + '">' +
+  $('grade-cupons').innerHTML = itens.map(function (c) {
+    return '<article class="ticket">' +
       '<div class="ticket-topo">' +
         '<span class="ticket-loja">' + esc(c.loja) + '</span>' +
         '<span class="ticket-valor">' + valorCupom(c) + '</span>' +
@@ -552,7 +546,6 @@ function renderCupons() {
         '<span class="codigo" data-codigo="' + esc(c.codigo) + '" title="Clique para copiar o código">' + esc(c.codigo) + '</span>' +
         '<button class="acao" data-codigo="' + esc(c.codigo) + '">COPIAR CÓDIGO</button>' +
       '</div>' +
-      '<div class="acoes-ticket"><button class="acao-2">COPIAR TEXTO</button></div>' +
       '<div class="validade" data-ate="' + esc(c.validadeAte) + '">' +
         '<span class="validade-txt"></span>' +
         '<span class="barra-tempo"><i></i></span>' +
@@ -560,19 +553,6 @@ function renderCupons() {
     '</article>';
   }).join('');
   tiquetear();
-}
-
-// Mensagem pronta para o afiliado colar no grupo dele (sem link: ele põe o dele).
-function textoCupom(c) {
-  var linhas = ['🎟️ CUPOM ' + String(c.loja || '').toUpperCase(), '',
-    regraCupom(c), '', 'Código: ' + c.codigo];
-  if (obsPublica(c.observacao)) linhas.push('Obs.: ' + obsPublica(c.observacao));
-  if (c.validadeAte) {
-    var d = new Date(c.validadeAte);
-    linhas.push('Válido até ' + d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit',
-      hour: '2-digit', minute: '2-digit', timeZone: 'America/Sao_Paulo' }).replace(',', ' às'));
-  }
-  return linhas.join('\n');
 }
 
 // ── Contagem regressiva ───────────────────────────────────────────────────
@@ -623,23 +603,6 @@ function copiarLegado(texto, feito) {
 }
 
 
-function copiarTexto(ticket) {
-  var c = estado.cupons[Number(ticket.getAttribute('data-idx'))];
-  if (!c) return;
-  var btn = ticket.querySelector('.acao-2');
-  var feito = function () {
-    ticket.classList.add('texto-copiado');
-    btn.textContent = 'TEXTO COPIADO';
-    setTimeout(function () { ticket.classList.remove('texto-copiado'); btn.textContent = 'COPIAR TEXTO'; }, 2000);
-  };
-  var t = textoCupom(c);
-  if (navigator.clipboard && window.isSecureContext) {
-    navigator.clipboard.writeText(t).then(feito, function () { copiarLegado(t, feito); });
-  } else {
-    copiarLegado(t, feito);
-  }
-}
-
 document.addEventListener('click', function (e) {
   if (e.target.closest('#btn-tema')) {
     var novo = document.documentElement.getAttribute('data-tema') === 'escuro' ? 'claro' : 'escuro';
@@ -647,8 +610,6 @@ document.addEventListener('click', function (e) {
     try { localStorage.setItem('tsp-tema', novo); } catch (err) { /* navegação privada */ }
     return;
   }
-  var t2 = e.target.closest('.acao-2');
-  if (t2) { copiarTexto(t2.closest('.ticket')); return; }
   var acao = e.target.closest('.acao, .codigo');
   if (acao) { copiar(acao.getAttribute('data-codigo'), acao.closest('.ticket')); return; }
   var chip = e.target.closest('.chip-loja');
