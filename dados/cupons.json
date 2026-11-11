@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T14:09:17.780Z",
+  "atualizadoEm": "2026-11-11T14:39:18.031Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -483,6 +483,42 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "NOV300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em R$ com valores mínimos de compra obrigatórios",
+      "validadeAte": "2026-11-12T14:11:52.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "250PRAVOCE",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em R$ com valores mínimos de compra obrigatórios",
+      "validadeAte": "2026-11-12T14:11:52.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "NOV200",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Múltiplos cupons de desconto fixo em R$ com valores mínimos de compra obrigatórios",
+      "validadeAte": "2026-11-12T14:11:52.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "MOBILIA11DO11",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -492,6 +528,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-11-12T13:06:20.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "MAGALU11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 111,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Magazine Luiza",
+      "validadeAte": "2026-11-12T14:11:33.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -555,6 +603,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CUPOMINFLU11",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 11,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T14:35:01.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "TVCEL1011",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -576,18 +636,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T11:00:26.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1883,7 +1931,19 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-12T14:00:16.000Z",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PET11SUPER11",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-12T14:38:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2115,6 +2175,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2281,18 +2353,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
-    },
-    {
-      "codigo": "FLASH",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": 229.99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T14:20:43.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "GANHE10",
@@ -2952,6 +3012,18 @@
       "limite": null,
       "observacao": "Válido em Vendedores nacionais",
       "validadeAte": "2026-11-12T12:17:07.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "11D011N4SH0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 65,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T14:11:08.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
