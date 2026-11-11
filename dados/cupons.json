@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T00:42:26.890Z",
+  "atualizadoEm": "2026-11-11T01:12:26.143Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1739,7 +1739,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-11T02:59:00.000Z",
+      "validadeAte": "2026-11-11T02:59:32.481Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2135,7 +2135,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-12T00:24:51.000Z",
+      "validadeAte": "2026-11-11T02:59:32.481Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2159,7 +2159,19 @@
       "maximo": null,
       "limite": 50,
       "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T02:59:00.000Z",
+      "validadeAte": "2026-11-11T02:59:32.481Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORCUPOM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido na lista específica do link fornecido",
+      "validadeAte": "2026-11-12T00:50:45.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2183,7 +2195,19 @@
       "maximo": null,
       "limite": 300,
       "observacao": "Válido na lista especificada no link fornecido",
-      "validadeAte": "2026-11-11T22:36:52.000Z",
+      "validadeAte": "2026-11-11T02:59:32.481Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SPORTS11DO11",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-12T00:47:45.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
