@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T13:40:16.795Z",
+  "atualizadoEm": "2026-11-11T14:09:17.780Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1875,6 +1875,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OPORTUNIDADEML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-12T14:00:16.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2859,6 +2871,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "11D011T3RRY3SH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 240,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T14:07:33.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "3U4M0C0MPR4R",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2928,18 +2952,6 @@
       "limite": null,
       "observacao": "Válido em Vendedores nacionais",
       "validadeAte": "2026-11-12T12:17:07.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "COSFOGYR3X",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T14:00:08.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
