@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T13:01:20.756Z",
+  "atualizadoEm": "2026-11-11T13:31:20.500Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -387,6 +387,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "MOBILIA11DO11",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 800,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Magalu",
+      "validadeAte": "2026-11-12T13:06:20.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CUPOMINFLU110",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -468,6 +480,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T11:00:26.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1056,6 +1080,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTODOML30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista",
+      "validadeAte": "2026-11-12T13:16:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1731,6 +1767,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VALEAGORA25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-12T13:01:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1752,6 +1800,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAJA22",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-12T13:01:18.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1947,18 +2007,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 15,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2027,7 +2075,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": "15% OFF com limite de desconto de R$80",
-      "validadeAte": "2026-11-12T13:00:10.000Z",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2787,6 +2835,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
+      "codigo": "300DATADUPLAAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T13:01:53.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "11DO11H0J3",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2844,6 +2904,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:00:09.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "T3RRY1111SH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T13:00:47.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
