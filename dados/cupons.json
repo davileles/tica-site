@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T05:12:27.133Z",
+  "atualizadoEm": "2026-11-11T10:12:26.978Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,6 +363,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "CUPOMINFLU110",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 110,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T10:01:20.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CUPOMALI50",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -432,6 +444,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-11T19:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO1111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 111,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T10:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
