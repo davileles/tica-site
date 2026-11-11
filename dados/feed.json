@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-11T22:38:31.977Z",
+  "atualizadoEm": "2026-11-11T22:52:44.328Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45533",
+      "loja": "Amazon",
+      "titulo": "Detergente Ypê Neutro 5L",
+      "link": "https://www.amazon.com.br/dp/B07HZMBBBQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yWMrjo8+L._SL400_.jpg",
+      "preco": 18,
+      "precoDe": 33.49,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:42:44.326Z"
+    },
+    {
+      "id": "45531",
+      "loja": "Amazon",
+      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder | 163 Peças, Uso Profissional, Reparos Domésticos",
+      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
+      "preco": 269.9,
+      "precoDe": 617.38,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:39:51.816Z"
+    },
+    {
+      "id": "45530",
+      "loja": "Shopee",
+      "titulo": "Porta Frios Duplo Preto para Presunto e Queijo Com Fundo Removível Para Conservar e Organizar a Geladeira Hermetico",
+      "link": "https://s.shopee.com.br/8fTr6EF1LP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ml6ctmoc7ojo37_tn",
+      "preco": 17.53,
+      "precoDe": 17.89,
+      "desconto": 2,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:39:13.486Z"
+    },
     {
       "id": "45527",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-10T16:59:19.679Z"
-    },
-    {
-      "id": "44063",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc 23.8\", Full Hd, 200Hz, 0.3ms, Ips, G-Sync, Hdr, Ângulo Ajustável, Preto 24G42he",
-      "link": "https://meli.la/1moW2hL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_671618-MLB119263954707_102026-P.webp",
-      "preco": 647.36,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ULTIMASCHANCES",
-      "enviadoEm": "2026-11-10T16:58:48.432Z"
-    },
-    {
-      "id": "44062",
-      "loja": "Shopee",
-      "titulo": "Carrinho Passeio e Bebê Conforto Burigotto Rio 22 Preto Cobre (0 à 22Kg)",
-      "link": "https://s.shopee.com.br/1qdUzCxGte",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mpm9hra1tk3k89_tn",
-      "preco": 1179,
-      "precoDe": 1714.86,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T16:57:28.530Z"
-    },
-    {
-      "id": "44061",
-      "loja": "Mercado Livre",
-      "titulo": "Headphones Havit H668BT ANC, 80h Reprodução, Bluetooth 5.4, Conexão multiponto, Design dobrável, Cor Preto",
-      "link": "https://meli.la/1CLsgqJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746269-MLA99937418029_112025-F.jpg",
-      "preco": 127.35999999999999,
-      "precoDe": 219,
-      "desconto": 29,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T16:56:09.427Z"
     }
   ]
 }
