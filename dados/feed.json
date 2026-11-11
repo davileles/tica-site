@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-11T22:08:31.950Z",
+  "atualizadoEm": "2026-11-11T22:38:31.977Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45527",
+      "loja": "Amazon",
+      "titulo": "Seleta Cachaça Tradicional 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS8CW78?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZL8IrlbLL._SL400_.jpg",
+      "preco": 55.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:32:43.853Z"
+    },
+    {
+      "id": "45526",
+      "loja": "Mercado Livre",
+      "titulo": "Placa de Vídeo Gainward RTX 5060 Ghost 8GB GDDR7 Nvidia 128 bit",
+      "link": "https://meli.la/1RLsY4U",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669501-MLA100009166331_122025-F.jpg",
+      "preco": 2140,
+      "precoDe": 2406,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:32:13.729Z"
+    },
+    {
+      "id": "45525",
+      "loja": "Mercado Livre",
+      "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
+      "link": "https://meli.la/1x5rmks",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868127-MLA118013296557_092026-F.jpg",
+      "preco": 764.47,
+      "precoDe": 1499,
+      "desconto": 49,
+      "cupom": "MELHORESPROMOS",
+      "enviadoEm": "2026-11-11T22:29:11.550Z"
+    },
+    {
+      "id": "45522",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 350ml, Pack com 8 unidades",
+      "link": "https://www.amazon.com.br/dp/B0BWNNZLR5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31oJqajX3QL._SL400_.jpg",
+      "preco": 36.9,
+      "precoDe": 41.52,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:22:02.171Z"
+    },
+    {
+      "id": "45521",
+      "loja": "Amazon",
+      "titulo": "Tramontina Maleta Soquetes Estriados e Acessórios Encaixe 1/2, 22 Peças, Amarelo",
+      "link": "https://www.amazon.com.br/dp/B076KTQC3P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5190pHvk1tL._SL400_.jpg",
+      "preco": 199.47,
+      "precoDe": 248.97,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:19:27.002Z"
+    },
+    {
+      "id": "45520",
+      "loja": "Shopee",
+      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
+      "link": "https://s.shopee.com.br/4B1RiTu2xY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
+      "preco": 38,
+      "precoDe": 44.71,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:17:54.675Z"
+    },
+    {
+      "id": "45519",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M 148 Unidades",
+      "link": "https://meli.la/15ceK3v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_989179-MLA116258420400_092026-F.jpg",
+      "preco": 121.4,
+      "precoDe": 178.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T22:16:33.284Z"
+    },
     {
       "id": "45516",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 29,
       "cupom": "OFFAGORA",
       "enviadoEm": "2026-11-10T16:56:09.427Z"
-    },
-    {
-      "id": "44060",
-      "loja": "Shopee",
-      "titulo": "Saída Maternidade Menina Aurora 04 peças Roupa de Bebê Menina",
-      "link": "https://s.shopee.com.br/20wvBFptxS",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mt6yn86p337o3c_tn",
-      "preco": 62.9,
-      "precoDe": 99.84,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T16:54:43.309Z"
-    },
-    {
-      "id": "44055",
-      "loja": "Amazon",
-      "titulo": "Salgadinho de Milho Doritos, Ketchup, 110g",
-      "link": "https://www.amazon.com.br/dp/B0FH7KCHGZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51zYRv2gxkL._SL400_.jpg",
-      "preco": 11.03,
-      "precoDe": 14.99,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T16:53:02.094Z"
-    },
-    {
-      "id": "44054",
-      "loja": "Mercado Livre",
-      "titulo": "Microfone Gamer Rise Mode Noisy Cube 01 Branco Usb Rgb",
-      "link": "https://meli.la/2kHwU9H",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761457-MLB119557044257_102026-P.webp",
-      "preco": 121.16,
-      "precoDe": 155.54,
-      "desconto": 5,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T16:51:45.002Z"
-    },
-    {
-      "id": "44050",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Berço Menino Americano 10 Peças Cavalinho Azul Completo Cavalinho Azul-aço.",
-      "link": "https://meli.la/1YDNHvj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953116-MLB117267997126_102026-P.webp",
-      "preco": 129.79,
-      "precoDe": 159.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T16:50:16.716Z"
-    },
-    {
-      "id": "44049",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino",
-      "link": "https://meli.la/1kpxMKT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794567-MLA84558392742_052025-F.jpg",
-      "preco": 345.2,
-      "precoDe": 739,
-      "desconto": 53,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T16:48:49.899Z"
-    },
-    {
-      "id": "44046",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 504,
-      "precoDe": 1299,
-      "desconto": 54,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T16:47:27.998Z"
-    },
-    {
-      "id": "44041",
-      "loja": "Mercado Livre",
-      "titulo": "LG UltraGear Monitor Gamer 27\" IPS 200Hz, 1ms (GtG), Full HD (1920x1080), HDR10, NVIDIA G-SYNC AMD, FreeSync Premium, sRGB 99%, Preto - 27G523B",
-      "link": "https://meli.la/2h5uax2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890719-MLA119028291406_112026-F.jpg",
-      "preco": 699,
-      "precoDe": 949,
-      "desconto": 16,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T16:46:11.951Z"
     }
   ]
 }
