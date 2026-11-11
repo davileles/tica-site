@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T12:31:20.190Z",
+  "atualizadoEm": "2026-11-11T13:01:20.756Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -468,18 +468,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T11:00:26.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 399,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1068,54 +1056,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAJA30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LEVEAGORA30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "POUPAAGORA30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CHEGOUCUPOM30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1755,18 +1695,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LEVEAGORA25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Múltiplos cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-11-11T13:00:23.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HOJENOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1788,6 +1716,18 @@
       "limite": 80,
       "observacao": null,
       "validadeAte": "2026-11-12T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACKISDIN25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-12T12:42:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2007,6 +1947,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2052,6 +2004,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BFCETAPHIL26",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-12T12:42:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SEMPREAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "15% OFF com limite de desconto de R$80",
+      "validadeAte": "2026-11-12T13:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2835,18 +2811,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "V0UCH3R002AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T13:00:51.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "C0M3C0U35",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2895,18 +2859,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "OAEDOECVE6",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-11T13:00:14.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "COSFOGYR3X",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2940,6 +2892,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T04:57:54.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "SL1S34G11",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T12:56:36.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
