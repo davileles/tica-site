@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T03:42:27.264Z",
+  "atualizadoEm": "2026-11-11T04:12:27.147Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -372,6 +372,18 @@
       "limite": null,
       "observacao": "Cupom para app Magalu em produtos selecionados",
       "validadeAte": "2026-11-11T19:46:38.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMLUBLACK50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 111,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom requer contato via WhatsApp da Magalu e pesquisa de ID do item",
+      "validadeAte": "2026-11-12T04:04:32.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
