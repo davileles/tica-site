@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T19:09:13.352Z",
+  "atualizadoEm": "2026-11-11T19:41:25.462Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -60,6 +60,18 @@
       "limite": 80,
       "observacao": "Exclusivo para membros Prime. Válido em produtos selecionados.",
       "validadeAte": "2026-11-12T15:11:55.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "1REAL",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 1,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para primeira compra",
+      "validadeAte": "2026-11-12T19:39:43.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -3348,6 +3360,18 @@
       "limite": null,
       "observacao": "R$ 10,00 de desconto em produtos selecionados com compra mínima de R$ 40,00",
       "validadeAte": "2026-11-12T17:58:19.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "C454LG4RC14100FF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-12T19:34:42.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
