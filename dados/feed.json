@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-11T17:24:51.795Z",
+  "atualizadoEm": "2026-11-11T17:41:23.385Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45232",
+      "loja": "Shopee",
+      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
+      "link": "https://s.shopee.com.br/3B8uD7PCXT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
+      "preco": 20.7,
+      "precoDe": 20.91,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T17:34:11.359Z"
+    },
+    {
+      "id": "45230",
+      "loja": "Shopee",
+      "titulo": "Jogo 10/15 Brocas Diamantadas Serra Copo furar Vidro Granito Ceramica 6 a 50 mm kit ferramentas",
+      "link": "https://s.shopee.com.br/1BNppFoNcm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82q4qcabtw1a5_tn",
+      "preco": 23.9,
+      "precoDe": 119.5,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T17:29:37.176Z"
+    },
+    {
+      "id": "45229",
+      "loja": "Amazon",
+      "titulo": "Pato Limpador Sanitário Gel Desinfetante, Pinho, Limpeza Profunda, 500ml",
+      "link": "https://www.amazon.com.br/dp/B0DHDDH8N5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31hg84aXWDL._SL400_.jpg",
+      "preco": 11.04,
+      "precoDe": 14.45,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T17:26:18.414Z"
+    },
     {
       "id": "45221",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 58,
       "cupom": "OFFHOJE",
       "enviadoEm": "2026-11-10T13:45:54.112Z"
-    },
-    {
-      "id": "43835",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Bosch Parafusadeira e Chave Impacto GSR120-LI + GDR120-LI 23AC",
-      "link": "https://meli.la/1sgeLae",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644425-MLA100069358847_122025-F.jpg",
-      "preco": 823.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOPRACONSTRU",
-      "enviadoEm": "2026-11-10T13:41:59.546Z"
-    },
-    {
-      "id": "43829",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Cosco Kids, Zennya, 2 em 1, 9 a 36kg, Cinza Mescla",
-      "link": "https://www.amazon.com.br/dp/B0GPZBV896?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UJuGcq4eL._SL400_.jpg",
-      "preco": 410,
-      "precoDe": 699.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T13:37:36.816Z"
-    },
-    {
-      "id": "43828",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Cosco Kids, Zennya, 2 em 1, 9 a 36kg, Preto Mescla",
-      "link": "https://www.amazon.com.br/dp/B0GPZ4PLH5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/317Xter0XBL._SL400_.jpg",
-      "preco": 410,
-      "precoDe": 699.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T13:37:10.822Z"
     }
   ]
 }
