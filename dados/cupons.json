@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T10:12:26.978Z",
+  "atualizadoEm": "2026-11-11T11:01:20.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECORACAO1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 45,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-12T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJASOFICIAIS1111",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -540,18 +528,6 @@
       "limite": 50,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-12T03:00:21.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-12T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
