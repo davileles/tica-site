@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-11T17:11:23.385Z",
+  "atualizadoEm": "2026-11-11T17:24:51.795Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45221",
+      "loja": "Mercado Livre",
+      "titulo": "Lenços Umedecidos Pampers, Cuidado de bebê 12 pacotes em total 576 Unidades",
+      "link": "https://meli.la/1NqUMug",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748978-MLA99449654790_112025-F.jpg",
+      "preco": 78.67,
+      "precoDe": 134.9,
+      "desconto": 35,
+      "cupom": "PARAVOCEDEZ",
+      "enviadoEm": "2026-11-11T17:14:51.792Z"
+    },
+    {
+      "id": "45126",
+      "loja": "Amazon",
+      "titulo": "Energy Drink Red Bull, 250ml, 24 latas",
+      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
+      "preco": 186.96,
+      "precoDe": 251.76,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T17:12:29.684Z"
+    },
+    {
+      "id": "45063",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
+      "link": "https://s.shopee.com.br/60T5U0aIo7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
+      "preco": 14.99,
+      "precoDe": 40.51,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T17:11:59.695Z"
+    },
     {
       "id": "45059",
       "loja": "Amazon",
@@ -1477,18 +1513,6 @@
       "desconto": 45,
       "cupom": "OFFSEMPRENOML",
       "enviadoEm": "2026-11-11T13:39:42.865Z"
-    },
-    {
-      "id": "44860",
-      "loja": "Amazon",
-      "titulo": "Energy Drink Red Bull, 250ml, 24 latas",
-      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
-      "preco": 149.57,
-      "precoDe": 251.76,
-      "desconto": 26,
-      "cupom": "BOMDIA25OFF ⁠",
-      "enviadoEm": "2026-11-11T13:38:08.038Z"
     },
     {
       "id": "44859",
@@ -5977,30 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-11-10T13:37:10.822Z"
-    },
-    {
-      "id": "43826",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
-      "link": "https://meli.la/2taTZDa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725699-MLA118439485240_102026-F.jpg",
-      "preco": 284.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOPRACONSTRU",
-      "enviadoEm": "2026-11-10T13:35:01.566Z"
-    },
-    {
-      "id": "43821",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
-      "link": "https://s.shopee.com.br/BVGm0NQon",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
-      "preco": 106.62,
-      "precoDe": 119.8,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T13:30:42.523Z"
     }
   ]
 }
