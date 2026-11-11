@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-11T10:32:18.408Z",
+  "atualizadoEm": "2026-11-11T10:48:25.442Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44517",
+      "loja": "Amazon",
+      "titulo": "Pomada Bepantol Baby com Pró-Vitamina B5, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
+      "preco": 39.3,
+      "precoDe": 59.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:38:25.439Z"
+    },
+    {
+      "id": "44516",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
+      "preco": 39.88,
+      "precoDe": 73.75,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:37:55.427Z"
+    },
+    {
+      "id": "44514",
+      "loja": "Amazon",
+      "titulo": "Samsung Ar-condicionado Split Digital Inverter Ultra Connect AI 12.000 BTUs Frio AR12DYFZAWKNAZ",
+      "link": "https://www.amazon.com.br/dp/B0DKVCTTFN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ST0NeDnSL._SL400_.jpg",
+      "preco": 2104.21,
+      "precoDe": 3939,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:34:51.099Z"
+    },
+    {
+      "id": "44513",
+      "loja": "Amazon",
+      "titulo": "Shorts Esportivo Serotonin Insider Feminina, Mist Green, Tamanho GG",
+      "link": "https://www.amazon.com.br/dp/B0G8M669K2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310pE-5TZtL._SL400_.jpg",
+      "preco": 83.98,
+      "precoDe": 229,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:32:58.331Z"
+    },
     {
       "id": "44511",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 61,
       "cupom": "MELHORDOML",
       "enviadoEm": "2026-11-09T16:19:37.194Z"
-    },
-    {
-      "id": "43266",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Branco Havit Gamenote Fuxi-h6 - White Branco Branco",
-      "link": "https://meli.la/2cQVceS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844600-MLB109132096756_042026-P.webp",
-      "preco": 144,
-      "precoDe": 249,
-      "desconto": 28,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:17:24.516Z"
-    },
-    {
-      "id": "43265",
-      "loja": "Amazon",
-      "titulo": "Licor Frangelico 700ml",
-      "link": "https://www.amazon.com.br/dp/B003XI0N4E?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Md7s7+K-L._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 101.54,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:16:01.641Z"
-    },
-    {
-      "id": "43264",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Grand Court Base 3.0 adidas",
-      "link": "https://meli.la/2ytxXAQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977631-MLB114290210270_082026-O-tnis-grand-court-base-30-adidas.webp",
-      "preco": 148.79000000000002,
-      "precoDe": 349.99,
-      "desconto": 47,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:15:33.478Z"
-    },
-    {
-      "id": "43263",
-      "loja": "Mercado Livre",
-      "titulo": "Proteína Black Skull Whey 100% HD em pó sabor Chocolate x 900g",
-      "link": "https://meli.la/2R7wT17",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953920-MLA111544908875_052026-F.jpg",
-      "preco": 78.4,
-      "precoDe": 149.9,
-      "desconto": 35,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:14:08.583Z"
     }
   ]
 }
