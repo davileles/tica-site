@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-11T13:31:18.683Z",
+  "atualizadoEm": "2026-11-11T13:40:15.165Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44864",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira E Parafusadeira De Impacto 2 Baterias 2000mah 21v 3/8 Tb-21pkx The Black Tools Com Maleta E Acessorios",
+      "link": "https://meli.la/1ZdpMcC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621527-MLA116307522743_082026-F.jpg",
+      "preco": 135.92000000000002,
+      "precoDe": 309.9,
+      "desconto": 45,
+      "cupom": "OFFSEMPRENOML",
+      "enviadoEm": "2026-11-11T13:39:42.865Z"
+    },
+    {
+      "id": "44860",
+      "loja": "Amazon",
+      "titulo": "Energy Drink Red Bull, 250ml, 24 latas",
+      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
+      "preco": 149.57,
+      "precoDe": 251.76,
+      "desconto": 26,
+      "cupom": "BOMDIA25OFF ⁠",
+      "enviadoEm": "2026-11-11T13:38:08.038Z"
+    },
+    {
+      "id": "44859",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
+      "link": "https://meli.la/1oaZzzH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792011-MLA96077651979_102025-F.jpg",
+      "preco": 112.46,
+      "precoDe": 211,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T13:36:42.758Z"
+    },
+    {
+      "id": "44856",
+      "loja": "Mercado Livre",
+      "titulo": "Chinelo Asuna Masculino Slide Nuvem Anatomico Macio Original",
+      "link": "https://meli.la/1cNQ7VH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620215-MLB80255993563_102024-O-chinelo-asuna-masculino-slide-nuvem-anatomico-macio-original.webp",
+      "preco": 59.410000000000004,
+      "precoDe": 78.9,
+      "desconto": 11,
+      "cupom": "MODASEMPREML",
+      "enviadoEm": "2026-11-11T13:35:21.051Z"
+    },
+    {
+      "id": "44852",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Quencher Frost 887ml",
+      "link": "https://www.amazon.com.br/dp/B0DY2NSYX6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31DOs6Hg3aL._SL400_.jpg",
+      "preco": 105.33999999999999,
+      "precoDe": 319,
+      "desconto": 59,
+      "cupom": "BOMDIA25OFF ⁠",
+      "enviadoEm": "2026-11-11T13:34:01.768Z"
+    },
+    {
+      "id": "44846",
+      "loja": "Amazon",
+      "titulo": "Camiseta Regular New York Yankees MLB New Era, Marinho, P",
+      "link": "https://www.amazon.com.br/dp/B0H34V1XV3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+pylqtWQL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 79.9,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T13:32:44.105Z"
+    },
+    {
+      "id": "44683",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Térmico Stacking Black 2.0 473ml",
+      "link": "https://www.amazon.com.br/dp/B0GC94RH4S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315cfywfO2L._SL400_.jpg",
+      "preco": 84.5,
+      "precoDe": 159,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T13:31:27.595Z"
+    },
     {
       "id": "44851",
       "loja": "Mercado Livre",
@@ -3903,18 +3987,6 @@
       "enviadoEm": "2026-11-10T15:43:22.350Z"
     },
     {
-      "id": "43942",
-      "loja": "Amazon",
-      "titulo": "Stanley Copo Quencher Frost 887ml",
-      "link": "https://www.amazon.com.br/dp/B0DY2NSYX6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DOs6Hg3aL._SL400_.jpg",
-      "preco": 131.67,
-      "precoDe": 319,
-      "desconto": 59,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:39:00.740Z"
-    },
-    {
       "id": "43946",
       "loja": "Amazon",
       "titulo": "Escova de cabelo desembaraçadora The Mini Ultimate Detangler para todos os tipos de cabelo, ideal para o uso em fios úmidos. Cor: Preta",
@@ -4513,18 +4585,6 @@
       "desconto": null,
       "cupom": "PROMOPRACONSTRU",
       "enviadoEm": "2026-11-10T13:35:01.566Z"
-    },
-    {
-      "id": "43822",
-      "loja": "Amazon",
-      "titulo": "Energy Drink Red Bull, 250ml, 24 latas",
-      "link": "https://www.amazon.com.br/dp/B01G7F3UGC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5190uE4p4mL._SL400_.jpg",
-      "preco": 186.96,
-      "precoDe": 251.76,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T13:31:10.004Z"
     },
     {
       "id": "43821",
@@ -5941,66 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-09T19:50:45.597Z"
-    },
-    {
-      "id": "43515",
-      "loja": "Mercado Livre",
-      "titulo": "Bancada Multiuso Bm600 - Vonder",
-      "link": "https://meli.la/2xQsUcG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977719-MLB75936036450_042024-P.webp",
-      "preco": 202.07999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFPRACONSTRUIR",
-      "enviadoEm": "2026-11-09T19:46:16.376Z"
-    },
-    {
-      "id": "43504",
-      "loja": "Amazon",
-      "titulo": "Buffalo Trace Whisky Ame Sabor Na 750 Ml | Buffalo Trace Kentucky Straight Bourbon Whiskey, 750ml, 40% Vol, Premiado Blended Whiskey com Milho, Centeio e Cevada",
-      "link": "https://www.amazon.com.br/dp/B001P4SEXA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31eNsTT-m+L._SL400_.jpg",
-      "preco": 131.7,
-      "precoDe": 179.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T19:36:39.828Z"
-    },
-    {
-      "id": "43503",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "link": "https://s.shopee.com.br/qktpscM4X?sub_id1=22593481622",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
-      "preco": 139.9,
-      "precoDe": 170.61,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T19:35:21.028Z"
-    },
-    {
-      "id": "43500",
-      "loja": "Amazon",
-      "titulo": "Sabonete em Barra Pom Pom Loção Hidratante",
-      "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xsWPULo4L._SL400_.jpg",
-      "preco": 9.49,
-      "precoDe": 24.52,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T19:31:15.951Z"
-    },
-    {
-      "id": "43499",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml",
-      "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31e1MAYEMSL._SL400_.jpg",
-      "preco": 114.81,
-      "precoDe": 245,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T19:30:05.645Z"
     }
   ]
 }
