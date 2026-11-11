@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-11T19:11:23.443Z",
+  "atualizadoEm": "2026-11-11T19:41:23.444Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45342",
+      "loja": "Shopee",
+      "titulo": "Kit Pet Para Cachorro Caminha  Sanitário Comedouro Para Cães Pequeno",
+      "link": "https://s.shopee.com.br/906hIbYMj8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
+      "preco": 66.99,
+      "precoDe": 67.67,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:40:46.375Z"
+    },
+    {
+      "id": "45340",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Braé Stages Nutrition Shampoo,cond,másc + Essential 60ml",
+      "link": "https://meli.la/2f6WjKx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984607-MLA99442195502_112025-F.jpg",
+      "preco": 107.63,
+      "precoDe": 149.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:35:45.683Z"
+    },
+    {
+      "id": "45339",
+      "loja": "Amazon",
+      "titulo": "Licor 43 Chocolate 700ml",
+      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
+      "preco": 151.9,
+      "precoDe": 189.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:34:27.016Z"
+    },
+    {
+      "id": "45338",
+      "loja": "Shopee",
+      "titulo": "Máquina de Solda Inversora MMA 250A IGBT Portátil 110V ou 220V com Display Digital e Kit Completo",
+      "link": "https://s.shopee.com.br/4qH8KRrXSD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqo6x1rc17ggd2_tn",
+      "preco": 249,
+      "precoDe": 579.07,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:32:46.954Z"
+    },
+    {
+      "id": "45337",
+      "loja": "Amazon",
+      "titulo": "Philips Aparador e Barbeador Elétrico Série 9000 All-in-One 16 em 1 Premium | Versatilidade para cuidar do visual completo | Rosto, cabelo e corpo | 120 min sem fio | 100% À prova ",
+      "link": "https://www.amazon.com.br/dp/B0FRNCB6XX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WaGK61dTL._SL400_.jpg",
+      "preco": 548.94,
+      "precoDe": 799.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:29:25.339Z"
+    },
+    {
+      "id": "45335",
+      "loja": "Shopee",
+      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
+      "link": "https://s.shopee.com.br/1W0gLMXCyO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
+      "preco": 24.99,
+      "precoDe": 48.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:19:41.133Z"
+    },
+    {
+      "id": "45333",
+      "loja": "Mercado Livre",
+      "titulo": "Mini Parafusadeira Multifuncional Kit Go De Ferramentas Bits",
+      "link": "https://meli.la/2LQoVFC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990970-MLB92443904875_092025-P.webp",
+      "preco": 96.8,
+      "precoDe": 176.98,
+      "desconto": 32,
+      "cupom": "OFFSEMPRENOML",
+      "enviadoEm": "2026-11-11T19:12:19.896Z"
+    },
+    {
+      "id": "45332",
+      "loja": "Amazon",
+      "titulo": "LEGO Super Heroes Marvel Robô do Homem-Aranha 76308 (107 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DJ1B7RWD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/516JZVPCGxL._SL400_.jpg",
+      "preco": 86.99,
+      "precoDe": 139.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:11:41.994Z"
+    },
     {
       "id": "45331",
       "loja": "Mercado Livre",
@@ -2533,18 +2629,6 @@
       "desconto": 41,
       "cupom": "CORREPROMELI",
       "enviadoEm": "2026-11-11T12:04:32.550Z"
-    },
-    {
-      "id": "44627",
-      "loja": "Amazon",
-      "titulo": "Licor 43 Chocolate 700ml",
-      "link": "https://www.amazon.com.br/dp/B09HHDLM2T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313a7gwkFYL._SL400_.jpg",
-      "preco": 151.9,
-      "precoDe": 189.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:57:15.066Z"
     },
     {
       "id": "44626",
@@ -5917,90 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-10T15:07:07.546Z"
-    },
-    {
-      "id": "43921",
-      "loja": "Amazon",
-      "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
-      "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kCDw3B6+L._SL400_.jpg",
-      "preco": 299,
-      "precoDe": 612,
-      "desconto": 51,
-      "cupom": "BLACK70OFF",
-      "enviadoEm": "2026-11-10T15:05:53.584Z"
-    },
-    {
-      "id": "43920",
-      "loja": "Amazon",
-      "titulo": "Lixeira Mágica Antiodor 13 Litros Para Fraldas Bebe Lixo Anti Odor | Lixeira para Fraldas com Vedação 13 Litros - Lixeira Higiênica Anti-Odor para Quarto de Bebê e Troca de Fraldas",
-      "link": "https://www.amazon.com.br/dp/B0H56K2L78?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21ovYfjOmkL._SL400_.jpg",
-      "preco": 98.91,
-      "precoDe": 149.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:04:06.964Z"
-    },
-    {
-      "id": "43910",
-      "loja": "Amazon",
-      "titulo": "Whiskey Jameson Caskmates IPA, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07XQM4PH3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31y+GX1RnGL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 134.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:59:33.721Z"
-    },
-    {
-      "id": "43908",
-      "loja": "Shopee",
-      "titulo": "Creme para Pentear Cachos Ostentação 1kg",
-      "link": "https://s.shopee.com.br/6fikc28m7i",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-muxr1hl9yk9162_tn",
-      "preco": 37.5,
-      "precoDe": 42.13,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:58:22.510Z"
-    },
-    {
-      "id": "43907",
-      "loja": "Amazon",
-      "titulo": "Fisher Price - Aprender, brincar e desenhar",
-      "link": "https://www.amazon.com.br/dp/8538089196?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Kl7WNHVsL._SL400_.jpg",
-      "preco": 25.29,
-      "precoDe": 69.9,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:57:00.558Z"
-    },
-    {
-      "id": "43901",
-      "loja": "Amazon",
-      "titulo": "Pack Ração Úmida Whiskas Sachê Carne/Frango/Atum para Gatos Adultos - Leve 24 Pague 18",
-      "link": "https://www.amazon.com.br/dp/B0F96F3CXL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Cf-9-8E6L._SL400_.jpg",
-      "preco": 43.65,
-      "precoDe": 61.2,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:45:36.357Z"
-    },
-    {
-      "id": "43898",
-      "loja": "Amazon",
-      "titulo": "Smirnoff Vodka Nº 21 998ml",
-      "link": "https://www.amazon.com.br/dp/B07R1GV92N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kAcpmzjOL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 43.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:41:03.275Z"
     }
   ]
 }
