@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-10T23:07:32.584Z",
+  "atualizadoEm": "2026-11-11T10:32:18.408Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44511",
+      "loja": "Amazon",
+      "titulo": "Coala Sabonete Liquido Maos e Corpo Limpa Hidrata Perfuma 500ml Cha Branco",
+      "link": "https://www.amazon.com.br/dp/B0CNBX751L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31O0ug0x1ML._SL400_.jpg",
+      "preco": 12.14,
+      "precoDe": 17.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:30:36.454Z"
+    },
+    {
+      "id": "44509",
+      "loja": "Amazon",
+      "titulo": "Camiseta Flamengo Masculina, Vermelho/Preto, G",
+      "link": "https://www.amazon.com.br/dp/B0G6PJNF5K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VS7fhq5DL._SL400_.jpg",
+      "preco": 99.9,
+      "precoDe": 259.99,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:28:02.811Z"
+    },
+    {
+      "id": "44502",
+      "loja": "Mercado Livre",
+      "titulo": "28 Peças Jogo De Bits Magnéticos Com Extensão Soquetes Broca",
+      "link": "https://meli.la/1MNAoBQ",
+      "imagem": "https://http2.mlstatic.com/D_766078-MLB113345827284_072026-F.jpg",
+      "preco": 42.5,
+      "precoDe": 125,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:25:43.185Z"
+    },
+    {
+      "id": "44507",
+      "loja": "Amazon",
+      "titulo": "Daily T-shirt Feminino Preto G",
+      "link": "https://www.amazon.com.br/dp/B0BHML5N6T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BMJ12tYHL._SL400_.jpg",
+      "preco": 47.12,
+      "precoDe": 139,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:24:16.074Z"
+    },
+    {
+      "id": "44506",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51VX1CWzpGL._SL400_.jpg",
+      "preco": 148.48,
+      "precoDe": 229.49,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:22:06.872Z"
+    },
     {
       "id": "44425",
       "loja": "Mercado Livre",
@@ -5941,66 +6001,6 @@
       "desconto": 35,
       "cupom": "MELHORDOML",
       "enviadoEm": "2026-11-09T16:14:08.583Z"
-    },
-    {
-      "id": "43260",
-      "loja": "Amazon",
-      "titulo": "Huggies Rápida Absorção Fralda Descartável, Absorção Em Segundos M - 92 UN",
-      "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411jHSxBiiL._SL400_.jpg",
-      "preco": 83,
-      "precoDe": 109.03,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:12:38.782Z"
-    },
-    {
-      "id": "43259",
-      "loja": "Amazon",
-      "titulo": "ORAL-B Spider-Man Escova de Dente Elétrica para Crianças Macia",
-      "link": "https://www.amazon.com.br/dp/B0BCTC7FL7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41t6hqMO2IL._SL400_.jpg",
-      "preco": 189.97,
-      "precoDe": 312.84,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:12:11.466Z"
-    },
-    {
-      "id": "43254",
-      "loja": "Amazon",
-      "titulo": "Forminha de Picolé Buba Divertidas Livres de BPA Infantil Sortido",
-      "link": "https://www.amazon.com.br/dp/B0C6BZ9QTR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Mb3At5E2L._SL400_.jpg",
-      "preco": 25,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:11:13.118Z"
-    },
-    {
-      "id": "43232",
-      "loja": "Shopee",
-      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
-      "link": "https://s.shopee.com.br/1qdTJjEgNG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
-      "preco": 24.99,
-      "precoDe": 47.15,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:06:50.035Z"
-    },
-    {
-      "id": "43251",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Toalhas 100% Algodão Karsten 4 Peças Banho E Rosto",
-      "link": "https://meli.la/13ZdvXq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682594-MLA118246907445_092026-F.jpg",
-      "preco": 125.91000000000001,
-      "precoDe": 245.7,
-      "desconto": 43,
-      "cupom": "HOJEMESMO",
-      "enviadoEm": "2026-11-09T16:05:14.650Z"
     }
   ]
 }
