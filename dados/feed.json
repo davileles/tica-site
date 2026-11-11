@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-11T19:09:11.594Z",
+  "atualizadoEm": "2026-11-11T19:11:23.443Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45331",
+      "loja": "Mercado Livre",
+      "titulo": "Banheira De Bebê Dobrável 45l Com Redutor De Assento Pipdip - R$ 135,63",
+      "link": "https://meli.la/17ze3Xz",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787607-MLB112356649852_062026-P.webp",
+      "preco": 115.63,
+      "precoDe": 249.9,
+      "desconto": 46,
+      "cupom": "BELEZA1111",
+      "enviadoEm": "2026-11-11T19:11:20.143Z"
+    },
     {
       "id": "45310",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-10T14:41:03.275Z"
-    },
-    {
-      "id": "43897",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo Tapete de Banheiro Antiderrapante Absorvente 58x38cm Bolinha Macarrão Tecido Microfibra Macio Versátil",
-      "link": "https://s.shopee.com.br/5fqDOycsl6",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mut6mnlpyz9e00_tn",
-      "preco": 29.97,
-      "precoDe": 48.34,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T14:40:35.853Z"
     }
   ]
 }
