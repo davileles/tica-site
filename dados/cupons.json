@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T20:38:33.954Z",
+  "atualizadoEm": "2026-11-11T21:08:35.314Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -504,6 +504,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-11-12T19:03:22.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMINFLU220",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T21:03:55.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1332,6 +1344,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-12T16:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "1111TODOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 45,
+      "observacao": null,
+      "validadeAte": "2026-11-12T21:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2331,6 +2355,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-12T21:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -3252,6 +3288,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:09:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "BORACOMPRARAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 129,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T21:00:26.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
