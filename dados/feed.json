@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-11T15:09:15.483Z",
+  "atualizadoEm": "2026-11-11T15:12:22.395Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44984",
+      "loja": "Mercado Livre",
+      "titulo": "Pistola de Pintura HVLP Deko 600W LED 1,2L 3 Bicos",
+      "link": "https://meli.la/33tVYea",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680609-MLA100031211051_122025-F.jpg",
+      "preco": 278.44,
+      "precoDe": 435.07,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T15:11:52.397Z"
+    },
+    {
+      "id": "44980",
+      "loja": "Mercado Livre",
+      "titulo": "Conjunto Sala de Jantar 4 Lugares com Cadeiras Estofadas Mesa Com Tampo Retangular Semelhante Vidro Base V Mel Branco Off White",
+      "link": "https://meli.la/2k7ABCu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738947-MLA87770245934_072025-F.jpg",
+      "preco": 392.91,
+      "precoDe": 999.9,
+      "desconto": 58,
+      "cupom": "PARAVOCEDEZ",
+      "enviadoEm": "2026-11-11T15:10:13.537Z"
+    },
     {
       "id": "44976",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-11-09T21:41:25.098Z"
-    },
-    {
-      "id": "43584",
-      "loja": "Amazon",
-      "titulo": "Babysec Fralda Galinha Pintadinha Premium P 34 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B1GZ4M3Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+xnnp6mYL._SL400_.jpg",
-      "preco": 31.61,
-      "precoDe": 40.13,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T21:35:22.210Z"
-    },
-    {
-      "id": "43583",
-      "loja": "Amazon",
-      "titulo": "Ou Organizador de Talheres com Extensor Chumbo Linha Logic | Extensível",
-      "link": "https://www.amazon.com.br/dp/B07QKM93TD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31H+DFKBC-L._SL400_.jpg",
-      "preco": 30.63,
-      "precoDe": 76.49,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T21:34:59.073Z"
     }
   ]
 }
