@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T16:11:25.724Z",
+  "atualizadoEm": "2026-11-11T16:41:26.482Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2283,6 +2283,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOCOMTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-12T16:30:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SPORTS11DO11",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3108,6 +3120,18 @@
       "limite": null,
       "observacao": "Exclusivo para este produto",
       "validadeAte": "2026-11-12T15:00:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "50FFN4SH0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T16:13:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
