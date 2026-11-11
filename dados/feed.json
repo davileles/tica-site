@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-11T19:41:23.444Z",
+  "atualizadoEm": "2026-11-11T20:09:31.508Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45350",
+      "loja": "Amazon",
+      "titulo": "Ou Dispenser 2,3L Branco Linha Flow",
+      "link": "https://www.amazon.com.br/dp/B0CXFFHBRG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21-2cXQIi6L._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 54.9,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T20:02:09.237Z"
+    },
+    {
+      "id": "45348",
+      "loja": "Shopee",
+      "titulo": "Kit 3x Vinho Português Branco DOC Vinho Verde Casal Garcia 750ml",
+      "link": "https://s.shopee.com.br/9AQ7W2Vqz2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mseyvqjvuv4478_tn",
+      "preco": 98.91000000000001,
+      "precoDe": 224.29,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:57:18.288Z"
+    },
+    {
+      "id": "45346",
+      "loja": "Amazon",
+      "titulo": "Gillette Mach3, Carga para Aparelho de Barbear com 3 Lâminas 8 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07BKBTMLY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51eRKn34HQL._SL400_.jpg",
+      "preco": 38.05,
+      "precoDe": 68.77,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:54:41.657Z"
+    },
+    {
+      "id": "45345",
+      "loja": "Shopee",
+      "titulo": "Soprador Térmico Vonder STV150 110V ou 220V Com 4 Bicos",
+      "link": "https://s.shopee.com.br/2VtDZYRcan",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmm-lo713tw4bu3j66_tn",
+      "preco": 138.81,
+      "precoDe": 159.55,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T19:53:04.291Z"
+    },
     {
       "id": "45342",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-10T15:22:27.113Z"
-    },
-    {
-      "id": "43930",
-      "loja": "Shopee",
-      "titulo": "Porta Maternidade Ursinho Lua Personalizado Nome Bebê MDF Feltro Decoração Quarto Infantil",
-      "link": "https://s.shopee.com.br/3LSIfSeE5m",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwo-mms0p6sxrncy1f_tn",
-      "preco": 94.05,
-      "precoDe": 99,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:21:13.879Z"
-    },
-    {
-      "id": "43926",
-      "loja": "Shopee",
-      "titulo": "Kit Mesa Infantil com 2 Cadeiras Borboleta em Palha Indiana | Mesinha Montessori em MDF",
-      "link": "https://s.shopee.com.br/Loh5eRmB0",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mocvcv7gakue7b_tn",
-      "preco": 298.15999999999997,
-      "precoDe": 458,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:19:58.992Z"
-    },
-    {
-      "id": "43923",
-      "loja": "Shopee",
-      "titulo": "Carrinho Bebê Conforto Napoli Travel System Cobre Galzerano",
-      "link": "https://s.shopee.com.br/3VlirHC737",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reqh-m8yxxay1vwsg37_tn",
-      "preco": 1079.99,
-      "precoDe": 1746.25,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:15:16.937Z"
-    },
-    {
-      "id": "43912",
-      "loja": "Shopee",
-      "titulo": "Kit Organizador de Armário Aramado Cozinha Prateleira Estante",
-      "link": "https://s.shopee.com.br/3LSIe8BkmF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me4e5qztdber8f_tn",
-      "preco": 54.32,
-      "precoDe": 72.43,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T15:07:07.546Z"
     }
   ]
 }
