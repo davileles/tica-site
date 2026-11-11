@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T23:37:33.254Z",
+  "atualizadoEm": "2026-11-11T00:07:33.435Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -384,6 +384,18 @@
       "limite": null,
       "observacao": "Válido pagando com cartão MP Visa em produtos selecionados",
       "validadeAte": "2026-11-11T18:00:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": 250,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
