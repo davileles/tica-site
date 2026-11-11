@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-11T22:52:44.328Z",
+  "atualizadoEm": "2026-11-11T23:08:31.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45539",
+      "loja": "Shopee",
+      "titulo": "Tupia Laminadora Manual 6,35mm 600w com 110V e 200V",
+      "link": "https://s.shopee.com.br/30pUNKGDmQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdamkglhch6p09_tn",
+      "preco": 109.98,
+      "precoDe": 297.24,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T23:02:30.991Z"
+    },
+    {
+      "id": "45535",
+      "loja": "Shopee",
+      "titulo": "Potes de Vidro redondo 200/300/550/1200/1500/1700/2000ml Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
+      "link": "https://s.shopee.com.br/1BsnlFiti",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
+      "preco": 12.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T23:00:36.135Z"
+    },
     {
       "id": "45533",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 33,
       "cupom": "TODO1011SITE",
       "enviadoEm": "2026-11-10T17:01:45.271Z"
-    },
-    {
-      "id": "44066",
-      "loja": "Mercado Livre",
-      "titulo": "Purificador De Água Efficient Electrolux Cor Preto",
-      "link": "https://meli.la/1uNz2FW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738129-MLA116752291813_082026-F.jpg",
-      "preco": 381.23,
-      "precoDe": 499.9,
-      "desconto": 7,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T17:00:33.431Z"
-    },
-    {
-      "id": "44064",
-      "loja": "Amazon",
-      "titulo": "Licor Seco Ballantine's 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DZDVTJVZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yeX2k3zzL._SL400_.jpg",
-      "preco": 59.9,
-      "precoDe": 84.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T16:59:19.679Z"
     }
   ]
 }
