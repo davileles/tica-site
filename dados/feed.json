@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-11T10:48:25.442Z",
+  "atualizadoEm": "2026-11-11T11:01:18.407Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "44532",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut, 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
+      "preco": 60,
+      "precoDe": 136.9,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T11:00:28.646Z"
+    },
+    {
+      "id": "44530",
+      "loja": "Amazon",
+      "titulo": "Eudora Siàge Promopack Liso Intenso Shampoo 250ml + Condicionador 125ml",
+      "link": "https://www.amazon.com.br/dp/B0CBDGMHPD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/416GedULiWL._SL400_.jpg",
+      "preco": 38.9,
+      "precoDe": 89.99,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:59:47.514Z"
+    },
+    {
+      "id": "44527",
+      "loja": "Amazon",
+      "titulo": "LG Ar Condicionado Split LG Dual Inverter AI Voice 9000 BTU/h Frio S3-Q09AA31F - 220 Volts",
+      "link": "https://www.amazon.com.br/dp/B0GQJP852H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jnFIH+rCL._SL400_.jpg",
+      "preco": 2054.44,
+      "precoDe": 2205,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:55:03.113Z"
+    },
+    {
+      "id": "44524",
+      "loja": "Amazon",
+      "titulo": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/dp/B0HBYBB54N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41E2lrUXwYL._SL400_.jpg",
+      "preco": 3199,
+      "precoDe": 4499,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:50:46.660Z"
+    },
+    {
+      "id": "44521",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51KK+Ampn6L._SL400_.jpg",
+      "preco": 158.69,
+      "precoDe": 235.87,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:49:26.796Z"
+    },
+    {
+      "id": "44519",
+      "loja": "Amazon",
+      "titulo": "SUGGAR COIFA ILHA REDONDA QUARTZO 35 CM PRETA 220V TP3522PT",
+      "link": "https://www.amazon.com.br/dp/B0DWN9JW3Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311+RHo2GAL._SL400_.jpg",
+      "preco": 2701.13,
+      "precoDe": 3999,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-11T10:49:05.432Z"
+    },
     {
       "id": "44517",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-11-09T16:28:45.574Z"
-    },
-    {
-      "id": "43273",
-      "loja": "Mercado Livre",
-      "titulo": "Liquidificador Portátil OBLD700-220 Power Blender 2 Jarras Oster",
-      "link": "https://meli.la/2tyUZ8j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841300-MLA109896865252_042026-F.jpg",
-      "preco": 111.10999999999999,
-      "precoDe": 229,
-      "desconto": 39,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:26:30.268Z"
-    },
-    {
-      "id": "43272",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Galaxy Buds Core branco",
-      "link": "https://meli.la/1EmJfCZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg",
-      "preco": 173.65,
-      "precoDe": 299.9,
-      "desconto": 28,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:25:14.870Z"
-    },
-    {
-      "id": "43270",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Air Fryer Dako 5 Litros Preto/inox Com Painel Analógico E Potência De 1700w",
-      "link": "https://meli.la/2nBW6Ev",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772794-MLA100038572573_122025-F.jpg",
-      "preco": 159.92000000000002,
-      "precoDe": 499,
-      "desconto": 60,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:22:33.387Z"
-    },
-    {
-      "id": "43269",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Multicolorido",
-      "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wIZ687WKL._SL400_.jpg",
-      "preco": 27,
-      "precoDe": 47.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:21:17.580Z"
-    },
-    {
-      "id": "43268",
-      "loja": "Shopee",
-      "titulo": "Kit Bebê 3 Peças de 0 a 12 Meses Body Romper e Shorts Combinando",
-      "link": "https://s.shopee.com.br/1BNmYcLqLs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-muwwznnrxukj4b_tn",
-      "preco": 53.9,
-      "precoDe": 98,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-09T16:20:53.096Z"
-    },
-    {
-      "id": "43267",
-      "loja": "Mercado Livre",
-      "titulo": "Colônia Quasar Blue 100ml (2 Itens)",
-      "link": "https://meli.la/1rbmc2t",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_644714-MLA105614595729_012026-F.jpg",
-      "preco": 119.84,
-      "precoDe": 379.8,
-      "desconto": 61,
-      "cupom": "MELHORDOML",
-      "enviadoEm": "2026-11-09T16:19:37.194Z"
     }
   ]
 }
