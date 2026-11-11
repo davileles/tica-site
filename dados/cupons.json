@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T11:31:20.419Z",
+  "atualizadoEm": "2026-11-11T12:01:20.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,6 +12,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T03:00:02.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CURTE11DO11",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-12T12:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -36,6 +48,18 @@
       "limite": 50,
       "observacao": "Válido para produtos vendidos e entregues pela Amazon. Desconto limitado a R$ 50.",
       "validadeAte": "2026-11-12T03:00:01.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BOMDIA25",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-12T12:00:02.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
