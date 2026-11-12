@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T14:43:35.360Z",
+  "atualizadoEm": "2026-11-12T15:10:14.386Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1959,18 +1959,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ITENSPARACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T15:00:32.522Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELHORDOMELIHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2112,6 +2100,18 @@
       "limite": 145,
       "observacao": "Cupons em selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-13T12:51:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS1211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em itens selecionados conforme lista",
+      "validadeAte": "2026-11-13T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2991,18 +2991,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "K1TL0R3AL100FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo para este produto",
-      "validadeAte": "2026-11-12T15:00:24.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "PR3C0B0MDOAF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3084,6 +3072,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T14:02:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ZRENUN5Z3J",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-13T15:00:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "K1TOL3O3LSEV310OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-13T15:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
