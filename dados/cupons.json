@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T19:11:43.053Z",
+  "atualizadoEm": "2026-11-12T19:54:13.420Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,18 +13,6 @@
       "observacao": "Cupom válido apenas no aplicativo AliExpress",
       "validadeAte": "2026-11-13T13:25:02.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "1REAL",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 1,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido para primeira compra",
-      "validadeAte": "2026-11-12T19:39:43.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "MEGABLASTBF",
@@ -1707,6 +1695,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MIMOTOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupom válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T19:51:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2808,18 +2808,6 @@
       "limite": null,
       "observacao": "Válido apenas em vendedores nacionais",
       "validadeAte": "2026-11-13T18:26:21.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "C454LG4RC14100FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-12T19:34:42.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
