@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-12T14:43:33.537Z",
+  "atualizadoEm": "2026-11-12T15:10:12.333Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45819",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
+      "link": "https://s.shopee.com.br/6AmXCvF9Hz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
+      "preco": 23.07,
+      "precoDe": 50.15,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T15:00:12.330Z"
+    },
+    {
+      "id": "45820",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
+      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
+      "preco": 20.6,
+      "precoDe": 39.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T14:58:42.341Z"
+    },
+    {
+      "id": "45818",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Descartável Pampers Supersequinha, Tamanho M 90 Unidades",
+      "link": "https://meli.la/1jWiCm4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990014-MLA112850702458_072026-F.jpg",
+      "preco": 70.17999999999999,
+      "precoDe": 115.9,
+      "desconto": 19,
+      "cupom": "QUEIMADEESTOQUE ou QUEIMA1211",
+      "enviadoEm": "2026-11-12T14:58:06.464Z"
+    },
+    {
+      "id": "45817",
+      "loja": "Amazon",
+      "titulo": "Sabonete em Barra Pom Pom Loção Hidratante",
+      "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xsWPULo4L._SL400_.jpg",
+      "preco": 9.99,
+      "precoDe": 24.52,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T14:57:41.547Z"
+    },
     {
       "id": "45813",
       "loja": "Shopee",
@@ -925,18 +973,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:02:56.440Z"
-    },
-    {
-      "id": "45580",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
-      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
-      "preco": 20.6,
-      "precoDe": 39.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:02:23.506Z"
     },
     {
       "id": "45579",
@@ -5965,42 +6001,6 @@
       "desconto": 28,
       "cupom": "250MELIMAIS",
       "enviadoEm": "2026-11-10T20:19:16.350Z"
-    },
-    {
-      "id": "44290",
-      "loja": "Amazon",
-      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
-      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
-      "preco": 30.9,
-      "precoDe": 38.34,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:17:54.210Z"
-    },
-    {
-      "id": "44292",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "link": "https://www.amazon.com.br/dp/B0DHL63KWK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21DTaVUtbUL._SL400_.jpg",
-      "preco": 219,
-      "precoDe": 466.66,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:17:20.104Z"
-    },
-    {
-      "id": "44291",
-      "loja": "Amazon",
-      "titulo": "Whisky Dewars 12 anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B07GF2Q1VZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41h49JcTfWL._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 139.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:16:00.794Z"
     }
   ]
 }
