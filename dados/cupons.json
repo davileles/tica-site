@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T18:54:14.051Z",
+  "atualizadoEm": "2026-11-12T19:11:43.053Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -267,15 +267,15 @@
       "url": null
     },
     {
-      "codigo": "FARMABF",
+      "codigo": "BFSALVOU",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 20,
+      "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em Farmácias pelo iFood",
-      "validadeAte": "2026-11-12T19:01:14.000Z",
+      "observacao": "Desconto válido para Farmácias no iFood",
+      "validadeAte": "2026-11-13T19:00:13.000Z",
       "url": null
     },
     {
@@ -384,18 +384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "QUERO11DO11",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 2500,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido no app Magalu",
-      "validadeAte": "2026-11-12T19:03:22.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2772,18 +2760,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T00:00:16.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "N4OP4R4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T19:00:17.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
