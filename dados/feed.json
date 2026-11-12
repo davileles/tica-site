@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-11T23:08:31.979Z",
+  "atualizadoEm": "2026-11-12T10:36:31.817Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45571",
+      "loja": "Mercado Livre",
+      "titulo": "Top Lupo Loba Fitness Confortável Ótima Sustentação Academia - R$ 41,90",
+      "link": "https://meli.la/1pi3yn5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690710-MLB118739205774_102026-P.webp",
+      "preco": 41.9,
+      "precoDe": 78.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T10:26:31.814Z"
+    },
     {
       "id": "45539",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 65,
       "cupom": "OFFAGORA",
       "enviadoEm": "2026-11-10T17:03:08.037Z"
-    },
-    {
-      "id": "44073",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
-      "link": "https://meli.la/2yWePN5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676464-MLA99989458879_112025-F.jpg",
-      "preco": 1448,
-      "precoDe": 2299,
-      "desconto": 33,
-      "cupom": "TODO1011SITE",
-      "enviadoEm": "2026-11-10T17:01:45.271Z"
     }
   ]
 }
