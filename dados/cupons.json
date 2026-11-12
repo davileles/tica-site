@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T15:13:36.008Z",
+  "atualizadoEm": "2026-11-12T16:13:35.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,18 +363,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MEGA11DO11",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": 5000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido no app Magalu",
-      "validadeAte": "2026-11-12T16:06:02.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CUPOMINFLU330",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -517,6 +505,18 @@
       "observacao": "Válido para itens de mercado no app Magalu",
       "validadeAte": "2026-11-12T17:33:27.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TECHSEMPRE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 400,
+      "minimo": 2699,
+      "maximo": null,
+      "limite": 400,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "ACELERAMOTO",
@@ -1092,18 +1092,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITAAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-12T16:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2019,6 +2007,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-14T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2859,18 +2859,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "60DESCONTOAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T16:01:41.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "T41RN0V11",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3084,18 +3072,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-13T15:00:15.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "50FFN4SH0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T16:13:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
