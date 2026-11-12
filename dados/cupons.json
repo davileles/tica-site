@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T20:18:54.196Z",
+  "atualizadoEm": "2026-11-12T21:17:54.918Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "VAMOS11",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 580,
+      "minimo": 3700,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "VIVAAE03",
       "loja": "AliExpress",
@@ -12,6 +24,66 @@
       "limite": null,
       "observacao": "Cupom válido apenas no aplicativo AliExpress",
       "validadeAte": "2026-11-13T13:25:02.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "VAMOS05",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 410,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "VIVAAE02",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 55,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "VIVAAE01",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "VAMOS02",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 32,
+      "minimo": 180,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "VAMOS01",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 80,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
+      "validadeAte": "2026-11-13T21:11:52.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
@@ -372,18 +444,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMINFLU220",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T21:03:55.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2700,18 +2760,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T22:19:14.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "BORACOMPRARAF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 129,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T21:00:26.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
