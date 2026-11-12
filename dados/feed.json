@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T23:05:43.792Z",
+  "atualizadoEm": "2026-11-12T23:47:53.000Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46104",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Adizero Drive Rc Adidas",
+      "link": "https://meli.la/2HF3EVw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828819-MLA99336791352_112025-P.webp",
+      "preco": 716.99,
+      "precoDe": 899.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T23:41:53.960Z"
+    },
     {
       "id": "46103",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:14:49.256Z"
-    },
-    {
-      "id": "44555",
-      "loja": "Amazon",
-      "titulo": "Mondial Ventilador de Mesa Super Power VSP-30-B 30cm, 6 Pás, Preto, 110V",
-      "link": "https://www.amazon.com.br/dp/B09B16LRD1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ye1x-V5iL._SL400_.jpg",
-      "preco": 75.05,
-      "precoDe": 139.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:12:54.810Z"
     }
   ]
 }
