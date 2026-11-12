@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T22:17:52.979Z",
+  "atualizadoEm": "2026-11-12T22:29:54.765Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46100",
+      "loja": "Amazon",
+      "titulo": "LEGO Technic Carro de Corrida 1966 Ford GT40 MKII para Adultos 42223",
+      "link": "https://www.amazon.com.br/dp/B0FMS7HMNN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51iRz7loV-L._SL400_.jpg",
+      "preco": 324.82,
+      "precoDe": 599.99,
+      "desconto": 32,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-12T22:19:54.762Z"
+    },
     {
       "id": "46099",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:08:22.089Z"
-    },
-    {
-      "id": "44548",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
-      "preco": 22.7,
-      "precoDe": 29.24,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:06:32.319Z"
     }
   ]
 }
