@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-12T15:23:41.813Z",
+  "atualizadoEm": "2026-11-12T15:43:33.537Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45850",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Sb Force 58 Masculino",
+      "link": "https://meli.la/1A51UWa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930878-MLB99367495130_112025-O-tnis-nike-sb-force-58-masculino.webp",
+      "preco": 275.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOJASOFICIAIS1211",
+      "enviadoEm": "2026-11-12T15:42:42.812Z"
+    },
+    {
+      "id": "45849",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Lençóis Descartáveis de Papel Hospitalar para Maca 50x50 cm cada rolo",
+      "link": "https://s.shopee.com.br/4VeJGmRuy8",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82620-mky7ry9imkn5d7_tn",
+      "preco": 89.89,
+      "precoDe": 140.45,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T15:41:29.271Z"
+    },
+    {
+      "id": "45847",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 3 Camisetas Polo Wear",
+      "link": "https://meli.la/2ua3qdF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875795-MLB120297125317_102026-P.webp",
+      "preco": 84.99,
+      "precoDe": 179.99,
+      "desconto": 44,
+      "cupom": "LOJASOFICIAIS1211",
+      "enviadoEm": "2026-11-12T15:40:15.518Z"
+    },
+    {
+      "id": "45846",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+      "link": "https://meli.la/2DcuUX3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696772-MLB119102221220_112026-O-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
+      "preco": 76.49,
+      "precoDe": 229.99,
+      "desconto": 61,
+      "cupom": "LOJASOFICIAIS1211",
+      "enviadoEm": "2026-11-12T15:38:59.489Z"
+    },
+    {
+      "id": "45841",
+      "loja": "Mercado Livre",
+      "titulo": "Medicube Zero Pore Pad 2.0 - 70 Unidades",
+      "link": "https://meli.la/2tJwFZC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957010-MLA110921815717_042026-F.jpg",
+      "preco": 99.52,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
+      "enviadoEm": "2026-11-12T15:32:05.974Z"
+    },
+    {
+      "id": "45840",
+      "loja": "Mercado Livre",
+      "titulo": "3 Body Splash Good Graces Delight Roses Barbour's Beauty",
+      "link": "https://meli.la/2Mtgkck",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919324-MLA114058044083_072026-F.jpg",
+      "preco": 71.91000000000001,
+      "precoDe": 184.9,
+      "desconto": 57,
+      "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
+      "enviadoEm": "2026-11-12T15:30:37.631Z"
+    },
+    {
+      "id": "45839",
+      "loja": "Mercado Livre",
+      "titulo": "Principia Kit Protetor Cor 3.0 + Limpeza + Hidrata",
+      "link": "https://meli.la/1yLUefC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728258-MLA106795454020_022026-F.jpg",
+      "preco": 61.2,
+      "precoDe": 142,
+      "desconto": 52,
+      "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
+      "enviadoEm": "2026-11-12T15:29:20.253Z"
+    },
     {
       "id": "45831",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-10T20:38:13.527Z"
-    },
-    {
-      "id": "44305",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/80E8Zedw3y",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 175,
-      "precoDe": 277.78,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:36:42.821Z"
-    },
-    {
-      "id": "44304",
-      "loja": "Amazon",
-      "titulo": "KIKO MILANO, Full Coverage 2-in-1 Foundation & Concealer, Base e Corretivo 2 em 1, Cor N125 Neutral",
-      "link": "https://www.amazon.com.br/dp/B09YLZSTTV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21X6WmkP5TL._SL400_.jpg",
-      "preco": 59.82,
-      "precoDe": 149.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:35:17.774Z"
-    },
-    {
-      "id": "44303",
-      "loja": "Shopee",
-      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
-      "link": "https://s.shopee.com.br/2BGLclQExu",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
-      "preco": 24.88,
-      "precoDe": 29.98,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:33:17.187Z"
-    },
-    {
-      "id": "44301",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Climatizador Flash Air, Branco/Preto, 80W, 110V - CL-03",
-      "link": "https://www.amazon.com.br/dp/B07XQR2WNZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TqUI5MqiL._SL400_.jpg",
-      "preco": 279.9,
-      "precoDe": 599.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:27:07.744Z"
-    },
-    {
-      "id": "44300",
-      "loja": "Amazon",
-      "titulo": "Toyng Chaveiro Bolsinha Barbie, Modelo Sortido, Acessório Infantil para Mochila, Bolsa e Passeios",
-      "link": "https://www.amazon.com.br/dp/B0DSQ4TMCS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Es6v6sgWL._SL400_.jpg",
-      "preco": 15.31,
-      "precoDe": 39.9,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:25:49.072Z"
-    },
-    {
-      "id": "44299",
-      "loja": "Amazon",
-      "titulo": "Samsung Vision AI TV 55\" Neo QLED 4K QN70H 26/2027, Mini LED",
-      "link": "https://www.amazon.com.br/dp/B0H7YX7WQJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FJ32yGMML._SL400_.jpg",
-      "preco": 3699,
-      "precoDe": 4259,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:24:32.573Z"
-    },
-    {
-      "id": "44297",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 18 Pro de 256 GB — Preto",
-      "link": "https://www.amazon.com.br/dp/B0HJB6Q8HN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bBG1jPYnL._SL400_.jpg",
-      "preco": 8700.62,
-      "precoDe": 11999,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:23:09.668Z"
     }
   ]
 }
