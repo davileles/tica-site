@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T10:13:33.886Z",
+  "atualizadoEm": "2026-11-12T11:13:35.773Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,18 +603,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CUPOMINFLU15",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T11:06:16.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CUPOMINFLU11",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -625,18 +613,6 @@
       "observacao": null,
       "validadeAte": "2026-11-12T14:35:01.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CORREAGORAML",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T11:00:26.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "ACELERAMOTO",
@@ -1767,6 +1743,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "COMPRAAGORA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1906,7 +1894,7 @@
       "minimo": 119,
       "maximo": null,
       "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-13T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2151,18 +2139,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MANTECORP15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 5,
-      "maximo": null,
-      "limite": 145,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-13T01:07:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOCOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2208,6 +2184,18 @@
       "limite": 70,
       "observacao": "Cupom válido em selecionados. Desconto de 10% com mínimo de R$79 e limite máximo de R$70 de desconto.",
       "validadeAte": "2026-11-12T18:46:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": null,
+      "validadeAte": "2026-11-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2880,18 +2868,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T16:01:41.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "3U4M0C0MPR4R",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T11:01:20.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
