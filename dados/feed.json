@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-12T21:17:52.974Z",
+  "atualizadoEm": "2026-11-12T21:47:52.976Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46092",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Brut 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTRQ14Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31JyKsVADDL._SL400_.jpg",
+      "preco": 44.41,
+      "precoDe": 76.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:40:11.956Z"
+    },
+    {
+      "id": "46091",
+      "loja": "Mercado Livre",
+      "titulo": "Modelador de Cabelo, Shark, FlexStyle, Seca e Modela, Ajuste de Temperatura Automático, 4 Acessórios, Lisos e Ondulados",
+      "link": "https://meli.la/2cmxE3Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844891-MLA111412506486_052026-F.jpg",
+      "preco": 1379.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BEAUTY5",
+      "enviadoEm": "2026-11-12T21:39:34.992Z"
+    },
+    {
+      "id": "46089",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's American Barrel Blended Escocês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B08VHRNJ3M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BFGvu+6hL._SL400_.jpg",
+      "preco": 89.93,
+      "precoDe": 119.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:37:59.843Z"
+    },
+    {
+      "id": "46088",
+      "loja": "Amazon",
+      "titulo": "Vodka Grey Goose Original 750ml",
+      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
+      "preco": 115.13,
+      "precoDe": 174.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:34:05.694Z"
+    },
+    {
+      "id": "46087",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S 750Ml",
+      "link": "https://www.amazon.com.br/dp/B07WTHV6Y4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MqbmFZIwL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 78.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:31:59.586Z"
+    },
+    {
+      "id": "46086",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 750ml",
+      "link": "https://www.amazon.com.br/dp/B006I1M8ZU?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31mKO5ZVn0L._SL400_.jpg",
+      "preco": 73.97,
+      "precoDe": 142.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:30:09.168Z"
+    },
+    {
+      "id": "46085",
+      "loja": "Amazon",
+      "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CMXW6ZYB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41A3ELm8gAL._SL400_.jpg",
+      "preco": 54.6,
+      "precoDe": 67.08,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:29:10.906Z"
+    },
+    {
+      "id": "46081",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Bolinha Macarrão Dedinho Antiderrapante Várias Cores",
+      "link": "https://s.shopee.com.br/2qW5fBrKuD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckrhbrs1nup9b_tn",
+      "preco": 13.89,
+      "precoDe": 30.87,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:25:17.699Z"
+    },
+    {
+      "id": "46082",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, Cinza/Amarelo, 1400W, 220V - LAP-01-GY",
+      "link": "https://www.amazon.com.br/dp/B0D8RLRMPM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41bpMQJjifL._SL400_.jpg",
+      "preco": 249.9,
+      "precoDe": 579.9,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:24:01.056Z"
+    },
+    {
+      "id": "46080",
+      "loja": "Amazon",
+      "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 1l",
+      "link": "https://www.amazon.com.br/dp/B0D63J2X32?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xWZF34qoL._SL400_.jpg",
+      "preco": 71.92,
+      "precoDe": 155.9,
+      "desconto": 42,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-12T21:22:41.825Z"
+    },
     {
       "id": "46076",
       "loja": "Amazon",
@@ -4443,18 +4563,6 @@
       "enviadoEm": "2026-11-11T14:37:57.337Z"
     },
     {
-      "id": "44939",
-      "loja": "Amazon",
-      "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CMXW6ZYB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41A3ELm8gAL._SL400_.jpg",
-      "preco": 54.6,
-      "precoDe": 67.08,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T14:35:55.235Z"
-    },
-    {
       "id": "44937",
       "loja": "Shopee",
       "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
@@ -5893,114 +6001,6 @@
       "desconto": 79,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:04:24.007Z"
-    },
-    {
-      "id": "44531",
-      "loja": "Shopee",
-      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
-      "link": "https://s.shopee.com.br/5q9ex6kOiA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
-      "preco": 11.99,
-      "precoDe": 27.88,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:01:42.386Z"
-    },
-    {
-      "id": "44530",
-      "loja": "Amazon",
-      "titulo": "Eudora Siàge Promopack Liso Intenso Shampoo 250ml + Condicionador 125ml",
-      "link": "https://www.amazon.com.br/dp/B0CBDGMHPD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416GedULiWL._SL400_.jpg",
-      "preco": 38.9,
-      "precoDe": 89.99,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:59:47.514Z"
-    },
-    {
-      "id": "44527",
-      "loja": "Amazon",
-      "titulo": "LG Ar Condicionado Split LG Dual Inverter AI Voice 9000 BTU/h Frio S3-Q09AA31F - 220 Volts",
-      "link": "https://www.amazon.com.br/dp/B0GQJP852H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jnFIH+rCL._SL400_.jpg",
-      "preco": 2054.44,
-      "precoDe": 2205,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:55:03.113Z"
-    },
-    {
-      "id": "44524",
-      "loja": "Amazon",
-      "titulo": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
-      "link": "https://www.amazon.com.br/dp/B0HBYBB54N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41E2lrUXwYL._SL400_.jpg",
-      "preco": 3199,
-      "precoDe": 4499,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:50:46.660Z"
-    },
-    {
-      "id": "44519",
-      "loja": "Amazon",
-      "titulo": "SUGGAR COIFA ILHA REDONDA QUARTZO 35 CM PRETA 220V TP3522PT",
-      "link": "https://www.amazon.com.br/dp/B0DWN9JW3Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311+RHo2GAL._SL400_.jpg",
-      "preco": 2701.13,
-      "precoDe": 3999,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:49:05.432Z"
-    },
-    {
-      "id": "44517",
-      "loja": "Amazon",
-      "titulo": "Pomada Bepantol Baby com Pró-Vitamina B5, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-      "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lVmXe4CVL._SL400_.jpg",
-      "preco": 39.3,
-      "precoDe": 59.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:38:25.439Z"
-    },
-    {
-      "id": "44516",
-      "loja": "Amazon",
-      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
-      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
-      "preco": 39.88,
-      "precoDe": 73.75,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:37:55.427Z"
-    },
-    {
-      "id": "44514",
-      "loja": "Amazon",
-      "titulo": "Samsung Ar-condicionado Split Digital Inverter Ultra Connect AI 12.000 BTUs Frio AR12DYFZAWKNAZ",
-      "link": "https://www.amazon.com.br/dp/B0DKVCTTFN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ST0NeDnSL._SL400_.jpg",
-      "preco": 2104.21,
-      "precoDe": 3939,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:34:51.099Z"
-    },
-    {
-      "id": "44513",
-      "loja": "Amazon",
-      "titulo": "Shorts Esportivo Serotonin Insider Feminina, Mist Green, Tamanho GG",
-      "link": "https://www.amazon.com.br/dp/B0G8M669K2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310pE-5TZtL._SL400_.jpg",
-      "preco": 83.98,
-      "precoDe": 229,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:32:58.331Z"
     }
   ]
 }
