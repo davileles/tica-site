@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T12:13:35.227Z",
+  "atualizadoEm": "2026-11-12T12:43:35.182Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2103,18 +2103,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BFCETAPHIL26",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-12T12:42:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "APROVEITA15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3000,18 +2988,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T20:17:08.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "NOVM0DA15OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Vendedores nacionais",
-      "validadeAte": "2026-11-12T12:17:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
