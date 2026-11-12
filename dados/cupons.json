@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T17:43:35.459Z",
+  "atualizadoEm": "2026-11-12T18:24:13.498Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -255,15 +255,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BFDUPLA",
+      "codigo": "ATACADOBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em Mercado no iFood",
-      "validadeAte": "2026-11-12T18:00:13.000Z",
+      "observacao": "Válido em Mercados",
+      "validadeAte": "2026-11-13T18:00:13.000Z",
       "url": null
     },
     {
@@ -363,18 +363,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "MAGA300",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 3200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T18:20:51.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "LIVETT300",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -411,30 +399,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "MAGA200",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T18:20:51.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PORTATEIS11DO11",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T18:04:50.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "ELETRO11DO11",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -456,18 +420,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T22:00:56.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "MAGA100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T18:20:51.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1911,6 +1863,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ITENSPARACASA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-23T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MELHORDOMELIHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2079,6 +2043,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "15MUSICA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T18:12:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DATADUPLACAPACETES",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2161,18 +2137,6 @@
       "observacao": "Cupons em selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-13T12:51:59.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "H3R1NGT0P100FF",
-      "loja": "não especificada",
-      "tipo": "pct",
-      "valor": 100,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código de desconto de 100% OFF. Loja não identificada na mensagem.",
-      "validadeAte": "2026-11-12T17:58:44.000Z",
-      "url": null
     },
     {
       "codigo": "GANHE50",
@@ -2775,18 +2739,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "C4RR1NH0CH310",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 70,
-      "minimo": 350,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T18:14:47.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "T41RN0V11",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2880,18 +2832,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T22:01:00.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "H3R1NGT0P100FF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 10,00 de desconto em produtos selecionados com compra mínima de R$ 40,00",
-      "validadeAte": "2026-11-12T17:58:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
