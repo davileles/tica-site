@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-12T11:43:33.535Z",
+  "atualizadoEm": "2026-11-12T12:02:14.981Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45619",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51CFT5T9dTL._SL400_.jpg",
+      "preco": 85.24,
+      "precoDe": 118.91,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:52:14.978Z"
+    },
+    {
+      "id": "45615",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 49.88,
+      "precoDe": 71.39,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:51:03.505Z"
+    },
+    {
+      "id": "45614",
+      "loja": "Amazon",
+      "titulo": "MINI GRILL OSTER 2 em 1, 1000W, 110V, OGRL230",
+      "link": "https://www.amazon.com.br/dp/B0BSP1XKYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31GHlHxl7sL._SL400_.jpg",
+      "preco": 99.89,
+      "precoDe": 148.1,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:49:30.403Z"
+    },
+    {
+      "id": "45612",
+      "loja": "Amazon",
+      "titulo": "Whisky Old Parr 12 anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00E0EUP66?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41eOvfEQPhL._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 126.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:47:21.712Z"
+    },
+    {
+      "id": "45611",
+      "loja": "Shopee",
+      "titulo": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
+      "link": "https://s.shopee.com.br/3Vllop89Wq",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-yg4ftmeqs8iv0a_tn",
+      "preco": 13.5,
+      "precoDe": 30,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:46:44.171Z"
+    },
+    {
+      "id": "45610",
+      "loja": "Amazon",
+      "titulo": "Mor - Piscina Infantil 1.500 Litros",
+      "link": "https://www.amazon.com.br/dp/B076PKKN5F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ctxlksH4L._SL400_.jpg",
+      "preco": 189.9,
+      "precoDe": 399.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:44:22.823Z"
+    },
+    {
+      "id": "45607",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira/parafusadeira C/impacto + Kit Acessórios 134 Peças",
+      "link": "https://meli.la/2boP6rJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685685-MLB113675846574_072026-P.webp",
+      "preco": 269.99,
+      "precoDe": 461.39,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:43:59.105Z"
+    },
     {
       "id": "45606",
       "loja": "Shopee",
@@ -5917,90 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-10T17:28:13.602Z"
-    },
-    {
-      "id": "44092",
-      "loja": "Amazon",
-      "titulo": "Jogo de Panelas Tramontina Turim em Alumínio Antiaderente Preto 7 Pçs",
-      "link": "https://www.amazon.com.br/dp/B0CDR1WS72?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sZqjmvF4L._SL400_.jpg",
-      "preco": 275.3,
-      "precoDe": 324.92,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:27:45.151Z"
-    },
-    {
-      "id": "44058",
-      "loja": "Amazon",
-      "titulo": "Vermute Martini Rosso 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XS1BLNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZkU+g6HZL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 47.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:26:34.135Z"
-    },
-    {
-      "id": "44048",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Cubo Mágico 5x5cm – Quebra-Cabeça Educativo Antiestresse para Crianças e Adultos",
-      "link": "https://s.shopee.com.br/20wvAvkdxF",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82599-mgf55s056v4f41_tn",
-      "preco": 18.97,
-      "precoDe": 59.28,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:26:01.270Z"
-    },
-    {
-      "id": "44018",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/8fTp6DfAae",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 197.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:24:38.645Z"
-    },
-    {
-      "id": "44118",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Air Fryer Forno Oven 12l Mondial AFON-12L-BIN",
-      "link": "https://meli.la/1jRyymp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833374-MLA107944721120_032026-F.jpg",
-      "preco": 396.9,
-      "precoDe": 822.9,
-      "desconto": 41,
-      "cupom": "OFFAGORA",
-      "enviadoEm": "2026-11-10T17:23:21.225Z"
-    },
-    {
-      "id": "44117",
-      "loja": "Shopee",
-      "titulo": "Guirlanda Natalina 38Cm Para Porta Com Flores Vermelhas Douradas Decoração De Natal Decorativa",
-      "link": "https://s.shopee.com.br/5LDNBQnMuX",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g0-medallandhc165_tn",
-      "preco": 43.8,
-      "precoDe": 60,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:22:06.646Z"
-    },
-    {
-      "id": "44105",
-      "loja": "Mercado Livre",
-      "titulo": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
-      "link": "https://meli.la/1y2gAoF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655781-MLA99436995316_112025-F.jpg",
-      "preco": 69.83000000000001,
-      "precoDe": 96.99,
-      "desconto": 10,
-      "cupom": "PROMOPRACONSTRU",
-      "enviadoEm": "2026-11-10T17:20:49.996Z"
     }
   ]
 }
