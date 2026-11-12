@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T22:29:54.765Z",
+  "atualizadoEm": "2026-11-12T23:05:43.792Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46103",
+      "loja": "Amazon",
+      "titulo": "Bicicleta Caloi Andes Aro 26, 21 Marchas, Grip Shift, Suspensão Dianteira 30mm, Freio V-Brake, Cidade, Passeio e Lazer",
+      "link": "https://www.amazon.com.br/dp/B0DQQCM4T3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Kq4WRfW5L._SL400_.jpg",
+      "preco": 596.83,
+      "precoDe": 1229.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T22:55:43.788Z"
+    },
+    {
+      "id": "46102",
+      "loja": "Amazon",
+      "titulo": "Enxaguante Bucal Listerine Cool Mint, Sem Álcool, 1,5L | Elimina até 99, 9% Dos Germes, 24H de Proteção, Hálito Fresco, Antibacteriano",
+      "link": "https://www.amazon.com.br/dp/B07FRKJRRP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HehWI1xsL._SL400_.jpg",
+      "preco": 29.8,
+      "precoDe": 51.99,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T22:50:32.345Z"
+    },
     {
       "id": "46100",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:12:54.810Z"
-    },
-    {
-      "id": "44554",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 10 Pares Meia Invisível Soquete Mash",
-      "link": "https://meli.la/1nhtUtd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618397-MLB98664508976_112025-P.webp",
-      "preco": 47.52,
-      "precoDe": 127.25,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:11:31.883Z"
-    },
-    {
-      "id": "44538",
-      "loja": "Amazon",
-      "titulo": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/dp/B0DVK166SV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31KfGeE0GJL._SL400_.jpg",
-      "preco": 245,
-      "precoDe": 479,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:08:22.089Z"
     }
   ]
 }
