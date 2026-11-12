@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-12T01:43:34.606Z",
+  "atualizadoEm": "2026-11-12T03:13:34.235Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BLACK150",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T03:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "CURTE11DO11",
       "loja": "Amazon",
@@ -24,18 +12,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T12:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "VIROU11DO11",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Válido para produtos vendidos e entregues pela Amazon. Desconto limitado a R$ 50.",
-      "validadeAte": "2026-11-12T03:00:01.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -97,18 +73,6 @@
       "observacao": null,
       "validadeAte": "2026-11-21T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
-    },
-    {
-      "codigo": "11MIMOS",
-      "loja": "BELEZA NA WEB",
-      "tipo": "pct",
-      "valor": 80,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "GANHE20SIAGE",
@@ -252,18 +216,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
-      "codigo": "ESQUENTABLACK",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -1947,18 +1899,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VALEAGORA25",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,6 +1920,30 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-12T14:38:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL1211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEIMA1211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T03:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2127,30 +2091,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "AUTOEFERRAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFSEMPRENOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2184,30 +2124,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 15,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2283,18 +2199,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PARAVOCEDEZ",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BEAUTY10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2328,18 +2232,6 @@
       "limite": 70,
       "observacao": "Cupom válido em selecionados. Desconto de 10% com mínimo de R$79 e limite máximo de R$70 de desconto.",
       "validadeAte": "2026-11-12T18:46:13.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GUERRILHA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 129,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2377,18 +2269,6 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
-    },
-    {
-      "codigo": "SUPER1111",
-      "loja": "Olympikus",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17698&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
@@ -2964,18 +2844,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T13:01:53.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "11DO11H0J3",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T03:03:39.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
