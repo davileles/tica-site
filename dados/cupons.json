@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T13:22:59.356Z",
+  "atualizadoEm": "2026-11-12T13:43:35.307Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "VIVAAE03",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 490,
+      "minimo": 3200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido apenas no aplicativo AliExpress",
+      "validadeAte": "2026-11-13T13:25:02.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "PRIMEBLACK",
       "loja": "Amazon",
@@ -408,6 +420,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T18:20:51.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "LIVETT300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-13T13:39:51.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
