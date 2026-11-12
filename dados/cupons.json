@@ -1,31 +1,7 @@
 {
-  "atualizadoEm": "2026-11-12T11:13:35.773Z",
+  "atualizadoEm": "2026-11-12T12:02:16.706Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "CURTE11DO11",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T12:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BOMDIA25",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
-      "validadeAte": "2026-11-12T12:00:02.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "PRIMEBLACK",
       "loja": "Amazon",
@@ -2055,6 +2031,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELHORDOMELIHJ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-13T12:00:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2088,6 +2076,18 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEICLEPROMO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-13T12:00:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2139,6 +2139,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OBRAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-13T12:00:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOCOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2184,6 +2196,42 @@
       "limite": 70,
       "observacao": "Cupom válido em selecionados. Desconto de 10% com mínimo de R$79 e limite máximo de R$70 de desconto.",
       "validadeAte": "2026-11-12T18:46:13.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ITENSCASA1211",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em itens selecionados",
+      "validadeAte": "2026-11-13T12:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-13T12:00:34.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMPRASAUDE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-13T12:00:34.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2928,18 +2976,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T00:00:16.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "T4L1B3R4D0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T12:00:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
