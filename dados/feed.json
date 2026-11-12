@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T11:35:35.590Z",
+  "atualizadoEm": "2026-11-12T11:43:33.535Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45606",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/1LhHEcQw6v",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:43:24.312Z"
+    },
+    {
+      "id": "45602",
+      "loja": "Amazon",
+      "titulo": "Licor Baileys Original, 750ml",
+      "link": "https://www.amazon.com.br/dp/B004CY6VLC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31vZdHM+brL._SL400_.jpg",
+      "preco": 129.9,
+      "precoDe": 166.9,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T11:38:48.720Z"
+    },
     {
       "id": "45596",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 10,
       "cupom": "PROMOPRACONSTRU",
       "enviadoEm": "2026-11-10T17:20:49.996Z"
-    },
-    {
-      "id": "44104",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zapxN3+7L._SL400_.jpg",
-      "preco": 46.99,
-      "precoDe": 77.27,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:19:31.416Z"
-    },
-    {
-      "id": "44102",
-      "loja": "Shopee",
-      "titulo": "Colchonete para Bebê conforto 100% ALGODÃO - MODELO UNIVERSAL - CORES",
-      "link": "https://s.shopee.com.br/3qOZOR3fwd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6l3hdyg550bd_tn",
-      "preco": 70.73,
-      "precoDe": 99.62,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T17:19:06.874Z"
     }
   ]
 }
