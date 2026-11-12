@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T18:24:11.232Z",
+  "atualizadoEm": "2026-11-12T18:41:33.120Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46010",
+      "loja": "Shopee",
+      "titulo": "Organizador Giratório 360 Multiuso Para Cozinha Molhos Geladeira Armário Mesa Bar Restaurante Cosméticos Perfume",
+      "link": "https://s.shopee.com.br/60T7FDXOmM",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-mpdxnwyjrf2mde_tn",
+      "preco": 29.9,
+      "precoDe": 34.77,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:31:33.117Z"
+    },
+    {
+      "id": "46006",
+      "loja": "Amazon",
+      "titulo": "Refrigerante Zero Pepsi, Black, Lata 350ml, Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B0954R6FNH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/61xHGkdDlLL._SL400_.jpg",
+      "preco": 29.88,
+      "precoDe": 47.88,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:28:06.574Z"
+    },
     {
       "id": "46003",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:33:27.590Z"
-    },
-    {
-      "id": "44399",
-      "loja": "Mercado Livre",
-      "titulo": "Copo Stanley Quencher Black 2.0 1.18L",
-      "link": "https://meli.la/2FcJgj5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676104-MLA121084220053_112026-F.jpg",
-      "preco": 173,
-      "precoDe": 647.9,
-      "desconto": 67,
-      "cupom": "HOJENOML",
-      "enviadoEm": "2026-11-10T22:32:10.057Z"
-    },
-    {
-      "id": "44395",
-      "loja": "Shopee",
-      "titulo": "Kit Mãe e Filha Vestido Algodão Verde Laço Tal Mãe Tal Filha Babado",
-      "link": "https://s.shopee.com.br/80E8hY4n3V",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-muk1700dpern27_tn",
-      "preco": 174.7,
-      "precoDe": 189.89,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:30:49.466Z"
     }
   ]
 }
