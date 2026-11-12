@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T22:03:17.823Z",
+  "atualizadoEm": "2026-11-12T22:17:55.925Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -445,18 +445,6 @@
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TECHSEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 400,
-      "minimo": 2699,
-      "maximo": null,
-      "limite": 400,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -2040,18 +2028,6 @@
       "limite": 145,
       "observacao": "Cupons em selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-13T12:51:59.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS1211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em itens selecionados conforme lista",
-      "validadeAte": "2026-11-13T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
