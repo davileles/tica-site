@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T15:10:12.333Z",
+  "atualizadoEm": "2026-11-12T15:13:33.537Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45829",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
+      "preco": 141.47,
+      "precoDe": 182.48,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T15:12:26.886Z"
+    },
+    {
+      "id": "45828",
+      "loja": "Mercado Livre",
+      "titulo": "Panela De Pressão Fechamento Externo Presscook Marmol 6,8l - Mimo Style",
+      "link": "https://meli.la/1cwz9G4",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_693483-MLA114827684976_082026-F.jpg",
+      "preco": 143.2,
+      "precoDe": 312.6,
+      "desconto": 43,
+      "cupom": "MELHORDOMELIHJ",
+      "enviadoEm": "2026-11-12T15:11:11.979Z"
+    },
     {
       "id": "45819",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-11-10T20:21:53.419Z"
-    },
-    {
-      "id": "44295",
-      "loja": "Amazon",
-      "titulo": "Logitech Headset Gamer Sem Fio G321 Preto Lightspeed Bluetooth Microfone Boom 16kHz Bateria 20H Compatível c/ PC PS4 PS5 Nintendo Switch e Smartphone",
-      "link": "https://www.amazon.com.br/dp/B0FFM18D66?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ZAgN-Jy4L._SL400_.jpg",
-      "preco": 349.9,
-      "precoDe": 449.9,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T20:20:32.204Z"
-    },
-    {
-      "id": "44294",
-      "loja": "Mercado Livre",
-      "titulo": "Sorveteira 7 em 1 Ninja CREAMi 220 V, 2 Potes Inclusos, Auto-iQ, 7 Programas: Sorvete, Sorvete Light, Sorbet, Gelato, Milkshake, Smoothie Bowl e Misturar.",
-      "link": "https://meli.la/1rH62Ra",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844805-MLA121144373957_112026-F.jpg",
-      "preco": 1439,
-      "precoDe": 1999,
-      "desconto": 28,
-      "cupom": "250MELIMAIS",
-      "enviadoEm": "2026-11-10T20:19:16.350Z"
     }
   ]
 }
