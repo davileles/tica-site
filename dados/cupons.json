@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T14:13:35.298Z",
+  "atualizadoEm": "2026-11-12T14:43:35.360Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -528,18 +528,6 @@
       "limite": null,
       "observacao": "Válido para itens de mercado no app Magalu",
       "validadeAte": "2026-11-12T17:33:27.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMINFLU11",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 11,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T14:35:01.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1779,18 +1767,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PET11SUPER11",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-12T14:38:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL1211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,6 +1956,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ITENSPARACASA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-12T15:00:32.522Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2207,7 +2195,19 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-13T12:00:34.000Z",
+      "validadeAte": "2026-11-13T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAISDESCONTOHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
