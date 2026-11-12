@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-12T17:55:11.050Z",
+  "atualizadoEm": "2026-11-12T18:24:11.232Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46003",
+      "loja": "Amazon",
+      "titulo": "Graco Cadeira Infantil para Carro TurboBooster® 2.0 LX com Sistema LATCH, Gannon, Cinza Mescla",
+      "link": "https://www.amazon.com.br/dp/B0CMVY12MK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31dJW7AstPL._SL400_.jpg",
+      "preco": 628.9,
+      "precoDe": 699.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:17:19.802Z"
+    },
+    {
+      "id": "46002",
+      "loja": "Mercado Livre",
+      "titulo": "Caneta 3d Impressora Profissional Infantil Com Refil E Cabo Usb Parosprotect - Lilás",
+      "link": "https://meli.la/1MsZ3Yp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_820855-MLA96096316195_102025-F.jpg",
+      "preco": 46.11999999999999,
+      "precoDe": 78.99,
+      "desconto": 17,
+      "cupom": "SAINDOBARRATO",
+      "enviadoEm": "2026-11-12T18:14:41.777Z"
+    },
+    {
+      "id": "46000",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
+      "link": "https://s.shopee.com.br/8fTsOep8bY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf_tn",
+      "preco": 79.9,
+      "precoDe": 99.88,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:10:15.532Z"
+    },
+    {
+      "id": "45992",
+      "loja": "Mercado Livre",
+      "titulo": "Escrivaninha Mesa Office Estudo Estilo Industrial 1,10m",
+      "link": "https://meli.la/2mNZMLk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640126-MLB113777935780_072026-P.webp",
+      "preco": 160.92,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OBRAMELI",
+      "enviadoEm": "2026-11-12T18:08:00.332Z"
+    },
+    {
+      "id": "45988",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 50 Cabides Slim de Plástico Preto para Roupa Adulto",
+      "link": "https://meli.la/1BePUC6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878093-MLA117972500644_102026-F.jpg",
+      "preco": 29.99,
+      "precoDe": 32.99,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:00:09.903Z"
+    },
     {
       "id": "45983",
       "loja": "Amazon",
@@ -5941,66 +6001,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:30:49.466Z"
-    },
-    {
-      "id": "44393",
-      "loja": "Shopee",
-      "titulo": "Totem de Chão Personalizado com Foto da Criança MDF 3mm para Festa Infantil e Aniversário",
-      "link": "https://s.shopee.com.br/5AtxKC656g",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ah-mty6jivxn6yy8c_tn",
-      "preco": 43.95,
-      "precoDe": 79.91,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:28:37.132Z"
-    },
-    {
-      "id": "44391",
-      "loja": "Mercado Livre",
-      "titulo": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
-      "link": "https://meli.la/2oyhbMT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-F.jpg",
-      "preco": 85.45,
-      "precoDe": 196.45,
-      "desconto": 42,
-      "cupom": "HOJENOML",
-      "enviadoEm": "2026-11-10T22:24:07.655Z"
-    },
-    {
-      "id": "44390",
-      "loja": "Shopee",
-      "titulo": "Kit Ninho Redutor de Berço + Almofada Amamentação + Trança Para Berço 4m Micropercal 200 Fios",
-      "link": "https://s.shopee.com.br/AKc3THaRZA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhasxfmvm6984_tn",
-      "preco": 225.9,
-      "precoDe": 299.88,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:22:43.972Z"
-    },
-    {
-      "id": "44389",
-      "loja": "Shopee",
-      "titulo": "Conjunto Bebê Body + Calça Suedine 100% Algodão Minimalista Coleção Safari Neutro Unissex RN ao GG",
-      "link": "https://s.shopee.com.br/BVHMSyuwq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mtth8w36mxaaa9_tn",
-      "preco": 28.7,
-      "precoDe": 39.86,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:20:40.279Z"
-    },
-    {
-      "id": "44387",
-      "loja": "Shopee",
-      "titulo": "Kit Caderneta de Saúde Livro Bebê e Porta Documentos Vacinação",
-      "link": "https://s.shopee.com.br/2LZlwJcEWA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mp5v2yslv8xv36_tn",
-      "preco": 160.99,
-      "precoDe": 169.46,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:19:07.136Z"
     }
   ]
 }
