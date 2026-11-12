@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T15:10:14.386Z",
+  "atualizadoEm": "2026-11-12T15:13:36.008Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -13,18 +13,6 @@
       "observacao": "Cupom válido apenas no aplicativo AliExpress",
       "validadeAte": "2026-11-13T13:25:02.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "PRIMEBLACK",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Exclusivo para membros Prime. Válido em produtos selecionados.",
-      "validadeAte": "2026-11-12T15:11:55.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "1REAL",
