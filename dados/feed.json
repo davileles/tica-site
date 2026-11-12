@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T19:54:11.640Z",
+  "atualizadoEm": "2026-11-12T20:06:52.137Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46054",
+      "loja": "Shopee",
+      "titulo": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "link": "https://s.shopee.com.br/3B8vxskjrJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1_tn",
+      "preco": 10.97,
+      "precoDe": 18.28,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T19:56:52.135Z"
+    },
     {
       "id": "46045",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:47:32.606Z"
-    },
-    {
-      "id": "44401",
-      "loja": "Amazon",
-      "titulo": "Blue Moon Cerveja Belgian White Ale, Pack 6 Unidades Long Neck 355ml",
-      "link": "https://www.amazon.com.br/dp/B0FCGB6WYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51EpUrDCvDL._SL400_.jpg",
-      "preco": 60.9,
-      "precoDe": 69.54,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:46:18.661Z"
     }
   ]
 }
