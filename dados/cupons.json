@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T16:13:35.281Z",
+  "atualizadoEm": "2026-11-12T16:43:35.293Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2100,18 +2100,6 @@
       "limite": 40,
       "observacao": "Válido em itens selecionados conforme lista",
       "validadeAte": "2026-11-13T15:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOCOMTECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
-      "validadeAte": "2026-11-12T16:30:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
