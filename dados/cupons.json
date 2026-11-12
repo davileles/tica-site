@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T23:57:19.503Z",
+  "atualizadoEm": "2026-11-12T00:08:09.163Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2199,6 +2199,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ELETRO1111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "20% OFF em compras a partir de R$500, com desconto máximo limitado a R$200",
+      "validadeAte": "2026-11-13T00:00:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3156,6 +3168,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T21:00:26.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "NASHOEHMELHORAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-13T00:00:16.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
