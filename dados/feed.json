@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T18:41:33.120Z",
+  "atualizadoEm": "2026-11-12T18:54:11.640Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46021",
+      "loja": "Shopee",
+      "titulo": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "link": "https://s.shopee.com.br/6fio3tyV7g",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d_tn",
+      "preco": 18.9,
+      "precoDe": 27,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:52:53.048Z"
+    },
+    {
+      "id": "46020",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
+      "preco": 95.99,
+      "precoDe": 177.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:51:32.036Z"
+    },
     {
       "id": "46010",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:36:00.022Z"
-    },
-    {
-      "id": "44403",
-      "loja": "Shopee",
-      "titulo": "Suporte Gamer de Mesa MDF para 2 Controles e Headset Organizador Setup Porta Controle Fone",
-      "link": "https://s.shopee.com.br/4B1Q8gsXOG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-muuylscdjvnl46_tn",
-      "preco": 7.16,
-      "precoDe": 59.67,
-      "desconto": 76,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:34:45.611Z"
-    },
-    {
-      "id": "44402",
-      "loja": "Shopee",
-      "titulo": "Almofada de Pescoço Bebê com Apoio de Cabeça para Cadeirinha bebe conforto",
-      "link": "https://s.shopee.com.br/1BrB0df5e",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h1-mekho1dx5gjm38_tn",
-      "preco": 16.99,
-      "precoDe": 34.67,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:33:27.590Z"
     }
   ]
 }
