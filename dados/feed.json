@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-12T18:54:11.640Z",
+  "atualizadoEm": "2026-11-12T19:11:40.800Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46028",
+      "loja": "Amazon",
+      "titulo": "Philips Walita Liquidificador Série 3000 Turbo 1000W, Preto, 110V | Mistura Rápida e Uniforme – prepara vitaminas, sucos e receitas variadas com praticidade (HR2270/91)",
+      "link": "https://www.amazon.com.br/dp/B0CX1TKC62?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310xMJR5p9L._SL400_.jpg",
+      "preco": 130,
+      "precoDe": 249.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T19:01:40.797Z"
+    },
+    {
+      "id": "46027",
+      "loja": "Amazon",
+      "titulo": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
+      "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sul5mPB6L._SL400_.jpg",
+      "preco": 1898.9,
+      "precoDe": 2990,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T19:00:16.978Z"
+    },
+    {
+      "id": "46025",
+      "loja": "Mercado Livre",
+      "titulo": "Burigotto Kit Banho Branco",
+      "link": "https://meli.la/34kVYPF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+      "preco": 188,
+      "precoDe": 510,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:59:18.837Z"
+    },
+    {
+      "id": "46024",
+      "loja": "Amazon",
+      "titulo": "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
+      "link": "https://www.amazon.com.br/dp/B001QZ5GUW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FsIQ2bzmL._SL400_.jpg",
+      "preco": 119.9,
+      "precoDe": 189.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T18:58:58.299Z"
+    },
     {
       "id": "46021",
       "loja": "Shopee",
@@ -2329,18 +2377,6 @@
       "desconto": 60,
       "cupom": "1111TODOSITE",
       "enviadoEm": "2026-11-11T21:05:43.264Z"
-    },
-    {
-      "id": "45452",
-      "loja": "Amazon",
-      "titulo": "Philips Walita Liquidificador Série 3000 Turbo 1000W, Preto, 110V | Mistura Rápida e Uniforme – prepara vitaminas, sucos e receitas variadas com praticidade (HR2270/91)",
-      "link": "https://www.amazon.com.br/dp/B0CX1TKC62?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310xMJR5p9L._SL400_.jpg",
-      "preco": 131.36,
-      "precoDe": 249.9,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T21:03:09.734Z"
     },
     {
       "id": "45446",
@@ -5965,42 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:41:42.788Z"
-    },
-    {
-      "id": "44409",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection M, 62 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MSdJEeHsL._SL400_.jpg",
-      "preco": 61.1,
-      "precoDe": 94.84,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:40:04.257Z"
-    },
-    {
-      "id": "44407",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Camisetas Masculina Dry Alpha Co",
-      "link": "https://s.shopee.com.br/30pSkkIWuC",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r8-mpcypoz8dszwe8_tn",
-      "preco": 49.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:37:15.372Z"
-    },
-    {
-      "id": "44404",
-      "loja": "Mercado Livre",
-      "titulo": "Macaquinho Feminino Soltinho Bata Camadas Assimétrico Leve - R$ 55,90",
-      "link": "https://meli.la/349v7uE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970510-MLB102014306107_122025-P.webp",
-      "preco": 55.9,
-      "precoDe": 78.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:36:00.022Z"
     }
   ]
 }
