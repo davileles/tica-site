@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-12T13:06:35.239Z",
+  "atualizadoEm": "2026-11-12T13:13:33.535Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "45732",
+      "loja": "Shopee",
+      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "link": "https://s.shopee.com.br/W8ALF3K8I",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
+      "preco": 49.69,
+      "precoDe": 97.43,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T13:12:58.990Z"
+    },
+    {
+      "id": "45727",
+      "loja": "Mercado Livre",
+      "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
+      "link": "https://meli.la/1veK9kF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978797-MLB117407765866_102026-P.webp",
+      "preco": 589,
+      "precoDe": 1099,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T13:09:04.423Z"
+    },
+    {
+      "id": "45726",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
+      "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51IA1iUma3L._SL400_.jpg",
+      "preco": 27,
+      "precoDe": 48.75,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T13:07:51.337Z"
+    },
     {
       "id": "45709",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-10T19:04:41.048Z"
-    },
-    {
-      "id": "44242",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby XG, 42 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KV2733?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mkRUpyKEL._SL400_.jpg",
-      "preco": 35.31,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T19:02:07.782Z"
-    },
-    {
-      "id": "44241",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby G, 44 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KWB62Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qbt3WOV7L._SL400_.jpg",
-      "preco": 34.88,
-      "precoDe": 50.04,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T19:00:15.162Z"
-    },
-    {
-      "id": "44239",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Mônica Baby M, 50 Unidades",
-      "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KaiafcWwL._SL400_.jpg",
-      "preco": 35.77,
-      "precoDe": 50.04,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T18:59:51.816Z"
     }
   ]
 }
