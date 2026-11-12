@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-12T20:06:52.137Z",
+  "atualizadoEm": "2026-11-12T20:18:52.411Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46057",
+      "loja": "Amazon",
+      "titulo": "Leite em Pó Integral Ninho 380g",
+      "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51fO+Pq4OuL._SL400_.jpg",
+      "preco": 18.9,
+      "precoDe": 22.99,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:12:16.527Z"
+    },
+    {
+      "id": "46056",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Ventilador de Mesa 30cm Super Power, Preto, 60W, 220V - VSP-30-B",
+      "link": "https://www.amazon.com.br/dp/B09B17MQLC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ye1x-V5iL._SL400_.jpg",
+      "preco": 75.05,
+      "precoDe": 139.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:10:45.140Z"
+    },
     {
       "id": "46054",
       "loja": "Shopee",
@@ -5703,18 +5727,6 @@
       "enviadoEm": "2026-11-11T11:11:31.883Z"
     },
     {
-      "id": "44553",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Ventilador de Mesa 30cm Super Power, Preto, 60W, 220V - VSP-30-B",
-      "link": "https://www.amazon.com.br/dp/B09B17MQLC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ye1x-V5iL._SL400_.jpg",
-      "preco": 75.05,
-      "precoDe": 139.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:10:16.188Z"
-    },
-    {
       "id": "44538",
       "loja": "Amazon",
       "titulo": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-10T22:48:47.919Z"
-    },
-    {
-      "id": "44408",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
-      "link": "https://s.shopee.com.br/7puiVeGyss",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
-      "preco": 19.9,
-      "precoDe": 49.75,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:47:32.606Z"
     }
   ]
 }
