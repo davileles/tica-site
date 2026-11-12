@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T00:08:09.163Z",
+  "atualizadoEm": "2026-11-12T00:14:33.967Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -790,7 +790,7 @@
       "minimo": 0,
       "maximo": null,
       "limite": 500,
-      "observacao": "Cupons válidos em selecionados. Lista completa disponível nos links.",
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1971,18 +1971,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OPORTUNIDADEML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-12-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PET11SUPER11",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2163,54 +2151,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ESPORTE1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "ESPORTE1111 e SUPER1111 válidos para listas selecionadas",
-      "validadeAte": "2026-11-12T15:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SUPER1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 35,
-      "observacao": "ESPORTE1111 e SUPER1111 válidos para listas selecionadas",
-      "validadeAte": "2026-11-12T15:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FERRAMENTAS1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-12T17:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRO1111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "20% OFF em compras a partir de R$500, com desconto máximo limitado a R$200",
-      "validadeAte": "2026-11-13T00:00:18.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2316,18 +2256,6 @@
       "limite": 70,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-12T23:27:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BELEZASEMPRE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-12T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
