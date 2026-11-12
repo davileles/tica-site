@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T00:43:34.481Z",
+  "atualizadoEm": "2026-11-12T01:13:34.323Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2259,6 +2259,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MANTECORP15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T01:07:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOCOMTECH",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2268,18 +2280,6 @@
       "limite": 300,
       "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-11-12T16:30:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SPORTS11DO11",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-12T00:47:45.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
