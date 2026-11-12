@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T21:17:54.918Z",
+  "atualizadoEm": "2026-11-12T21:47:54.814Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -456,18 +456,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T22:00:56.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PNEU11DO11",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T21:34:05.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2148,6 +2136,18 @@
       "limite": 100,
       "observacao": "Cupons em selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-13T12:51:59.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BEAUTY5",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 5,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T21:37:31.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
