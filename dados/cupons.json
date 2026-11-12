@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T19:54:13.420Z",
+  "atualizadoEm": "2026-11-12T20:06:54.367Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -384,18 +384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T21:03:55.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "ELETRO11DO11",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 3500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T20:02:50.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1870,7 +1858,7 @@
       "minimo": 79,
       "maximo": null,
       "limite": 80,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: SOLD_OUT_USER: Você já usou este cupom.",
       "validadeAte": "2026-11-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2052,18 +2040,6 @@
       "limite": null,
       "observacao": "Válido em itens selecionados",
       "validadeAte": "2026-11-13T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTASTECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-13T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2703,18 +2679,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "NASHOPEE120AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 120,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T20:03:49.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "T41RN0V11",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2772,18 +2736,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-12T20:17:08.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CH4D0N15OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T19:59:09.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
