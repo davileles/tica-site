@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T18:41:34.844Z",
+  "atualizadoEm": "2026-11-12T18:54:14.051Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -456,18 +456,6 @@
       "limite": 400,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-13T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ACELERAMOTO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 300,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-12T18:46:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2064,18 +2052,6 @@
       "limite": 100,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-13T18:12:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DATADUPLACAPACETES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Cupom válido em selecionados. Desconto de 10% com mínimo de R$79 e limite máximo de R$70 de desconto.",
-      "validadeAte": "2026-11-12T18:46:13.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
