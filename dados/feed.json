@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-12T20:29:02.415Z",
+  "atualizadoEm": "2026-11-12T20:47:52.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46068",
+      "loja": "Amazon",
+      "titulo": "Samsung Smart TV 85\" Mini LED 4K M75H + Soundbar Samsung B400F",
+      "link": "https://www.amazon.com.br/dp/B0HG4FT6TF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411snGeCQ+L._SL400_.jpg",
+      "preco": 7299,
+      "precoDe": 8349,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:46:16.783Z"
+    },
+    {
+      "id": "46067",
+      "loja": "Amazon",
+      "titulo": "Monitor LG UltraGear - Tela VA FHD 32”, 144Hz nativo, 1ms (MBR), AMD FreeSync, HDR10, sRGB 99%, Preto - 32G403B",
+      "link": "https://www.amazon.com.br/dp/B0HB77TFGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41G1FshuWWL._SL400_.jpg",
+      "preco": 999,
+      "precoDe": 1199,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:44:06.272Z"
+    },
+    {
+      "id": "46066",
+      "loja": "Shopee",
+      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
+      "link": "https://s.shopee.com.br/4LKtOzXthp",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
+      "preco": 15.86,
+      "precoDe": 44.06,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:40:57.884Z"
+    },
+    {
+      "id": "46065",
+      "loja": "Amazon",
+      "titulo": "Fogão Brastemp 5 Bocas Cor Inox Com Botões Removíveis E Exclusivo Aro Protetor - BFS5NCR BIVOLT",
+      "link": "https://www.amazon.com.br/dp/B07FTLJ99J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41IAHnk-f+L._SL400_.jpg",
+      "preco": 1748.88,
+      "precoDe": 1899,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:39:37.998Z"
+    },
+    {
+      "id": "46064",
+      "loja": "Mercado Livre",
+      "titulo": "Vinho Tinto Espanhol Ramon Bilbao Crianza 750ml",
+      "link": "https://meli.la/1QCTCdw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811439-MLA111524331478_062026-F.jpg",
+      "preco": 44.7,
+      "precoDe": 159,
+      "desconto": 63,
+      "cupom": "VALEAPENANOML",
+      "enviadoEm": "2026-11-12T20:36:09.798Z"
+    },
+    {
+      "id": "46063",
+      "loja": "Mercado Livre",
+      "titulo": "Smartphone Motorola Signature 5G - 256GB 12GB RAM + 12GB RAM Boost, 3 cameras 50MP Sony Lytia e Zoom 100x, Tela 1.5K extreme Amoled 165hz - Preto",
+      "link": "https://meli.la/2CwupJR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_833954-MLA116672967966_092026-F.jpg",
+      "preco": 3999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-11-12T20:34:56.815Z"
+    },
+    {
+      "id": "46061",
+      "loja": "Amazon",
+      "titulo": "Eudora SIàge Promopack Hair-Plastia",
+      "link": "https://www.amazon.com.br/dp/B0CWB2H5JX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51XC7DGoNAL._SL400_.jpg",
+      "preco": 47.77,
+      "precoDe": 75.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T20:30:18.432Z"
+    },
     {
       "id": "46058",
       "loja": "Shopee",
@@ -3519,18 +3603,6 @@
       "enviadoEm": "2026-11-11T16:41:21.873Z"
     },
     {
-      "id": "45150",
-      "loja": "Amazon",
-      "titulo": "Eudora SIàge Promopack Hair-Plastia",
-      "link": "https://www.amazon.com.br/dp/B0CWB2H5JX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51XC7DGoNAL._SL400_.jpg",
-      "preco": 53.08,
-      "precoDe": 75.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:40:01.463Z"
-    },
-    {
       "id": "45146",
       "loja": "Mercado Livre",
       "titulo": "Mala De Viagem Bordo Mão Pequena 10kg Abs Cadeado 360",
@@ -5929,78 +6001,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-11-11T10:25:43.185Z"
-    },
-    {
-      "id": "44507",
-      "loja": "Amazon",
-      "titulo": "Daily T-shirt Feminino Preto G",
-      "link": "https://www.amazon.com.br/dp/B0BHML5N6T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BMJ12tYHL._SL400_.jpg",
-      "preco": 47.12,
-      "precoDe": 139,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:24:16.074Z"
-    },
-    {
-      "id": "44506",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51VX1CWzpGL._SL400_.jpg",
-      "preco": 148.48,
-      "precoDe": 229.49,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:22:06.872Z"
-    },
-    {
-      "id": "44425",
-      "loja": "Mercado Livre",
-      "titulo": "Bolsa Maternidade Kind Baby Rosa /marinho Multifunção Laço - R$ 75",
-      "link": "https://meli.la/1ScP1ys",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924277-MLB118620543987_102026-P.webp",
-      "preco": 75,
-      "precoDe": 111.72,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:59:38.329Z"
-    },
-    {
-      "id": "44423",
-      "loja": "Shopee",
-      "titulo": "Mesa de cabeceira Infantil Com Gaveta e Caixa Organizadora em MDF Com Rodinhas Rodizios",
-      "link": "https://s.shopee.com.br/5LDNYUPkEe",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mia7fd7ac6wy7c_tn",
-      "preco": 138.97,
-      "precoDe": 169.12,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:57:32.272Z"
-    },
-    {
-      "id": "44421",
-      "loja": "Shopee",
-      "titulo": "Kit Body Bebê Estampado Safári Listrado Ursinho 100% Algodão Hipoalergênico Premium Maternidade",
-      "link": "https://s.shopee.com.br/3qOZlO0gTu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc0q76afxsbr09_tn",
-      "preco": 48.99,
-      "precoDe": 80.31,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:52:30.409Z"
-    },
-    {
-      "id": "44420",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Completo de Cuidados para Bebê com 6 Peças - Buba Care",
-      "link": "https://meli.la/1eAtHP5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638040-MLB110849420617_042026-P.webp",
-      "preco": 151.9,
-      "precoDe": 159.9,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-10T22:50:39.465Z"
     }
   ]
 }
