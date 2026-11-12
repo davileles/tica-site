@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T21:47:54.814Z",
+  "atualizadoEm": "2026-11-12T22:03:17.823Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -444,18 +444,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMBLACK110",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 110,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T22:00:56.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2079,6 +2067,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CACIFEPROMOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-13T22:00:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ITENSCASA1211",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -2772,18 +2772,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-13T00:00:16.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "11C4TH11",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-12T22:01:00.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
