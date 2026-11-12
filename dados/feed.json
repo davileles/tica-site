@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-12T20:47:52.971Z",
+  "atualizadoEm": "2026-11-12T21:17:52.974Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46076",
+      "loja": "Amazon",
+      "titulo": "Wafer Proteico BOLD 10g Proteína, Chocolate ao Leite",
+      "link": "https://www.amazon.com.br/dp/B0GSSDWRZJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41i4odQo64L._SL400_.jpg",
+      "preco": 72,
+      "precoDe": 149,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:14:36.872Z"
+    },
+    {
+      "id": "46072",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07XTR5C65?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21EUisoj6oL._SL400_.jpg",
+      "preco": 42.18,
+      "precoDe": 76.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:05:35.711Z"
+    },
+    {
+      "id": "46071",
+      "loja": "Amazon",
+      "titulo": "JBL, Microfone Sem Fio, PartyBox Wireless Mic, Par com Receptor - Preto",
+      "link": "https://www.amazon.com.br/dp/B0CY5PBPJD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Bgfej9ToL._SL400_.jpg",
+      "preco": 472.77,
+      "precoDe": 749,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:03:30.201Z"
+    },
+    {
+      "id": "46070",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/5fqH0xCzEP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 21.98,
+      "precoDe": 46.77,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-12T21:02:07.416Z"
+    },
     {
       "id": "46068",
       "loja": "Amazon",
@@ -3207,18 +3255,6 @@
       "enviadoEm": "2026-11-11T18:08:11.058Z"
     },
     {
-      "id": "45266",
-      "loja": "Amazon",
-      "titulo": "JBL, Microfone Sem Fio, PartyBox Wireless Mic, Par com Receptor - Preto",
-      "link": "https://www.amazon.com.br/dp/B0CY5PBPJD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Bgfej9ToL._SL400_.jpg",
-      "preco": 472.77,
-      "precoDe": 749,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T18:06:12.578Z"
-    },
-    {
       "id": "45265",
       "loja": "Amazon",
       "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG (14-18 kg), 74 Unidades",
@@ -5965,42 +6001,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-11-11T10:32:58.331Z"
-    },
-    {
-      "id": "44511",
-      "loja": "Amazon",
-      "titulo": "Coala Sabonete Liquido Maos e Corpo Limpa Hidrata Perfuma 500ml Cha Branco",
-      "link": "https://www.amazon.com.br/dp/B0CNBX751L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31O0ug0x1ML._SL400_.jpg",
-      "preco": 12.14,
-      "precoDe": 17.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:30:36.454Z"
-    },
-    {
-      "id": "44509",
-      "loja": "Amazon",
-      "titulo": "Camiseta Flamengo Masculina, Vermelho/Preto, G",
-      "link": "https://www.amazon.com.br/dp/B0G6PJNF5K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VS7fhq5DL._SL400_.jpg",
-      "preco": 99.9,
-      "precoDe": 259.99,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:28:02.811Z"
-    },
-    {
-      "id": "44502",
-      "loja": "Mercado Livre",
-      "titulo": "28 Peças Jogo De Bits Magnéticos Com Extensão Soquetes Broca",
-      "link": "https://meli.la/1MNAoBQ",
-      "imagem": "https://http2.mlstatic.com/D_766078-MLB113345827284_072026-F.jpg",
-      "preco": 42.5,
-      "precoDe": 125,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T10:25:43.185Z"
     }
   ]
 }
