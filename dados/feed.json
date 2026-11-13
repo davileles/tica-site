@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T21:47:53.843Z",
+  "atualizadoEm": "2026-11-13T21:58:25.019Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46575",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 54.9,
+      "precoDe": 92.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T21:48:25.017Z"
+    },
     {
       "id": "46573",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 11,
       "cupom": "PARAVOCEDEZ",
       "enviadoEm": "2026-11-11T16:11:54.259Z"
-    },
-    {
-      "id": "45088",
-      "loja": "Amazon",
-      "titulo": "Aparelho de Depilação Descartável Gillette Venus, 3 Unidades | Extra Suave",
-      "link": "https://www.amazon.com.br/dp/B01LNQXBGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+Z0phAyiL._SL400_.jpg",
-      "preco": 24.69,
-      "precoDe": 28.32,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:10:26.623Z"
     }
   ]
 }
