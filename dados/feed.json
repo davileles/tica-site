@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-13T18:47:53.047Z",
+  "atualizadoEm": "2026-11-13T19:11:35.703Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46531",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Rolos de Sacos de Lixo 10L – 160 Unidades | Neutraliza Odores | Ideal para Pia e Banheiro",
+      "link": "https://s.shopee.com.br/2LZqVR4PzV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5k70jhwveo39_tn",
+      "preco": 29.9,
+      "precoDe": 69.53,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:01:35.697Z"
+    },
+    {
+      "id": "46529",
+      "loja": "Mercado Livre",
+      "titulo": "Ninho Redutor Berço Infantil Com Bordas Altas + Mosqueteiro",
+      "link": "https://meli.la/2Lgx89N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821871-MLB121191781165_112026-O-ninho-redutor-berco-infantil-com-bordas-altas-mosqueteiro.webp",
+      "preco": 105,
+      "precoDe": 139.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:00:13.735Z"
+    },
+    {
+      "id": "46528",
+      "loja": "Amazon",
+      "titulo": "Baby Troninho Styll",
+      "link": "https://www.amazon.com.br/dp/B07J34NHHS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414hX+YRqyL._SL400_.jpg",
+      "preco": 25.76,
+      "precoDe": 89.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T18:59:46.879Z"
+    },
+    {
+      "id": "46527",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira De Alimentação Infantil Acolchoada 3 Em 1 Portátil Cor Rosa",
+      "link": "https://meli.la/1nUGy1E",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874950-MLA112423071970_062026-F.jpg",
+      "preco": 160.17,
+      "precoDe": 285.7,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T18:58:18.731Z"
+    },
     {
       "id": "46522",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-11T15:40:04.207Z"
-    },
-    {
-      "id": "45009",
-      "loja": "Amazon",
-      "titulo": "Mor - Piscina Inflável 4.600 Litros",
-      "link": "https://www.amazon.com.br/dp/B076X7LQV7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31crh-qQgmL._SL400_.jpg",
-      "preco": 268.72,
-      "precoDe": 489.15,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:38:39.820Z"
-    },
-    {
-      "id": "45007",
-      "loja": "Mercado Livre",
-      "titulo": "Modelador de cachos de barril Taiff Curves 2.5cm de diâmetro",
-      "link": "https://meli.la/2dQi65q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845083-MLA79629755600_102024-F.jpg",
-      "preco": 131.4,
-      "precoDe": 259.9,
-      "desconto": 49,
-      "cupom": "BELEZASEMPRE",
-      "enviadoEm": "2026-11-11T15:37:23.370Z"
-    },
-    {
-      "id": "45003",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 20 Pote Herméticos Empilháveis Porta Mantimento Rebirth",
-      "link": "https://meli.la/1PKU3ZS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626035-MLA110075853411_042026-F.jpg",
-      "preco": 140.75,
-      "precoDe": 297,
-      "desconto": 47,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T15:34:48.043Z"
-    },
-    {
-      "id": "45000",
-      "loja": "Shopee",
-      "titulo": "Micro Retifica Elétrica AITOOLZO 600W 202 Peças Com Suporte",
-      "link": "https://s.shopee.com.br/2gCdG1fMqL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfota8hsolqd30_tn",
-      "preco": 216.9,
-      "precoDe": 677.81,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:32:09.081Z"
     }
   ]
 }
