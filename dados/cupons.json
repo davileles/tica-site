@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T19:11:38.602Z",
+  "atualizadoEm": "2026-11-13T19:47:54.778Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1992,6 +1992,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-14T15:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BELEZABLACK20",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 5,
+      "maximo": null,
+      "limite": 145,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-14T19:44:58.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
