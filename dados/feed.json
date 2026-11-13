@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-13T14:47:53.046Z",
+  "atualizadoEm": "2026-11-13T15:03:32.623Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46329",
+      "loja": "Amazon",
+      "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
+      "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xrByMpd5L._SL400_.jpg",
+      "preco": 42.26,
+      "precoDe": 79.99,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:53:32.620Z"
+    },
+    {
+      "id": "46328",
+      "loja": "Amazon",
+      "titulo": "Tangle Teezer - Escova de cabelo desemabaraçadora The Original Mini para todos os tipos de cabelo, úmido e seco, Cor: Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DPJS48KG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4147Cr10f1L._SL400_.jpg",
+      "preco": 49.34,
+      "precoDe": 85,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:52:16.478Z"
+    },
+    {
+      "id": "46327",
+      "loja": "Amazon",
+      "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
+      "link": "https://www.amazon.com.br/dp/B07XS8WKYL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e8nue5zGL._SL400_.jpg",
+      "preco": 130.63,
+      "precoDe": 161.88,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:49:31.350Z"
+    },
     {
       "id": "46323",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "MODASEMPREML",
       "enviadoEm": "2026-11-11T13:24:57.933Z"
-    },
-    {
-      "id": "44842",
-      "loja": "Amazon",
-      "titulo": "Mor - Cadeira Alta Aço Sortido",
-      "link": "https://www.amazon.com.br/dp/B075XM6DKH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41rWD-OtDoL._SL400_.jpg",
-      "preco": 59.28,
-      "precoDe": 65.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T13:23:33.932Z"
-    },
-    {
-      "id": "44838",
-      "loja": "Amazon",
-      "titulo": "Fritadeira Air Fryer Oven Britânia BFR2100 4 em 1 1800W 127V",
-      "link": "https://www.amazon.com.br/dp/B08R91HYY2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jLlkPF2SL._SL400_.jpg",
-      "preco": 399,
-      "precoDe": 714,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T13:22:14.124Z"
-    },
-    {
-      "id": "44836",
-      "loja": "Mercado Livre",
-      "titulo": "Central Multimídia First Option 7810h Com Espelhamento E Bluetooth Cor Preto",
-      "link": "https://meli.la/2vCJYkF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689737-MLA99935946203_112025-F.jpg",
-      "preco": 126.60999999999999,
-      "precoDe": 193,
-      "desconto": 18,
-      "cupom": "CORREPROCUPOM",
-      "enviadoEm": "2026-11-11T13:20:59.387Z"
     }
   ]
 }
