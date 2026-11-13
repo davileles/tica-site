@@ -1,7 +1,151 @@
 {
-  "atualizadoEm": "2026-11-13T10:47:53.027Z",
+  "atualizadoEm": "2026-11-13T11:17:53.028Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46131",
+      "loja": "Amazon",
+      "titulo": "Vodka Absolut, 1 Litro",
+      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
+      "preco": 72.99,
+      "precoDe": 136.9,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:15:21.904Z"
+    },
+    {
+      "id": "46130",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Malbec 750ml",
+      "link": "https://www.amazon.com.br/dp/B09Q4GD377?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zOsv7oefL._SL400_.jpg",
+      "preco": 20.6,
+      "precoDe": 39.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:13:59.593Z"
+    },
+    {
+      "id": "46129",
+      "loja": "Amazon",
+      "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul M 38 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41YtG7duzeL._SL400_.jpg",
+      "preco": 29,
+      "precoDe": 52.65,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:12:39.880Z"
+    },
+    {
+      "id": "46128",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek XXG 30 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093G8NZ4Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Jr7bqPhJL._SL400_.jpg",
+      "preco": 30.72,
+      "precoDe": 39.19,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:11:30.384Z"
+    },
+    {
+      "id": "46127",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek XG, 38 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51bACFNKwsL._SL400_.jpg",
+      "preco": 31.98,
+      "precoDe": 50.29,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:11:05.695Z"
+    },
+    {
+      "id": "46126",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek G, 42 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414v-0iBtHL._SL400_.jpg",
+      "preco": 33.9,
+      "precoDe": 50.29,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:10:41.910Z"
+    },
+    {
+      "id": "46125",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek M, 48 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fxVMH6Z0L._SL400_.jpg",
+      "preco": 36.11,
+      "precoDe": 50.29,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:10:20.450Z"
+    },
+    {
+      "id": "46124",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label, 1L",
+      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
+      "preco": 69.9,
+      "precoDe": 115.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:09:54.989Z"
+    },
+    {
+      "id": "46123",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek P, 54 Unidades",
+      "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-jlGeDchL._SL400_.jpg",
+      "preco": 34.29,
+      "precoDe": 50.29,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:09:20.181Z"
+    },
+    {
+      "id": "46122",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fnIZohlxL._SL400_.jpg",
+      "preco": 24.22,
+      "precoDe": 46.38,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:08:52.461Z"
+    },
+    {
+      "id": "46121",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador Portátil De Mão Recarregável, 199 Níveis, Modo De Resfriamento, Mini Ventilador Com 10000mAh E Display Digital, Silencioso E Potente Para Viagens, Cinza",
+      "link": "https://meli.la/2XiaHDF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606809-MLA119982435445_102026-F.jpg",
+      "preco": 54.75,
+      "precoDe": 166.48,
+      "desconto": 56,
+      "cupom": "COMPRANOMELI",
+      "enviadoEm": "2026-11-13T11:02:56.428Z"
+    },
+    {
+      "id": "46120",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/7Af5jLob0k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mv7qrwedl8n5f6_tn",
+      "preco": 34.57,
+      "precoDe": 50.1,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:01:32.416Z"
+    },
     {
       "id": "46119",
       "loja": "Amazon",
@@ -2283,18 +2427,6 @@
       "enviadoEm": "2026-11-12T10:53:44.562Z"
     },
     {
-      "id": "45574",
-      "loja": "Amazon",
-      "titulo": "Fralda Pom Pom Protek P, 54 Unidades",
-      "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-jlGeDchL._SL400_.jpg",
-      "preco": 32,
-      "precoDe": 50.29,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T10:45:02.223Z"
-    },
-    {
       "id": "45571",
       "loja": "Mercado Livre",
       "titulo": "Top Lupo Loba Fitness Confortável Ótima Sustentação Academia - R$ 41,90",
@@ -2785,18 +2917,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-11T21:12:35.454Z"
-    },
-    {
-      "id": "45467",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 115.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T21:11:16.473Z"
     },
     {
       "id": "45461",
@@ -5103,18 +5223,6 @@
       "enviadoEm": "2026-11-11T13:28:32.714Z"
     },
     {
-      "id": "44665",
-      "loja": "Amazon",
-      "titulo": "Vodka Absolut, 1 Litro",
-      "link": "https://www.amazon.com.br/dp/B004V54ZVK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UYeZ+swCL._SL400_.jpg",
-      "preco": 60,
-      "precoDe": 136.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T13:27:18.289Z"
-    },
-    {
       "id": "44656",
       "loja": "Shopee",
       "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
@@ -5893,114 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:35:29.999Z"
-    },
-    {
-      "id": "44584",
-      "loja": "Amazon",
-      "titulo": "Bio Oil Oleo Corporal C/Purcellin Oilâ 200ml, Bio Oil",
-      "link": "https://www.amazon.com.br/dp/B07BTPCPP9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31weutdRFAL._SL400_.jpg",
-      "preco": 52,
-      "precoDe": 115.99,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:34:10.340Z"
-    },
-    {
-      "id": "44582",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Gamer Gamdias Argus E4 Elite Branco",
-      "link": "https://meli.la/2frSnA9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773890-MLA107482785343_022026-F.jpg",
-      "preco": 241.22,
-      "precoDe": 330,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:32:52.088Z"
-    },
-    {
-      "id": "44578",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7\", Recursos AI - Lilás",
-      "link": "https://meli.la/2X74Zsi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953261-MLA114603178675_072026-F.jpg",
-      "preco": 1583.12,
-      "precoDe": 3799,
-      "desconto": 53,
-      "cupom": "CORREPROMELI",
-      "enviadoEm": "2026-11-11T11:31:40.415Z"
-    },
-    {
-      "id": "44574",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy A57 5g 128gb, 8gb Ram, Recursos Ai",
-      "link": "https://meli.la/1YjwP6m",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987360-MLA109664859882_042026-F.jpg",
-      "preco": 1583.12,
-      "precoDe": 3799,
-      "desconto": 53,
-      "cupom": "CORREPROMELI",
-      "enviadoEm": "2026-11-11T11:30:20.219Z"
-    },
-    {
-      "id": "44570",
-      "loja": "Amazon",
-      "titulo": "SanDisk Cartão microSDXC UHS-I Ultra 128GB com adaptador, preto, embalagem padrão (SDSQUNC-128G-GN6MA)",
-      "link": "https://www.amazon.com.br/dp/B010Q57S62?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xQGS3UnpL._SL400_.jpg",
-      "preco": 143.8,
-      "precoDe": 369,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:27:44.886Z"
-    },
-    {
-      "id": "44569",
-      "loja": "Amazon",
-      "titulo": "Refrigerador Bottom Freezer Inverter Panasonic de 02 Portas Frost Free com 511 Litros Aço Escovado - NR-BB71PV7X (110V, Volts)",
-      "link": "https://www.amazon.com.br/dp/B0GTWWS6PN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/211jrhTTjQL._SL400_.jpg",
-      "preco": 4664,
-      "precoDe": 5807.39,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:26:26.235Z"
-    },
-    {
-      "id": "44566",
-      "loja": "Shopee",
-      "titulo": "Tapete de Banheiro Absorvente Antiderrapante Secagem Rápida",
-      "link": "https://s.shopee.com.br/7fbJ9xJqzp",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-mm4q3xn8yayw0f_tn",
-      "preco": 11.65,
-      "precoDe": 50.65,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:25:05.710Z"
-    },
-    {
-      "id": "44564",
-      "loja": "Amazon",
-      "titulo": "PURIFICADOR REFRIGERADO NEW E-DUE EQUILIBRIUM GRAFITE FULL RANGE",
-      "link": "https://www.amazon.com.br/dp/B0BYT8HSBJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31s-aUCqNNL._SL400_.jpg",
-      "preco": 444.33,
-      "precoDe": 477.77,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:21:06.507Z"
-    },
-    {
-      "id": "44562",
-      "loja": "Mercado Livre",
-      "titulo": "Pasta De Amendoim Integral Torrado 1kg Growth Supplements Natural",
-      "link": "https://meli.la/11yn4Ky",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738150-MLA117461043569_092026-F.jpg",
-      "preco": 33.9,
-      "precoDe": 69.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:18:17.428Z"
     }
   ]
 }
