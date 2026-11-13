@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T21:17:53.285Z",
+  "atualizadoEm": "2026-11-13T21:47:53.843Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46573",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 5 Toalhas Banho Gigante Grossa Hotel Luxo 75x150cm 480g",
+      "link": "https://meli.la/28ej2sd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_717284-MLB116225758070_092026-P.webp",
+      "preco": 103.70000000000002,
+      "precoDe": 197.99,
+      "desconto": 30,
+      "cupom": "DESCONTOJUSTO",
+      "enviadoEm": "2026-11-13T21:40:58.773Z"
+    },
     {
       "id": "46572",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 13,
       "cupom": null,
       "enviadoEm": "2026-11-11T16:10:26.623Z"
-    },
-    {
-      "id": "45076",
-      "loja": "Shopee",
-      "titulo": "Sabão em Pó Todo Ciclo 5,6Kg Omo",
-      "link": "https://s.shopee.com.br/50aY4eiAc9",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b1-muxkvy4ovls74b_tn",
-      "preco": 65.99,
-      "precoDe": 119.43,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:09:10.492Z"
     }
   ]
 }
