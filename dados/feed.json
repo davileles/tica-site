@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T20:47:53.074Z",
+  "atualizadoEm": "2026-11-13T21:04:00.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46564",
+      "loja": "Mercado Livre",
+      "titulo": "Basike Fone De Ouvido Sem Fio Esportivo Bluetooth6.0 Tws, Corrida Gancho, À Prova D'água, Com Gan, Tela Led Dupla, Suporta Chamadas De Voz, Adequadas Para Android E Ios, Cor Preto",
+      "link": "https://meli.la/11BHeiJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785284-MLA99986240343_112025-F.jpg",
+      "preco": 116.32,
+      "precoDe": 266.5,
+      "desconto": 42,
+      "cupom": "DESCONTOJUSTO",
+      "enviadoEm": "2026-11-13T20:54:00.851Z"
+    },
     {
       "id": "46561",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 55,
       "cupom": "OPORTUNIDADEML",
       "enviadoEm": "2026-11-11T16:03:30.652Z"
-    },
-    {
-      "id": "45061",
-      "loja": "Shopee",
-      "titulo": "Basic Whey 1kg Growth Supplements",
-      "link": "https://s.shopee.com.br/9zzEFFWloq",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-msdjdvggg74760_tn",
-      "preco": 37.45,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:00:56.968Z"
     }
   ]
 }
