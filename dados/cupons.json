@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T11:17:54.921Z",
+  "atualizadoEm": "2026-11-13T12:01:29.242Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -445,6 +445,30 @@
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SITE1311TODO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO1311",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1851,6 +1875,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOSITE1311",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-14T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1980,18 +2016,6 @@
       "limite": 50,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-13T22:00:42.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ITENSCASA1211",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em itens selecionados",
-      "validadeAte": "2026-11-13T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
