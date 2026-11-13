@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-13T22:17:53.844Z",
+  "atualizadoEm": "2026-11-13T22:47:53.847Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46586",
+      "loja": "Amazon",
+      "titulo": "Jagermeister Licor Licores Herbais 700 Ml Pacote De 1 | Jägermeister United in the Game: uma edição especial para celebrar a paixão pelo futebol",
+      "link": "https://www.amazon.com.br/dp/B07X6HW8NH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xiaH9BiNL._SL400_.jpg",
+      "preco": 98.9,
+      "precoDe": 129.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T22:46:42.967Z"
+    },
+    {
+      "id": "46584",
+      "loja": "Amazon",
+      "titulo": "Casa Perini Espumante Moskatel 750 Ml",
+      "link": "https://www.amazon.com.br/dp/B07JM6YQZC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21XNCZwACEL._SL400_.jpg",
+      "preco": 49.5,
+      "precoDe": 62.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T22:40:38.672Z"
+    },
     {
       "id": "46582",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 30,
       "cupom": "PARAVOCEDEZ",
       "enviadoEm": "2026-11-11T16:18:02.693Z"
-    },
-    {
-      "id": "45097",
-      "loja": "Shopee",
-      "titulo": "Óleo Capilar Oil Reflections Wella 100ml",
-      "link": "https://s.shopee.com.br/70Lcgm4fNi",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bb-mq68q1plsfta2e_tn",
-      "preco": 72.8,
-      "precoDe": 192.59,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:16:44.343Z"
-    },
-    {
-      "id": "45094",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Cuecas Masculinas Boxer Microfibra Polo Wear Sortido",
-      "link": "https://meli.la/1Mbv59h",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_703205-MLB89664660440_082025-O-kit-10-cuecas-masculinas-boxer-microfibra-polo-wear-sortido.webp",
-      "preco": 70.24,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MODASEMPREML",
-      "enviadoEm": "2026-11-11T16:13:41.534Z"
     }
   ]
 }
