@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T15:39:53.241Z",
+  "atualizadoEm": "2026-11-13T15:47:53.047Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46346",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
+      "link": "https://meli.la/2Dd11ac",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
+      "preco": 145,
+      "precoDe": 299,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T15:45:43.224Z"
+    },
     {
       "id": "46344",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 59,
       "cupom": "BOMDIA25OFF ⁠",
       "enviadoEm": "2026-11-11T13:34:01.768Z"
-    },
-    {
-      "id": "44846",
-      "loja": "Amazon",
-      "titulo": "Camiseta Regular New York Yankees MLB New Era, Marinho, P",
-      "link": "https://www.amazon.com.br/dp/B0H34V1XV3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+pylqtWQL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 79.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T13:32:44.105Z"
     }
   ]
 }
