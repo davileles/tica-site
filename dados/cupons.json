@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T18:47:54.737Z",
+  "atualizadoEm": "2026-11-13T19:11:38.602Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -339,15 +339,15 @@
       "url": null
     },
     {
-      "codigo": "BFSALVOU",
+      "codigo": "BLACKPELE",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 15,
+      "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido para Farmácias no iFood",
-      "validadeAte": "2026-11-13T19:00:13.000Z",
+      "observacao": "Desconto válido para categoria Farmácias",
+      "validadeAte": "2026-11-14T19:00:17.000Z",
       "url": null
     },
     {
