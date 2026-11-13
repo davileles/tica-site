@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-13T15:17:53.046Z",
+  "atualizadoEm": "2026-11-13T15:39:53.241Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46344",
+      "loja": "Shopee",
+      "titulo": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
+      "link": "https://s.shopee.com.br/4LKsFUtuVJ?sub_id1=20997608223",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2_tn",
+      "preco": 99.99,
+      "precoDe": 303,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T15:29:53.238Z"
+    },
+    {
+      "id": "46343",
+      "loja": "Mercado Livre",
+      "titulo": "Hidratante Corporal Cuide-se Bem Deleite Caramelo 400ml",
+      "link": "https://meli.la/1rotRoP",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689131-MLA109591266564_042026-F.jpg",
+      "preco": 38.9,
+      "precoDe": 78.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T15:23:54.636Z"
+    },
+    {
+      "id": "46337",
+      "loja": "Amazon",
+      "titulo": "Electrolux Aspirador pó vertical 2 em 1 1450W HEPA STK15 Cinza Urban 127V | Com fio, portátil de mão, potente, cabo de 6m e capacidade de 1,6L para limpeza prática, maior alcance e",
+      "link": "https://www.amazon.com.br/dp/B094X2N4HV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21XRLXd49KL._SL400_.jpg",
+      "preco": 164.9,
+      "precoDe": 319,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T15:20:10.731Z"
+    },
     {
       "id": "46340",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-11T13:32:44.105Z"
-    },
-    {
-      "id": "44851",
-      "loja": "Mercado Livre",
-      "titulo": "Smartband Huawei Band 10 Preta com Tela AMOLED de 1.47\"",
-      "link": "https://meli.la/2tHSuGP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772291-MLA100008466405_122025-F.jpg",
-      "preco": 154.22,
-      "precoDe": 659,
-      "desconto": 72,
-      "cupom": "SEMPREAQUI",
-      "enviadoEm": "2026-11-11T13:30:56.902Z"
-    },
-    {
-      "id": "44847",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
-      "link": "https://meli.la/1rxsoUA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
-      "preco": 829,
-      "precoDe": 1199,
-      "desconto": 24,
-      "cupom": "SEMPREAQUI",
-      "enviadoEm": "2026-11-11T13:29:44.937Z"
-    },
-    {
-      "id": "44681",
-      "loja": "Amazon",
-      "titulo": "Stanley Garrafa Térmica Quick Flip Black 710ml",
-      "link": "https://www.amazon.com.br/dp/B0HF1LQFDD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JTbzHxd4L._SL400_.jpg",
-      "preco": 113.53,
-      "precoDe": 269,
-      "desconto": 47,
-      "cupom": "BOMDIA25OFF ⁠",
-      "enviadoEm": "2026-11-11T13:28:32.714Z"
     }
   ]
 }
