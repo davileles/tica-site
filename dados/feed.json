@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T14:10:31.105Z",
+  "atualizadoEm": "2026-11-13T14:17:53.046Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46309",
+      "loja": "Amazon",
+      "titulo": "Enxaguante Bucal Listerine Cool Mint, Sem Álcool, 500ml | Elimina até 99, 9% Dos Germes, 24H de Proteção, Hálito Fresco, Antibacteriano",
+      "link": "https://www.amazon.com.br/dp/B07DFYH9BD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41CYnrIr8HL._SL400_.jpg",
+      "preco": 14.15,
+      "precoDe": 26.19,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:11:54.201Z"
+    },
     {
       "id": "46301",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 80,
       "cupom": "MODASEMPREML",
       "enviadoEm": "2026-11-11T13:13:04.244Z"
-    },
-    {
-      "id": "44811",
-      "loja": "Mercado Livre",
-      "titulo": "Xilofone Musical Infantil Brinquedo Educativo Chocalho Peças Encaixar Sons Luzes Funny Pony Maxi Baby",
-      "link": "https://meli.la/21hRnK5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648812-MLA116986428551_082026-F.jpg",
-      "preco": 91.26,
-      "precoDe": 159.9,
-      "desconto": 34,
-      "cupom": "TODO1111SITE",
-      "enviadoEm": "2026-11-11T13:11:42.934Z"
     }
   ]
 }
