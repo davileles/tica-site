@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T18:17:53.046Z",
+  "atualizadoEm": "2026-11-13T18:29:27.694Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46498",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/7fbMoLlgJv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 339.9,
+      "precoDe": 693.67,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T18:19:27.690Z"
+    },
     {
       "id": "46496",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-11T15:27:03.088Z"
-    },
-    {
-      "id": "44993",
-      "loja": "Mercado Livre",
-      "titulo": "Principia Kit 2 Gel De Limpeza Facial Gl-01",
-      "link": "https://meli.la/1K9fYHZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_938638-MLB93538145388_102025-P.webp",
-      "preco": 57.879999999999995,
-      "precoDe": 108,
-      "desconto": 33,
-      "cupom": "SUPER1111",
-      "enviadoEm": "2026-11-11T15:20:55.888Z"
     }
   ]
 }
