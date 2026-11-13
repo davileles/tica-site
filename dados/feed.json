@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-13T19:11:35.703Z",
+  "atualizadoEm": "2026-11-13T19:38:19.426Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46539",
+      "loja": "Amazon",
+      "titulo": "Cerveja em Barril Heineken, 5L",
+      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
+      "preco": 92.9,
+      "precoDe": 119.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:28:19.423Z"
+    },
+    {
+      "id": "46538",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/6VPPUYHqwF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 19,
+      "precoDe": 35.19,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:22:55.963Z"
+    },
+    {
+      "id": "46537",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 108.8,
+      "precoDe": 157.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:20:27.841Z"
+    },
+    {
+      "id": "46536",
+      "loja": "Amazon",
+      "titulo": "WAP Lavadora de Alta Pressão Ousada Plus 2200, 1500W, 220V | Jato Leque e Concentrado, 342L/h, 1750psi",
+      "link": "https://www.amazon.com.br/dp/B07H3B86KY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/419ri-pmV3L._SL400_.jpg",
+      "preco": 378.9,
+      "precoDe": 779.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T19:18:57.833Z"
+    },
     {
       "id": "46531",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 52,
       "cupom": "CLIENTEVIP",
       "enviadoEm": "2026-11-11T15:49:01.721Z"
-    },
-    {
-      "id": "45026",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 9 Pares Meias Kappa Soquete Invisível",
-      "link": "https://meli.la/22vYbCU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704743-MLB120679525223_112026-P.webp",
-      "preco": 52.82,
-      "precoDe": 129.99,
-      "desconto": 55,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T15:44:37.419Z"
-    },
-    {
-      "id": "45020",
-      "loja": "Mercado Livre",
-      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-      "link": "https://meli.la/1zaaibc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-      "preco": 34.9,
-      "precoDe": 64.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:43:09.524Z"
-    },
-    {
-      "id": "45015",
-      "loja": "Mercado Livre",
-      "titulo": "Wella Enrich Kit Sh 1l+ Cond 1l+ 02 Valvulas Exclusivas!!!",
-      "link": "https://meli.la/2HTBR6T",
-      "imagem": "https://http2.mlstatic.com/D_668974-MLB88214446166_072025-F.jpg",
-      "preco": 228.02,
-      "precoDe": 469.99,
-      "desconto": 46,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T15:41:20.214Z"
-    },
-    {
-      "id": "45011",
-      "loja": "Shopee",
-      "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
-      "link": "https://s.shopee.com.br/1qdWUnpLY9",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa_tn",
-      "preco": 38.18,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:40:04.207Z"
     }
   ]
 }
