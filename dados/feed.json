@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-13T11:47:53.028Z",
+  "atualizadoEm": "2026-11-13T12:01:27.278Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46161",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51fmR+tg5ML._SL400_.jpg",
+      "preco": 79,
+      "precoDe": 109.78,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:51:27.275Z"
+    },
+    {
+      "id": "46158",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Pares Meia Lupo Original Masculina Cano Médio Algodão",
+      "link": "https://meli.la/1EcuMiV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_852130-MLB72535399953_102023-O-kit-10-pares-meia-lupo-original-masculina-cano-medio-algodo.webp",
+      "preco": 85.4,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T11:50:02.113Z"
+    },
     {
       "id": "46152",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 26,
       "cupom": "CORREPROMELI",
       "enviadoEm": "2026-11-11T11:56:43.477Z"
-    },
-    {
-      "id": "44625",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Nivea Sun Kids & Babies, FPS 60, 125ml | Pele Sensível, Proteção UVA/UVB, Proteção Imediata, Muito Resistente à Água",
-      "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31mSUbB-vzL._SL400_.jpg",
-      "preco": 37.17,
-      "precoDe": 81.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:55:15.157Z"
-    },
-    {
-      "id": "44623",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer LG UltraGear Curvo 34\"- QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync Premium, HDR10, MaxxAudio, Preto -34G600A",
-      "link": "https://meli.la/331ghmq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_714205-MLA120725726433_112026-F.jpg",
-      "preco": 1456.4,
-      "precoDe": 2515,
-      "desconto": 34,
-      "cupom": "CORREPROMELI",
-      "enviadoEm": "2026-11-11T11:50:17.834Z"
     }
   ]
 }
