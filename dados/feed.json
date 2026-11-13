@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-13T21:58:25.019Z",
+  "atualizadoEm": "2026-11-13T22:17:53.844Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46582",
+      "loja": "Amazon",
+      "titulo": "TEQUILA MEX JOSE CUERVO SILVER 35°",
+      "link": "https://www.amazon.com.br/dp/B09NVNGQ7K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YtLp4PwCL._SL400_.jpg",
+      "preco": 109.9,
+      "precoDe": 139.9,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T22:08:50.428Z"
+    },
+    {
+      "id": "46581",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 99.99,
+      "precoDe": 129.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T22:06:20.599Z"
+    },
     {
       "id": "46575",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "MODASEMPREML",
       "enviadoEm": "2026-11-11T16:13:41.534Z"
-    },
-    {
-      "id": "45092",
-      "loja": "Amazon",
-      "titulo": "Jim Beam Whisky Bourbon Americano Rye 700Ml",
-      "link": "https://www.amazon.com.br/dp/B07RGQJF4P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zd1EyW2hL._SL400_.jpg",
-      "preco": 116,
-      "precoDe": 174.9,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:12:24.860Z"
-    },
-    {
-      "id": "45090",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 24 Pares Meia Soquete Cano Curto Unissex Atacado Cores",
-      "link": "https://meli.la/215NabZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711325-MLB87897230083_072025-O-kit-24-pares-meia-soquete-cano-curto-unissex-atacado-cores.webp",
-      "preco": 36,
-      "precoDe": 44.9,
-      "desconto": 11,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:11:54.259Z"
     }
   ]
 }
