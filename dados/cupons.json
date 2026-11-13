@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T12:17:54.892Z",
+  "atualizadoEm": "2026-11-13T12:47:54.919Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -85,6 +85,18 @@
       "observacao": "Cupons devem ser resgatados no aplicativo. Válidos até o final do evento.",
       "validadeAte": "2026-11-13T21:11:52.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACK100OFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-14T12:31:50.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "MEGABLASTBF",
@@ -445,6 +457,18 @@
       "observacao": null,
       "validadeAte": "2026-11-13T13:39:51.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE1311TODO",
@@ -1803,18 +1827,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1955,7 +1967,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
+      "validadeAte": "2026-11-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2027,7 +2039,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
+      "validadeAte": "2026-11-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2135,7 +2147,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
+      "validadeAte": "2026-11-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
