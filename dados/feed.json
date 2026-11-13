@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-13T19:47:53.046Z",
+  "atualizadoEm": "2026-11-13T20:17:53.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46552",
+      "loja": "Mercado Livre",
+      "titulo": "Quadriciclo Infantil Elétrico 6v Com Marchas Lj - Zippy Toys",
+      "link": "https://meli.la/1ZaG9HV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854105-MLA84181737286_052025-F.jpg",
+      "preco": 287.90999999999997,
+      "precoDe": 551.38,
+      "desconto": 42,
+      "cupom": "LOJASOFICIAIS1311 ou ESPORTE1311",
+      "enviadoEm": "2026-11-13T20:07:54.783Z"
+    },
+    {
+      "id": "46551",
+      "loja": "Amazon",
+      "titulo": "Gel Esfoliante Facial Neutrogena Deep Clean Intensive, 100g | Remove Impurezas, Sensação Refrescante",
+      "link": "https://www.amazon.com.br/dp/B077C2LBX2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41LUelbYBxL._SL400_.jpg",
+      "preco": 23.87,
+      "precoDe": 42.99,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T20:06:37.258Z"
+    },
+    {
+      "id": "46550",
+      "loja": "Shopee",
+      "titulo": "Máscara de Hidratação Matizadora Vermelha #todecacho Salon Line 500g",
+      "link": "https://s.shopee.com.br/1qdZytbdtH",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259j-muxlzi424n441e_tn",
+      "preco": 34.02,
+      "precoDe": 42,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T20:05:16.610Z"
+    },
+    {
+      "id": "46548",
+      "loja": "Amazon",
+      "titulo": "Lip Gloss Fresh Juicy People Colour",
+      "link": "https://www.amazon.com.br/dp/B0F8JJNFKT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N13ynLYyL._SL400_.jpg",
+      "preco": 7.5,
+      "precoDe": 25,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T20:03:13.033Z"
+    },
     {
       "id": "46542",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-11T15:55:56.186Z"
-    },
-    {
-      "id": "45048",
-      "loja": "Shopee",
-      "titulo": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness",
-      "link": "https://s.shopee.com.br/4B1RI5mDUK",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f_tn",
-      "preco": 39.99,
-      "precoDe": 99.98,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:54:31.522Z"
-    },
-    {
-      "id": "45045",
-      "loja": "Amazon",
-      "titulo": "Licor Amarula Cream, 17% de Teor Alcoólico, Garrafa 750ml, Amarula Original",
-      "link": "https://www.amazon.com.br/dp/B008V6PVBS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31n-YDhQIfL._SL400_.jpg",
-      "preco": 94.96,
-      "precoDe": 141.84,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:52:16.587Z"
-    },
-    {
-      "id": "45043",
-      "loja": "Amazon",
-      "titulo": "Amaciante de Roupa Ypê Tradicional, 5L | Ultra Intenso",
-      "link": "https://www.amazon.com.br/dp/B0DSCGLT32?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uZ5Pk-TpL._SL400_.jpg",
-      "preco": 17.99,
-      "precoDe": 29.26,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:51:44.090Z"
-    },
-    {
-      "id": "45040",
-      "loja": "Amazon",
-      "titulo": "Lava e Seca Midea 11kg Mfa01d110b/wk-01 Branca Ciclo Pets",
-      "link": "https://www.amazon.com.br/dp/B0H2BRDTXT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zq96frEbL._SL400_.jpg",
-      "preco": 2648.96,
-      "precoDe": 2969,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:50:25.427Z"
     }
   ]
 }
