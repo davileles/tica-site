@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-13T23:09:02.024Z",
+  "atualizadoEm": "2026-11-13T23:32:55.347Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46594",
+      "loja": "Amazon",
+      "titulo": "Pack YoPRO Bebida Láctea UHT Baunilha 15g de Proteínas 250ml - 24 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0D239PCKH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41raqWUh8SL._SL400_.jpg",
+      "preco": 156,
+      "precoDe": 192.19,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T23:22:55.344Z"
+    },
     {
       "id": "46592",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 33,
       "cupom": "PARAVOCEDEZ",
       "enviadoEm": "2026-11-11T16:23:39.501Z"
-    },
-    {
-      "id": "45114",
-      "loja": "Amazon",
-      "titulo": "Rapunzel Máscara de Tratamento 450g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/dp/B0C4QPGK3L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41n7kLIJ0gL._SL400_.jpg",
-      "preco": 29.89,
-      "precoDe": 64.9,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:23:15.388Z"
     }
   ]
 }
