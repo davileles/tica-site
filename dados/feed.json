@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-13T18:29:27.694Z",
+  "atualizadoEm": "2026-11-13T18:47:53.047Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46522",
+      "loja": "Shopee",
+      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
+      "link": "https://s.shopee.com.br/906kQFAeN3",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
+      "preco": 54.5,
+      "precoDe": 78.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T18:40:26.341Z"
+    },
+    {
+      "id": "46521",
+      "loja": "Amazon",
+      "titulo": "Monitor AOC 21\" 22B30HM23 FHD, 120Hz, 1MS, Preto",
+      "link": "https://www.amazon.com.br/dp/B0FH5MQ6L5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31WDSjc0LnL._SL400_.jpg",
+      "preco": 387,
+      "precoDe": 415,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T18:32:48.106Z"
+    },
     {
       "id": "46498",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-11-11T15:32:09.081Z"
-    },
-    {
-      "id": "44996",
-      "loja": "Amazon",
-      "titulo": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1kg | Para Roupas Brancas, Sem Cloro, Com Percarbonato",
-      "link": "https://www.amazon.com.br/dp/B07PNK7TZK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qsaD1ZaaL._SL400_.jpg",
-      "preco": 29.97,
-      "precoDe": 119.09,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:28:48.971Z"
-    },
-    {
-      "id": "44995",
-      "loja": "Amazon",
-      "titulo": "Gin Rocks, Stramberry, 995ml, 1L",
-      "link": "https://www.amazon.com.br/dp/B07Y2CZWP8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gMcHYSHyL._SL400_.jpg",
-      "preco": 26.79,
-      "precoDe": 43.23,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T15:27:03.088Z"
     }
   ]
 }
