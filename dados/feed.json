@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-12T23:47:53.000Z",
+  "atualizadoEm": "2026-11-13T10:47:53.027Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46119",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Huggies Higiene Superior, Pack com 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0HDRL9G2M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51r+9La6mPL._SL400_.jpg",
+      "preco": 89.9,
+      "precoDe": 129.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T10:42:24.900Z"
+    },
     {
       "id": "46104",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-11T11:18:17.428Z"
-    },
-    {
-      "id": "44558",
-      "loja": "Amazon",
-      "titulo": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App par",
-      "link": "https://www.amazon.com.br/dp/B0D5HSP346?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31qIshgacVL._SL400_.jpg",
-      "preco": 129,
-      "precoDe": 249,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T11:14:49.256Z"
     }
   ]
 }
