@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-13T14:17:53.046Z",
+  "atualizadoEm": "2026-11-13T14:31:35.172Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46313",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/8VATXXrKke",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:21:35.169Z"
+    },
+    {
+      "id": "46312",
+      "loja": "Mercado Livre",
+      "titulo": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo Longo 1,4 Metros",
+      "link": "https://meli.la/2C6LZDc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810904-MLA93779476451_092025-F.jpg",
+      "preco": 75.48,
+      "precoDe": 87.31,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-13T14:19:54.747Z"
+    },
     {
       "id": "46309",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 47,
       "cupom": "BFCETAPHIL26",
       "enviadoEm": "2026-11-11T13:16:15.526Z"
-    },
-    {
-      "id": "44818",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
-      "link": "https://meli.la/125ywtB",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_797944-MLB82978249605_032025-O-kit-6-cuecas-boxer-lupo-sem-costura-box-microfibra-original.webp",
-      "preco": 84.9,
-      "precoDe": 349.99,
-      "desconto": 71,
-      "cupom": "TODO1111SITE",
-      "enviadoEm": "2026-11-11T13:14:56.832Z"
-    },
-    {
-      "id": "44812",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Para Notebook Impermeável com Porta USB e Senha Para Homem",
-      "link": "https://meli.la/2KmHZqY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_760171-MLA113815933188_072026-F.jpg",
-      "preco": 63.94,
-      "precoDe": 369,
-      "desconto": 80,
-      "cupom": "MODASEMPREML",
-      "enviadoEm": "2026-11-11T13:13:04.244Z"
     }
   ]
 }
