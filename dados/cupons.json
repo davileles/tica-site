@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T11:08:16.854Z",
+  "atualizadoEm": "2026-11-14T12:08:18.564Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -447,27 +447,27 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "SITE1311TODO",
+      "codigo": "TODO141126SITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
       "minimo": 999,
       "maximo": null,
       "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:00:01.000Z",
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-15T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITETODO1311",
+      "codigo": "STTODO1411",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 40,
       "minimo": 399,
       "maximo": null,
       "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:00:01.000Z",
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-15T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1032,18 +1032,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEROPROMOS30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1683,30 +1671,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEROPROMOS25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTODOML25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SONOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1776,18 +1740,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIVIP22",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1935,18 +1887,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOSITE1311",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DECORNATAL1311",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1968,6 +1908,30 @@
       "limite": 145,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-14T19:44:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAIS1411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-15T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOST1411",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-15T12:00:35.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
