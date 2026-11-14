@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-13T22:47:57.371Z",
+  "atualizadoEm": "2026-11-14T03:08:15.490Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -433,18 +433,6 @@
       "observacao": "Cupons para uso no app Magalu",
       "validadeAte": "2026-11-14T22:45:41.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "OFERTAPRATEC",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2699,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "SITE1311TODO",
@@ -1683,18 +1671,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-14T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "QUEROPROMOS25",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1752,6 +1728,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL1411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido na lista conforme link fornecido",
+      "validadeAte": "2026-11-15T03:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1947,18 +1935,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VEMHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DECORNATAL1311",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -2019,42 +1995,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRASAUDEPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PROMOHOJETEM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2076,18 +2016,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PARTIUREFORMA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2127,18 +2055,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOSTECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJASOFICIAIS1311",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2161,30 +2077,6 @@
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-14T18:00:12.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GUERRILHA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 129,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GANHE50",
-      "loja": "Nike",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
