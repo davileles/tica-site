@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T19:59:01.066Z",
+  "atualizadoEm": "2026-11-14T20:38:19.313Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2088,6 +2088,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
