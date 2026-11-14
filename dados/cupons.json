@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T13:49:04.351Z",
+  "atualizadoEm": "2026-11-14T14:02:50.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -276,18 +276,6 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
       "validadeAte": "2026-11-14T18:42:23.000Z",
-      "url": null
-    },
-    {
-      "codigo": "MIAUMIAUBF",
-      "loja": "iFood Petshop",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T14:01:54.000Z",
       "url": null
     },
     {
@@ -2688,18 +2676,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-14T15:00:27.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "A1ND4D4",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T14:00:24.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
