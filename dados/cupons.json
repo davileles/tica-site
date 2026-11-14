@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T16:38:20.720Z",
+  "atualizadoEm": "2026-11-14T18:08:18.667Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,18 +231,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BLACKCESTA",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 em Mercado no iFood",
-      "validadeAte": "2026-11-14T18:00:20.000Z",
-      "url": null
-    },
-    {
       "codigo": "BLACKPELE",
       "loja": "iFood",
       "tipo": "reais",
@@ -252,6 +240,18 @@
       "limite": null,
       "observacao": "Desconto válido para categoria Farmácias",
       "validadeAte": "2026-11-14T19:00:17.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CORREDORBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Mercado",
+      "validadeAte": "2026-11-15T18:00:19.000Z",
       "url": null
     },
     {
@@ -432,6 +432,18 @@
       "limite": null,
       "observacao": "Último cupom exclusivo para Meli+",
       "validadeAte": "2026-11-15T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORELETRO1411",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-15T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2091,30 +2103,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS1311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-14T18:00:12.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPORTE1311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-14T18:00:12.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CUPOMPRAHOME",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2139,15 +2127,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA",
+      "codigo": "LOJASOFICIAIS1411",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
       "minimo": 89,
       "maximo": null,
-      "limite": 20,
+      "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-11-14T18:06:22.934Z",
+      "validadeAte": "2026-11-15T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
