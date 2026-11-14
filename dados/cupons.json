@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T18:08:18.667Z",
+  "atualizadoEm": "2026-11-14T18:34:47.815Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -264,6 +264,18 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
       "validadeAte": "2026-11-14T18:42:23.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CHEGOUBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 27,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Em algumas contas aparece R$ 15 OFF em vez de R$ 12 OFF",
+      "validadeAte": "2026-11-15T18:30:19.000Z",
       "url": null
     },
     {
