@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-14T20:38:16.739Z",
+  "atualizadoEm": "2026-11-14T21:08:16.739Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46865",
+      "loja": "Amazon",
+      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
+      "preco": 2799,
+      "precoDe": 4299,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T21:01:24.521Z"
+    },
+    {
+      "id": "46864",
+      "loja": "Amazon",
+      "titulo": "Headset Gamer Havit H2232d, RGB, com Microfone, Falante de 50mm | Conector 3.5mm, Cabo USB para Iluminação",
+      "link": "https://www.amazon.com.br/dp/B07N78G8GB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31x-4lBXOWL._SL400_.jpg",
+      "preco": 59.99,
+      "precoDe": 169,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T21:00:06.570Z"
+    },
+    {
+      "id": "46863",
+      "loja": "Amazon",
+      "titulo": "Fonte MACH1 Steady, 750W, 80 Plus Bronze, PFC Ativo, Preto - 750Steady",
+      "link": "https://www.amazon.com.br/dp/B0H635249V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41SwlvxGFqL._SL400_.jpg",
+      "preco": 255.54,
+      "precoDe": 377.77,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T20:58:33.664Z"
+    },
+    {
+      "id": "46862",
+      "loja": "Shopee",
+      "titulo": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
+      "link": "https://s.shopee.com.br/30pZ199hh7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397_tn",
+      "preco": 39.8,
+      "precoDe": 147.41,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T20:52:02.386Z"
+    },
     {
       "id": "46860",
       "loja": "Shopee",
@@ -5811,18 +5859,6 @@
       "enviadoEm": "2026-11-12T12:27:15.860Z"
     },
     {
-      "id": "45656",
-      "loja": "Amazon",
-      "titulo": "Headset Gamer Havit H2232d, RGB, com Microfone, Falante de 50mm | Conector 3.5mm, Cabo USB para Iluminação",
-      "link": "https://www.amazon.com.br/dp/B07N78G8GB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31x-4lBXOWL._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 169,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:21:14.356Z"
-    },
-    {
       "id": "45649",
       "loja": "Amazon",
       "titulo": "Vermute Martini Bianco 750ml",
@@ -5965,42 +6001,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:46:44.171Z"
-    },
-    {
-      "id": "45610",
-      "loja": "Amazon",
-      "titulo": "Mor - Piscina Infantil 1.500 Litros",
-      "link": "https://www.amazon.com.br/dp/B076PKKN5F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ctxlksH4L._SL400_.jpg",
-      "preco": 189.9,
-      "precoDe": 399.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:44:22.823Z"
-    },
-    {
-      "id": "45607",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira/parafusadeira C/impacto + Kit Acessórios 134 Peças",
-      "link": "https://meli.la/2boP6rJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685685-MLB113675846574_072026-P.webp",
-      "preco": 269.99,
-      "precoDe": 461.39,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:43:59.105Z"
-    },
-    {
-      "id": "45606",
-      "loja": "Shopee",
-      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
-      "link": "https://s.shopee.com.br/1LhHEcQw6v",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
-      "preco": 14.99,
-      "precoDe": 19.99,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:43:24.312Z"
     }
   ]
 }
