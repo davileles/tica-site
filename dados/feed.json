@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T19:38:02.549Z",
+  "atualizadoEm": "2026-11-14T19:58:59.046Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46856",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra - 120 Capsulas - Colágeno + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/2gCiYCneSd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msn550g8pypw44_tn",
+      "preco": 44.9,
+      "precoDe": 95.53,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T19:48:59.044Z"
+    },
     {
       "id": "46853",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:23:20.662Z"
-    },
-    {
-      "id": "45591",
-      "loja": "Shopee",
-      "titulo": "TOYADENT PRO Escova de Dental Com Cerdas Premium Alemãs da Pedex +Capa Protetora",
-      "link": "https://s.shopee.com.br/60T6lkj2qV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mo3mmcjo6bk26f_tn",
-      "preco": 17.9,
-      "precoDe": 29.83,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:22:22.867Z"
     }
   ]
 }
