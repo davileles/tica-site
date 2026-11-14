@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T20:38:19.313Z",
+  "atualizadoEm": "2026-11-14T21:38:18.658Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2136,6 +2136,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-11-15T18:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTAOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-15T21:35:19.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
