@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T19:08:16.738Z",
+  "atualizadoEm": "2026-11-14T19:38:02.549Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46853",
+      "loja": "Shopee",
+      "titulo": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
+      "link": "https://s.shopee.com.br/4VeMi8GxTw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mucz3spnjpq80b_tn",
+      "preco": 22.49,
+      "precoDe": 77.55,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T19:28:02.546Z"
+    },
     {
       "id": "46851",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:22:22.867Z"
-    },
-    {
-      "id": "45586",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41PUwJOaJtL._SL400_.jpg",
-      "preco": 129.99,
-      "precoDe": 151.59,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:05:57.551Z"
     }
   ]
 }
