@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T10:38:15.496Z",
+  "atualizadoEm": "2026-11-14T11:08:16.854Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1486,7 +1486,7 @@
       "minimo": 29,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1750,7 +1750,7 @@
       "minimo": 119,
       "maximo": null,
       "limite": 40,
-      "observacao": "Válido na lista conforme link fornecido",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-15T03:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2088,6 +2088,18 @@
       "limite": 40,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-14T18:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": null,
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
