@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T12:38:18.747Z",
+  "atualizadoEm": "2026-11-14T13:08:18.492Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1707,6 +1707,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SEMPREOFERTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ECONOMIZEI25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1959,6 +1983,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOAGORAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2019,6 +2055,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MEUPROJETO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 70,
+      "observacao": null,
+      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS1311",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2040,6 +2088,18 @@
       "limite": 40,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-14T18:00:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMPRAHOME",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 149,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-15T13:02:24.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
