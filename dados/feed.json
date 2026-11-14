@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-14T18:34:46.241Z",
+  "atualizadoEm": "2026-11-14T19:01:35.577Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46849",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Sevilla 700ml",
+      "link": "https://www.amazon.com.br/dp/B07C8NJV9P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ertY0HFaL._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 124.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T18:51:35.573Z"
+    },
+    {
+      "id": "46848",
+      "loja": "Shopee",
+      "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+      "link": "https://s.shopee.com.br/80EEpfA0NX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963_tn",
+      "preco": 12.5,
+      "precoDe": 54.35,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T18:45:59.846Z"
+    },
     {
       "id": "46843",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:05:33.119Z"
-    },
-    {
-      "id": "45583",
-      "loja": "Shopee",
-      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "link": "https://s.shopee.com.br/4qH9MCWB0L",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
-      "preco": 16.99,
-      "precoDe": 22.36,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:04:38.465Z"
-    },
-    {
-      "id": "45582",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff Ice 275ml - Pack 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NH7X45Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fi3yM2MfL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 46.74,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:03:30.206Z"
     }
   ]
 }
