@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-13T23:32:55.347Z",
+  "atualizadoEm": "2026-11-14T11:08:15.157Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46616",
+      "loja": "Amazon",
+      "titulo": "Shampoo Invigo Nutri Enrich Wella Professionals 1000 ml",
+      "link": "https://www.amazon.com.br/dp/B0BG312BMR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31z6oFoGuoL._SL400_.jpg",
+      "preco": 105.3,
+      "precoDe": 165.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T11:05:44.500Z"
+    },
+    {
+      "id": "46615",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Professionnel Serie Expert Absolut Repair, Máscara de Reparação Intensiva para Cabelos Danificados e Finos com Quinoa Dourada, Reconstrução Instantânea e Brilho Intenso, 25",
+      "link": "https://www.amazon.com.br/dp/B09GSR58JF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411VIWc3CpL._SL400_.jpg",
+      "preco": 120.94,
+      "precoDe": 214.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T11:03:46.707Z"
+    },
+    {
+      "id": "46613",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/3VloxUgzj9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 16.49,
+      "precoDe": 31.71,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T11:02:31.037Z"
+    },
+    {
+      "id": "46612",
+      "loja": "Amazon",
+      "titulo": "Mochila Jansport Cross Town Navy, Tamanho 26L | Bolsa de viagem compacta pequena com bolso para garrafa de água e alças acolchoadas",
+      "link": "https://www.amazon.com.br/dp/B0823WBV12?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LI1xTl8hL._SL400_.jpg",
+      "preco": 178.42,
+      "precoDe": 329.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T11:01:10.013Z"
+    },
+    {
+      "id": "m1794654035556",
+      "loja": "Mercado Livre",
+      "titulo": "Lampião LED Recarregável Solar 20W Camping USB Bateria Longa Duração",
+      "link": "https://meli.la/2JATm6E",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685434-MLA95660366180_102025-F.jpg",
+      "preco": 61.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T11:00:35.556Z"
+    },
+    {
+      "id": "46609",
+      "loja": "Mercado Livre",
+      "titulo": "Mochila 35l Compressão Vácuo Impermeável Com Usb, bomba manual",
+      "link": "https://meli.la/16MBW6h",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763578-MLB111066826455_042026-P.webp",
+      "preco": 158,
+      "precoDe": 399.99,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T10:50:54.737Z"
+    },
+    {
+      "id": "46608",
+      "loja": "Amazon",
+      "titulo": "Whisky Japonês Importado Hibiki Suntory 700ml ABV 43%",
+      "link": "https://www.amazon.com.br/dp/B012DC0OHQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51594HbN-IL._SL400_.jpg",
+      "preco": 588.23,
+      "precoDe": 810.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T10:48:06.587Z"
+    },
+    {
+      "id": "46606",
+      "loja": "Amazon",
+      "titulo": "Sabonete Líquido Johnson's Baby Recém-Nascidos, 200ml | Testado por Oftalmologistas, Fórmula Suave, Não Arde os Olhos",
+      "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HYB3VignL._SL400_.jpg",
+      "preco": 16.14,
+      "precoDe": 34.49,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T10:43:43.987Z"
+    },
+    {
+      "id": "46605",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
+      "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51IA1iUma3L._SL400_.jpg",
+      "preco": 27.45,
+      "precoDe": 48.75,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T10:43:14.978Z"
+    },
     {
       "id": "46594",
       "loja": "Amazon",
@@ -2727,18 +2835,6 @@
       "enviadoEm": "2026-11-12T17:37:48.152Z"
     },
     {
-      "id": "45966",
-      "loja": "Amazon",
-      "titulo": "Whisky Japonês Importado Hibiki Suntory 700ml ABV 43%",
-      "link": "https://www.amazon.com.br/dp/B012DC0OHQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31MzLygYeKL._SL400_.jpg",
-      "preco": 588.23,
-      "precoDe": 810.9,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:33:04.255Z"
-    },
-    {
       "id": "45957",
       "loja": "Amazon",
       "titulo": "Jack Daniel's Tennessee Blackberry 1L",
@@ -3637,18 +3733,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-12T13:09:04.423Z"
-    },
-    {
-      "id": "45726",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
-      "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51IA1iUma3L._SL400_.jpg",
-      "preco": 27,
-      "precoDe": 48.75,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T13:07:51.337Z"
     },
     {
       "id": "45709",
@@ -5917,90 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-11T16:29:26.182Z"
-    },
-    {
-      "id": "45125",
-      "loja": "Shopee",
-      "titulo": "5700x Processador Ryzen 7 5700x 3.4ghz (4.6ghz Max) - Novo S/Box",
-      "link": "https://s.shopee.com.br/3B8u8en20b",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-msvv3llffith69_tn",
-      "preco": 859,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "300DATADUPLAAF",
-      "enviadoEm": "2026-11-11T16:28:50.500Z"
-    },
-    {
-      "id": "45121",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
-      "link": "https://meli.la/2iRaPFz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990051-MLA110123026010_042026-F.jpg",
-      "preco": 29.880000000000003,
-      "precoDe": 51.04,
-      "desconto": 35,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:27:28.592Z"
-    },
-    {
-      "id": "45120",
-      "loja": "Amazon",
-      "titulo": "Mibee Compressor de ar portátil com inflador de pneu mini com bateria recarregável de 4000 mAh, bomba de pneu sem fio 150 PSI, luz de emergência LED, bomba de ar calibre de pressão",
-      "link": "https://www.amazon.com.br/dp/B0B56Q7BT8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3109tH4UkWL._SL400_.jpg",
-      "preco": 51,
-      "precoDe": 75.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:27:07.986Z"
-    },
-    {
-      "id": "45118",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Descartável Turma da Mônica Baby M 50 Unidades 12 h",
-      "link": "https://meli.la/17caSXp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
-      "preco": 27.94,
-      "precoDe": 51.04,
-      "desconto": 39,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:25:48.728Z"
-    },
-    {
-      "id": "45117",
-      "loja": "Shopee",
-      "titulo": "Cadiveu Açaí Óleo De Tratamento - 60ml",
-      "link": "https://s.shopee.com.br/1gK6LdzH2E",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztv-mkkzufks4flu43_tn",
-      "preco": 18.45,
-      "precoDe": 123,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:25:25.291Z"
-    },
-    {
-      "id": "45116",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's 700 ml",
-      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
-      "preco": 56.99,
-      "precoDe": 84.9,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:24:10.331Z"
-    },
-    {
-      "id": "45115",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Descartáveis Baby Qu4troSec Com 62 Unidades Tamanho P Turma da Mônica",
-      "link": "https://meli.la/2PXfPzS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944831-MLA110297599476_052026-F.jpg",
-      "preco": 30.58,
-      "precoDe": 51.04,
-      "desconto": 33,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:23:39.501Z"
     }
   ]
 }
