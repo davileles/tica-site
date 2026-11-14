@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-14T12:08:16.711Z",
+  "atualizadoEm": "2026-11-14T12:38:16.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46649",
+      "loja": "Amazon",
+      "titulo": "Mixer 3 em 1 Agratto AMIX02-02 Preto 700ml 220V | 200W",
+      "link": "https://www.amazon.com.br/dp/B0D4B4WF58?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BvnM1M+HL._SL400_.jpg",
+      "preco": 83.46,
+      "precoDe": 199,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T12:36:11.839Z"
+    },
+    {
+      "id": "46647",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/7KyXcPZpsk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mty7oa0hgfls15_tn",
+      "preco": 79.9,
+      "precoDe": 181.59,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T12:26:41.840Z"
+    },
+    {
+      "id": "46641",
+      "loja": "Mercado Livre",
+      "titulo": "Pneu Direction 2 Touring Aro 13 175/70r13 82t Goodyear",
+      "link": "https://meli.la/1PZm9dx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_897712-MLA84608598435_052025-F.jpg",
+      "preco": 243.11999999999998,
+      "precoDe": 319.9,
+      "desconto": 5,
+      "cupom": "MELIMAIS1411",
+      "enviadoEm": "2026-11-14T12:18:14.671Z"
+    },
+    {
+      "id": "46640",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul Marinho",
+      "link": "https://meli.la/2SQr2j8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881368-MLA99701327430_122025-F.jpg",
+      "preco": 144.75,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-11-14T12:13:23.641Z"
+    },
     {
       "id": "46636",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-11T16:52:33.377Z"
-    },
-    {
-      "id": "45180",
-      "loja": "Amazon",
-      "titulo": "Display Misto Barra de Proteína Nutrata com 8 und",
-      "link": "https://www.amazon.com.br/dp/B0GJ7G5QNC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51YudJGzg+L._SL400_.jpg",
-      "preco": 56.43,
-      "precoDe": 73.44,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:51:12.896Z"
-    },
-    {
-      "id": "45173",
-      "loja": "Mercado Livre",
-      "titulo": "Jaqueta Puffer De Frio  Blusa Impermeável Inverno Intenso",
-      "link": "https://meli.la/2QTztvW",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829600-MLB112200803145_052026-O-jaqueta-puffer-de-frio-blusa-impermeavel-inverno-intenso.webp",
-      "preco": 52.190000000000005,
-      "precoDe": 129.99,
-      "desconto": 55,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:49:53.820Z"
-    },
-    {
-      "id": "45172",
-      "loja": "Mercado Livre",
-      "titulo": "Fresh whey Dux nutrition Pistache E Chocolate Branco X 450g",
-      "link": "https://meli.la/2ms93tu",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945865-MLA99990482287_112025-F.jpg",
-      "preco": 79.44,
-      "precoDe": 200,
-      "desconto": 56,
-      "cupom": "PARAVOCEDEZ",
-      "enviadoEm": "2026-11-11T16:48:31.448Z"
-    },
-    {
-      "id": "45167",
-      "loja": "Amazon",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL400_.jpg",
-      "preco": 195,
-      "precoDe": 549,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T16:46:47.251Z"
     }
   ]
 }
