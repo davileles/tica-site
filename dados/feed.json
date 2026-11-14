@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-14T17:38:16.739Z",
+  "atualizadoEm": "2026-11-14T18:08:16.738Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46842",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/9V32ZXAbbO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 39.99,
+      "precoDe": 49.37,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T18:03:45.898Z"
+    },
+    {
+      "id": "46837",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Branco Couro",
+      "link": "https://meli.la/2MSYpaH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603094-MLB108189046365_032026-O-tnis-sapatenis-masculino-sandrini-evoke-lite-branco-couro.webp",
+      "preco": 85.47,
+      "precoDe": 187.48,
+      "desconto": 49,
+      "cupom": "MODA1411",
+      "enviadoEm": "2026-11-14T18:01:14.034Z"
+    },
+    {
+      "id": "46836",
+      "loja": "Amazon",
+      "titulo": "Oster Cafeteira Oster Inox Compacta 0,75L, OCAF300, 220V",
+      "link": "https://www.amazon.com.br/dp/B093HGNHR2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rhTdkBR0L._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 105.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T17:57:32.809Z"
+    },
+    {
+      "id": "46835",
+      "loja": "Amazon",
+      "titulo": "Desinfetante Sanitário Harpic Power Plus, Cloro Forte, 500ml | Desinfecção forte com cloro",
+      "link": "https://www.amazon.com.br/dp/B07DZ9HV6B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dtuNnuElL._SL400_.jpg",
+      "preco": 9.48,
+      "precoDe": 13.49,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T17:52:49.168Z"
+    },
+    {
+      "id": "46834",
+      "loja": "Amazon",
+      "titulo": "Flash Limp - Mop Giratório Fit, Balde 8 litros - MOP5010 - ABS Cinza",
+      "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MouPIBKyL._SL400_.jpg",
+      "preco": 52.67,
+      "precoDe": 139.88,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T17:49:52.276Z"
+    },
+    {
+      "id": "46833",
+      "loja": "Shopee",
+      "titulo": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha Jogo Completo Batedeira Colher Pegador",
+      "link": "https://s.shopee.com.br/7Af7lnuKCZ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7renk-m1xc44ie67goa3_tn",
+      "preco": 55.97,
+      "precoDe": 207.3,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T17:42:49.066Z"
+    },
+    {
+      "id": "46832",
+      "loja": "Amazon",
+      "titulo": "Jogo De Tabuleiro Fazendo Mimica Coluna Multicor",
+      "link": "https://www.amazon.com.br/dp/B07V8ZNFQS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51k+lugkoPL._SL400_.jpg",
+      "preco": 17.99,
+      "precoDe": 19,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T17:41:33.346Z"
+    },
     {
       "id": "46831",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 11,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:02:56.440Z"
-    },
-    {
-      "id": "45579",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "link": "https://s.shopee.com.br/1BNqzPY9F4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mv7t7mbr17nl1d_tn",
-      "preco": 17.48,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:01:10.790Z"
-    },
-    {
-      "id": "45575",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51qfKiTDxyL._SL400_.jpg",
-      "preco": 111.75,
-      "precoDe": 181.64,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T10:53:44.562Z"
-    },
-    {
-      "id": "45571",
-      "loja": "Mercado Livre",
-      "titulo": "Top Lupo Loba Fitness Confortável Ótima Sustentação Academia - R$ 41,90",
-      "link": "https://meli.la/1pi3yn5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690710-MLB118739205774_102026-P.webp",
-      "preco": 41.9,
-      "precoDe": 78.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T10:26:31.814Z"
-    },
-    {
-      "id": "45539",
-      "loja": "Shopee",
-      "titulo": "Tupia Laminadora Manual 6,35mm 600w com 110V e 200V",
-      "link": "https://s.shopee.com.br/30pUNKGDmQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdamkglhch6p09_tn",
-      "preco": 109.98,
-      "precoDe": 297.24,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T23:02:30.991Z"
-    },
-    {
-      "id": "45535",
-      "loja": "Shopee",
-      "titulo": "Potes de Vidro redondo 200/300/550/1200/1500/1700/2000ml Tampa de Bambu Hermético Mantimentos Condimentos Empilhaveis",
-      "link": "https://s.shopee.com.br/1BsnlFiti",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msofibu8ub5y25_tn",
-      "preco": 12.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T23:00:36.135Z"
-    },
-    {
-      "id": "45533",
-      "loja": "Amazon",
-      "titulo": "Detergente Ypê Neutro 5L",
-      "link": "https://www.amazon.com.br/dp/B07HZMBBBQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yWMrjo8+L._SL400_.jpg",
-      "preco": 18,
-      "precoDe": 33.49,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T22:42:44.326Z"
-    },
-    {
-      "id": "45531",
-      "loja": "Amazon",
-      "titulo": "Jogo De Ferramentas Com 163 Peças Vonder | 163 Peças, Uso Profissional, Reparos Domésticos",
-      "link": "https://www.amazon.com.br/dp/B0C9TZPX5J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ny0YOrSjL._SL400_.jpg",
-      "preco": 269.9,
-      "precoDe": 617.38,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T22:39:51.816Z"
     }
   ]
 }
