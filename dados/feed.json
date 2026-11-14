@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T14:02:48.674Z",
+  "atualizadoEm": "2026-11-14T14:08:16.714Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46687",
+      "loja": "Mercado Livre",
+      "titulo": "Colcha Solteiro Dupla Face Cobre Leito Menino Menina Flores",
+      "link": "https://meli.la/34dWjSZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_712316-MLB120417794549_102026-P.webp",
+      "preco": 48.2,
+      "precoDe": 78.98,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T14:07:39.407Z"
+    },
     {
       "id": "46678",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-11-11T17:12:29.684Z"
-    },
-    {
-      "id": "45063",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Quebra Cabeça Infantil Mdf 9 Peças c/ Moldura Jogo Pedagógico Lúdico Educativo",
-      "link": "https://s.shopee.com.br/60T5U0aIo7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr5krpxobw9107_tn",
-      "preco": 14.99,
-      "precoDe": 40.51,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T17:11:59.695Z"
     }
   ]
 }
