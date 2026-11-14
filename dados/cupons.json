@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T18:34:47.815Z",
+  "atualizadoEm": "2026-11-14T19:01:37.478Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,18 +231,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BLACKPELE",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido para categoria Farmácias",
-      "validadeAte": "2026-11-14T19:00:17.000Z",
-      "url": null
-    },
-    {
       "codigo": "CORREDORBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -255,15 +243,15 @@
       "url": null
     },
     {
-      "codigo": "COLABLACK",
+      "codigo": "BFCUIDADO",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 12,
-      "minimo": 27,
+      "valor": 15,
+      "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
-      "validadeAte": "2026-11-14T18:42:23.000Z",
+      "observacao": "Válido para Farmácias",
+      "validadeAte": "2026-11-15T19:00:13.000Z",
       "url": null
     },
     {
