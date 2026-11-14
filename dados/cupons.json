@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T14:02:50.394Z",
+  "atualizadoEm": "2026-11-14T14:38:18.346Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,18 +231,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BLACKSHOP",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Shoppings",
-      "validadeAte": "2026-11-14T14:34:42.000Z",
-      "url": null
-    },
-    {
       "codigo": "BLACKCESTA",
       "loja": "iFood",
       "tipo": "reais",
@@ -421,18 +409,6 @@
       "observacao": "Cupons para uso no app Magalu",
       "validadeAte": "2026-11-14T22:45:41.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO141126SITE",
@@ -1703,7 +1679,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1752,6 +1728,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-14T16:00:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1967,7 +1955,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2039,7 +2027,79 @@
       "maximo": null,
       "limite": 70,
       "observacao": null,
-      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GARNIERNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOREALNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAYBELLINENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELSEVENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DUCRAYMELI15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 145,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NTK12P",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-15T14:16:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
