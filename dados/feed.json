@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-14T22:08:16.739Z",
+  "atualizadoEm": "2026-11-14T22:21:52.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46876",
+      "loja": "Amazon",
+      "titulo": "Pack de Coca-Cola Lata 350ML 6 unidades",
+      "link": "https://www.amazon.com.br/dp/B09JZ8J5ZD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/5107PLcQ1YL._SL400_.jpg",
+      "preco": 20.99,
+      "precoDe": 24.24,
+      "desconto": 13,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T22:11:52.070Z"
+    },
+    {
+      "id": "46875",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
+      "preco": 35.99,
+      "precoDe": 69.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T22:10:32.278Z"
+    },
+    {
+      "id": "46874",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
+      "link": "https://meli.la/264DryR",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942823-MLA113526261849_062026-F.jpg",
+      "preco": 58,
+      "precoDe": 129,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T22:10:03.411Z"
+    },
     {
       "id": "46873",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:08:09.220Z"
-    },
-    {
-      "id": "45637",
-      "loja": "Mercado Livre",
-      "titulo": "2 Arandela 5 Vidros Retangular Alumínio Muro Parede Externa - R$ 78,90",
-      "link": "https://meli.la/1wFmr75",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789419-MLB76497994954_052024-P.webp",
-      "preco": 217.92,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELHORDOMELIHJ",
-      "enviadoEm": "2026-11-12T12:06:45.822Z"
-    },
-    {
-      "id": "45619",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CFT5T9dTL._SL400_.jpg",
-      "preco": 85.24,
-      "precoDe": 118.91,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:52:14.978Z"
-    },
-    {
-      "id": "45615",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol 750ml",
-      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
-      "preco": 49.88,
-      "precoDe": 71.39,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:51:03.505Z"
     }
   ]
 }
