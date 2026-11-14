@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T19:58:59.046Z",
+  "atualizadoEm": "2026-11-14T20:20:06.974Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46857",
+      "loja": "Shopee",
+      "titulo": "Saco de Lixo Aroma Lavanda e Citronela 10, 15, 30, 50 e 100 Litros - Qualysack",
+      "link": "https://s.shopee.com.br/6L60wNzKxp",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1z7v5992x3ed_tn",
+      "preco": 9.22,
+      "precoDe": 14.87,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T20:10:06.972Z"
+    },
     {
       "id": "46856",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:25:35.587Z"
-    },
-    {
-      "id": "45592",
-      "loja": "Amazon",
-      "titulo": "Bosch Bolsa Média De Transporte Para Ferramentas",
-      "link": "https://www.amazon.com.br/dp/B078WHM1G9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vvMSFV9sL._SL400_.jpg",
-      "preco": 122.38,
-      "precoDe": 189.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:23:20.662Z"
     }
   ]
 }
