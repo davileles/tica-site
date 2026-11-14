@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T14:38:18.346Z",
+  "atualizadoEm": "2026-11-14T15:08:19.670Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1863,18 +1863,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECORNATAL1311",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 129,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T15:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZABLACK20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1983,18 +1971,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROSJOGOS1311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-14T15:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LIVROSEJOGOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2091,6 +2067,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ELETRO1411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-15T15:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTO1411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-15T15:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "NTK12P",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2136,6 +2136,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA1411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-15T15:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2725,18 +2737,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "S3U4DMF4V",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T15:00:27.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
