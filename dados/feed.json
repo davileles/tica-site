@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-14T13:18:44.852Z",
+  "atualizadoEm": "2026-11-14T13:38:16.713Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46671",
+      "loja": "Shopee",
+      "titulo": "Chapinha prancha Modelador E Alisador De Cabelo E Barba Masculino",
+      "link": "https://s.shopee.com.br/9AQBs6uzRB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0lx5a03o8sh41_tn",
+      "preco": 19.99,
+      "precoDe": 66.63,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:29:48.768Z"
+    },
+    {
+      "id": "46670",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades | Conforto para recém-nascidos",
+      "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41crDkHDxuL._SL400_.jpg",
+      "preco": 18,
+      "precoDe": 28.68,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:27:16.066Z"
+    },
+    {
+      "id": "46669",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Descanso para Bebê Multikids Baby Nap Time, 0 a 11kg | Rosa, Cinto de 3 Pontos, Com Acessórios Interativos",
+      "link": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51AZ42g1FxL._SL400_.jpg",
+      "preco": 103,
+      "precoDe": 299.9,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:26:47.653Z"
+    },
+    {
+      "id": "46668",
+      "loja": "Amazon",
+      "titulo": "Styll Baby Bebê Conforto Até 13Kg Preto E Grafite",
+      "link": "https://www.amazon.com.br/dp/B07X9VHBT4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51hlLKqcI-L._SL400_.jpg",
+      "preco": 235,
+      "precoDe": 319.9,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:26:26.071Z"
+    },
+    {
+      "id": "46666",
+      "loja": "Amazon",
+      "titulo": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 127V",
+      "link": "https://www.amazon.com.br/dp/B076YLG74Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FBs0g03AL._SL400_.jpg",
+      "preco": 175.53,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:23:10.535Z"
+    },
     {
       "id": "46664",
       "loja": "Shopee",
@@ -5941,66 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-11T17:09:19.094Z"
-    },
-    {
-      "id": "45214",
-      "loja": "Amazon",
-      "titulo": "Buba Tucano Musical De Atividades",
-      "link": "https://www.amazon.com.br/dp/B09WBWZ238?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Yp04dK3uL._SL400_.jpg",
-      "preco": 62.7,
-      "precoDe": 66.88,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T17:08:36.316Z"
-    },
-    {
-      "id": "45209",
-      "loja": "Amazon",
-      "titulo": "Fórmula Infantil Aptamil RR 800G - Kit 2 latas",
-      "link": "https://www.amazon.com.br/dp/B0DV9RMDWT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/410+-Sz8JUL._SL400_.jpg",
-      "preco": 175,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T17:07:53.585Z"
-    },
-    {
-      "id": "45203",
-      "loja": "Mercado Livre",
-      "titulo": "Geladeira Inteligente Frost Free Duplex 476 Litros Branca Br Branco 110v/220v",
-      "link": "https://meli.la/2i3i2iq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_749733-MLA116703931499_082026-F.jpg",
-      "preco": 2699,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOCOMTECH",
-      "enviadoEm": "2026-11-11T17:07:30.890Z"
-    },
-    {
-      "id": "45200",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Tcl 25g64 25 Qd-mini Led 300hz Preto",
-      "link": "https://meli.la/2LPGhX6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789392-MLA116823388817_082026-P.webp",
-      "preco": 993.52,
-      "precoDe": 1599,
-      "desconto": 29,
-      "cupom": "PROMOCOMTECH",
-      "enviadoEm": "2026-11-11T17:03:25.361Z"
-    },
-    {
-      "id": "45198",
-      "loja": "Mercado Livre",
-      "titulo": "Celular Samsung Galaxy S25 Ultra 5g, 512gb, 12gb Ram, Câmera Quádrupla De 200+50+10+50, Tela Grande De 6.9 Titânio Preto",
-      "link": "https://meli.la/2Vph7VA",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_827997-MLA117269614668_102026-F.jpg",
-      "preco": 4987,
-      "precoDe": 5842,
-      "desconto": 15,
-      "cupom": "PROMOCOMTECH",
-      "enviadoEm": "2026-11-11T17:00:43.580Z"
     }
   ]
 }
