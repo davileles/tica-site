@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T13:08:16.714Z",
+  "atualizadoEm": "2026-11-14T13:18:44.852Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46664",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa Grande 40x70/30x50CM Caixa Cesto Dobrável Para Roupas E Brinquedos Cesto Infantil Casa Caixa Organizado",
+      "link": "https://s.shopee.com.br/9AQBqfMXuX",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-muyst4850bnk97_tn",
+      "preco": 14.99,
+      "precoDe": 27.25,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:08:44.850Z"
+    },
     {
       "id": "46662",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": "PROMOCOMTECH",
       "enviadoEm": "2026-11-11T17:00:43.580Z"
-    },
-    {
-      "id": "45197",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Aoc Agon G4s 25\" 310Hz 0.3ms Hdr10 Ips Base Ajustável 25G4s/P",
-      "link": "https://meli.la/2rY7CUb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648556-MLB96653448950_112025-P.webp",
-      "preco": 967.12,
-      "precoDe": 2427.14,
-      "desconto": 55,
-      "cupom": "PROMOCOMTECH",
-      "enviadoEm": "2026-11-11T16:59:24.528Z"
     }
   ]
 }
