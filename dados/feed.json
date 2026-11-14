@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T13:38:16.713Z",
+  "atualizadoEm": "2026-11-14T13:49:02.572Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46674",
+      "loja": "Amazon",
+      "titulo": "Jack Daniel's Tennessee Honey 1L",
+      "link": "https://www.amazon.com.br/dp/B00C12TAB0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aFb+ORHpL._SL400_.jpg",
+      "preco": 113.99,
+      "precoDe": 174.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T13:39:02.561Z"
+    },
     {
       "id": "46671",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 67,
       "cupom": null,
       "enviadoEm": "2026-11-11T17:10:39.945Z"
-    },
-    {
-      "id": "45047",
-      "loja": "Shopee",
-      "titulo": "Mini Torno Bancada Profissional Base Fixa Morsa 40mm Aço Reforçado Starfer Liga Aluminio CTZ",
-      "link": "https://s.shopee.com.br/Loij2s4wU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mu9kx92vd8n77c_tn",
-      "preco": 32.46,
-      "precoDe": 49.94,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-11T17:09:19.094Z"
     }
   ]
 }
