@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-14T18:08:16.738Z",
+  "atualizadoEm": "2026-11-14T18:34:46.241Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46843",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/5LDTdJqWbX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 56.91,
+      "precoDe": 93.3,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-14T18:24:46.237Z"
+    },
     {
       "id": "46842",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-12T11:03:30.206Z"
-    },
-    {
-      "id": "45581",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto By Total 20v Brushless 66 Azul",
-      "link": "https://meli.la/19wv3EQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_747869-MLA111138424404_052026-F.jpg",
-      "preco": 391.6,
-      "precoDe": 440,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T11:02:56.440Z"
     }
   ]
 }
