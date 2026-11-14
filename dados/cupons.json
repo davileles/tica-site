@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-14T12:08:18.564Z",
+  "atualizadoEm": "2026-11-14T12:38:18.747Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BLACK100OFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T12:31:50.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "MEGABLASTBF",
       "loja": "ASICS",
