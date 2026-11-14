@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T15:08:19.670Z",
+  "atualizadoEm": "2026-11-14T16:08:18.896Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -409,6 +409,18 @@
       "observacao": "Cupons para uso no app Magalu",
       "validadeAte": "2026-11-14T22:45:41.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PROMOTEC",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2299,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-15T16:01:43.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO141126SITE",
@@ -1635,18 +1647,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAS25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T16:00:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTOJUSTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1719,25 +1719,13 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFERTAS22",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-14T16:00:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
-      "tipo": "reais",
+      "tipo": "pct",
       "valor": 20,
-      "minimo": 119,
+      "minimo": 299,
       "maximo": null,
-      "limite": 20,
+      "limite": 80,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
