@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-14T13:08:18.492Z",
+  "atualizadoEm": "2026-11-14T13:18:46.947Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -433,6 +433,18 @@
       "observacao": "Cupons para uso no app Magalu",
       "validadeAte": "2026-11-14T22:45:41.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO141126SITE",
@@ -1767,18 +1779,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-15T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2099,7 +2099,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-15T13:02:24.000Z",
+      "validadeAte": "2026-11-15T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2691,30 +2691,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "11DO11TECH",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 120,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T13:17:04.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "AUTOEMOTO",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T13:17:09.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "S3U4DMF4V",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2724,18 +2700,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-14T15:00:27.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "C0RR1D411D011",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-14T13:17:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
