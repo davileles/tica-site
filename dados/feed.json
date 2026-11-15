@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-15T13:18:30.814Z",
+  "atualizadoEm": "2026-11-15T13:38:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46921",
+      "loja": "Shopee",
+      "titulo": "Capa Volante Carro Couro Universal  Costurada acessórios para carro",
+      "link": "https://s.shopee.com.br/1ByY7znJB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0us9vcjpk0w5c_tn",
+      "preco": 15.19,
+      "precoDe": 29.78,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T13:29:27.545Z"
+    },
+    {
+      "id": "46919",
+      "loja": "Amazon",
+      "titulo": "Café Orfeu Clássico Torrado e Moído 250g",
+      "link": "https://www.amazon.com.br/dp/B0783NPFQ2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Xe-Bb4X7L._SL400_.jpg",
+      "preco": 27.5,
+      "precoDe": 45,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T13:25:15.935Z"
+    },
     {
       "id": "46913",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:45:22.182Z"
-    },
-    {
-      "id": "45685",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 16e (128 GB) - Branco",
-      "link": "https://meli.la/1XkbHYj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_938094-MLA96869129517_102025-F.jpg",
-      "preco": 3119,
-      "precoDe": 3665,
-      "desconto": 15,
-      "cupom": "OFERTASTECH",
-      "enviadoEm": "2026-11-12T12:44:02.214Z"
-    },
-    {
-      "id": "45684",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
-      "link": "https://meli.la/2xpTeHj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875648-MLA114424086500_082026-F.jpg",
-      "preco": 155.44,
-      "precoDe": 228.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:42:42.788Z"
     }
   ]
 }
