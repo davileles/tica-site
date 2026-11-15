@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T17:08:16.744Z",
+  "atualizadoEm": "2026-11-15T17:20:24.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46990",
+      "loja": "Amazon",
+      "titulo": "LEGO Technic Monster Jam™ DIGatron™ de Puxar 42199 (218 Peças)",
+      "link": "https://www.amazon.com.br/dp/B0DJ1C8TGP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51yz+OBz4XL._SL400_.jpg",
+      "preco": 147.43,
+      "precoDe": 259.99,
+      "desconto": 29,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-15T17:10:24.343Z"
+    },
     {
       "id": "46989",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
       "enviadoEm": "2026-11-12T15:32:05.974Z"
-    },
-    {
-      "id": "45840",
-      "loja": "Mercado Livre",
-      "titulo": "3 Body Splash Good Graces Delight Roses Barbour's Beauty",
-      "link": "https://meli.la/2Mtgkck",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919324-MLA114058044083_072026-F.jpg",
-      "preco": 71.91000000000001,
-      "precoDe": 184.9,
-      "desconto": 57,
-      "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
-      "enviadoEm": "2026-11-12T15:30:37.631Z"
     }
   ]
 }
