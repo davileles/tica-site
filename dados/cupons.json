@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T19:08:18.436Z",
+  "atualizadoEm": "2026-11-15T20:38:18.254Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1920,6 +1920,18 @@
       "limite": 25,
       "observacao": "Cupons válidos em selecionados",
       "validadeAte": "2026-11-16T18:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MARCASCOREANAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 25,
+      "observacao": null,
+      "validadeAte": "2026-11-15T22:00:34.798Z",
       "url": "https://meli.la/2xystLt"
     },
     {
