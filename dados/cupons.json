@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T13:08:18.690Z",
+  "atualizadoEm": "2026-11-15T14:38:18.479Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1823,7 +1823,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-16T12:03:43.000Z",
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1835,7 +1835,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-16T12:03:43.000Z",
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1871,7 +1871,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
+      "validadeAte": "2026-11-15T15:00:45.253Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1884,66 +1884,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GARNIERNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOREALNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAYBELLINENOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELSEVENOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 69,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DUCRAYMELI15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 145,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1991,19 +1931,7 @@
       "maximo": null,
       "limite": 70,
       "observacao": null,
-      "validadeAte": "2026-11-16T12:03:43.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "NTK12P",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 30,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-15T14:16:05.000Z",
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2087,7 +2015,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-16T12:03:43.000Z",
+      "validadeAte": "2026-11-16T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
