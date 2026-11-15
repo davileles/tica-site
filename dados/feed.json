@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-15T14:38:16.745Z",
+  "atualizadoEm": "2026-11-15T15:08:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46943",
+      "loja": "Amazon",
+      "titulo": "Electrolux Panela pressão elétrica capacidade 3L silenciosa segura 9 travas segurança timer feijão manter aquecido alça antitermica PCE15 inox 220v por Rita Lobo",
+      "link": "https://www.amazon.com.br/dp/B0BZ8XF2H8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I4EJgfKiL._SL400_.jpg",
+      "preco": 309.9,
+      "precoDe": 539.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T15:02:56.074Z"
+    },
+    {
+      "id": "46941",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto - R$ 89,99",
+      "link": "https://meli.la/2DcuUX3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_692628-MLB119722648743_102026-P.webp",
+      "preco": 80.99,
+      "precoDe": 229.99,
+      "desconto": 61,
+      "cupom": "LOJASOFICIAIS1511",
+      "enviadoEm": "2026-11-15T14:53:39.342Z"
+    },
+    {
+      "id": "46940",
+      "loja": "Shopee",
+      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness Micro-ondas Freezer Forno Organização",
+      "link": "https://s.shopee.com.br/4B1XbUD45c",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
+      "preco": 27.89,
+      "precoDe": 64.86,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T14:52:25.973Z"
+    },
     {
       "id": "46937",
       "loja": "Amazon",
@@ -5583,18 +5619,6 @@
       "enviadoEm": "2026-11-12T15:40:15.518Z"
     },
     {
-      "id": "45846",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "link": "https://meli.la/2DcuUX3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696772-MLB119102221220_112026-O-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
-      "preco": 76.49,
-      "precoDe": 229.99,
-      "desconto": 61,
-      "cupom": "LOJASOFICIAIS1211",
-      "enviadoEm": "2026-11-12T15:38:59.489Z"
-    },
-    {
       "id": "45841",
       "loja": "Mercado Livre",
       "titulo": "Medicube Zero Pore Pad 2.0 - 70 Unidades",
@@ -5977,30 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-12T13:12:58.990Z"
-    },
-    {
-      "id": "45727",
-      "loja": "Mercado Livre",
-      "titulo": "Kit De Ferramentas 110 Peças Wap Profissional Wf M110 Maleta",
-      "link": "https://meli.la/1veK9kF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978797-MLB117407765866_102026-P.webp",
-      "preco": 589,
-      "precoDe": 1099,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T13:09:04.423Z"
-    },
-    {
-      "id": "45709",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/1GDboes",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893051-MLB110841716649_042026-P.webp",
-      "preco": 140.06,
-      "precoDe": 203.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:56:35.229Z"
     }
   ]
 }
