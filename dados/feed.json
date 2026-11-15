@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-15T12:25:25.082Z",
+  "atualizadoEm": "2026-11-15T12:38:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46908",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Tcl 25 Polegadas Qd-Mini Led Full Hd G64 300hz 1ms (Gtg) Freesync Hdr 600 Nits 25g64",
+      "link": "https://meli.la/2JapqS9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
+      "preco": 1020.6,
+      "precoDe": 1599,
+      "desconto": 29,
+      "cupom": "OFFTEC",
+      "enviadoEm": "2026-11-15T12:28:52.156Z"
+    },
+    {
+      "id": "46907",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Acer Gamer 27 Kg270 240hz 0,5ms Hdr 10 Ips Nitro Preto",
+      "link": "https://meli.la/1rXtnwM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_941880-MLA107656241687_022026-F.jpg",
+      "preco": 762.3,
+      "precoDe": 999,
+      "desconto": 15,
+      "cupom": "VIPNOML",
+      "enviadoEm": "2026-11-15T12:27:36.896Z"
+    },
+    {
+      "id": "46906",
+      "loja": "Shopee",
+      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
+      "link": "https://s.shopee.com.br/5VWv1u3a11",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
+      "preco": 26,
+      "precoDe": 50,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T12:26:23.633Z"
+    },
     {
       "id": "46905",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:39:16.680Z"
-    },
-    {
-      "id": "45678",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-      "link": "https://meli.la/2ikMj3e",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_846947-MLA117748247725_092026-F.jpg",
-      "preco": 155.44,
-      "precoDe": 228.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:38:05.019Z"
-    },
-    {
-      "id": "45677",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Azul",
-      "link": "https://meli.la/2e14Etm",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713228-MLA113635732236_072026-F.jpg",
-      "preco": 1079,
-      "precoDe": 2855,
-      "desconto": 62,
-      "cupom": "OFERTASTECH",
-      "enviadoEm": "2026-11-12T12:37:43.118Z"
-    },
-    {
-      "id": "45673",
-      "loja": "Amazon",
-      "titulo": "Rexona Antitranspirante Masculino Aerossol Antibacterial e Invisible 250 ML, Leve Mais Pague Menos, Embalagem Pode Variar",
-      "link": "https://www.amazon.com.br/dp/B09K2RXMR8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319KVmVikhL._SL400_.jpg",
-      "preco": 17.72,
-      "precoDe": 23.79,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:36:30.613Z"
     }
   ]
 }
