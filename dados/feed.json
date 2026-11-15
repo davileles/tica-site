@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T13:38:16.745Z",
+  "atualizadoEm": "2026-11-15T14:00:22.496Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46926",
+      "loja": "Shopee",
+      "titulo": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "link": "https://s.shopee.com.br/9KjdgipuLM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1_tn",
+      "preco": 10.8,
+      "precoDe": 21.6,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T13:50:22.493Z"
+    },
     {
       "id": "46921",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:45:49.781Z"
-    },
-    {
-      "id": "45686",
-      "loja": "Amazon",
-      "titulo": "Rexona Antitranspirante Aerossol Active Dry Men 250 ML, Leve Mais Pague Menos, Embalagem Pode Variar",
-      "link": "https://www.amazon.com.br/dp/B09K2S2XK3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318SmoGi71L._SL400_.jpg",
-      "preco": 18.99,
-      "precoDe": 24.99,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:45:22.182Z"
     }
   ]
 }
