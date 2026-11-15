@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T14:00:22.496Z",
+  "atualizadoEm": "2026-11-15T14:08:16.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46927",
+      "loja": "Mercado Livre",
+      "titulo": "Loção Hidratante Corporal 3 Ceramidas Hidratação 120h CeraVe 473ml",
+      "link": "https://meli.la/1mLMtRm",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_930930-MLA118355221530_102026-F.jpg",
+      "preco": 81.82,
+      "precoDe": 143.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T14:06:35.289Z"
+    },
     {
       "id": "46926",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:47:06.796Z"
-    },
-    {
-      "id": "45691",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec P 50 unidades",
-      "link": "https://meli.la/2PQy1Ah",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871401-MLA99584710690_122025-F.jpg",
-      "preco": 44.99,
-      "precoDe": 70.9,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:45:49.781Z"
     }
   ]
 }
