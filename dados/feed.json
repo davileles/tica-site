@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-15T17:20:24.345Z",
+  "atualizadoEm": "2026-11-15T17:38:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46994",
+      "loja": "Amazon",
+      "titulo": "Tangle Teezer - Escova de cabelo desemabaraçadora The Original Mini para todos os tipos de cabelo, úmido e seco, Cor: Amarelo",
+      "link": "https://www.amazon.com.br/dp/B0DPJS48KG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4147Cr10f1L._SL400_.jpg",
+      "preco": 54.82,
+      "precoDe": 85,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T17:35:09.511Z"
+    },
+    {
+      "id": "46993",
+      "loja": "Amazon",
+      "titulo": "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml | Anticaspa mentolado refrescante",
+      "link": "https://www.amazon.com.br/dp/B07LFGWRC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41k6AMqjx8L._SL400_.jpg",
+      "preco": 21.49,
+      "precoDe": 31.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T17:32:14.487Z"
+    },
+    {
+      "id": "46992",
+      "loja": "Mercado Livre",
+      "titulo": "Mixer Philco Pmx2000 3 Em 1 Inox 800w cor preto",
+      "link": "https://meli.la/1NsGJQq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986954-MLU73290586109_122023-F.jpg",
+      "preco": 211.11,
+      "precoDe": 227,
+      "desconto": 7,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T17:25:15.927Z"
+    },
+    {
+      "id": "46991",
+      "loja": "Shopee",
+      "titulo": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
+      "link": "https://s.shopee.com.br/80EGKhGHpv",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71_tn",
+      "preco": 20.88,
+      "precoDe": 39.4,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T17:20:32.223Z"
+    },
     {
       "id": "46990",
       "loja": "Amazon",
@@ -4035,18 +4083,6 @@
       "enviadoEm": "2026-11-13T14:53:32.620Z"
     },
     {
-      "id": "46328",
-      "loja": "Amazon",
-      "titulo": "Tangle Teezer - Escova de cabelo desemabaraçadora The Original Mini para todos os tipos de cabelo, úmido e seco, Cor: Amarelo",
-      "link": "https://www.amazon.com.br/dp/B0DPJS48KG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4147Cr10f1L._SL400_.jpg",
-      "preco": 49.34,
-      "precoDe": 85,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:52:16.478Z"
-    },
-    {
       "id": "46327",
       "loja": "Amazon",
       "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "LOJASOFICIAIS1211",
       "enviadoEm": "2026-11-12T15:42:42.812Z"
-    },
-    {
-      "id": "45849",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Lençóis Descartáveis de Papel Hospitalar para Maca 50x50 cm cada rolo",
-      "link": "https://s.shopee.com.br/4VeJGmRuy8",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82620-mky7ry9imkn5d7_tn",
-      "preco": 89.89,
-      "precoDe": 140.45,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T15:41:29.271Z"
-    },
-    {
-      "id": "45847",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 3 Camisetas Polo Wear",
-      "link": "https://meli.la/2ua3qdF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875795-MLB120297125317_102026-P.webp",
-      "preco": 84.99,
-      "precoDe": 179.99,
-      "desconto": 44,
-      "cupom": "LOJASOFICIAIS1211",
-      "enviadoEm": "2026-11-12T15:40:15.518Z"
-    },
-    {
-      "id": "45841",
-      "loja": "Mercado Livre",
-      "titulo": "Medicube Zero Pore Pad 2.0 - 70 Unidades",
-      "link": "https://meli.la/2tJwFZC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_957010-MLA110921815717_042026-F.jpg",
-      "preco": 99.52,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CUPOMPRASAUDE ou MAISDESCONTOHOJE",
-      "enviadoEm": "2026-11-12T15:32:05.974Z"
     }
   ]
 }
