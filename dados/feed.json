@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T18:08:16.744Z",
+  "atualizadoEm": "2026-11-15T18:54:01.974Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47008",
+      "loja": "Shopee",
+      "titulo": "Prateleira de Metal Adesiva Sem Furo para Banheiro e Cozinha, Organizador de Parede Porta Shampoo e Sabonete",
+      "link": "https://s.shopee.com.br/1BNwHsHhRj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 16.99,
+      "precoDe": 32.67,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T18:44:01.971Z"
+    },
     {
       "id": "47004",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 48,
       "cupom": "OBRAMELI",
       "enviadoEm": "2026-11-12T16:16:34.278Z"
-    },
-    {
-      "id": "45869",
-      "loja": "Mercado Livre",
-      "titulo": "Placa De Vídeo Geforce Rtx 5060 Windforce Oc 8g Gigabyte GDDR7",
-      "link": "https://meli.la/23ax39Y",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_844442-MLA99993573853_112025-F.jpg",
-      "preco": 2440,
-      "precoDe": 3040,
-      "desconto": 7,
-      "cupom": "TECHSEMPRE",
-      "enviadoEm": "2026-11-12T16:15:19.076Z"
     }
   ]
 }
