@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T21:30:41.186Z",
+  "atualizadoEm": "2026-11-15T22:08:16.748Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47033",
+      "loja": "Mercado Livre",
+      "titulo": "Ventilador De Teto 6 Velocidades Nepul Led Bivolt Controle Remoto 5 Pás 71 Cm 60hz Branco Plástico",
+      "link": "https://meli.la/2FchvzX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_614526-MLA116816472248_092026-F.jpg",
+      "preco": 165.70000000000002,
+      "precoDe": 599,
+      "desconto": 63,
+      "cupom": "SOECONOMIA",
+      "enviadoEm": "2026-11-15T22:07:32.580Z"
+    },
     {
       "id": "47029",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-12T16:54:02.778Z"
-    },
-    {
-      "id": "45926",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira Escritório Ergonômica Mesh Giratoria Reclinavel Olinda Plus RSH650 Rishon Cor Preto Com Suporte Lombar Estofado",
-      "link": "https://meli.la/339FHnN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610249-MLA118922357551_102026-F.jpg",
-      "preco": 258.91,
-      "precoDe": 1299,
-      "desconto": 80,
-      "cupom": "MELHORDOMELIHJ",
-      "enviadoEm": "2026-11-12T16:52:53.407Z"
     }
   ]
 }
