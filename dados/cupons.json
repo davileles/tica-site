@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T17:20:26.016Z",
+  "atualizadoEm": "2026-11-15T17:38:18.448Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -349,18 +349,6 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CUPOMPRATEC",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2299,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom 1: R$ 300 de desconto em compras a partir de R$ 2299. Cupom 2: 25% OFF com limite máximo de R$ 500 de desconto.",
-      "validadeAte": "2026-11-16T16:01:42.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "DECORELETRO1411",
