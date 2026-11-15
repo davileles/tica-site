@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T18:38:17.016Z",
+  "atualizadoEm": "2026-11-15T19:08:18.436Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -240,18 +240,6 @@
       "limite": null,
       "observacao": "Desconto válido em pedidos via Mercado no iFood",
       "validadeAte": "2026-11-16T18:00:19.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFCUIDADO",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para Farmácias",
-      "validadeAte": "2026-11-15T19:00:13.000Z",
       "url": null
     },
     {
