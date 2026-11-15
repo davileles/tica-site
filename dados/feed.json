@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-15T20:08:16.745Z",
+  "atualizadoEm": "2026-11-15T20:38:16.746Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47020",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Hugo Boss Bottled Night Masculino Eau De Toilette 100Ml",
+      "link": "https://meli.la/1Ztk8oD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836103-MLA84833570173_052025-F.jpg",
+      "preco": 279.99,
+      "precoDe": 599,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T20:32:00.819Z"
+    },
+    {
+      "id": "47019",
+      "loja": "Mercado Livre",
+      "titulo": "Chloé Rose Tangerine Eau De Toilette - Perfume Feminino 50ml",
+      "link": "https://meli.la/2KKATHG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991730-MLA84536584686_052025-F.jpg",
+      "preco": 284.05,
+      "precoDe": 299,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T20:30:43.665Z"
+    },
+    {
+      "id": "47018",
+      "loja": "Shopee",
+      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
+      "link": "https://s.shopee.com.br/gRfoAWctT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
+      "preco": 23.31,
+      "precoDe": 25.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T20:29:04.837Z"
+    },
     {
       "id": "47017",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-11-12T16:41:01.101Z"
-    },
-    {
-      "id": "45893",
-      "loja": "Amazon",
-      "titulo": "Havit Fone de Ouvido Headset Gamer Fuxi-H3 White Black, Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C, Cabo 3,5mm. Surround, Baixa Latência, Quad-Mode",
-      "link": "https://www.amazon.com.br/dp/B0CK2DP7FX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hjQxbzcLL._SL400_.jpg",
-      "preco": 143.88,
-      "precoDe": 278.97,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T16:36:42.399Z"
-    },
-    {
-      "id": "45891",
-      "loja": "Amazon",
-      "titulo": "Havit Fone de Ouvido Headset Gamer Fuxi-H3 Black Com Fio e Sem Fio, Wireless 2,4GHz, Bluetooth, Cabo USB-C",
-      "link": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HSHdfDfxL._SL400_.jpg",
-      "preco": 144.99,
-      "precoDe": 265.45,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T16:35:25.320Z"
-    },
-    {
-      "id": "45890",
-      "loja": "Mercado Livre",
-      "titulo": "Mini Kit Presente Nativa Spa Ameixa Boticário (3 Itens)",
-      "link": "https://meli.la/2oQ5Y3a",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688844-MLA84845461983_052025-F.jpg",
-      "preco": 87.46000000000001,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIAIS1211",
-      "enviadoEm": "2026-11-12T16:32:40.238Z"
     }
   ]
 }
