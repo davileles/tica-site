@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T22:08:18.550Z",
+  "atualizadoEm": "2026-11-15T23:08:17.044Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1075,7 +1075,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
