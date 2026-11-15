@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T16:30:31.978Z",
+  "atualizadoEm": "2026-11-15T16:38:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46978",
+      "loja": "Mercado Livre",
+      "titulo": "iPhone 18 Pro Max 512GB Prateado - Distribuidor Autorizado",
+      "link": "https://meli.la/2KWuJSV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790901-MLA117486592729_092026-F.jpg",
+      "preco": 10702,
+      "precoDe": 14499,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T16:33:17.560Z"
+    },
     {
       "id": "46975",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-12T14:33:40.821Z"
-    },
-    {
-      "id": "45807",
-      "loja": "Amazon",
-      "titulo": "Absorventes Descartáveis para Seios Philips Avent | Ultra Absorção, Antivazamento e Toque Suave para Amamentação, 24 Unidades - 254/24",
-      "link": "https://www.amazon.com.br/dp/B078JW1YHW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41roLP1EMwL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 23.9,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T14:33:15.985Z"
     }
   ]
 }
