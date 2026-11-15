@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T15:08:18.442Z",
+  "atualizadoEm": "2026-11-15T16:08:18.348Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -351,15 +351,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "PROMOTEC",
+      "codigo": "CUPOMPRATEC",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 300,
       "minimo": 2299,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-15T16:01:43.000Z",
+      "observacao": "Cupom 1: R$ 300 de desconto em compras a partir de R$ 2299. Cupom 2: 25% OFF com limite máximo de R$ 500 de desconto.",
+      "validadeAte": "2026-11-16T16:01:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1632,6 +1632,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASML25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupom 1: R$ 300 de desconto em compras a partir de R$ 2299. Cupom 2: 25% OFF com limite máximo de R$ 500 de desconto.",
+      "validadeAte": "2026-11-16T16:01:42.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
