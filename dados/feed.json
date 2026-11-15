@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-15T12:38:16.745Z",
+  "atualizadoEm": "2026-11-15T12:57:27.418Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46911",
+      "loja": "Shopee",
+      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
+      "link": "https://s.shopee.com.br/2gCjg8n9dS",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
+      "preco": 37.99,
+      "precoDe": 67.84,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T12:47:27.415Z"
+    },
+    {
+      "id": "46910",
+      "loja": "Mercado Livre",
+      "titulo": "Carregador Power Bank sem fio Samsung | Potência de 45 W | 20.000 mAh | Cor bege | Carregamento super rápido 2.0",
+      "link": "https://meli.la/2gD4zyv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639640-MLU77918948681_072024-F.jpg",
+      "preco": 206.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LOJASOFICIAIS ou LOJASOFICIAIS1411 ou LOJASOFICIAIS1511",
+      "enviadoEm": "2026-11-15T12:46:08.589Z"
+    },
     {
       "id": "46908",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:41:01.840Z"
-    },
-    {
-      "id": "45681",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-      "link": "https://meli.la/1yjYtXC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763054-MLA120316116397_102026-F.jpg",
-      "preco": 155.44,
-      "precoDe": 228.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:39:42.760Z"
-    },
-    {
-      "id": "45680",
-      "loja": "Amazon",
-      "titulo": "Rexona Antitranspirante Masculino Aerossol V8 250 ML, Leve Mais Pague Menos, Embalagem Pode Variar",
-      "link": "https://www.amazon.com.br/dp/B09K2CMLXM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SRSvBLI6L._SL400_.jpg",
-      "preco": 17.9,
-      "precoDe": 24.99,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:39:16.680Z"
     }
   ]
 }
