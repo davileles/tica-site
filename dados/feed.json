@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T12:57:27.418Z",
+  "atualizadoEm": "2026-11-15T13:08:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "46912",
+      "loja": "Amazon",
+      "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B001HUBXJO?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41j33+YOTPL._SL400_.jpg",
+      "preco": 84.9,
+      "precoDe": 149.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T13:01:02.067Z"
+    },
     {
       "id": "46911",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-11-12T12:42:14.508Z"
-    },
-    {
-      "id": "45682",
-      "loja": "Amazon",
-      "titulo": "NIVEA Sabonete Vegetal Nutrição Da Natureza Manteiga De Karité & Lima Da Pérsia 80g (6 un.), Limpeza Delicada, Banho, Pele Macia e Hidratada, Fórmula Natural",
-      "link": "https://www.amazon.com.br/dp/B0F3BDZGL5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41lq7-91TQL._SL400_.jpg",
-      "preco": 14.36,
-      "precoDe": 24.3,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T12:41:01.840Z"
     }
   ]
 }
