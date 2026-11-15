@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T19:57:00.344Z",
+  "atualizadoEm": "2026-11-15T20:08:16.745Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47017",
+      "loja": "Shopee",
+      "titulo": "Tapete De Atividades Para Bebê Com Piano Musical Móbile Interativo Funny Dino Maxi Baby",
+      "link": "https://s.shopee.com.br/9V34IxQ8r5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv4rng9f02kic5_tn",
+      "preco": 69.9,
+      "precoDe": 129.44,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-15T20:08:00.601Z"
+    },
     {
       "id": "47016",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "LOJASOFICIAIS1211",
       "enviadoEm": "2026-11-12T16:32:40.238Z"
-    },
-    {
-      "id": "45886",
-      "loja": "Mercado Livre",
-      "titulo": "Blocos De Montar Legolego City 60456 264 Peças Em Caixa",
-      "link": "https://meli.la/1m8ny9k",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781754-MLA99502976436_112025-F.jpg",
-      "preco": 164.81,
-      "precoDe": 279.99,
-      "desconto": 31,
-      "cupom": "LOJASOFICIAIS1211",
-      "enviadoEm": "2026-11-12T16:26:22.296Z"
     }
   ]
 }
