@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T17:38:18.448Z",
+  "atualizadoEm": "2026-11-15T18:08:18.696Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -231,15 +231,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "CORREDORBF",
+      "codigo": "ENCHEUBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "R$ 20 OFF em Mercado",
-      "validadeAte": "2026-11-15T18:00:19.000Z",
+      "observacao": "Desconto válido em pedidos via Mercado no iFood",
+      "validadeAte": "2026-11-16T18:00:19.000Z",
       "url": null
     },
     {
@@ -349,18 +349,6 @@
       "observacao": null,
       "validadeAte": "2027-09-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "DECORELETRO1411",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-15T18:00:11.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1911,6 +1899,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BEBESPETS1511",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-16T18:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "KBEAUTY1511",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 129,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-16T18:00:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1920,18 +1932,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-16T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS1411",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-15T18:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
