@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T18:08:18.696Z",
+  "atualizadoEm": "2026-11-15T18:38:17.016Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -255,15 +255,15 @@
       "url": null
     },
     {
-      "codigo": "CHEGOUBF",
+      "codigo": "CHAMABLACK",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF em vez de R$ 12 OFF",
-      "validadeAte": "2026-11-15T18:30:19.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
+      "validadeAte": "2026-11-16T18:30:16.000Z",
       "url": null
     },
     {
@@ -1620,6 +1620,18 @@
       "limite": 500,
       "observacao": "Cupom 1: R$ 300 de desconto em compras a partir de R$ 2299. Cupom 2: 25% OFF com limite máximo de R$ 500 de desconto.",
       "validadeAte": "2026-11-16T16:01:42.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VOLTAAQUI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
