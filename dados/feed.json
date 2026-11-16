@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-16T22:38:16.779Z",
+  "atualizadoEm": "2026-11-16T23:08:16.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47609",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 44.91,
+      "precoDe": 73.9,
+      "desconto": 32,
+      "cupom": "BLACKPRIME10",
+      "enviadoEm": "2026-11-16T22:59:52.507Z"
+    },
     {
       "id": "47600",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-11-13T18:19:27.690Z"
-    },
-    {
-      "id": "46496",
-      "loja": "Amazon",
-      "titulo": "Pelucia Macia Pequena Mundo Bita F0016-1 Fun Divirta-se",
-      "link": "https://www.amazon.com.br/dp/B08DDFLF8C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31KQlZLonYL._SL400_.jpg",
-      "preco": 57.9,
-      "precoDe": 89.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T18:16:34.543Z"
     }
   ]
 }
