@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T21:30:33.606Z",
+  "atualizadoEm": "2026-11-16T22:04:35.128Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -133,6 +133,18 @@
       "observacao": "Cupons devem ser resgatados no aplicativo. Válidos durante o evento.",
       "validadeAte": "2026-11-17T21:13:32.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACK40",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-17T22:01:16.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "IMPERDIVEL20",
@@ -540,30 +552,6 @@
       "limite": 300,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODO1511SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-16T22:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO1511",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-16T22:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1968,18 +1956,6 @@
       "limite": 20,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-23T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE1511",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-16T22:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
