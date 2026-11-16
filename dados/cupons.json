@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T18:50:29.517Z",
+  "atualizadoEm": "2026-11-16T19:08:18.610Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -252,6 +252,18 @@
       "limite": null,
       "observacao": "Desconto de R$20 em compras no Mercado pelo iFood",
       "validadeAte": "2026-11-17T18:00:15.000Z",
+      "url": null
+    },
+    {
+      "codigo": "AURABLACK",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para Farmácias",
+      "validadeAte": "2026-11-17T19:00:13.000Z",
       "url": null
     },
     {
