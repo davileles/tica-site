@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-16T13:00:09.290Z",
+  "atualizadoEm": "2026-11-16T13:08:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47268",
+      "loja": "Amazon",
+      "titulo": "Copo NUK Mini-Me Flip 500ml 2 em 1 – Roxo",
+      "link": "https://www.amazon.com.br/dp/B0CNXVR4CR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31C2YMHab+L._SL400_.jpg",
+      "preco": 29.04,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T13:03:39.404Z"
+    },
+    {
+      "id": "47267",
+      "loja": "Amazon",
+      "titulo": "Shampoo de Glicerina Johnson's Baby, 750ml | Hipoalergênico, Testado por Pediatras e Dermatologistas, Fragrância Suave",
+      "link": "https://www.amazon.com.br/dp/B07DHSCLPR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313ZV4fsiWL._SL400_.jpg",
+      "preco": 29.54,
+      "precoDe": 62.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T13:03:07.481Z"
+    },
+    {
+      "id": "47266",
+      "loja": "Amazon",
+      "titulo": "Buba Garrafinha Dino Patinete Multicolorido",
+      "link": "https://www.amazon.com.br/dp/B09F93JQBQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41S5nFe6ZML._SL400_.jpg",
+      "preco": 20.24,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T13:02:38.825Z"
+    },
     {
       "id": "47221",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-11-12T21:25:17.699Z"
-    },
-    {
-      "id": "46082",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, Cinza/Amarelo, 1400W, 220V - LAP-01-GY",
-      "link": "https://www.amazon.com.br/dp/B0D8RLRMPM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41bpMQJjifL._SL400_.jpg",
-      "preco": 249.9,
-      "precoDe": 579.9,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T21:24:01.056Z"
-    },
-    {
-      "id": "46080",
-      "loja": "Amazon",
-      "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 1l",
-      "link": "https://www.amazon.com.br/dp/B0D63J2X32?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xWZF34qoL._SL400_.jpg",
-      "preco": 71.92,
-      "precoDe": 155.9,
-      "desconto": 42,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-12T21:22:41.825Z"
-    },
-    {
-      "id": "46076",
-      "loja": "Amazon",
-      "titulo": "Wafer Proteico BOLD 10g Proteína, Chocolate ao Leite",
-      "link": "https://www.amazon.com.br/dp/B0GSSDWRZJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41i4odQo64L._SL400_.jpg",
-      "preco": 72,
-      "precoDe": 149,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T21:14:36.872Z"
     }
   ]
 }
