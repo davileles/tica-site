@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T19:08:18.610Z",
+  "atualizadoEm": "2026-11-16T19:38:18.479Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -373,6 +373,18 @@
       "observacao": "Válido apenas em Placas de Vídeo selecionadas",
       "validadeAte": "2026-11-17T15:05:12.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMBLACKLU50",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom requer contato via WhatsApp da Magalu e pesquisa do ID do item",
+      "validadeAte": "2026-11-17T19:29:37.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "MELHORDOTECH",
