@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-16T11:08:16.764Z",
+  "atualizadoEm": "2026-11-16T11:38:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47096",
+      "loja": "Amazon",
+      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 700ml",
+      "link": "https://www.amazon.com.br/dp/B000TVHK26?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xKe7q30bL._SL400_.jpg",
+      "preco": 80.99,
+      "precoDe": 144.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T11:31:09.832Z"
+    },
+    {
+      "id": "47087",
+      "loja": "Shopee",
+      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
+      "link": "https://s.shopee.com.br/906oipzmrs",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
+      "preco": 59.97,
+      "precoDe": 82.15,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T11:22:35.361Z"
+    },
     {
       "id": "47069",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "OBRAMELI",
       "enviadoEm": "2026-11-12T17:26:48.081Z"
-    },
-    {
-      "id": "45954",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313phMF6zQL._SL400_.jpg",
-      "preco": 44.9,
-      "precoDe": 115.9,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:23:27.000Z"
-    },
-    {
-      "id": "45953",
-      "loja": "Mercado Livre",
-      "titulo": "Fechadura Digital Eletronica Papaiz Sl140 Sobrepor | Senha Fechamento Automático",
-      "link": "https://meli.la/33zzYf3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803233-MLA111146746461_052026-F.jpg",
-      "preco": 128.88,
-      "precoDe": 218.64,
-      "desconto": 26,
-      "cupom": "MELHORDOMELIHJ",
-      "enviadoEm": "2026-11-12T17:22:53.805Z"
     }
   ]
 }
