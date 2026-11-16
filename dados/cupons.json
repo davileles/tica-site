@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T18:08:18.568Z",
+  "atualizadoEm": "2026-11-16T18:38:18.385Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -255,15 +255,15 @@
       "url": null
     },
     {
-      "codigo": "CHAMABLACK",
+      "codigo": "BFFOMEON",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
-      "validadeAte": "2026-11-16T18:30:16.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
+      "validadeAte": "2026-11-17T18:30:14.000Z",
       "url": null
     },
     {
