@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T15:29:38.392Z",
+  "atualizadoEm": "2026-11-16T15:38:17.244Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2040,6 +2040,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-17T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DEZOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-17T15:32:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
