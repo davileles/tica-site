@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-16T15:08:16.764Z",
+  "atualizadoEm": "2026-11-16T15:29:36.715Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47327",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Micropercal Com Fronha em Ponto Palito",
+      "link": "https://s.shopee.com.br/AUvclsdFiO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mo7pypmcmww19c_tn",
+      "preco": 15.9,
+      "precoDe": 30,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T15:19:36.707Z"
+    },
+    {
+      "id": "47326",
+      "loja": "Amazon",
+      "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
+      "link": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315heWNPGOL._SL400_.jpg",
+      "preco": 129,
+      "precoDe": 269.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T15:12:22.114Z"
+    },
     {
       "id": "47316",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 14,
       "cupom": null,
       "enviadoEm": "2026-11-13T11:39:33.815Z"
-    },
-    {
-      "id": "46144",
-      "loja": "Amazon",
-      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
-      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
-      "preco": 43.47,
-      "precoDe": 73.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:38:22.384Z"
-    },
-    {
-      "id": "46143",
-      "loja": "Amazon",
-      "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen",
-      "link": "https://www.amazon.com.br/dp/B0FDCLCBZB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41F9wQaldHL._SL400_.jpg",
-      "preco": 16.11,
-      "precoDe": 26.39,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:37:08.570Z"
     }
   ]
 }
