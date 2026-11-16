@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-16T14:08:16.764Z",
+  "atualizadoEm": "2026-11-16T14:29:13.175Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47304",
+      "loja": "Amazon",
+      "titulo": "Creme para Pentear Johnson's Baby Cachos dos Sonhos, 200ml | Para Cabelos Cacheados, Com Manteiga de Karité",
+      "link": "https://www.amazon.com.br/dp/B07MT9LCV1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BX5QJauSL._SL400_.jpg",
+      "preco": 26.59,
+      "precoDe": 49.99,
+      "desconto": 47,
+      "cupom": "IMPERDIVEL20",
+      "enviadoEm": "2026-11-16T14:19:13.172Z"
+    },
+    {
+      "id": "47303",
+      "loja": "Amazon",
+      "titulo": "Casillero del diablo blanc cabernet 750",
+      "link": "https://www.amazon.com.br/dp/B0DL783F5L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31uNkMQTiML._SL400_.jpg",
+      "preco": 38.01,
+      "precoDe": 69.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T14:18:43.221Z"
+    },
+    {
+      "id": "47302",
+      "loja": "Shopee",
+      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
+      "link": "https://s.shopee.com.br/50ag9Rangn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
+      "preco": 49.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T14:16:37.753Z"
+    },
     {
       "id": "47299",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-11-13T11:13:59.593Z"
-    },
-    {
-      "id": "46129",
-      "loja": "Amazon",
-      "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul M 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07C3JSRDX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41YtG7duzeL._SL400_.jpg",
-      "preco": 29,
-      "precoDe": 52.65,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:12:39.880Z"
-    },
-    {
-      "id": "46124",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label, 1L",
-      "link": "https://www.amazon.com.br/dp/B004Q47N5G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/314jrRYu1mL._SL400_.jpg",
-      "preco": 69.9,
-      "precoDe": 115.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:09:54.989Z"
-    },
-    {
-      "id": "46121",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador Portátil De Mão Recarregável, 199 Níveis, Modo De Resfriamento, Mini Ventilador Com 10000mAh E Display Digital, Silencioso E Potente Para Viagens, Cinza",
-      "link": "https://meli.la/2XiaHDF",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606809-MLA119982435445_102026-F.jpg",
-      "preco": 54.75,
-      "precoDe": 166.48,
-      "desconto": 56,
-      "cupom": "COMPRANOMELI",
-      "enviadoEm": "2026-11-13T11:02:56.428Z"
     }
   ]
 }
