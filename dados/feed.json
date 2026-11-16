@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-16T18:38:16.764Z",
+  "atualizadoEm": "2026-11-16T18:50:27.569Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47499",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 2 Luminária Solar Led 160 Leds Cob Sensor De Movimento Presença Para Parede E Jardim Ip66 Prova D'água Potente Sustentável Iluminação Externa Automática",
+      "link": "https://meli.la/1Yf1pxW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795190-MLA111282140329_052026-F.jpg",
+      "preco": 44.47,
+      "precoDe": 89.99,
+      "desconto": 29,
+      "cupom": "CARRINHOCHEIOJA",
+      "enviadoEm": "2026-11-16T18:40:27.561Z"
+    },
     {
       "id": "47495",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-13T14:21:35.169Z"
-    },
-    {
-      "id": "46312",
-      "loja": "Mercado Livre",
-      "titulo": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo Longo 1,4 Metros",
-      "link": "https://meli.la/2C6LZDc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810904-MLA93779476451_092025-F.jpg",
-      "preco": 75.48,
-      "precoDe": 87.31,
-      "desconto": 14,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:19:54.747Z"
     }
   ]
 }
