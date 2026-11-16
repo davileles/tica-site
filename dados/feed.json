@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-16T15:50:39.145Z",
+  "atualizadoEm": "2026-11-16T16:08:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47343",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
+      "link": "https://s.shopee.com.br/BVQVmAgy2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c_tn",
+      "preco": 49.9,
+      "precoDe": 60.12,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T16:02:55.466Z"
+    },
+    {
+      "id": "47341",
+      "loja": "Mercado Livre",
+      "titulo": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
+      "link": "https://meli.la/2Dd11ac",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
+      "preco": 145,
+      "precoDe": 299,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T15:57:01.880Z"
+    },
     {
       "id": "47337",
       "loja": "Shopee",
@@ -5283,18 +5307,6 @@
       "enviadoEm": "2026-11-13T15:48:30.903Z"
     },
     {
-      "id": "46346",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
-      "link": "https://meli.la/2Dd11ac",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
-      "preco": 145,
-      "precoDe": 299,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T15:45:43.224Z"
-    },
-    {
       "id": "46344",
       "loja": "Shopee",
       "titulo": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
@@ -5989,18 +6001,6 @@
       "desconto": 36,
       "cupom": "COMPRINHASML",
       "enviadoEm": "2026-11-13T11:42:02.885Z"
-    },
-    {
-      "id": "46147",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Lençol Queen 3 Peças 400 Fios C/ Elástico Hotel",
-      "link": "https://meli.la/22hhBEP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610704-MLB111988947215_052026-O-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel.webp",
-      "preco": 21.14,
-      "precoDe": 41.99,
-      "desconto": 28,
-      "cupom": "ESPECIAL",
-      "enviadoEm": "2026-11-13T11:40:44.216Z"
     }
   ]
 }
