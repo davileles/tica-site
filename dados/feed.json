@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-16T10:28:14.148Z",
+  "atualizadoEm": "2026-11-16T10:50:15.847Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47059",
+      "loja": "Amazon",
+      "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades | Pacote grande Protek G",
+      "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VCySSGQsL._SL400_.jpg",
+      "preco": 45.6,
+      "precoDe": 77.37,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T10:40:15.843Z"
+    },
+    {
+      "id": "47058",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fnIZohlxL._SL400_.jpg",
+      "preco": 24.22,
+      "precoDe": 46.38,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T10:39:52.100Z"
+    },
     {
       "id": "47056",
       "loja": "Amazon",
@@ -5199,18 +5223,6 @@
       "enviadoEm": "2026-11-13T11:09:54.989Z"
     },
     {
-      "id": "46122",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fnIZohlxL._SL400_.jpg",
-      "preco": 24.22,
-      "precoDe": 46.38,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:08:52.461Z"
-    },
-    {
       "id": "46121",
       "loja": "Mercado Livre",
       "titulo": "Ventilador Portátil De Mão Recarregável, 199 Níveis, Modo De Resfriamento, Mini Ventilador Com 10000mAh E Display Digital, Silencioso E Potente Para Viagens, Cinza",
@@ -5989,18 +6001,6 @@
       "desconto": 56,
       "cupom": null,
       "enviadoEm": "2026-11-12T17:05:42.037Z"
-    },
-    {
-      "id": "45934",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Rbd Game Low Puma",
-      "link": "https://meli.la/1q5uiSV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882989-MLB83774850352_042025-O-tnis-rbd-game-low-puma.webp",
-      "preco": 179.85,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "LOJASOFICIAIS1211",
-      "enviadoEm": "2026-11-12T17:03:30.494Z"
     }
   ]
 }
