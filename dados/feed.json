@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-16T17:08:16.764Z",
+  "atualizadoEm": "2026-11-16T17:38:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47437",
+      "loja": "Amazon",
+      "titulo": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto",
+      "link": "https://www.amazon.com.br/dp/B08YMXTLX2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PmSkxtUDL._SL400_.jpg",
+      "preco": 518.9,
+      "precoDe": 829.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:35:58.714Z"
+    },
+    {
+      "id": "47436",
+      "loja": "Amazon",
+      "titulo": "MAM Baby Kit com 2 Chupetas Supreme Com Bico Extrafino de Silicone SkinSoft para Crianças 6+ Meses Com Caixa Esterilizadora, Rosa",
+      "link": "https://www.amazon.com.br/dp/B0B5YHFHGX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41GwB89e6SL._SL400_.jpg",
+      "preco": 44.35,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:35:27.588Z"
+    },
+    {
+      "id": "47435",
+      "loja": "Mercado Livre",
+      "titulo": "Brinquedo Pedagógico Madeira Montessoriano Educativo Formas Números Cores Tabuleiro Colorido TEA Autismo Atacarejo Kids",
+      "link": "https://meli.la/17ynb6L",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716099-MLA110586139428_052026-F.jpg",
+      "preco": 35.01,
+      "precoDe": 129.9,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:34:53.560Z"
+    },
+    {
+      "id": "47428",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
+      "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31klUfBdRQL._SL400_.jpg",
+      "preco": 429.9,
+      "precoDe": 799,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:29:13.164Z"
+    },
+    {
+      "id": "47424",
+      "loja": "Shopee",
+      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
+      "link": "https://s.shopee.com.br/906p7vITb4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
+      "preco": 139.9,
+      "precoDe": 170.61,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:27:55.820Z"
+    },
+    {
+      "id": "47420",
+      "loja": "Amazon",
+      "titulo": "Rexona Antitranspirante Aerossol Invisible 250 ml",
+      "link": "https://www.amazon.com.br/dp/B09K2RFM62?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41dheGdX1wL._SL400_.jpg",
+      "preco": 17.7,
+      "precoDe": 19.86,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:26:36.177Z"
+    },
+    {
+      "id": "47417",
+      "loja": "Amazon",
+      "titulo": "Headset Gamer com Microfone Havit H2002d, 53mm, Conector 3,5mm | Compatível com Xbox One e PS4",
+      "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QkcAr0k-L._SL400_.jpg",
+      "preco": 139.99,
+      "precoDe": 219,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T17:20:15.802Z"
+    },
+    {
+      "id": "47412",
+      "loja": "Mercado Livre",
+      "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares - R$ 116,60",
+      "link": "https://meli.la/1SMAAm1",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-P.webp",
+      "preco": 104.94,
+      "precoDe": 212,
+      "desconto": 45,
+      "cupom": "DEZOFF",
+      "enviadoEm": "2026-11-16T17:15:13.913Z"
+    },
     {
       "id": "47406",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 29,
       "cupom": "PROMOSTECH",
       "enviadoEm": "2026-11-13T12:44:09.648Z"
-    },
-    {
-      "id": "46234",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora Brastemp Smart Top Load 14kg Compacta Branca BWF14ABANA",
-      "link": "https://meli.la/1319h7r",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689270-MLA99993124957_112025-F.jpg",
-      "preco": 1643.4,
-      "precoDe": 2399,
-      "desconto": 31,
-      "cupom": "TODOOSITE",
-      "enviadoEm": "2026-11-13T12:42:48.157Z"
-    },
-    {
-      "id": "46233",
-      "loja": "Amazon",
-      "titulo": "Queenmore Colete salva-vidas XS Dog para natação, passeios de barco e piscina, colete salva-vidas leve Ripstop de alta visibilidade com alça de resgate e gancho de coleira para fil",
-      "link": "https://www.amazon.com.br/dp/B0GCZNPLSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41suLMXiHvL._SL400_.jpg",
-      "preco": 63.65,
-      "precoDe": 220.81,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T12:41:35.335Z"
-    },
-    {
-      "id": "46232",
-      "loja": "Mercado Livre",
-      "titulo": "Telefone Xiaomi Redmi A5 4gb Ram 128gb Rom Dual Sim 6,88\" 32mp Verde",
-      "link": "https://meli.la/2NsTQbp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905525-MLA91562722936_092025-F.jpg",
-      "preco": 764.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PROMOSTECH",
-      "enviadoEm": "2026-11-13T12:40:14.238Z"
-    },
-    {
-      "id": "46231",
-      "loja": "Amazon",
-      "titulo": "Campari Aperitivo Bitter - Garrafa Magnum 3L",
-      "link": "https://www.amazon.com.br/dp/B00XUIHXCM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-zWePh16L._SL400_.jpg",
-      "preco": 799.9,
-      "precoDe": 999,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T12:38:59.472Z"
-    },
-    {
-      "id": "46229",
-      "loja": "Mercado Livre",
-      "titulo": "Câmbio Driving Force Shifter Preto Logitech G",
-      "link": "https://meli.la/1dr8337",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686796-MLA99460829646_112025-F.jpg",
-      "preco": 275.31,
-      "precoDe": 399.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T12:38:31.507Z"
-    },
-    {
-      "id": "46225",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora Digital Inverter Samsung WW11T Inox 11kg",
-      "link": "https://meli.la/1xNqTk8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_697920-MLA99991172343_112025-F.jpg",
-      "preco": 2404.44,
-      "precoDe": 2799,
-      "desconto": 14,
-      "cupom": "TODOOSITE",
-      "enviadoEm": "2026-11-13T12:37:12.131Z"
-    },
-    {
-      "id": "46224",
-      "loja": "Shopee",
-      "titulo": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "link": "https://s.shopee.com.br/1BNsgif8v9",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a_tn",
-      "preco": 23.9,
-      "precoDe": 79.67,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T12:35:47.079Z"
-    },
-    {
-      "id": "46223",
-      "loja": "Amazon",
-      "titulo": "Smart TV Semp 65 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 65S62",
-      "link": "https://www.amazon.com.br/dp/B0FPRJHKB9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41cQ4RrSV2L._SL400_.jpg",
-      "preco": 3199.99,
-      "precoDe": 3419.05,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T12:34:33.917Z"
     }
   ]
 }
