@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-16T18:50:27.569Z",
+  "atualizadoEm": "2026-11-16T19:08:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47514",
+      "loja": "Amazon",
+      "titulo": "Heinz Maionese Culinária 400G",
+      "link": "https://www.amazon.com.br/dp/B07YN9ZY51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XERl+SQHL._SL400_.jpg",
+      "preco": 10.7,
+      "precoDe": 14.89,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T19:06:52.881Z"
+    },
+    {
+      "id": "47511",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RDtdL4RuL._SL400_.jpg",
+      "preco": 39.88,
+      "precoDe": 73.75,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T19:01:02.681Z"
+    },
+    {
+      "id": "47510",
+      "loja": "Amazon",
+      "titulo": "Burigotto Kit Banho Branco",
+      "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fom31KWKS._SL400_.jpg",
+      "preco": 189,
+      "precoDe": 355.05,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:59:39.872Z"
+    },
+    {
+      "id": "47509",
+      "loja": "Mercado Livre",
+      "titulo": "Whey protein +Mu Chocowheyfer Cookies em barra de cereais sabor Biscoitos x 25g 12 un",
+      "link": "https://meli.la/2zWoTfA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618105-MLA99468018388_112025-F.jpg",
+      "preco": 48.79,
+      "precoDe": 87.88,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:59:10.061Z"
+    },
+    {
+      "id": "47508",
+      "loja": "Amazon",
+      "titulo": "Extrator De Leite El�trico Fisher Price BB320",
+      "link": "https://www.amazon.com.br/dp/B08KGP6M7F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31Cj-u-x5BL._SL400_.jpg",
+      "preco": 398.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:57:55.770Z"
+    },
+    {
+      "id": "47507",
+      "loja": "Amazon",
+      "titulo": "Sacos de Armazenamento de Leite Materno Philips Avent | 25 unidades",
+      "link": "https://www.amazon.com.br/dp/B01LYCDVES?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31s5IDWUrRL._SL400_.jpg",
+      "preco": 50,
+      "precoDe": 69.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:57:30.200Z"
+    },
+    {
+      "id": "47504",
+      "loja": "Shopee",
+      "titulo": "Ring Light Anel de Luz LED 10 Polegadas com Tripé 2,1m Suporte Celular Iluminador TikTok YouTube",
+      "link": "https://s.shopee.com.br/8fTyp8adnU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-moy38cnzq0hv41_tn",
+      "preco": 46.99,
+      "precoDe": 79.64,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:53:50.842Z"
+    },
+    {
+      "id": "47503",
+      "loja": "Shopee",
+      "titulo": "Máquina de Solda Inversora Portátil Black Arc Start MMA e TIG 220V Fan Cooler Engate 9mm",
+      "link": "https://s.shopee.com.br/6VPUF6WUOz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ag-mtshuc6k4pvocc_tn",
+      "preco": 189.91,
+      "precoDe": 463.2,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:52:24.411Z"
+    },
+    {
+      "id": "47502",
+      "loja": "Amazon",
+      "titulo": "Fatiador Cortador Ovos Cozidos 3 Cortes Profissional Prana",
+      "link": "https://www.amazon.com.br/dp/B0CG2FYZF4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qp+R3AGzL._SL400_.jpg",
+      "preco": 15.9,
+      "precoDe": 39.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T18:51:53.459Z"
+    },
     {
       "id": "47499",
       "loja": "Mercado Livre",
@@ -4755,18 +4863,6 @@
       "enviadoEm": "2026-11-14T11:23:35.206Z"
     },
     {
-      "id": "46621",
-      "loja": "Amazon",
-      "titulo": "Burigotto Kit Banho Branco",
-      "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fom31KWKS._SL400_.jpg",
-      "preco": 189,
-      "precoDe": 355.05,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:22:04.582Z"
-    },
-    {
       "id": "46620",
       "loja": "Amazon",
       "titulo": "Loção Hidratante Corporal CeraVe 3 Ceramidas Sem Perfume 120h 473ml | Loção corporal e facial com 3 ceramidas e ácido hialurônico que restaura a barreira da pele e hidrata por até ",
@@ -5905,102 +6001,6 @@
       "desconto": 48,
       "cupom": null,
       "enviadoEm": "2026-11-13T15:20:10.731Z"
-    },
-    {
-      "id": "46340",
-      "loja": "Amazon",
-      "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34H, IP68, Áudio Lossless Preta",
-      "link": "https://www.amazon.com.br/dp/B0H127L18H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31D748KkijL._SL400_.jpg",
-      "preco": 2199,
-      "precoDe": 3199,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T15:15:55.092Z"
-    },
-    {
-      "id": "46333",
-      "loja": "Shopee",
-      "titulo": "Caixa De Som Bluetooth Amplificada Potente LED RGB USB SD Radio Fm Mp3 Celular Note Tablet Conexão TWS",
-      "link": "https://s.shopee.com.br/8pnJz3jh9M",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratx-ma1h9d9oo1ape0_tn",
-      "preco": 27.99,
-      "precoDe": 84.82,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T15:08:43.043Z"
-    },
-    {
-      "id": "46329",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
-      "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xrByMpd5L._SL400_.jpg",
-      "preco": 42.26,
-      "precoDe": 79.99,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:53:32.620Z"
-    },
-    {
-      "id": "46327",
-      "loja": "Amazon",
-      "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B07XS8WKYL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41e8nue5zGL._SL400_.jpg",
-      "preco": 130.63,
-      "precoDe": 161.88,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:49:31.350Z"
-    },
-    {
-      "id": "46323",
-      "loja": "Shopee",
-      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
-      "link": "https://s.shopee.com.br/8Kr3MgI5wC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
-      "preco": 12.97,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:42:39.773Z"
-    },
-    {
-      "id": "46321",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
-      "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31H+87+c77L._SL400_.jpg",
-      "preco": 18,
-      "precoDe": 34.17,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:38:31.304Z"
-    },
-    {
-      "id": "46320",
-      "loja": "Amazon",
-      "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
-      "link": "https://www.amazon.com.br/dp/B08MKNH3B4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3116nHiD1sL._SL400_.jpg",
-      "preco": 82.62,
-      "precoDe": 111.84,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:38:06.370Z"
-    },
-    {
-      "id": "46313",
-      "loja": "Shopee",
-      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
-      "link": "https://s.shopee.com.br/8VATXXrKke",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
-      "preco": 27.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T14:21:35.169Z"
     }
   ]
 }
