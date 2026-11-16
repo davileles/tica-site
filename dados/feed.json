@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-15T23:26:37.107Z",
+  "atualizadoEm": "2026-11-16T10:28:14.148Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47056",
+      "loja": "Amazon",
+      "titulo": "TakTark Babá Eletrônica, 5\" 720P HD Bebê Câmera com Tela, Sem Wifi, Panorâmica Inclinação, Áudio Bidirecional, Night Vision, Zoom Digital, Detecção De Som Vox, Ideal Para Novos Pai",
+      "link": "https://www.amazon.com.br/dp/B0C2Z63CMP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41O-zRiyyaL._SL400_.jpg",
+      "preco": 567.46,
+      "precoDe": 699.99,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T10:18:14.145Z"
+    },
     {
       "id": "47036",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "LOJASOFICIAIS1211",
       "enviadoEm": "2026-11-12T17:03:30.494Z"
-    },
-    {
-      "id": "45933",
-      "loja": "Mercado Livre",
-      "titulo": "Bracelete Pandora Moments Fecho De Coracao - R$ 354,50",
-      "link": "https://meli.la/2VxredL",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_970141-MLB94799672872_102025-P.webp",
-      "preco": 354.5,
-      "precoDe": 709,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:01:52.815Z"
     }
   ]
 }
