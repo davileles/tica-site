@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-16T13:38:16.763Z",
+  "atualizadoEm": "2026-11-16T14:06:56.224Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47291",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 7 Camisetas Basica Lisa Algodão Premium Masculina - R$ 128",
+      "link": "https://meli.la/1S4VWha",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_955457-MLB91948752389_092025-P.webp",
+      "preco": 108.8,
+      "precoDe": 199.9,
+      "desconto": 36,
+      "cupom": "MODA1611",
+      "enviadoEm": "2026-11-16T13:56:56.221Z"
+    },
+    {
+      "id": "47289",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "link": "https://s.shopee.com.br/906otDHEOu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
+      "preco": 10.5,
+      "precoDe": 12.65,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T13:55:37.578Z"
+    },
+    {
+      "id": "47290",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Infantil em Bastão Mineral FPS 80 FPUVA 30​",
+      "link": "https://www.amazon.com.br/dp/B09MW96Q1P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-mL6+V7HL._SL400_.jpg",
+      "preco": 99.99,
+      "precoDe": 119,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T13:54:20.450Z"
+    },
     {
       "id": "47285",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-13T11:01:32.416Z"
-    },
-    {
-      "id": "46119",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Huggies Higiene Superior, Pack com 12 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0HDRL9G2M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51r+9La6mPL._SL400_.jpg",
-      "preco": 89.9,
-      "precoDe": 129.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T10:42:24.900Z"
-    },
-    {
-      "id": "46104",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Masculino Adizero Drive Rc Adidas",
-      "link": "https://meli.la/2HF3EVw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828819-MLA99336791352_112025-P.webp",
-      "preco": 716.99,
-      "precoDe": 899.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T23:41:53.960Z"
-    },
-    {
-      "id": "46103",
-      "loja": "Amazon",
-      "titulo": "Bicicleta Caloi Andes Aro 26, 21 Marchas, Grip Shift, Suspensão Dianteira 30mm, Freio V-Brake, Cidade, Passeio e Lazer",
-      "link": "https://www.amazon.com.br/dp/B0DQQCM4T3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Kq4WRfW5L._SL400_.jpg",
-      "preco": 596.83,
-      "precoDe": 1229.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T22:55:43.788Z"
     }
   ]
 }
