@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-16T10:50:15.847Z",
+  "atualizadoEm": "2026-11-16T11:08:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47069",
+      "loja": "Mercado Livre",
+      "titulo": "Camiseta Casual Masculina Básica Gola Careca Reserva Oferta",
+      "link": "https://meli.la/1CRbyMb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_840500-MLB111750483397_052026-P.webp",
+      "preco": 99.99,
+      "precoDe": 199,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T11:03:09.080Z"
+    },
+    {
+      "id": "47066",
+      "loja": "Shopee",
+      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
+      "link": "https://s.shopee.com.br/20x4MVwrdT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
+      "preco": 22.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T11:01:19.909Z"
+    },
+    {
+      "id": "47063",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Total Protect Pants Média, 52 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qC35VdCmL._SL400_.jpg",
+      "preco": 46.95,
+      "precoDe": 69.42,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T10:56:25.415Z"
+    },
+    {
+      "id": "47062",
+      "loja": "Amazon",
+      "titulo": "Babysec Fralda Premium M 32 Unidades | Qualidade premium no tamanho M",
+      "link": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fePDemStL._SL400_.jpg",
+      "preco": 29,
+      "precoDe": 54.39,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T10:56:00.088Z"
+    },
     {
       "id": "47059",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 26,
       "cupom": "MELHORDOMELIHJ",
       "enviadoEm": "2026-11-12T17:22:53.805Z"
-    },
-    {
-      "id": "45942",
-      "loja": "Mercado Livre",
-      "titulo": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Hardline 2 Baterias 48V",
-      "link": "https://meli.la/1jq6Eg7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881855-MLA118419916764_102026-F.jpg",
-      "preco": 84.65,
-      "precoDe": 129.99,
-      "desconto": 23,
-      "cupom": "OBRAMELI",
-      "enviadoEm": "2026-11-12T17:14:01.886Z"
-    },
-    {
-      "id": "45941",
-      "loja": "Amazon",
-      "titulo": "LG UltraGear Monitor Gamer 24\" IPS 144Hz (O/C) 1ms (MBR) Full HD (1920x1080) HDR10 NVIDIA G-SYNC AMD FreeSync, Preto - 24G411A",
-      "link": "https://www.amazon.com.br/dp/B0FYQ5TQDL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yYtMGJhDL._SL400_.jpg",
-      "preco": 579,
-      "precoDe": 699,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:11:43.052Z"
-    },
-    {
-      "id": "45940",
-      "loja": "Shopee",
-      "titulo": "Kit Geleca Slime P/ Festa Lembrancinha Infantil Aniversario Prenda Criança Estilo Amoeba Colorida",
-      "link": "https://s.shopee.com.br/4LKtAOuQh7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-looevd9mywrmba_tn",
-      "preco": 15.9,
-      "precoDe": 23.38,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:07:52.488Z"
-    },
-    {
-      "id": "45935",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira Italiana Carneiri de Aço Inoxidável para 6 Xícaras e Fogão de Indução",
-      "link": "https://meli.la/2pCRSZ3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881945-MLA113523297381_062026-F.jpg",
-      "preco": 43.99,
-      "precoDe": 99.99,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-12T17:05:42.037Z"
     }
   ]
 }
