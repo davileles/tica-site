@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-16T21:38:16.778Z",
+  "atualizadoEm": "2026-11-16T22:04:33.232Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47590",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira/parafusadeira C/impacto + Kit Acessórios 134 Peças",
+      "link": "https://meli.la/2boP6rJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685685-MLB113675846574_072026-P.webp",
+      "preco": 220.07,
+      "precoDe": 461.39,
+      "desconto": 44,
+      "cupom": "PESOPESADO",
+      "enviadoEm": "2026-11-16T21:54:33.230Z"
+    },
+    {
+      "id": "47589",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 99.99,
+      "precoDe": 129.99,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T21:51:02.312Z"
+    },
+    {
+      "id": "47587",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Refil 900g 15g Proteína por Dose - FTW",
+      "link": "https://s.shopee.com.br/2qWC40sOK5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9xdvlpne2ue8_tn",
+      "preco": 65,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T21:41:23.708Z"
+    },
     {
       "id": "47586",
       "loja": "Amazon",
@@ -5619,18 +5655,6 @@
       "enviadoEm": "2026-11-13T22:08:50.428Z"
     },
     {
-      "id": "46581",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 99.99,
-      "precoDe": 129.99,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T22:06:20.599Z"
-    },
-    {
       "id": "46573",
       "loja": "Mercado Livre",
       "titulo": "Kit 5 Toalhas Banho Gigante Grossa Hotel Luxo 75x150cm 480g",
@@ -5977,30 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-13T18:05:19.510Z"
-    },
-    {
-      "id": "46482",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/2sNr1Gw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_810564-MLB109273154172_042026-P.webp",
-      "preco": 93.47,
-      "precoDe": 135.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T18:04:58.440Z"
-    },
-    {
-      "id": "46481",
-      "loja": "Mercado Livre",
-      "titulo": "Fraldas Pampers Pants Ajuste Total",
-      "link": "https://meli.la/2WuiYke",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713888-MLB110124380829_042026-P.webp",
-      "preco": 93.47,
-      "precoDe": 135.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T18:04:33.485Z"
     }
   ]
 }
