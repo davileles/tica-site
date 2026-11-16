@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T19:38:18.479Z",
+  "atualizadoEm": "2026-11-16T20:08:18.594Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -252,6 +252,18 @@
       "limite": null,
       "observacao": "Desconto de R$20 em compras no Mercado pelo iFood",
       "validadeAte": "2026-11-17T18:00:15.000Z",
+      "url": null
+    },
+    {
+      "codigo": "TOMADOBRO",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Mercado",
+      "validadeAte": "2026-11-17T19:56:11.000Z",
       "url": null
     },
     {
