@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-16T14:06:56.224Z",
+  "atualizadoEm": "2026-11-16T14:08:16.764Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47299",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Árabe Asad Lataffa 100ml",
+      "link": "https://meli.la/1jCwjje",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796993-MLB88788122574_082025-P.webp",
+      "preco": 184.3,
+      "precoDe": 299,
+      "desconto": 30,
+      "cupom": "MODA1611",
+      "enviadoEm": "2026-11-16T14:07:13.092Z"
+    },
     {
       "id": "47291",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 56,
       "cupom": "COMPRANOMELI",
       "enviadoEm": "2026-11-13T11:02:56.428Z"
-    },
-    {
-      "id": "46120",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/7Af5jLob0k",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mv7qrwedl8n5f6_tn",
-      "preco": 34.57,
-      "precoDe": 50.1,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T11:01:32.416Z"
     }
   ]
 }
