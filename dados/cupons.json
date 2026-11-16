@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T22:04:35.128Z",
+  "atualizadoEm": "2026-11-16T22:38:18.507Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -156,6 +156,18 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-17T12:06:51.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BLACKPRIME10",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-17T22:30:27.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
