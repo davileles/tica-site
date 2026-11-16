@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T16:38:18.781Z",
+  "atualizadoEm": "2026-11-16T18:08:18.568Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -243,15 +243,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "ENCHEUBF",
+      "codigo": "PRECOBLACK",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em pedidos via Mercado no iFood",
-      "validadeAte": "2026-11-16T18:00:19.000Z",
+      "observacao": "Desconto de R$20 em compras no Mercado pelo iFood",
+      "validadeAte": "2026-11-17T18:00:15.000Z",
       "url": null
     },
     {
@@ -1920,30 +1920,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BEBESPETS1511",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-16T18:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "KBEAUTY1511",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 129,
-      "maximo": null,
-      "limite": 25,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-16T18:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
