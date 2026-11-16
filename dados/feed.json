@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-16T21:08:16.764Z",
+  "atualizadoEm": "2026-11-16T21:30:30.397Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47581",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
+      "link": "https://s.shopee.com.br/1LhMj3rncm?sub_id1=51154675601",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
+      "preco": 99.9,
+      "precoDe": 124.88,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T21:20:30.394Z"
+    },
+    {
+      "id": "47580",
+      "loja": "Shopee",
+      "titulo": "Kit Martelete Rompedor Perfurador De Concreto 2200w Aitoolzo Laranja",
+      "link": "https://s.shopee.com.br/9zzMZhkbVO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh74ffpp0tts2f_tn",
+      "preco": 352.69,
+      "precoDe": 1175.63,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T21:19:14.311Z"
+    },
+    {
+      "id": "47576",
+      "loja": "Amazon",
+      "titulo": "Café Especial Orfeu Orgânico Grãos 250g Torra Média",
+      "link": "https://www.amazon.com.br/dp/B077L9PZFK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312nBYzlXCL._SL400_.jpg",
+      "preco": 34.9,
+      "precoDe": 55.5,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-16T21:10:34.419Z"
+    },
     {
       "id": "47573",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-13T17:52:56.959Z"
-    },
-    {
-      "id": "46464",
-      "loja": "Mercado Livre",
-      "titulo": "Calça Pantalona Wide Leg Duna Elastico Na Cintura/gestante - R$ 29,99",
-      "link": "https://meli.la/14e5Mfx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638748-MLB79460393147_092024-P.webp",
-      "preco": 24.589999999999996,
-      "precoDe": 66.5,
-      "desconto": 55,
-      "cupom": "EXCLUSIVONOMELI",
-      "enviadoEm": "2026-11-13T17:51:43.817Z"
-    },
-    {
-      "id": "46463",
-      "loja": "Amazon",
-      "titulo": "BUBA Pote Termico Animal Fun - Girafa, Colorido",
-      "link": "https://www.amazon.com.br/dp/B08JXDTVTQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31pqB+zvrpL._SL400_.jpg",
-      "preco": 70.07,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T17:50:28.877Z"
-    },
-    {
-      "id": "46460",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Confort Sec Tamanho Xxg 82 Unidades Pampers",
-      "link": "https://meli.la/2DCQwfp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971120-MLA115772115597_082026-F.jpg",
-      "preco": 90.64,
-      "precoDe": 133.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T17:50:01.464Z"
     }
   ]
 }
