@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-17T20:33:52.311Z",
+  "atualizadoEm": "2026-11-17T20:52:21.430Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48115",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/LoscFl0z5",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m31syvxotyp390_tn",
+      "preco": 24.79,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T20:42:21.427Z"
+    },
+    {
+      "id": "48114",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Quencher Cream 1.18L",
+      "link": "https://www.amazon.com.br/dp/B0BTHPGVWZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/318Qlj8YEqL._SL400_.jpg",
+      "preco": 137.01,
+      "precoDe": 359,
+      "desconto": 55,
+      "cupom": "BLACKPRIME15",
+      "enviadoEm": "2026-11-17T20:40:40.656Z"
+    },
+    {
+      "id": "48113",
+      "loja": "Amazon",
+      "titulo": "Camisa Masculina New Balance Away Torcedor SPFC 2026, Vermelho/Branco/Preto, P",
+      "link": "https://www.amazon.com.br/dp/B0H6GXJC3Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Z0PRNTWtL._SL400_.jpg",
+      "preco": 151.92000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-17T20:37:52.071Z"
+    },
+    {
+      "id": "48112",
+      "loja": "Amazon",
+      "titulo": "Baden Baden Cerveja Witbier, Pack 6 Latas 350ml",
+      "link": "https://www.amazon.com.br/dp/B0F71Z7B3C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41iZK6HJnLL._SL400_.jpg",
+      "preco": 26.259999999999998,
+      "precoDe": 38.34,
+      "desconto": 19,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-17T20:36:03.901Z"
+    },
     {
       "id": "48108",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 59,
       "cupom": null,
       "enviadoEm": "2026-11-14T21:34:06.359Z"
-    },
-    {
-      "id": "46866",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "link": "https://s.shopee.com.br/8AXfC5G5j8",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
-      "preco": 53,
-      "precoDe": 139.47,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T21:13:02.080Z"
-    },
-    {
-      "id": "46865",
-      "loja": "Amazon",
-      "titulo": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QUmh0GRvL._SL400_.jpg",
-      "preco": 2799,
-      "precoDe": 4299,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T21:01:24.521Z"
-    },
-    {
-      "id": "46864",
-      "loja": "Amazon",
-      "titulo": "Headset Gamer Havit H2232d, RGB, com Microfone, Falante de 50mm | Conector 3.5mm, Cabo USB para Iluminação",
-      "link": "https://www.amazon.com.br/dp/B07N78G8GB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31x-4lBXOWL._SL400_.jpg",
-      "preco": 59.99,
-      "precoDe": 169,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T21:00:06.570Z"
-    },
-    {
-      "id": "46862",
-      "loja": "Shopee",
-      "titulo": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
-      "link": "https://s.shopee.com.br/30pZ199hh7",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397_tn",
-      "preco": 39.8,
-      "precoDe": 147.41,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T20:52:02.386Z"
     }
   ]
 }
