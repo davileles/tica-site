@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T22:04:56.074Z",
+  "atualizadoEm": "2026-11-17T22:34:54.670Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-11-18T19:30:55.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BLACKPRIME10",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-17T22:30:27.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1507,10 +1495,10 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 0,
+      "minimo": null,
       "maximo": null,
       "limite": 500,
-      "observacao": null,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
