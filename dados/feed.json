@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-16T23:08:16.779Z",
+  "atualizadoEm": "2026-11-17T10:37:43.358Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47630",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51pCzr1XvAL._SL400_.jpg",
+      "preco": 155.44,
+      "precoDe": 235.87,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T10:29:01.212Z"
+    },
     {
       "id": "47609",
       "loja": "Amazon",
@@ -3589,18 +3601,6 @@
       "desconto": 34,
       "cupom": null,
       "enviadoEm": "2026-11-15T11:03:51.341Z"
-    },
-    {
-      "id": "46881",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51pCzr1XvAL._SL400_.jpg",
-      "preco": 155.44,
-      "precoDe": 235.87,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T11:03:27.720Z"
     },
     {
       "id": "46880",
