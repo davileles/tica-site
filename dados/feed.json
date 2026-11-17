@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-17T19:04:54.250Z",
+  "atualizadoEm": "2026-11-17T19:33:11.292Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48084",
+      "loja": "Shopee",
+      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
+      "link": "https://s.shopee.com.br/7fbTGFbALy",
+      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
+      "preco": 279.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T19:23:11.289Z"
+    },
+    {
+      "id": "48085",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Gold Label, 750ml",
+      "link": "https://www.amazon.com.br/dp/B0DVT7GM9C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3135lQn9taL._SL400_.jpg",
+      "preco": 197.69,
+      "precoDe": 343.9,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T19:21:51.728Z"
+    },
+    {
+      "id": "48082",
+      "loja": "Shopee",
+      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "link": "https://s.shopee.com.br/AAIoEXI8bX",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
+      "preco": 24.88,
+      "precoDe": 29.98,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T19:18:07.017Z"
+    },
+    {
+      "id": "48078",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
+      "preco": 136.9,
+      "precoDe": 182.48,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T19:08:08.337Z"
+    },
+    {
+      "id": "48075",
+      "loja": "Amazon",
+      "titulo": "Creme Hidratante Neutrogena Hidrata&Repara, Kit 2 Unidades de 400ml | Corporal, Fragrância Suave, Cruelty-Free",
+      "link": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4102EXm3qIL._SL400_.jpg",
+      "preco": 45.02,
+      "precoDe": 72.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T19:07:43.090Z"
+    },
     {
       "id": "48071",
       "loja": "Shopee",
@@ -3555,18 +3615,6 @@
       "enviadoEm": "2026-11-16T16:38:14.849Z"
     },
     {
-      "id": "47377",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
-      "preco": 136.9,
-      "precoDe": 182.48,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:35:46.998Z"
-    },
-    {
       "id": "47376",
       "loja": "Amazon",
       "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitores de Câmara de Vídeo, Pan & Tilt, 2 Way Audio, Visão Nocturna, Zoom Digital, Decoração Sonora VOX, Ideal para Novos Pais",
@@ -3925,18 +3973,6 @@
       "desconto": 48,
       "cupom": "HOJETEM",
       "enviadoEm": "2026-11-16T13:26:49.949Z"
-    },
-    {
-      "id": "47280",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Gold Label, 750ml",
-      "link": "https://www.amazon.com.br/dp/B0DVT7GM9C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3135lQn9taL._SL400_.jpg",
-      "preco": 197.69,
-      "precoDe": 343.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T13:22:40.733Z"
     },
     {
       "id": "47277",
@@ -5965,42 +6001,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-11-14T18:24:46.237Z"
-    },
-    {
-      "id": "46842",
-      "loja": "Shopee",
-      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
-      "link": "https://s.shopee.com.br/9V32ZXAbbO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
-      "preco": 39.99,
-      "precoDe": 49.37,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T18:03:45.898Z"
-    },
-    {
-      "id": "46837",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Branco Couro",
-      "link": "https://meli.la/2MSYpaH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603094-MLB108189046365_032026-O-tnis-sapatenis-masculino-sandrini-evoke-lite-branco-couro.webp",
-      "preco": 85.47,
-      "precoDe": 187.48,
-      "desconto": 49,
-      "cupom": "MODA1411",
-      "enviadoEm": "2026-11-14T18:01:14.034Z"
-    },
-    {
-      "id": "46836",
-      "loja": "Amazon",
-      "titulo": "Oster Cafeteira Oster Inox Compacta 0,75L, OCAF300, 220V",
-      "link": "https://www.amazon.com.br/dp/B093HGNHR2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rhTdkBR0L._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 105.9,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T17:57:32.809Z"
     }
   ]
 }
