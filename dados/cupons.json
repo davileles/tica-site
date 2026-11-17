@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T02:37:43.833Z",
+  "atualizadoEm": "2026-11-17T03:07:43.894Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -567,15 +567,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "MELHORDOTECH",
+      "codigo": "TODOSITE1711",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 300,
-      "minimo": 2899,
+      "valor": 40,
+      "minimo": 199,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Válido em selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-17T02:59:00.000Z",
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-18T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1599,18 +1599,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTAMEUDESCONTO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MELIOFFHJ",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1839,6 +1827,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMA1711",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-18T03:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2019,42 +2019,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CUPOMPRAVC",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 70,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2091,18 +2055,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1611",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupom válido em selecionados conforme lista indicada",
-      "validadeAte": "2026-11-17T03:00:26.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA1611",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2112,30 +2064,6 @@
       "limite": 25,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-17T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAPRAVEIC",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PESOPESADO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2172,42 +2100,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-11-17T12:01:18.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HOJEPRATEC",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAPRASAUDE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DEZOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-17T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
