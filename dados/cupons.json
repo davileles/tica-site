@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T19:04:56.610Z",
+  "atualizadoEm": "2026-11-17T19:33:13.654Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -144,6 +144,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-17T22:01:16.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BLACKPRIME15",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-18T19:30:55.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -567,18 +579,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CUPOMBLACKLU50",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom requer contato via WhatsApp da Magalu e pesquisa do ID do item",
-      "validadeAte": "2026-11-17T19:29:37.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CUPOMIYHHN5",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -731,7 +731,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-12-01T02:59:00.000Z",
+      "validadeAte": "2027-06-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1259,7 +1259,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Múltiplos cupons ativos do Mercado Livre",
-      "validadeAte": "2026-12-01T02:59:00.000Z",
+      "validadeAte": "2027-06-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1319,7 +1319,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-12-01T02:59:00.000Z",
+      "validadeAte": "2027-06-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1787,7 +1787,7 @@
       "maximo": null,
       "limite": 500,
       "observacao": "Cupons em selecionados do Mercado Livre",
-      "validadeAte": "2026-12-01T02:59:00.000Z",
+      "validadeAte": "2027-06-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1908,6 +1908,18 @@
       "limite": 500,
       "observacao": "Cupom válido em itens selecionados no Mercado Livre",
       "validadeAte": "2026-11-18T17:01:21.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERDESCONTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-18T19:32:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2087,7 +2099,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-18T02:59:00.000Z",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
