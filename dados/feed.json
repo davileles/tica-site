@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-17T18:16:32.666Z",
+  "atualizadoEm": "2026-11-17T18:33:38.727Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48039",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
+      "link": "https://www.amazon.com.br/dp/B098CL79W1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 74,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T18:23:38.723Z"
+    },
+    {
+      "id": "48037",
+      "loja": "Shopee",
+      "titulo": "Playground Infantil Modular 100% Espuma Seguro Educativo Divertido",
+      "link": "https://s.shopee.com.br/30pddL9Xjk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mlld6tmgetc5c5_tn",
+      "preco": 339.99,
+      "precoDe": 693.86,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T18:19:31.369Z"
+    },
+    {
+      "id": "48036",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Cadeira de Refeição Portátil Pop, Bege",
+      "link": "https://www.amazon.com.br/dp/B07BZBPF4L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41KtmmHeU9L._SL400_.jpg",
+      "preco": 186,
+      "precoDe": 288.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T18:17:04.211Z"
+    },
     {
       "id": "48033",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-14T17:31:48.166Z"
-    },
-    {
-      "id": "46829",
-      "loja": "Amazon",
-      "titulo": "Johnnie Walker - Whisky Blue Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B007QR1NK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lEUSy1rmL._SL400_.jpg",
-      "preco": 989.9,
-      "precoDe": 1670.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T17:28:44.102Z"
-    },
-    {
-      "id": "46828",
-      "loja": "Amazon",
-      "titulo": "Heineken Long Neck, Cerveja Pilsen - Pack de 6 unidades 250ml",
-      "link": "https://www.amazon.com.br/dp/B0GP41YQ11?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qmxzasB7L._SL400_.jpg",
-      "preco": 33.9,
-      "precoDe": 35.94,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T17:24:42.703Z"
-    },
-    {
-      "id": "46827",
-      "loja": "Shopee",
-      "titulo": "Lencol Queen/Casal/King/Solteiro Jogo De Cama Casal 400 Fios Micropercal com Ponto Palito",
-      "link": "https://s.shopee.com.br/20x1arjoP5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lbzg077f7_tn",
-      "preco": 34.9,
-      "precoDe": 68.43,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T17:21:43.951Z"
     }
   ]
 }
