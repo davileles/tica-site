@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T19:33:13.654Z",
+  "atualizadoEm": "2026-11-17T20:04:56.345Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -409,18 +409,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
-    },
-    {
-      "codigo": "TOMADOBRO",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 20 OFF em Mercado",
-      "validadeAte": "2026-11-17T19:56:11.000Z",
-      "url": null
     },
     {
       "codigo": "LEVATUDO",
