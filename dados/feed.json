@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-17T21:04:54.279Z",
+  "atualizadoEm": "2026-11-17T21:34:54.282Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48123",
+      "loja": "Shopee",
+      "titulo": "Termômetro De Testa Infravermelha Digital",
+      "link": "https://s.shopee.com.br/9V37a2DG6O",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
+      "preco": 24.88,
+      "precoDe": 118.48,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T21:25:06.789Z"
+    },
+    {
+      "id": "48122",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Premium Care Tamanho G - 136 Unidades",
+      "link": "https://meli.la/2nKLudM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977157-MLA80795768882_112024-F.jpg",
+      "preco": 148.72,
+      "precoDe": 255.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T21:23:54.178Z"
+    },
+    {
+      "id": "48121",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, 40g | Fragrância Suave",
+      "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311zMYff6RL._SL400_.jpg",
+      "preco": 23,
+      "precoDe": 32.79,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T21:15:06.700Z"
+    },
     {
       "id": "48119",
       "loja": "Shopee",
@@ -1201,18 +1237,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:17:44.039Z"
-    },
-    {
-      "id": "47906",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho G - 136 Unidades",
-      "link": "https://meli.la/2nKLudM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977157-MLA80795768882_112024-F.jpg",
-      "preco": 174.96,
-      "precoDe": 255.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:17:17.265Z"
     },
     {
       "id": "47904",
@@ -5977,30 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-15T11:01:10.967Z"
-    },
-    {
-      "id": "46876",
-      "loja": "Amazon",
-      "titulo": "Pack de Coca-Cola Lata 350ML 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B09JZ8J5ZD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/5107PLcQ1YL._SL400_.jpg",
-      "preco": 20.99,
-      "precoDe": 24.24,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T22:11:52.070Z"
-    },
-    {
-      "id": "46874",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
-      "link": "https://meli.la/264DryR",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942823-MLA113526261849_062026-F.jpg",
-      "preco": 58,
-      "precoDe": 129,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T22:10:03.411Z"
     }
   ]
 }
