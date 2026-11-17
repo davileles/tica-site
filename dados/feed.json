@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-17T21:58:09.219Z",
+  "atualizadoEm": "2026-11-17T22:04:54.313Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48127",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
+      "link": "https://meli.la/2CNfb2o",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
+      "preco": 429,
+      "precoDe": 1049,
+      "desconto": 55,
+      "cupom": "OFFHOJEMELI",
+      "enviadoEm": "2026-11-17T22:00:57.348Z"
+    },
     {
       "id": "48126",
       "loja": "Amazon",
@@ -4537,18 +4549,6 @@
       "desconto": 53,
       "cupom": "HOJETEM",
       "enviadoEm": "2026-11-16T12:30:55.045Z"
-    },
-    {
-      "id": "47203",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 469.02,
-      "precoDe": 999.98,
-      "desconto": 48,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:29:33.769Z"
     },
     {
       "id": "47202",
