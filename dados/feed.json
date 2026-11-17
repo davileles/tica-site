@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-17T13:00:39.500Z",
+  "atualizadoEm": "2026-11-17T13:07:43.358Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47782",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
+      "link": "https://s.shopee.com.br/70Lm3G7ayb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
+      "preco": 35.99,
+      "precoDe": 44.99,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:07:26.957Z"
+    },
     {
       "id": "47772",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 80,
       "cupom": null,
       "enviadoEm": "2026-11-14T11:23:35.206Z"
-    },
-    {
-      "id": "46620",
-      "loja": "Amazon",
-      "titulo": "Loção Hidratante Corporal CeraVe 3 Ceramidas Sem Perfume 120h 473ml | Loção corporal e facial com 3 ceramidas e ácido hialurônico que restaura a barreira da pele e hidrata por até ",
-      "link": "https://www.amazon.com.br/dp/B07RK4HST7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41h4NapWynL._SL400_.jpg",
-      "preco": 90.91,
-      "precoDe": 110.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:16:47.719Z"
     }
   ]
 }
