@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-17T21:34:56.010Z",
+  "atualizadoEm": "2026-11-17T22:04:56.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BLACK40",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-17T22:01:16.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "BLACKPRIME15",
       "loja": "Amazon",
@@ -1044,18 +1032,6 @@
       "limite": 500,
       "observacao": "Cupom válido em itens selecionados no Mercado Livre",
       "validadeAte": "2026-11-18T17:01:21.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ITENSNATALINOS",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-17T22:00:34.145Z",
       "url": "https://meli.la/2xystLt"
     },
     {
