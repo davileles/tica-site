@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T15:37:45.311Z",
+  "atualizadoEm": "2026-11-17T16:07:45.250Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -552,6 +552,18 @@
       "limite": null,
       "observacao": "Cupom requer contato via WhatsApp da Magalu e pesquisa do ID do item",
       "validadeAte": "2026-11-17T19:29:37.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMIYHHN5",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 8,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido somente no APP Magalu",
+      "validadeAte": "2026-11-18T15:40:39.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
