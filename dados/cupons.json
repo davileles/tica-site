@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T12:37:45.062Z",
+  "atualizadoEm": "2026-11-17T14:06:39.469Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1119,30 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIGARANTE30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-17T14:01:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEROPROMO30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-17T14:01:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DECORNATAL1711",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1812,30 +1788,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CHEGOUCUPOM25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-17T14:01:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORESPROMOS25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-17T14:01:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
