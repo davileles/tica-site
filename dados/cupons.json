@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T18:16:35.013Z",
+  "atualizadoEm": "2026-11-17T18:33:40.629Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -432,18 +432,6 @@
       "limite": null,
       "observacao": "Válido para Farmácias",
       "validadeAte": "2026-11-17T19:00:13.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFFOMEON",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 12,
-      "minimo": 27,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
-      "validadeAte": "2026-11-17T18:30:14.000Z",
       "url": null
     },
     {
