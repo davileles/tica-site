@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-17T17:37:43.385Z",
+  "atualizadoEm": "2026-11-17T17:47:32.569Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48009",
+      "loja": "Mercado Livre",
+      "titulo": "Top Lupo Loba Fitness Confortável Ótima Sustentação Academia",
+      "link": "https://meli.la/1pi3yn5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690710-MLB118739205774_102026-O-top-lupo-loba-fitness-confortavel-otima-sustentaco-academia.webp",
+      "preco": 39.99,
+      "precoDe": 78.99,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T17:43:34.245Z"
+    },
     {
       "id": "48003",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 18,
       "cupom": null,
       "enviadoEm": "2026-11-14T16:40:37.517Z"
-    },
-    {
-      "id": "46810",
-      "loja": "Shopee",
-      "titulo": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
-      "link": "https://s.shopee.com.br/4B1W7vVU2f",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mvfqhm987uv480_tn",
-      "preco": 22.99,
-      "precoDe": 88.42,
-      "desconto": 74,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T16:39:28.971Z"
     }
   ]
 }
