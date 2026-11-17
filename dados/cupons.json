@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T15:07:45.319Z",
+  "atualizadoEm": "2026-11-17T15:37:45.311Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -312,6 +312,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "VEMBLACK",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -2125,6 +2137,18 @@
       "observacao": "Cupons para produtos selecionados no Mercado Livre",
       "validadeAte": "2026-11-18T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACK30",
+      "loja": "Nike",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-20T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
