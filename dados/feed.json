@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-17T21:34:54.282Z",
+  "atualizadoEm": "2026-11-17T21:58:09.219Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48126",
+      "loja": "Amazon",
+      "titulo": "Johnnie Walker - Whisky Blue Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B007QR1NK6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lEUSy1rmL._SL400_.jpg",
+      "preco": 989.9,
+      "precoDe": 1670.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T21:48:09.216Z"
+    },
+    {
+      "id": "48125",
+      "loja": "Amazon",
+      "titulo": "Licor de whisky com canela Fireball – 750ml | Fireball Cinnamon Whisky Licor, whisky canadense com canela real, 33% vol, 750ml, marca de shot nº 1 da América! Sirva gelado",
+      "link": "https://www.amazon.com.br/dp/B004CYZ7ZI?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SL400_.jpg",
+      "preco": 79.9,
+      "precoDe": 89.99,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T21:45:53.811Z"
+    },
     {
       "id": "48123",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-15T11:14:12.751Z"
-    },
-    {
-      "id": "46882",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51sVgqfGx5L._SL400_.jpg",
-      "preco": 155.44,
-      "precoDe": 235.87,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T11:03:51.341Z"
-    },
-    {
-      "id": "46880",
-      "loja": "Shopee",
-      "titulo": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
-      "link": "https://s.shopee.com.br/60TBWy3bEc",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28_tn",
-      "preco": 201.9,
-      "precoDe": 310.62,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T11:01:10.967Z"
     }
   ]
 }
