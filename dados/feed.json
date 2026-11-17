@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-17T17:25:21.220Z",
+  "atualizadoEm": "2026-11-17T17:37:43.385Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48003",
+      "loja": "Shopee",
+      "titulo": "Organizador Gavetas Armário Multiuso Cozinha Quarto Maquiagem Material Escolar Kit 4",
+      "link": "https://s.shopee.com.br/5Au8AM9ctf",
+      "imagem": "https://cf.shopee.com.br/file/7eb661e89cb646e79ed771136fbff3c6_tn",
+      "preco": 74.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T17:36:30.581Z"
+    },
+    {
+      "id": "48002",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/80EJXEkv5w",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d_tn",
+      "preco": 31.7,
+      "precoDe": 44.65,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T17:31:59.536Z"
+    },
     {
       "id": "47988",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-11-14T16:39:28.971Z"
-    },
-    {
-      "id": "46809",
-      "loja": "Mercado Livre",
-      "titulo": "Garrafa Térmica Inox 900ml Tampa Flip Straw Canudo Com Alça",
-      "link": "https://meli.la/2wHnCn8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_885504-MLB115754888077_082026-P.webp",
-      "preco": 44.99,
-      "precoDe": 128,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T16:38:17.168Z"
-    },
-    {
-      "id": "46807",
-      "loja": "Mercado Livre",
-      "titulo": "Kit com 4 Toalhas Buddemeyer Brisa Banho",
-      "link": "https://meli.la/2Bii3Bh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_958172-MLB100694904778_122025-P.webp",
-      "preco": 108.31,
-      "precoDe": 229.9,
-      "desconto": 37,
-      "cupom": "SEMPREOFERTAS",
-      "enviadoEm": "2026-11-14T16:35:43.522Z"
     }
   ]
 }
