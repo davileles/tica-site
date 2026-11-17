@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-17T22:04:54.313Z",
+  "atualizadoEm": "2026-11-17T22:15:46.824Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48130",
+      "loja": "Amazon",
+      "titulo": "Ar Condicionado AIWA Split High Wall High Inverter 9.000 BTUs Quente e Frio AWS-AC-9QF-EU 220V",
+      "link": "https://www.amazon.com.br/dp/B0FYHZ1S84?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414OThlZzUL._SL400_.jpg",
+      "preco": 1622.65,
+      "precoDe": 2599,
+      "desconto": 27,
+      "cupom": "BLACKPRIME15",
+      "enviadoEm": "2026-11-17T22:05:46.822Z"
+    },
     {
       "id": "48127",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-15T11:22:02.502Z"
-    },
-    {
-      "id": "46887",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kQ1MEMqL._SL400_.jpg",
-      "preco": 93.47,
-      "precoDe": 194.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T11:14:12.751Z"
     }
   ]
 }
