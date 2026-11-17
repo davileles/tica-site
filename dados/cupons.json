@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T17:25:23.036Z",
+  "atualizadoEm": "2026-11-17T18:16:35.013Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -399,18 +399,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "PRECOBLACK",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 em compras no Mercado pelo iFood",
-      "validadeAte": "2026-11-17T18:00:15.000Z",
-      "url": null
-    },
-    {
       "codigo": "TOMADOBRO",
       "loja": "iFood",
       "tipo": "reais",
@@ -420,6 +408,18 @@
       "limite": null,
       "observacao": "R$ 20 OFF em Mercado",
       "validadeAte": "2026-11-17T19:56:11.000Z",
+      "url": null
+    },
+    {
+      "codigo": "LEVATUDO",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido em Mercados no iFood",
+      "validadeAte": "2026-11-18T18:06:46.000Z",
       "url": null
     },
     {
