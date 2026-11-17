@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-17T11:07:43.359Z",
+  "atualizadoEm": "2026-11-17T11:32:54.997Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47645",
+      "loja": "Shopee",
+      "titulo": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "link": "https://s.shopee.com.br/6L658qnZVn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9vukr0feo684_tn",
+      "preco": 69.99,
+      "precoDe": 109.36,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T11:22:54.994Z"
+    },
+    {
+      "id": "47644",
+      "loja": "Shopee",
+      "titulo": "Bota Feminina Dakota Preta Confortável Dia A Dia Trabalho D2432",
+      "link": "https://s.shopee.com.br/BVRnQr8bU",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823px-mp13rwzdkmj078_tn",
+      "preco": 242.92,
+      "precoDe": 269.91,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T11:21:40.272Z"
+    },
+    {
+      "id": "47642",
+      "loja": "Amazon",
+      "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML | Limpeza glicerinada para bebês",
+      "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31os5epn2cL._SL400_.jpg",
+      "preco": 21,
+      "precoDe": 33.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T11:15:16.460Z"
+    },
     {
       "id": "47638",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-13T19:44:07.138Z"
-    },
-    {
-      "id": "46539",
-      "loja": "Amazon",
-      "titulo": "Cerveja em Barril Heineken, 5L",
-      "link": "https://www.amazon.com.br/dp/B07BB8NL42?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41LfCy7sDsL._SL400_.jpg",
-      "preco": 92.9,
-      "precoDe": 119.99,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T19:28:19.423Z"
-    },
-    {
-      "id": "46538",
-      "loja": "Shopee",
-      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
-      "link": "https://s.shopee.com.br/6VPPUYHqwF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
-      "preco": 19,
-      "precoDe": 35.19,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T19:22:55.963Z"
-    },
-    {
-      "id": "46537",
-      "loja": "Amazon",
-      "titulo": "Old Parr Whisky 12 Anos 1L",
-      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
-      "preco": 108.8,
-      "precoDe": 157.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-13T19:20:27.841Z"
     }
   ]
 }
