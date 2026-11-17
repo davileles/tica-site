@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T00:08:43.529Z",
+  "atualizadoEm": "2026-11-17T02:37:43.833Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2148,6 +2148,18 @@
       "limite": 40,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-17T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVEMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-18T02:11:46.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
