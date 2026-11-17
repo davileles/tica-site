@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T03:07:43.894Z",
+  "atualizadoEm": "2026-11-17T11:07:45.474Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -574,7 +574,7 @@
       "minimo": 199,
       "maximo": null,
       "limite": null,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-18T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -703,7 +703,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 30,
-      "minimo": null,
+      "minimo": 0,
       "maximo": null,
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
@@ -1856,6 +1856,18 @@
       "tipo": "pct",
       "valor": 22,
       "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ECONOMIAML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 22,
+      "minimo": 29,
       "maximo": null,
       "limite": 500,
       "observacao": null,
