@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T21:14:09.183Z",
+  "atualizadoEm": "2026-11-17T21:34:56.010Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -963,6 +963,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEUDESCONTAO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1039,11 +1051,11 @@
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 30,
-      "minimo": 129,
+      "minimo": 119,
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
+      "validadeAte": "2026-11-17T22:00:34.145Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1551,18 +1563,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-18T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPRAAGORA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2004,6 +2004,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-18T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
