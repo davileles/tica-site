@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-17T13:25:47.321Z",
+  "atualizadoEm": "2026-11-17T13:37:43.358Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47813",
+      "loja": "Shopee",
+      "titulo": "Cama Pet Sherpa Redonda Antiestresse Caminha Super Macia Inverno Luxo Tamanhos P , M e G",
+      "link": "https://s.shopee.com.br/2BGWKBKUNh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mo02ljo808ox01_tn",
+      "preco": 27.9,
+      "precoDe": 39.86,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:33:37.459Z"
+    },
+    {
+      "id": "47808",
+      "loja": "Shopee",
+      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
+      "link": "https://s.shopee.com.br/2VtMiQxEuN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
+      "preco": 113.91,
+      "precoDe": 119.91,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:28:26.197Z"
+    },
     {
       "id": "47798",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 63,
       "cupom": null,
       "enviadoEm": "2026-11-14T12:04:00.996Z"
-    },
-    {
-      "id": "46630",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D519XS9K?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uYccJRfwL._SL400_.jpg",
-      "preco": 29.89,
-      "precoDe": 46.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:55:58.720Z"
-    },
-    {
-      "id": "46629",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-qdyooPzL._SL400_.jpg",
-      "preco": 29.87,
-      "precoDe": 42.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:55:33.991Z"
     }
   ]
 }
