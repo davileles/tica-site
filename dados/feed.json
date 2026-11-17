@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-17T13:07:43.358Z",
+  "atualizadoEm": "2026-11-17T13:25:47.321Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "47798",
+      "loja": "Amazon",
+      "titulo": "Moisés Safety 1st, Dreamy, 0 a 9kg, Grey",
+      "link": "https://www.amazon.com.br/dp/B07B5V6RVK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VYEzmCPcL._SL400_.jpg",
+      "preco": 320,
+      "precoDe": 499,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:15:47.318Z"
+    },
+    {
+      "id": "47797",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Cadeirinha Evolutty 360 X, 0 a 36kg, com Giro 360º e Isofix, Preto",
+      "link": "https://www.amazon.com.br/dp/B0B9CLH2W2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31s-y3hNcgL._SL400_.jpg",
+      "preco": 750,
+      "precoDe": 999,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:15:13.594Z"
+    },
+    {
+      "id": "47795",
+      "loja": "Mercado Livre",
+      "titulo": "Termo Stanley Classic 950mL pretoliso",
+      "link": "https://meli.la/2vjwDEp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669232-MLA99986167493_112025-F.jpg",
+      "preco": 143.55,
+      "precoDe": 349,
+      "desconto": 49,
+      "cupom": "CARRINHONOML ou MEUDESCONTOOBRA",
+      "enviadoEm": "2026-11-17T13:14:36.854Z"
+    },
+    {
+      "id": "47793",
+      "loja": "Shopee",
+      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/20x66MWcvq",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d_tn",
+      "preco": 74.9,
+      "precoDe": 149.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-17T13:12:31.653Z"
+    },
+    {
+      "id": "47791",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Garmin Forerunner 55 Monitor Cardíaco Gps 42mm Preto Corrida Caminhada Ciclismo Natação Monitoramento Sono Pace Calorias Distância Cronômetro Resistente Leve Esportivo Unis",
+      "link": "https://meli.la/26NiWzN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_678710-MLA118647070773_102026-F.jpg",
+      "preco": 941.64,
+      "precoDe": 2229,
+      "desconto": 58,
+      "cupom": "OFFHOJEMELI",
+      "enviadoEm": "2026-11-17T13:11:13.263Z"
+    },
+    {
+      "id": "47786",
+      "loja": "Amazon",
+      "titulo": "Cápsulas Café Especial Orfeu Clássico 20 Unidades",
+      "link": "https://www.amazon.com.br/dp/B07VJJL6YV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kwMkYEQhL._SL400_.jpg",
+      "preco": 30.549999999999997,
+      "precoDe": 49.8,
+      "desconto": 28,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-17T13:09:53.461Z"
+    },
     {
       "id": "47782",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-14T11:55:33.991Z"
-    },
-    {
-      "id": "46628",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0D4363KSD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414Uf3FLMyL._SL400_.jpg",
-      "preco": 29.9,
-      "precoDe": 42.9,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:55:11.752Z"
-    },
-    {
-      "id": "46627",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Fralda-Calça Superproteção M 34 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DK3M6161?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v4TJKkdjL._SL400_.jpg",
-      "preco": 31.89,
-      "precoDe": 42.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:54:50.244Z"
-    },
-    {
-      "id": "46626",
-      "loja": "Amazon",
-      "titulo": "MONDIAL Cafeteira Elétrica Dolce Arome Digital, Preto/Inox, 800W, 110V - C-44-32X-SDI",
-      "link": "https://www.amazon.com.br/dp/B09N4Y8TR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41I+ddJ1+XL._SL400_.jpg",
-      "preco": 169.15,
-      "precoDe": 378.94,
-      "desconto": 47,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-14T11:47:23.389Z"
-    },
-    {
-      "id": "46625",
-      "loja": "Shopee",
-      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
-      "link": "https://s.shopee.com.br/3qOfP4pTWr",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
-      "preco": 22.99,
-      "precoDe": 47.9,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:44:37.720Z"
-    },
-    {
-      "id": "46623",
-      "loja": "Amazon",
-      "titulo": "Bebê Conforto até 13kg Styll Baby Preto e Rosa",
-      "link": "https://www.amazon.com.br/dp/B0B25RTYX9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41D7LbYzxzL._SL400_.jpg",
-      "preco": 235.9,
-      "precoDe": 319.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:29:34.684Z"
-    },
-    {
-      "id": "46622",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/6fiqkqEyXA",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.88,
-      "precoDe": 199.4,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-11-14T11:23:35.206Z"
     }
   ]
 }
