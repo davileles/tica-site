@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T22:06:36.032Z",
+  "atualizadoEm": "2026-11-18T22:09:40.446Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48685",
+      "loja": "Amazon",
+      "titulo": "Candide, Boneco, Funko POP! Chewbacca, Star Wars Episódio IV - 12 cm",
+      "link": "https://www.amazon.com.br/dp/B0CNWL7P1K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ibZyKnf1L._SL400_.jpg",
+      "preco": 103.74,
+      "precoDe": 149.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T22:07:50.547Z"
+    },
     {
       "id": "48680",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-16T16:45:30.176Z"
-    },
-    {
-      "id": "47378",
-      "loja": "Amazon",
-      "titulo": "Bike Ergometrica Bicicleta Ergometrica Bike Spinning Silenciosa Vertical Modelo Premium",
-      "link": "https://www.amazon.com.br/dp/B0FTNWV5F9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AkSZT6u4L._SL400_.jpg",
-      "preco": 455,
-      "precoDe": 493,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:38:14.849Z"
     }
   ]
 }
