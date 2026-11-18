@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T20:46:44.571Z",
+  "atualizadoEm": "2026-11-18T21:15:38.156Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -516,6 +516,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-19T19:36:36.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PELANDO300",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-19T21:07:54.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2232,6 +2244,18 @@
       "limite": 150,
       "observacao": "Válido pagando com pré-pago ou crédito em 1x. Aplicável em produtos selecionados.",
       "validadeAte": "2026-11-19T19:29:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRO1811",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-19T21:00:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
