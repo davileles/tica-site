@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T23:05:56.772Z",
+  "atualizadoEm": "2026-11-18T23:32:11.758Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48703",
+      "loja": "Amazon",
+      "titulo": "WAP Climatizador de Ar Air Fresh 4 em 1, com Reservatório para Essência e 3 Níveis de Velocidades, Baixo Ruído, 90W 220V",
+      "link": "https://www.amazon.com.br/dp/B0DCK64CRH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21UDXEEL1dL._SL400_.jpg",
+      "preco": 309.33,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T23:22:11.754Z"
+    },
     {
       "id": "48702",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "DEZOFF",
       "enviadoEm": "2026-11-16T16:58:55.378Z"
-    },
-    {
-      "id": "47395",
-      "loja": "Mercado Livre",
-      "titulo": "LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
-      "link": "https://meli.la/1kJWBYQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638172-MLA119028250988_112026-F.jpg",
-      "preco": 989.1,
-      "precoDe": 2180.95,
-      "desconto": 50,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T16:57:16.178Z"
     }
   ]
 }
