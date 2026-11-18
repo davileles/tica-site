@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T21:42:14.502Z",
+  "atualizadoEm": "2026-11-18T22:06:37.942Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2268,6 +2268,18 @@
       "limite": 80,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-19T21:00:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BELEZAVERAO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 120,
+      "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-19T22:02:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
