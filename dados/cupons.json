@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T14:45:01.680Z",
+  "atualizadoEm": "2026-11-18T14:52:55.120Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -159,7 +159,67 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
+      "codigo": "MAISMIND",
+      "loja": "C&A",
+      "tipo": "reais",
+      "valor": 299,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "ESPORTIVO",
+      "loja": "C&A",
+      "tipo": "reais",
+      "valor": 109,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MAIS70",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 70,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "TEM70",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 70,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
       "codigo": "ESPORTIVO50",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "RELOGIO50",
       "loja": "C&A",
       "tipo": "pct",
       "valor": 50,
@@ -183,10 +243,46 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
+      "codigo": "MAISKIDS",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
       "codigo": "MAISBELEZA",
       "loja": "C&A",
       "tipo": "pct",
       "valor": 35,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "MODA35",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-20T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "JEANS30",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 30,
       "minimo": null,
       "maximo": null,
       "limite": null,
