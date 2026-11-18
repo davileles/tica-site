@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T13:42:09.130Z",
+  "atualizadoEm": "2026-11-18T13:48:54.817Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48363",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Potes Transparentes 500ml",
+      "link": "https://meli.la/15hX8tV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785819-MLB113343848157_062026-P.webp",
+      "preco": 29.98,
+      "precoDe": 49.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:43:06.747Z"
+    },
     {
       "id": "48362",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-15T17:39:27.224Z"
-    },
-    {
-      "id": "46994",
-      "loja": "Amazon",
-      "titulo": "Tangle Teezer - Escova de cabelo desemabaraçadora The Original Mini para todos os tipos de cabelo, úmido e seco, Cor: Amarelo",
-      "link": "https://www.amazon.com.br/dp/B0DPJS48KG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/4147Cr10f1L._SL400_.jpg",
-      "preco": 54.82,
-      "precoDe": 85,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T17:35:09.511Z"
     }
   ]
 }
