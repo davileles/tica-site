@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-18T16:35:56.779Z",
+  "atualizadoEm": "2026-11-18T16:51:55.019Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48490",
+      "loja": "Amazon",
+      "titulo": "NIINA SECRETS LÁPIS SOBRANCELHAS 3/1 CLARO 1,1g",
+      "link": "https://www.amazon.com.br/dp/B0D4B49XZJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21-pzWTc4gL._SL400_.jpg",
+      "preco": 26,
+      "precoDe": 65.99,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:50:58.286Z"
+    },
+    {
+      "id": "48488",
+      "loja": "Amazon",
+      "titulo": "Andador Cosco Kids Ziggy, Rosa, 6 meses a 12kg",
+      "link": "https://www.amazon.com.br/dp/B0H9682R9B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZECyKeZvL._SL400_.jpg",
+      "preco": 269.08,
+      "precoDe": 299,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:49:39.826Z"
+    },
+    {
+      "id": "48487",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Com 6 Pares De Meia Cano Médio Algodão Adulto Lupo - R$ 59,90",
+      "link": "https://meli.la/1YbmpzM",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621026-MLB119266350297_102026-P.webp",
+      "preco": 59.9,
+      "precoDe": 83.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:49:06.048Z"
+    },
+    {
+      "id": "48486",
+      "loja": "Amazon",
+      "titulo": "La Roche-Posay Effaclar Gel de Limpeza Facial Antiacne Concentrado com Ácido Salicílico, Zinco e LHA, Limpeza Profunda, Reduz Oleosidade e Desobstrui os Poros, 300ml",
+      "link": "https://www.amazon.com.br/dp/B07KYVSKWR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31T47E7-LOL._SL400_.jpg",
+      "preco": 76.79,
+      "precoDe": 94.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:47:48.213Z"
+    },
+    {
+      "id": "48485",
+      "loja": "Mercado Livre",
+      "titulo": "Philips Aparador e Barbeador Elétrico All-in-One Série 3000 12 em 1 12 acessórios para o visual completo | Lâminas com pontas arredondadas | 60 min sem fio | MG3921/15 MG3921/15",
+      "link": "https://meli.la/2UBaCkn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608894-MLA115895780710_092026-F.jpg",
+      "preco": 189.9,
+      "precoDe": 262.37,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:46:33.300Z"
+    },
+    {
+      "id": "48483",
+      "loja": "Amazon",
+      "titulo": "Notebook Gamer Lenovo LOQ IRX9 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
+      "link": "https://www.amazon.com.br/dp/B0GQJM9NJK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41pAxtXsTiL._SL400_.jpg",
+      "preco": 4699,
+      "precoDe": 6199,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:44:31.448Z"
+    },
+    {
+      "id": "48482",
+      "loja": "Shopee",
+      "titulo": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
+      "link": "https://s.shopee.com.br/3g5LulpxY0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77_tn",
+      "preco": 19.9,
+      "precoDe": 39.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:42:13.861Z"
+    },
+    {
+      "id": "48479",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+      "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412G3EnreFL._SL400_.jpg",
+      "preco": 28,
+      "precoDe": 31.79,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:38:17.551Z"
+    },
     {
       "id": "48470",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 26,
       "cupom": null,
       "enviadoEm": "2026-11-16T12:12:46.520Z"
-    },
-    {
-      "id": "47156",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Asus Tuf Gaming B760m-plus D4 Cor Preto",
-      "link": "https://meli.la/2YHegc9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_616773-MLU70800688829_072023-F.jpg",
-      "preco": 1072.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:11:27.920Z"
-    },
-    {
-      "id": "47142",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Elétrica Bike Scooter 400w Ate 25km Roda 14 Cor Preto",
-      "link": "https://meli.la/1RBz3tC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610074-MLA96297994356_102025-F.jpg",
-      "preco": 2125,
-      "precoDe": 3090,
-      "desconto": 25,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:08:41.776Z"
-    },
-    {
-      "id": "47137",
-      "loja": "Amazon",
-      "titulo": "Geonav Cabo de Silicone USB-C para Lightning, carregamento até 38W, Silicone resistente, 1,5m, ESLICSWT, Branco",
-      "link": "https://www.amazon.com.br/dp/B0DH77Q2PP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31nq0pooBOL._SL400_.jpg",
-      "preco": 39.96,
-      "precoDe": 119,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:07:02.770Z"
-    },
-    {
-      "id": "47134",
-      "loja": "Mercado Livre",
-      "titulo": "O Boticário Liz Aura colônia feminina",
-      "link": "https://meli.la/2xejWHf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_618772-MLA104772984638_012026-F.jpg",
-      "preco": 154.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MODA1611",
-      "enviadoEm": "2026-11-16T12:02:55.312Z"
-    },
-    {
-      "id": "47132",
-      "loja": "Amazon",
-      "titulo": "Buba Garrafinha Fresh Rosa",
-      "link": "https://www.amazon.com.br/dp/B07FLGY9PL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/313KqpMdDiL._SL400_.jpg",
-      "preco": 20.56,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:59:33.011Z"
-    },
-    {
-      "id": "47121",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Duas Camisetas Regular Essence Reserva",
-      "link": "https://meli.la/2bRf1dD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784206-MLB101684932431_122025-P.webp",
-      "preco": 115.99,
-      "precoDe": 249,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:49:35.929Z"
-    },
-    {
-      "id": "47115",
-      "loja": "Shopee",
-      "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "link": "https://s.shopee.com.br/5q9myTf4Qu",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204_tn",
-      "preco": 44.9,
-      "precoDe": 71.27,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:44:12.145Z"
-    },
-    {
-      "id": "47114",
-      "loja": "Amazon",
-      "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VhQ4JSbGL._SL400_.jpg",
-      "preco": 46,
-      "precoDe": 64.64,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:42:56.854Z"
     }
   ]
 }
