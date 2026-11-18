@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T10:36:38.058Z",
+  "atualizadoEm": "2026-11-18T10:42:09.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48161",
+      "loja": "Amazon",
+      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
+      "preco": 22.7,
+      "precoDe": 29.24,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T10:40:30.275Z"
+    },
     {
       "id": "48158",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": "LOJASOFICIAIS ou LOJASOFICIAIS1411 ou LOJASOFICIAIS1511",
       "enviadoEm": "2026-11-15T12:46:08.589Z"
-    },
-    {
-      "id": "46908",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Tcl 25 Polegadas Qd-Mini Led Full Hd G64 300hz 1ms (Gtg) Freesync Hdr 600 Nits 25g64",
-      "link": "https://meli.la/2JapqS9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
-      "preco": 1020.6,
-      "precoDe": 1599,
-      "desconto": 29,
-      "cupom": "OFFTEC",
-      "enviadoEm": "2026-11-15T12:28:52.156Z"
     }
   ]
 }
