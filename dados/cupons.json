@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T18:55:02.122Z",
+  "atualizadoEm": "2026-11-18T19:15:45.339Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -39,6 +39,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
     },
     {
+      "codigo": "AMEND30",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 35,
+      "observacao": null,
+      "validadeAte": "2026-11-23T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
       "codigo": "GANHE20SIAGE",
       "loja": "BELEZA NA WEB",
       "tipo": "pct",
@@ -48,6 +60,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "SKIN10",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-23T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
@@ -363,15 +387,15 @@
       "url": null
     },
     {
-      "codigo": "BFFARMACIA",
+      "codigo": "SALVOUBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em Farmácias. Ativa por 16 horas.",
-      "validadeAte": "2026-11-18T18:57:19.000Z",
+      "observacao": "Válido em Farmácias. Ativa a partir das 16h",
+      "validadeAte": "2026-11-19T18:56:59.000Z",
       "url": null
     },
     {
@@ -384,6 +408,18 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
       "validadeAte": "2026-11-19T18:30:13.000Z",
+      "url": null
+    },
+    {
+      "codigo": "SALVOUBF",
+      "loja": "iFood Farmácias",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido por 16 horas",
+      "validadeAte": "2026-11-19T18:56:59.000Z",
       "url": null
     },
     {
@@ -507,6 +543,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "MP500PS",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-19T19:00:17.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -528,6 +576,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-19T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MP100GAMES",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 90,
+      "minimo": 449,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-19T19:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1092,18 +1152,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SKINCARE30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-18T19:03:36.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
