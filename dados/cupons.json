@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-18T19:15:45.339Z",
+  "atualizadoEm": "2026-11-18T19:39:31.800Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "BLACKPRIME15",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-18T19:30:55.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "MEGABLASTBF",
       "loja": "ASICS",
@@ -517,6 +505,42 @@
       "observacao": "Válido apenas em Placas de Vídeo selecionadas",
       "validadeAte": "2026-11-19T12:50:34.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "INFLU300BLACK",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-19T19:36:36.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU200BLACK",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2200,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons de desconto fixo com valores mínimos de compra diferentes",
+      "validadeAte": "2026-11-19T19:36:29.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLU100BLACK",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1100,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons de desconto fixo com valores mínimos de compra diferentes",
+      "validadeAte": "2026-11-19T19:36:29.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "CUPOMLUBLACK60",
@@ -1803,18 +1827,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPERDESCONTOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-18T19:32:17.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAJA25",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2208,6 +2220,18 @@
       "limite": 20,
       "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-19T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BABYNOVEMBRO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 150,
+      "observacao": "Válido pagando com pré-pago ou crédito em 1x. Aplicável em produtos selecionados.",
+      "validadeAte": "2026-11-19T19:29:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
