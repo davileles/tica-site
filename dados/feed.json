@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T21:42:12.557Z",
+  "atualizadoEm": "2026-11-18T22:06:36.032Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48680",
+      "loja": "Amazon",
+      "titulo": "Lâmpada LED Foxlux Bulbo 9W 3000K Bivolt",
+      "link": "https://www.amazon.com.br/dp/B077VVK3PQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21Tb+JNtiTL._SL400_.jpg",
+      "preco": 2.73,
+      "precoDe": 7.89,
+      "desconto": 65,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T21:56:36.029Z"
+    },
     {
       "id": "48676",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-11-16T16:38:14.849Z"
-    },
-    {
-      "id": "47376",
-      "loja": "Amazon",
-      "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitores de Câmara de Vídeo, Pan & Tilt, 2 Way Audio, Visão Nocturna, Zoom Digital, Decoração Sonora VOX, Ideal para Novos Pais",
-      "link": "https://www.amazon.com.br/dp/B0BR51ZZY6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GfcNBHpdL._SL400_.jpg",
-      "preco": 436.03,
-      "precoDe": 460.26,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:35:18.376Z"
     }
   ]
 }
