@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-18T16:51:55.019Z",
+  "atualizadoEm": "2026-11-18T17:04:32.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48501",
+      "loja": "Shopee",
+      "titulo": "Kit Pet Para Cachorro Caminha  Sanitário Comedouro Para Cães Pequeno",
+      "link": "https://s.shopee.com.br/20x7xAUHBP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
+      "preco": 66.99,
+      "precoDe": 67.67,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:03:23.696Z"
+    },
+    {
+      "id": "48499",
+      "loja": "Mercado Livre",
+      "titulo": "iPhone 18 Pro Max 512GB Prateado - Distribuidor Autorizado",
+      "link": "https://meli.la/2KWuJSV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790901-MLA117486592729_092026-F.jpg",
+      "preco": 11744.19,
+      "precoDe": 14499,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:01:23.173Z"
+    },
+    {
+      "id": "48498",
+      "loja": "Amazon",
+      "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und | Secura com Galinha Pintadinha G",
+      "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41mWhJC7KRL._SL400_.jpg",
+      "preco": 58.69,
+      "precoDe": 101.58,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:58:38.329Z"
+    },
+    {
+      "id": "48491",
+      "loja": "Mercado Livre",
+      "titulo": "Árvore De Natal Tradicional Pinheiro Luxo 1.80m 900 Galhos Cheios Montagem Rápida Decorativa Natalina Luzes de Natal",
+      "link": "https://meli.la/2zzMFmb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_767728-MLA117008171886_102026-F.jpg",
+      "preco": 143.18,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFHOJEML",
+      "enviadoEm": "2026-11-18T16:52:18.048Z"
+    },
     {
       "id": "48490",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": null,
       "cupom": "HOJETEM",
       "enviadoEm": "2026-11-16T12:23:10.671Z"
-    },
-    {
-      "id": "47189",
-      "loja": "Mercado Livre",
-      "titulo": "Ventilador de Teto Ventisol Aires Inverter Branco Com Controle Remoto",
-      "link": "https://meli.la/1fDFc3r",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934854-MLA117283694629_092026-F.jpg",
-      "preco": 225.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJETEM",
-      "enviadoEm": "2026-11-16T12:21:47.429Z"
-    },
-    {
-      "id": "47181",
-      "loja": "Mercado Livre",
-      "titulo": "Capacete Fechado Pro Tork Liberty Four Kids Fk Vis. Fumê Nfe",
-      "link": "https://meli.la/2Z6PzKC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_688933-MLB112716751234_062026-P.webp",
-      "preco": 85.47,
-      "precoDe": 158.82,
-      "desconto": 40,
-      "cupom": "HOJETEM",
-      "enviadoEm": "2026-11-16T12:20:30.902Z"
-    },
-    {
-      "id": "47179",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc Recursos Ai Android E Segurança Snapdragon - Preto",
-      "link": "https://meli.la/1BHKpDz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_944288-MLA116511342948_092026-F.jpg",
-      "preco": 1272.6,
-      "precoDe": 2599,
-      "desconto": 46,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:18:50.063Z"
-    },
-    {
-      "id": "47138",
-      "loja": "Shopee",
-      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
-      "link": "https://s.shopee.com.br/8Kr7yY80B6",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
-      "preco": 19.88,
-      "precoDe": 26.86,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:12:46.520Z"
     }
   ]
 }
