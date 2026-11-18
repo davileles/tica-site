@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-18T17:33:32.744Z",
+  "atualizadoEm": "2026-11-18T18:08:43.273Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48548",
+      "loja": "Mercado Livre",
+      "titulo": "Máquina De Costura Reta Singer Facilita Pro 4423 Portátil - Cinza Escuro",
+      "link": "https://meli.la/1NxbMec",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_772394-MLA100010274071_122025-F.jpg",
+      "preco": 1459,
+      "precoDe": 1794,
+      "desconto": 18,
+      "cupom": "FULL1811ENTREGAS",
+      "enviadoEm": "2026-11-18T18:03:29.704Z"
+    },
+    {
+      "id": "48538",
+      "loja": "Mercado Livre",
+      "titulo": "Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos",
+      "link": "https://meli.la/1xFnJzn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_835645-MLA99448675126_112025-F.jpg",
+      "preco": 494.6,
+      "precoDe": 999.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:58:59.870Z"
+    },
+    {
+      "id": "48537",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Ferramentas e Furadeira de Impacto B-Tek BT-658 com 120 Peças e 2 Baterias",
+      "link": "https://meli.la/1kP7md6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674286-MLA114064477207_072026-F.jpg",
+      "preco": 80.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:58:27.356Z"
+    },
+    {
+      "id": "48536",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira de Refeição Cosco Kids, Convertty, 8 em 1, Cinza",
+      "link": "https://meli.la/2wSBTpx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_760951-MLA99456768826_112025-F.jpg",
+      "preco": 481.46,
+      "precoDe": 799,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:55:27.897Z"
+    },
+    {
+      "id": "48535",
+      "loja": "Mercado Livre",
+      "titulo": "Fralda Pampers Confort Sec G com 92 Unidades",
+      "link": "https://meli.la/1ox7mVE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_721977-MLB109274901842_042026-P.webp",
+      "preco": 90.64,
+      "precoDe": 133.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:54:59.002Z"
+    },
+    {
+      "id": "48534",
+      "loja": "Amazon",
+      "titulo": "Oral-B Kids Escova de Dente Infantil com Cerdas Suaves, 4 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CXKTNQL9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41NUlSFpWZL._SL400_.jpg",
+      "preco": 11.12,
+      "precoDe": 23.43,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:54:34.950Z"
+    },
+    {
+      "id": "48530",
+      "loja": "Mercado Livre",
+      "titulo": "COQUETELEIRA / SHAKER Academia BPA Free - 600ml",
+      "link": "https://meli.la/1BeQzuq",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784857-MLA99625616614_122025-F.jpg",
+      "preco": 19.9,
+      "precoDe": 39.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:53:39.608Z"
+    },
+    {
+      "id": "48527",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/9V38vq8kY9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.99,
+      "precoDe": 65.92,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:46:42.371Z"
+    },
     {
       "id": "48520",
       "loja": "Amazon",
@@ -3219,18 +3315,6 @@
       "enviadoEm": "2026-11-17T14:51:26.642Z"
     },
     {
-      "id": "47853",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec",
-      "link": "https://meli.la/1ox7mVE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_721977-MLB109274901842_042026-P.webp",
-      "preco": 90.64,
-      "precoDe": 133.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T14:50:56.434Z"
-    },
-    {
       "id": "47852",
       "loja": "Mercado Livre",
       "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Un",
@@ -5917,90 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-16T12:35:18.855Z"
-    },
-    {
-      "id": "47215",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Starlink Mini X – Internet via Satélite com Antena Mini e Roteador Wi-Fi 6",
-      "link": "https://meli.la/154LnFX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_906463-MLA118742749100_102026-F.jpg",
-      "preco": 426.64,
-      "precoDe": 699,
-      "desconto": 32,
-      "cupom": "HOJETEM",
-      "enviadoEm": "2026-11-16T12:34:42.945Z"
-    },
-    {
-      "id": "47214",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Cuecas Lupo Am Boxer Masculina",
-      "link": "https://meli.la/1eBqdCE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871365-MLB117140867825_092026-P.webp",
-      "preco": 35.05,
-      "precoDe": 130.9,
-      "desconto": 73,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:33:30.026Z"
-    },
-    {
-      "id": "47213",
-      "loja": "Mercado Livre",
-      "titulo": "Uomini Spirit Desodorante Colônia 100ml",
-      "link": "https://meli.la/2WCGZ8d",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740927-MLA106407688549_022026-F.jpg",
-      "preco": 88.31,
-      "precoDe": 209.9,
-      "desconto": 51,
-      "cupom": "MODA1611",
-      "enviadoEm": "2026-11-16T12:32:15.837Z"
-    },
-    {
-      "id": "47211",
-      "loja": "Mercado Livre",
-      "titulo": "Whey protein Vitafor Fort 3W 900g sabor Chocolate",
-      "link": "https://meli.la/2dNLx4X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683095-MLA116188539817_082026-F.jpg",
-      "preco": 158.95000000000002,
-      "precoDe": 373,
-      "desconto": 53,
-      "cupom": "HOJETEM",
-      "enviadoEm": "2026-11-16T12:30:55.045Z"
-    },
-    {
-      "id": "47202",
-      "loja": "Amazon",
-      "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada | Sabonete com loção hidratante",
-      "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xsWPULo4L._SL400_.jpg",
-      "preco": 9.75,
-      "precoDe": 24.52,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:28:22.965Z"
-    },
-    {
-      "id": "47200",
-      "loja": "Mercado Livre",
-      "titulo": "Supercoffee Economic Size (380g) Super Coffee Caffeine Army",
-      "link": "https://meli.la/1a8LFGe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_613048-MLB88991800855_072025-O-supercoffee-economic-size-380g-super-coffee-caffeine-army.webp",
-      "preco": 134.16,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "KBEAUTY1511 ou MODA1611",
-      "enviadoEm": "2026-11-16T12:27:57.207Z"
-    },
-    {
-      "id": "47199",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Johnson's Baby Recém-Nascidos, 200ml | Testado por Oftalmologistas, Fórmula Suave, Não Arde os Olhos",
-      "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31HYB3VignL._SL400_.jpg",
-      "preco": 13.589999999999998,
-      "precoDe": 34.49,
-      "desconto": 51,
-      "cupom": "IMPERDIVEL20",
-      "enviadoEm": "2026-11-16T12:26:44.179Z"
     }
   ]
 }
