@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-18T12:42:09.128Z",
+  "atualizadoEm": "2026-11-18T12:59:29.590Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48303",
+      "loja": "Amazon",
+      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
+      "preco": 69.09,
+      "precoDe": 130,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T12:49:29.587Z"
+    },
+    {
+      "id": "48302",
+      "loja": "Shopee",
+      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
+      "link": "https://s.shopee.com.br/6q2NQZVqq7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
+      "preco": 39.9,
+      "precoDe": 66.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T12:48:55.050Z"
+    },
+    {
+      "id": "48299",
+      "loja": "Mercado Livre",
+      "titulo": "iPhone 16e (128 GB) - Preto",
+      "link": "https://meli.la/2BS4tuy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
+      "preco": 3119,
+      "precoDe": 3665,
+      "desconto": 15,
+      "cupom": "DIADATECH",
+      "enviadoEm": "2026-11-18T12:43:48.286Z"
+    },
+    {
+      "id": "48297",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Cuecas Lupo Exclusiva Masculina Am Boxer",
+      "link": "https://meli.la/1TVfC2Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_684068-MLB116975167663_082026-P.webp",
+      "preco": 97.13,
+      "precoDe": 327.9,
+      "desconto": 67,
+      "cupom": "CORREHOJEPROML",
+      "enviadoEm": "2026-11-18T12:42:14.039Z"
+    },
     {
       "id": "48296",
       "loja": "Mercado Livre",
@@ -3795,18 +3843,6 @@
       "enviadoEm": "2026-11-16T19:26:19.111Z"
     },
     {
-      "id": "47520",
-      "loja": "Amazon",
-      "titulo": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07FPW95CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31j37Uzmg+L._SL400_.jpg",
-      "preco": 69.09,
-      "precoDe": 130,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T19:23:03.874Z"
-    },
-    {
       "id": "47519",
       "loja": "Amazon",
       "titulo": "Eudora Siàge Promopack Glow Expert Shampoo 250ml + Condicionador 125ml",
@@ -5965,42 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-15T16:39:47.542Z"
-    },
-    {
-      "id": "46979",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
-      "link": "https://s.shopee.com.br/2gCjw0liH3",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85_tn",
-      "preco": 38.99,
-      "precoDe": 99.97,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:38:32.413Z"
-    },
-    {
-      "id": "46978",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 18 Pro Max 512GB Prateado - Distribuidor Autorizado",
-      "link": "https://meli.la/2KWuJSV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790901-MLA117486592729_092026-F.jpg",
-      "preco": 10702,
-      "precoDe": 14499,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:33:17.560Z"
-    },
-    {
-      "id": "46975",
-      "loja": "Mercado Livre",
-      "titulo": "Frigobar Midea 93l Inverter Preto com Porta na Cor Inox Bivolt - 110V | 220V",
-      "link": "https://meli.la/1zCYNFd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928627-MLA100008496743_122025-F.jpg",
-      "preco": 883.4,
-      "precoDe": 1444,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:20:31.975Z"
     }
   ]
 }
