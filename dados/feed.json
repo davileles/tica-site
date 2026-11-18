@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T19:27:35.493Z",
+  "atualizadoEm": "2026-11-18T19:51:20.623Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48633",
+      "loja": "Shopee",
+      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
+      "link": "https://s.shopee.com.br/9KjirJ3jQO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
+      "preco": 38,
+      "precoDe": 44.71,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T19:41:20.619Z"
+    },
     {
       "id": "48624",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": "IMPERDIVEL20",
       "enviadoEm": "2026-11-16T14:45:22.298Z"
-    },
-    {
-      "id": "47308",
-      "loja": "Shopee",
-      "titulo": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
-      "link": "https://s.shopee.com.br/3g5IaRA3h4",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-mry50y1zr1mo61_tn",
-      "preco": 21.34,
-      "precoDe": 27.01,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T14:37:34.362Z"
     }
   ]
 }
