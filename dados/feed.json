@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-18T13:12:09.130Z",
+  "atualizadoEm": "2026-11-18T13:42:09.130Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48362",
+      "loja": "Amazon",
+      "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades | Proteção e conforto o dia todo – Baby Jumbo Unidades",
+      "link": "https://www.amazon.com.br/dp/B099KXW911?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL400_.jpg",
+      "preco": 18.8,
+      "precoDe": 28.68,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:36:30.904Z"
+    },
+    {
+      "id": "48361",
+      "loja": "Amazon",
+      "titulo": "NIVEA Creme Hidratante Lata 29g, Hidratação Profunda 24h, Corporal, Uso Diário, Multibenefícios, Todas as Peles",
+      "link": "https://www.amazon.com.br/dp/B07GBC52Q5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31qn3dQyRGL._SL400_.jpg",
+      "preco": 13.09,
+      "precoDe": 16.51,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:35:58.910Z"
+    },
+    {
+      "id": "48360",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Lite Racer 4.0 adidas - R$ 202,34",
+      "link": "https://meli.la/2nroF17",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991099-MLB82050147897_012025-P.webp",
+      "preco": 182.11,
+      "precoDe": 299.99,
+      "desconto": 33,
+      "cupom": "CORREHOJEPROML",
+      "enviadoEm": "2026-11-18T13:34:05.138Z"
+    },
+    {
+      "id": "48359",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "link": "https://s.shopee.com.br/6VPX4rdfp1",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
+      "preco": 38.69,
+      "precoDe": 99.21,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:31:42.863Z"
+    },
+    {
+      "id": "48358",
+      "loja": "Mercado Livre",
+      "titulo": "Cadeira Ergonômica Escritório Mesh Giratória Reclinável Eagl Preto Mesh",
+      "link": "https://meli.la/1zDkK5X",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738270-MLA115096560366_082026-F.jpg",
+      "preco": 248,
+      "precoDe": 650,
+      "desconto": 52,
+      "cupom": "CARRINHONOML ou MEUDESCONTOOBRA ou PARCEIRODAOBRA ou OFFHOJEML",
+      "enviadoEm": "2026-11-18T13:30:29.364Z"
+    },
+    {
+      "id": "48355",
+      "loja": "Amazon",
+      "titulo": "G-tech Inalador e Nebulizador Infantil Dcdog",
+      "link": "https://www.amazon.com.br/dp/B0DGNBJWZ1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V6-KSMr9L._SL400_.jpg",
+      "preco": 70.75,
+      "precoDe": 104.58,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:25:51.957Z"
+    },
+    {
+      "id": "48347",
+      "loja": "Amazon",
+      "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41EIsh0FsjL._SL400_.jpg",
+      "preco": 32.29,
+      "precoDe": 46.7,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T13:19:09.734Z"
+    },
+    {
+      "id": "48342",
+      "loja": "Amazon",
+      "titulo": "Oxford Aparelho De Jantar 16 Peças Flat Pacífico | Formato Empilhável",
+      "link": "https://www.amazon.com.br/dp/B0CLMYWZBK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31W9Wd+PvOL._SL400_.jpg",
+      "preco": 316.96,
+      "precoDe": 475.9,
+      "desconto": 22,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-18T13:16:10.561Z"
+    },
     {
       "id": "48330",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-15T17:35:09.511Z"
-    },
-    {
-      "id": "46993",
-      "loja": "Amazon",
-      "titulo": "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml | Anticaspa mentolado refrescante",
-      "link": "https://www.amazon.com.br/dp/B07LFGWRC7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41k6AMqjx8L._SL400_.jpg",
-      "preco": 21.49,
-      "precoDe": 31.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T17:32:14.487Z"
-    },
-    {
-      "id": "46992",
-      "loja": "Mercado Livre",
-      "titulo": "Mixer Philco Pmx2000 3 Em 1 Inox 800w cor preto",
-      "link": "https://meli.la/1NsGJQq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986954-MLU73290586109_122023-F.jpg",
-      "preco": 211.11,
-      "precoDe": 227,
-      "desconto": 7,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T17:25:15.927Z"
-    },
-    {
-      "id": "46991",
-      "loja": "Shopee",
-      "titulo": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
-      "link": "https://s.shopee.com.br/80EGKhGHpv",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71_tn",
-      "preco": 20.88,
-      "precoDe": 39.4,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T17:20:32.223Z"
-    },
-    {
-      "id": "46990",
-      "loja": "Amazon",
-      "titulo": "LEGO Technic Monster Jam™ DIGatron™ de Puxar 42199 (218 Peças)",
-      "link": "https://www.amazon.com.br/dp/B0DJ1C8TGP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51yz+OBz4XL._SL400_.jpg",
-      "preco": 147.43,
-      "precoDe": 259.99,
-      "desconto": 29,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-15T17:10:24.343Z"
-    },
-    {
-      "id": "46989",
-      "loja": "Amazon",
-      "titulo": "Mini Sanduicheira Elétrica Grill Antiaderente 600w 220V - Gaabor",
-      "link": "https://www.amazon.com.br/dp/B0CK5Y5DVL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/317oz1uOAOL._SL400_.jpg",
-      "preco": 84.99,
-      "precoDe": 109.89,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T17:05:33.086Z"
-    },
-    {
-      "id": "46988",
-      "loja": "Shopee",
-      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
-      "link": "https://s.shopee.com.br/5Au4w31lue",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
-      "preco": 35.91,
-      "precoDe": 39.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:59:28.775Z"
-    },
-    {
-      "id": "46987",
-      "loja": "Amazon",
-      "titulo": "WAP Robô Aspirador Robot W310 3 em 1 Bivolt | Equipado com duas escovas giratórias",
-      "link": "https://www.amazon.com.br/dp/B0F9Z2DV83?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sxbNnepHL._SL400_.jpg",
-      "preco": 507.9,
-      "precoDe": 1199.9,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:53:15.964Z"
-    },
-    {
-      "id": "46986",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Porta Tempero Vidro Colher Bambu Tampa De Rolha 240ml",
-      "link": "https://meli.la/2C6V8bH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669279-MLA95658914448_102025-F.jpg",
-      "preco": 66.9,
-      "precoDe": 109.59,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T16:47:25.232Z"
     }
   ]
 }
