@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-18T18:08:43.273Z",
+  "atualizadoEm": "2026-11-18T18:26:00.063Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48586",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Angular Profissional Stanley Bateria, Carregador e Maleta SBG710M1T-BR",
+      "link": "https://meli.la/1o4FtBr",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699705-MLA111955945347_052026-F.jpg",
+      "preco": 1003,
+      "precoDe": 1545,
+      "desconto": 30,
+      "cupom": "PARCEIRODAOBRA",
+      "enviadoEm": "2026-11-18T18:24:27.690Z"
+    },
+    {
+      "id": "48585",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Brocas 5 Peças Para Concreto Alvenaria D-72877 Makita",
+      "link": "https://meli.la/2d19uQm",
+      "imagem": "https://http2.mlstatic.com/D_735006-MLB88813502288_082025-F.jpg",
+      "preco": 32.47,
+      "precoDe": 52.18,
+      "desconto": 17,
+      "cupom": "DESCONTO",
+      "enviadoEm": "2026-11-18T18:23:54.464Z"
+    },
+    {
+      "id": "48581",
+      "loja": "Amazon",
+      "titulo": "Kit NIVEA Desodorante Aerosol Men Black&White Invisible - 2 unidades",
+      "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MhqC+roAL._SL400_.jpg",
+      "preco": 17,
+      "precoDe": 34.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T18:18:42.912Z"
+    },
+    {
+      "id": "48580",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Nike Flex Train Masculino",
+      "link": "https://meli.la/1Jnfjta",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977698-MLB113962622203_062026-P.webp",
+      "preco": 299.99,
+      "precoDe": 499.99,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T18:17:10.700Z"
+    },
+    {
+      "id": "48567",
+      "loja": "Amazon",
+      "titulo": "Max Titanium Top Whey Bar 12 Unidades De 41G (Doce De Leite)",
+      "link": "https://www.amazon.com.br/dp/B0B3241KVW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ZwnyxzF4L._SL400_.jpg",
+      "preco": 55.33,
+      "precoDe": 65,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T18:15:33.076Z"
+    },
+    {
+      "id": "48559",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/3g5M0eIyo7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T18:08:54.313Z"
+    },
     {
       "id": "48548",
       "loja": "Mercado Livre",
@@ -4239,18 +4311,6 @@
       "enviadoEm": "2026-11-16T21:41:23.708Z"
     },
     {
-      "id": "47586",
-      "loja": "Amazon",
-      "titulo": "Kit NIVEA Desodorante Aerosol Men Black&White Invisible - 2 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MhqC+roAL._SL400_.jpg",
-      "preco": 17,
-      "precoDe": 34.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T21:33:59.819Z"
-    },
-    {
       "id": "47585",
       "loja": "Amazon",
       "titulo": "Palmolive Naturals Melancia e Lichia Sabonete Líquido, 250ml | Banho frutado com melancia, lichia",
@@ -5941,66 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-16T12:41:25.606Z"
-    },
-    {
-      "id": "47227",
-      "loja": "Amazon",
-      "titulo": "Gel de Limpeza Facial, Com 2% Ácido Salicílico, 350g | 13% de Tensoativos, 5% de Glicerina",
-      "link": "https://www.amazon.com.br/dp/B0B6LZ36XV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ShKFiQSLL._SL400_.jpg",
-      "preco": 28.49,
-      "precoDe": 54,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:40:00.834Z"
-    },
-    {
-      "id": "47226",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido Johnson's Baby, Lavanda, 400ml | Sem Corante, Sem Crueldade, Ph Fisiológico",
-      "link": "https://www.amazon.com.br/dp/B0DJBVL2S5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41f5QX0T2+L._SL400_.jpg",
-      "preco": 22,
-      "precoDe": 44.99,
-      "desconto": 51,
-      "cupom": "IMPERDIVEL20",
-      "enviadoEm": "2026-11-16T12:38:44.748Z"
-    },
-    {
-      "id": "47225",
-      "loja": "Amazon",
-      "titulo": "Leite Vegetal Possible Original 1L - Leite Vegano, Sem Lactose, Rico em Cálcio e Vitaminas",
-      "link": "https://www.amazon.com.br/dp/B09NX7J7L7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31m3vsCJGDL._SL400_.jpg",
-      "preco": 15.28,
-      "precoDe": 16.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:38:17.052Z"
-    },
-    {
-      "id": "47224",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Philips Evnia 23,8'' 144hz 0,5ms Ips Full Hd Preto",
-      "link": "https://meli.la/2Mv9rnE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786589-MLB116454864490_092026-P.webp",
-      "preco": 464.35,
-      "precoDe": 1045,
-      "desconto": 51,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:36:56.815Z"
-    },
-    {
-      "id": "47216",
-      "loja": "Amazon",
-      "titulo": "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
-      "link": "https://www.amazon.com.br/dp/B001QZ5GUW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41FsIQ2bzmL._SL400_.jpg",
-      "preco": 117.92,
-      "precoDe": 189.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:35:18.855Z"
     }
   ]
 }
