@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T14:44:59.673Z",
+  "atualizadoEm": "2026-11-18T14:47:54.877Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48398",
+      "loja": "Amazon",
+      "titulo": "Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
+      "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jgCYP6HYL._SL400_.jpg",
+      "preco": 631,
+      "precoDe": 828.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T14:46:31.204Z"
+    },
     {
       "id": "48395",
       "loja": "Shopee",
@@ -4885,18 +4897,6 @@
       "desconto": 20,
       "cupom": "VEMDECUPOM",
       "enviadoEm": "2026-11-16T16:10:21.254Z"
-    },
-    {
-      "id": "47346",
-      "loja": "Amazon",
-      "titulo": "Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
-      "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jgCYP6HYL._SL400_.jpg",
-      "preco": 631,
-      "precoDe": 828.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:09:27.936Z"
     },
     {
       "id": "47343",
