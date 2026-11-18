@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T17:33:34.938Z",
+  "atualizadoEm": "2026-11-18T18:08:44.997Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -351,15 +351,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "LEVATUDO",
+      "codigo": "TUDOMERCBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupom válido em Mercados no iFood",
-      "validadeAte": "2026-11-18T18:06:46.000Z",
+      "observacao": "Desconto em compras no Mercado pelo iFood",
+      "validadeAte": "2026-11-19T18:00:21.000Z",
       "url": null
     },
     {
@@ -2127,6 +2127,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL1811ENTREGAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-11-19T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ESPORTES",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2172,6 +2184,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-19T12:00:57.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA1811",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
+      "validadeAte": "2026-11-19T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
