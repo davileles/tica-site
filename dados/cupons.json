@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T18:08:44.997Z",
+  "atualizadoEm": "2026-11-18T18:55:02.122Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -375,6 +375,18 @@
       "url": null
     },
     {
+      "codigo": "PEDIUBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 12,
+      "minimo": 27,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
+      "validadeAte": "2026-11-19T18:30:13.000Z",
+      "url": null
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -469,6 +481,18 @@
       "observacao": "Válido apenas em Placas de Vídeo selecionadas",
       "validadeAte": "2026-11-19T12:50:34.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
+    },
+    {
+      "codigo": "CUPOMLUBLACK60",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 150,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom aplicável via WhatsApp da Magalu. Necessário enviar ID do produto.",
+      "validadeAte": "2026-11-19T18:26:19.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "CUPOMBLACKINFLU",
