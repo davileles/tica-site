@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T22:09:40.446Z",
+  "atualizadoEm": "2026-11-18T22:15:46.197Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48689",
+      "loja": "Amazon",
+      "titulo": "LG Ar Condicionado Split LG Dual Inverter AI Voice 9000 BTU/h Frio S3-Q09AA31F - 220 Volts",
+      "link": "https://www.amazon.com.br/dp/B0GQJP852H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jnFIH+rCL._SL400_.jpg",
+      "preco": 1600,
+      "precoDe": 2205,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T22:14:35.255Z"
+    },
     {
       "id": "48685",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-11-16T16:53:44.827Z"
-    },
-    {
-      "id": "47380",
-      "loja": "Shopee",
-      "titulo": "Kit Chocalho 8 Peças Mordedor Bebê Brinquedo Sensorial Macio Presente Para Menina e Menino Móbile para Berço",
-      "link": "https://s.shopee.com.br/4LKzWQLIFC",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtzdbhwe4uae0_tn",
-      "preco": 29.5,
-      "precoDe": 55.66,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:45:30.176Z"
     }
   ]
 }
