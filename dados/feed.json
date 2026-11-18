@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-18T22:36:13.899Z",
+  "atualizadoEm": "2026-11-18T23:05:56.772Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48702",
+      "loja": "Amazon",
+      "titulo": "Maquininha De Costura, Sunny",
+      "link": "https://www.amazon.com.br/dp/B099QXMWCS?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ZhaEBzfOS._SL400_.jpg",
+      "preco": 156.99,
+      "precoDe": 469.99,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T22:55:56.770Z"
+    },
+    {
+      "id": "48699",
+      "loja": "Amazon",
+      "titulo": "Caneta Permanente Staedtler Lumocolor, 4 Cores Sortidas | Caixa",
+      "link": "https://www.amazon.com.br/dp/B09T2X5QR8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41I4vaXwYSL._SL400_.jpg",
+      "preco": 36.92,
+      "precoDe": 92.73,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T22:50:05.990Z"
+    },
     {
       "id": "48691",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 50,
       "cupom": "HOJEPRATEC",
       "enviadoEm": "2026-11-16T16:57:16.178Z"
-    },
-    {
-      "id": "47393",
-      "loja": "Amazon",
-      "titulo": "Leafigure Calças femininas para gestantes com bolsos sobre a barriga | Não transparente, macio, elástico, treino, gravidez e pós-parto",
-      "link": "https://www.amazon.com.br/dp/B0GWLHZ8ZN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31WkMYxHeYL._SL400_.jpg",
-      "preco": 70.08,
-      "precoDe": 146.97,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:55:22.972Z"
-    },
-    {
-      "id": "47388",
-      "loja": "Amazon",
-      "titulo": "Chiclete Trident X Gamers Acid Berry - Caixa Com 6 Unid De 48,3g",
-      "link": "https://www.amazon.com.br/dp/B0DXR1M87B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41D574CpBOL._SL400_.jpg",
-      "preco": 44.5,
-      "precoDe": 83.94,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:54:57.304Z"
     }
   ]
 }
