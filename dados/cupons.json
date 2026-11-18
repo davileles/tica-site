@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T19:39:31.800Z",
+  "atualizadoEm": "2026-11-18T20:08:33.900Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2292,6 +2292,18 @@
       "limite": 30,
       "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-19T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PLAYER1",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-19T20:03:19.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
