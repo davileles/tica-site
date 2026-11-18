@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-18T15:21:54.848Z",
+  "atualizadoEm": "2026-11-18T15:51:54.848Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48439",
+      "loja": "Amazon",
+      "titulo": "Armação para Óculos Ray-Ban RX7033L Feminino, Havana, Tamanho 54",
+      "link": "https://www.amazon.com.br/dp/B084H338JN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ukbgxi2qL._SL400_.jpg",
+      "preco": 279.9,
+      "precoDe": 620,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:50:41.379Z"
+    },
+    {
+      "id": "48438",
+      "loja": "Amazon",
+      "titulo": "Óculos de Sol Ray-Ban Justin RB4165L Masculino, Preto, Tamanho 57",
+      "link": "https://www.amazon.com.br/dp/B07GFVTKS4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31gg90DM1+L._SL400_.jpg",
+      "preco": 399.9,
+      "precoDe": 790,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:49:21.102Z"
+    },
+    {
+      "id": "48437",
+      "loja": "Amazon",
+      "titulo": "Óculos de Sol Ray-Ban Aviator RB3025L Unissex, Dourado, Tamanho 58",
+      "link": "https://www.amazon.com.br/dp/B01G8LCHIM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21leriVX6-L._SL400_.jpg",
+      "preco": 345,
+      "precoDe": 1000,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:48:08.307Z"
+    },
+    {
+      "id": "48436",
+      "loja": "Amazon",
+      "titulo": "Óculos de Sol Ray-Ban Aviator RB3025L Unissex, Dourado, Tamanho 58",
+      "link": "https://www.amazon.com.br/dp/B01G8LC44O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21UJhwi4UAL._SL400_.jpg",
+      "preco": 345,
+      "precoDe": 940,
+      "desconto": 63,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:46:55.686Z"
+    },
+    {
+      "id": "48433",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Sweet Red 750ml",
+      "link": "https://www.amazon.com.br/dp/B07XLMFLFH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311X9CEzTTL._SL400_.jpg",
+      "preco": 20.6,
+      "precoDe": 36.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:45:45.667Z"
+    },
+    {
+      "id": "48430",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
+      "link": "https://s.shopee.com.br/20x7rLQAOI",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
+      "preco": 17.26,
+      "precoDe": 35.96,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:38:35.705Z"
+    },
+    {
+      "id": "48429",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável - R$ 199,49",
+      "link": "https://meli.la/2PgPa4c",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-P.webp",
+      "preco": 169.57,
+      "precoDe": 523.24,
+      "desconto": 62,
+      "cupom": "MODA1811",
+      "enviadoEm": "2026-11-18T15:35:11.757Z"
+    },
     {
       "id": "48421",
       "loja": "Shopee",
@@ -4131,18 +4215,6 @@
       "enviadoEm": "2026-11-16T19:45:19.392Z"
     },
     {
-      "id": "47531",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Sweet Red 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMFLFH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311X9CEzTTL._SL400_.jpg",
-      "preco": 20.6,
-      "precoDe": 36.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T19:43:57.178Z"
-    },
-    {
       "id": "47529",
       "loja": "Shopee",
       "titulo": "Secador de Cabelo com Difusor Profissional 127V 220V 110V 5 Temperaturas Íons Negativos Secagem Rápida Anti-Frizz LONYAN",
@@ -5929,78 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-11-15T21:11:06.017Z"
-    },
-    {
-      "id": "47027",
-      "loja": "Amazon",
-      "titulo": "Jogo de Assadeiras Tramontina Brasil em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 02 Peças",
-      "link": "https://www.amazon.com.br/dp/B0CDVV676G?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TwTmpQYkL._SL400_.jpg",
-      "preco": 69.87,
-      "precoDe": 127.26,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T21:04:28.464Z"
-    },
-    {
-      "id": "47026",
-      "loja": "Amazon",
-      "titulo": "Cereal Matinal Negresco, 200g",
-      "link": "https://www.amazon.com.br/dp/B0CDJKMBXX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51eEXc5HhiL._SL400_.jpg",
-      "preco": 9.11,
-      "precoDe": 13.39,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T21:01:46.176Z"
-    },
-    {
-      "id": "47025",
-      "loja": "Amazon",
-      "titulo": "Kit Hidratante Labial Carmed Coca-Cola Cor Vermelho, Incolor e Marrom 10g Cada + Engradado",
-      "link": "https://www.amazon.com.br/dp/B0G668YFRC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DcMmbQ0RL._SL400_.jpg",
-      "preco": 20,
-      "precoDe": 28.25,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:53:48.643Z"
-    },
-    {
-      "id": "47024",
-      "loja": "Shopee",
-      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
-      "link": "https://s.shopee.com.br/2VtK0ytcft",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
-      "preco": 74.9,
-      "precoDe": 110.15,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:50:00.632Z"
-    },
-    {
-      "id": "47022",
-      "loja": "Amazon",
-      "titulo": "Cafeteira Philco PCF20A 720ml 20 Cafezinhos 650W 127V",
-      "link": "https://www.amazon.com.br/dp/B0CZ4C88VD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QcVXwL48L._SL400_.jpg",
-      "preco": 108.89,
-      "precoDe": 169,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:48:24.298Z"
-    },
-    {
-      "id": "47021",
-      "loja": "Amazon",
-      "titulo": "Óculos de Sol Ray-Ban Justin RB4165L Masculino, Preto, Tamanho 57",
-      "link": "https://www.amazon.com.br/dp/B07GFVTKS4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gg90DM1+L._SL400_.jpg",
-      "preco": 399.9,
-      "precoDe": 790,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:45:52.693Z"
     }
   ]
 }
