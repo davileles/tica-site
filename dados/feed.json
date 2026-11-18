@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T15:13:12.723Z",
+  "atualizadoEm": "2026-11-18T15:21:54.848Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48421",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
+      "link": "https://s.shopee.com.br/4fxt0mmiZM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
+      "preco": 25.36,
+      "precoDe": 70.44,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:17:39.959Z"
+    },
     {
       "id": "48419",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-15T20:45:52.693Z"
-    },
-    {
-      "id": "47020",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Hugo Boss Bottled Night Masculino Eau De Toilette 100Ml",
-      "link": "https://meli.la/1Ztk8oD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836103-MLA84833570173_052025-F.jpg",
-      "preco": 279.99,
-      "precoDe": 599,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:32:00.819Z"
     }
   ]
 }
