@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-18T17:04:32.744Z",
+  "atualizadoEm": "2026-11-18T17:33:32.744Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48520",
+      "loja": "Amazon",
+      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
+      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
+      "preco": 77.89,
+      "precoDe": 129.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:26:12.153Z"
+    },
+    {
+      "id": "48519",
+      "loja": "Shopee",
+      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+      "link": "https://s.shopee.com.br/1LhRBODiJk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72_tn",
+      "preco": 61.52,
+      "precoDe": 106.07,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:24:24.752Z"
+    },
+    {
+      "id": "48518",
+      "loja": "Amazon",
+      "titulo": "Caixa de Som Portátil JBL Go Essential 2, Azul, 3,1 W RMS | JBL Original Pro Sound, Bluetooth, IP67, Até 5h de Bateria, Design Ultracompacto, USB-C, Resistente à Água e Poeira",
+      "link": "https://www.amazon.com.br/dp/B0FPNTYB2L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MPlmDubtL._SL400_.jpg",
+      "preco": 153.33,
+      "precoDe": 219,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:21:29.706Z"
+    },
+    {
+      "id": "48514",
+      "loja": "Amazon",
+      "titulo": "IDIMEX Cama Infantil Solteiro Chão com Grades Montessoriana Gustavo Natural 88x188",
+      "link": "https://www.amazon.com.br/dp/B0D23NMDDJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/519PBmzp2zL._SL400_.jpg",
+      "preco": 538.99,
+      "precoDe": 599.89,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:18:38.364Z"
+    },
+    {
+      "id": "48513",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 54.9,
+      "precoDe": 92.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T17:16:58.679Z"
+    },
     {
       "id": "48501",
       "loja": "Shopee",
@@ -4563,18 +4623,6 @@
       "enviadoEm": "2026-11-16T19:33:09.024Z"
     },
     {
-      "id": "47524",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 92.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T19:28:05.818Z"
-    },
-    {
       "id": "47523",
       "loja": "Amazon",
       "titulo": "Vonder, Esmerilhadeira Angular 41/2\", 860 W, 127 V~, Eav 860n",
@@ -5953,54 +6001,6 @@
       "desconto": 51,
       "cupom": "IMPERDIVEL20",
       "enviadoEm": "2026-11-16T12:26:44.179Z"
-    },
-    {
-      "id": "47198",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Gamer Lenovo LOQ IRX9 83KHS00000 Intel Core i5-13450HX 15.6\" FHD 144Hz RTX 3050 6GB 512GB SSD 8GB RAM Linux",
-      "link": "https://meli.la/2SNEsDs",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_870163-MLA114868196579_072026-F.jpg",
-      "preco": 4599,
-      "precoDe": 6370.75,
-      "desconto": 25,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:26:16.905Z"
-    },
-    {
-      "id": "47197",
-      "loja": "Amazon",
-      "titulo": "Cremer Fralda Cremer Luxo C/Bainha Patrulha Canina C/5",
-      "link": "https://www.amazon.com.br/dp/B09KX6WYGB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SrIo0+Q6L._SL400_.jpg",
-      "preco": 25,
-      "precoDe": 51.77,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T12:24:57.028Z"
-    },
-    {
-      "id": "47192",
-      "loja": "Mercado Livre",
-      "titulo": "LG UltraGear Monitor Gamer 27\" IPS 200Hz, 1ms (GtG), Full HD (1920x1080), HDR10, NVIDIA G-SYNC AMD, FreeSync Premium, sRGB 99%, Preto - 27G523B",
-      "link": "https://meli.la/2h5uax2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890719-MLA119028291406_112026-F.jpg",
-      "preco": 719.1,
-      "precoDe": 949,
-      "desconto": 16,
-      "cupom": "HOJEPRATEC",
-      "enviadoEm": "2026-11-16T12:24:23.634Z"
-    },
-    {
-      "id": "47191",
-      "loja": "Mercado Livre",
-      "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean LED15",
-      "link": "https://meli.la/2Cgrbhc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_633382-MLA100008492027_122025-F.jpg",
-      "preco": 1649,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "HOJETEM",
-      "enviadoEm": "2026-11-16T12:23:10.671Z"
     }
   ]
 }
