@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-18T14:47:54.877Z",
+  "atualizadoEm": "2026-11-18T15:13:12.723Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48419",
+      "loja": "Amazon",
+      "titulo": "Cosco Kids, Carrinho de Bebê Toffy, Bege Grid",
+      "link": "https://www.amazon.com.br/dp/B09HKWZ9GJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31rKNNwJ5pL._SL400_.jpg",
+      "preco": 410,
+      "precoDe": 574.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:03:12.719Z"
+    },
+    {
+      "id": "48416",
+      "loja": "Amazon",
+      "titulo": "Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
+      "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ti7piPW0L._SL400_.jpg",
+      "preco": 229.49,
+      "precoDe": 369.99,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T15:02:43.614Z"
+    },
+    {
+      "id": "48412",
+      "loja": "Shopee",
+      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
+      "link": "https://s.shopee.com.br/7fbUYq2ujC",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
+      "preco": 20.7,
+      "precoDe": 20.91,
+      "desconto": 1,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T14:56:12.897Z"
+    },
     {
       "id": "48398",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-15T20:32:00.819Z"
-    },
-    {
-      "id": "47019",
-      "loja": "Mercado Livre",
-      "titulo": "Chloé Rose Tangerine Eau De Toilette - Perfume Feminino 50ml",
-      "link": "https://meli.la/2KKATHG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_991730-MLA84536584686_052025-F.jpg",
-      "preco": 284.05,
-      "precoDe": 299,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:30:43.665Z"
-    },
-    {
-      "id": "47018",
-      "loja": "Shopee",
-      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
-      "link": "https://s.shopee.com.br/gRfoAWctT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
-      "preco": 23.31,
-      "precoDe": 25.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:29:04.837Z"
-    },
-    {
-      "id": "47017",
-      "loja": "Shopee",
-      "titulo": "Tapete De Atividades Para Bebê Com Piano Musical Móbile Interativo Funny Dino Maxi Baby",
-      "link": "https://s.shopee.com.br/9V34IxQ8r5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv4rng9f02kic5_tn",
-      "preco": 69.9,
-      "precoDe": 129.44,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-15T20:08:00.601Z"
     }
   ]
 }
