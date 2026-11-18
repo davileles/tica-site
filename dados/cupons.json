@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T12:12:11.085Z",
+  "atualizadoEm": "2026-11-18T12:42:10.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -421,6 +421,18 @@
       "observacao": "Válido somente no APP Magalu",
       "validadeAte": "2026-11-18T15:40:39.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-20T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO1811SITE",
@@ -1919,7 +1931,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-19T12:00:57.000Z",
+      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1931,7 +1943,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-19T12:00:57.000Z",
+      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1979,7 +1991,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-19T12:00:57.000Z",
+      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2111,7 +2123,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-19T12:00:57.000Z",
+      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2123,7 +2135,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-19T12:00:57.000Z",
+      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
