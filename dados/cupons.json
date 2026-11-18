@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-17T23:49:58.171Z",
+  "atualizadoEm": "2026-11-18T00:04:54.639Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2052,6 +2052,18 @@
       "limite": 145,
       "observacao": null,
       "validadeAte": "2026-11-18T17:22:41.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FORTUNAPREBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-19T00:00:57.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
