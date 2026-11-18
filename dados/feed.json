@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-18T22:15:46.197Z",
+  "atualizadoEm": "2026-11-18T22:36:13.899Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48691",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Technos Steel Preto 42mm Masculino Calendário Resistente 50m",
+      "link": "https://meli.la/34hEGpW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_709560-MLA99594458818_122025-F.jpg",
+      "preco": 312.71,
+      "precoDe": 499,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T22:26:13.894Z"
+    },
     {
       "id": "48689",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-16T16:54:57.304Z"
-    },
-    {
-      "id": "47387",
-      "loja": "Amazon",
-      "titulo": "Granado Refil Sabonete Terrapeutics, Lavanda, 300ml | Formulado com pH da pele, glicerina vegetal e alta concentração de extrato natural",
-      "link": "https://www.amazon.com.br/dp/B08H3LW3NJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41veZbFNG2L._SL400_.jpg",
-      "preco": 17.9,
-      "precoDe": 31,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T16:53:44.827Z"
     }
   ]
 }
