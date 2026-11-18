@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-18T16:21:55.020Z",
+  "atualizadoEm": "2026-11-18T16:35:56.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48470",
+      "loja": "Amazon",
+      "titulo": "Graco Carrinho de Bebê Modes™ Pramette™ 2 em 1 Reversível, Pierce, Preto | 3 modos: Assento de carro infantil e carrinho, carrinho de bebê infantil; assento de carrinho reversível;",
+      "link": "https://www.amazon.com.br/dp/B07Y5X8G4B?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xFwhmfvQL._SL400_.jpg",
+      "preco": 1544.9,
+      "precoDe": 3690,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:25:56.777Z"
+    },
+    {
+      "id": "48465",
+      "loja": "Amazon",
+      "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
+      "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41B1LVPbDTL._SL400_.jpg",
+      "preco": 105.8,
+      "precoDe": 359.9,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-18T16:24:05.945Z"
+    },
+    {
+      "id": "48463",
+      "loja": "Mercado Livre",
+      "titulo": "Árvore De Natal 1,80 Metros 540 Galhos Pinheiro Premium Verde Cheia Realista Base De Metal Dobrável Decoração Natalina Yab",
+      "link": "https://meli.la/2bS3Xnb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905103-MLA119496691010_112026-F.jpg",
+      "preco": 105.63,
+      "precoDe": 299.9,
+      "desconto": 56,
+      "cupom": "OFFHOJEML",
+      "enviadoEm": "2026-11-18T16:22:43.704Z"
+    },
     {
       "id": "48462",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-16T11:42:56.854Z"
-    },
-    {
-      "id": "47110",
-      "loja": "Amazon",
-      "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+11dLmKBL._SL400_.jpg",
-      "preco": 52.98,
-      "precoDe": 69.67,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:41:44.290Z"
-    },
-    {
-      "id": "47096",
-      "loja": "Amazon",
-      "titulo": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 700ml",
-      "link": "https://www.amazon.com.br/dp/B000TVHK26?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xKe7q30bL._SL400_.jpg",
-      "preco": 80.99,
-      "precoDe": 144.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:31:09.832Z"
-    },
-    {
-      "id": "47087",
-      "loja": "Shopee",
-      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
-      "link": "https://s.shopee.com.br/906oipzmrs",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
-      "preco": 59.97,
-      "precoDe": 82.15,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T11:22:35.361Z"
     }
   ]
 }
