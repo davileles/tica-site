@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T15:13:15.587Z",
+  "atualizadoEm": "2026-11-18T15:21:56.859Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2295,6 +2295,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "N0VT0P5K",
+      "loja": "não especificada",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código fornecido sem contexto de loja ou valor de desconto. Impossível determinar tipo (pct ou reais) e valor do desconto.",
+      "validadeAte": "2026-11-19T15:16:48.000Z",
+      "url": null
+    },
+    {
       "codigo": "BLACK30",
       "loja": "Nike",
       "tipo": "pct",
@@ -2928,6 +2940,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-18T20:29:17.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "N0VT0P5K",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-19T15:16:30.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
