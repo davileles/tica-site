@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-19T18:15:11.390Z",
+  "atualizadoEm": "2026-11-19T18:19:15.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49243",
+      "loja": "Shopee",
+      "titulo": "Garrafa Inox Boliche 750ml Squeeze Água Gelada Caminhada Academia",
+      "link": "https://s.shopee.com.br/8pnTlbyPII",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyj-lzw28473y922fb_tn",
+      "preco": 29.9,
+      "precoDe": 54.36,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T18:16:04.537Z"
+    },
     {
       "id": "49230",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 58,
       "cupom": "OFFHOJEMELI",
       "enviadoEm": "2026-11-17T13:11:13.263Z"
-    },
-    {
-      "id": "47786",
-      "loja": "Amazon",
-      "titulo": "Cápsulas Café Especial Orfeu Clássico 20 Unidades",
-      "link": "https://www.amazon.com.br/dp/B07VJJL6YV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41kwMkYEQhL._SL400_.jpg",
-      "preco": 30.549999999999997,
-      "precoDe": 49.8,
-      "desconto": 28,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-17T13:09:53.461Z"
     }
   ]
 }
