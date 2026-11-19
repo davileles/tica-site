@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-19T21:49:16.402Z",
+  "atualizadoEm": "2026-11-19T22:07:46.283Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49410",
+      "loja": "Amazon",
+      "titulo": "Pokemon Sylveon Ears, Official Kids Size Sylveon Pokemon Costume Headgear, One Size 8 and Over",
+      "link": "https://www.amazon.com.br/dp/B0DSCJZNH6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41-yisQoBjL._SL400_.jpg",
+      "preco": 118.14,
+      "precoDe": 564.71,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:57:46.280Z"
+    },
+    {
+      "id": "49409",
+      "loja": "Amazon",
+      "titulo": "Gigabyte Placa gráfica Radeon RX 9070 XT Gaming 16G - 16GB GDDR6, 256bit, PCI-E 5.0, 2970 MHz Core Clock, 2 x DisplayPort 2.1a, 2 x HDMI 2.1b, GV-R9070XTGAMING-16GD",
+      "link": "https://www.amazon.com.br/dp/B0F3ZS44MH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41L+pyY0fgL._SL400_.jpg",
+      "preco": 5099.99,
+      "precoDe": 7180,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:55:00.050Z"
+    },
+    {
+      "id": "49407",
+      "loja": "Amazon",
+      "titulo": "Cinta Lombar Com Hastes Postura Ortopédica Saúde Kestal Ksn060 (100 cm)",
+      "link": "https://www.amazon.com.br/dp/B07FL1GFJR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41gugFnt6EL._SL400_.jpg",
+      "preco": 44.46,
+      "precoDe": 133.32,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:50:57.701Z"
+    },
+    {
+      "id": "49406",
+      "loja": "Amazon",
+      "titulo": "Kit Birch Juice Trial Round Moisturizing Cleanser + Moisturizing Toner + Ampoule + Moisturizi Cream",
+      "link": "https://www.amazon.com.br/dp/B0DSTY78YD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41JVuFimL6L._SL400_.jpg",
+      "preco": 118,
+      "precoDe": 390,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:49:36.140Z"
+    },
     {
       "id": "49404",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": null,
       "cupom": "OFFHOJENOML",
       "enviadoEm": "2026-11-17T16:27:51.536Z"
-    },
-    {
-      "id": "47916",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Cubo Mágico 5x5cm – Quebra-Cabeça Educativo Antiestresse para Crianças e Adultos",
-      "link": "https://s.shopee.com.br/3B93hiIbJa",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82599-mgf55s056v4f41_tn",
-      "preco": 18.97,
-      "precoDe": 59.28,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:26:18.623Z"
-    },
-    {
-      "id": "47917",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 4 Body Splash Feminino 200ml Perfume De Luxo Colônia Iza",
-      "link": "https://meli.la/2kdVsvx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718478-MLA100427712169_122025-F.jpg",
-      "preco": 69.09,
-      "precoDe": 78.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:25:04.540Z"
-    },
-    {
-      "id": "47905",
-      "loja": "Shopee",
-      "titulo": "Massageador Tecido Profundo Elétrico Costas Lombar Potente",
-      "link": "https://s.shopee.com.br/2LZwhkfPUY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpj30jjmoe9c2_tn",
-      "preco": 197.9,
-      "precoDe": 599.7,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:23:42.833Z"
-    },
-    {
-      "id": "47903",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51W9QO0hXPL._SL400_.jpg",
-      "preco": 148.72,
-      "precoDe": 242.27,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:22:28.427Z"
     }
   ]
 }
