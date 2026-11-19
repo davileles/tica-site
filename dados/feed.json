@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-19T22:42:16.978Z",
+  "atualizadoEm": "2026-11-19T22:49:16.467Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49418",
+      "loja": "Amazon",
+      "titulo": "WIHA 74986 Conjunto de brocas sextavadas e métricas com suporte, 10 peças",
+      "link": "https://www.amazon.com.br/dp/B00313K0US?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4100nLo7LRL._SL400_.jpg",
+      "preco": 155.51999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-19T22:42:25.059Z"
+    },
     {
       "id": "49414",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:29:49.907Z"
-    },
-    {
-      "id": "47919",
-      "loja": "Amazon",
-      "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41DupqCSKGL._SL400_.jpg",
-      "preco": 27.99,
-      "precoDe": 36.96,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:28:24.182Z"
     }
   ]
 }
