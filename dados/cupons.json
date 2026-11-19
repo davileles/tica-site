@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T17:49:17.840Z",
+  "atualizadoEm": "2026-11-19T18:15:14.697Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -591,15 +591,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "TUDOMERCBF",
+      "codigo": "BFGONDOLA",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto em compras no Mercado pelo iFood",
-      "validadeAte": "2026-11-19T18:00:21.000Z",
+      "observacao": "Desconto de R$20 em pedidos de Mercado pelo iFood",
+      "validadeAte": "2026-11-20T18:00:10.000Z",
       "url": null
     },
     {
@@ -792,6 +792,18 @@
       "limite": 100,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-20T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "HYPE100MP",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 450,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido na lista específica fornecida",
+      "validadeAte": "2026-11-20T18:07:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2319,18 +2331,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1811ENTREGAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
-      "validadeAte": "2026-11-19T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BABYNOVEMBRO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2388,18 +2388,6 @@
       "limite": 120,
       "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-19T22:02:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA1811",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
-      "validadeAte": "2026-11-19T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
