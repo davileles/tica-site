@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T00:09:00.668Z",
+  "atualizadoEm": "2026-11-19T03:14:43.002Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -193,6 +193,18 @@
       "observacao": "Black Friday - Começa meia-noite",
       "validadeAte": "2026-11-19T22:45:16.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACKNUPAY20",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "20% OFF em selecionados, válido acima de R$50, com desconto máximo limitado a R$30",
+      "validadeAte": "2026-11-20T03:00:08.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "MEGABLASTBF",
@@ -2043,6 +2055,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEIMA1911",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 25,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-20T03:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2235,18 +2259,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL1811",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-19T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOSITE1811",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -2259,27 +2271,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PARCEIRODAOBRA",
+      "codigo": "OFICIAIS1911",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 79,
+      "minimo": 89,
       "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFHOJEML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
+      "limite": 50,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-20T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2316,18 +2316,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VEICPROMO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2424,42 +2412,6 @@
       "limite": 120,
       "observacao": "Cupom válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-19T22:02:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPORTES",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CORREHOJEPROML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DIADATECH",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-19T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
