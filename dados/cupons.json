@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T12:19:21.978Z",
+  "atualizadoEm": "2026-11-19T12:22:05.807Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -193,6 +193,18 @@
       "observacao": "Black Friday - Começa meia-noite",
       "validadeAte": "2026-11-19T22:45:16.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "100BLACKOFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-20T12:18:48.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "BLACKNUPAY20",
