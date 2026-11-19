@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T20:19:18.125Z",
+  "atualizadoEm": "2026-11-19T20:35:27.788Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1812,6 +1812,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-06-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "QUEIMADEESTOQUE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 25,
+      "observacao": null,
+      "validadeAte": "2026-11-21T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
