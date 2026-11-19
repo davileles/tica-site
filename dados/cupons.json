@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T18:15:14.697Z",
+  "atualizadoEm": "2026-11-19T18:49:17.726Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -615,15 +615,15 @@
       "url": null
     },
     {
-      "codigo": "PEDIUBF",
+      "codigo": "PEGABLACK",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
-      "validadeAte": "2026-11-19T18:30:13.000Z",
+      "observacao": "Cupons válidos em restaurantes",
+      "validadeAte": "2026-11-20T18:30:55.000Z",
       "url": null
     },
     {
@@ -768,18 +768,6 @@
       "limite": null,
       "observacao": "Dois cupons de desconto fixo com valores mínimos de compra diferentes",
       "validadeAte": "2026-11-19T19:36:29.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMLUBLACK60",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 150,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom aplicável via WhatsApp da Magalu. Necessário enviar ID do produto.",
-      "validadeAte": "2026-11-19T18:26:19.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2139,18 +2127,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELISUPERCLUB",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SUPERPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2423,7 +2399,7 @@
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-20T12:01:00.000Z",
+      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
