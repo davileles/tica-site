@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T14:14:06.967Z",
+  "atualizadoEm": "2026-11-19T14:31:28.088Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,18 +771,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TECH1911",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -792,18 +780,6 @@
       "limite": 100,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE1911",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2279,7 +2255,7 @@
       "maximo": null,
       "limite": 70,
       "observacao": null,
-      "validadeAte": "2026-11-20T12:01:35.000Z",
+      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2375,7 +2351,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-20T12:01:00.000Z",
+      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2387,7 +2363,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-20T12:01:00.000Z",
+      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2415,30 +2391,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFFSEMPREML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETROTECHML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFFSAUDE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2448,18 +2400,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-20T12:01:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GUERRILHA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 129,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
