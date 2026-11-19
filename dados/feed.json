@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-19T11:13:45.758Z",
+  "atualizadoEm": "2026-11-19T11:20:20.014Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48740",
+      "loja": "Amazon",
+      "titulo": "Personal Papel Higiênico Kilométrico Folha Dupla, Com 20 Rolos 50M",
+      "link": "https://www.amazon.com.br/dp/B08YL8CJ97?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41prq0QMtZL._SL400_.jpg",
+      "preco": 28.72,
+      "precoDe": 64.36,
+      "desconto": 44,
+      "cupom": "BLACKNUPAY20",
+      "enviadoEm": "2026-11-19T11:17:18.920Z"
+    },
+    {
+      "id": "48739",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Aparador de Pelos Super Groom 06, Preto/Verde, 6W, Bivolt - BG-04",
+      "link": "https://www.amazon.com.br/dp/B07G56XF47?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31QF7PYSI1L._SL400_.jpg",
+      "preco": 63,
+      "precoDe": 169.9,
+      "desconto": 54,
+      "cupom": "BLACKNUPAY20",
+      "enviadoEm": "2026-11-19T11:15:39.540Z"
+    },
+    {
+      "id": "48736",
+      "loja": "Amazon",
+      "titulo": "MONDIAL Micro-Ondas, Branco, 1200W, 110V - MO-01-21-W | Elétrico",
+      "link": "https://www.amazon.com.br/dp/B09NL92H57?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411KD0dm8VL._SL400_.jpg",
+      "preco": 301.55,
+      "precoDe": 647.79,
+      "desconto": 42,
+      "cupom": "BLACKNUPAY20",
+      "enviadoEm": "2026-11-19T11:14:12.702Z"
+    },
     {
       "id": "48734",
       "loja": "Amazon",
@@ -4863,18 +4899,6 @@
       "enviadoEm": "2026-11-17T11:06:15.448Z"
     },
     {
-      "id": "47636",
-      "loja": "Amazon",
-      "titulo": "Personal Papel Higiênico Kilométrico Folha Dupla, Com 20 Rolos 50M",
-      "link": "https://www.amazon.com.br/dp/B08YL8CJ97?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41prq0QMtZL._SL400_.jpg",
-      "preco": 35.9,
-      "precoDe": 64.36,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T11:03:12.286Z"
-    },
-    {
       "id": "47635",
       "loja": "Shopee",
       "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
@@ -5977,30 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-16T17:29:13.164Z"
-    },
-    {
-      "id": "47424",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "link": "https://s.shopee.com.br/906p7vITb4",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
-      "preco": 139.9,
-      "precoDe": 170.61,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T17:27:55.820Z"
-    },
-    {
-      "id": "47420",
-      "loja": "Amazon",
-      "titulo": "Rexona Antitranspirante Aerossol Invisible 250 ml",
-      "link": "https://www.amazon.com.br/dp/B09K2RFM62?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dheGdX1wL._SL400_.jpg",
-      "preco": 17.7,
-      "precoDe": 19.86,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T17:26:36.177Z"
     }
   ]
 }
