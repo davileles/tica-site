@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-19T21:19:16.402Z",
+  "atualizadoEm": "2026-11-19T21:36:28.944Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49391",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore 4.3/8 1.300w 4100nh3z Makita",
+      "link": "https://meli.la/1fNX8ZS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727244-MLA99547266616_122025-F.jpg",
+      "preco": 353.95,
+      "precoDe": 395.15,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:26:28.941Z"
+    },
+    {
+      "id": "49390",
+      "loja": "Amazon",
+      "titulo": "JBL Authentics 300, Caixa de Som Bluetooth Portátil - Preto | Som Estéreo com Graves Profundos, Wi-Fi, Controle por Voz, Bateria Embutida de até 8 Horas, Design Retrô com Alça",
+      "link": "https://www.amazon.com.br/dp/B0CT5WQHH4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41AnbJxZH4L._SL400_.jpg",
+      "preco": 1511,
+      "precoDe": 3299,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:23:38.434Z"
+    },
+    {
+      "id": "49388",
+      "loja": "Amazon",
+      "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso sonoro Fritadeira Elétrica sem Óleo Forno Bancada EAF90 Gra",
+      "link": "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PDhLCBK1L._SL400_.jpg",
+      "preco": 540.81,
+      "precoDe": 1299,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:21:28.813Z"
+    },
+    {
+      "id": "49387",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/4qHLCtRBXY",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 21.98,
+      "precoDe": 46.77,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T21:20:12.017Z"
+    },
     {
       "id": "49385",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 32,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:17:44.039Z"
-    },
-    {
-      "id": "47904",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho M 160 Unidades",
-      "link": "https://meli.la/1si2KPU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665597-MLA99928206919_112025-F.jpg",
-      "preco": 174.96,
-      "precoDe": 255.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:16:48.078Z"
-    },
-    {
-      "id": "47902",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Ultimashow 2.0 adidas",
-      "link": "https://meli.la/2kRX2Qf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836742-MLB117547051944_102026-O-tnis-ultimashow-20-adidas.webp",
-      "preco": 193.8,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFICIAIS1711",
-      "enviadoEm": "2026-11-17T16:16:16.807Z"
-    },
-    {
-      "id": "47901",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Para Nadar Pampers Splashers Baby Shark Tamanho P-M 12 Unidades",
-      "link": "https://meli.la/1fA9sf6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966695-MLA99920307977_112025-F.jpg",
-      "preco": 26.53,
-      "precoDe": 38.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:14:58.553Z"
-    },
-    {
-      "id": "47900",
-      "loja": "Mercado Livre",
-      "titulo": "️ Perfume Paco Rabanne Million Gold Intense EDP 100ml",
-      "link": "https://meli.la/14JQdQQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617456-MLB88768452636_082025-P.webp",
-      "preco": 395,
-      "precoDe": 829,
-      "desconto": 48,
-      "cupom": "OFICIAIS1711",
-      "enviadoEm": "2026-11-17T16:12:53.236Z"
     }
   ]
 }
