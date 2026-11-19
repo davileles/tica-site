@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T14:31:28.088Z",
+  "atualizadoEm": "2026-11-19T14:43:07.536Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2400,6 +2400,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-20T12:01:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VOCE10",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-20T14:34:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
