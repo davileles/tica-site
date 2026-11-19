@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T18:49:17.726Z",
+  "atualizadoEm": "2026-11-19T19:19:17.937Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,15 +603,27 @@
       "url": null
     },
     {
-      "codigo": "SALVOUBF",
+      "codigo": "BFFARMA",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido em Farmácias no iFood",
+      "validadeAte": "2026-11-20T19:01:11.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CUIDABLACK",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 15,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em Farmácias. Ativa a partir das 16h",
-      "validadeAte": "2026-11-19T18:56:59.000Z",
+      "observacao": "Desconto válido para Farmácias no iFood",
+      "validadeAte": "2026-11-20T19:00:14.000Z",
       "url": null
     },
     {
@@ -624,18 +636,6 @@
       "limite": null,
       "observacao": "Cupons válidos em restaurantes",
       "validadeAte": "2026-11-20T18:30:55.000Z",
-      "url": null
-    },
-    {
-      "codigo": "SALVOUBF",
-      "loja": "iFood Farmácias",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido por 16 horas",
-      "validadeAte": "2026-11-19T18:56:59.000Z",
       "url": null
     },
     {
