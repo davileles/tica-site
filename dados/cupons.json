@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T15:13:07.473Z",
+  "atualizadoEm": "2026-11-19T15:43:07.256Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -216,6 +216,18 @@
       "limite": 30,
       "observacao": "20% OFF em selecionados, válido acima de R$50, com desconto máximo limitado a R$30",
       "validadeAte": "2026-11-20T03:00:08.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "20BLACKPRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": 400,
+      "observacao": "Exclusivo Prime, válido em produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-20T15:30:18.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -2463,18 +2475,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "N0VT0P5K",
-      "loja": "não especificada",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código fornecido sem contexto de loja ou valor de desconto. Impossível determinar tipo (pct ou reais) e valor do desconto.",
-      "validadeAte": "2026-11-19T15:16:48.000Z",
-      "url": null
-    },
-    {
       "codigo": "BLACK30",
       "loja": "Nike",
       "tipo": "pct",
@@ -3084,18 +3084,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-20T15:01:02.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "N0VT0P5K",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": 75,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T15:16:30.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
