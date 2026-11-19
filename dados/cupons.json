@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T03:14:43.002Z",
+  "atualizadoEm": "2026-11-19T11:13:47.835Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -792,30 +792,6 @@
       "limite": 100,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODO1811SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO1811",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2235,42 +2211,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CARRINHONOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MEUDESCONTOOBRA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE1811",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFICIAIS1911",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2278,7 +2218,7 @@
       "minimo": 89,
       "maximo": null,
       "limite": 50,
-      "observacao": "Válido em selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-20T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2448,18 +2388,6 @@
       "limite": 129,
       "observacao": null,
       "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PLAYER1",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "Cupom válido em itens selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-19T20:03:19.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
