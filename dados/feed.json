@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-19T20:19:15.965Z",
+  "atualizadoEm": "2026-11-19T20:35:25.642Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49340",
+      "loja": "Shopee",
+      "titulo": "Kit 2x Vinho Português Branco DOC Vinho Verde Casal Garcia 750ml",
+      "link": "https://s.shopee.com.br/6q2PWnv2JP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-muwkd1k7db0j17_tn",
+      "preco": 54.900000000000006,
+      "precoDe": 149.8,
+      "desconto": 50,
+      "cupom": "NOVTOP10",
+      "enviadoEm": "2026-11-19T20:25:25.637Z"
+    },
+    {
+      "id": "49338",
+      "loja": "Shopee",
+      "titulo": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
+      "link": "https://s.shopee.com.br/2BGZxxAO8q",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed_tn",
+      "preco": 29.99,
+      "precoDe": 53.55,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:21:46.284Z"
+    },
+    {
+      "id": "49337",
+      "loja": "Amazon",
+      "titulo": "Nível a Laser Verde GLL 12-22 G 12m 1 Bateria + Suporte Bosch",
+      "link": "https://www.amazon.com.br/dp/B0D2RSCNV4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412G2x9pHwL._SL400_.jpg",
+      "preco": 378.64,
+      "precoDe": 679,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:20:32.638Z"
+    },
     {
       "id": "49336",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 39,
       "cupom": null,
       "enviadoEm": "2026-11-17T15:29:50.062Z"
-    },
-    {
-      "id": "47873",
-      "loja": "Shopee",
-      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
-      "link": "https://s.shopee.com.br/6fivnmdslO",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
-      "preco": 27.48,
-      "precoDe": 119.48,
-      "desconto": 77,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T15:20:24.742Z"
-    },
-    {
-      "id": "47871",
-      "loja": "Shopee",
-      "titulo": "Kit Pack Organizador Necessaire Mala Bolsa de Viagem Bagagem Férias Roupa Hotel Passeio 4 Tamanhos P,M, G, XG",
-      "link": "https://s.shopee.com.br/W8IS2OzYx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrsw27f9yujo37_tn",
-      "preco": 149.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T15:14:41.067Z"
-    },
-    {
-      "id": "47867",
-      "loja": "Mercado Livre",
-      "titulo": "Colchão Casal Inflável Dura Beam Bomba Elétrica 272 Kg Intex",
-      "link": "https://meli.la/2JGbarU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_841582-MLB69948147272_062023-O-colcho-casal-inflavel-dura-beam-bomba-eletrica-272-kg-intex.webp",
-      "preco": 317.21,
-      "precoDe": 457.74,
-      "desconto": 23,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-11-17T15:05:01.938Z"
     }
   ]
 }
