@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T22:47:17.844Z",
+  "atualizadoEm": "2026-11-19T00:09:00.668Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -60,6 +60,18 @@
       "limite": null,
       "observacao": "Black Friday - Começa meia-noite",
       "validadeAte": "2026-11-19T22:45:16.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "AFFBF05",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 330,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Black Friday AliExpress com múltiplos cupons de desconto fixo em R$. Cada cupom tem um valor mínimo de compra específico.",
+      "validadeAte": "2026-11-20T00:01:43.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
     },
     {
@@ -759,18 +771,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "MP500PS",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": 2500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T19:00:17.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -792,18 +792,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-19T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MP100GAMES",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 90,
-      "minimo": 449,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T19:00:17.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2391,18 +2379,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FORTUNAPREBLACK",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 30,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-19T00:00:57.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA1811",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2436,18 +2412,6 @@
       "limite": 150,
       "observacao": "Válido pagando com pré-pago ou crédito em 1x. Aplicável em produtos selecionados.",
       "validadeAte": "2026-11-19T19:29:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRO1811",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-19T21:00:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2520,6 +2484,18 @@
       "limite": 30,
       "observacao": "Cupons aplicáveis em produtos selecionados conforme listas fornecidas",
       "validadeAte": "2026-11-19T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": null,
+      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
