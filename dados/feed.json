@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-19T20:35:25.642Z",
+  "atualizadoEm": "2026-11-19T20:49:16.401Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49354",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
+      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
+      "preco": 20.6,
+      "precoDe": 39.9,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:47:34.472Z"
+    },
+    {
+      "id": "49352",
+      "loja": "Amazon",
+      "titulo": "Whey Protein Concentrado Chocolate Refil 1.8kg – Contribui Para o Ganho Muscular Hipertrofia – Dux Human Health",
+      "link": "https://www.amazon.com.br/dp/B07NGN5FW4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VTap4NeFL._SL400_.jpg",
+      "preco": 299.99,
+      "precoDe": 687.69,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:46:42.062Z"
+    },
+    {
+      "id": "49350",
+      "loja": "Shopee",
+      "titulo": "Caminhão Dinossauro Engolidor de Carrinhos - Com Kit de 6 e 4 Carrinhos",
+      "link": "https://s.shopee.com.br/LovoD7qfm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffs07cp08hxfe_tn",
+      "preco": 71.99,
+      "precoDe": 79.11,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:44:57.336Z"
+    },
+    {
+      "id": "49348",
+      "loja": "Mercado Livre",
+      "titulo": "Maquina Maquininha Dragao Acabamento Cortar Cabelo Aparador Barba Pelos Elétrica Sem Fio Recarregavel - Crowley",
+      "link": "https://meli.la/1LtBEVu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_952927-MLA115681613734_092026-F.jpg",
+      "preco": 22.9,
+      "precoDe": 34.9,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:41:57.105Z"
+    },
+    {
+      "id": "49345",
+      "loja": "Shopee",
+      "titulo": "Shampoo , Condicionador Tátil Premium , Para Cabelos Finos E Suaves , 550ml",
+      "link": "https://s.shopee.com.br/114cawZMYV",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mgdh1vkf28sq70_tn",
+      "preco": 118.95,
+      "precoDe": 158.6,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T20:37:53.489Z"
+    },
     {
       "id": "49340",
       "loja": "Shopee",
@@ -5763,18 +5823,6 @@
       "enviadoEm": "2026-11-17T16:12:53.236Z"
     },
     {
-      "id": "47899",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
-      "link": "https://www.amazon.com.br/dp/B07XLMJHRN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UifMVTuyL._SL400_.jpg",
-      "preco": 18.540000000000003,
-      "precoDe": 39.9,
-      "desconto": 48,
-      "cupom": "BLACKPRIME10",
-      "enviadoEm": "2026-11-17T16:10:05.690Z"
-    },
-    {
       "id": "47897",
       "loja": "Mercado Livre",
       "titulo": "Kit 4 Cuecas Masculina Low Rise Trunk Algodão Calvin Klein",
@@ -5953,54 +6001,6 @@
       "desconto": 30,
       "cupom": "ESPORTES1711",
       "enviadoEm": "2026-11-17T15:33:54.523Z"
-    },
-    {
-      "id": "47878",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Pampers, Aroma de Aloe Vera 12 pacotes em total 576 Unidades",
-      "link": "https://meli.la/1yg8gv5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804658-MLA99451702072_112025-F.jpg",
-      "preco": 74.3,
-      "precoDe": 134.9,
-      "desconto": 35,
-      "cupom": "OFICIAIS1711",
-      "enviadoEm": "2026-11-17T15:32:10.195Z"
-    },
-    {
-      "id": "47877",
-      "loja": "Mercado Livre",
-      "titulo": "Lenços Umedecidos Pampers, Cuidado de bebê 12 pacotes em total 576 Unidades",
-      "link": "https://meli.la/1NqUMug",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_748978-MLA99449654790_112025-F.jpg",
-      "preco": 74.3,
-      "precoDe": 134.9,
-      "desconto": 35,
-      "cupom": "OFICIAIS1711",
-      "enviadoEm": "2026-11-17T15:31:43.312Z"
-    },
-    {
-      "id": "47876",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips de 23.8\" Full HD IPS com 200Hz",
-      "link": "https://meli.la/2HHP9R4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_642739-MLA109096803510_042026-F.jpg",
-      "preco": 568.87,
-      "precoDe": 1049,
-      "desconto": 40,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-11-17T15:31:10.862Z"
-    },
-    {
-      "id": "47875",
-      "loja": "Mercado Livre",
-      "titulo": "Grand Court Base 3.0 Adidas",
-      "link": "https://meli.la/2bqhT8V",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_626753-MLB113142907274_072026-P.webp",
-      "preco": 213.74,
-      "precoDe": 349.99,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T15:29:50.062Z"
     }
   ]
 }
