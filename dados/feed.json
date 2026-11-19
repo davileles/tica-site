@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-19T15:13:05.424Z",
+  "atualizadoEm": "2026-11-19T15:43:05.426Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49039",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas 33L Philco Limpa Fácil PMO39E 1400W 127V",
+      "link": "https://www.amazon.com.br/dp/B0H7L24BPG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xWvodGAHL._SL400_.jpg",
+      "preco": 451.6,
+      "precoDe": 681.5,
+      "desconto": 17,
+      "cupom": "20BLACKPRIME",
+      "enviadoEm": "2026-11-19T15:41:54.766Z"
+    },
+    {
+      "id": "49038",
+      "loja": "Amazon",
+      "titulo": "Hisense Smart TV 4K 65\" Polegadas 65U6QV Mini LED | Full Array Local Dimming, HDR10+ Adaptive, Modo FilmMaker, Dolby Atmos, Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/dp/B0FQWCGQMV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417Bh6IfXcL._SL400_.jpg",
+      "preco": 3399.95,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20BLACKPRIME",
+      "enviadoEm": "2026-11-19T15:40:39.632Z"
+    },
+    {
+      "id": "49035",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 220v",
+      "link": "https://www.amazon.com.br/dp/B0H5MN1FSQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CK92y-BDL._SL400_.jpg",
+      "preco": 399.2,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20BLACKPRIME",
+      "enviadoEm": "2026-11-19T15:37:35.016Z"
+    },
+    {
+      "id": "49034",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 127v",
+      "link": "https://www.amazon.com.br/dp/B0H5MN9Z7M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31CK92y-BDL._SL400_.jpg",
+      "preco": 424.19,
+      "precoDe": 640,
+      "desconto": 17,
+      "cupom": "20BLACKPRIME",
+      "enviadoEm": "2026-11-19T15:36:15.739Z"
+    },
+    {
+      "id": "49032",
+      "loja": "Amazon",
+      "titulo": "Micro-ondas 20L Branco MasterCook Midea 110V",
+      "link": "https://www.amazon.com.br/dp/B0FGZ6FCGY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N4OpuejhL._SL400_.jpg",
+      "preco": 315.74,
+      "precoDe": 569,
+      "desconto": 31,
+      "cupom": "20BLACKPRIME",
+      "enviadoEm": "2026-11-19T15:35:03.059Z"
+    },
+    {
+      "id": "49027",
+      "loja": "Mercado Livre",
+      "titulo": "Wap Parafusadeira e Furadeira à Bateria 12V + Acessórios",
+      "link": "https://meli.la/1rKE7kH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863804-MLB121553170569_112026-P.webp",
+      "preco": 162.36,
+      "precoDe": 189.9,
+      "desconto": 5,
+      "cupom": "CASA1811 ou VOCE10",
+      "enviadoEm": "2026-11-19T15:30:50.961Z"
+    },
+    {
+      "id": "49026",
+      "loja": "Mercado Livre",
+      "titulo": "Cafeteira Inox Elétrica 38 Xícaras Black&decker Filtro Cor Preto",
+      "link": "https://meli.la/2cA8d84",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_966024-MLA99943263527_112025-F.jpg",
+      "preco": 170.1,
+      "precoDe": 350,
+      "desconto": 46,
+      "cupom": "CASA1811 ou VOCE10",
+      "enviadoEm": "2026-11-19T15:27:57.224Z"
+    },
+    {
+      "id": "49024",
+      "loja": "Mercado Livre",
+      "titulo": "O Boticário Boticollection Connexion Desodorante Colônia 100ml",
+      "link": "https://meli.la/2ccRRxL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_677713-MLA102051132170_122025-F.jpg",
+      "preco": 76.41000000000001,
+      "precoDe": 179.9,
+      "desconto": 53,
+      "cupom": "VOCE10",
+      "enviadoEm": "2026-11-19T15:23:18.399Z"
+    },
+    {
+      "id": "49023",
+      "loja": "Mercado Livre",
+      "titulo": "Kit L'Oréal Professionnel NutriOil Treatment (2 Produtos)",
+      "link": "https://meli.la/1rDv1aA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_643911-MLA99917590429_112025-F.jpg",
+      "preco": 161.92,
+      "precoDe": 331.8,
+      "desconto": 46,
+      "cupom": "CASA1811 ou VOCE10",
+      "enviadoEm": "2026-11-19T15:19:27.022Z"
+    },
+    {
+      "id": "49020",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Wella Fusion Shampoo 250ml + Máscara 150ml",
+      "link": "https://meli.la/2vi2Rmy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919713-MLA99382613364_112025-F.jpg",
+      "preco": 161.60000000000002,
+      "precoDe": 397.8,
+      "desconto": 55,
+      "cupom": "CASA1811 ou VOCE10",
+      "enviadoEm": "2026-11-19T15:14:40.375Z"
+    },
     {
       "id": "49018",
       "loja": "Mercado Livre",
@@ -3351,18 +3471,6 @@
       "enviadoEm": "2026-11-17T20:36:03.901Z"
     },
     {
-      "id": "48108",
-      "loja": "Amazon",
-      "titulo": "Micro-ondas 20L Branco MasterCook Midea 110V",
-      "link": "https://www.amazon.com.br/dp/B0FGZ6FCGY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N4OpuejhL._SL400_.jpg",
-      "preco": 335.48,
-      "precoDe": 569,
-      "desconto": 31,
-      "cupom": "BLACKPRIME15",
-      "enviadoEm": "2026-11-17T20:23:52.308Z"
-    },
-    {
       "id": "48107",
       "loja": "Shopee",
       "titulo": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
@@ -5893,114 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-16T20:57:56.183Z"
-    },
-    {
-      "id": "47569",
-      "loja": "Shopee",
-      "titulo": "TOYADENT Escova Dental 6000+ Cerdas Ultramacias, Livre de BPA, Cabo Antiderrapante",
-      "link": "https://s.shopee.com.br/5LDWzMBkA7",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mteptfqbo9ah66_tn",
-      "preco": 28.9,
-      "precoDe": 50.7,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:54:07.819Z"
-    },
-    {
-      "id": "47568",
-      "loja": "Amazon",
-      "titulo": "Brinox - Frigideira 20X4Cm 0,8L Ceramic Life Suprema - Vanilla",
-      "link": "https://www.amazon.com.br/dp/B0CYP2141M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21+ZGMUGETL._SL400_.jpg",
-      "preco": 37.98,
-      "precoDe": 67.31,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:49:42.257Z"
-    },
-    {
-      "id": "47567",
-      "loja": "Shopee",
-      "titulo": "KODI 3 Em 1 Máquina Solda Inversora Profissional Máquina de solda 120A MMA/LIFT TIG",
-      "link": "https://s.shopee.com.br/3VlsnL45CL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mv41wrhgu0w196_tn",
-      "preco": 219.99,
-      "precoDe": 499.98,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:43:55.329Z"
-    },
-    {
-      "id": "47566",
-      "loja": "Mercado Livre",
-      "titulo": "Camiseta Tommy Hilfiger 1985 Masculina Algodão Manga Curta - R$ 125,40",
-      "link": "https://meli.la/33kbb6q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_768100-MLB115645406418_092026-P.webp",
-      "preco": 106.59,
-      "precoDe": 220,
-      "desconto": 43,
-      "cupom": "MODA1611",
-      "enviadoEm": "2026-11-16T20:41:37.486Z"
-    },
-    {
-      "id": "47565",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Urbana Puma Phase Backpack para Adultos, de 22 L",
-      "link": "https://meli.la/1t76q4T",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_727554-MLA101663068317_122025-F.jpg",
-      "preco": 80.74,
-      "precoDe": 229.99,
-      "desconto": 59,
-      "cupom": "MODA1611",
-      "enviadoEm": "2026-11-16T20:37:40.243Z"
-    },
-    {
-      "id": "47564",
-      "loja": "Amazon",
-      "titulo": "Chocostick Nestlé Avelã 26g - 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0H6VJS94F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51QPtsWSCeL._SL400_.jpg",
-      "preco": 25.4,
-      "precoDe": 35.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:36:24.221Z"
-    },
-    {
-      "id": "47563",
-      "loja": "Mercado Livre",
-      "titulo": "Mochila Masculina Bolsa Impermeável Faculdade Executiva Alça Reforçada Preto Liso",
-      "link": "https://meli.la/1Zc7NUb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_892888-MLA107403836976_032026-F.jpg",
-      "preco": 25.13,
-      "precoDe": 59.9,
-      "desconto": 40,
-      "cupom": "OFERTASMELI ou DESCONTOAQUI ou CUPOMAQUI ou CARRINHOCHEIOJA ou PECHINCHA ou PROMOVALE ou MELICOMPRAS ou MLCOMPRANDO ou SALVAMEUBOLSO ou MELIDESCONTEI ou PROMOCERTAML ou HOJENOMELI ou TOPACHADO ou MELITEMCUPOM ou PARAVC ou VALEPROMO ou MEUVALE ou MLVANTAGEM ou MAISDESCONTO ou COMBINACUPOM ou APROVEITAMELI ou SUPERVALEMELI ou BOAESCOLHAMELI ou CORREQUETEM ou POUPEMELI ou MELICUPOM ou SEMPREMELI ou CORREAQUINOML ou QUEROOFF ou AGORAOUNUNCA ou CLIENTEVIP ou ESPECIAL ou GANHOUOFF ou GARIMPEI ou FESTIVALDECUPONS ou MEUDESCONTAO ou PEGUESEUOFF ou ESQUENTA ou BARATOAGORA ou MELIGARANTE30 ou QUEROPROMO30",
-      "enviadoEm": "2026-11-16T20:35:11.751Z"
-    },
-    {
-      "id": "47561",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "link": "https://www.amazon.com.br/dp/B0DHL63KWK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21DTaVUtbUL._SL400_.jpg",
-      "preco": 206.9,
-      "precoDe": 466.66,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:33:27.776Z"
-    },
-    {
-      "id": "47560",
-      "loja": "Amazon",
-      "titulo": "Cerveja Budweiser, American Lager, Lata Sleek 350ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0CH1DKT6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41eod8JHQkL._SL400_.jpg",
-      "preco": 41.58,
-      "precoDe": 55.08,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T20:32:11.951Z"
     }
   ]
 }
