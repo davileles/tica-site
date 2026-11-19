@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T21:19:18.171Z",
+  "atualizadoEm": "2026-11-19T21:36:32.325Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -228,6 +228,18 @@
       "limite": 400,
       "observacao": "Exclusivo Prime, válido em produtos vendidos e entregues pela Amazon",
       "validadeAte": "2026-11-20T15:30:18.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "15OFFEXTRA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-20T21:30:23.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -2160,18 +2172,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ITENSPARACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-23T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
