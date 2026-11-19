@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-19T22:07:46.283Z",
+  "atualizadoEm": "2026-11-19T22:42:16.978Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49414",
+      "loja": "Amazon",
+      "titulo": "Elka Jogo Memo Play Moana 2, 6+ Anos",
+      "link": "https://www.amazon.com.br/dp/B0DJBXYTB7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51uuqVb2iRL._SL400_.jpg",
+      "preco": 18.98,
+      "precoDe": 49.99,
+      "desconto": 62,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T22:32:16.974Z"
+    },
     {
       "id": "49410",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:28:24.182Z"
-    },
-    {
-      "id": "47918",
-      "loja": "Mercado Livre",
-      "titulo": "Dux Nutrition Whey Protein Concentrado Coco - 900g",
-      "link": "https://meli.la/2pcvbpn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_860778-MLA113815855186_072026-F.jpg",
-      "preco": 224.82000000000002,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFHOJENOML",
-      "enviadoEm": "2026-11-17T16:27:51.536Z"
     }
   ]
 }
