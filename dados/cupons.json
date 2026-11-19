@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T19:19:17.937Z",
+  "atualizadoEm": "2026-11-19T19:49:17.787Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -723,18 +723,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLU300BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-19T19:36:36.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PELANDO300",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -744,30 +732,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-19T21:07:54.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU200BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2200,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Dois cupons de desconto fixo com valores mínimos de compra diferentes",
-      "validadeAte": "2026-11-19T19:36:29.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU100BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Dois cupons de desconto fixo com valores mínimos de compra diferentes",
-      "validadeAte": "2026-11-19T19:36:29.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2304,18 +2268,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BABYNOVEMBRO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Válido pagando com pré-pago ou crédito em 1x. Aplicável em produtos selecionados.",
-      "validadeAte": "2026-11-19T19:29:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
