@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-19T17:49:15.848Z",
+  "atualizadoEm": "2026-11-19T18:15:11.390Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49230",
+      "loja": "Amazon",
+      "titulo": "ESTWING Extrator de moldagem Pro Claw – Pé-de-cabra de 25,4 cm com estrutura de aço forjado e aderência de almofada antiderrapante – MP250G",
+      "link": "https://www.amazon.com.br/dp/B004397VEW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314axyGmJ9L._SL400_.jpg",
+      "preco": 101.41999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20FFNOV",
+      "enviadoEm": "2026-11-19T18:05:11.388Z"
+    },
+    {
+      "id": "49223",
+      "loja": "Shopee",
+      "titulo": "Bolsa Feminina Sacola Grande de Ombro em Couro com Espaço Amplo + Chaveiro Pompom",
+      "link": "https://s.shopee.com.br/114cQCIPTg",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqqimvptk3k1e2_tn",
+      "preco": 44.89,
+      "precoDe": 74.82,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T18:01:19.713Z"
+    },
+    {
+      "id": "49217",
+      "loja": "Amazon",
+      "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
+      "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51atYNUglzL._SL400_.jpg",
+      "preco": 258.78,
+      "precoDe": 599.99,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T17:52:37.462Z"
+    },
+    {
+      "id": "49215",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira de impacto 1/2\" 760W velocidade variável e reversível - HP1640 - Makita",
+      "link": "https://meli.la/1wAHpWc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664052-MLA110410067926_052026-F.jpg",
+      "preco": 344.71,
+      "precoDe": 453.05,
+      "desconto": 13,
+      "cupom": "ECONOMIAEMDOBRO",
+      "enviadoEm": "2026-11-19T17:51:16.985Z"
+    },
     {
       "id": "49208",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 28,
       "cupom": "15% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-17T13:09:53.461Z"
-    },
-    {
-      "id": "47782",
-      "loja": "Shopee",
-      "titulo": "Kit 2 Organizador Multiuso Para Armazenamento Organizador de Mesa Banheiro Cozinha Area",
-      "link": "https://s.shopee.com.br/70Lm3G7ayb",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uu9hpq7ic4bc_tn",
-      "preco": 35.99,
-      "precoDe": 44.99,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T13:07:26.957Z"
-    },
-    {
-      "id": "47772",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/9zzNbccWkH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.95,
-      "precoDe": 67.8,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T12:50:39.498Z"
-    },
-    {
-      "id": "47766",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/5VWyEuDhQN",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 76.29,
-      "precoDe": 136.23,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T12:46:15.638Z"
-    },
-    {
-      "id": "47756",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Motorola Moto G77 5G 256GB 8GB + 16GB RAM Boost Dual Sim Marrom",
-      "link": "https://meli.la/2wYybw7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773794-MLA121202373013_112026-F.jpg",
-      "preco": 1358.1,
-      "precoDe": 1899,
-      "desconto": 21,
-      "cupom": "OFFHOJEMELI",
-      "enviadoEm": "2026-11-17T12:38:48.566Z"
     }
   ]
 }
