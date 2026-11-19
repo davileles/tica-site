@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-19T11:37:11.896Z",
+  "atualizadoEm": "2026-11-19T11:49:20.013Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "48762",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
+      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
+      "preco": 28.790000000000003,
+      "precoDe": 69.9,
+      "desconto": 49,
+      "cupom": "BLACKNUPAY20",
+      "enviadoEm": "2026-11-19T11:44:31.963Z"
+    },
+    {
+      "id": "48760",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/1W0sbBoA92",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T11:43:53.023Z"
+    },
+    {
+      "id": "48758",
+      "loja": "Amazon",
+      "titulo": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+      "link": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yRUnIzngL._SL400_.jpg",
+      "preco": 4199,
+      "precoDe": 4699.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T11:42:34.720Z"
+    },
+    {
+      "id": "48757",
+      "loja": "Amazon",
+      "titulo": "Crescent Chave de óxido preto ajustável de 10 cm | AT24VS",
+      "link": "https://www.amazon.com.br/dp/B0091A5G22?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/218-ZpQWHyL._SL400_.jpg",
+      "preco": 70.75,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-19T11:41:23.859Z"
+    },
+    {
+      "id": "48755",
+      "loja": "Amazon",
+      "titulo": "Cerveja Michelob Ultra, Lata 269ml, Pack com 8 unidades | Lata, Cerveja",
+      "link": "https://www.amazon.com.br/dp/B0H6MVT6LJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31YdY9SVY-L._SL400_.jpg",
+      "preco": 33.52,
+      "precoDe": 59.85,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T11:39:54.332Z"
+    },
+    {
+      "id": "48751",
+      "loja": "Amazon",
+      "titulo": "Simple Joys by Carter's Calça de lã unissex para bebês, pacote com 4, Azul mesclado/listras marrom/cinza mesclado/oliva, Recém Nascido",
+      "link": "https://www.amazon.com.br/dp/B08XW45B9K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51658dFCJnL._SL400_.jpg",
+      "preco": 115.11,
+      "precoDe": 133.37,
+      "desconto": 14,
+      "cupom": null,
+      "enviadoEm": "2026-11-19T11:37:12.294Z"
+    },
     {
       "id": "48748",
       "loja": "Amazon",
@@ -385,18 +457,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-18T20:23:18.348Z"
-    },
-    {
-      "id": "48645",
-      "loja": "Amazon",
-      "titulo": "Cerveja Michelob Ultra, Lata 269ml, Pack com 8 unidades | Lata, Cerveja",
-      "link": "https://www.amazon.com.br/dp/B0H6MVT6LJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31YdY9SVY-L._SL400_.jpg",
-      "preco": 33.52,
-      "precoDe": 59.85,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T20:21:25.385Z"
     },
     {
       "id": "48643",
@@ -5499,18 +5559,6 @@
       "enviadoEm": "2026-11-16T19:57:14.592Z"
     },
     {
-      "id": "47538",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
-      "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310ME8RBo3L._SL400_.jpg",
-      "preco": 34.19,
-      "precoDe": 69.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T19:52:47.029Z"
-    },
-    {
       "id": "47537",
       "loja": "Amazon",
       "titulo": "Shampoo Invigo Nutri Enrich Wella Professionals 1000 ml",
@@ -5953,54 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-16T17:57:26.354Z"
-    },
-    {
-      "id": "47454",
-      "loja": "Amazon",
-      "titulo": "Finish Detergente para Lava Louças em pó 700g",
-      "link": "https://www.amazon.com.br/dp/B0BZWZ2385?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51A4BozzvxL._SL400_.jpg",
-      "preco": 29.59,
-      "precoDe": 54.39,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T17:51:59.084Z"
-    },
-    {
-      "id": "47450",
-      "loja": "Shopee",
-      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
-      "link": "https://s.shopee.com.br/LoqpSWJDp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
-      "preco": 25.99,
-      "precoDe": 39.98,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T17:50:06.338Z"
-    },
-    {
-      "id": "47449",
-      "loja": "Mercado Livre",
-      "titulo": "Samsung Odyssey Oled G5 27 , Qhd, 180hz, 0.03ms, G-sync",
-      "link": "https://meli.la/2bDxGFq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_746494-MLA110346712866_052026-F.jpg",
-      "preco": 2509,
-      "precoDe": 3499,
-      "desconto": 20,
-      "cupom": "MELHORDOTECH",
-      "enviadoEm": "2026-11-16T17:48:41.306Z"
-    },
-    {
-      "id": "47442",
-      "loja": "Shopee",
-      "titulo": "Máquina de Solda Inversora MMA 250A IGBT Portátil 110V ou 220V com Display Digital e Kit Completo",
-      "link": "https://s.shopee.com.br/Loqolrb7n",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqo6x1rc17ggd2_tn",
-      "preco": 231.83,
-      "precoDe": 579.58,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-16T17:38:22.268Z"
     }
   ]
 }
