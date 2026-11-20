@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T16:44:00.809Z",
+  "atualizadoEm": "2026-11-20T17:05:01.427Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2079,6 +2079,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-20T18:00:35.505Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ELETROTECHML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2724,18 +2736,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-21T15:00:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "J4C0M3C0U",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T17:00:30.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
