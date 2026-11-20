@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T22:31:25.426Z",
+  "atualizadoEm": "2026-11-20T22:45:11.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49782",
+      "loja": "Amazon",
+      "titulo": "The Macallan Whisky Sherry Oak 12 Anos Single Malt 700ml",
+      "link": "https://www.amazon.com.br/dp/B001TZ3ZN4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VadxumEJL._SL400_.jpg",
+      "preco": 659.9,
+      "precoDe": 739.9,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T22:36:52.216Z"
+    },
+    {
+      "id": "49781",
+      "loja": "Mercado Livre",
+      "titulo": "Chave de impacto Bosch Gdr 215 Sb",
+      "link": "https://meli.la/2AnHBJ9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867537-MLA114339046280_082026-F.jpg",
+      "preco": 478,
+      "precoDe": 850.19,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T22:36:25.301Z"
+    },
     {
       "id": "49777",
       "loja": "Shopee",
@@ -1801,18 +1825,6 @@
       "desconto": 21,
       "cupom": null,
       "enviadoEm": "2026-11-19T21:13:23.452Z"
-    },
-    {
-      "id": "49374",
-      "loja": "Amazon",
-      "titulo": "The Macallan Whisky Sherry Oak 12 Anos Single Malt 700ml",
-      "link": "https://www.amazon.com.br/dp/B001TZ3ZN4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41VadxumEJL._SL400_.jpg",
-      "preco": 659.9,
-      "precoDe": 739.9,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:10:15.778Z"
     },
     {
       "id": "49373",
@@ -5989,18 +6001,6 @@
       "desconto": 26,
       "cupom": "CORREHOJEPROML",
       "enviadoEm": "2026-11-18T12:19:51.400Z"
-    },
-    {
-      "id": "48245",
-      "loja": "Amazon",
-      "titulo": "Notebook Gamer Lenovo LOQ 15IRX9 Intel Core i7-13645HX 16GB 512GB SSD RTX 4050 Linux 15.6\" - 83KHS00600 Luna Grey",
-      "link": "https://www.amazon.com.br/dp/B0H3WHDZK2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51zAVEyzvcL._SL400_.jpg",
-      "preco": 6504,
-      "precoDe": 8074.05,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:17:05.981Z"
     }
   ]
 }
