@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T01:42:20.443Z",
+  "atualizadoEm": "2026-11-20T03:12:20.490Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": 50,
       "observacao": "Cupom válido para primeira compra no app Amazon",
       "validadeAte": "2026-11-21T01:25:11.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BLACKNUPAY20",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "20% OFF em selecionados, válido acima de R$50, com desconto máximo limitado a R$30",
-      "validadeAte": "2026-11-20T03:00:08.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -339,18 +327,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "MODA35",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
       "codigo": "JEANS30",
       "loja": "C&A",
       "tipo": "pct",
@@ -567,18 +543,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HYPE100MP",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -588,6 +552,18 @@
       "limite": null,
       "observacao": "Válido na lista específica fornecida",
       "validadeAte": "2026-11-20T18:07:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODO2011SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-21T03:00:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1827,18 +1803,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMA1911",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 25,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-20T03:00:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOUVIP25",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2007,15 +1971,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFICIAIS1911",
+      "codigo": "FULL2011",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 89,
+      "minimo": 159,
       "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-20T03:00:00.000Z",
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-21T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MPNANOITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 85,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-21T03:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2052,18 +2028,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SEMPREOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 70,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2115,30 +2079,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ECONOMIAEMDOBRO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAVEIC",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BEBESPETS1911",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2148,18 +2088,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-20T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFSEMPREML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-20T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2173,30 +2101,6 @@
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFFSAUDE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BLACK30",
-      "loja": "Nike",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
