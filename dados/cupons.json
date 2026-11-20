@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T21:17:29.322Z",
+  "atualizadoEm": "2026-11-20T21:45:12.936Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,18 +36,6 @@
       "limite": 400,
       "observacao": "20% OFF adicional em compras, limitado a R$ 400 de desconto",
       "validadeAte": "2026-11-21T21:06:33.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "15OFFEXTRA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
-      "validadeAte": "2026-11-20T21:30:23.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
