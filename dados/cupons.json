@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T03:12:20.490Z",
+  "atualizadoEm": "2026-11-20T11:17:57.097Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -562,7 +562,7 @@
       "minimo": 999,
       "maximo": null,
       "limite": null,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_4: O cupom não está disponível.",
       "validadeAte": "2026-11-21T03:00:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1978,7 +1978,7 @@
       "minimo": 159,
       "maximo": null,
       "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-21T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1990,7 +1990,7 @@
       "minimo": 85,
       "maximo": null,
       "limite": 30,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-21T03:00:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2100,6 +2100,18 @@
       "limite": 200,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GUERRILHA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 8,
+      "minimo": 50,
+      "maximo": null,
+      "limite": 129,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2026-11-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
