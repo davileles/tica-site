@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-20T22:15:11.059Z",
+  "atualizadoEm": "2026-11-20T22:31:25.426Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49777",
+      "loja": "Shopee",
+      "titulo": "Kit Serra Mármore Profissional Modelo Tipo Makita Vonder Smv1300s Madeira Concreto 127V/220V + Disco",
+      "link": "https://s.shopee.com.br/AKcJQ9Vgz0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffhdembgop326_tn",
+      "preco": 299.99,
+      "precoDe": 499.98,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T22:21:25.423Z"
+    },
     {
       "id": "49776",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-11-18T12:17:05.981Z"
-    },
-    {
-      "id": "48237",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo IdeaPad Slim 3 Ryzen 7 -8840HS 15.3\" WUXGA 60Hz Integrada AMD Radeon 780M Graphics 512GB SSD PCIe 8GB RAM DDR5-5600 Linux - Luna Grey - 83TYS00500",
-      "link": "https://meli.la/2GQT9u6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_649063-MLA120800120251_112026-F.jpg",
-      "preco": 3134,
-      "precoDe": 5699,
-      "desconto": 45,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:15:48.622Z"
     }
   ]
 }
