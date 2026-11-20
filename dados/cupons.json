@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T18:36:08.073Z",
+  "atualizadoEm": "2026-11-20T19:11:49.629Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -411,15 +411,15 @@
       "url": null
     },
     {
-      "codigo": "BFFARMA",
+      "codigo": "BLACKFARMA",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 20,
+      "valor": 30,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido em Farmácias no iFood",
-      "validadeAte": "2026-11-20T19:01:11.000Z",
+      "observacao": "Válido para Farmácias no iFood",
+      "validadeAte": "2026-11-21T19:00:22.000Z",
       "url": null
     },
     {
@@ -435,15 +435,15 @@
       "url": null
     },
     {
-      "codigo": "CUIDABLACK",
+      "codigo": "BFALIVIO",
       "loja": "iFood",
       "tipo": "reais",
-      "valor": 15,
+      "valor": 20,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Desconto válido para Farmácias no iFood",
-      "validadeAte": "2026-11-20T19:00:14.000Z",
+      "observacao": "Desconto válido em Farmácias no iFood",
+      "validadeAte": "2026-11-21T19:01:16.000Z",
       "url": null
     },
     {
