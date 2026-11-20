@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T21:15:11.058Z",
+  "atualizadoEm": "2026-11-20T21:45:11.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49768",
+      "loja": "Amazon",
+      "titulo": "CACHAÇA GERMANA 1L CARVALHO",
+      "link": "https://www.amazon.com.br/dp/B07ZJWDKZF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kQujtsBpL._SL400_.jpg",
+      "preco": 80.73,
+      "precoDe": 123.3,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:38:40.797Z"
+    },
+    {
+      "id": "49766",
+      "loja": "Amazon",
+      "titulo": "Gin Japonês ROKU, 700ml",
+      "link": "https://www.amazon.com.br/dp/B074Z72STD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41fQRaeOt3L._SL400_.jpg",
+      "preco": 104.4,
+      "precoDe": 171.6,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:32:55.487Z"
+    },
+    {
+      "id": "49761",
+      "loja": "Shopee",
+      "titulo": "Dewalt Dwst60404 Mobile Tower 3 Caixas De Ferramentas Com Rodas Dewalt Tstak",
+      "link": "https://s.shopee.com.br/2La1q0ybeu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mrgfs2v9ps7a51_tn",
+      "preco": 1039,
+      "precoDe": 1298.75,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:31:23.087Z"
+    },
+    {
+      "id": "49760",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
+      "link": "https://s.shopee.com.br/9pg2lYKRhJ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5enh4ks6it7e_tn",
+      "preco": 74.9,
+      "precoDe": 149.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:28:29.079Z"
+    },
     {
       "id": "49752",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 6,
       "cupom": null,
       "enviadoEm": "2026-11-18T12:10:35.678Z"
-    },
-    {
-      "id": "48224",
-      "loja": "Mercado Livre",
-      "titulo": "Combo Siàge Liso Intenso Tratamento Eudora 3 Itens",
-      "link": "https://meli.la/18NeFHe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_956132-MLA114222188173_072026-F.jpg",
-      "preco": 80.56,
-      "precoDe": 162.97,
-      "desconto": 38,
-      "cupom": "PARCEIRODAOBRA",
-      "enviadoEm": "2026-11-18T12:09:20.000Z"
-    },
-    {
-      "id": "48214",
-      "loja": "Shopee",
-      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
-      "link": "https://s.shopee.com.br/906rxUcpCF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
-      "preco": 31.97,
-      "precoDe": 34.01,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:06:50.076Z"
-    },
-    {
-      "id": "48217",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Colunas Torre Inox 30cm Guarda Corpo Vidro 1 Furo",
-      "link": "https://meli.la/21BTnVz",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789811-MLB110504501935_042026-O-kit-6-colunas-torre-inox-30cm-guarda-corpo-vidro-1-furo.webp",
-      "preco": 233.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "PARCEIRODAOBRA",
-      "enviadoEm": "2026-11-18T12:05:32.541Z"
-    },
-    {
-      "id": "48211",
-      "loja": "Amazon",
-      "titulo": "Samsung Combo Smart TV 50\" Crystal UHD 4K U8000H + Samsung Soundbar B450F 2.1 canais",
-      "link": "https://www.amazon.com.br/dp/B0HBZGWVZL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31q0URL5zSL._SL400_.jpg",
-      "preco": 2968.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:02:58.085Z"
     }
   ]
 }
