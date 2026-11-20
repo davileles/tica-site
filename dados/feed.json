@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-20T14:00:48.249Z",
+  "atualizadoEm": "2026-11-20T14:16:11.056Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49569",
+      "loja": "BELEZA NA WEB",
+      "titulo": "Sebastian Professional Hydre - Máscara de Hidratação 150ml",
+      "link": "https://tidd.ly/4zBmM59",
+      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.gbmedia.com.br%2Fimages%2Fw_1500%2Ff_auto%2Ffl_progressive%2Fq_auto%3Aeco%2Fv1%2Fimagens%2F5%2Fsebastian-professional-hydre-treatment-tratamento-150ml-3967-670290517268120371.png&feedId=116978&k=0a768746e1820b1bfcbb7b8779d843835d1f6b36",
+      "preco": 108.9,
+      "precoDe": 353.9,
+      "desconto": 69,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:14:23.094Z"
+    },
+    {
+      "id": "49572",
+      "loja": "Shopee",
+      "titulo": "Tenis Masculino + Relogio + 1 Par de Meia Esportivo Corrida Treino Super leve e Macio",
+      "link": "https://s.shopee.com.br/906vHfrUj5",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mnmv3zn9gete60_tn",
+      "preco": 54.95,
+      "precoDe": 99.91,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:06:35.949Z"
+    },
+    {
+      "id": "49570",
+      "loja": "Shopee",
+      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
+      "link": "https://s.shopee.com.br/9pg2H6HgZ6",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
+      "preco": 3.9,
+      "precoDe": 8.86,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:05:04.126Z"
+    },
     {
       "id": "49565",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-17T18:03:55.105Z"
-    },
-    {
-      "id": "48023",
-      "loja": "Amazon",
-      "titulo": "Papel Higiênico Neve Supreme Folha Tripla Leve 24 Pague 21 20 Metros",
-      "link": "https://www.amazon.com.br/dp/B07FNFPSWL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41svY6J42yL._SL400_.jpg",
-      "preco": 36.95,
-      "precoDe": 54.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:02:14.377Z"
-    },
-    {
-      "id": "48022",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 6 Pares Meia Soquete Mash Sapatilha Cano Baixo",
-      "link": "https://meli.la/1ba5xVk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_888192-MLB78243955916_082024-O-kit-6-pares-meia-soquete-mash-sapatilha-cano-baixo.webp",
-      "preco": 38.68,
-      "precoDe": 72.13,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:01:00.220Z"
-    },
-    {
-      "id": "48020",
-      "loja": "Amazon",
-      "titulo": "Fone de Ouvido Intra-Auricular Sem Fio JBL Wave Buds 2, Branco | Bluetooth, Resistente à Água e Poeira",
-      "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21OmJkjIhGL._SL400_.jpg",
-      "preco": 199,
-      "precoDe": 466.66,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T17:59:42.444Z"
     }
   ]
 }
