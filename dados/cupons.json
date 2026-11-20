@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T15:15:12.863Z",
+  "atualizadoEm": "2026-11-20T15:39:10.446Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": 50,
       "observacao": "Cupom válido para primeira compra no app Amazon",
       "validadeAte": "2026-11-21T01:25:11.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "20BLACKPRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 400,
-      "observacao": "Exclusivo Prime, válido em produtos vendidos e entregues pela Amazon",
-      "validadeAte": "2026-11-20T15:30:18.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
