@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T13:30:48.249Z",
+  "atualizadoEm": "2026-11-20T14:00:48.249Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49565",
+      "loja": "Shopee",
+      "titulo": "Escova Secadora One Step 220V 4em1, Escova Ar Quente Alisa e Modela Cabelo | Envio Imediato",
+      "link": "https://s.shopee.com.br/gRnLJ0jdB",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mmsfvtuvc9vobe_tn",
+      "preco": 48.88,
+      "precoDe": 75.2,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T13:51:17.778Z"
+    },
+    {
+      "id": "49563",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/1gKKWeN89z",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 66.9,
+      "precoDe": 185.83,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T13:44:01.052Z"
+    },
+    {
+      "id": "49562",
+      "loja": "Mercado Livre",
+      "titulo": "Tapete Higiênico para Cachorro 50 Unidades 60x55cm com Gel Absorvente Fralda Manta Pet Cão Com Fitas Adesivas Anti Odor Atrativo Canino borda absorvente",
+      "link": "https://meli.la/1cYg5zn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_971200-MLA114202177794_082026-F.jpg",
+      "preco": 44.94,
+      "precoDe": 74.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T13:42:19.781Z"
+    },
+    {
+      "id": "49559",
+      "loja": "Shopee",
+      "titulo": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
+      "link": "https://s.shopee.com.br/6q2QfaqnU0",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a_tn",
+      "preco": 2488.69,
+      "precoDe": 3888.58,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T13:36:04.758Z"
+    },
     {
       "id": "49552",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-11-17T17:59:42.444Z"
-    },
-    {
-      "id": "48019",
-      "loja": "Shopee",
-      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
-      "link": "https://s.shopee.com.br/8Kr9xd9GgG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
-      "preco": 116.99,
-      "precoDe": 129.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T17:58:19.776Z"
-    },
-    {
-      "id": "48018",
-      "loja": "Amazon",
-      "titulo": "Gel Lavante Calmante Mustela, 300ml, para Pele Muito Sensível, Corpo e Cabelo de Bebês e Crianças, Sem Fragrância",
-      "link": "https://www.amazon.com.br/dp/B071FX83XS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31cYpL8KrML._SL400_.jpg",
-      "preco": 65.34,
-      "precoDe": 90.38,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T17:56:58.251Z"
-    },
-    {
-      "id": "48013",
-      "loja": "Shopee",
-      "titulo": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
-      "link": "https://s.shopee.com.br/6L65Ze2Yi7",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c_tn",
-      "preco": 11.99,
-      "precoDe": 26.07,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T17:52:58.411Z"
-    },
-    {
-      "id": "48012",
-      "loja": "Mercado Livre",
-      "titulo": "Boné Ess No.1 Logo Baseball Puma",
-      "link": "https://meli.la/1WEqVsx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_735546-MLB121687734729_112026-P.webp",
-      "preco": 69.99,
-      "precoDe": 99.99,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T17:51:35.520Z"
     }
   ]
 }
