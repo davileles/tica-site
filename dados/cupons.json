@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-20T11:17:57.097Z",
+  "atualizadoEm": "2026-11-20T12:30:50.070Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "100BLACKOFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T12:18:48.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "TORCIDA50",
       "loja": "Amazon",
@@ -564,6 +552,18 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_4: O cupom não está disponível.",
       "validadeAte": "2026-11-21T03:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO2011",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons de desconto em valor fixo para compras a partir dos valores mínimos especificados",
+      "validadeAte": "2026-11-21T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1623,18 +1623,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "QUEIMADEESTOQUE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 25,
-      "observacao": null,
-      "validadeAte": "2026-11-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "COMPRAAGORA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1875,6 +1863,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1995,6 +1995,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOSITE2011",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons de desconto em valor fixo para compras a partir dos valores mínimos especificados",
+      "validadeAte": "2026-11-21T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2100,6 +2112,30 @@
       "limite": 200,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "INOVATECHML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAPARASAUDE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-21T12:07:33.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
