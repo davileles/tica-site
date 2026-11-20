@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T20:36:03.165Z",
+  "atualizadoEm": "2026-11-20T20:45:11.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49738",
+      "loja": "Amazon",
+      "titulo": "Ar Condicionado Inverter Hisense Hi Wall Eco Plus R-32 sem Wi-fi 12.000 Btus Frio 220v",
+      "link": "https://www.amazon.com.br/dp/B0GFY2FVS3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BfXQ0M1uL._SL400_.jpg",
+      "preco": 1655.9,
+      "precoDe": 3259,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T20:44:46.208Z"
+    },
+    {
+      "id": "49737",
+      "loja": "Amazon",
+      "titulo": "DaColônia Pasta de Amendoim Integral Zero 500g",
+      "link": "https://www.amazon.com.br/dp/B084XRHDJC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51uD+e1CCoL._SL400_.jpg",
+      "preco": 14.31,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF15OFF",
+      "enviadoEm": "2026-11-20T20:42:54.698Z"
+    },
     {
       "id": "49734",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 74,
       "cupom": null,
       "enviadoEm": "2026-11-18T11:22:19.967Z"
-    },
-    {
-      "id": "48173",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Manchester City Torcedor Puma",
-      "link": "https://meli.la/23K7CPi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801731-MLA86663670266_062025-P.webp",
-      "preco": 163.39,
-      "precoDe": 429.99,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T11:05:46.759Z"
-    },
-    {
-      "id": "48174",
-      "loja": "Shopee",
-      "titulo": "Pack Cerveja Heineken Lata Sleek 350ml - 12 unidades - Gelado",
-      "link": "https://s.shopee.com.br/1gKH9pmAnG",
-      "imagem": "https://cf.shopee.com.br/file/br-11134211-820lg-msen73of5zwke8_tn",
-      "preco": 44.99,
-      "precoDe": 121.59,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T11:03:46.966Z"
     }
   ]
 }
