@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T13:30:50.042Z",
+  "atualizadoEm": "2026-11-20T14:00:50.116Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2112,6 +2112,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-20T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AVENGERS15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-21T13:51:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
