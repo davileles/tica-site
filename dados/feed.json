@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-20T16:15:11.057Z",
+  "atualizadoEm": "2026-11-20T16:26:16.514Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49629",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore Makita 1300W 4100NH3ZX2",
+      "link": "https://meli.la/1iPnGfe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899730-MLA92618006218_092025-F.jpg",
+      "preco": 385,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T16:16:16.511Z"
+    },
     {
       "id": "49625",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-17T19:39:16.875Z"
-    },
-    {
-      "id": "48084",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/7fbTGFbALy",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 279.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T19:23:11.289Z"
     }
   ]
 }
