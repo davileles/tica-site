@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T19:45:11.058Z",
+  "atualizadoEm": "2026-11-20T20:00:52.905Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49723",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Maletas Caixa de Ferramentas Grande Reforçada Multiuso Organizador Tática Resistente Cabe Makita Parafusadeira",
+      "link": "https://s.shopee.com.br/3Vlz7G4GTH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m07v5e30jmuhe1_tn",
+      "preco": 27.9,
+      "precoDe": 49.82,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:50:52.903Z"
+    },
+    {
+      "id": "49722",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Ferramentas Sata 3 Gav 213pcs St09512u cor preto",
+      "link": "https://meli.la/2Li6EYK",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_936936-MLA112771395568_062026-F.jpg",
+      "preco": 1550,
+      "precoDe": 3999,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:46:05.926Z"
+    },
     {
       "id": "49721",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 55,
       "cupom": null,
       "enviadoEm": "2026-11-18T10:57:59.118Z"
-    },
-    {
-      "id": "48166",
-      "loja": "Amazon",
-      "titulo": "Sérum Facial Medicube PDRN Pink Peptide Serum - 30 ml | Hidratação e luminosidade com peptídeos e niacinamida, para uma pele com aparência mais firme e tom uniforme",
-      "link": "https://www.amazon.com.br/dp/B0DBF65JYY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+NfU92POL._SL400_.jpg",
-      "preco": 107.82,
-      "precoDe": 179.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:56:40.521Z"
-    },
-    {
-      "id": "48165",
-      "loja": "Amazon",
-      "titulo": "L'Oréal Paris Elseve Bond Repair Kit Tratamento Completo Reparação Molecular com Ácido Cítrico, Reconstrói Ligações e Devolve Força aos Cabelos Danificados (Pré-Shampoo + Shampoo +",
-      "link": "https://www.amazon.com.br/dp/B0F6NTL27W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514VIleaTlL._SL400_.jpg",
-      "preco": 81.22,
-      "precoDe": 143.47,
-      "desconto": 33,
-      "cupom": "BLACKPRIME15",
-      "enviadoEm": "2026-11-18T10:53:24.840Z"
     }
   ]
 }
