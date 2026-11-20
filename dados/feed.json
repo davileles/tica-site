@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-20T16:00:46.486Z",
+  "atualizadoEm": "2026-11-20T16:15:11.057Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49625",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra Inox 1.8L Ferve Água Rápido Desligamento Automático 110V 220V",
+      "link": "https://s.shopee.com.br/4B1ffNnpnO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mvorapqdfmddc9_tn",
+      "preco": 40.99,
+      "precoDe": 56.15,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T16:11:43.997Z"
+    },
+    {
+      "id": "49623",
+      "loja": "Amazon",
+      "titulo": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair, 90ml | Multi-benefícios para cabelos secos e danificados, Repara e Promove Brilho, Com Gold Quinoa e Proteínas",
+      "link": "https://www.amazon.com.br/dp/B0918FHY6P?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/317zsSf2awL._SL400_.jpg",
+      "preco": 149.9,
+      "precoDe": 247.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T16:04:07.716Z"
+    },
+    {
+      "id": "49621",
+      "loja": "Mercado Livre",
+      "titulo": "Marinex Conjunto De Assadeiras Opaline 6 Peças Branco",
+      "link": "https://meli.la/1f5RHHT",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_617809-MLA113389258506_072026-F.jpg",
+      "preco": 89.9,
+      "precoDe": 149,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T16:01:41.438Z"
+    },
     {
       "id": "49619",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-17T19:23:11.289Z"
-    },
-    {
-      "id": "48085",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Gold Label, 750ml",
-      "link": "https://www.amazon.com.br/dp/B0DVT7GM9C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3135lQn9taL._SL400_.jpg",
-      "preco": 197.69,
-      "precoDe": 343.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T19:21:51.728Z"
-    },
-    {
-      "id": "48082",
-      "loja": "Shopee",
-      "titulo": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
-      "link": "https://s.shopee.com.br/AAIoEXI8bX",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rash-mb5rcz7ytftub4_tn",
-      "preco": 24.88,
-      "precoDe": 29.98,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T19:18:07.017Z"
-    },
-    {
-      "id": "48078",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-      "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51v5hE-+I-L._SL400_.jpg",
-      "preco": 136.9,
-      "precoDe": 182.48,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T19:08:08.337Z"
     }
   ]
 }
