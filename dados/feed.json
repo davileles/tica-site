@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-20T19:36:05.130Z",
+  "atualizadoEm": "2026-11-20T19:45:11.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49721",
+      "loja": "Shopee",
+      "titulo": "Kit Jogo De Cama Berço, Solteiro, Casal, Queen e King de 02 e 03 Pçs  Cores Promoção",
+      "link": "https://s.shopee.com.br/4VeWIXNKLM",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxujjur9nus5e_tn",
+      "preco": 29.89,
+      "precoDe": 53.37,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:43:27.123Z"
+    },
     {
       "id": "49716",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 33,
       "cupom": "BLACKPRIME15",
       "enviadoEm": "2026-11-18T10:53:24.840Z"
-    },
-    {
-      "id": "48161",
-      "loja": "Amazon",
-      "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51CFaK2-EOL._SL400_.jpg",
-      "preco": 22.7,
-      "precoDe": 29.24,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:40:30.275Z"
     }
   ]
 }
