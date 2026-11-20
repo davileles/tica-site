@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-20T18:45:11.058Z",
+  "atualizadoEm": "2026-11-20T18:55:50.756Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49699",
+      "loja": "Amazon",
+      "titulo": "Rum Zacapa Centenario 23 750ml",
+      "link": "https://www.amazon.com.br/dp/B018U1P6N6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31XzBMK0f1L._SL400_.jpg",
+      "preco": 549.9,
+      "precoDe": 596.9,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:45:50.754Z"
+    },
     {
       "id": "49696",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-17T22:41:49.148Z"
-    },
-    {
-      "id": "48133",
-      "loja": "Mercado Livre",
-      "titulo": "Depilador A Laser Ipl Maquina De Depilação Mlay T14 Família",
-      "link": "https://meli.la/2XQgZ37",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_713943-MLB114280935891_072026-O-depilador-a-laser-ipl-maquina-de-depilaco-mlay-t14-familia.webp",
-      "preco": 1166.99,
-      "precoDe": 2099,
-      "desconto": 26,
-      "cupom": "BOASOFERTAS",
-      "enviadoEm": "2026-11-17T22:35:00.330Z"
     }
   ]
 }
