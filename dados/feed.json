@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T11:52:44.914Z",
+  "atualizadoEm": "2026-11-20T12:01:48.248Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49457",
+      "loja": "Amazon",
+      "titulo": "Vanquish Chave Inglesa Ajustável de 25 cm com Capacidade de Mandíbula Aberta de 3,5 cm (3175)",
+      "link": "https://www.amazon.com.br/dp/B01LY29EJH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31IRs9hseML._SL400_.jpg",
+      "preco": 64.22,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-20T11:55:23.620Z"
+    },
+    {
+      "id": "49458",
+      "loja": "Amazon",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V | Até 90% Menos Óleo – tecnologia RapidAir, 12 modos de preparo e controle analógico (NA130/00)",
+      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312c8RhLSZL._SL400_.jpg",
+      "preco": 309,
+      "precoDe": 549.9,
+      "desconto": 44,
+      "cupom": "BLACK15",
+      "enviadoEm": "2026-11-20T11:54:02.880Z"
+    },
     {
       "id": "49455",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:44:44.412Z"
-    },
-    {
-      "id": "47944",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XXXG, 54 Unidades",
-      "link": "https://meli.la/1agSZvc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_791337-MLA99931616933_112025-F.jpg",
-      "preco": 95.64,
-      "precoDe": 137.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:43:28.483Z"
-    },
-    {
-      "id": "47943",
-      "loja": "Mercado Livre",
-      "titulo": "Cafeteira Elétrica Dolce Arome Mondial 550W - C-30-18X-FB",
-      "link": "https://meli.la/2Lyh7XY",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615722-MLA99451824212_112025-F.jpg",
-      "preco": 86.64,
-      "precoDe": 176.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:43:04.296Z"
     }
   ]
 }
