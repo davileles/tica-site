@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T19:11:47.837Z",
+  "atualizadoEm": "2026-11-20T19:36:05.130Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49716",
+      "loja": "Shopee",
+      "titulo": "Martelete Perfurador Rompedor Einhell 18V Brushless SDS Plus 2,3J TP-HD 18/22 Solo - opção com e sem bateria",
+      "link": "https://s.shopee.com.br/2BGbV6LMSX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mu9ped7m1xxfb0_tn",
+      "preco": 946.9,
+      "precoDe": 1786.6,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:26:05.124Z"
+    },
+    {
+      "id": "49715",
+      "loja": "Shopee",
+      "titulo": "Kit de Elásticos para Treino Mini Band com 5 Faixas Elásticas",
+      "link": "https://s.shopee.com.br/5VX3SuckUT",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnx236x1h13g0e_tn",
+      "preco": 11.99,
+      "precoDe": 22.2,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:22:21.228Z"
+    },
+    {
+      "id": "49714",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Circular Elétrica 2000w Lâmina 235mm 5902b Makita",
+      "link": "https://meli.la/23BtmyL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822131-MLA100031521327_122025-F.jpg",
+      "preco": 1547,
+      "precoDe": 2149,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:21:04.040Z"
+    },
+    {
+      "id": "49713",
+      "loja": "Mercado Livre",
+      "titulo": "DeWalt XR DCD996B",
+      "link": "https://meli.la/216Z55Z",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604108-MLU77122478274_062024-F.jpg",
+      "preco": 1399,
+      "precoDe": 1648,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T19:16:08.484Z"
+    },
     {
       "id": "49709",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-18T10:40:30.275Z"
-    },
-    {
-      "id": "48158",
-      "loja": "Amazon",
-      "titulo": "Cerveja Spaten, Puro Malte, Lata 473ml, Pack com 12 unidades",
-      "link": "https://www.amazon.com.br/dp/B0DTLDYH91?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41db5AUHaIL._SL400_.jpg",
-      "preco": 57.13,
-      "precoDe": 71.89,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:26:38.055Z"
-    },
-    {
-      "id": "48157",
-      "loja": "Amazon",
-      "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
-      "link": "https://www.amazon.com.br/dp/B07DTN9W36?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ocp6S8YGL._SL400_.jpg",
-      "preco": 21.56,
-      "precoDe": 39.99,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:22:15.111Z"
-    },
-    {
-      "id": "48156",
-      "loja": "Amazon",
-      "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem frald",
-      "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/518pyDilWKL._SL400_.jpg",
-      "preco": 156.32,
-      "precoDe": 246.01,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:21:05.544Z"
-    },
-    {
-      "id": "48155",
-      "loja": "Amazon",
-      "titulo": "Panelux Panela de Pressão 4,5L",
-      "link": "https://www.amazon.com.br/dp/B076BJH4JH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31E6Ux2nwfL._SL400_.jpg",
-      "preco": 49.99,
-      "precoDe": 79.86,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T10:20:32.199Z"
     }
   ]
 }
