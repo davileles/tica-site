@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T21:45:11.058Z",
+  "atualizadoEm": "2026-11-20T22:15:11.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49776",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Chave Fenda/phillips Isolada 6 Peças St08041l Sata Cor Verde",
+      "link": "https://meli.la/2Qef1Cb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741879-MLA100025344931_122025-F.jpg",
+      "preco": 96.9,
+      "precoDe": 134.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T22:11:21.314Z"
+    },
+    {
+      "id": "49774",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Ferramenta Completa 70pç Estriado Sata St95104a70 Cor Verde",
+      "link": "https://meli.la/2TX9pPG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676367-MLA99426460496_112025-F.jpg",
+      "preco": 1115,
+      "precoDe": 1499,
+      "desconto": 26,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T22:05:58.034Z"
+    },
+    {
+      "id": "49772",
+      "loja": "Amazon",
+      "titulo": "Chá Assa Peixe Folhas, Natural, Chamel, 30 g",
+      "link": "https://www.amazon.com.br/dp/B084BQ7FDW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HF-5Q2bNL._SL400_.jpg",
+      "preco": 3.51,
+      "precoDe": 17.06,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:59:03.931Z"
+    },
+    {
+      "id": "49771",
+      "loja": "Shopee",
+      "titulo": "Par Escova de Carvão Para Lixadeira Dewalt Dwe4020 Dwe4120",
+      "link": "https://s.shopee.com.br/4VeWRLeUiE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-moef2ska2c5iab_tn",
+      "preco": 17.75,
+      "precoDe": 25,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T21:51:03.973Z"
+    },
     {
       "id": "49768",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 45,
       "cupom": "DIADATECH",
       "enviadoEm": "2026-11-18T12:15:48.622Z"
-    },
-    {
-      "id": "48235",
-      "loja": "Amazon",
-      "titulo": "La Roche-Posay Cicaplast Baume B5+, Creme Multirreparador Calmante | Com Pantenol 5%, Madecassoside e Tribioma, Tripla Ação Repara, Acalma e Protege a pele sensibilizada, 40ml",
-      "link": "https://www.amazon.com.br/dp/B072MK7BN2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21dNVQaS3AL._SL400_.jpg",
-      "preco": 71.52,
-      "precoDe": 89.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:14:32.062Z"
-    },
-    {
-      "id": "48229",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Lg 24 Fullhd 144hz 1ms Ips 24u411b",
-      "link": "https://meli.la/1DuKNFa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_716109-MLA116904882506_092026-P.webp",
-      "preco": 473.84000000000003,
-      "precoDe": 899,
-      "desconto": 41,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:13:13.754Z"
-    },
-    {
-      "id": "48227",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 12 Pares Meia Lupo Soquete Invisível",
-      "link": "https://meli.la/1wyJdPo",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_773481-MLB114696557723_072026-P.webp",
-      "preco": 52.31,
-      "precoDe": 220.72,
-      "desconto": 66,
-      "cupom": "CORREQUETEM",
-      "enviadoEm": "2026-11-18T12:11:54.430Z"
-    },
-    {
-      "id": "48226",
-      "loja": "Amazon",
-      "titulo": "Smart TV LG 43\" 4K UHD NANO AI 43UN85CBPSA.AWZ",
-      "link": "https://www.amazon.com.br/dp/B0HCR619M3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51+6nVtNtsL._SL400_.jpg",
-      "preco": 1649,
-      "precoDe": 1750,
-      "desconto": 6,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:10:35.678Z"
     }
   ]
 }
