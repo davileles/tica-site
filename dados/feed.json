@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T14:36:39.672Z",
+  "atualizadoEm": "2026-11-20T14:57:42.892Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49588",
+      "loja": "Shopee",
+      "titulo": "Lavadora de Alta Pressão a bateria Einhell 24 Bar 18V HYPRESSO 18/24-1 - opção com e sem bateria",
+      "link": "https://s.shopee.com.br/9V3BvQ6tVZ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-msvce0a7dmvb1b_tn",
+      "preco": 551.9,
+      "precoDe": 620.11,
+      "desconto": 11,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:47:42.889Z"
+    },
+    {
+      "id": "49587",
+      "loja": "Shopee",
+      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
+      "link": "https://s.shopee.com.br/2BGbBtnMON",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
+      "preco": 13.47,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:47:07.652Z"
+    },
     {
       "id": "49582",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-11-17T18:19:31.369Z"
-    },
-    {
-      "id": "48036",
-      "loja": "Amazon",
-      "titulo": "Cosco Kids, Cadeira de Refeição Portátil Pop, Bege",
-      "link": "https://www.amazon.com.br/dp/B07BZBPF4L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41KtmmHeU9L._SL400_.jpg",
-      "preco": 186,
-      "precoDe": 288.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:17:04.211Z"
-    },
-    {
-      "id": "48033",
-      "loja": "Amazon",
-      "titulo": "Mentos Clear Breath Peppermint Pastilhas Sem Açúcar Sabor Menta - 105g | 150 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09TB86CKS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41h+KsIf8YL._SL400_.jpg",
-      "preco": 17.99,
-      "precoDe": 29.94,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:15:26.562Z"
     }
   ]
 }
