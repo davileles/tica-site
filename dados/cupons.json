@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T14:45:11.366Z",
+  "atualizadoEm": "2026-11-20T15:15:12.863Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2043,18 +2043,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BEBESPETS1911",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-20T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AVENGERS15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2064,6 +2052,30 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-21T13:51:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTO2011",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-21T15:00:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRO2011",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-21T15:00:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2679,18 +2691,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
-      "codigo": "P1XDAY15AF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 699,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T15:00:41.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "M3LH0RCUP0M50",
       "loja": "Shopee",
       "tipo": "reais",
@@ -2700,18 +2700,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-20T17:17:44.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "S3U4CH4D1NH0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T15:01:02.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
@@ -2727,15 +2715,15 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "P4N3TTON310OFF",
+      "codigo": "V41C0MPR4R",
       "loja": "Shopee",
       "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
+      "valor": 20,
+      "minimo": 60,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-20T15:00:16.000Z",
+      "observacao": null,
+      "validadeAte": "2026-11-21T15:00:31.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
