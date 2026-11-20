@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-20T18:36:06.419Z",
+  "atualizadoEm": "2026-11-20T18:45:11.058Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49696",
+      "loja": "Shopee",
+      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
+      "link": "https://s.shopee.com.br/60TK0wckz9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
+      "preco": 54.48,
+      "precoDe": 78.96,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:40:04.191Z"
+    },
     {
       "id": "49691",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 26,
       "cupom": "BOASOFERTAS",
       "enviadoEm": "2026-11-17T22:35:00.330Z"
-    },
-    {
-      "id": "48131",
-      "loja": "Amazon",
-      "titulo": "Beefeater Gin Pink 700 Ml",
-      "link": "https://www.amazon.com.br/dp/B0763W2SN6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Qcw8Y+sqL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 123.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T22:16:41.134Z"
     }
   ]
 }
