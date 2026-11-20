@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T18:13:16.075Z",
+  "atualizadoEm": "2026-11-20T18:36:06.419Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49691",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto A Bateria 3/4 Milwaukee 2864-259",
+      "link": "https://meli.la/1dqA2yJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994971-MLA97119501967_112025-F.jpg",
+      "preco": 8002,
+      "precoDe": 9110,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:26:06.417Z"
+    },
+    {
+      "id": "49690",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml | Refrescante, leve e aromático, com sabor marcante de Moscato.",
+      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
+      "preco": 27.87,
+      "precoDe": 36.9,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:21:24.935Z"
+    },
+    {
+      "id": "49689",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S Pink 700Ml",
+      "link": "https://www.amazon.com.br/dp/B071RN67DQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V2ARC3JTL._SL400_.jpg",
+      "preco": 45.99,
+      "precoDe": 78.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:19:37.362Z"
+    },
+    {
+      "id": "49688",
+      "loja": "Shopee",
+      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
+      "link": "https://s.shopee.com.br/4fxwP38yac",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
+      "preco": 339.9,
+      "precoDe": 693.67,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T18:19:08.657Z"
+    },
     {
       "id": "49682",
       "loja": "Mercado Livre",
@@ -5953,54 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-17T22:16:41.134Z"
-    },
-    {
-      "id": "48127",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Gamer Phillips 24 Evnia Ips 144hz 0.5ms Wide Fullhd Preto 127/220v",
-      "link": "https://meli.la/2CNfb2o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_774386-MLA109634002575_032026-F.jpg",
-      "preco": 429,
-      "precoDe": 1049,
-      "desconto": 55,
-      "cupom": "OFFHOJEMELI",
-      "enviadoEm": "2026-11-17T22:00:57.348Z"
-    },
-    {
-      "id": "48126",
-      "loja": "Amazon",
-      "titulo": "Johnnie Walker - Whisky Blue Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B007QR1NK6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lEUSy1rmL._SL400_.jpg",
-      "preco": 989.9,
-      "precoDe": 1670.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T21:48:09.216Z"
-    },
-    {
-      "id": "48125",
-      "loja": "Amazon",
-      "titulo": "Licor de whisky com canela Fireball – 750ml | Fireball Cinnamon Whisky Licor, whisky canadense com canela real, 33% vol, 750ml, marca de shot nº 1 da América! Sirva gelado",
-      "link": "https://www.amazon.com.br/dp/B004CYZ7ZI?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 89.99,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T21:45:53.811Z"
-    },
-    {
-      "id": "48123",
-      "loja": "Shopee",
-      "titulo": "Termômetro De Testa Infravermelha Digital",
-      "link": "https://s.shopee.com.br/9V37a2DG6O",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lycomxmsjbc571_tn",
-      "preco": 24.88,
-      "precoDe": 118.48,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T21:25:06.789Z"
     }
   ]
 }
