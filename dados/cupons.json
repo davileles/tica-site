@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T18:13:17.980Z",
+  "atualizadoEm": "2026-11-20T18:36:08.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -447,15 +447,15 @@
       "url": null
     },
     {
-      "codigo": "PEGABLACK",
+      "codigo": "LANCHOUBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Cupons válidos em restaurantes",
-      "validadeAte": "2026-11-20T18:30:55.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Valor padrão: R$ 12 OFF em compras a partir de R$ 27 em restaurantes.",
+      "validadeAte": "2026-11-21T18:30:17.000Z",
       "url": null
     },
     {
