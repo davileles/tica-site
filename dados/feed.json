@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-20T14:16:11.056Z",
+  "atualizadoEm": "2026-11-20T14:36:39.672Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49582",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Alicates Para Anéis R28002104 4 Peças Gedore",
+      "link": "https://meli.la/1MTboPd",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729438-MLA99964935539_112025-F.jpg",
+      "preco": 141.49,
+      "precoDe": 198.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:26:39.669Z"
+    },
+    {
+      "id": "49580",
+      "loja": "Shopee",
+      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
+      "link": "https://s.shopee.com.br/1gKKZXGkdH",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
+      "preco": 27.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:26:05.524Z"
+    },
+    {
+      "id": "49578",
+      "loja": "Shopee",
+      "titulo": "Kit Potes Herméticos Organizador de Geladeira Legumes Frutas Com Cesto Removível",
+      "link": "https://s.shopee.com.br/2gCrl2cxPf",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ap-mr6baq9qnkzrc6_tn",
+      "preco": 34.9,
+      "precoDe": 75.87,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:21:43.660Z"
+    },
+    {
+      "id": "49576",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray Royale Dark Berry 700ml",
+      "link": "https://www.amazon.com.br/dp/B0B1933NPW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/417Or1Ziq7L._SL400_.jpg",
+      "preco": 69.99,
+      "precoDe": 136.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T14:20:29.552Z"
+    },
     {
       "id": "49569",
       "loja": "BELEZA NA WEB",
@@ -5953,54 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-17T18:15:26.562Z"
-    },
-    {
-      "id": "48032",
-      "loja": "Shopee",
-      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga à Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
-      "link": "https://s.shopee.com.br/3LSU1Zi1Wx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
-      "preco": 30.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:14:01.719Z"
-    },
-    {
-      "id": "48026",
-      "loja": "Amazon",
-      "titulo": "Mala de Viagem Samsonite Fiero 3.0 Spinner com Cadeado TSA",
-      "link": "https://www.amazon.com.br/dp/B0DMXFCF9W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31OKOaDavyL._SL400_.jpg",
-      "preco": 499,
-      "precoDe": 1000,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:05:51.986Z"
-    },
-    {
-      "id": "48025",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, Fácil de Vestir, 60 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0865S7GVY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51e1jBmeZ9L._SL400_.jpg",
-      "preco": 90.62,
-      "precoDe": 146.23,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:04:29.251Z"
-    },
-    {
-      "id": "48024",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, Fácil de Vestir, 66 Unidades",
-      "link": "https://www.amazon.com.br/dp/B086GP4FW7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51txzPfnwfL._SL400_.jpg",
-      "preco": 90.62,
-      "precoDe": 146.23,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T18:03:55.105Z"
     }
   ]
 }
