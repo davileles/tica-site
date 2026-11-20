@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-19T23:06:07.516Z",
+  "atualizadoEm": "2026-11-20T11:17:55.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49441",
+      "loja": "Mercado Livre",
+      "titulo": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personalização de Som via Ap",
+      "link": "https://meli.la/2fBFuE7",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
+      "preco": 129,
+      "precoDe": 299,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T11:07:55.391Z"
+    },
+    {
+      "id": "49440",
+      "loja": "Shopee",
+      "titulo": "Mini Caixa de Som Bluetooth Karaokê Portátil Divertida Disponível 1 Microfone ou 2 Microfones Sem Fio",
+      "link": "https://s.shopee.com.br/6q2QVK5e81",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261m-mkj091yi7w1yb2_tn",
+      "preco": 28.99,
+      "precoDe": 53.69,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T11:06:31.757Z"
+    },
+    {
+      "id": "49438",
+      "loja": "Mercado Livre",
+      "titulo": "Camisa Fluminense Puma Masculina Jogo Partida 2026",
+      "link": "https://meli.la/2kzyYSU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729468-MLB114597193419_072026-P.webp",
+      "preco": 245.65,
+      "precoDe": 369.99,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T11:03:18.895Z"
+    },
+    {
+      "id": "49436",
+      "loja": "Shopee",
+      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "link": "https://s.shopee.com.br/20xAk4pHP2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mv7qrwedl8n5f6_tn",
+      "preco": 34.57,
+      "precoDe": 50.1,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T11:01:29.673Z"
+    },
     {
       "id": "49424",
       "loja": "Mercado Livre",
@@ -4083,18 +4131,6 @@
       "enviadoEm": "2026-11-18T14:02:14.445Z"
     },
     {
-      "id": "48373",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personalização de Som via Ap",
-      "link": "https://meli.la/2fBFuE7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-      "preco": 129,
-      "precoDe": 299,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T14:00:11.560Z"
-    },
-    {
       "id": "48372",
       "loja": "Amazon",
       "titulo": "BUBA Colher Dosadora Rosa",
@@ -5965,42 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-11-17T16:37:12.687Z"
-    },
-    {
-      "id": "47930",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho XG 60 Unidades",
-      "link": "https://meli.la/2ziQxF6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_845267-MLA99924817351_112025-F.jpg",
-      "preco": 96.91,
-      "precoDe": 141.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:35:54.528Z"
-    },
-    {
-      "id": "47929",
-      "loja": "Amazon",
-      "titulo": "BIC Aparelho De Depilar Soleil Rosa E Roxo Com Fita Lubrificante De Óleo De Coco 919463 2 Unidades",
-      "link": "https://www.amazon.com.br/dp/B00YAIOPTU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41v6JgOFuYL._SL400_.jpg",
-      "preco": 9.58,
-      "precoDe": 17.1,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:35:27.115Z"
-    },
-    {
-      "id": "47928",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Premium Care Tamanho G 68 Unidades",
-      "link": "https://meli.la/1aH5PWG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_945996-MLA99928128267_112025-F.jpg",
-      "preco": 96.91,
-      "precoDe": 141.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T16:34:08.050Z"
     }
   ]
 }
