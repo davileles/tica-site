@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-20T17:15:11.058Z",
+  "atualizadoEm": "2026-11-20T17:29:07.152Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49657",
+      "loja": "Amazon",
+      "titulo": "L’Oréal Professionnel Shampoo Absolut Repair Molecular, Repara Danos e Restaura Todos os Tipos de Cabelos Danificados, Sem Sulfato, SERIE EXPERT, 300ml",
+      "link": "https://www.amazon.com.br/dp/B0CBV5QR1C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41yppY50y6L._SL400_.jpg",
+      "preco": 138.99,
+      "precoDe": 202,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T17:19:07.148Z"
+    },
+    {
+      "id": "49654",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável Removedor De Pelos Navalha Dupla Sem Fio Portátil Para Pernas Axilas E Corpo",
+      "link": "https://s.shopee.com.br/1C6m8ltFn",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j4-mptr1pbcopohf6_tn",
+      "preco": 24.99,
+      "precoDe": 99.96,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-11-20T17:15:57.511Z"
+    },
     {
       "id": "49648",
       "loja": "Mercado Livre",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-17T20:05:07.612Z"
-    },
-    {
-      "id": "48097",
-      "loja": "Shopee",
-      "titulo": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
-      "link": "https://s.shopee.com.br/1W0pxVrDPP",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ac-mg5y351q9r7z3c_tn",
-      "preco": 42.99,
-      "precoDe": 116.19,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-17T20:00:18.875Z"
-    },
-    {
-      "id": "48093",
-      "loja": "Amazon",
-      "titulo": "WAP Air Fryer Barbecue Flame Digital AB1050 8 em 1, 127V | Possui Função Barbecue com 4 níveis de grelha",
-      "link": "https://www.amazon.com.br/dp/B0GXX1GVQ6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RuhBixDIL._SL400_.jpg",
-      "preco": 594.15,
-      "precoDe": 999.9,
-      "desconto": 30,
-      "cupom": "BLACKPRIME15",
-      "enviadoEm": "2026-11-17T19:50:23.212Z"
     }
   ]
 }
