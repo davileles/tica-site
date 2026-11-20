@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T17:05:01.427Z",
+  "atualizadoEm": "2026-11-20T17:29:09.461Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2127,6 +2127,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "M3LH0RCUP0M50",
+      "loja": "não especificada",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Apenas código fornecido, sem contexto de loja ou restrições",
+      "validadeAte": "2026-11-21T17:19:53.000Z",
+      "url": null
+    },
+    {
       "codigo": "WELCOME15",
       "loja": "Oceane",
       "tipo": "pct",
@@ -2701,18 +2713,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "M3LH0RCUP0M50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-20T17:17:44.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "NOVTOP10",
