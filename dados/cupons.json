@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T01:37:07.028Z",
+  "atualizadoEm": "2026-11-21T03:07:07.064Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,30 +25,6 @@
       "observacao": "20% OFF adicional em compras, limitado a R$ 400 de desconto",
       "validadeAte": "2026-11-21T21:06:33.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "MEGABLASTBF",
-      "loja": "ASICS",
-      "tipo": "reais",
-      "valor": 139999,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
-    },
-    {
-      "codigo": "GTBF",
-      "loja": "ASICS",
-      "tipo": "reais",
-      "valor": 59999,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-21T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=23659&id=1207116"
     },
     {
       "codigo": "AMEND30",
@@ -541,18 +517,6 @@
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-11-21T20:47:22.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TODO2011SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_4: O cupom não está disponível.",
-      "validadeAte": "2026-11-21T03:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "GRAND100MP",
@@ -1911,27 +1875,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "FULL2011",
+      "codigo": "OFICIAIS2111",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 159,
+      "minimo": 89,
       "maximo": null,
-      "limite": 40,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-21T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MPNANOITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 85,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-21T03:00:16.000Z",
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-22T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
