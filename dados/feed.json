@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T13:26:02.108Z",
+  "atualizadoEm": "2026-11-21T13:30:58.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49942",
+      "loja": "Amazon",
+      "titulo": "GLOSS FRAN BY FRANCINY EHLKE LIPHONEY",
+      "link": "https://www.amazon.com.br/dp/B0DS692QJR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41PNV02KglL._SL400_.jpg",
+      "preco": 15.99,
+      "precoDe": 69.9,
+      "desconto": 77,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T13:26:40.098Z"
+    },
     {
       "id": "49934",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-18T14:02:14.445Z"
-    },
-    {
-      "id": "48372",
-      "loja": "Amazon",
-      "titulo": "BUBA Colher Dosadora Rosa",
-      "link": "https://www.amazon.com.br/dp/B09WTJ7NN8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31wVIocC6VL._SL400_.jpg",
-      "preco": 25.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T13:58:53.844Z"
     }
   ]
 }
