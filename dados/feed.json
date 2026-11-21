@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-21T19:52:47.425Z",
+  "atualizadoEm": "2026-11-21T20:09:47.889Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50054",
+      "loja": "Amazon",
+      "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34H, IP68, Áudio Lossless Preta",
+      "link": "https://www.amazon.com.br/dp/B0H127L18H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31J-cavJdYL._SL400_.jpg",
+      "preco": 1996.65,
+      "precoDe": 3199,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:05:55.199Z"
+    },
+    {
+      "id": "50053",
+      "loja": "Shopee",
+      "titulo": "Hilee Garrafa Térmica 304 Inox Free Sip com Canudo, Tampa Dupla, Anti Vazamento, Portátil",
+      "link": "https://s.shopee.com.br/2qWJvlYDlh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mod1j3vq2mf722_tn",
+      "preco": 74,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:03:49.206Z"
+    },
     {
       "id": "50049",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 19,
       "cupom": null,
       "enviadoEm": "2026-11-18T16:47:48.213Z"
-    },
-    {
-      "id": "48485",
-      "loja": "Mercado Livre",
-      "titulo": "Philips Aparador e Barbeador Elétrico All-in-One Série 3000 12 em 1 12 acessórios para o visual completo | Lâminas com pontas arredondadas | 60 min sem fio | MG3921/15 MG3921/15",
-      "link": "https://meli.la/2UBaCkn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608894-MLA115895780710_092026-F.jpg",
-      "preco": 189.9,
-      "precoDe": 262.37,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:46:33.300Z"
-    },
-    {
-      "id": "48483",
-      "loja": "Amazon",
-      "titulo": "Notebook Gamer Lenovo LOQ IRX9 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
-      "link": "https://www.amazon.com.br/dp/B0GQJM9NJK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pAxtXsTiL._SL400_.jpg",
-      "preco": 4699,
-      "precoDe": 6199,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:44:31.448Z"
     }
   ]
 }
