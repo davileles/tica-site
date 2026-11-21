@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T00:08:07.055Z",
+  "atualizadoEm": "2026-11-21T00:37:07.104Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -361,18 +361,6 @@
       "observacao": null,
       "validadeAte": "2026-11-21T21:50:04.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
-    },
-    {
-      "codigo": "TESTE",
-      "loja": "Dafiti",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-21T00:14:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
     },
     {
       "codigo": "CUPOMDESCONTO70",
