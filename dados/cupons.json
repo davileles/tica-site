@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T17:40:49.442Z",
+  "atualizadoEm": "2026-11-21T18:09:50.177Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -387,18 +387,6 @@
       "url": null
     },
     {
-      "codigo": "DESPENSABF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto em pedidos do Mercado no iFood",
-      "validadeAte": "2026-11-21T18:00:14.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFALIVIO",
       "loja": "iFood",
       "tipo": "reais",
@@ -420,6 +408,18 @@
       "limite": null,
       "observacao": "Válido para Pet Shops",
       "validadeAte": "2026-11-22T14:04:43.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CESTAOBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Mercado",
+      "validadeAte": "2026-11-22T18:00:14.000Z",
       "url": null
     },
     {
@@ -543,18 +543,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODO2111SITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -564,6 +552,18 @@
       "limite": null,
       "observacao": "Último cupom exclusivo para Meli+",
       "validadeAte": "2026-11-22T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TUDOCASA2111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-22T18:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2019,18 +2019,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CASA2111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 45,
-      "observacao": null,
-      "validadeAte": "2026-11-22T15:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ELETROTECHML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2040,6 +2028,18 @@
       "limite": 200,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS2111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-22T18:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
