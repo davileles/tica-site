@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T15:02:27.840Z",
+  "atualizadoEm": "2026-11-21T17:26:47.199Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2017,18 +2017,6 @@
       "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
       "validadeAte": "2026-11-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "M3LH0RCUP0M50",
-      "loja": "não especificada",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Apenas código fornecido, sem contexto de loja ou restrições",
-      "validadeAte": "2026-11-21T17:19:53.000Z",
-      "url": null
     },
     {
       "codigo": "WELCOME15",
