@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T12:53:23.930Z",
+  "atualizadoEm": "2026-11-21T13:00:58.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49921",
+      "loja": "Shopee",
+      "titulo": "5 Em 1 Fonte De Energia Carregador Turbo USB-A+USB-C Carregamento rápido 176W",
+      "link": "https://s.shopee.com.br/1W0vrrTQzu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mud9yeytq5moc6_tn",
+      "preco": 39.9,
+      "precoDe": 90.68,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T12:55:05.135Z"
+    },
     {
       "id": "49917",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 35,
       "cupom": "CORREHOJEPROML",
       "enviadoEm": "2026-11-18T13:54:02.307Z"
-    },
-    {
-      "id": "48367",
-      "loja": "Shopee",
-      "titulo": "Colágeno Hidrolisado Verisol Premium Original com Vitamina C - 60 Cápsulas - Envio Rápido",
-      "link": "https://s.shopee.com.br/6q2NUxn9kD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkhm3wjpu0dj23_tn",
-      "preco": 26.9,
-      "precoDe": 122.27,
-      "desconto": 78,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T13:52:48.580Z"
     }
   ]
 }
