@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T17:26:47.199Z",
+  "atualizadoEm": "2026-11-21T17:40:49.442Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,6 +24,18 @@
       "limite": 400,
       "observacao": "20% OFF adicional em compras, limitado a R$ 400 de desconto",
       "validadeAte": "2026-11-21T21:06:33.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SABADO10OFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-22T15:01:05.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -243,18 +255,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "VEMBLACK",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-25T02:59:59.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
       "codigo": "MAISKIDS",
       "loja": "C&A",
       "tipo": "pct",
@@ -276,6 +276,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
+      "codigo": "VEMBLACK",
+      "loja": "C&A",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": 0,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-25T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
@@ -517,6 +529,18 @@
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-11-21T20:47:22.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TECH2111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 1599,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-22T15:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODOOSITE",
@@ -1992,6 +2016,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA2111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 45,
+      "observacao": null,
+      "validadeAte": "2026-11-22T15:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
