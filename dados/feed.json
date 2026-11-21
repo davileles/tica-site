@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T22:09:47.892Z",
+  "atualizadoEm": "2026-11-21T22:20:06.710Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50106",
+      "loja": "Shopee",
+      "titulo": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "link": "https://s.shopee.com.br/3qOrGGxsY7",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d_tn",
+      "preco": 31.99,
+      "precoDe": 58.16,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T22:10:06.707Z"
+    },
     {
       "id": "50105",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-18T17:58:27.356Z"
-    },
-    {
-      "id": "48536",
-      "loja": "Mercado Livre",
-      "titulo": "Cadeira de Refeição Cosco Kids, Convertty, 8 em 1, Cinza",
-      "link": "https://meli.la/2wSBTpx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_760951-MLA99456768826_112025-F.jpg",
-      "preco": 481.46,
-      "precoDe": 799,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:55:27.897Z"
     }
   ]
 }
