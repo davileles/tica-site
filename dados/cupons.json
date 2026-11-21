@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T12:31:00.560Z",
+  "atualizadoEm": "2026-11-21T12:53:25.778Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,15 +519,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "GRAND100MP",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
-      "minimo": 449,
+      "minimo": 999,
       "maximo": null,
-      "limite": null,
-      "observacao": "Válido na lista específica do link fornecido",
-      "validadeAte": "2026-11-21T16:30:17.000Z",
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1791,18 +1791,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 119,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SHOWDEPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1923,18 +1911,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIMAIS2111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Último cupom exclusivo para Meli+",
-      "validadeAte": "2026-11-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1983,18 +1959,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-22T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2040,54 +2004,6 @@
       "limite": 30,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-21T13:51:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTO2011",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-21T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRO2011",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-21T15:00:08.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FULL2011ENTREGAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-21T18:00:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MOVEIS2011",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-21T18:00:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
