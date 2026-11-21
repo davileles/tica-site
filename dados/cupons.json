@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T13:26:04.598Z",
+  "atualizadoEm": "2026-11-21T14:01:00.548Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -361,18 +361,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
-    },
-    {
-      "codigo": "SHOPBLACK",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Shoppings",
-      "validadeAte": "2026-11-21T14:00:25.000Z",
-      "url": null
     },
     {
       "codigo": "BLACKFARMA",
@@ -1992,18 +1980,6 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AVENGERS15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-21T13:51:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
