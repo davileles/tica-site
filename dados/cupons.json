@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T14:12:13.302Z",
+  "atualizadoEm": "2026-11-21T15:02:27.840Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2605,18 +2605,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "V41C0MPR4R",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 60,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-21T15:00:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
