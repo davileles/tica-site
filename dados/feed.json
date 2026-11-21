@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T21:59:02.881Z",
+  "atualizadoEm": "2026-11-21T22:09:47.892Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50105",
+      "loja": "Amazon",
+      "titulo": "Stanley - Garrafa Térmica AeroLight Transit, garrafa isolada em vácuo para café, chá e bebidas, em aço inoxidável leve, 354ml, Cream",
+      "link": "https://www.amazon.com.br/dp/B0F62GR5MM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21wnFGqRgiL._SL400_.jpg",
+      "preco": 119.5,
+      "precoDe": 219,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T22:05:29.054Z"
+    },
     {
       "id": "50100",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-18T17:55:27.897Z"
-    },
-    {
-      "id": "48535",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec G com 92 Unidades",
-      "link": "https://meli.la/1ox7mVE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_721977-MLB109274901842_042026-P.webp",
-      "preco": 90.64,
-      "precoDe": 133.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:54:59.002Z"
     }
   ]
 }
