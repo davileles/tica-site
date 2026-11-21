@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-21T17:40:47.889Z",
+  "atualizadoEm": "2026-11-21T18:09:47.888Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50011",
+      "loja": "Mercado Livre",
+      "titulo": "Base Líquida Matte Abcify Alta Cobertura Tom Médio Toque Seco Controle de Oleosidade Longa Duração 12h",
+      "link": "https://meli.la/2D3cCSV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_783230-MLA119062134366_112026-F.jpg",
+      "preco": 37.8,
+      "precoDe": 139,
+      "desconto": 61,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:04:37.702Z"
+    },
+    {
+      "id": "50009",
+      "loja": "Mercado Livre",
+      "titulo": "️ Whey Protein Dux Human Health Smoothie 900g",
+      "link": "https://meli.la/1V97rCD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_912978-MLA106726243986_022026-P.webp",
+      "preco": 184,
+      "precoDe": 357,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:01:22.395Z"
+    },
+    {
+      "id": "50007",
+      "loja": "Amazon",
+      "titulo": "Bombom NESTLÉ Especialidades Caixa 220g",
+      "link": "https://www.amazon.com.br/dp/B0GFGBVRLK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xUsrAPzFL._SL400_.jpg",
+      "preco": 12.9,
+      "precoDe": 18.89,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T17:58:59.338Z"
+    },
+    {
+      "id": "50006",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/8pnWw3soNY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T17:57:28.628Z"
+    },
+    {
+      "id": "50005",
+      "loja": "Amazon",
+      "titulo": "Prendedor Compact com 12 Peças, LAV6858, Flash Limp",
+      "link": "https://www.amazon.com.br/dp/B0779L4CLZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41vur+6dMeL._SL400_.jpg",
+      "preco": 5.91,
+      "precoDe": 12.88,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T17:56:05.130Z"
+    },
+    {
+      "id": "50002",
+      "loja": "Mercado Livre",
+      "titulo": "Máscara de Cílios Payot Boca Rosa Preta Volume Instantâneo",
+      "link": "https://meli.la/2qSR6GZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775812-MLA97120768966_112025-F.jpg",
+      "preco": 19,
+      "precoDe": 39.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T17:51:20.755Z"
+    },
+    {
+      "id": "49999",
+      "loja": "Amazon",
+      "titulo": "Fone de ouvido sem fio Lenovo E310",
+      "link": "https://www.amazon.com.br/dp/B0DJH3FC1V?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21A9esnjGYL._SL400_.jpg",
+      "preco": 130.66,
+      "precoDe": 149,
+      "desconto": 12,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T17:44:55.152Z"
+    },
+    {
+      "id": "49997",
+      "loja": "Amazon",
+      "titulo": "Real Steel Martelo de chapa metálica 325 ml martelo de ferreiro para modelagem de metal, projetos HVAC 0552",
+      "link": "https://www.amazon.com.br/dp/B0CLXLXVSD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31MbpwT8nUL._SL400_.jpg",
+      "preco": 41.42,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-21T17:41:07.565Z"
+    },
     {
       "id": "49988",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-18T16:16:13.097Z"
-    },
-    {
-      "id": "48458",
-      "loja": "Amazon",
-      "titulo": "Fisher-Price Brinquedo para Bebês Girafa com Blocos para crianças a partir de 6 meses",
-      "link": "https://www.amazon.com.br/dp/B00008PW0J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ODYeAiXfL._SL400_.jpg",
-      "preco": 102.25,
-      "precoDe": 179.99,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:15:45.477Z"
-    },
-    {
-      "id": "48457",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
-      "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hZ7-bHQiL._SL400_.jpg",
-      "preco": 399.9,
-      "precoDe": 899.9,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:15:17.279Z"
-    },
-    {
-      "id": "48451",
-      "loja": "Amazon",
-      "titulo": "Protetor Solar Facial Anasol FPS 70 Clareador 60g | Alta proteção FPS 70 com ação clareadora que ajuda a uniformizar o tom da pele e prevenir o aparecimento de manchas.",
-      "link": "https://www.amazon.com.br/dp/B08B5GFHZN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31rRmcrNFBL._SL400_.jpg",
-      "preco": 29.99,
-      "precoDe": 47.84,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:02:31.377Z"
-    },
-    {
-      "id": "48446",
-      "loja": "Shopee",
-      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "link": "https://s.shopee.com.br/80EL1oTS1c",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lqywie4_tn",
-      "preco": 65.99,
-      "precoDe": 77.64,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:00:03.159Z"
-    },
-    {
-      "id": "48443",
-      "loja": "Amazon",
-      "titulo": "Óculos de Sol Ray-Ban New Aviator RB3625 Unissex, Dourado, Tamanho 58",
-      "link": "https://www.amazon.com.br/dp/B0CJVK63T5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21eBpQPz8DL._SL400_.jpg",
-      "preco": 575.9,
-      "precoDe": 990,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:54:30.733Z"
-    },
-    {
-      "id": "48442",
-      "loja": "Amazon",
-      "titulo": "Armação para Óculos Ray-Ban RX5418 Unissex, Cinza, Tamanho 54",
-      "link": "https://www.amazon.com.br/dp/B0BWL5CFVS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21xoNsQuyKL._SL400_.jpg",
-      "preco": 369.9,
-      "precoDe": 870,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:53:17.322Z"
-    },
-    {
-      "id": "48440",
-      "loja": "Amazon",
-      "titulo": "Óculos de Sol Ray-Ban Aviator Large Metal RB3025 Unissex, Dourado, Tamanho 62",
-      "link": "https://www.amazon.com.br/dp/B015H827S2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Fcqf7TdIL._SL400_.jpg",
-      "preco": 515.9,
-      "precoDe": 950,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:52:01.510Z"
-    },
-    {
-      "id": "48439",
-      "loja": "Amazon",
-      "titulo": "Armação para Óculos Ray-Ban RX7033L Feminino, Havana, Tamanho 54",
-      "link": "https://www.amazon.com.br/dp/B084H338JN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ukbgxi2qL._SL400_.jpg",
-      "preco": 279.9,
-      "precoDe": 620,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:50:41.379Z"
     }
   ]
 }
