@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-21T14:00:58.873Z",
+  "atualizadoEm": "2026-11-21T14:12:10.920Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49985",
+      "loja": "Amazon",
+      "titulo": "AB Brasil Achocolatado Com Flocos Crocantes Ovomaltine 600G",
+      "link": "https://www.amazon.com.br/dp/B07YBPJ8FG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41pJTZeaD0L._SL400_.jpg",
+      "preco": 26.08,
+      "precoDe": 40.65,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T14:08:51.140Z"
+    },
+    {
+      "id": "49983",
+      "loja": "Mercado Livre",
+      "titulo": "Prancha Alisadora De Cabelos Ppr08 Ceramic Black Philco Cor Preto",
+      "link": "https://meli.la/1E73TAy",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884406-MLA116904865898_092026-F.jpg",
+      "preco": 48.66,
+      "precoDe": 87.88,
+      "desconto": 21,
+      "cupom": "ESPECIAL",
+      "enviadoEm": "2026-11-21T14:07:38.178Z"
+    },
+    {
+      "id": "49980",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
+      "link": "https://meli.la/18mBxV5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787808-MLA109215385620_042026-F.jpg",
+      "preco": 25.99,
+      "precoDe": 39.9,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T14:04:33.867Z"
+    },
+    {
+      "id": "49974",
+      "loja": "Shopee",
+      "titulo": "Colchonete p/ Academia Premium 90x40x3 cm Espuma Macia D23 Impermeável Compacto Fit Mat Yoga Pilates",
+      "link": "https://s.shopee.com.br/W8OkYcSID",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzjhnmdxayw586_tn",
+      "preco": 28.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T14:01:01.716Z"
+    },
     {
       "id": "49971",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-18T15:49:21.102Z"
-    },
-    {
-      "id": "48437",
-      "loja": "Amazon",
-      "titulo": "Óculos de Sol Ray-Ban Aviator RB3025L Unissex, Dourado, Tamanho 58",
-      "link": "https://www.amazon.com.br/dp/B01G8LCHIM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21leriVX6-L._SL400_.jpg",
-      "preco": 345,
-      "precoDe": 1000,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:48:08.307Z"
-    },
-    {
-      "id": "48436",
-      "loja": "Amazon",
-      "titulo": "Óculos de Sol Ray-Ban Aviator RB3025L Unissex, Dourado, Tamanho 58",
-      "link": "https://www.amazon.com.br/dp/B01G8LC44O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21UJhwi4UAL._SL400_.jpg",
-      "preco": 345,
-      "precoDe": 940,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:46:55.686Z"
-    },
-    {
-      "id": "48433",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Sweet Red 750ml",
-      "link": "https://www.amazon.com.br/dp/B07XLMFLFH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/311X9CEzTTL._SL400_.jpg",
-      "preco": 20.6,
-      "precoDe": 36.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:45:45.667Z"
-    },
-    {
-      "id": "48430",
-      "loja": "Shopee",
-      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
-      "link": "https://s.shopee.com.br/20x7rLQAOI",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
-      "preco": 17.26,
-      "precoDe": 35.96,
-      "desconto": 52,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T15:38:35.705Z"
     }
   ]
 }
