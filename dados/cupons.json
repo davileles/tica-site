@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T13:05:05.416Z",
+  "atualizadoEm": "2026-11-21T13:26:04.598Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "SABADO40OFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-22T13:06:45.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "20BF26PRIME",
       "loja": "Amazon",
@@ -1971,18 +1983,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODASEMPREML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "INSTRUMENTOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2628,18 +2628,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-21T15:00:31.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "PR4BL4CKFR1D4Y",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 59,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-21T13:05:27.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
