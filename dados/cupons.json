@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T14:01:00.548Z",
+  "atualizadoEm": "2026-11-21T14:12:13.302Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -396,6 +396,18 @@
       "limite": null,
       "observacao": "Desconto válido em Farmácias no iFood",
       "validadeAte": "2026-11-21T19:01:16.000Z",
+      "url": null
+    },
+    {
+      "codigo": "AUAUBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 100,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para Pet Shops",
+      "validadeAte": "2026-11-22T14:04:43.000Z",
       "url": null
     },
     {
