@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-21T12:53:25.778Z",
+  "atualizadoEm": "2026-11-21T13:01:00.648Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "CUPOM100OFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
-      "validadeAte": "2026-11-21T13:00:03.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "20BF26PRIME",
       "loja": "Amazon",
