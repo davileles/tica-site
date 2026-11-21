@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-21T21:09:47.891Z",
+  "atualizadoEm": "2026-11-21T21:37:55.128Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50096",
+      "loja": "Shopee",
+      "titulo": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "link": "https://s.shopee.com.br/4B1hbzYSwu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a_tn",
+      "preco": 65.03,
+      "precoDe": 92.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T21:27:55.126Z"
+    },
+    {
+      "id": "50095",
+      "loja": "Mercado Livre",
+      "titulo": "Liquidificador Philips Walita 600w 2 Velocidade Tritura Gelo Preto",
+      "link": "https://meli.la/1ULJ957",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984452-MLA99443801248_112025-F.jpg",
+      "preco": 89.29,
+      "precoDe": 159.9,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T21:24:38.620Z"
+    },
+    {
+      "id": "50094",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Fila Spry Masculino Original Academia Confortável",
+      "link": "https://meli.la/1WjjnuZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_927828-MLB114293125597_072026-P.webp",
+      "preco": 170.99,
+      "precoDe": 559.99,
+      "desconto": 66,
+      "cupom": "HOJENOMELI10",
+      "enviadoEm": "2026-11-21T21:22:58.103Z"
+    },
+    {
+      "id": "50093",
+      "loja": "Amazon",
+      "titulo": "TEKTON Conjunto de soquete e catraca de 6 pontos, 46 peças (5/16-3/4 pol., 8-19 mm) SKT15301",
+      "link": "https://www.amazon.com.br/dp/B07P6RJXJ9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51f2R1nGTsL._SL400_.jpg",
+      "preco": 437.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-21T21:21:06.463Z"
+    },
+    {
+      "id": "50087",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Chave Torx Cabo Reta 8pçs ST09305SJ Sata Maleta",
+      "link": "https://meli.la/1AmaHuS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951716-MLA99918121975_112025-F.jpg",
+      "preco": 152.07,
+      "precoDe": 177.87,
+      "desconto": 5,
+      "cupom": "HOJENOMELI10",
+      "enviadoEm": "2026-11-21T21:12:16.740Z"
+    },
+    {
+      "id": "50082",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo Chaves Combinadas Stanley 12pçs",
+      "link": "https://meli.la/2t33kzw",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882603-MLA93507181037_092025-F.jpg",
+      "preco": 126.57999999999998,
+      "precoDe": 229,
+      "desconto": 39,
+      "cupom": "HOJENOMELI10",
+      "enviadoEm": "2026-11-21T21:10:19.519Z"
+    },
     {
       "id": "50080",
       "loja": "Mercado Livre",
@@ -5929,78 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-18T17:54:34.950Z"
-    },
-    {
-      "id": "48530",
-      "loja": "Mercado Livre",
-      "titulo": "COQUETELEIRA / SHAKER Academia BPA Free - 600ml",
-      "link": "https://meli.la/1BeQzuq",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_784857-MLA99625616614_122025-F.jpg",
-      "preco": 19.9,
-      "precoDe": 39.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:53:39.608Z"
-    },
-    {
-      "id": "48527",
-      "loja": "Shopee",
-      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
-      "link": "https://s.shopee.com.br/9V38vq8kY9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
-      "preco": 59.99,
-      "precoDe": 65.92,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:46:42.371Z"
-    },
-    {
-      "id": "48520",
-      "loja": "Amazon",
-      "titulo": "Whiskey Bourbon Americano Jim Beam Cereja 1L",
-      "link": "https://www.amazon.com.br/dp/B0DTKD3PMB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41uUF7-Gy5L._SL400_.jpg",
-      "preco": 77.89,
-      "precoDe": 129.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:26:12.153Z"
-    },
-    {
-      "id": "48519",
-      "loja": "Shopee",
-      "titulo": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
-      "link": "https://s.shopee.com.br/1LhRBODiJk",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72_tn",
-      "preco": 61.52,
-      "precoDe": 106.07,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:24:24.752Z"
-    },
-    {
-      "id": "48518",
-      "loja": "Amazon",
-      "titulo": "Caixa de Som Portátil JBL Go Essential 2, Azul, 3,1 W RMS | JBL Original Pro Sound, Bluetooth, IP67, Até 5h de Bateria, Design Ultracompacto, USB-C, Resistente à Água e Poeira",
-      "link": "https://www.amazon.com.br/dp/B0FPNTYB2L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MPlmDubtL._SL400_.jpg",
-      "preco": 153.33,
-      "precoDe": 219,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:21:29.706Z"
-    },
-    {
-      "id": "48514",
-      "loja": "Amazon",
-      "titulo": "IDIMEX Cama Infantil Solteiro Chão com Grades Montessoriana Gustavo Natural 88x188",
-      "link": "https://www.amazon.com.br/dp/B0D23NMDDJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/519PBmzp2zL._SL400_.jpg",
-      "preco": 538.99,
-      "precoDe": 599.89,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:18:38.364Z"
     }
   ]
 }
