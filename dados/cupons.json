@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T11:41:03.269Z",
+  "atualizadoEm": "2026-11-21T12:01:00.752Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -528,6 +528,30 @@
       "limite": null,
       "observacao": "Válido na lista específica do link fornecido",
       "validadeAte": "2026-11-21T16:30:17.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODO2111SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-22T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO2111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-22T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1884,6 +1908,30 @@
       "limite": 50,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-22T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2111",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-22T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIMAIS2111",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Último cupom exclusivo para Meli+",
+      "validadeAte": "2026-11-22T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
