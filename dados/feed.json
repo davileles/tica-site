@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-21T18:57:16.548Z",
+  "atualizadoEm": "2026-11-21T19:09:47.890Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50041",
+      "loja": "Mercado Livre",
+      "titulo": "Mattel Brick Shop Honda Civic EF",
+      "link": "https://meli.la/2FW21tW",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756456-MLA104984657345_012026-F.jpg",
+      "preco": 99.99,
+      "precoDe": 198.7,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T19:07:52.095Z"
+    },
+    {
+      "id": "50036",
+      "loja": "Shopee",
+      "titulo": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "link": "https://s.shopee.com.br/4LL7eBjBu2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50_tn",
+      "preco": 42.8,
+      "precoDe": 147.59,
+      "desconto": 71,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T19:00:43.486Z"
+    },
     {
       "id": "50032",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 12,
       "cupom": null,
       "enviadoEm": "2026-11-18T16:38:17.551Z"
-    },
-    {
-      "id": "48470",
-      "loja": "Amazon",
-      "titulo": "Graco Carrinho de Bebê Modes™ Pramette™ 2 em 1 Reversível, Pierce, Preto | 3 modos: Assento de carro infantil e carrinho, carrinho de bebê infantil; assento de carrinho reversível;",
-      "link": "https://www.amazon.com.br/dp/B07Y5X8G4B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xFwhmfvQL._SL400_.jpg",
-      "preco": 1544.9,
-      "precoDe": 3690,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:25:56.777Z"
-    },
-    {
-      "id": "48465",
-      "loja": "Amazon",
-      "titulo": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt",
-      "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41B1LVPbDTL._SL400_.jpg",
-      "preco": 105.8,
-      "precoDe": 359.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:24:05.945Z"
     }
   ]
 }
