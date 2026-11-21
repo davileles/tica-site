@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-21T20:55:50.571Z",
+  "atualizadoEm": "2026-11-21T21:09:47.891Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50080",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo Broca Aco/madeira/concreto 18 Pcs 3a10mm Makita D46202",
+      "link": "https://meli.la/32Z5hgV",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648093-MLA99927115339_112025-F.jpg",
+      "preco": 102.6,
+      "precoDe": 145,
+      "desconto": 21,
+      "cupom": "LOJASOFICIAIS",
+      "enviadoEm": "2026-11-21T21:09:19.184Z"
+    },
+    {
+      "id": "50077",
+      "loja": "Shopee",
+      "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+      "link": "https://s.shopee.com.br/30pkCOvfEE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc_tn",
+      "preco": 37.99,
+      "precoDe": 46.9,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T21:07:01.203Z"
+    },
+    {
+      "id": "50076",
+      "loja": "Amazon",
+      "titulo": "Hidromel Philip Mead - 500ml (Traditional)",
+      "link": "https://www.amazon.com.br/dp/B09BW25QZP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41SBdIXWiNL._SL400_.jpg",
+      "preco": 56.9,
+      "precoDe": 78.9,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T21:04:14.129Z"
+    },
     {
       "id": "50073",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-18T17:18:38.364Z"
-    },
-    {
-      "id": "48513",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Red Label 750ml",
-      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
-      "preco": 54.9,
-      "precoDe": 92.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:16:58.679Z"
-    },
-    {
-      "id": "48501",
-      "loja": "Shopee",
-      "titulo": "Kit Pet Para Cachorro Caminha  Sanitário Comedouro Para Cães Pequeno",
-      "link": "https://s.shopee.com.br/20x7xAUHBP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mrc5ilaan6rof2_tn",
-      "preco": 66.99,
-      "precoDe": 67.67,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:03:23.696Z"
-    },
-    {
-      "id": "48499",
-      "loja": "Mercado Livre",
-      "titulo": "iPhone 18 Pro Max 512GB Prateado - Distribuidor Autorizado",
-      "link": "https://meli.la/2KWuJSV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790901-MLA117486592729_092026-F.jpg",
-      "preco": 11744.19,
-      "precoDe": 14499,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T17:01:23.173Z"
     }
   ]
 }
