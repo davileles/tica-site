@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-21T18:09:47.888Z",
+  "atualizadoEm": "2026-11-21T18:33:04.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50023",
+      "loja": "Amazon",
+      "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+      "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415LptFnx-L._SL400_.jpg",
+      "preco": 22.9,
+      "precoDe": 32.9,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:23:04.387Z"
+    },
+    {
+      "id": "50021",
+      "loja": "Amazon",
+      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V | Até 90% Menos Óleo – tecnologia RapidAir, 12 modos de preparo e controle analógico (NA130/00)",
+      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/312c8RhLSZL._SL400_.jpg",
+      "preco": 254.15,
+      "precoDe": 549.9,
+      "desconto": 46,
+      "cupom": "BLACK15",
+      "enviadoEm": "2026-11-21T18:20:03.204Z"
+    },
+    {
+      "id": "50020",
+      "loja": "Shopee",
+      "titulo": "Corda Pular Aço Crossfit 3M Rolamento Speed Profissional Corda Crossfit Entrega Rápida",
+      "link": "https://s.shopee.com.br/3LSaPRtIeu",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mqwxai001xj7a0_tn",
+      "preco": 22.99,
+      "precoDe": 69.67,
+      "desconto": 67,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:18:36.092Z"
+    },
+    {
+      "id": "50016",
+      "loja": "Shopee",
+      "titulo": "Etilete Cortador Dewalt DWHT10992 Dobrável Com Armazenamento de Lâminas Drywall Cor Amarelo/Preto",
+      "link": "https://s.shopee.com.br/5AuEaMKRjd",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-moov5uycq2o5cb_tn",
+      "preco": 99,
+      "precoDe": 150,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:11:10.607Z"
+    },
     {
       "id": "50011",
       "loja": "Mercado Livre",
@@ -2161,18 +2209,6 @@
       "desconto": null,
       "cupom": "BF40",
       "enviadoEm": "2026-11-20T11:55:23.620Z"
-    },
-    {
-      "id": "49458",
-      "loja": "Amazon",
-      "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V | Até 90% Menos Óleo – tecnologia RapidAir, 12 modos de preparo e controle analógico (NA130/00)",
-      "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312c8RhLSZL._SL400_.jpg",
-      "preco": 309,
-      "precoDe": 549.9,
-      "desconto": 44,
-      "cupom": "BLACK15",
-      "enviadoEm": "2026-11-20T11:54:02.880Z"
     },
     {
       "id": "49455",
@@ -5965,42 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-18T16:21:06.949Z"
-    },
-    {
-      "id": "48461",
-      "loja": "Amazon",
-      "titulo": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
-      "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41sul5mPB6L._SL400_.jpg",
-      "preco": 1898.9,
-      "precoDe": 2990,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:17:10.624Z"
-    },
-    {
-      "id": "48460",
-      "loja": "Amazon",
-      "titulo": "Maral Triciclo Jip Jip Spider Infantil – Passeio com Som e Empurrador, Suporta até 30 kg – Estrutura Resistente",
-      "link": "https://www.amazon.com.br/dp/B0FMYTSYNM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41owZA-Gg9L._SL400_.jpg",
-      "preco": 247.5,
-      "precoDe": 430.2,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:16:42.578Z"
-    },
-    {
-      "id": "48459",
-      "loja": "Amazon",
-      "titulo": "Almofada de Assento para Carrinho Buba",
-      "link": "https://www.amazon.com.br/dp/B09WBTTXKK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41TvZ7JI15L._SL400_.jpg",
-      "preco": 77.08,
-      "precoDe": 143.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:16:13.097Z"
     }
   ]
 }
