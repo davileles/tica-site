@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-20T23:28:14.002Z",
+  "atualizadoEm": "2026-11-21T11:30:58.873Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "49813",
+      "loja": "Shopee",
+      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "link": "https://s.shopee.com.br/1W0vliXbtz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
+      "preco": 39.95,
+      "precoDe": 199.75,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:25:29.265Z"
+    },
+    {
+      "id": "49807",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Soquete Vonder 1/4 C/33pcs Sextavado 4a13",
+      "link": "https://meli.la/2bLWTm8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_763580-MLA121466935701_112026-F.jpg",
+      "preco": 116,
+      "precoDe": 163.54,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:20:58.749Z"
+    },
+    {
+      "id": "49805",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 73.9,
+      "desconto": 32,
+      "cupom": "20BF26PRIME",
+      "enviadoEm": "2026-11-21T11:13:58.294Z"
+    },
+    {
+      "id": "49803",
+      "loja": "Amazon",
+      "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 1l",
+      "link": "https://www.amazon.com.br/dp/B0D63J2X32?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xWZF34qoL._SL400_.jpg",
+      "preco": 71.99,
+      "precoDe": 155.9,
+      "desconto": 42,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-21T11:08:40.794Z"
+    },
+    {
+      "id": "49802",
+      "loja": "Shopee",
+      "titulo": "TOYADENT Escova de Dentes Com Cerdas Macias, Para Uso Doméstico/Viagens - 3 unidades",
+      "link": "https://s.shopee.com.br/6L6BVP9Ypi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqswkdy95a8016_tn",
+      "preco": 16.9,
+      "precoDe": 46.94,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:08:05.792Z"
+    },
+    {
+      "id": "49801",
+      "loja": "Shopee",
+      "titulo": "Furadeira Parafusadeira Impacto 18V Einhell Solo Mandril 13mm Alvenaria Madeira Metal Sem Bateria",
+      "link": "https://s.shopee.com.br/40iGj2krTY",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825av-muj7jx1zsufac1_tn",
+      "preco": 326.6,
+      "precoDe": 447.4,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:06:22.932Z"
+    },
+    {
+      "id": "49800",
+      "loja": "Shopee",
+      "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+      "link": "https://s.shopee.com.br/4B1guwQ0c0",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqdb9tob0xdu3d_tn",
+      "preco": 16.49,
+      "precoDe": 31.71,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:04:26.604Z"
+    },
+    {
+      "id": "49799",
+      "loja": "Amazon",
+      "titulo": "Karsten Jogo de Colcha com Porta-Travesseiro Tom Anoitecer Azul Casal 100% Algodão 200 Fios 3 peças",
+      "link": "https://www.amazon.com.br/dp/B0GFP3HRBR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31VZyeFlHeL._SL400_.jpg",
+      "preco": 451.31,
+      "precoDe": 614.99,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T11:03:12.061Z"
+    },
     {
       "id": "49793",
       "loja": "Amazon",
@@ -5905,102 +6001,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-11-18T12:32:30.457Z"
-    },
-    {
-      "id": "48279",
-      "loja": "Mercado Livre",
-      "titulo": "Cesta De Natal Bauducco G",
-      "link": "https://meli.la/1Y4E6rc",
-      "imagem": "https://http2.mlstatic.com/D_894871-MLB93424989192_092025-F.jpg",
-      "preco": 116.63,
-      "precoDe": 197.9,
-      "desconto": 41,
-      "cupom": "CORREHOJEPROML",
-      "enviadoEm": "2026-11-18T12:31:15.288Z"
-    },
-    {
-      "id": "48276",
-      "loja": "Mercado Livre",
-      "titulo": "Grand Theft Auto Vi Ps5 Preventa Edición Estándar",
-      "link": "https://meli.la/2zCcwE7",
-      "imagem": "https://http2.mlstatic.com/D_836773-MLA113000722584_072026-F.jpg",
-      "preco": 352.27000000000004,
-      "precoDe": 449.9,
-      "desconto": 13,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:29:18.299Z"
-    },
-    {
-      "id": "48271",
-      "loja": "Shopee",
-      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
-      "link": "https://s.shopee.com.br/8fU1aUhDP2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
-      "preco": 13.9,
-      "precoDe": 34.75,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:27:51.952Z"
-    },
-    {
-      "id": "48266",
-      "loja": "Mercado Livre",
-      "titulo": "Notebook Lenovo Ideapad Slim 3 Intel Core 5 8gb 512gb Linux",
-      "link": "https://meli.la/1wYr3Kf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_753614-MLB120869930661_112026-P.webp",
-      "preco": 3269,
-      "precoDe": 3799,
-      "desconto": 9,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:26:36.621Z"
-    },
-    {
-      "id": "48265",
-      "loja": "Mercado Livre",
-      "titulo": "Gabinete Mini Compacto M-atx Aço Jonsbo C6 Handle Cor Preto",
-      "link": "https://meli.la/2vWPprN",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639604-MLA95532123318_102025-F.jpg",
-      "preco": 355.51,
-      "precoDe": 789,
-      "desconto": 50,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:25:23.171Z"
-    },
-    {
-      "id": "48263",
-      "loja": "Amazon",
-      "titulo": "Lava-Roupas em Pó Omo Puro Cuidado, 2kg | Caixa",
-      "link": "https://www.amazon.com.br/dp/B0HD2DR2YP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413NF6azNZL._SL400_.jpg",
-      "preco": 23.73,
-      "precoDe": 35.53,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:24:01.600Z"
-    },
-    {
-      "id": "48259",
-      "loja": "Mercado Livre",
-      "titulo": "Refrigeração preta Deepcool Le360 V2 Zero Black 3400 Rpm",
-      "link": "https://meli.la/1AYPR8q",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615511-MLA111116429391_052026-F.jpg",
-      "preco": 388,
-      "precoDe": 549,
-      "desconto": 29,
-      "cupom": "DIADATECH",
-      "enviadoEm": "2026-11-18T12:22:48.429Z"
-    },
-    {
-      "id": "48258",
-      "loja": "Amazon",
-      "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
-      "link": "https://www.amazon.com.br/dp/B07XPCK5H5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/316ZnUTUHWL._SL400_.jpg",
-      "preco": 14.99,
-      "precoDe": 21.69,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T12:21:32.000Z"
     }
   ]
 }
