@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-21T18:33:04.392Z",
+  "atualizadoEm": "2026-11-21T18:57:16.548Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50032",
+      "loja": "Amazon",
+      "titulo": "GORDON'S Gin Gordon'S Pink 700Ml",
+      "link": "https://www.amazon.com.br/dp/B071RN67DQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31V2ARC3JTL._SL400_.jpg",
+      "preco": 45.99,
+      "precoDe": 78.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:47:16.546Z"
+    },
+    {
+      "id": "50030",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+      "link": "https://meli.la/2fSi28T",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_860756-MLA99451844492_112025-F.jpg",
+      "preco": 899.1,
+      "precoDe": 999,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:41:06.131Z"
+    },
+    {
+      "id": "50028",
+      "loja": "Shopee",
+      "titulo": "GL&DD Depilador Eletrico Feminino Recarregável Removedor De Pelos Navalha Dupla- Envio rápido",
+      "link": "https://s.shopee.com.br/qlFSJWwHf",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt96n3tald6rd5_tn",
+      "preco": 29.99,
+      "precoDe": 99.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T18:39:50.427Z"
+    },
     {
       "id": "50023",
       "loja": "Amazon",
@@ -1297,18 +1333,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-20T18:21:24.935Z"
-    },
-    {
-      "id": "49689",
-      "loja": "Amazon",
-      "titulo": "GORDON'S Gin Gordon'S Pink 700Ml",
-      "link": "https://www.amazon.com.br/dp/B071RN67DQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31V2ARC3JTL._SL400_.jpg",
-      "preco": 45.99,
-      "precoDe": 78.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:19:37.362Z"
     },
     {
       "id": "49688",
@@ -5977,30 +6001,6 @@
       "desconto": 71,
       "cupom": null,
       "enviadoEm": "2026-11-18T16:24:05.945Z"
-    },
-    {
-      "id": "48463",
-      "loja": "Mercado Livre",
-      "titulo": "Árvore De Natal 1,80 Metros 540 Galhos Pinheiro Premium Verde Cheia Realista Base De Metal Dobrável Decoração Natalina Yab",
-      "link": "https://meli.la/2bS3Xnb",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905103-MLA119496691010_112026-F.jpg",
-      "preco": 105.63,
-      "precoDe": 299.9,
-      "desconto": 56,
-      "cupom": "OFFHOJEML",
-      "enviadoEm": "2026-11-18T16:22:43.704Z"
-    },
-    {
-      "id": "48462",
-      "loja": "Shopee",
-      "titulo": "Saco Plástico PP Transparente Incolor Brilhante Embalagem Kit 50 Celofane Unidades Diversas Medidas",
-      "link": "https://s.shopee.com.br/qlAW7WdHn",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg0ecfh7hyiv98_tn",
-      "preco": 6.98,
-      "precoDe": 11.63,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:21:06.949Z"
     }
   ]
 }
