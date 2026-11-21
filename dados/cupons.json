@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T18:09:50.177Z",
+  "atualizadoEm": "2026-11-21T18:33:06.215Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -423,15 +423,15 @@
       "url": null
     },
     {
-      "codigo": "LANCHOUBF",
+      "codigo": "VEMBLACK",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Valor padrão: R$ 12 OFF em compras a partir de R$ 27 em restaurantes.",
-      "validadeAte": "2026-11-21T18:30:17.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Valor padrão: R$ 12 OFF em compras de R$ 27",
+      "validadeAte": "2026-11-22T18:30:11.000Z",
       "url": null
     },
     {
@@ -529,18 +529,6 @@
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-11-21T20:47:22.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "TECH2111",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-22T15:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO2111SITE",
@@ -1983,18 +1971,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2016,6 +1992,18 @@
       "limite": 100,
       "observacao": null,
       "validadeAte": "2026-12-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
