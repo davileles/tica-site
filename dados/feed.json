@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T23:02:09.622Z",
+  "atualizadoEm": "2026-11-21T23:52:49.625Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50124",
+      "loja": "Amazon",
+      "titulo": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna | Barbeia e apara sem irritar a pele | Uso a Seco ou Molhado | Lâmina Dupla Face | 3 Pentes | QP2724/10",
+      "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41V2VqCfoEL._SL400_.jpg",
+      "preco": 134,
+      "precoDe": 244.74,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T23:42:49.622Z"
+    },
     {
       "id": "50119",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 17,
       "cupom": "DESCONTO",
       "enviadoEm": "2026-11-18T18:23:54.464Z"
-    },
-    {
-      "id": "48581",
-      "loja": "Amazon",
-      "titulo": "Kit NIVEA Desodorante Aerosol Men Black&White Invisible - 2 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MhqC+roAL._SL400_.jpg",
-      "preco": 17,
-      "precoDe": 34.9,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:18:42.912Z"
     }
   ]
 }
