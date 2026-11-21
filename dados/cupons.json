@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T22:09:49.971Z",
+  "atualizadoEm": "2026-11-21T22:39:49.500Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -516,18 +516,6 @@
       "limite": null,
       "observacao": "Último cupom exclusivo para Meli+",
       "validadeAte": "2026-11-22T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDOPARACASA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 799,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-23T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1971,18 +1959,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ELETROTECHML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1999,11 +1975,23 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-11-22T20:10:55.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "GOLDEOFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
       "minimo": 79,
       "maximo": null,
       "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-22T20:10:55.000Z",
+      "validadeAte": "2026-11-22T22:24:37.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
