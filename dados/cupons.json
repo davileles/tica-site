@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T20:55:52.278Z",
+  "atualizadoEm": "2026-11-21T21:09:49.570Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-22T13:06:45.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "20BF26PRIME",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": 400,
-      "observacao": "20% OFF adicional em compras, limitado a R$ 400 de desconto",
-      "validadeAte": "2026-11-21T21:06:33.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
