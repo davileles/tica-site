@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-21T19:09:49.510Z",
+  "atualizadoEm": "2026-11-21T20:39:49.534Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "NATORCIDA",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom para primeira compra",
+      "validadeAte": "2026-11-22T20:28:12.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "SABADO40OFF",
       "loja": "Amazon",
@@ -543,15 +555,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TUDOCASA2111",
+      "codigo": "TUDOPARACASA",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 100,
       "minimo": 799,
       "maximo": null,
-      "limite": null,
+      "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-22T18:00:05.000Z",
+      "validadeAte": "2026-11-23T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2019,15 +2031,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LOJASOFICIAIS2111",
+      "codigo": "HOJENOMELI10",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
-      "minimo": 89,
+      "minimo": 79,
       "maximo": null,
-      "limite": 40,
+      "limite": 30,
       "observacao": null,
-      "validadeAte": "2026-11-22T18:00:05.000Z",
+      "validadeAte": "2026-11-22T20:10:55.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
