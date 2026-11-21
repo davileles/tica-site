@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T22:39:49.500Z",
+  "atualizadoEm": "2026-11-21T23:39:48.120Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1992,6 +1992,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-22T22:24:37.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FINALMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-22T23:17:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
