@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-21T20:09:47.889Z",
+  "atualizadoEm": "2026-11-21T20:39:47.890Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50070",
+      "loja": "Amazon",
+      "titulo": "Whisky Macallan Sherry Oak 18 anos Single Malt 700ml",
+      "link": "https://www.amazon.com.br/dp/B00E0EW438?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4152U9FPziL._SL400_.jpg",
+      "preco": 3799.9,
+      "precoDe": 5539.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:37:40.022Z"
+    },
+    {
+      "id": "50069",
+      "loja": "Amazon",
+      "titulo": "Philips Aparador e Barbeador Elétrico Série 9000 All-in-One 16 em 1 Premium | Versatilidade para cuidar do visual completo | Rosto, cabelo e corpo | 120 min sem fio | 100% À prova ",
+      "link": "https://www.amazon.com.br/dp/B0FRNCB6XX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41WaGK61dTL._SL400_.jpg",
+      "preco": 548.94,
+      "precoDe": 799.9,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:35:54.954Z"
+    },
+    {
+      "id": "50064",
+      "loja": "Amazon",
+      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
+      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
+      "preco": 75,
+      "precoDe": 106.18,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:27:44.338Z"
+    },
+    {
+      "id": "50062",
+      "loja": "Shopee",
+      "titulo": "Lencol Queen/Casal/King/Solteiro Jogo De Cama Casal 400 Fios Micropercal com Ponto Palito",
+      "link": "https://s.shopee.com.br/4fxy8ZrELc",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjg19lbzg077f7_tn",
+      "preco": 34.9,
+      "precoDe": 68.43,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:24:46.229Z"
+    },
+    {
+      "id": "50058",
+      "loja": "Shopee",
+      "titulo": "Kit Pontas Bits Dewalt PH2 5 Peças DWAF2PH2-5H Profissional",
+      "link": "https://s.shopee.com.br/6L6C74hQPQ",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mojoqnjagbgj21_tn",
+      "preco": 26.8,
+      "precoDe": 40,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-21T20:15:55.122Z"
+    },
     {
       "id": "50054",
       "loja": "Amazon",
@@ -4419,18 +4479,6 @@
       "enviadoEm": "2026-11-19T13:51:23.347Z"
     },
     {
-      "id": "48960",
-      "loja": "Amazon",
-      "titulo": "Jim Beam Whisky Bourbon Americano Apple 1L",
-      "link": "https://www.amazon.com.br/dp/B0B7283484?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41QSl0CjV2L._SL400_.jpg",
-      "preco": 60,
-      "precoDe": 106.18,
-      "desconto": 29,
-      "cupom": "BLACKNUPAY20",
-      "enviadoEm": "2026-11-19T13:50:53.472Z"
-    },
-    {
       "id": "48959",
       "loja": "Amazon",
       "titulo": "Crescent Chave flexível de catraca ajustável de 8\" - ACFR8VS",
@@ -5953,54 +6001,6 @@
       "desconto": null,
       "cupom": "OFFHOJEML",
       "enviadoEm": "2026-11-18T16:52:18.048Z"
-    },
-    {
-      "id": "48490",
-      "loja": "Amazon",
-      "titulo": "NIINA SECRETS LÁPIS SOBRANCELHAS 3/1 CLARO 1,1g",
-      "link": "https://www.amazon.com.br/dp/B0D4B49XZJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21-pzWTc4gL._SL400_.jpg",
-      "preco": 26,
-      "precoDe": 65.99,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:50:58.286Z"
-    },
-    {
-      "id": "48488",
-      "loja": "Amazon",
-      "titulo": "Andador Cosco Kids Ziggy, Rosa, 6 meses a 12kg",
-      "link": "https://www.amazon.com.br/dp/B0H9682R9B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZECyKeZvL._SL400_.jpg",
-      "preco": 269.08,
-      "precoDe": 299,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:49:39.826Z"
-    },
-    {
-      "id": "48487",
-      "loja": "Mercado Livre",
-      "titulo": "Kit Com 6 Pares De Meia Cano Médio Algodão Adulto Lupo - R$ 59,90",
-      "link": "https://meli.la/1YbmpzM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_621026-MLB119266350297_102026-P.webp",
-      "preco": 59.9,
-      "precoDe": 83.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:49:06.048Z"
-    },
-    {
-      "id": "48486",
-      "loja": "Amazon",
-      "titulo": "La Roche-Posay Effaclar Gel de Limpeza Facial Antiacne Concentrado com Ácido Salicílico, Zinco e LHA, Limpeza Profunda, Reduz Oleosidade e Desobstrui os Poros, 300ml",
-      "link": "https://www.amazon.com.br/dp/B07KYVSKWR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31T47E7-LOL._SL400_.jpg",
-      "preco": 76.79,
-      "precoDe": 94.9,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T16:47:48.213Z"
     }
   ]
 }
