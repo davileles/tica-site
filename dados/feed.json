@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-22T22:19:59.855Z",
+  "atualizadoEm": "2026-11-22T22:40:00.891Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50608",
+      "loja": "Amazon",
+      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
+      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
+      "preco": 177.84,
+      "precoDe": 349.99,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T22:30:00.887Z"
+    },
+    {
+      "id": "50605",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Hw LG Dual Inverter +ai Voice 18.000 Btus R32 Qf Branco",
+      "link": "https://meli.la/2XPzCQe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790343-MLA108403838478_032026-F.jpg",
+      "preco": 3449,
+      "precoDe": 4870,
+      "desconto": 26,
+      "cupom": "SITETODO2211",
+      "enviadoEm": "2026-11-22T22:21:03.841Z"
+    },
     {
       "id": "50603",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 13,
       "cupom": "ECONOMIAEMDOBRO",
       "enviadoEm": "2026-11-19T17:51:16.985Z"
-    },
-    {
-      "id": "49208",
-      "loja": "Amazon",
-      "titulo": "Jagermeister Licor Licores Herbais 700 Ml Pacote De 1 | Jägermeister United in the Game: uma edição especial para celebrar a paixão pelo futebol",
-      "link": "https://www.amazon.com.br/dp/B07X6HW8NH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xiaH9BiNL._SL400_.jpg",
-      "preco": 94.85,
-      "precoDe": 129.99,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:49:09.499Z"
-    },
-    {
-      "id": "49207",
-      "loja": "Shopee",
-      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "link": "https://s.shopee.com.br/6L68l57vrW",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
-      "preco": 46.12,
-      "precoDe": 85.41,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:48:39.213Z"
     }
   ]
 }
