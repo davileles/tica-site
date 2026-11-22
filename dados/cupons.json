@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T15:25:14.793Z",
+  "atualizadoEm": "2026-11-22T15:55:14.863Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2004,6 +2004,30 @@
       "limite": 100,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-23T15:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA2311",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 160,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "Válido na lista especificada",
+      "validadeAte": "2026-11-23T15:25:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 160,
+      "maximo": null,
+      "limite": 45,
+      "observacao": null,
+      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
