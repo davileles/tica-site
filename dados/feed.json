@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-22T19:23:21.969Z",
+  "atualizadoEm": "2026-11-22T19:41:19.781Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50546",
+      "loja": "Shopee",
+      "titulo": "Prateleira de Metal Adesiva Sem Furo para Banheiro e Cozinha, Organizador de Parede Porta Shampoo e Sabonete",
+      "link": "https://s.shopee.com.br/8pnYdRoMuA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8_tn",
+      "preco": 14.27,
+      "precoDe": 29.73,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T19:31:19.776Z"
+    },
+    {
+      "id": "50545",
+      "loja": "Mercado Livre",
+      "titulo": "Furadeira De Impacto Hp1640k 1/2 760w C/ Mal. Makita Azul-turquesa",
+      "link": "https://meli.la/275VZCh",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_893713-MLA99587944572_122025-F.jpg",
+      "preco": 412,
+      "precoDe": 550,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T19:26:16.967Z"
+    },
     {
       "id": "50544",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "BLACKNUPAY20",
       "enviadoEm": "2026-11-19T16:57:04.419Z"
-    },
-    {
-      "id": "49149",
-      "loja": "Amazon",
-      "titulo": "Jogo de Panelas Ceramic Life Smart Plus 7 Peças Cinza Wooden Brinox",
-      "link": "https://www.amazon.com.br/dp/B0G3RGMZ3T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31OB7ATkfyL._SL400_.jpg",
-      "preco": 319.91999999999996,
-      "precoDe": 429,
-      "desconto": 7,
-      "cupom": "20BLACKPRIME",
-      "enviadoEm": "2026-11-19T16:53:26.421Z"
-    },
-    {
-      "id": "49139",
-      "loja": "Amazon",
-      "titulo": "ELITE Camiseta do Brasil Patriota Dry Fit Masculina Proteção UV, Amarelo, G",
-      "link": "https://www.amazon.com.br/dp/B0GXPYCSR9?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AxytNETdL._SL400_.jpg",
-      "preco": 49.98,
-      "precoDe": 136.49,
-      "desconto": 63,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T16:49:28.813Z"
     }
   ]
 }
