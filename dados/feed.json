@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-22T21:20:59.856Z",
+  "atualizadoEm": "2026-11-22T21:47:43.708Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50587",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Blue Premium Cães 80x60cm 30 Unidades",
+      "link": "https://s.shopee.com.br/3Vm2QK2sXV",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mpmie4xesirl6c_tn",
+      "preco": 74.9,
+      "precoDe": 110.15,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T21:37:43.704Z"
+    },
     {
       "id": "50583",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 31,
       "cupom": null,
       "enviadoEm": "2026-11-19T17:45:37.414Z"
-    },
-    {
-      "id": "49203",
-      "loja": "Shopee",
-      "titulo": "Saquinhos Maternidade Personalizado Organizador  Saída Maternidade Ursinho Baby com Zíper",
-      "link": "https://s.shopee.com.br/2gCqO7ekIQ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mnfo85ikyjnld0_tn",
-      "preco": 36.9,
-      "precoDe": 47.31,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:45:02.264Z"
     }
   ]
 }
