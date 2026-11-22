@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-22T12:08:54.677Z",
+  "atualizadoEm": "2026-11-22T12:24:00.513Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50169",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Body Care Intensive Hidrata & Suaviza, 400ml | Anti-Envelhecimento, Hidratação Prolongada, Pele Suave",
+      "link": "https://www.amazon.com.br/dp/B096FXGX1Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31uNdjNBXBL._SL400_.jpg",
+      "preco": 22.59,
+      "precoDe": 47.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T12:13:20.986Z"
+    },
+    {
+      "id": "50167",
+      "loja": "Amazon",
+      "titulo": "Gillette Mach3 Carbono Carga para Aparelho de Barbear com Carvão 8 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0D84WRDBB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/517fWSW9rTL._SL400_.jpg",
+      "preco": 49.99,
+      "precoDe": 99.88,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T12:12:07.814Z"
+    },
+    {
+      "id": "50166",
+      "loja": "Shopee",
+      "titulo": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+      "link": "https://s.shopee.com.br/4LL8mY2e5c",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44_tn",
+      "preco": 45.9,
+      "precoDe": 111.95,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T12:09:02.337Z"
+    },
     {
       "id": "50162",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-18T18:47:13.977Z"
-    },
-    {
-      "id": "48557",
-      "loja": "Amazon",
-      "titulo": "GEARWRENCH Conjunto de 42 peças de catraca SAE - 3885, prata",
-      "link": "https://www.amazon.com.br/dp/B000HBAHLY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41w+dLormQL._SL400_.jpg",
-      "preco": 728.95,
-      "precoDe": 1214.92,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:46:35.321Z"
-    },
-    {
-      "id": "48556",
-      "loja": "Amazon",
-      "titulo": "GearWrench 80304 13 peças Conjunto de soquetes métricos profundos de 6 pontos Drive de 1/4",
-      "link": "https://www.amazon.com.br/dp/B000NICEV2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31y0lbk8lpL._SL400_.jpg",
-      "preco": 150.26,
-      "precoDe": 250.44,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:46:04.201Z"
-    },
-    {
-      "id": "48555",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Conjunto de soquete de impacto 33808 Grab-And-Go SAE, conjunto de 7 peças com manga, mosquetão e unidade de 3/8 polegadas, soquetes codificados por cores de 1/4, 5/16, ",
-      "link": "https://www.amazon.com.br/dp/B0FH3BKVGR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41qcnLFNwlL._SL400_.jpg",
-      "preco": 103.13,
-      "precoDe": 171.88,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:45:33.182Z"
     }
   ]
 }
