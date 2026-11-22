@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-22T13:25:14.918Z",
+  "atualizadoEm": "2026-11-22T14:25:15.084Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BLACKAFF01",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 900,
+      "minimo": 6000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons de Black Friday AliExpress. Resgate no aplicativo para ficar salvo na conta até o final do evento.",
+      "validadeAte": "2026-11-23T14:16:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACKAE9",
+      "loja": "AliExpress",
+      "tipo": "reais",
+      "valor": 750,
+      "minimo": 4800,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons de Black Friday AliExpress. Resgate no aplicativo para ficar salvo na conta até o final do evento.",
+      "validadeAte": "2026-11-23T14:16:34.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
     {
       "codigo": "NATORCIDA",
       "loja": "Amazon",
@@ -349,18 +373,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
-    },
-    {
-      "codigo": "AUAUBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para Pet Shops",
-      "validadeAte": "2026-11-22T14:04:43.000Z",
-      "url": null
     },
     {
       "codigo": "CESTAOBF",
@@ -1080,6 +1092,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PEGAESSA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 29,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-23T14:00:54.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1983,18 +2007,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ELETROTECHML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "HOJENOMELI10",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2016,18 +2028,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-22T22:24:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAIS2211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-23T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
