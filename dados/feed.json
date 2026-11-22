@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-22T21:06:48.690Z",
+  "atualizadoEm": "2026-11-22T21:20:59.856Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50583",
+      "loja": "Shopee",
+      "titulo": "Tapete Yoga Pilates 1m x 50cm x 5mm Colchonete Academia Antiderrapante Ginástica Exercícios Fitness",
+      "link": "https://s.shopee.com.br/Lp0d3c9sj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mr7glko194hyc1_tn",
+      "preco": 24.6,
+      "precoDe": 25.89,
+      "desconto": 5,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T21:16:35.260Z"
+    },
+    {
+      "id": "50581",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Chave Allen 1,5 A 10mm 11pc St09128l Sata",
+      "link": "https://meli.la/2YXMNrn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795056-MLA100010413901_122025-F.jpg",
+      "preco": 54.28,
+      "precoDe": 57.75,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T21:11:06.045Z"
+    },
+    {
+      "id": "50579",
+      "loja": "Amazon",
+      "titulo": "Stanley Copo Térmico Stacking Black 2.0 354ml",
+      "link": "https://www.amazon.com.br/dp/B0G3RV2KX8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31h-IJQYSsL._SL400_.jpg",
+      "preco": 60.72,
+      "precoDe": 109,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T21:09:14.227Z"
+    },
     {
       "id": "50576",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-19T17:45:02.264Z"
-    },
-    {
-      "id": "49202",
-      "loja": "Shopee",
-      "titulo": "Tapete descanso e arranhador gato algodão com bola brinquedo",
-      "link": "https://s.shopee.com.br/7AfFkH4Rai",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mszcaua8sdmtbf_tn",
-      "preco": 29.96,
-      "precoDe": 49.93,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:43:47.446Z"
-    },
-    {
-      "id": "49196",
-      "loja": "Mercado Livre",
-      "titulo": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 90ml",
-      "link": "https://meli.la/1c38xoM",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750633-MLA117821999409_092026-F.jpg",
-      "preco": 555.29,
-      "precoDe": 1129,
-      "desconto": 45,
-      "cupom": "BLACKDELUXO",
-      "enviadoEm": "2026-11-19T17:41:58.643Z"
-    },
-    {
-      "id": "49195",
-      "loja": "Mercado Livre",
-      "titulo": "️ Conjunto com 100 bolinhas coloridas para piscina, 5 cores, resistentes e que não amassam — sortimento variado",
-      "link": "https://meli.la/13VRH94",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680597-MLB110991138915_042026-P.webp",
-      "preco": 40.8,
-      "precoDe": 58,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:40:45.019Z"
     }
   ]
 }
