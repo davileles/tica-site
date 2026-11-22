@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T20:23:23.792Z",
+  "atualizadoEm": "2026-11-22T20:53:23.704Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": "Cupons de Black Friday AliExpress. Resgate no aplicativo para ficar salvo na conta até o final do evento.",
       "validadeAte": "2026-11-23T14:16:34.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "NATORCIDA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom para primeira compra",
-      "validadeAte": "2026-11-22T20:28:12.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "AMEND30",
@@ -2688,6 +2676,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-23T19:57:15.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "BLACKCOM50",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-23T20:38:35.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
