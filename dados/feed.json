@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-22T22:08:38.803Z",
+  "atualizadoEm": "2026-11-22T22:19:59.855Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50603",
+      "loja": "Amazon",
+      "titulo": "Chocolate Twix Variedades Minis 165g",
+      "link": "https://www.amazon.com.br/dp/B0GFG14Z7C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51ARxIGSsoL._SL400_.jpg",
+      "preco": 12.82,
+      "precoDe": 19.99,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T22:17:23.883Z"
+    },
     {
       "id": "50598",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 46,
       "cupom": null,
       "enviadoEm": "2026-11-19T17:48:39.213Z"
-    },
-    {
-      "id": "49205",
-      "loja": "Shopee",
-      "titulo": "Novos Relógios Esportivos Smartwatch QX11 Homens À Prova D'água Chamada Bluetooth 420mAh Monitoramento Da Saúde IP68",
-      "link": "https://s.shopee.com.br/1C5DKHGty",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mtnfxdg69pmrf5_tn",
-      "preco": 49.9,
-      "precoDe": 151.21,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:46:51.902Z"
     }
   ]
 }
