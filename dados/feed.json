@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-22T20:53:21.970Z",
+  "atualizadoEm": "2026-11-22T21:06:48.690Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50576",
+      "loja": "Amazon",
+      "titulo": "Controle sem fio PlayStation DualSense™ – Starlight Blue",
+      "link": "https://www.amazon.com.br/dp/B0FY6Z7K5W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bo3X96+BL._SL400_.jpg",
+      "preco": 334.79,
+      "precoDe": 499.9,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T20:56:48.688Z"
+    },
+    {
+      "id": "50575",
+      "loja": "Shopee",
+      "titulo": "Tapete De Atividades Para Bebê Com Piano Musical Móbile Interativo Funny Dino Maxi Baby",
+      "link": "https://s.shopee.com.br/60TNM1mbva",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv4rng9f02kic5_tn",
+      "preco": 69.9,
+      "precoDe": 129.44,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T20:55:33.513Z"
+    },
     {
       "id": "50574",
       "loja": "Shopee",
@@ -3555,18 +3579,6 @@
       "enviadoEm": "2026-11-20T21:07:29.012Z"
     },
     {
-      "id": "49746",
-      "loja": "Amazon",
-      "titulo": "Controle sem fio PlayStation DualSense™ – Starlight Blue",
-      "link": "https://www.amazon.com.br/dp/B0FY6Z7K5W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bo3X96+BL._SL400_.jpg",
-      "preco": 310.58,
-      "precoDe": 499.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T20:56:57.911Z"
-    },
-    {
       "id": "49744",
       "loja": "Amazon",
       "titulo": "Electrolux Purificador de Água Natural Filtro Refil Compacto Tecnologia Acqua Pure Alta Filtragem 6 meses 3000 litros Design Moderno PN10X não necessita energia fixação na parede o",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-19T17:40:45.019Z"
-    },
-    {
-      "id": "49194",
-      "loja": "Shopee",
-      "titulo": "15 Caixas Massinha Modelar + 15 Giz de Cera + 15 Colorir/Atividades  + 30 Cortador p/ Kit Festa Lembrancinha Infantil",
-      "link": "https://s.shopee.com.br/6AmiYANVKV",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mslcqszyqmtj07_tn",
-      "preco": 62.01,
-      "precoDe": 68.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:39:31.628Z"
     }
   ]
 }
