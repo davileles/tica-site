@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-22T19:41:19.781Z",
+  "atualizadoEm": "2026-11-22T19:53:21.970Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50552",
+      "loja": "Shopee",
+      "titulo": "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+      "link": "https://s.shopee.com.br/2BGeiddsI4",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e_tn",
+      "preco": 69.9,
+      "precoDe": 139.8,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T19:52:21.008Z"
+    },
+    {
+      "id": "50551",
+      "loja": "Amazon",
+      "titulo": "IRWIN Apontador para Lápis de Carpinteiro 233250",
+      "link": "https://www.amazon.com.br/dp/B0002UKSQE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ftyin2-WL._SL400_.jpg",
+      "preco": 20.21,
+      "precoDe": 25.49,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T19:45:56.280Z"
+    },
+    {
+      "id": "50550",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-Z5K20FDL._SL400_.jpg",
+      "preco": 54.9,
+      "precoDe": 92.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T19:45:04.186Z"
+    },
     {
       "id": "50546",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-19T17:26:55.581Z"
-    },
-    {
-      "id": "49163",
-      "loja": "Shopee",
-      "titulo": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
-      "link": "https://s.shopee.com.br/30pgk4MStD",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e_tn",
-      "preco": 14.9,
-      "precoDe": 19.87,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:05:55.561Z"
-    },
-    {
-      "id": "49155",
-      "loja": "Amazon",
-      "titulo": "Kit 6 Unidades Refrigerante Coca Cola Triplo Zero Lata 350ml | Zero Açúcar, Zero Cafeína e Zero Calorias",
-      "link": "https://www.amazon.com.br/dp/B0HNWZ9HCH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51z0deCX+JL._SL400_.jpg",
-      "preco": 37.519999999999996,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BLACKNUPAY20",
-      "enviadoEm": "2026-11-19T16:59:41.099Z"
-    },
-    {
-      "id": "49153",
-      "loja": "Amazon",
-      "titulo": "Kit 6 unidades Espumante Casa Perini Moscatel Rosé Aquarela 750 ml",
-      "link": "https://www.amazon.com.br/dp/B07Y8RKH4Z?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ofCwYK4OL._SL400_.jpg",
-      "preco": 259.96,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BLACKNUPAY20",
-      "enviadoEm": "2026-11-19T16:57:04.419Z"
     }
   ]
 }
