@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T12:24:02.403Z",
+  "atualizadoEm": "2026-11-22T13:25:14.918Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra",
       "validadeAte": "2026-11-22T20:28:12.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "SABADO40OFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-22T13:06:45.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1767,6 +1755,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIACHA25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-23T13:01:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1800,18 +1800,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIGARANTE22",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 22,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-22T13:01:16.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1971,18 +1959,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "INSTRUMENTOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BEBESPETS2211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2003,7 +1979,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "validadeAte": "2026-11-22T15:00:35.923Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2040,18 +2016,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-22T22:24:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FINALMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-22T23:17:53.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
