@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T21:47:45.347Z",
+  "atualizadoEm": "2026-11-22T22:08:40.551Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -505,6 +505,30 @@
       "observacao": null,
       "validadeAte": "2026-11-23T21:36:08.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "TODO2211SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-23T22:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO2211",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1099,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-23T22:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRECINHO",
@@ -1104,6 +1128,18 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2211",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 159,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-23T22:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2653,18 +2689,6 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
-    },
-    {
-      "codigo": "FINALSULA50",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 249,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-22T22:02:16.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "BFSHOPEE50",
