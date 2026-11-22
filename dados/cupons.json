@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T18:53:23.540Z",
+  "atualizadoEm": "2026-11-22T19:06:55.649Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,27 +363,15 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "FARMAJABF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
+      "codigo": "BFCUROU",
+      "loja": "Farmácia",
+      "tipo": "pct",
+      "valor": 0,
       "minimo": null,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido em Farmácias no iFood",
-      "validadeAte": "2026-11-22T19:00:12.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFREMEDIO",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido em Farmácias no iFood",
-      "validadeAte": "2026-11-22T19:00:30.000Z",
+      "observacao": "Dois códigos de cupom fornecidos, mas sem informação de valor de desconto, tipo (% ou R$), mínimo de compra ou outras condições",
+      "validadeAte": "2026-11-23T19:01:08.000Z",
       "url": null
     },
     {
@@ -396,6 +384,30 @@
       "limite": null,
       "observacao": "R$ 20 OFF em Mercado",
       "validadeAte": "2026-11-23T18:00:09.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFCUROU",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido para Farmácias no iFood",
+      "validadeAte": "2026-11-23T19:00:14.000Z",
+      "url": null
+    },
+    {
+      "codigo": "FARMAOFFBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto válido para Farmácias no iFood",
+      "validadeAte": "2026-11-23T19:00:46.000Z",
       "url": null
     },
     {
