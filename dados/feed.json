@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-22T22:40:00.891Z",
+  "atualizadoEm": "2026-11-22T23:05:54.731Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50612",
+      "loja": "Amazon",
+      "titulo": "Jogo de Soquetes Bosch 1/4\" 35 Unidades Bosch",
+      "link": "https://www.amazon.com.br/dp/B0GTBZVJCY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51E0bdl8k9L._SL400_.jpg",
+      "preco": 240.81,
+      "precoDe": 358.99,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T22:55:54.729Z"
+    },
+    {
+      "id": "50611",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Chaves de Precisão Wera 2035 6 Peças com Suporte",
+      "link": "https://www.amazon.com.br/dp/B0001P18PA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41U1VXJEbrL._SL400_.jpg",
+      "preco": 182.32,
+      "precoDe": 308.23,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T22:51:01.660Z"
+    },
     {
       "id": "50608",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-19T18:01:19.713Z"
-    },
-    {
-      "id": "49217",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51atYNUglzL._SL400_.jpg",
-      "preco": 258.78,
-      "precoDe": 599.99,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T17:52:37.462Z"
-    },
-    {
-      "id": "49215",
-      "loja": "Mercado Livre",
-      "titulo": "Furadeira de impacto 1/2\" 760W velocidade variável e reversível - HP1640 - Makita",
-      "link": "https://meli.la/1wAHpWc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664052-MLA110410067926_052026-F.jpg",
-      "preco": 344.71,
-      "precoDe": 453.05,
-      "desconto": 13,
-      "cupom": "ECONOMIAEMDOBRO",
-      "enviadoEm": "2026-11-19T17:51:16.985Z"
     }
   ]
 }
