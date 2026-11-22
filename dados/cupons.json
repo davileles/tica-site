@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T02:04:26.586Z",
+  "atualizadoEm": "2026-11-22T03:04:27.070Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1875,18 +1875,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFICIAIS2111",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-22T03:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TODOSITE2111",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1896,6 +1884,18 @@
       "limite": null,
       "observacao": "Último cupom exclusivo para Meli+",
       "validadeAte": "2026-11-22T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FULL2211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-23T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2004,18 +2004,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-22T23:17:53.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "GUERRILHA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 50,
-      "maximo": null,
-      "limite": 129,
-      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
-      "validadeAte": "2026-11-22T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
