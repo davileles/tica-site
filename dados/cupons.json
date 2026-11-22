@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T16:54:23.723Z",
+  "atualizadoEm": "2026-11-22T18:17:45.886Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,18 +363,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "CESTAOBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 20 OFF em Mercado",
-      "validadeAte": "2026-11-22T18:00:14.000Z",
-      "url": null
-    },
-    {
       "codigo": "FARMAJABF",
       "loja": "iFood",
       "tipo": "reais",
@@ -396,6 +384,18 @@
       "limite": null,
       "observacao": "Desconto válido em Farmácias no iFood",
       "validadeAte": "2026-11-22T19:00:30.000Z",
+      "url": null
+    },
+    {
+      "codigo": "CARRINHOBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Mercado",
+      "validadeAte": "2026-11-23T18:00:09.000Z",
       "url": null
     },
     {
@@ -1971,6 +1971,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2007,18 +2019,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MODA2311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 160,
-      "maximo": null,
-      "limite": 45,
-      "observacao": "Válido na lista especificada",
-      "validadeAte": "2026-11-23T15:25:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MODA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2028,6 +2028,30 @@
       "limite": 45,
       "observacao": null,
       "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA2211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-23T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENTREGASFULL2211",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-23T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
