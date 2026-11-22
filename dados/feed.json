@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-22T17:53:21.970Z",
+  "atualizadoEm": "2026-11-22T18:17:44.079Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50509",
+      "loja": "Shopee",
+      "titulo": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
+      "link": "https://s.shopee.com.br/9V3FKw2SNc",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71_tn",
+      "preco": 23.99,
+      "precoDe": 41.36,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T18:07:44.076Z"
+    },
+    {
+      "id": "50508",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Chaves de Fenda Kraftform Plus Wera 932/918/6 | Conjunto de brocas TX8–TX40 – Clipe resistente ao desgaste para remoção rápida com uma mão",
+      "link": "https://www.amazon.com.br/dp/B01KVLLJ7A?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31LW9760kfL._SL400_.jpg",
+      "preco": 237.9,
+      "precoDe": 341.41,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T18:06:12.163Z"
+    },
+    {
+      "id": "50503",
+      "loja": "Amazon",
+      "titulo": "Bold Barra de Proteína Caixa Mista (12 Unid) 40G com 14g de Proteína",
+      "link": "https://www.amazon.com.br/dp/B0GJGLNDYX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/418nSq4umkL._SL400_.jpg",
+      "preco": 75.9,
+      "precoDe": 139,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T17:58:51.376Z"
+    },
+    {
+      "id": "50502",
+      "loja": "Amazon",
+      "titulo": "Hidratante Corporal Neutrogena Hydro Boost Water Gel, 2 Unidades de 400ml",
+      "link": "https://www.amazon.com.br/dp/B0HFYP1X31?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+CaoCjuFL._SL400_.jpg",
+      "preco": 51.19,
+      "precoDe": 136.5,
+      "desconto": 53,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-22T17:57:32.253Z"
+    },
     {
       "id": "50497",
       "loja": "Mercado Livre",
@@ -5953,54 +6001,6 @@
       "desconto": 17,
       "cupom": null,
       "enviadoEm": "2026-11-19T16:33:08.019Z"
-    },
-    {
-      "id": "49113",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Cueca Boxer Lupo Algodão Cotton Conforto Original Box",
-      "link": "https://meli.la/22omGQ9",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_818593-MLB117363007901_092026-O-kit-10-cueca-boxer-lupo-algodo-cotton-conforto-original-box.webp",
-      "preco": 143.74,
-      "precoDe": 499.99,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T16:30:43.861Z"
-    },
-    {
-      "id": "49110",
-      "loja": "Amazon",
-      "titulo": "Liquidificador 1400 Full Oster Preto 3,2L - 127V",
-      "link": "https://www.amazon.com.br/dp/B08DFCF9HW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414vaVmjJmL._SL400_.jpg",
-      "preco": 139.5,
-      "precoDe": 319.9,
-      "desconto": 52,
-      "cupom": "ELETROPORT10",
-      "enviadoEm": "2026-11-19T16:25:43.082Z"
-    },
-    {
-      "id": "49100",
-      "loja": "Amazon",
-      "titulo": "Pelúcia Sensorial para Bebês Fisher-Price Baby, Brinquedo em Formato de Lontra, com Estímulos que Ajudam na Hora de Dormir, Ideal para Recém-Nascidos",
-      "link": "https://www.amazon.com.br/dp/B07N1JP56L?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fhTVxbgpL._SL400_.jpg",
-      "preco": 165.4,
-      "precoDe": 369.99,
-      "desconto": 44,
-      "cupom": "BLACKNUPAY20",
-      "enviadoEm": "2026-11-19T16:21:20.517Z"
-    },
-    {
-      "id": "49098",
-      "loja": "Mercado Livre",
-      "titulo": "Patinete 2 em 1 Led",
-      "link": "https://meli.la/24r1oYT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766432-MLB110658356988_052026-P.webp",
-      "preco": 112.45,
-      "precoDe": 299,
-      "desconto": 46,
-      "cupom": "MELHORESPROMOS30",
-      "enviadoEm": "2026-11-19T16:20:49.686Z"
     }
   ]
 }
