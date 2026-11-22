@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T20:05:58.303Z",
+  "atualizadoEm": "2026-11-22T20:23:23.792Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2064,18 +2064,6 @@
       "limite": 30,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-23T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HOJENOMELI10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-22T20:10:55.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
