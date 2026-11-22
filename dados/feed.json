@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-22T11:11:08.772Z",
+  "atualizadoEm": "2026-11-22T11:40:01.468Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50145",
+      "loja": "Amazon",
+      "titulo": "NIVEA SUN Protetor Solar Spray Protect & Toque Seco FPS 50 200ml, Alta Proteção UVA/UVB, Efeito Invisível, Rápida Absorção, Ação Refrescante",
+      "link": "https://www.amazon.com.br/dp/B08C7XYTHP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41b3yqtKJZL._SL400_.jpg",
+      "preco": 39.92,
+      "precoDe": 92.9,
+      "desconto": 46,
+      "cupom": "20% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-22T11:30:01.466Z"
+    },
+    {
+      "id": "50143",
+      "loja": "Shopee",
+      "titulo": "Shampoo SOS Cachos Kids Super Óleos 300ml",
+      "link": "https://s.shopee.com.br/8fU7tcxCgJ",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ax-msbvvyd3tdds66_tn",
+      "preco": 18.9,
+      "precoDe": 23.05,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T11:23:14.172Z"
+    },
+    {
+      "id": "50142",
+      "loja": "Shopee",
+      "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com Múltiplas Ponteiras para Relaxamento",
+      "link": "https://s.shopee.com.br/7KykJ5mhRg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0_tn",
+      "preco": 32.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-22T11:21:59.033Z"
+    },
     {
       "id": "50133",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 77,
       "cupom": null,
       "enviadoEm": "2026-11-18T18:40:58.634Z"
-    },
-    {
-      "id": "48594",
-      "loja": "Amazon",
-      "titulo": "SCOTCH 3M Feltro Sintético Adesivo Móveis Leves Grande Branco 9 Unidades | Adesivo de alta aderência e fixação, Protege contra riscos e arranhões, Formato redondo, Ideal para ambie",
-      "link": "https://www.amazon.com.br/dp/B07HPV98F3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/415iRsEjtxL._SL400_.jpg",
-      "preco": 5.29,
-      "precoDe": 19,
-      "desconto": 72,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:39:22.695Z"
-    },
-    {
-      "id": "48592",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Circular Multi Materias 3 Fuel 2522-20 Milwaukee",
-      "link": "https://meli.la/1hFGWZc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_627335-MLA99939319993_112025-F.jpg",
-      "preco": 1199,
-      "precoDe": 1966,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:31:28.637Z"
-    },
-    {
-      "id": "48589",
-      "loja": "Shopee",
-      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
-      "link": "https://s.shopee.com.br/2LZyRiq0n2",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-muxl71c7bf2hc3_tn",
-      "preco": 24.2,
-      "precoDe": 29.51,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-18T18:29:53.078Z"
     }
   ]
 }
