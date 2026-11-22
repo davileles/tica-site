@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T22:08:40.551Z",
+  "atualizadoEm": "2026-11-22T22:20:01.558Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -507,15 +507,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "TODO2211SITE",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 230,
-      "minimo": 1499,
+      "valor": 150,
+      "minimo": 1099,
       "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-23T22:00:02.000Z",
+      "limite": 150,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-23T00:00:33.948Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2043,6 +2043,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "INSTRUMENTOS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2026-12-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BEBESPETS2211",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2064,42 +2076,6 @@
       "limite": 100,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-23T15:00:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 160,
-      "maximo": null,
-      "limite": 45,
-      "observacao": null,
-      "validadeAte": "2026-11-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CASA2211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-23T18:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL2211",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 159,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-23T18:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
