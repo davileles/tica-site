@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T15:07:21.166Z",
+  "atualizadoEm": "2026-11-23T15:16:40.882Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1935,18 +1935,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ESPORTE2311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 80,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-24T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VALEAGORA20",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2067,18 +2055,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIMAISXPT1122",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 90,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-24T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2088,18 +2064,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAIS2311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-24T12:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
