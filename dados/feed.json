@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-23T20:07:19.735Z",
+  "atualizadoEm": "2026-11-23T20:30:26.443Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51329",
+      "loja": "Amazon",
+      "titulo": "Comfort Perfuma e Desamassa Facil com Neutralizador de Odores Refresh 320 ml",
+      "link": "https://www.amazon.com.br/dp/B07RGQZ799?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31sxWR+lKjL._SL400_.jpg",
+      "preco": 18.09,
+      "precoDe": 23.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T20:20:26.441Z"
+    },
+    {
+      "id": "51328",
+      "loja": "Mercado Livre",
+      "titulo": "Teclado Mecanico Gamer F75 Sem Fio Tri Mode Rgb Free Wolf Black Reef Inglês Uk - R$ 260,99",
+      "link": "https://meli.la/1KUhLv9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682345-MLB106409082861_022026-P.webp",
+      "preco": 234.89000000000001,
+      "precoDe": 299.99,
+      "desconto": 13,
+      "cupom": "MELIGARANTE",
+      "enviadoEm": "2026-11-23T20:19:05.024Z"
+    },
+    {
+      "id": "51327",
+      "loja": "Mercado Livre",
+      "titulo": "Teclado Mecânico Gamer Sem Fio Tri Mode Gasket Hot Swapp 75% Led Rgb Switch Pegasus Dareu Flex 75 Preto e Cinza - R$ 265,04",
+      "link": "https://meli.la/2MqmhdU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994855-MLA113940285758_072026-P.webp",
+      "preco": 238.54000000000002,
+      "precoDe": 299.99,
+      "desconto": 12,
+      "cupom": "MELIGARANTE",
+      "enviadoEm": "2026-11-23T20:17:39.742Z"
+    },
+    {
+      "id": "51326",
+      "loja": "Mercado Livre",
+      "titulo": "6 Pares De Meias Mash Cano Médio Longo Masculina Esportiva Kit Misto G (39 A 43) - R$ 46,99",
+      "link": "https://meli.la/2EdokPg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_919619-MLB121894307809_112026-P.webp",
+      "preco": 46.99,
+      "precoDe": 86.99,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T20:16:21.762Z"
+    },
+    {
+      "id": "51325",
+      "loja": "Amazon",
+      "titulo": "Smartphone Motorola Moto G17 4G - 256GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Azul Claro",
+      "link": "https://www.amazon.com.br/dp/B0GKPXSZR6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FYhaMrKPL._SL400_.jpg",
+      "preco": 929.9,
+      "precoDe": 1499,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T20:13:41.493Z"
+    },
+    {
+      "id": "51324",
+      "loja": "Shopee",
+      "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+      "link": "https://s.shopee.com.br/3Vm3vLilHP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mic25g35m1vl17_tn",
+      "preco": 64.98,
+      "precoDe": 151.12,
+      "desconto": 57,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T20:12:19.889Z"
+    },
     {
       "id": "51318",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-11-20T18:45:50.754Z"
-    },
-    {
-      "id": "49696",
-      "loja": "Shopee",
-      "titulo": "Kit 20 Itens Treino em Casa: Elásticos Extensor + Mini Band + Thera Band + Corda De Pular + Guia de Exercícios Exclusivo",
-      "link": "https://s.shopee.com.br/60TK0wckz9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mlytypzsrzes0e_tn",
-      "preco": 54.48,
-      "precoDe": 78.96,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:40:04.191Z"
-    },
-    {
-      "id": "49691",
-      "loja": "Mercado Livre",
-      "titulo": "Chave De Impacto A Bateria 3/4 Milwaukee 2864-259",
-      "link": "https://meli.la/1dqA2yJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994971-MLA97119501967_112025-F.jpg",
-      "preco": 8002,
-      "precoDe": 9110,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:26:06.417Z"
-    },
-    {
-      "id": "49690",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Moscato Spritzer 750ml | Refrescante, leve e aromático, com sabor marcante de Moscato.",
-      "link": "https://www.amazon.com.br/dp/B09Q4LBNXZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31b1Fwyw+YL._SL400_.jpg",
-      "preco": 27.87,
-      "precoDe": 36.9,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:21:24.935Z"
-    },
-    {
-      "id": "49688",
-      "loja": "Shopee",
-      "titulo": "Jogo de Panelas 6 Peças Antiaderentes com Tampa de Vidro Temperada com 4 Utensílios de Cozinha",
-      "link": "https://s.shopee.com.br/4fxwP38yac",
-      "imagem": "https://cf.shopee.com.br/file/br-11134201-820lv-mqygt8lrf7r9a0_tn",
-      "preco": 339.9,
-      "precoDe": 693.67,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:19:08.657Z"
-    },
-    {
-      "id": "49682",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira Profissional Stanley 10mm 1500RPM 2 Baterias 1,5Ah, Carregador e Maleta SCH121S2K-BR",
-      "link": "https://meli.la/32Ps4Tx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_750874-MLA117371574483_092026-F.jpg",
-      "preco": 541,
-      "precoDe": 595,
-      "desconto": 9,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:03:16.071Z"
-    },
-    {
-      "id": "49680",
-      "loja": "Mercado Livre",
-      "titulo": "BOLD Wafer Sabor Chocolate Branco 10g de Proteína 40g 12 un.",
-      "link": "https://meli.la/2NU4uFP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666043-MLA115043997048_082026-F.jpg",
-      "preco": 77.8,
-      "precoDe": 129,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T18:00:58.132Z"
     }
   ]
 }
