@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T12:37:21.137Z",
+  "atualizadoEm": "2026-11-23T13:07:21.074Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1767,18 +1767,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIACHA25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-23T13:01:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "CARRINHOCHEIO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2760,6 +2748,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-24T12:28:37.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D14B0MC0MCUP0M",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-24T13:00:15.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
