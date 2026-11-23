@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-23T16:35:41.809Z",
+  "atualizadoEm": "2026-11-23T16:37:19.307Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51140",
+      "loja": "Mercado Livre",
+      "titulo": "Esmerilhadeira Angular 7 2.200 W Ga7020 Makita",
+      "link": "https://meli.la/2g4fsZv",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_682304-MLA120318269773_102026-F.jpg",
+      "preco": 683.8,
+      "precoDe": 1454,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T16:35:57.378Z"
+    },
     {
       "id": "51123",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-11-20T12:38:49.289Z"
-    },
-    {
-      "id": "49515",
-      "loja": "Shopee",
-      "titulo": "Escova Secadora Alisador Elétrica Quente Cabelo Hair 110V/220V+Volts Alisadora Profissional de Cabel",
-      "link": "https://s.shopee.com.br/2qWHq7pl5F",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mi5knbmaa4naf4_tn",
-      "preco": 92.99,
-      "precoDe": 175.45,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T12:37:27.067Z"
     }
   ]
 }
