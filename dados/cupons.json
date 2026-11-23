@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T15:16:40.882Z",
+  "atualizadoEm": "2026-11-23T16:07:20.988Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -492,6 +492,18 @@
       "limite": 250,
       "observacao": null,
       "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFPRATECH",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-24T16:00:41.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
