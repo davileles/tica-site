@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-23T19:25:58.239Z",
+  "atualizadoEm": "2026-11-23T19:37:19.735Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51303",
+      "loja": "Shopee",
+      "titulo": "Esmerilhadeira Angular Einhell TE-AG 125 CE 5 Pol 1100W Corte Desbaste Metal Oficina Serralheria",
+      "link": "https://s.shopee.com.br/9V3H1vhrOE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msyhzs7b8l50e2_tn",
+      "preco": 472.87,
+      "precoDe": 583.79,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T19:35:54.391Z"
+    },
+    {
+      "id": "51300",
+      "loja": "Amazon",
+      "titulo": "Gin Tanqueray London Dry, 375ml",
+      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
+      "preco": 49.9,
+      "precoDe": 73.9,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T19:30:59.553Z"
+    },
+    {
+      "id": "51299",
+      "loja": "Shopee",
+      "titulo": "Secador de Cabelo com Difusor Profissional 127V 220V 110V 5 Temperaturas Íons Negativos Secagem Rápida Anti-Frizz LONYAN",
+      "link": "https://s.shopee.com.br/7fbcq4NI8g",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv17eeptn0n69d_tn",
+      "preco": 69,
+      "precoDe": 156.82,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T19:29:29.979Z"
+    },
     {
       "id": "51295",
       "loja": "Amazon",
@@ -5331,18 +5367,6 @@
       "enviadoEm": "2026-11-21T11:20:58.749Z"
     },
     {
-      "id": "49805",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray London Dry, 375ml",
-      "link": "https://www.amazon.com.br/dp/B0FC8SKB2F?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PACUxdzUL._SL400_.jpg",
-      "preco": 39.92,
-      "precoDe": 73.9,
-      "desconto": 32,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-21T11:13:58.294Z"
-    },
-    {
       "id": "49803",
       "loja": "Amazon",
       "titulo": "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 1l",
@@ -5977,30 +6001,6 @@
       "desconto": 22,
       "cupom": null,
       "enviadoEm": "2026-11-20T17:41:28.208Z"
-    },
-    {
-      "id": "49668",
-      "loja": "Amazon",
-      "titulo": "Cafeteira Oster Inox, 1,2L, 110V, Preto/Inox, 750W, OCAF600",
-      "link": "https://www.amazon.com.br/dp/B093RXHCLR?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31X-xa7H6HL._SL400_.jpg",
-      "preco": 129.6,
-      "precoDe": 214.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T17:41:00.168Z"
-    },
-    {
-      "id": "49667",
-      "loja": "Shopee",
-      "titulo": "Trena Emborrachada Dewalt Modelo DWHT34196L Ideal Para Caixas de Ferramentas 8 Metros",
-      "link": "https://s.shopee.com.br/AKcJ6dEywU",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8sj3ywh3iaa9_tn",
-      "preco": 136.9,
-      "precoDe": 190.14,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T17:37:30.635Z"
     }
   ]
 }
