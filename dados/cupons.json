@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T03:07:19.568Z",
+  "atualizadoEm": "2026-11-23T11:07:20.988Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -502,7 +502,7 @@
       "minimo": 199,
       "maximo": null,
       "limite": null,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-24T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2029,6 +2029,18 @@
       "observacao": null,
       "validadeAte": "2027-07-20T13:32:00.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=127159&id=1207116"
+    },
+    {
+      "codigo": "DISCOUP20",
+      "loja": "Pague Menos",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 100,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto de R$20 em compras de R$100 ou mais",
+      "validadeAte": "2026-11-24T11:07:16.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
     },
     {
       "codigo": "BEMVINDA",
