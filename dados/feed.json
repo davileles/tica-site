@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-23T13:07:19.279Z",
+  "atualizadoEm": "2026-11-23T13:37:19.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50891",
+      "loja": "Shopee",
+      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
+      "link": "https://s.shopee.com.br/1W0z6920tF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
+      "preco": 32.9,
+      "precoDe": 59.82,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:31:26.859Z"
+    },
+    {
+      "id": "50888",
+      "loja": "Amazon",
+      "titulo": "Conjunto de Chaves de Fenda Wera Kraftform Plus 300 Lasertip 6 Peças SL/PH/PZ",
+      "link": "https://www.amazon.com.br/dp/B000297UEI?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51zPqQB9L6L._SL400_.jpg",
+      "preco": 224.9,
+      "precoDe": 306.21,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:26:01.959Z"
+    },
+    {
+      "id": "50873",
+      "loja": "Amazon",
+      "titulo": "SCHLAGE F51A AND 619 AND Andover Maçaneta com trava de entrada com chave de acabamento Andover, níquel acetinado",
+      "link": "https://www.amazon.com.br/dp/B00H7HS6SW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41X3E5NmyTL._SL400_.jpg",
+      "preco": 105.41,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:16:24.014Z"
+    },
+    {
+      "id": "50872",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+      "link": "https://meli.la/31Tcrdn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668507-MLA108744768802_032026-F.jpg",
+      "preco": 2476,
+      "precoDe": 3999,
+      "desconto": 32,
+      "cupom": "OFFSEMPRE",
+      "enviadoEm": "2026-11-23T13:13:29.583Z"
+    },
+    {
+      "id": "50869",
+      "loja": "Shopee",
+      "titulo": "Impressora Multifuncional HP Smart Tank 584 All In One Tanque de Tinta Colorida USB e Wi-Fi Bivolt",
+      "link": "https://s.shopee.com.br/5VX7q7UKB2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms5m3ezcr9c657_tn",
+      "preco": 694,
+      "precoDe": 1081.94,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:11:43.073Z"
+    },
+    {
+      "id": "50864",
+      "loja": "Shopee",
+      "titulo": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
+      "link": "https://s.shopee.com.br/1gKPH0c4vE",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c_tn",
+      "preco": 34.98,
+      "precoDe": 69.96,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:10:22.942Z"
+    },
     {
       "id": "50862",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-11-19T21:16:02.164Z"
-    },
-    {
-      "id": "49378",
-      "loja": "Mercado Livre",
-      "titulo": "Mixer De Mão 200w Compacto Leve E Ergonômico MIX1001 Elgin",
-      "link": "https://meli.la/2N8YVcK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968363-MLA87649086401_072025-F.jpg",
-      "preco": 50.83,
-      "precoDe": 100,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:14:45.795Z"
-    },
-    {
-      "id": "49377",
-      "loja": "Amazon",
-      "titulo": "Casa Perini Espumante Moskatel 750 Ml",
-      "link": "https://www.amazon.com.br/dp/B07JM6YQZC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21XNCZwACEL._SL400_.jpg",
-      "preco": 49.5,
-      "precoDe": 62.9,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:13:23.452Z"
-    },
-    {
-      "id": "49373",
-      "loja": "Amazon",
-      "titulo": "Yamazaki Single Malt Distiller's Reserve Whisky Japonês 700ml",
-      "link": "https://www.amazon.com.br/dp/B00840PFCQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31RMsYacAXL._SL400_.jpg",
-      "preco": 693.4,
-      "precoDe": 1072.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:07:56.394Z"
-    },
-    {
-      "id": "49369",
-      "loja": "Amazon",
-      "titulo": "Fritadeira Sem Óleo Oster 127V - OFRT520, PRETO",
-      "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ndx4XMGFL._SL400_.jpg",
-      "preco": 259.89,
-      "precoDe": 449.9,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:06:55.760Z"
-    },
-    {
-      "id": "49368",
-      "loja": "Amazon",
-      "titulo": "Refrigerante Fanta Guaraná Zero Açúcar, 6 Unidades de 350ml | Pack",
-      "link": "https://www.amazon.com.br/dp/B0BZ29DKPF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413Kbwugj7L._SL400_.jpg",
-      "preco": 18.85,
-      "precoDe": 20.94,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:05:33.651Z"
-    },
-    {
-      "id": "49365",
-      "loja": "Shopee",
-      "titulo": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "link": "https://s.shopee.com.br/4fxuz8tVsj",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497_tn",
-      "preco": 15.86,
-      "precoDe": 44.06,
-      "desconto": 64,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T20:59:03.144Z"
     }
   ]
 }
