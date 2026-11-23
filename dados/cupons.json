@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-23T18:37:21.323Z",
+  "atualizadoEm": "2026-11-23T19:03:49.383Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "PRIMEBLACK50",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 50,
+      "minimo": null,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupom para primeira compra. Desconto de 50% limitado a R$50 de economia.",
+      "validadeAte": "2026-11-24T18:55:28.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "PRIME15BLACK",
       "loja": "Amazon",
@@ -315,42 +327,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BFCUROU",
-      "loja": "Farmácia",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Dois códigos de cupom fornecidos, mas sem informação de valor de desconto, tipo (% ou R$), mínimo de compra ou outras condições",
-      "validadeAte": "2026-11-23T19:01:08.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFCUROU",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido para Farmácias no iFood",
-      "validadeAte": "2026-11-23T19:00:14.000Z",
-      "url": null
-    },
-    {
-      "codigo": "FARMAOFFBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto válido para Farmácias no iFood",
-      "validadeAte": "2026-11-23T19:00:46.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFSEMANA",
       "loja": "iFood",
       "tipo": "reais",
@@ -360,6 +336,30 @@
       "limite": null,
       "observacao": "Desconto de R$20 OFF em pedidos do Mercado no iFood",
       "validadeAte": "2026-11-24T18:00:07.000Z",
+      "url": null
+    },
+    {
+      "codigo": "SAUDEBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Farmácias - dois códigos disponíveis",
+      "validadeAte": "2026-11-24T19:00:22.000Z",
+      "url": null
+    },
+    {
+      "codigo": "FARMACINBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em Farmácias - dois códigos disponíveis",
+      "validadeAte": "2026-11-24T19:00:22.000Z",
       "url": null
     },
     {
@@ -2100,6 +2100,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-24T16:22:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTASEMPREML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-24T19:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
