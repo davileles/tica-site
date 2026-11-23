@@ -1,30 +1,18 @@
 {
-  "atualizadoEm": "2026-11-23T14:07:21.066Z",
+  "atualizadoEm": "2026-11-23T14:37:21.143Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
-      "codigo": "BLACKAFF01",
-      "loja": "AliExpress",
-      "tipo": "reais",
-      "valor": 900,
-      "minimo": 6000,
+      "codigo": "PRIME15BLACK",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
       "maximo": null,
-      "limite": null,
-      "observacao": "Cupons de Black Friday AliExpress. Resgate no aplicativo para ficar salvo na conta até o final do evento.",
-      "validadeAte": "2026-11-23T14:16:34.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BLACKAE9",
-      "loja": "AliExpress",
-      "tipo": "reais",
-      "valor": 750,
-      "minimo": 4800,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons de Black Friday AliExpress. Resgate no aplicativo para ficar salvo na conta até o final do evento.",
-      "validadeAte": "2026-11-23T14:16:34.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+      "limite": 90,
+      "observacao": null,
+      "validadeAte": "2026-11-24T14:10:29.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "GANHE20SIAGE",
