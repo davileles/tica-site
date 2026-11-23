@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-23T23:07:19.738Z",
+  "atualizadoEm": "2026-11-23T23:22:18.300Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51437",
+      "loja": "Amazon",
+      "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
+      "link": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/315heWNPGOL._SL400_.jpg",
+      "preco": 128,
+      "precoDe": 269.9,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T23:12:18.297Z"
+    },
     {
       "id": "51435",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 25,
       "cupom": null,
       "enviadoEm": "2026-11-21T11:31:01.439Z"
-    },
-    {
-      "id": "49813",
-      "loja": "Shopee",
-      "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "link": "https://s.shopee.com.br/1W0vliXbtz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902_tn",
-      "preco": 39.95,
-      "precoDe": 199.75,
-      "desconto": 80,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T11:25:29.265Z"
     }
   ]
 }
