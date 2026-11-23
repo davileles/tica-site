@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-23T14:37:19.280Z",
+  "atualizadoEm": "2026-11-23T15:07:19.280Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50976",
+      "loja": "Mercado Livre",
+      "titulo": "Regata Insider Cropped Feminino",
+      "link": "https://meli.la/142T85i",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636416-MLB113045777920_072026-P.webp",
+      "preco": 58,
+      "precoDe": 179,
+      "desconto": 68,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T15:06:40.413Z"
+    },
+    {
+      "id": "50975",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Kappa Kontroll 2.0",
+      "link": "https://meli.la/2frVCTH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917122-MLB120061358286_112026-P.webp",
+      "preco": 269.99,
+      "precoDe": 399.99,
+      "desconto": 25,
+      "cupom": "OFERTAML",
+      "enviadoEm": "2026-11-23T15:05:15.676Z"
+    },
+    {
+      "id": "50972",
+      "loja": "Amazon",
+      "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
+      "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41GBAka3jvL._SL400_.jpg",
+      "preco": 23.62,
+      "precoDe": 34.69,
+      "desconto": 32,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T15:00:37.485Z"
+    },
+    {
+      "id": "50970",
+      "loja": "Shopee",
+      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
+      "link": "https://s.shopee.com.br/40iKAVgHpx",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
+      "preco": 24.99,
+      "precoDe": 47.15,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:56:01.210Z"
+    },
+    {
+      "id": "50969",
+      "loja": "Amazon",
+      "titulo": "Lillo Canguru 3 Em 1",
+      "link": "https://www.amazon.com.br/dp/B09WG452T1?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZbWa6XgOL._SL400_.jpg",
+      "preco": 110.15,
+      "precoDe": 239,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:54:35.031Z"
+    },
+    {
+      "id": "50968",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Descanso para Bebê Multikids Baby Nap Time, 0 a 11kg | Rosa, Cinto de 3 Pontos, Com Acessórios Interativos",
+      "link": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51AZ42g1FxL._SL400_.jpg",
+      "preco": 103,
+      "precoDe": 299.9,
+      "desconto": 66,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:54:06.057Z"
+    },
+    {
+      "id": "50967",
+      "loja": "Amazon",
+      "titulo": "Cacheador Phico Cachos de 25mm. Revestimento em cerâmica, PEC15 Intense Curves Bivolt",
+      "link": "https://www.amazon.com.br/dp/B0BQRQVF2C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21ZZTAtP6hL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 114.7,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:52:47.542Z"
+    },
+    {
+      "id": "50966",
+      "loja": "Amazon",
+      "titulo": "Kwikset 97200-869 Alavanca Montreal, níquel acetinado",
+      "link": "https://www.amazon.com.br/dp/B09DQ9HQDQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/218+LAgfeDL._SL400_.jpg",
+      "preco": 98.77,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:50:18.725Z"
+    },
+    {
+      "id": "50962",
+      "loja": "Amazon",
+      "titulo": "Pato Limpador Sanitário Gel Desinfetante, Marine, Limpeza Profunda, 500ml",
+      "link": "https://www.amazon.com.br/dp/B0DHDDG2MZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31f-fcXonGL._SL400_.jpg",
+      "preco": 11.62,
+      "precoDe": 14.45,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:41:01.048Z"
+    },
     {
       "id": "50959",
       "loja": "Amazon",
@@ -193,18 +301,6 @@
       "desconto": null,
       "cupom": "OFFSEMPRE",
       "enviadoEm": "2026-11-23T14:04:45.007Z"
-    },
-    {
-      "id": "50925",
-      "loja": "Amazon",
-      "titulo": "Kwikset 97200-869 Alavanca Montreal, níquel acetinado",
-      "link": "https://www.amazon.com.br/dp/B09DQ9HQDQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/218+LAgfeDL._SL400_.jpg",
-      "preco": 98.77,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:03:26.544Z"
     },
     {
       "id": "50919",
@@ -5905,102 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-20T11:21:27.530Z"
-    },
-    {
-      "id": "49441",
-      "loja": "Mercado Livre",
-      "titulo": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personalização de Som via Ap",
-      "link": "https://meli.la/2fBFuE7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-      "preco": 129,
-      "precoDe": 299,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T11:07:55.391Z"
-    },
-    {
-      "id": "49440",
-      "loja": "Shopee",
-      "titulo": "Mini Caixa de Som Bluetooth Karaokê Portátil Divertida Disponível 1 Microfone ou 2 Microfones Sem Fio",
-      "link": "https://s.shopee.com.br/6q2QVK5e81",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261m-mkj091yi7w1yb2_tn",
-      "preco": 28.99,
-      "precoDe": 53.69,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T11:06:31.757Z"
-    },
-    {
-      "id": "49438",
-      "loja": "Mercado Livre",
-      "titulo": "Camisa Fluminense Puma Masculina Jogo Partida 2026",
-      "link": "https://meli.la/2kzyYSU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729468-MLB114597193419_072026-P.webp",
-      "preco": 245.65,
-      "precoDe": 369.99,
-      "desconto": 34,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T11:03:18.895Z"
-    },
-    {
-      "id": "49436",
-      "loja": "Shopee",
-      "titulo": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "link": "https://s.shopee.com.br/20xAk4pHP2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mv7qrwedl8n5f6_tn",
-      "preco": 34.57,
-      "precoDe": 50.1,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T11:01:29.673Z"
-    },
-    {
-      "id": "49424",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa de Ferramentas 13\" 11L Modelo DWST17807 PRETA Dewalt",
-      "link": "https://meli.la/2NbjXNj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788904-MLA99963240953_112025-F.jpg",
-      "preco": 186.15,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ECONOMIAEMDOBRO",
-      "enviadoEm": "2026-11-19T22:56:07.513Z"
-    },
-    {
-      "id": "49423",
-      "loja": "Amazon",
-      "titulo": "Candide, Boneco, Funko POP! Silvers Rayliegh com Chase, One Piece - 11 cm",
-      "link": "https://www.amazon.com.br/dp/B0F9R4MG6P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41BsLtaOgvL._SL400_.jpg",
-      "preco": 159.69,
-      "precoDe": 399.99,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T22:53:41.645Z"
-    },
-    {
-      "id": "49422",
-      "loja": "Mercado Livre",
-      "titulo": "Serra circular sem fio Bosch Gks 68-2 sem bateria azul",
-      "link": "https://meli.la/1kYpPqX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979934-MLA107527425231_022026-F.jpg",
-      "preco": 1470,
-      "precoDe": 1701.25,
-      "desconto": 11,
-      "cupom": "ECONOMIAEMDOBRO",
-      "enviadoEm": "2026-11-19T22:52:29.168Z"
-    },
-    {
-      "id": "49420",
-      "loja": "Amazon",
-      "titulo": "Schick Barbeador 4 Lâminas Titanium",
-      "link": "https://www.amazon.com.br/dp/B098PLRGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fFheaT8dL._SL400_.jpg",
-      "preco": 21.66,
-      "precoDe": 61.57,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T22:51:42.634Z"
     }
   ]
 }
