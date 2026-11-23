@@ -1,7 +1,151 @@
 {
-  "atualizadoEm": "2026-11-23T17:37:19.358Z",
+  "atualizadoEm": "2026-11-23T18:07:19.358Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51236",
+      "loja": "Amazon",
+      "titulo": "Coquetel Negroni BEG, Envelhecido em Barris de Amburana, 500ml | Refil, Pronto para Servir, 29% Álcool",
+      "link": "https://www.amazon.com.br/dp/B0CGGL4RRJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313HuPGSzgL._SL400_.jpg",
+      "preco": 51.38,
+      "precoDe": 79.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T18:07:17.934Z"
+    },
+    {
+      "id": "51234",
+      "loja": "Shopee",
+      "titulo": "Mini Máquina Seladora De Embalagem 2 em 1 Recarregável 5v Bivolt",
+      "link": "https://s.shopee.com.br/5q9yYxss3w",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82262-mhvlzshohmh275_tn",
+      "preco": 11.98,
+      "precoDe": 26.04,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T18:06:29.184Z"
+    },
+    {
+      "id": "51233",
+      "loja": "Amazon",
+      "titulo": "Gin BEG Modern & Tropical Refil 500ml, 40% Álcool, Azul Vibrante que Muda para Rosa, Notas Florais, Artesanal",
+      "link": "https://www.amazon.com.br/dp/B0B5LPM2S3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+929Nyv+L._SL400_.jpg",
+      "preco": 35.8,
+      "precoDe": 55.9,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T18:05:00.929Z"
+    },
+    {
+      "id": "51232",
+      "loja": "Amazon",
+      "titulo": "Ypióca Cachaça 150 Anos 700Ml",
+      "link": "https://www.amazon.com.br/dp/B07XS9F94Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41InbqUkjVL._SL400_.jpg",
+      "preco": 59.9,
+      "precoDe": 70.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T18:04:07.210Z"
+    },
+    {
+      "id": "51228",
+      "loja": "Amazon",
+      "titulo": "BEG - Aged Negroni 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CGGMMTJL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aTii1ZZOL._SL400_.jpg",
+      "preco": 89.49,
+      "precoDe": 154.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T18:00:01.420Z"
+    },
+    {
+      "id": "51227",
+      "loja": "Shopee",
+      "titulo": "Cadeirinha Infantil para Carro Omni 0-36Kg (40-150cm) Preto e Cinza Multikids - BB712",
+      "link": "https://s.shopee.com.br/8AXtKnI78E",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mn4nj7f94z5vbe_tn",
+      "preco": 599.9,
+      "precoDe": 869.42,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:59:23.964Z"
+    },
+    {
+      "id": "51222",
+      "loja": "Amazon",
+      "titulo": "Saint Germain, Licor de Flores, Francês, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0085HUOTW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31jpstrwVJL._SL400_.jpg",
+      "preco": 139.9,
+      "precoDe": 165.9,
+      "desconto": 16,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:57:16.323Z"
+    },
+    {
+      "id": "51220",
+      "loja": "Amazon",
+      "titulo": "Cinzano Rosso Vermute 1000Ml",
+      "link": "https://www.amazon.com.br/dp/B08B9GQM6L?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lCQDrJ4OL._SL400_.jpg",
+      "preco": 34.08,
+      "precoDe": 41.49,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:54:32.246Z"
+    },
+    {
+      "id": "51219",
+      "loja": "Amazon",
+      "titulo": "Whisky Singleton Of Dufftown 12 Anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07WSHYVQ8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31nNbZLjvXL._SL400_.jpg",
+      "preco": 132.04,
+      "precoDe": 267.9,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:53:39.811Z"
+    },
+    {
+      "id": "51218",
+      "loja": "Amazon",
+      "titulo": "Gin BEG Brazilian Boutique Dry, 500ml, 44% Álcool, Estilo London Dry, Sabor Cítrico, 11 Botânicos",
+      "link": "https://www.amazon.com.br/dp/B09NF3QC75?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UtgdzkbmL._SL400_.jpg",
+      "preco": 36.06,
+      "precoDe": 59.9,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:51:19.094Z"
+    },
+    {
+      "id": "51207",
+      "loja": "Shopee",
+      "titulo": "1/3/4  Pcs 4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
+      "link": "https://s.shopee.com.br/1qdpm9eST9",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl8iemdmtb5_tn",
+      "preco": 29.9,
+      "precoDe": 42.71,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:44:51.370Z"
+    },
+    {
+      "id": "51204",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
+      "preco": 95.99,
+      "precoDe": 177.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T17:37:25.272Z"
+    },
     {
       "id": "51200",
       "loja": "Amazon",
@@ -1525,18 +1669,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-23T11:03:52.460Z"
-    },
-    {
-      "id": "50652",
-      "loja": "Amazon",
-      "titulo": "BEG - Aged Negroni 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CGGMMTJL?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41aTii1ZZOL._SL400_.jpg",
-      "preco": 76.07,
-      "precoDe": 154.9,
-      "desconto": 42,
-      "cupom": "15% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-23T11:02:29.652Z"
     },
     {
       "id": "50612",
@@ -3723,18 +3855,6 @@
       "enviadoEm": "2026-11-22T12:05:19.650Z"
     },
     {
-      "id": "50160",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
-      "preco": 95.99,
-      "precoDe": 177.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:04:05.715Z"
-    },
-    {
       "id": "50157",
       "loja": "Amazon",
       "titulo": "Chave Catraca para Ponteiras Bosch 80mm Bosch",
@@ -5881,126 +6001,6 @@
       "desconto": 55,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-20T15:17:13.282Z"
-    },
-    {
-      "id": "49601",
-      "loja": "Shopee",
-      "titulo": "Caixa De Som Bluetooth Amplificada Potente LED RGB USB SD Radio Fm Mp3 Celular Note Tablet Conexão TWS",
-      "link": "https://s.shopee.com.br/Lox1ySe9m",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratx-ma1h9d9oo1ape0_tn",
-      "preco": 26.99,
-      "precoDe": 84.34,
-      "desconto": 68,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T15:08:11.996Z"
-    },
-    {
-      "id": "49588",
-      "loja": "Shopee",
-      "titulo": "Lavadora de Alta Pressão a bateria Einhell 24 Bar 18V HYPRESSO 18/24-1 - opção com e sem bateria",
-      "link": "https://s.shopee.com.br/9V3BvQ6tVZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-msvce0a7dmvb1b_tn",
-      "preco": 551.9,
-      "precoDe": 620.11,
-      "desconto": 11,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:47:42.889Z"
-    },
-    {
-      "id": "49587",
-      "loja": "Shopee",
-      "titulo": "Cabo USB Tipo C Reforçado 1 Metro Carregamento Rápido Turbo Android Compatível iPhone 15",
-      "link": "https://s.shopee.com.br/2BGbBtnMON",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbn7haih8bqw29_tn",
-      "preco": 13.47,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:47:07.652Z"
-    },
-    {
-      "id": "49582",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Alicates Para Anéis R28002104 4 Peças Gedore",
-      "link": "https://meli.la/1MTboPd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_729438-MLA99964935539_112025-F.jpg",
-      "preco": 141.49,
-      "precoDe": 198.9,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:26:39.669Z"
-    },
-    {
-      "id": "49580",
-      "loja": "Shopee",
-      "titulo": "Blocos de Montar Magnético Construção Bastãos e Bolas Brinquedo Educativo Infantil",
-      "link": "https://s.shopee.com.br/1gKKZXGkdH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mlnthxj1nqpwc2_tn",
-      "preco": 27.99,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:26:05.524Z"
-    },
-    {
-      "id": "49578",
-      "loja": "Shopee",
-      "titulo": "Kit Potes Herméticos Organizador de Geladeira Legumes Frutas Com Cesto Removível",
-      "link": "https://s.shopee.com.br/2gCrl2cxPf",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ap-mr6baq9qnkzrc6_tn",
-      "preco": 34.9,
-      "precoDe": 75.87,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:21:43.660Z"
-    },
-    {
-      "id": "49576",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray Royale Dark Berry 700ml",
-      "link": "https://www.amazon.com.br/dp/B0B1933NPW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/417Or1Ziq7L._SL400_.jpg",
-      "preco": 69.99,
-      "precoDe": 136.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:20:29.552Z"
-    },
-    {
-      "id": "49569",
-      "loja": "BELEZA NA WEB",
-      "titulo": "Sebastian Professional Hydre - Máscara de Hidratação 150ml",
-      "link": "https://tidd.ly/4zBmM59",
-      "imagem": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Acdn.gbmedia.com.br%2Fimages%2Fw_1500%2Ff_auto%2Ffl_progressive%2Fq_auto%3Aeco%2Fv1%2Fimagens%2F5%2Fsebastian-professional-hydre-treatment-tratamento-150ml-3967-670290517268120371.png&feedId=116978&k=0a768746e1820b1bfcbb7b8779d843835d1f6b36",
-      "preco": 108.9,
-      "precoDe": 353.9,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:14:23.094Z"
-    },
-    {
-      "id": "49572",
-      "loja": "Shopee",
-      "titulo": "Tenis Masculino + Relogio + 1 Par de Meia Esportivo Corrida Treino Super leve e Macio",
-      "link": "https://s.shopee.com.br/906vHfrUj5",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mnmv3zn9gete60_tn",
-      "preco": 54.95,
-      "precoDe": 99.91,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:06:35.949Z"
-    },
-    {
-      "id": "49570",
-      "loja": "Shopee",
-      "titulo": "Brinquedo Blocos de Montar Infantil Educativo Animais De Brinquedo Anime Mini Brinquedos",
-      "link": "https://s.shopee.com.br/9pg2H6HgZ6",
-      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq3daclqclxc24_tn",
-      "preco": 3.9,
-      "precoDe": 8.86,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-20T14:05:04.126Z"
     }
   ]
 }
