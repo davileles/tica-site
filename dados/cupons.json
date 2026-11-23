@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T12:07:21.063Z",
+  "atualizadoEm": "2026-11-23T12:37:21.137Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -489,21 +489,9 @@
       "valor": 250,
       "minimo": 2499,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
-      "validadeAte": "2026-11-24T12:02:37.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO2211",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1099,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-23T22:00:02.000Z",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1116,18 +1104,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2211",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 159,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-23T22:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2031,6 +2007,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 499,
+      "maximo": null,
+      "limite": 90,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ENTREGASFULL",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2091,6 +2079,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFICIAIS2311",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2111,7 +2111,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-24T12:00:30.000Z",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2123,7 +2123,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-24T12:00:30.000Z",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2736,6 +2736,30 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-23T20:38:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "S3M4N4BLAKSH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-24T12:28:36.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "S3M4N4BL4CKSH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-24T12:28:37.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
