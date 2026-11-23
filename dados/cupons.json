@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T16:07:20.988Z",
+  "atualizadoEm": "2026-11-23T16:35:43.701Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -501,9 +501,9 @@
       "valor": 250,
       "minimo": 2499,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-24T16:00:41.000Z",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2100,6 +2100,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFERTAPARAVOCE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-24T16:22:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
