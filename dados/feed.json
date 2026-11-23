@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-23T13:37:19.281Z",
+  "atualizadoEm": "2026-11-23T14:07:19.280Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "50929",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Mármore 4.3/8 4100nh3z 1.300w Makita",
+      "link": "https://meli.la/1kTQBDG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605349-MLA100018712599_122025-F.jpg",
+      "preco": 364.9,
+      "precoDe": 395.15,
+      "desconto": 8,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:06:42.804Z"
+    },
+    {
+      "id": "50928",
+      "loja": "Mercado Livre",
+      "titulo": "Bicicleta Elétrica xroymexroy Y16-B com Motor 1200W e Autonomia de 100km",
+      "link": "https://meli.la/1XNMAKX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781527-MLA114284956717_072026-F.jpg",
+      "preco": 4049,
+      "precoDe": 6399,
+      "desconto": 33,
+      "cupom": "OFFSEMPRE",
+      "enviadoEm": "2026-11-23T14:06:07.395Z"
+    },
+    {
+      "id": "50926",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Electrolux Frost Free IM7 Inverter 480L Efficient AutoSense 3 Portas Branca",
+      "link": "https://meli.la/2B4Gy43",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995049-MLA99977470033_112025-F.jpg",
+      "preco": 3949,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "OFFSEMPRE",
+      "enviadoEm": "2026-11-23T14:04:45.007Z"
+    },
+    {
+      "id": "50925",
+      "loja": "Amazon",
+      "titulo": "Kwikset 97200-869 Alavanca Montreal, níquel acetinado",
+      "link": "https://www.amazon.com.br/dp/B09DQ9HQDQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/218+LAgfeDL._SL400_.jpg",
+      "preco": 98.77,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T14:03:26.544Z"
+    },
+    {
+      "id": "50919",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV Hisense HI-QLED 4K 75\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 75Q6QV",
+      "link": "https://meli.la/1W7Q5Am",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953016-MLA117368101332_102026-F.jpg",
+      "preco": 3649,
+      "precoDe": 5699,
+      "desconto": 32,
+      "cupom": "OFFSEMPRE",
+      "enviadoEm": "2026-11-23T13:59:13.440Z"
+    },
+    {
+      "id": "50910",
+      "loja": "Mercado Livre",
+      "titulo": "Freezer Horizontal 99l Philco Pfh105b 2 Em 1 Branco",
+      "link": "https://meli.la/167LD7S",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811995-MLA96100030405_102025-F.jpg",
+      "preco": 1227.6,
+      "precoDe": 1448,
+      "desconto": 6,
+      "cupom": "MELIGARANTE",
+      "enviadoEm": "2026-11-23T13:53:58.386Z"
+    },
+    {
+      "id": "50909",
+      "loja": "Shopee",
+      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "link": "https://s.shopee.com.br/9pg72twPpF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
+      "preco": 10.5,
+      "precoDe": 12.65,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-23T13:52:29.924Z"
+    },
     {
       "id": "50891",
       "loja": "Shopee",
@@ -253,18 +337,6 @@
       "desconto": 51,
       "cupom": null,
       "enviadoEm": "2026-11-23T12:31:45.996Z"
-    },
-    {
-      "id": "50794",
-      "loja": "Amazon",
-      "titulo": "Kwikset 97200-869 Alavanca Montreal, níquel acetinado",
-      "link": "https://www.amazon.com.br/dp/B09DQ9HQDQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/218+LAgfeDL._SL400_.jpg",
-      "preco": 98.77,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:29:40.236Z"
     },
     {
       "id": "50733",
@@ -5929,78 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-19T21:26:28.941Z"
-    },
-    {
-      "id": "49390",
-      "loja": "Amazon",
-      "titulo": "JBL Authentics 300, Caixa de Som Bluetooth Portátil - Preto | Som Estéreo com Graves Profundos, Wi-Fi, Controle por Voz, Bateria Embutida de até 8 Horas, Design Retrô com Alça",
-      "link": "https://www.amazon.com.br/dp/B0CT5WQHH4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41AnbJxZH4L._SL400_.jpg",
-      "preco": 1511,
-      "precoDe": 3299,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:23:38.434Z"
-    },
-    {
-      "id": "49388",
-      "loja": "Amazon",
-      "titulo": "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso sonoro Fritadeira Elétrica sem Óleo Forno Bancada EAF90 Gra",
-      "link": "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PDhLCBK1L._SL400_.jpg",
-      "preco": 540.81,
-      "precoDe": 1299,
-      "desconto": 58,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:21:28.813Z"
-    },
-    {
-      "id": "49387",
-      "loja": "Shopee",
-      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
-      "link": "https://s.shopee.com.br/4qHLCtRBXY",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
-      "preco": 21.98,
-      "precoDe": 46.77,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:20:12.017Z"
-    },
-    {
-      "id": "49385",
-      "loja": "Amazon",
-      "titulo": "Roleta Russa Kit 6 Cervejas Easy IPA Artesanal Lata 350ml | Amargor equilibrado e aroma frutado Receita artesanal premiada",
-      "link": "https://www.amazon.com.br/dp/B0GXGRPZV8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51M-2uEkiwL._SL400_.jpg",
-      "preco": 31.14,
-      "precoDe": 37.9,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:18:00.213Z"
-    },
-    {
-      "id": "49381",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 2 Refil De Água Acqua Pure Electrolux Pe12a Pe12b Pe12g PC01X, Cor Marrom-claro",
-      "link": "https://meli.la/1ZKQdcT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_764049-MLA114244626520_082026-F.jpg",
-      "preco": 152.39,
-      "precoDe": 197.99,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:17:25.731Z"
-    },
-    {
-      "id": "49380",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Benetton We Are Tribe Edt 90ml",
-      "link": "https://meli.la/17mCV8o",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_994300-MLA80306497877_102024-F.jpg",
-      "preco": 139,
-      "precoDe": 239,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-19T21:16:02.164Z"
     }
   ]
 }
