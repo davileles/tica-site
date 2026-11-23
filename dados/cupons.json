@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T16:35:43.701Z",
+  "atualizadoEm": "2026-11-23T17:07:21.578Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1959,30 +1959,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TVSCELULARES2311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 899,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-24T15:00:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVROSJOGOS2311",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 200,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-24T15:00:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2076,18 +2052,6 @@
       "limite": 40,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
