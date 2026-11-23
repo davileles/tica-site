@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T18:07:21.296Z",
+  "atualizadoEm": "2026-11-23T18:37:21.323Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -363,15 +363,15 @@
       "url": null
     },
     {
-      "codigo": "FOMEBLACK",
+      "codigo": "ESQUENTABF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Valor pode variar por conta.",
-      "validadeAte": "2026-11-23T18:30:38.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF. Válido para restaurantes.",
+      "validadeAte": "2026-11-24T18:30:12.000Z",
       "url": null
     },
     {
@@ -483,6 +483,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "OFFPRATECH",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2699,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-24T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFFSEMPRE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -495,14 +507,14 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFFPRATECH",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 250,
-      "minimo": 2499,
+      "valor": 120,
+      "minimo": 999,
       "maximo": null,
-      "limite": 250,
-      "observacao": "Válido em produtos selecionados",
+      "limite": 120,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2028,30 +2040,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 90,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 159,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
