@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-23T23:22:18.300Z",
+  "atualizadoEm": "2026-11-24T11:12:21.492Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51467",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Travel System Mobi, Trio, Grey Sport",
+      "link": "https://www.amazon.com.br/dp/B09SNWXD1T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414nG2I3nzL._SL400_.jpg",
+      "preco": 1720.32,
+      "precoDe": 2899,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T11:11:13.004Z"
+    },
     {
       "id": "51437",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 52,
       "cupom": null,
       "enviadoEm": "2026-11-21T11:46:39.649Z"
-    },
-    {
-      "id": "49817",
-      "loja": "Mercado Livre",
-      "titulo": "Chave Impacto 1/2 725w 220v 9072-59 Milwaukee",
-      "link": "https://meli.la/2MRPBKr",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604270-MLA99521782570_122025-F.jpg",
-      "preco": 1339,
-      "precoDe": 1777,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T11:31:01.439Z"
     }
   ]
 }
