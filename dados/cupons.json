@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T02:42:21.946Z",
+  "atualizadoEm": "2026-11-24T03:12:21.767Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -519,18 +519,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "OFFPRATECH",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2699,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "MAGALUTECH",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -552,18 +540,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados da categoria de beleza/cabelos",
       "validadeAte": "2026-11-24T21:40:49.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2311",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
-      "validadeAte": "2026-11-24T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1887,6 +1863,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FULL2411",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-25T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2088,30 +2076,6 @@
       "limite": 100,
       "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
       "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-24T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIGARANTE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-24T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
