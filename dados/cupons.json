@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T18:41:37.629Z",
+  "atualizadoEm": "2026-11-24T19:11:43.975Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": null,
       "observacao": "Exclusivo para membros Prime",
       "validadeAte": "2026-11-25T12:06:13.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "PRIMEBLACK50",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 50,
-      "minimo": null,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupom para primeira compra. Desconto de 50% limitado a R$50 de economia.",
-      "validadeAte": "2026-11-24T18:55:28.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -483,30 +471,6 @@
       "url": null
     },
     {
-      "codigo": "SAUDEBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 20 OFF em Farmácias - dois códigos disponíveis",
-      "validadeAte": "2026-11-24T19:00:22.000Z",
-      "url": null
-    },
-    {
-      "codigo": "FARMACINBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "R$ 20 OFF em Farmácias - dois códigos disponíveis",
-      "validadeAte": "2026-11-24T19:00:22.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFCHURRAS",
       "loja": "iFood",
       "tipo": "reais",
@@ -528,6 +492,18 @@
       "limite": null,
       "observacao": "R$ 20 OFF em pedidos do Mercado no iFood",
       "validadeAte": "2026-11-25T18:00:19.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFWEEKFARM",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácias",
+      "validadeAte": "2026-11-25T19:00:21.000Z",
       "url": null
     },
     {
@@ -2448,6 +2424,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CURTAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-25T19:00:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
