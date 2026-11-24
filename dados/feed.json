@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-24T19:41:35.605Z",
+  "atualizadoEm": "2026-11-24T20:11:35.620Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52138",
+      "loja": "Amazon",
+      "titulo": "Downy Amaciante Concentrado Líquido Brisa Intenso 3L – Rende 12L | Fabric Softener com Perfume Intenso de Rosas e Frutas Vermelhas",
+      "link": "https://www.amazon.com.br/dp/B0C6NJWJ11?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41VaT1NKHDL._SL400_.jpg",
+      "preco": 39.88,
+      "precoDe": 71.16,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T20:08:11.204Z"
+    },
+    {
+      "id": "52132",
+      "loja": "Mercado Livre",
+      "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
+      "link": "https://meli.la/1DNb6go",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-O.webp",
+      "preco": 380,
+      "precoDe": 1060.68,
+      "desconto": 64,
+      "cupom": "VEMPROMP",
+      "enviadoEm": "2026-11-24T20:04:48.790Z"
+    },
+    {
+      "id": "52124",
+      "loja": "Amazon",
+      "titulo": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31D4BM+RLkL._SL400_.jpg",
+      "preco": 3419.1,
+      "precoDe": 5999,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T20:01:23.598Z"
+    },
+    {
+      "id": "52123",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Parafusadeira + Esmerilhadeira + Martelete Sds 20v Ingco",
+      "link": "https://meli.la/1cNP9aL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_718355-MLB119036478593_102026-O.webp",
+      "preco": 1691,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CURTAMELI",
+      "enviadoEm": "2026-11-24T20:00:02.219Z"
+    },
+    {
+      "id": "52122",
+      "loja": "Shopee",
+      "titulo": "Whisky Chivas Regal 12 Anos 1000ml",
+      "link": "https://s.shopee.com.br/2BGhuuNh1O",
+      "imagem": "https://cf.shopee.com.br/file/5bb80b1f3a297106097fb825fb57c398_tn",
+      "preco": 267.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T19:59:27.663Z"
+    },
+    {
+      "id": "52110",
+      "loja": "Shopee",
+      "titulo": "Protetor De Porta Aluminio Vedação Anti-Inchaço Veda Porta Salva Porta",
+      "link": "https://s.shopee.com.br/gRu7bPC71",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5xvdicw783e_tn",
+      "preco": 25.42,
+      "precoDe": 29.91,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T19:55:38.999Z"
+    },
+    {
+      "id": "52108",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml | Merlot",
+      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 39.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T19:50:42.161Z"
+    },
+    {
+      "id": "52105",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Carmenere 750ml",
+      "link": "https://www.amazon.com.br/dp/B077HHG6MM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21LuQr73cQL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 36.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T19:43:44.176Z"
+    },
     {
       "id": "52102",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": null,
       "cupom": "REFORMA50",
       "enviadoEm": "2026-11-22T15:23:48.563Z"
-    },
-    {
-      "id": "50366",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Chave de fenda isolada 32287, conjunto de chaves de fenda 2 em 1 com lâmina flip, pontas quadradas nº 1 e 2, lâminas de extremidade dupla",
-      "link": "https://www.amazon.com.br/dp/B07XJZ43N2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BalrBeWmL._SL400_.jpg",
-      "preco": 89.24,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-22T15:23:19.958Z"
-    },
-    {
-      "id": "50364",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Conjunto de chaves de catraca 69408MG, métrico, 8 peças, 8 a 19 mm, liga de aço, bolsa de espuma, 90 dentes",
-      "link": "https://www.amazon.com.br/dp/B0D71ZPYCN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yN5xw8j0L._SL400_.jpg",
-      "preco": 401.04,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-22T15:22:42.715Z"
-    },
-    {
-      "id": "50360",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Conjunto de brocas de impacto ProFlex 33805 com caixa modular, aço S2, chave de fenda magnética, ajustável, 29 bits, 6 tamanhos de soquete",
-      "link": "https://www.amazon.com.br/dp/B0CZSFQSKV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41HNAmUW-mL._SL400_.jpg",
-      "preco": 186.74,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-22T15:22:06.351Z"
-    },
-    {
-      "id": "50359",
-      "loja": "Amazon",
-      "titulo": "Purificador De Água IBBL Fr600 Speciale Prata - 220V",
-      "link": "https://www.amazon.com.br/dp/B076FCTKNP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QNwUnFedL._SL400_.jpg",
-      "preco": 683.05,
-      "precoDe": 1129,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:21:29.082Z"
-    },
-    {
-      "id": "50358",
-      "loja": "Amazon",
-      "titulo": "Powerbuilt Chave catraca e brocas 2 em 1 de 1/10.2 cm, catraca de dedo, vermelha, 941248",
-      "link": "https://www.amazon.com.br/dp/B073WH46Q7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41bZ2Jpv5HL._SL400_.jpg",
-      "preco": 35.09,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-22T15:20:04.949Z"
-    },
-    {
-      "id": "50306",
-      "loja": "Shopee",
-      "titulo": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness Micro-ondas Freezer Forno Organização",
-      "link": "https://s.shopee.com.br/5VX6MK6YEL",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67_tn",
-      "preco": 27.89,
-      "precoDe": 64.86,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:17:55.723Z"
-    },
-    {
-      "id": "50347",
-      "loja": "Shopee",
-      "titulo": "Kit Lancheira Marmita Infantil com Garrafa e Talheres Organização 4 Peças",
-      "link": "https://s.shopee.com.br/AUvmKuIqDR",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mo8r15tp78jk09_tn",
-      "preco": 38.45,
-      "precoDe": 101.18,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:15:41.791Z"
-    },
-    {
-      "id": "50344",
-      "loja": "Shopee",
-      "titulo": "Lanheira Infantil 2 IN 1 Sereia Menina Escolar Maternidade Garrafinha Alca Ajustavel Kit CECES BAG",
-      "link": "https://s.shopee.com.br/5VX6NcVV5n",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-muksiij3r5kw32_tn",
-      "preco": 43.99,
-      "precoDe": 87.98,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:14:00.290Z"
     }
   ]
 }
