@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-24T18:22:12.572Z",
+  "atualizadoEm": "2026-11-24T18:41:35.600Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52059",
+      "loja": "Shopee",
+      "titulo": "Processador Manual 500ml 3 Lâminas 12X9X12CM Alimentos Alho Triturador Multiuso",
+      "link": "https://s.shopee.com.br/AKcPXzUv0k",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mqxmoohzvric4a_tn",
+      "preco": 14.99,
+      "precoDe": 19.99,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T18:34:59.137Z"
+    },
+    {
+      "id": "52058",
+      "loja": "Mercado Livre",
+      "titulo": "Samsung A57 5G (128GB) - Cinza + Watch9 BT 40 mm - Grafite",
+      "link": "https://meli.la/2s925CZ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_630869-MLA121683110201_112026-O.webp",
+      "preco": 2359,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "QUEROOFFHOJE",
+      "enviadoEm": "2026-11-24T18:33:33.642Z"
+    },
+    {
+      "id": "52055",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook ASUS Vivobook Go 15, Intel Celeron Dual Core N4500 1,1 GHz, 8GB RAM, 128GB e-MMC, Tela NanoEdge 15,60\", Windows 11 Home, Star black - E510KA-BR1375WS",
+      "link": "https://meli.la/2Hh85m6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_854681-MLA114550205779_072026-O.webp",
+      "preco": 1912.68,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTOSMELI",
+      "enviadoEm": "2026-11-24T18:31:01.305Z"
+    },
+    {
+      "id": "52054",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514XbDqPdaL._SL400_.jpg",
+      "preco": 146.73,
+      "precoDe": 235.87,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T18:28:41.094Z"
+    },
+    {
+      "id": "52053",
+      "loja": "Shopee",
+      "titulo": "Até 10 Arandelas Solares Externas à Prova d'Água, Liga à Noite e Desliga de Dia Sozinha, Autonomia 12h ou 2h, Luz Quente",
+      "link": "https://s.shopee.com.br/2La80tVsqP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtb42o66nt266_tn",
+      "preco": 30.98,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T18:27:23.564Z"
+    },
     {
       "id": "52034",
       "loja": "Shopee",
@@ -37,18 +97,6 @@
       "desconto": 54,
       "cupom": null,
       "enviadoEm": "2026-11-24T18:06:20.940Z"
-    },
-    {
-      "id": "52024",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/514XbDqPdaL._SL400_.jpg",
-      "preco": 146.73,
-      "precoDe": 235.87,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T18:02:21.751Z"
     },
     {
       "id": "52013",
@@ -5953,54 +6001,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-22T14:59:06.139Z"
-    },
-    {
-      "id": "50312",
-      "loja": "Amazon",
-      "titulo": "Quadrados de Algodão Johnson's Baby, Recém-Nascido, 100 Unidades | Hipoalergênicos, Macios, Absorventes, Ideal para Peles Delicadas",
-      "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Fghdfd+0L._SL400_.jpg",
-      "preco": 22,
-      "precoDe": 34.99,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:58:28.115Z"
-    },
-    {
-      "id": "50309",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Cortadores de fio Klein-Kurve K12035, ferramenta de decapagem de fio resistente, feita nos EUA",
-      "link": "https://www.amazon.com.br/dp/B07V8NPD1M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ntb1EWUaL._SL400_.jpg",
-      "preco": 118.7,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-22T14:57:05.979Z"
-    },
-    {
-      "id": "50307",
-      "loja": "Amazon",
-      "titulo": "Hype London Dry Gin 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CJRZF1MT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31sw9NWeUVL._SL400_.jpg",
-      "preco": 29.88,
-      "precoDe": 49.9,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:56:28.505Z"
-    },
-    {
-      "id": "50305",
-      "loja": "Amazon",
-      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
-      "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31ItOpTbhlL._SL400_.jpg",
-      "preco": 39,
-      "precoDe": 77.99,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:55:52.150Z"
     }
   ]
 }
