@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T13:41:37.743Z",
+  "atualizadoEm": "2026-11-24T14:11:37.357Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,18 +36,6 @@
       "limite": 400,
       "observacao": "Exclusivo Prime, em produtos vendidos e entregues pela Amazon",
       "validadeAte": "2026-11-25T02:30:14.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "PRIME15BLACK",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 90,
-      "observacao": null,
-      "validadeAte": "2026-11-24T14:10:29.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
