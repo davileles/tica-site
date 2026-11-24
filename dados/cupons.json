@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T22:30:47.774Z",
+  "atualizadoEm": "2026-11-24T23:11:36.130Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,18 +24,6 @@
       "limite": 400,
       "observacao": "Exclusivo Prime, em produtos vendidos e entregues pela Amazon",
       "validadeAte": "2026-11-25T02:30:14.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "CUPOMAMAZON",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-24T23:01:04.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
