@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T15:11:37.538Z",
+  "atualizadoEm": "2026-11-24T15:15:39.920Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2280,18 +2280,6 @@
       "limite": 60,
       "observacao": "Válido em produtos selecionados da categoria Esportes",
       "validadeAte": "2026-11-24T22:15:53.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "DESCONTOSMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
