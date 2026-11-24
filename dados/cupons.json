@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T00:42:22.000Z",
+  "atualizadoEm": "2026-11-24T02:42:21.946Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,6 +12,18 @@
       "limite": 50,
       "observacao": "Cupom para primeira compra. Desconto de 50% limitado a R$50 de economia.",
       "validadeAte": "2026-11-24T18:55:28.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "25BF26PRIME",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": 400,
+      "observacao": "Exclusivo Prime, em produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-25T02:30:14.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
