@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T11:12:23.279Z",
+  "atualizadoEm": "2026-11-24T11:58:46.614Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1167,6 +1167,54 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QUEROCUPONS30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PROMOSCERTAS30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORNOML30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VEMPROMELI30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1872,6 +1920,30 @@
       "limite": 45,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-25T03:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CUPOMDOML25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREPROMELI25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
+      "validadeAte": "2026-11-25T11:50:19.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
