@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T14:41:37.591Z",
+  "atualizadoEm": "2026-11-24T15:11:37.538Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -351,6 +351,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
+      "codigo": "PETNABLACK",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Pet Shops",
+      "validadeAte": "2026-11-25T15:04:01.000Z",
+      "url": null
+    },
+    {
       "codigo": "BFSEMANA",
       "loja": "iFood",
       "tipo": "reais",
@@ -384,6 +396,18 @@
       "limite": null,
       "observacao": "R$ 20 OFF em Farmácias - dois códigos disponíveis",
       "validadeAte": "2026-11-24T19:00:22.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFCHURRAS",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido apenas em itens de Churrasco",
+      "validadeAte": "2026-11-25T15:00:32.000Z",
       "url": null
     },
     {
@@ -519,6 +543,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TODO2411SITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T15:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAGALUTECH",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -546,10 +582,10 @@
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 70,
+      "valor": 80,
       "minimo": 499,
       "maximo": null,
-      "limite": 70,
+      "limite": 80,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
@@ -576,6 +612,18 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados da categoria de beleza/cabelos",
       "validadeAte": "2026-11-24T21:40:49.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SITETODO2411",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1236,6 +1284,18 @@
       "limite": 500,
       "observacao": "Cupons válidos para itens selecionados em cada lista fornecida",
       "validadeAte": "2026-11-25T11:50:19.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOSITE2411",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 159,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2223,18 +2283,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "OFICIAIS2411",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 40,
-      "observacao": null,
-      "validadeAte": "2026-11-25T12:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTOSMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2254,6 +2302,18 @@
       "minimo": 199,
       "maximo": null,
       "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VOCEDEZ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
