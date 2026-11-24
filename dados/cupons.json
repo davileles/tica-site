@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T23:07:21.486Z",
+  "atualizadoEm": "2026-11-24T00:08:05.583Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1860,6 +1860,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-24T12:03:24.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAISQUEOFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupom válido para produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-24T23:59:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
