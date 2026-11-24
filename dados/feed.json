@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-24T21:11:35.622Z",
+  "atualizadoEm": "2026-11-24T21:35:47.133Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52245",
+      "loja": "Amazon",
+      "titulo": "Espumante Chandon Baby Réserve Brut 187ml 12 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F7FQ65P2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51yM-8+j53L._SL400_.jpg",
+      "preco": 564.21,
+      "precoDe": 626.9,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T21:25:47.131Z"
+    },
+    {
+      "id": "52243",
+      "loja": "Shopee",
+      "titulo": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
+      "link": "https://s.shopee.com.br/9072933Ezl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mmq5jxduwbggec_tn",
+      "preco": 19.9,
+      "precoDe": 49.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T21:20:44.600Z"
+    },
+    {
+      "id": "52242",
+      "loja": "Mercado Livre",
+      "titulo": "DeWalt Furadeira e Parafusadeira de Impacto DCD7781D1 com Acessórios",
+      "link": "https://meli.la/2MpXC9k",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789447-MLA99589205382_122025-O.webp",
+      "preco": 800.1,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "CURTAMELI",
+      "enviadoEm": "2026-11-24T21:16:10.918Z"
+    },
+    {
+      "id": "52240",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Bluetooth Jbl Partybox Stage 330 Com 280w De Po",
+      "link": "https://meli.la/1JScX6t",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794006-MLB117492743225_092026-O.webp",
+      "preco": 2299,
+      "precoDe": 2780.93,
+      "desconto": 17,
+      "cupom": "QUEROOFFHOJE",
+      "enviadoEm": "2026-11-24T21:12:34.652Z"
+    },
     {
       "id": "52239",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 65,
       "cupom": null,
       "enviadoEm": "2026-11-22T15:56:25.507Z"
-    },
-    {
-      "id": "50417",
-      "loja": "Mercado Livre",
-      "titulo": "Canecas e Copos Térmicos Watersy 350ml",
-      "link": "https://meli.la/1YJaLC1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730565-MLB114230195216_082026-P.webp",
-      "preco": 19.17,
-      "precoDe": 69,
-      "desconto": 60,
-      "cupom": "SUPERVALEMELI",
-      "enviadoEm": "2026-11-22T15:55:08.051Z"
-    },
-    {
-      "id": "50415",
-      "loja": "Amazon",
-      "titulo": "TP-Link Tapo C113 Câmera de Segurança Wi-Fi 2K 3MP para Ambientes Internos e Externos, Visão Noturna Colorida de até 12 m, Detecção por IA sem Assinatura, IP65, Áudio Bidirecional,",
-      "link": "https://www.amazon.com.br/dp/B0GGVD5RB3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fLTmTMW8L._SL400_.jpg",
-      "preco": 126.65,
-      "precoDe": 149,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:53:46.566Z"
-    },
-    {
-      "id": "50414",
-      "loja": "Amazon",
-      "titulo": "Metabo HPT Pregador de palma, pregos pneumáticos preferidos profissionais, ferramenta de palma para ganchos e conectores de viga, nariz magnético para fixação precisa, plugue girat",
-      "link": "https://www.amazon.com.br/dp/B07MSL5X4W?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31uxrgXlRPL._SL400_.jpg",
-      "preco": 234.61,
-      "precoDe": 413.69,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:52:30.798Z"
-    },
-    {
-      "id": "50413",
-      "loja": "Amazon",
-      "titulo": "Gin Tanqueray London Dry, 750ml",
-      "link": "https://www.amazon.com.br/dp/B006I1M8ZU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31mKO5ZVn0L._SL400_.jpg",
-      "preco": 73.97,
-      "precoDe": 142.9,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:51:55.704Z"
     }
   ]
 }
