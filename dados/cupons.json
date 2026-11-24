@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T16:11:37.466Z",
+  "atualizadoEm": "2026-11-24T17:41:37.630Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -49,6 +49,66 @@
       "observacao": null,
       "validadeAte": "2026-11-24T23:01:04.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SURPRESA",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 80,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "AMEND35",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": 109,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "CADIVEU30",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "GANHE25SIAGE",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 149,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
+    },
+    {
+      "codigo": "GANHE25NIINA",
+      "loja": "BELEZA NA WEB",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 139,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-02T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=29407&id=1207116"
     },
     {
       "codigo": "GANHE20SIAGE",
@@ -2235,6 +2295,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ESPORTES15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupom válido em produtos selecionados da categoria Esportes",
+      "validadeAte": "2026-11-25T17:30:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2293,6 +2365,18 @@
       "observacao": null,
       "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BASQUETE20",
+      "loja": "Nike",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
