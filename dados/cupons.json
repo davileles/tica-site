@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T15:15:39.920Z",
+  "atualizadoEm": "2026-11-24T16:11:37.466Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -315,6 +315,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17665&id=1207116"
     },
     {
+      "codigo": "TUDOPOR59",
+      "loja": "Centauro",
+      "tipo": "reais",
+      "valor": 59,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em selecionados da lista fornecida",
+      "validadeAte": "2026-11-25T16:07:57.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
+    },
+    {
       "codigo": "CUPOMDESCONTO70",
       "loja": "Dufrio",
       "tipo": "reais",
@@ -531,6 +543,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "OFERTAPRATECH",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2699,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T15:54:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "QUEROOFFHOJE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -540,18 +564,6 @@
       "limite": 250,
       "observacao": null,
       "validadeAte": "2026-11-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODO2411SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 230,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-25T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -612,18 +624,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados da categoria de beleza/cabelos",
       "validadeAte": "2026-11-24T21:40:49.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SITETODO2411",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-25T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2172,18 +2172,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FERRAMENTAMAIS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
