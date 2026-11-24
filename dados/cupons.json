@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T18:11:37.669Z",
+  "atualizadoEm": "2026-11-24T18:22:14.555Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2367,6 +2367,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIUZDECOR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 259,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "15% OFF em produtos selecionados com compra mínima de R$259, desconto máximo de R$200",
+      "validadeAte": "2026-11-25T18:12:51.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "LOJASOFICIAIS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2400,6 +2412,18 @@
       "limite": 60,
       "observacao": "Válido em produtos selecionados da categoria Esportes",
       "validadeAte": "2026-11-24T22:15:53.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTOSMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
