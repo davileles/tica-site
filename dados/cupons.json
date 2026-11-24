@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T20:41:37.511Z",
+  "atualizadoEm": "2026-11-24T21:11:37.985Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -471,6 +471,18 @@
       "url": null
     },
     {
+      "codigo": "BFNOVOMER",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-25T20:42:24.000Z",
+      "url": null
+    },
+    {
       "codigo": "BFCHURRAS",
       "loja": "iFood",
       "tipo": "reais",
@@ -528,6 +540,18 @@
       "limite": null,
       "observacao": "Valor do desconto não informado na mensagem",
       "validadeAte": "2026-11-24T21:33:25.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFNOVOMER",
+      "loja": "iFood Mercado",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Informações de tipo e valor de desconto não especificadas na mensagem",
+      "validadeAte": "2026-11-25T20:41:36.000Z",
       "url": null
     },
     {
@@ -2232,6 +2256,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PECHINCHOULAR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-25T21:03:56.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
