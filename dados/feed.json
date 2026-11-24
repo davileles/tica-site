@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-24T12:42:35.483Z",
+  "atualizadoEm": "2026-11-24T13:11:35.483Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51681",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Circular Sem Fio Brushless Hanabi 2x Baterias 4ah 21v Azul",
+      "link": "https://meli.la/2FHMW2w",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_831330-MLA107560622102_032026-O.webp",
+      "preco": 350.54,
+      "precoDe": 599,
+      "desconto": 29,
+      "cupom": "FERRAMENTAMAIS",
+      "enviadoEm": "2026-11-24T13:11:30.707Z"
+    },
+    {
+      "id": "51679",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo Soquetes Estriados 1/2 Com Catraca 8-32mm Gedore Robust",
+      "link": "https://meli.la/19bLr7N",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984764-MLB114214916803_072026-O.webp",
+      "preco": 208.55,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTAMAIS",
+      "enviadoEm": "2026-11-24T13:10:55.951Z"
+    },
+    {
+      "id": "51674",
+      "loja": "Mercado Livre",
+      "titulo": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
+      "link": "https://meli.la/1VJuQ9K",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-O.webp",
+      "preco": 201.76000000000002,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "FERRAMENTAMAIS",
+      "enviadoEm": "2026-11-24T13:08:59.809Z"
+    },
+    {
+      "id": "51672",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Bluetooth Jbl Partybox Encore Essential 2 Preto",
+      "link": "https://meli.la/318xUiF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761749-MLB110311307674_052026-O.webp",
+      "preco": 1025.1,
+      "precoDe": 1160.76,
+      "desconto": 2,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T13:08:24.251Z"
+    },
+    {
+      "id": "51665",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Furadeira De Impacto Profissional Sem Fio 2 Baterias 21v Com Maleta Tb-21yx The Black Tools - R$ 199,90",
+      "link": "https://meli.la/33GsUPp",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA116116104443_082026-P.webp",
+      "preco": 163.92000000000002,
+      "precoDe": 319.9,
+      "desconto": 38,
+      "cupom": "FERRAMENTAMAIS",
+      "enviadoEm": "2026-11-24T13:06:56.062Z"
+    },
+    {
+      "id": "51662",
+      "loja": "Mercado Livre",
+      "titulo": "Bracelete Pandora Pulseira De Prata E Fecho Coracao",
+      "link": "https://meli.la/1u6WyVx",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707868-MLB115102454623_072026-O.webp",
+      "preco": 389.96000000000004,
+      "precoDe": 619,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T13:06:24.764Z"
+    },
+    {
+      "id": "51659",
+      "loja": "Amazon",
+      "titulo": "Furadeira Parafusadeira Impacto Sem Fio GSB 185-LI 18V com Maleta Bosch",
+      "link": "https://www.amazon.com.br/dp/B0BS77VG1X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RnsFj3lfL._SL400_.jpg",
+      "preco": 474.46000000000004,
+      "precoDe": 779.9,
+      "desconto": 24,
+      "cupom": "20BF26PRIME",
+      "enviadoEm": "2026-11-24T13:03:22.576Z"
+    },
+    {
+      "id": "51651",
+      "loja": "Shopee",
+      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
+      "link": "https://s.shopee.com.br/W8TSomvSD",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
+      "preco": 16.95,
+      "precoDe": 67.8,
+      "desconto": 75,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T12:56:48.517Z"
+    },
+    {
+      "id": "51648",
+      "loja": "Amazon",
+      "titulo": "Aspirador de Pó Vertical WAP Power Speed Max CZ40, 127V, 1,3L | Reservatório de poeira com capacidade total de 1,3L.",
+      "link": "https://www.amazon.com.br/dp/B0HG3BRBPC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21TJ72iSkDL._SL400_.jpg",
+      "preco": 186.88,
+      "precoDe": 329.9,
+      "desconto": 29,
+      "cupom": "20BF26PRIME",
+      "enviadoEm": "2026-11-24T12:54:03.552Z"
+    },
+    {
+      "id": "51632",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+      "link": "https://s.shopee.com.br/9pg8ZDNRWi",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
+      "preco": 76.29,
+      "precoDe": 136.23,
+      "desconto": 44,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T12:45:48.140Z"
+    },
     {
       "id": "51629",
       "loja": "Amazon",
@@ -3483,18 +3603,6 @@
       "enviadoEm": "2026-11-22T18:35:22.765Z"
     },
     {
-      "id": "50526",
-      "loja": "Mercado Livre",
-      "titulo": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
-      "link": "https://meli.la/1VJuQ9K",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-F.jpg",
-      "preco": 229.42,
-      "precoDe": 513.39,
-      "desconto": 47,
-      "cupom": "CASA2211",
-      "enviadoEm": "2026-11-22T18:34:49.806Z"
-    },
-    {
       "id": "50525",
       "loja": "Mercado Livre",
       "titulo": "Pulverizador Costal Kawashima PEM-P20 20L Bateria e Manual Azul",
@@ -5893,114 +6001,6 @@
       "desconto": null,
       "cupom": "BF40",
       "enviadoEm": "2026-11-21T17:41:07.565Z"
-    },
-    {
-      "id": "49988",
-      "loja": "Shopee",
-      "titulo": "coleira e Guia para cachorro nome personalizado coleira peitoral conforto peiteira sistema amortecedor impacto regulagem",
-      "link": "https://s.shopee.com.br/30pjxspISd",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b_tn",
-      "preco": 14.74,
-      "precoDe": 36.85,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T17:35:38.748Z"
-    },
-    {
-      "id": "49985",
-      "loja": "Amazon",
-      "titulo": "AB Brasil Achocolatado Com Flocos Crocantes Ovomaltine 600G",
-      "link": "https://www.amazon.com.br/dp/B07YBPJ8FG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41pJTZeaD0L._SL400_.jpg",
-      "preco": 26.08,
-      "precoDe": 40.65,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T14:08:51.140Z"
-    },
-    {
-      "id": "49983",
-      "loja": "Mercado Livre",
-      "titulo": "Prancha Alisadora De Cabelos Ppr08 Ceramic Black Philco Cor Preto",
-      "link": "https://meli.la/1E73TAy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884406-MLA116904865898_092026-F.jpg",
-      "preco": 48.66,
-      "precoDe": 87.88,
-      "desconto": 21,
-      "cupom": "ESPECIAL",
-      "enviadoEm": "2026-11-21T14:07:38.178Z"
-    },
-    {
-      "id": "49980",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
-      "link": "https://meli.la/18mBxV5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787808-MLA109215385620_042026-F.jpg",
-      "preco": 25.99,
-      "precoDe": 39.9,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T14:04:33.867Z"
-    },
-    {
-      "id": "49974",
-      "loja": "Shopee",
-      "titulo": "Colchonete p/ Academia Premium 90x40x3 cm Espuma Macia D23 Impermeável Compacto Fit Mat Yoga Pilates",
-      "link": "https://s.shopee.com.br/W8OkYcSID",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzjhnmdxayw586_tn",
-      "preco": 28.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T14:01:01.716Z"
-    },
-    {
-      "id": "49971",
-      "loja": "Amazon",
-      "titulo": "Shampoo Johnson's Baby Cheirinho Prolongado, 400ml",
-      "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41vG4C1XcdL._SL400_.jpg",
-      "preco": 17.09,
-      "precoDe": 34.99,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T13:57:39.243Z"
-    },
-    {
-      "id": "49969",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Apple 1L",
-      "link": "https://www.amazon.com.br/dp/B085P94ML6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iea8JxMdL._SL400_.jpg",
-      "preco": 112.58,
-      "precoDe": 174.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-21T13:57:12.696Z"
-    },
-    {
-      "id": "49966",
-      "loja": "Amazon",
-      "titulo": "Buddemeyer Jogo de toalhas Florentina Extra Soft Banho Bege 4 peças",
-      "link": "https://www.amazon.com.br/dp/B08FK58K8P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41F76K2r-+L._SL400_.jpg",
-      "preco": 116,
-      "precoDe": 229.9,
-      "desconto": 37,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-21T13:56:16.247Z"
-    },
-    {
-      "id": "49965",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Rosa",
-      "link": "https://meli.la/1cVfTiG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984483-MLA113635672926_072026-F.jpg",
-      "preco": 1379,
-      "precoDe": 2399,
-      "desconto": 41,
-      "cupom": "SITETODO2111",
-      "enviadoEm": "2026-11-21T13:53:25.369Z"
     }
   ]
 }
