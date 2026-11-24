@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T21:11:37.985Z",
+  "atualizadoEm": "2026-11-24T21:35:48.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -531,18 +531,6 @@
       "url": null
     },
     {
-      "codigo": "BFSAUDEMAIS",
-      "loja": "iFood",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Valor do desconto não informado na mensagem",
-      "validadeAte": "2026-11-24T21:33:25.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFNOVOMER",
       "loja": "iFood Mercado",
       "tipo": "pct",
@@ -672,18 +660,6 @@
       "limite": 250,
       "observacao": null,
       "validadeAte": "2026-11-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAGALUTECH",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 1999,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
-      "validadeAte": "2026-11-24T21:14:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
