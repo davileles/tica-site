@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-24T15:41:35.488Z",
+  "atualizadoEm": "2026-11-24T15:52:16.974Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51853",
+      "loja": "Shopee",
+      "titulo": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "link": "https://s.shopee.com.br/1BOARPcJ13",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6_tn",
+      "preco": 458.99,
+      "precoDe": 596.09,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T15:42:16.969Z"
+    },
     {
       "id": "51852",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 30,
       "cupom": null,
       "enviadoEm": "2026-11-22T13:06:10.556Z"
-    },
-    {
-      "id": "50180",
-      "loja": "Shopee",
-      "titulo": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
-      "link": "https://s.shopee.com.br/7pv0zxGbKz",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpwc3oj49xxe16_tn",
-      "preco": 37.99,
-      "precoDe": 67.84,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:48:38.221Z"
     }
   ]
 }
