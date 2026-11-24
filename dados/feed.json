@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-24T22:30:45.830Z",
+  "atualizadoEm": "2026-11-24T22:40:56.508Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52279",
+      "loja": "Amazon",
+      "titulo": "CRAFTSMAN Chave de fenda de catraca, conjunto de empurrar e escolher, 7 peças (CMHT68131)",
+      "link": "https://www.amazon.com.br/dp/B0CH3YZJ11?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/310drA+XsaL._SL400_.jpg",
+      "preco": 108.12,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF30",
+      "enviadoEm": "2026-11-24T22:30:56.505Z"
+    },
     {
       "id": "52277",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 53,
       "cupom": null,
       "enviadoEm": "2026-11-22T16:32:09.927Z"
-    },
-    {
-      "id": "50450",
-      "loja": "Amazon",
-      "titulo": "Lava Louças 8 Serviços Brastemp Cinza - BLF08BS 110V",
-      "link": "https://www.amazon.com.br/dp/B0BTFCXSMS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31waPP-pMzL._SL400_.jpg",
-      "preco": 1747,
-      "precoDe": 1949,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:30:04.785Z"
     }
   ]
 }
