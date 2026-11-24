@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-24T15:32:41.076Z",
+  "atualizadoEm": "2026-11-24T15:41:35.488Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "51852",
+      "loja": "Shopee",
+      "titulo": "Depilador Elétrico Feminino Recarregável, Navalha Dupla - Removedor de Pelos",
+      "link": "https://s.shopee.com.br/8VAlAkeQGh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi5pey1oeyv6e1_tn",
+      "preco": 24.99,
+      "precoDe": 119,
+      "desconto": 79,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T15:40:19.552Z"
+    },
+    {
+      "id": "51851",
+      "loja": "Amazon",
+      "titulo": "GEARWRENCH Conjunto de chaves Torx 83517 com cabo T de 7 peças",
+      "link": "https://www.amazon.com.br/dp/B098V27V7R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/311FsudfdfL._SL400_.jpg",
+      "preco": 116.21,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "20FFNOV",
+      "enviadoEm": "2026-11-24T15:36:27.096Z"
+    },
+    {
+      "id": "51850",
+      "loja": "Mercado Livre",
+      "titulo": "Medicube Txa+niacinamida 15% Sérum 30 ml",
+      "link": "https://meli.la/2LbFLSe",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794489-MLA115528209811_082026-O.webp",
+      "preco": 107.63999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "VOCEDEZ",
+      "enviadoEm": "2026-11-24T15:35:52.552Z"
+    },
+    {
+      "id": "51849",
+      "loja": "Shopee",
+      "titulo": "Projetor HY300 Bivolt 4K com Wi-fi e Bluetooth compatível com Android e iOs",
+      "link": "https://s.shopee.com.br/6fj6xgkA8S",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ib-mpijkctweuwx01_tn",
+      "preco": 149.99,
+      "precoDe": 298.37,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T15:32:41.883Z"
+    },
     {
       "id": "51848",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 44,
       "cupom": null,
       "enviadoEm": "2026-11-22T12:48:38.221Z"
-    },
-    {
-      "id": "50175",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
-      "link": "https://s.shopee.com.br/7VIAa4Vlq1",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9_tn",
-      "preco": 18.7,
-      "precoDe": 47.95,
-      "desconto": 61,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:31:13.264Z"
-    },
-    {
-      "id": "50176",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-      "link": "https://meli.la/1yjYtXC",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_932731-MLA121459345181_112026-F.jpg",
-      "preco": 155.44,
-      "precoDe": 228.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:29:51.857Z"
-    },
-    {
-      "id": "50174",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
-      "link": "https://meli.la/2Qa1Bqd",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838422-MLA121397315293_112026-F.jpg",
-      "preco": 155.44,
-      "precoDe": 228.9,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:29:17.329Z"
-    },
-    {
-      "id": "50172",
-      "loja": "Shopee",
-      "titulo": "Bola Voadora LED Boomerang Brinquedo Interativo Infantil Mini Drone Spinner Recarregável Presente",
-      "link": "https://s.shopee.com.br/906yMemRhw",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mpl56dwl5m2pbe_tn",
-      "preco": 26,
-      "precoDe": 50,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T12:27:42.784Z"
     }
   ]
 }
