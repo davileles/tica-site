@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-24T22:11:06.081Z",
+  "atualizadoEm": "2026-11-24T22:30:45.830Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52277",
+      "loja": "Amazon",
+      "titulo": "Multi-Driver 6 em One SoftFinish",
+      "link": "https://www.amazon.com.br/dp/B08PCCL6LL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21XRys4YYYL._SL400_.jpg",
+      "preco": 62.32,
+      "precoDe": 97.03,
+      "desconto": 36,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T22:20:45.824Z"
+    },
+    {
+      "id": "52276",
+      "loja": "Mercado Livre",
+      "titulo": "Refrigerador Panasonic 407l Black Glass Nr-bb41gv2b Preto - R$ 3.799",
+      "link": "https://meli.la/1iLcJze",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_977308-MLA106257661295_012026-P.webp",
+      "preco": 3499,
+      "precoDe": 5399,
+      "desconto": 30,
+      "cupom": "OFERTAPRATECH",
+      "enviadoEm": "2026-11-24T22:18:36.434Z"
+    },
+    {
+      "id": "52275",
+      "loja": "Amazon",
+      "titulo": "NIVEA KIT Sabonete Líquido Óleo de Banho 200ml - 2 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0F56WW6Q3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/410V9AXxPdL._SL400_.jpg",
+      "preco": 49.89,
+      "precoDe": 64.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T22:17:12.192Z"
+    },
+    {
+      "id": "52273",
+      "loja": "Mercado Livre",
+      "titulo": "Controle Sem Fio Sony Dualsense Hyperpop, Ps5, Techno Red",
+      "link": "https://meli.la/2Hoboty",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_689246-MLB117666105656_102026-O.webp",
+      "preco": 349.51,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTOSMELI",
+      "enviadoEm": "2026-11-24T22:13:23.651Z"
+    },
     {
       "id": "52265",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-22T16:30:04.785Z"
-    },
-    {
-      "id": "50449",
-      "loja": "Amazon",
-      "titulo": "Pokémon TCG: Mega Evolution - Reinado Delta - 3-Pack Blister - Português",
-      "link": "https://www.amazon.com.br/dp/B0HK1CGPFT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51o2UeycX+L._SL400_.jpg",
-      "preco": 25.589999999999996,
-      "precoDe": 42.99,
-      "desconto": 26,
-      "cupom": "BRINQSBF",
-      "enviadoEm": "2026-11-22T16:28:21.220Z"
-    },
-    {
-      "id": "50447",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Drift Osklen (diversas cores)",
-      "link": "https://meli.la/2us16cc",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_780694-MLB112320464220_062026-P.webp",
-      "preco": 154.51999999999998,
-      "precoDe": 347,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:27:07.013Z"
-    },
-    {
-      "id": "50444",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 5 Panos de Prato Atoalhados",
-      "link": "https://meli.la/2zeBCmZ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603329-MLB111718886580_062026-P.webp",
-      "preco": 39.9,
-      "precoDe": 69.9,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:23:32.807Z"
-    },
-    {
-      "id": "50443",
-      "loja": "Shopee",
-      "titulo": "Escova de dentes elétrica recarregável Sonic IPX7",
-      "link": "https://s.shopee.com.br/70LuF3eZIx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly71fhy25v9x92_tn",
-      "preco": 16.99,
-      "precoDe": 80.9,
-      "desconto": 79,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:22:02.455Z"
     }
   ]
 }
