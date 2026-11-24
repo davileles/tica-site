@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-24T21:35:47.133Z",
+  "atualizadoEm": "2026-11-24T21:41:35.622Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52248",
+      "loja": "Amazon",
+      "titulo": "Monitor Gamer Samsung 24\" FHD, 120 Hz, HDMI, Preto, S3",
+      "link": "https://www.amazon.com.br/dp/B0FBRZ1ZPB?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41BaJVdWulL._SL400_.jpg",
+      "preco": 434,
+      "precoDe": 539,
+      "desconto": 19,
+      "cupom": "CUPOMAMAZON",
+      "enviadoEm": "2026-11-24T21:39:18.615Z"
+    },
     {
       "id": "52245",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-22T15:57:42.919Z"
-    },
-    {
-      "id": "50418",
-      "loja": "Amazon",
-      "titulo": "Leave-in Spray Rapunzel Milk Lola Cosmetics, 250ml | Fios macios e desembaraçados – 250ml",
-      "link": "https://www.amazon.com.br/dp/B074LSYFTJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319xwb8nH-L._SL400_.jpg",
-      "preco": 21.18,
-      "precoDe": 59.9,
-      "desconto": 65,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T15:56:25.507Z"
     }
   ]
 }
