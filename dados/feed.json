@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-24T17:41:35.577Z",
+  "atualizadoEm": "2026-11-24T18:11:35.577Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52033",
+      "loja": "Mercado Livre",
+      "titulo": "Notebook Gamer Acer Nitro V 15 com Placa NVIDIA GeForce RTX 4050 6GB Processador AMD Ryzen 7 7735HS 8GB de Memória RAM DDR5 Armazenamento 512GB SSD Tela 15.6&quot; Full HD 165Hz IP",
+      "link": "https://meli.la/2viFEnu",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_809157-MLA118254481883_092026-P.webp",
+      "preco": 5299,
+      "precoDe": 8570,
+      "desconto": 35,
+      "cupom": "OFERTAPRATECH",
+      "enviadoEm": "2026-11-24T18:10:52.277Z"
+    },
+    {
+      "id": "52026",
+      "loja": "Shopee",
+      "titulo": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
+      "link": "https://s.shopee.com.br/2La7zRxRLn",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c_tn",
+      "preco": 11.99,
+      "precoDe": 26.07,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T18:06:20.940Z"
+    },
+    {
+      "id": "52024",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+      "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/514XbDqPdaL._SL400_.jpg",
+      "preco": 146.73,
+      "precoDe": 235.87,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T18:02:21.751Z"
+    },
+    {
+      "id": "52013",
+      "loja": "Amazon",
+      "titulo": "Gin Bombay Sapphire 750ml",
+      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
+      "preco": 70.29,
+      "precoDe": 126.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T17:54:14.678Z"
+    },
+    {
+      "id": "52006",
+      "loja": "Shopee",
+      "titulo": "Pillow Top 400 Fios Super Macio Matelado – Solteiro, Casal, Queen e King | Ajuste Perfeito",
+      "link": "https://s.shopee.com.br/7AfNjDKRjG",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mmvop81nlama8e_tn",
+      "preco": 116.99,
+      "precoDe": 129.99,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T17:50:07.118Z"
+    },
+    {
+      "id": "52000",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/3LSf9qLG2E",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d_tn",
+      "preco": 31.96,
+      "precoDe": 45.01,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T17:45:24.844Z"
+    },
+    {
+      "id": "51999",
+      "loja": "Amazon",
+      "titulo": "Secret Clinical Desodorante Antitranspirante em Gel Lavanda Invisível 45 g",
+      "link": "https://www.amazon.com.br/dp/B0GZ7535SW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ENQAhLd-L._SL400_.jpg",
+      "preco": 14.99,
+      "precoDe": 37.9,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T17:43:54.389Z"
+    },
+    {
+      "id": "51995",
+      "loja": "Amazon",
+      "titulo": "Kit 2 Detergentes Lava Louças Finish Powerball 13 tabs + 1 Finish Secante 250ml",
+      "link": "https://www.amazon.com.br/dp/B08KL4GQZV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51vnzkOC-vL._SL400_.jpg",
+      "preco": 82.64,
+      "precoDe": 124.49,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-24T17:42:33.978Z"
+    },
     {
       "id": "51986",
       "loja": "Amazon",
@@ -4971,18 +5067,6 @@
       "enviadoEm": "2026-11-22T17:23:48.042Z"
     },
     {
-      "id": "50480",
-      "loja": "Amazon",
-      "titulo": "Gin Bombay Sapphire 750ml",
-      "link": "https://www.amazon.com.br/dp/B001TP3GCE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41329NGXz2L._SL400_.jpg",
-      "preco": 71.68,
-      "precoDe": 126.9,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:20:35.620Z"
-    },
-    {
       "id": "50479",
       "loja": "Mercado Livre",
       "titulo": "Tênis Break Start Adidas (38 ao 43)",
@@ -5917,90 +6001,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-22T14:54:13.069Z"
-    },
-    {
-      "id": "50303",
-      "loja": "Amazon",
-      "titulo": "Cachaça de Jambu - Jambuzera 500ml",
-      "link": "https://www.amazon.com.br/dp/B08HT16FKW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315VDU3RSWL._SL400_.jpg",
-      "preco": 48.35,
-      "precoDe": 89.67,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:53:36.746Z"
-    },
-    {
-      "id": "50302",
-      "loja": "Shopee",
-      "titulo": "Calça Legging Gestante Preta Cós Alto Confortável Maternidade PP ao Plus Size",
-      "link": "https://s.shopee.com.br/50aplGTl2L",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mveyk1164yyrae_tn",
-      "preco": 35.99,
-      "precoDe": 59.69,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:52:58.867Z"
-    },
-    {
-      "id": "50301",
-      "loja": "Amazon",
-      "titulo": "Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades | Material respirável",
-      "link": "https://www.amazon.com.br/dp/B08K4L452V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51r5N01SM7L._SL400_.jpg",
-      "preco": 140.85,
-      "precoDe": 182.45,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:51:42.323Z"
-    },
-    {
-      "id": "50299",
-      "loja": "Amazon",
-      "titulo": "Vodka Smirnoff Ice 275ml - Pack 6 unidades",
-      "link": "https://www.amazon.com.br/dp/B08NH7X45Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fi3yM2MfL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 46.74,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:48:19.164Z"
-    },
-    {
-      "id": "50296",
-      "loja": "Amazon",
-      "titulo": "Hellmann's Maionese Light 500g",
-      "link": "https://www.amazon.com.br/dp/B08665CRL6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41MxPsqg2dL._SL400_.jpg",
-      "preco": 8,
-      "precoDe": 12.95,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:47:24.392Z"
-    },
-    {
-      "id": "50293",
-      "loja": "Amazon",
-      "titulo": "Grey Goose, Vodka L'Orange - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B002VXFSS8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31f4SpjwYYL._SL400_.jpg",
-      "preco": 139.9,
-      "precoDe": 174.9,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:45:06.792Z"
-    },
-    {
-      "id": "50292",
-      "loja": "Shopee",
-      "titulo": "Kit Jogo de Lençol Mini Berço 3 Peças Personalizado com Nome do Bebê Enxoval",
-      "link": "https://s.shopee.com.br/2BGeNVA8xi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mucdwimr9koz90_tn",
-      "preco": 48.99,
-      "precoDe": 80.31,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T14:44:31.099Z"
     }
   ]
 }
