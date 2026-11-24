@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T19:11:43.975Z",
+  "atualizadoEm": "2026-11-24T19:41:37.869Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2283,6 +2283,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "AUTOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2351,7 +2363,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": "15% OFF em produtos selecionados com compra mínima de R$259, desconto máximo de R$200",
-      "validadeAte": "2026-11-25T18:12:51.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2435,7 +2447,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-25T19:00:38.000Z",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
