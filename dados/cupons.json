@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T17:41:37.630Z",
+  "atualizadoEm": "2026-11-24T18:11:37.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -387,6 +387,54 @@
       "url": "https://www.awin1.com/awclick.php?mid=17806&id=1207116"
     },
     {
+      "codigo": "QUERO30",
+      "loja": "Dafiti",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
+    },
+    {
+      "codigo": "QUERO25",
+      "loja": "Dafiti",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
+    },
+    {
+      "codigo": "QUERO20",
+      "loja": "Dafiti",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
+    },
+    {
+      "codigo": "QUERO15",
+      "loja": "Dafiti",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
+    },
+    {
       "codigo": "CUPOMDESCONTO70",
       "loja": "Dufrio",
       "tipo": "reais",
@@ -435,18 +483,6 @@
       "url": null
     },
     {
-      "codigo": "BFSEMANA",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Desconto de R$20 OFF em pedidos do Mercado no iFood",
-      "validadeAte": "2026-11-24T18:00:07.000Z",
-      "url": null
-    },
-    {
       "codigo": "SAUDEBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -480,6 +516,18 @@
       "limite": null,
       "observacao": "Válido apenas em itens de Churrasco",
       "validadeAte": "2026-11-25T15:00:32.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFATACADO",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "R$ 20 OFF em pedidos do Mercado no iFood",
+      "validadeAte": "2026-11-25T18:00:19.000Z",
       "url": null
     },
     {
@@ -609,9 +657,9 @@
       "valor": 300,
       "minimo": 2699,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": null,
-      "validadeAte": "2026-11-25T15:54:58.000Z",
+      "validadeAte": "2026-11-25T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2304,6 +2352,18 @@
       "limite": 80,
       "observacao": "Cupom válido em produtos selecionados da categoria Esportes",
       "validadeAte": "2026-11-25T17:30:58.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "M0D4TUHS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "15% OFF em compras a partir de R$ 159, com desconto máximo limitado a R$ 35",
+      "validadeAte": "2026-11-25T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
