@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-25T15:34:01.306Z",
+  "atualizadoEm": "2026-11-25T16:10:51.365Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52658",
+      "loja": "Shopee",
+      "titulo": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
+      "link": "https://s.shopee.com.br/7VIFbDdv2j",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lqywie4_tn",
+      "preco": 65.99,
+      "precoDe": 77.64,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T16:00:51.363Z"
+    },
+    {
+      "id": "52655",
+      "loja": "Mercado Livre",
+      "titulo": "O Boticário Egeo Bomb Black Masculino",
+      "link": "https://meli.la/1TWwhmH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_725580-MLA84545221476_052025-O.webp",
+      "preco": 97.9,
+      "precoDe": 164.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:54:27.558Z"
+    },
+    {
+      "id": "52653",
+      "loja": "Mercado Livre",
+      "titulo": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy - R$ 270,75",
+      "link": "https://meli.la/2mi3UnS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650927-MLA120371414079_102026-P.webp",
+      "preco": 222.01,
+      "precoDe": 479.9,
+      "desconto": 44,
+      "cupom": "OBRASEGURA",
+      "enviadoEm": "2026-11-25T15:51:22.944Z"
+    },
+    {
+      "id": "52651",
+      "loja": "Amazon",
+      "titulo": "Papel Toalha em Rolo Scala Plus Mega, 360 Toalhas | 3 Rolos de 120 Toalhas Cada, Alto Absorvente, Máxima Resistência",
+      "link": "https://www.amazon.com.br/dp/B09WC4T9F9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UH3v78hEL._SL400_.jpg",
+      "preco": 11.39,
+      "precoDe": 17.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:49:10.275Z"
+    },
+    {
+      "id": "52649",
+      "loja": "Amazon",
+      "titulo": "Huggies Rápida Absorção Fralda Descartável, Absorção Em Segundos M - 92 UN | Absorção em segundos",
+      "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/411jHSxBiiL._SL400_.jpg",
+      "preco": 65.47,
+      "precoDe": 109.03,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:47:07.102Z"
+    },
+    {
+      "id": "52642",
+      "loja": "Shopee",
+      "titulo": "Kit 3 Faixas Elásticas de Tecido Treino Yoga Resistentes Confortáveis e Antideslizantes",
+      "link": "https://s.shopee.com.br/8fUCxvAFGA",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mm21sqywbx1j39_tn",
+      "preco": 17.26,
+      "precoDe": 35.96,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:39:53.966Z"
+    },
+    {
+      "id": "52641",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Masculino Super adidas",
+      "link": "https://meli.la/2EDCdua",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_619462-MLB121387284183_112026-O.webp",
+      "preco": 359.99,
+      "precoDe": 599.99,
+      "desconto": 33,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T15:38:22.313Z"
+    },
+    {
+      "id": "52639",
+      "loja": "Amazon",
+      "titulo": "Kit Aussie Mega Moist Super Hidratação Shampoo 180Ml e 3 Minutos Milagrosos 236Ml",
+      "link": "https://www.amazon.com.br/dp/B09WPRD3BN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41A0f7h25mL._SL400_.jpg",
+      "preco": 44.12,
+      "precoDe": 57.67,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:36:31.834Z"
+    },
     {
       "id": "52631",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 50,
       "cupom": null,
       "enviadoEm": "2026-11-23T11:34:24.232Z"
-    },
-    {
-      "id": "50697",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Refeição Burigotto Poke, Polar",
-      "link": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bJdu3dS4L._SL400_.jpg",
-      "preco": 185,
-      "precoDe": 345,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:31:53.516Z"
-    },
-    {
-      "id": "50695",
-      "loja": "Amazon",
-      "titulo": "Play-Doh, Massinha de Modelar Infantil, Kitchen Creations, Macarrão Mágico - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
-      "link": "https://www.amazon.com.br/dp/B0CQTLJRR7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dlM056T2L._SL400_.jpg",
-      "preco": 25.99,
-      "precoDe": 49.99,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:31:25.854Z"
-    },
-    {
-      "id": "50694",
-      "loja": "Mercado Livre",
-      "titulo": "Packout caixa de ferramentas 4 gavetas Milwaukee 48-22-8444",
-      "link": "https://meli.la/1zJ8Atg",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_760678-MLA99960985013_112025-F.jpg",
-      "preco": 1680,
-      "precoDe": 2899,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:30:59.094Z"
-    },
-    {
-      "id": "50685",
-      "loja": "Amazon",
-      "titulo": "Bosch Carregador 12V GAL 12V-20 Bivolt",
-      "link": "https://www.amazon.com.br/dp/B0C6R7463Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ORObX2p0L._SL400_.jpg",
-      "preco": 180.3,
-      "precoDe": 254.65,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:26:57.708Z"
-    },
-    {
-      "id": "50682",
-      "loja": "Shopee",
-      "titulo": "Cama Caminha Pet Cachorro Gato tamanho p,m,g confortável com zíper lavável + almofadinha",
-      "link": "https://s.shopee.com.br/8pnZgvh39g",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi00v0wrf5du53_tn",
-      "preco": 59.97,
-      "precoDe": 82.15,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:24:55.860Z"
-    },
-    {
-      "id": "50668",
-      "loja": "Amazon",
-      "titulo": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta",
-      "link": "https://www.amazon.com.br/dp/B088W1VY9Q?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Rt9WcWcnL._SL400_.jpg",
-      "preco": 854.04,
-      "precoDe": 1229,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:16:24.080Z"
-    },
-    {
-      "id": "50666",
-      "loja": "Amazon",
-      "titulo": "Máscara de Tratamento Invigo Nutri-Enrich Wella Professionals 150 ml | Cuidado profundo e nutrição",
-      "link": "https://www.amazon.com.br/dp/B0BM4Q7F13?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iXBwFZf1L._SL400_.jpg",
-      "preco": 78.85,
-      "precoDe": 106.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:15:17.363Z"
-    },
-    {
-      "id": "50660",
-      "loja": "Amazon",
-      "titulo": "Fogão Itatiaia 4 Bocas Star Clean New Branco",
-      "link": "https://www.amazon.com.br/dp/B0CQTMV41B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31JuWeJYuSL._SL400_.jpg",
-      "preco": 524.9,
-      "precoDe": 833.31,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:09:32.224Z"
     }
   ]
 }
