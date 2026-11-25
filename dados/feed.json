@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-25T11:32:54.687Z",
+  "atualizadoEm": "2026-11-25T12:01:06.657Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52371",
+      "loja": "Amazon",
+      "titulo": "Williams JHWS-52ARK Kit de reparo de catraca para catracas de cabeça redonda de 1/2 polegada",
+      "link": "https://www.amazon.com.br/dp/B007YR9NHI?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/313Vy65edBL._SL400_.jpg",
+      "preco": 60.33,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:51:06.655Z"
+    },
+    {
+      "id": "52368",
+      "loja": "Amazon",
+      "titulo": "Dove Baby Sabonete Líquido de Glicerina Hidratação Relaxante Hora de Dormir 400ml Refil",
+      "link": "https://www.amazon.com.br/dp/B0DBWKL6ZG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41cqUKmlHvL._SL400_.jpg",
+      "preco": 15.19,
+      "precoDe": 29.06,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:49:08.085Z"
+    },
+    {
+      "id": "52361",
+      "loja": "Shopee",
+      "titulo": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "link": "https://s.shopee.com.br/Lp4mOldDw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mr703bfk4rgm35_tn",
+      "preco": 111.19,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:43:58.916Z"
+    },
     {
       "id": "52349",
       "loja": "Shopee",
@@ -5965,42 +6001,6 @@
       "desconto": 16,
       "cupom": null,
       "enviadoEm": "2026-11-22T17:00:26.057Z"
-    },
-    {
-      "id": "50469",
-      "loja": "Amazon",
-      "titulo": "Sérum para Poros medicube One Day Exosome Shot, 7500, 30ml",
-      "link": "https://www.amazon.com.br/dp/B0D137TMRB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BxHz51aSL._SL400_.jpg",
-      "preco": 114.96,
-      "precoDe": 183.72,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:59:11.763Z"
-    },
-    {
-      "id": "50468",
-      "loja": "Amazon",
-      "titulo": "Eudora Siàge Hidratação Micelar Shampoo 250ml | Hidratação intensa e maciez",
-      "link": "https://www.amazon.com.br/dp/B0B2FDF4YN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310TkGd5FoL._SL400_.jpg",
-      "preco": 24.9,
-      "precoDe": 41.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:57:44.393Z"
-    },
-    {
-      "id": "50466",
-      "loja": "Amazon",
-      "titulo": "Milwaukee Bateria 12V 4.0Ah Ions De Litio XC 48-11-2440",
-      "link": "https://www.amazon.com.br/dp/B00BYFO1AA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yaXtXWycL._SL400_.jpg",
-      "preco": 503.57,
-      "precoDe": 579,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:56:03.114Z"
     }
   ]
 }
