@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-25T18:00:20.052Z",
+  "atualizadoEm": "2026-11-25T18:34:01.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52854",
+      "loja": "Mercado Livre",
+      "titulo": "Lenço Umedecido Kit Higiene Upa Bebê 12 Pcts Fliptop 1.680un",
+      "link": "https://meli.la/2gBrnNQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_910356-MLB118877160628_102026-O.webp",
+      "preco": 78.33000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELI782YHDL",
+      "enviadoEm": "2026-11-25T18:33:23.180Z"
+    },
+    {
+      "id": "52845",
+      "loja": "Shopee",
+      "titulo": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "link": "https://s.shopee.com.br/2gD00esybr",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-muxl71c7bf2hc3_tn",
+      "preco": 24.2,
+      "precoDe": 29.51,
+      "desconto": 18,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:31:11.795Z"
+    },
+    {
+      "id": "52838",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira De Impacto Brushless À Bateria 20v Sata 151085 Verde - R$ 1.800",
+      "link": "https://meli.la/1MUCLG9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838095-MLB114072917922_072026-P.webp",
+      "preco": 1800,
+      "precoDe": 2000,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:21:52.111Z"
+    },
+    {
+      "id": "52836",
+      "loja": "Amazon",
+      "titulo": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
+      "link": "https://www.amazon.com.br/dp/B0CGY57KKM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ejIkdhCbL._SL400_.jpg",
+      "preco": 395.09,
+      "precoDe": 799.99,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:20:01.714Z"
+    },
+    {
+      "id": "52825",
+      "loja": "Mercado Livre",
+      "titulo": "Mala Wilson Viagem Rodinhas 19&#x27; Rodas Removíveis 10kg Anac - R$ 216,69",
+      "link": "https://meli.la/1SeBArG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973102-MLB113469148577_062026-P.webp",
+      "preco": 245,
+      "precoDe": 571.29,
+      "desconto": 54,
+      "cupom": "MELI782YHDL",
+      "enviadoEm": "2026-11-25T18:12:25.316Z"
+    },
+    {
+      "id": "52824",
+      "loja": "Shopee",
+      "titulo": "Linha Pigmentada De Marcação Design De Sobrancelhas",
+      "link": "https://s.shopee.com.br/20xJBzWHXO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f0zm8ngnh71_tn",
+      "preco": 7.99,
+      "precoDe": 29.59,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:10:14.713Z"
+    },
+    {
+      "id": "52820",
+      "loja": "Amazon",
+      "titulo": "Whisky Ballantine's Sunshine Abacaxi - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B0DRPMCBTD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314S4PV5oTL._SL400_.jpg",
+      "preco": 49.4,
+      "precoDe": 84.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:05:45.027Z"
+    },
+    {
+      "id": "52814",
+      "loja": "Amazon",
+      "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
+      "link": "https://www.amazon.com.br/dp/B09LRDGH1Q?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31roRnJPlDL._SL400_.jpg",
+      "preco": 185,
+      "precoDe": 367,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:05:12.627Z"
+    },
     {
       "id": "52801",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 28,
       "cupom": null,
       "enviadoEm": "2026-11-23T13:11:43.073Z"
-    },
-    {
-      "id": "50864",
-      "loja": "Shopee",
-      "titulo": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
-      "link": "https://s.shopee.com.br/1gKPH0c4vE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c_tn",
-      "preco": 34.98,
-      "precoDe": 69.96,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:10:22.942Z"
-    },
-    {
-      "id": "50862",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Ramazzotti Rosato 700ml | Spritz",
-      "link": "https://www.amazon.com.br/dp/B0H343PT2X?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31jRleXXiqL._SL400_.jpg",
-      "preco": 39.9,
-      "precoDe": 53.9,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:07:01.917Z"
-    },
-    {
-      "id": "50860",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Inverter Controle Remoto Led Integrada - Bivolt",
-      "link": "https://s.shopee.com.br/6fj5DvhAJP",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln0j14xgzke33a_tn",
-      "preco": 235,
-      "precoDe": 391.3,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:06:31.071Z"
-    },
-    {
-      "id": "50859",
-      "loja": "Mercado Livre",
-      "titulo": "Sérum Kérastase Nutritive Magic Night Cabelo Seco 30ml",
-      "link": "https://meli.la/1or3oSJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978166-MLA116136617713_082026-F.jpg",
-      "preco": 121.63000000000001,
-      "precoDe": 199,
-      "desconto": 32,
-      "cupom": "OFICIAIS2311",
-      "enviadoEm": "2026-11-23T13:04:49.915Z"
-    },
-    {
-      "id": "50850",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Circular Multi Materias 3 Fuel 2522-159n Milwaukee Única 60hz",
-      "link": "https://meli.la/1ujWQRi",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628704-MLA110193939272_052026-F.jpg",
-      "preco": 2478,
-      "precoDe": 3020,
-      "desconto": 15,
-      "cupom": "OFERTAML",
-      "enviadoEm": "2026-11-23T12:56:08.870Z"
-    },
-    {
-      "id": "50848",
-      "loja": "Amazon",
-      "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml | Banho infantil lavanda tamanho maior",
-      "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31H+87+c77L._SL400_.jpg",
-      "preco": 18.99,
-      "precoDe": 34.17,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:54:38.662Z"
-    },
-    {
-      "id": "50841",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 16e de 128 GB — Preto",
-      "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL400_.jpg",
-      "preco": 3332.22,
-      "precoDe": 5799,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:51:23.466Z"
-    },
-    {
-      "id": "50840",
-      "loja": "Shopee",
-      "titulo": "Compressa de Gaze 500 Unidades 13 Fios ou 11 Fios Flumine Premium Hidrófila Anvisa",
-      "link": "https://s.shopee.com.br/1CBGVIqXh",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258w-mrvnj5ketzpg7e_tn",
-      "preco": 29.98,
-      "precoDe": 41.07,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:49:22.009Z"
     }
   ]
 }
