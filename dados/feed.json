@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-25T20:34:01.309Z",
+  "atualizadoEm": "2026-11-25T21:04:01.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52967",
+      "loja": "Mercado Livre",
+      "titulo": "Relógio Lacoste Lc33 Masculino Borracha Azul 2011370 - R$ 295",
+      "link": "https://meli.la/2vn6kMU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_654659-MLA82482319769_022025-P.webp",
+      "preco": 295,
+      "precoDe": 590,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T21:02:37.478Z"
+    },
+    {
+      "id": "52961",
+      "loja": "Amazon",
+      "titulo": "Blush em Pó Kiko Milano Unlimited",
+      "link": "https://www.amazon.com.br/dp/B0CN9GR41F?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/316kWs3GSPL._SL400_.jpg",
+      "preco": 79.92,
+      "precoDe": 99.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T20:54:50.630Z"
+    },
+    {
+      "id": "52960",
+      "loja": "Shopee",
+      "titulo": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "link": "https://s.shopee.com.br/40iNksTUh2",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b_tn",
+      "preco": 17.48,
+      "precoDe": 22.41,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T20:53:26.525Z"
+    },
+    {
+      "id": "52953",
+      "loja": "Mercado Livre",
+      "titulo": "Marmita Elétrica Preta Bivolt Portátil Doméstica 110/220v Veicular 12/24v Lancheira 1.5l Com Divisórias Esquenta Rápido Refeições Práticas Trabalho Casa Carro Caminhão Viagem Facul",
+      "link": "https://meli.la/12GFQFk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605725-MLA117534176540_102026-P.webp",
+      "preco": 31.36,
+      "precoDe": 78.99,
+      "desconto": 43,
+      "cupom": "ESQUENTA",
+      "enviadoEm": "2026-11-25T20:46:46.672Z"
+    },
+    {
+      "id": "52947",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4Z/P Preto",
+      "link": "https://meli.la/1gM4XQ9",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_796898-MLA94128503742_102025-O.webp",
+      "preco": 752.49,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ELETROTECHMELI",
+      "enviadoEm": "2026-11-25T20:37:48.950Z"
+    },
+    {
+      "id": "52946",
+      "loja": "Amazon",
+      "titulo": "Baby Alive, Boneca, Dia no Spa - Cabelos Loiros, Inclui Máscara e Mamadeira, 22,5 cm - A partir de 3 Anos",
+      "link": "https://www.amazon.com.br/dp/B0CNG17BSZ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51c6qlL11PL._SL400_.jpg",
+      "preco": 44.28,
+      "precoDe": 99.99,
+      "desconto": 56,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T20:36:03.891Z"
+    },
     {
       "id": "52939",
       "loja": "Shopee",
@@ -5547,18 +5619,6 @@
       "enviadoEm": "2026-11-23T17:11:58.860Z"
     },
     {
-      "id": "51180",
-      "loja": "Amazon",
-      "titulo": "Baby Alive, Boneca, Dia no Spa - Cabelos Loiros, Inclui Máscara e Mamadeira, 22,5 cm - A partir de 3 Anos",
-      "link": "https://www.amazon.com.br/dp/B0CNG17BSZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51c6qlL11PL._SL400_.jpg",
-      "preco": 58.99,
-      "precoDe": 99.99,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:11:33.346Z"
-    },
-    {
       "id": "51179",
       "loja": "Amazon",
       "titulo": "Mega Bloks First Builders - Sacola 60 Peças - Números Dch55",
@@ -5941,66 +6001,6 @@
       "desconto": 68,
       "cupom": null,
       "enviadoEm": "2026-11-23T15:06:40.413Z"
-    },
-    {
-      "id": "50975",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Kappa Kontroll 2.0",
-      "link": "https://meli.la/2frVCTH",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_917122-MLB120061358286_112026-P.webp",
-      "preco": 269.99,
-      "precoDe": 399.99,
-      "desconto": 25,
-      "cupom": "OFERTAML",
-      "enviadoEm": "2026-11-23T15:05:15.676Z"
-    },
-    {
-      "id": "50972",
-      "loja": "Amazon",
-      "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
-      "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41GBAka3jvL._SL400_.jpg",
-      "preco": 23.62,
-      "precoDe": 34.69,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T15:00:37.485Z"
-    },
-    {
-      "id": "50970",
-      "loja": "Shopee",
-      "titulo": "[ Joelheiras De Compressão ] Estabilizadora Tensor Alívio De Dor No Joelho 360°",
-      "link": "https://s.shopee.com.br/40iKAVgHpx",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhxit07uu2v59a_tn",
-      "preco": 24.99,
-      "precoDe": 47.15,
-      "desconto": 47,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:56:01.210Z"
-    },
-    {
-      "id": "50969",
-      "loja": "Amazon",
-      "titulo": "Lillo Canguru 3 Em 1",
-      "link": "https://www.amazon.com.br/dp/B09WG452T1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ZbWa6XgOL._SL400_.jpg",
-      "preco": 110.15,
-      "precoDe": 239,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:54:35.031Z"
-    },
-    {
-      "id": "50968",
-      "loja": "Amazon",
-      "titulo": "Cadeira de Descanso para Bebê Multikids Baby Nap Time, 0 a 11kg | Rosa, Cinto de 3 Pontos, Com Acessórios Interativos",
-      "link": "https://www.amazon.com.br/dp/B0B2X2P3G5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51AZ42g1FxL._SL400_.jpg",
-      "preco": 103,
-      "precoDe": 299.9,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:54:06.057Z"
     }
   ]
 }
