@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T13:18:16.606Z",
+  "atualizadoEm": "2026-11-25T13:34:03.045Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,23 +603,23 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "75MAIS1125MELI",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 75,
       "minimo": 499,
       "maximo": null,
-      "limite": null,
-      "observacao": "Último cupom exclusivo para Meli+",
-      "validadeAte": "2026-11-26T12:00:05.000Z",
+      "limite": 75,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SITETODO2511",
+      "codigo": "75MAIS1125MELI",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 50,
-      "minimo": 399,
+      "valor": 75,
+      "minimo": 499,
       "maximo": null,
       "limite": null,
       "observacao": "Último cupom exclusivo para Meli+",
@@ -792,18 +792,6 @@
       "limite": 500,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-06-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 159,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1332,18 +1320,6 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
       "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2511",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 159,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Último cupom exclusivo para Meli+",
-      "validadeAte": "2026-11-26T12:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2207,7 +2183,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2219,7 +2195,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2279,7 +2255,7 @@
       "maximo": null,
       "limite": 40,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
