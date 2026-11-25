@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-25T19:34:01.309Z",
+  "atualizadoEm": "2026-11-25T20:04:01.308Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52923",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol - Garrafa Magnum 3L",
+      "link": "https://www.amazon.com.br/dp/B00XUG8TOU?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41q-SKb5tbL._SL400_.jpg",
+      "preco": 774.65,
+      "precoDe": 999.9,
+      "desconto": 23,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T20:01:51.942Z"
+    },
+    {
+      "id": "52922",
+      "loja": "Amazon",
+      "titulo": "EKLIND 91112 Chave de fenda sextavada esférica (allen)",
+      "link": "https://www.amazon.com.br/dp/B000189SN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/11m4jzU3SdL._SL400_.jpg",
+      "preco": 19.939999999999998,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-25T20:01:20.126Z"
+    },
+    {
+      "id": "52921",
+      "loja": "Amazon",
+      "titulo": "Aperitivo Aperol 750ml",
+      "link": "https://www.amazon.com.br/dp/B07HM62BR7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bGslTlTYL._SL400_.jpg",
+      "preco": 44.99,
+      "precoDe": 71.39,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T20:00:22.554Z"
+    },
+    {
+      "id": "52917",
+      "loja": "Amazon",
+      "titulo": "Licor Ballena morango 750ml",
+      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
+      "preco": 84.99,
+      "precoDe": 129.99,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T19:55:02.847Z"
+    },
+    {
+      "id": "52910",
+      "loja": "Shopee",
+      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
+      "link": "https://s.shopee.com.br/114m6nWWLl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
+      "preco": 38,
+      "precoDe": 44.71,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T19:47:07.183Z"
+    },
+    {
+      "id": "52909",
+      "loja": "Amazon",
+      "titulo": "Torquímetro Stanley, Escala de 5-25 Nm",
+      "link": "https://www.amazon.com.br/dp/B079XVBVPY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31znUJPvanL._SL400_.jpg",
+      "preco": 629.92,
+      "precoDe": 829,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T19:45:49.175Z"
+    },
+    {
+      "id": "52905",
+      "loja": "Mercado Livre",
+      "titulo": "Serra Circular Elétrica Makita Hs7010 185mm 1600w",
+      "link": "https://meli.la/1ubJT2v",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867381-MLA113927657655_062026-O.webp",
+      "preco": 530.99,
+      "precoDe": 822.12,
+      "desconto": 28,
+      "cupom": "LIVREOFF",
+      "enviadoEm": "2026-11-25T19:36:12.666Z"
+    },
     {
       "id": "52895",
       "loja": "Shopee",
@@ -5917,90 +6001,6 @@
       "desconto": 30,
       "cupom": "PRIME15BLACK",
       "enviadoEm": "2026-11-23T14:22:23.732Z"
-    },
-    {
-      "id": "50944",
-      "loja": "Mercado Livre",
-      "titulo": "️ Ar-condicionado Prime Air Split Inverter 12.000 BTUs 220v",
-      "link": "https://meli.la/2rcGdRK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828504-MLB118758231522_102026-P.webp",
-      "preco": 1745.1,
-      "precoDe": 3575,
-      "desconto": 46,
-      "cupom": "MELIGARANTE",
-      "enviadoEm": "2026-11-23T14:21:42.986Z"
-    },
-    {
-      "id": "50942",
-      "loja": "Amazon",
-      "titulo": "Buba Kit Cuidados Com Estojo Verde",
-      "link": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL400_.jpg",
-      "preco": 49.97,
-      "precoDe": 99.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:20:32.068Z"
-    },
-    {
-      "id": "50941",
-      "loja": "Mercado Livre",
-      "titulo": "Fone de Ouvido Sem Fio Galaxy Buds 3 FE Samsung",
-      "link": "https://meli.la/2sV8p5E",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_895490-MLB109125538828_042026-P.webp",
-      "preco": 539.46,
-      "precoDe": 1099,
-      "desconto": 45,
-      "cupom": "OFERTAML",
-      "enviadoEm": "2026-11-23T14:20:03.232Z"
-    },
-    {
-      "id": "50936",
-      "loja": "Shopee",
-      "titulo": "Escova de Dentes Recarregável Elétrica Portátil Ultrassônica com Cabeças Substituíveis",
-      "link": "https://s.shopee.com.br/1W0z91vhcT",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mmkh0yrafvnq1f_tn",
-      "preco": 49.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:13:23.375Z"
-    },
-    {
-      "id": "50933",
-      "loja": "Amazon",
-      "titulo": "Amend Hair Butter Mascara Millenar Oleos Marroquinos 300 G | Nutrição intensa e brilho",
-      "link": "https://www.amazon.com.br/dp/B07NH4VS63?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41SLcctBYGL._SL400_.jpg",
-      "preco": 38.9,
-      "precoDe": 45.9,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:10:21.860Z"
-    },
-    {
-      "id": "50932",
-      "loja": "Amazon",
-      "titulo": "Carrinho de Bebê Safety 1st, Spark Splus, 0 meses a 22 kg, Black Graphite",
-      "link": "https://www.amazon.com.br/dp/B0DMTK6XQJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FIqor6xuL._SL400_.jpg",
-      "preco": 848.9,
-      "precoDe": 1499,
-      "desconto": 43,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:08:59.423Z"
-    },
-    {
-      "id": "50929",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore 4.3/8 4100nh3z 1.300w Makita",
-      "link": "https://meli.la/1kTQBDG",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_605349-MLA100018712599_122025-F.jpg",
-      "preco": 364.9,
-      "precoDe": 395.15,
-      "desconto": 8,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T14:06:42.804Z"
     }
   ]
 }
