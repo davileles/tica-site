@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-25T13:34:03.045Z",
+  "atualizadoEm": "2026-11-25T14:04:03.122Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BLACK75OFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 75,
+      "minimo": 499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Prime",
+      "validadeAte": "2026-11-26T14:00:21.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "AMEND35",
       "loja": "BELEZA NA WEB",
