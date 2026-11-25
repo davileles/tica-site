@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T14:04:03.122Z",
+  "atualizadoEm": "2026-11-25T15:04:03.211Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -411,18 +411,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "PETNABLACK",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Pet Shops",
-      "validadeAte": "2026-11-25T15:04:01.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFNOVOMER",
       "loja": "iFood",
       "tipo": "reais",
@@ -432,18 +420,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-25T20:42:24.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFCHURRAS",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas em itens de Churrasco",
-      "validadeAte": "2026-11-25T15:00:32.000Z",
       "url": null
     },
     {
@@ -648,6 +624,18 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-26T03:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DECORNATAL2511",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 35,
+      "minimo": 119,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1260,18 +1248,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOSITE2411",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 159,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-25T15:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2268,6 +2244,18 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-11-26T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETRO2511",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 500,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-26T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
