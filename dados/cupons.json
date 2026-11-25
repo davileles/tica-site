@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T15:04:03.211Z",
+  "atualizadoEm": "2026-11-25T15:34:03.135Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2271,13 +2271,25 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIAGORA",
+      "codigo": "CURTAMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 10,
       "minimo": 199,
       "maximo": null,
       "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
