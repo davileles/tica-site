@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-25T22:34:01.309Z",
+  "atualizadoEm": "2026-11-25T22:47:28.497Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53007",
+      "loja": "Amazon",
+      "titulo": "Café Santa Mônica Orgânico Moído 250g",
+      "link": "https://www.amazon.com.br/dp/B07FCQNB3W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/314UuNecncL._SL400_.jpg",
+      "preco": 16.049999999999997,
+      "precoDe": 43.9,
+      "desconto": 57,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-25T22:37:28.495Z"
+    },
+    {
+      "id": "53006",
+      "loja": "Amazon",
+      "titulo": "NESTLÉ PRESTÍGIO Recheado 90g Tablete",
+      "link": "https://www.amazon.com.br/dp/B0FV52C6FM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41J-2oPtMuL._SL400_.jpg",
+      "preco": 5.99,
+      "precoDe": 11.49,
+      "desconto": 48,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T22:35:41.053Z"
+    },
     {
       "id": "53004",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-23T15:44:40.647Z"
-    },
-    {
-      "id": "51013",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor Samsung Odyssey G5, 27, Qhd, 165hz Cor Preto",
-      "link": "https://meli.la/2uKh4Yx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_938567-MLB89730203613_082025-P.webp",
-      "preco": 939.6,
-      "precoDe": 2299,
-      "desconto": 55,
-      "cupom": "MELIGARANTE",
-      "enviadoEm": "2026-11-23T15:43:24.591Z"
-    },
-    {
-      "id": "51009",
-      "loja": "Mercado Livre",
-      "titulo": "Caixa Grande Modulável Packout 48-22-8425 Milwaukee Cor Vermelho",
-      "link": "https://meli.la/2J2hjKj",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758940-MLA119239421190_112026-F.jpg",
-      "preco": 697,
-      "precoDe": 1299,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T15:41:21.753Z"
     }
   ]
 }
