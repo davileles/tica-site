@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-25T21:51:30.609Z",
+  "atualizadoEm": "2026-11-25T22:04:01.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52993",
+      "loja": "Amazon",
+      "titulo": "Thérapiste Kérastase Máscara de Tratamento para Cabelos Danificados e Quebradiços com Reconstrução Profunda que Recupera Força e Elasticidade da Fibra Capilar Resistance, 200ml",
+      "link": "https://www.amazon.com.br/dp/B07BWSJN13?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31UotrK+nJL._SL400_.jpg",
+      "preco": 179.25,
+      "precoDe": 339,
+      "desconto": 29,
+      "cupom": "PRO200FF",
+      "enviadoEm": "2026-11-25T22:01:53.475Z"
+    },
+    {
+      "id": "52992",
+      "loja": "Mercado Livre",
+      "titulo": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, ATX 3.1 PCIe 5.1, Full Modular, PFC Ativo - R$ 450,49",
+      "link": "https://meli.la/1wdXqxU",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884598-MLA108671218237_032026-P.webp",
+      "preco": 405.44,
+      "precoDe": 611.1,
+      "desconto": 26,
+      "cupom": "ELETROTECHMELI",
+      "enviadoEm": "2026-11-25T22:00:33.520Z"
+    },
+    {
+      "id": "52989",
+      "loja": "Mercado Livre",
+      "titulo": "Ar-condicionado Split Inverter 12000 Btus Tcl Breeze In High Wall Só Frio Tac-12ctg3-inv-i/tac-12ctg3-inv-o 220v",
+      "link": "https://meli.la/1Q9WG2D",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_996703-MLA117747679667_092026-O.webp",
+      "preco": 1673.1599999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ELETROTECHMELI",
+      "enviadoEm": "2026-11-25T21:56:33.189Z"
+    },
+    {
+      "id": "52988",
+      "loja": "Amazon",
+      "titulo": "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
+      "link": "https://www.amazon.com.br/dp/B001QZ5GUW?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FsIQ2bzmL._SL400_.jpg",
+      "preco": 115.99,
+      "precoDe": 189.9,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T21:55:14.852Z"
+    },
     {
       "id": "52985",
       "loja": "Amazon",
@@ -5953,54 +6001,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-23T15:36:50.235Z"
-    },
-    {
-      "id": "51000",
-      "loja": "Mercado Livre",
-      "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
-      "link": "https://meli.la/13KoUwK",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
-      "preco": 783.2,
-      "precoDe": 1549.4,
-      "desconto": 37,
-      "cupom": "TVSCELULARES2311",
-      "enviadoEm": "2026-11-23T15:35:30.725Z"
-    },
-    {
-      "id": "50999",
-      "loja": "Amazon",
-      "titulo": "Jack Daniel's Tennessee Fire 1L",
-      "link": "https://www.amazon.com.br/dp/B01I1316QE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31yu8CpLcsL._SL400_.jpg",
-      "preco": 108.99,
-      "precoDe": 174.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T15:34:05.008Z"
-    },
-    {
-      "id": "50997",
-      "loja": "Amazon",
-      "titulo": "Greenlee DTAPKIT 6-32 a 1/4-20 Conjunto de 6 peças de brocas e torneiras, DTAPKIT, 6-32 to 1/4-20",
-      "link": "https://www.amazon.com.br/dp/B0041FIR1E?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51VlQCPV4VL._SL400_.jpg",
-      "preco": 231.86,
-      "precoDe": 377.35,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T15:31:08.150Z"
-    },
-    {
-      "id": "50990",
-      "loja": "Mercado Livre",
-      "titulo": "Smartphone Samsung Galaxy A17 8GB 256GB 50MP 6.7\"",
-      "link": "https://meli.la/1jZJpd1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781103-MLA99983064831_112025-F.jpg",
-      "preco": 1059,
-      "precoDe": 1699,
-      "desconto": 26,
-      "cupom": "TVSCELULARES2311",
-      "enviadoEm": "2026-11-23T15:22:26.122Z"
     }
   ]
 }
