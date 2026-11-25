@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-25T19:15:23.837Z",
+  "atualizadoEm": "2026-11-25T19:34:01.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52895",
+      "loja": "Shopee",
+      "titulo": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+      "link": "https://s.shopee.com.br/7Kypc7QV6P",
+      "imagem": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd_tn",
+      "preco": 15.99,
+      "precoDe": 39.98,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T19:25:51.541Z"
+    },
     {
       "id": "52890",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 8,
       "cupom": null,
       "enviadoEm": "2026-11-23T14:06:42.804Z"
-    },
-    {
-      "id": "50928",
-      "loja": "Mercado Livre",
-      "titulo": "Bicicleta Elétrica xroymexroy Y16-B com Motor 1200W e Autonomia de 100km",
-      "link": "https://meli.la/1XNMAKX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_781527-MLA114284956717_072026-F.jpg",
-      "preco": 4049,
-      "precoDe": 6399,
-      "desconto": 33,
-      "cupom": "OFFSEMPRE",
-      "enviadoEm": "2026-11-23T14:06:07.395Z"
     }
   ]
 }
