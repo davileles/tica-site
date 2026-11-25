@@ -1,7 +1,67 @@
 {
-  "atualizadoEm": "2026-11-25T17:17:57.137Z",
+  "atualizadoEm": "2026-11-25T17:34:01.309Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52785",
+      "loja": "Amazon",
+      "titulo": "Bosch Lixadeira Orbital GSS 140-A 110V 220W com 1 lixa",
+      "link": "https://www.amazon.com.br/dp/B0DGYNBLBR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zp9Z7AZ3L._SL400_.jpg",
+      "preco": 288.15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BOSCH15",
+      "enviadoEm": "2026-11-25T17:33:47.362Z"
+    },
+    {
+      "id": "52778",
+      "loja": "Amazon",
+      "titulo": "Soprador de ar a bateria 18V GBL 18V-750 Motor Brushless BiTurbo Bosch",
+      "link": "https://www.amazon.com.br/dp/B0DF86TMH9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31lmZufzQ5L._SL400_.jpg",
+      "preco": 789.57,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BOSCH15",
+      "enviadoEm": "2026-11-25T17:33:01.645Z"
+    },
+    {
+      "id": "52777",
+      "loja": "Amazon",
+      "titulo": "Nível de Bolha Bosch, Tipo Box, Profissional, Azul, 60 cm",
+      "link": "https://www.amazon.com.br/dp/B0GV1K6PZQ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-jGbeU4bL._SL400_.jpg",
+      "preco": 125.75,
+      "precoDe": 155.73,
+      "desconto": 5,
+      "cupom": "BOSCH15",
+      "enviadoEm": "2026-11-25T17:32:28.607Z"
+    },
+    {
+      "id": "52775",
+      "loja": "Amazon",
+      "titulo": "SCOTCH 3M Fita Dupla-face Fixa Forte para Banheiro 24 mm x 1.5 m 1 Unidade | Aplicação Prática e Rápida, Suporta até 500 g por 15 cm, Fixação Firme, Ideal para Áreas Úmidas, Substi",
+      "link": "https://www.amazon.com.br/dp/B0788S5R2D?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/413FaEikXnL._SL400_.jpg",
+      "preco": 16.9,
+      "precoDe": 19.82,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T17:31:11.430Z"
+    },
+    {
+      "id": "52758",
+      "loja": "Amazon",
+      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml | Merlot",
+      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
+      "preco": 19.9,
+      "precoDe": 39.9,
+      "desconto": 50,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T17:21:52.256Z"
+    },
     {
       "id": "52751",
       "loja": "Shopee",
@@ -1825,18 +1885,6 @@
       "desconto": 15,
       "cupom": null,
       "enviadoEm": "2026-11-24T19:55:38.999Z"
-    },
-    {
-      "id": "52108",
-      "loja": "Amazon",
-      "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml | Merlot",
-      "link": "https://www.amazon.com.br/dp/B09Q4JK85H?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31N0JTjZ4LL._SL400_.jpg",
-      "preco": 19.9,
-      "precoDe": 39.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T19:50:42.161Z"
     },
     {
       "id": "52102",
@@ -5953,54 +6001,6 @@
       "desconto": 44,
       "cupom": "MELIGARANTE",
       "enviadoEm": "2026-11-23T12:34:58.348Z"
-    },
-    {
-      "id": "50810",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Ram 16gb 3200mhz Pro Gamer Para Pc Desktop",
-      "link": "https://meli.la/2KmkHpa",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879402-MLA120879412115_112026-O.webp",
-      "preco": 610.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIMAISXPT1122",
-      "enviadoEm": "2026-11-23T12:33:46.353Z"
-    },
-    {
-      "id": "50804",
-      "loja": "Amazon",
-      "titulo": "Sabonete Líquido de Glicerina Johnson's Baby, Refil, 380ml | Da Cabeça aos Pés, Com Glicerina Vegetal, Hipoalergênico, Livre de Parabenos",
-      "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41nbW3WDHdL._SL400_.jpg",
-      "preco": 17.22,
-      "precoDe": 36.99,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:32:11.288Z"
-    },
-    {
-      "id": "50796",
-      "loja": "Amazon",
-      "titulo": "Creme para Pentear Johnson's Baby Cachos dos Sonhos, 200ml | Para Cabelos Cacheados, Com Manteiga de Karité",
-      "link": "https://www.amazon.com.br/dp/B07MT9LCV1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BX5QJauSL._SL400_.jpg",
-      "preco": 24.66,
-      "precoDe": 49.99,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:31:45.996Z"
-    },
-    {
-      "id": "50733",
-      "loja": "Shopee",
-      "titulo": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
-      "link": "https://s.shopee.com.br/1qdpOx9m4o",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b_tn",
-      "preco": 19.88,
-      "precoDe": 26.86,
-      "desconto": 26,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:28:18.234Z"
     }
   ]
 }
