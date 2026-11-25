@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-25T18:34:01.309Z",
+  "atualizadoEm": "2026-11-25T19:02:15.178Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52874",
+      "loja": "Shopee",
+      "titulo": "Mix Misturador Cafe Bebidas Batedor De Ovos Automático Elétrico Inox",
+      "link": "https://s.shopee.com.br/5LDlD08siz",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqxs2z7sqzut5f_tn",
+      "preco": 11.99,
+      "precoDe": 39.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:52:15.175Z"
+    },
+    {
+      "id": "52871",
+      "loja": "Amazon",
+      "titulo": "Carga para Aparelho de Barbear Gillette Mach3 Sensitive 16 unidades",
+      "link": "https://www.amazon.com.br/dp/B07GMCX5S4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51bH0no+woL._SL400_.jpg",
+      "preco": 82.83,
+      "precoDe": 130.66,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:48:31.306Z"
+    },
+    {
+      "id": "52869",
+      "loja": "Amazon",
+      "titulo": "Ar-Condicionado Split HW Inverter Philco PAC24FC 24.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/dp/B0DVZJ8ZL2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/212eyfmCJOL._SL400_.jpg",
+      "preco": 2897,
+      "precoDe": 4739,
+      "desconto": 39,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T18:47:10.871Z"
+    },
+    {
+      "id": "52868",
+      "loja": "Amazon",
+      "titulo": "CRAFTSMAN Martelo, fibra de vidro, 473 g (CMHT51398)",
+      "link": "https://www.amazon.com.br/dp/B07RRNSFY4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31kwG3cuVHL._SL400_.jpg",
+      "preco": 72.27,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-25T18:45:48.116Z"
+    },
+    {
+      "id": "52865",
+      "loja": "Mercado Livre",
+      "titulo": "Nintendo Switch Oled + Mario Wonder + 3 Meses Online",
+      "link": "https://meli.la/1qwsp65",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792185-MLB121692228755_112026-O.webp",
+      "preco": 1581,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T18:42:12.013Z"
+    },
+    {
+      "id": "52856",
+      "loja": "Amazon",
+      "titulo": "BOSCH Esmerilhadeira Angular 4.1/2POL 710W GWS 700",
+      "link": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/4174YWDDKJL._SL400_.jpg",
+      "preco": 191.2,
+      "precoDe": 364.9,
+      "desconto": 35,
+      "cupom": "20BF26PRIME",
+      "enviadoEm": "2026-11-25T18:36:03.984Z"
+    },
+    {
+      "id": "52855",
+      "loja": "Mercado Livre",
+      "titulo": "Controle Sem Fio Sony Dualsense, Playstation 5, Bluetooth",
+      "link": "https://meli.la/28ZTi29",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_856085-MLB120318080646_112026-O.webp",
+      "preco": 310.59000000000003,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T18:35:23.919Z"
+    },
     {
       "id": "52854",
       "loja": "Mercado Livre",
@@ -5917,90 +6001,6 @@
       "desconto": null,
       "cupom": "OFFSEMPRE",
       "enviadoEm": "2026-11-23T14:04:45.007Z"
-    },
-    {
-      "id": "50919",
-      "loja": "Mercado Livre",
-      "titulo": "Smart TV Hisense HI-QLED 4K 75\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 75Q6QV",
-      "link": "https://meli.la/1W7Q5Am",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953016-MLA117368101332_102026-F.jpg",
-      "preco": 3649,
-      "precoDe": 5699,
-      "desconto": 32,
-      "cupom": "OFFSEMPRE",
-      "enviadoEm": "2026-11-23T13:59:13.440Z"
-    },
-    {
-      "id": "50910",
-      "loja": "Mercado Livre",
-      "titulo": "Freezer Horizontal 99l Philco Pfh105b 2 Em 1 Branco",
-      "link": "https://meli.la/167LD7S",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_811995-MLA96100030405_102025-F.jpg",
-      "preco": 1227.6,
-      "precoDe": 1448,
-      "desconto": 6,
-      "cupom": "MELIGARANTE",
-      "enviadoEm": "2026-11-23T13:53:58.386Z"
-    },
-    {
-      "id": "50909",
-      "loja": "Shopee",
-      "titulo": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "link": "https://s.shopee.com.br/9pg72twPpF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04_tn",
-      "preco": 10.5,
-      "precoDe": 12.65,
-      "desconto": 17,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:52:29.924Z"
-    },
-    {
-      "id": "50891",
-      "loja": "Shopee",
-      "titulo": "Cortina Corta Luz Blecaute Blackout 2,20 x 1,30 m Diversas Cores",
-      "link": "https://s.shopee.com.br/1W0z6920tF",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mqqn6ty513b429_tn",
-      "preco": 32.9,
-      "precoDe": 59.82,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:31:26.859Z"
-    },
-    {
-      "id": "50888",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Chaves de Fenda Wera Kraftform Plus 300 Lasertip 6 Peças SL/PH/PZ",
-      "link": "https://www.amazon.com.br/dp/B000297UEI?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51zPqQB9L6L._SL400_.jpg",
-      "preco": 224.9,
-      "precoDe": 306.21,
-      "desconto": 27,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:26:01.959Z"
-    },
-    {
-      "id": "50872",
-      "loja": "Mercado Livre",
-      "titulo": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-      "link": "https://meli.la/31Tcrdn",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668507-MLA108744768802_032026-F.jpg",
-      "preco": 2476,
-      "precoDe": 3999,
-      "desconto": 32,
-      "cupom": "OFFSEMPRE",
-      "enviadoEm": "2026-11-23T13:13:29.583Z"
-    },
-    {
-      "id": "50869",
-      "loja": "Shopee",
-      "titulo": "Impressora Multifuncional HP Smart Tank 584 All In One Tanque de Tinta Colorida USB e Wi-Fi Bivolt",
-      "link": "https://s.shopee.com.br/5VX7q7UKB2",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-ms5m3ezcr9c657_tn",
-      "preco": 694,
-      "precoDe": 1081.94,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T13:11:43.073Z"
     }
   ]
 }
