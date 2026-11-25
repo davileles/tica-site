@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-25T18:00:21.960Z",
+  "atualizadoEm": "2026-11-25T18:04:01.656Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "NAAMAZONTEM",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 350,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T18:02:53.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "BLACK75OFF",
       "loja": "Amazon",
@@ -420,6 +432,18 @@
       "limite": null,
       "observacao": "Válido em Farmácias",
       "validadeAte": "2026-11-25T19:00:21.000Z",
+      "url": null
+    },
+    {
+      "codigo": "BFWEEKMER",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos em Mercados no iFood",
+      "validadeAte": "2026-11-26T18:00:20.000Z",
       "url": null
     },
     {
