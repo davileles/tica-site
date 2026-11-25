@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-25T12:34:01.280Z",
+  "atualizadoEm": "2026-11-25T13:04:01.281Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52444",
+      "loja": "Mercado Livre",
+      "titulo": "Smart TV 40S5045/78G Série 5045 Full HD 40\" Roku AOC Bivolt",
+      "link": "https://meli.la/24pMPNg",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620135-MLA116583936713_082026-O.webp",
+      "preco": 1100.41,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ELETROTECHMELI",
+      "enviadoEm": "2026-11-25T12:57:23.535Z"
+    },
+    {
+      "id": "52441",
+      "loja": "Mercado Livre",
+      "titulo": "Trem De Madeira Com Numeros Brinquedo De Puxar Educativo",
+      "link": "https://meli.la/1Fzqc5q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815226-MLB122273954749_112026-O.webp",
+      "preco": 23.5,
+      "precoDe": 56.9,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:53:56.827Z"
+    },
+    {
+      "id": "52440",
+      "loja": "Mercado Livre",
+      "titulo": "Lava E Seca Smart LG Vc5 12kg Branca Com Inteligência Cor Branco",
+      "link": "https://meli.la/1BS5qFk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_620799-MLA99939116693_112025-O.webp",
+      "preco": 3259,
+      "precoDe": 4599,
+      "desconto": 24,
+      "cupom": "LIVREHOJE",
+      "enviadoEm": "2026-11-25T12:53:26.764Z"
+    },
+    {
+      "id": "52437",
+      "loja": "Shopee",
+      "titulo": "Carregador Lightning Turbo Para 11 12 13 14 Pro X XR 20W Cabo Tipo C Lightning",
+      "link": "https://s.shopee.com.br/5qA1Oqjcin",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfmlxjdwt1d0f_tn",
+      "preco": 39.9,
+      "precoDe": 66.5,
+      "desconto": 40,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:47:07.675Z"
+    },
+    {
+      "id": "52436",
+      "loja": "Mercado Livre",
+      "titulo": "Kit Furadeira + Parafusadeira Impacto 2900-259c Milwaukee",
+      "link": "https://meli.la/34fExRX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_855042-MLB117733706416_102026-O.webp",
+      "preco": 4649.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "LIVREHOJE",
+      "enviadoEm": "2026-11-25T12:45:52.360Z"
+    },
+    {
+      "id": "52429",
+      "loja": "Amazon",
+      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/515Z7olnAoL._SL400_.jpg",
+      "preco": 89.99,
+      "precoDe": 194.9,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:41:29.216Z"
+    },
+    {
+      "id": "52424",
+      "loja": "Amazon",
+      "titulo": "Safety 1st, Travel System Mobi, Trio, Grey Sport",
+      "link": "https://www.amazon.com.br/dp/B09SNWXD1T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/414nG2I3nzL._SL400_.jpg",
+      "preco": 1721,
+      "precoDe": 2899,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:38:18.736Z"
+    },
+    {
+      "id": "52423",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Portatil 15,6pol Ips Jsc Ioway",
+      "link": "https://meli.la/1H8znv2",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_604367-MLA106672611044_022026-O.webp",
+      "preco": 258.3,
+      "precoDe": 499.82,
+      "desconto": 43,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T12:37:03.361Z"
+    },
     {
       "id": "52409",
       "loja": "Amazon",
@@ -2509,18 +2605,6 @@
       "desconto": 24,
       "cupom": "PRIME70OFF",
       "enviadoEm": "2026-11-24T12:28:45.490Z"
-    },
-    {
-      "id": "51540",
-      "loja": "Amazon",
-      "titulo": "Safety 1st, Travel System Mobi, Trio, Grey Sport",
-      "link": "https://www.amazon.com.br/dp/B09SNWXD1T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/414nG2I3nzL._SL400_.jpg",
-      "preco": 1720.32,
-      "precoDe": 2899,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:27:34.436Z"
     },
     {
       "id": "51583",
@@ -5917,90 +6001,6 @@
       "desconto": 57,
       "cupom": null,
       "enviadoEm": "2026-11-22T17:48:04.214Z"
-    },
-    {
-      "id": "50496",
-      "loja": "Shopee",
-      "titulo": "Kit Sobrancelha Henna makiaj+Palito+Navalha+Paquímetro+Tesoura+Pincel+Dappen+ 2 Lápis Dermatográfico",
-      "link": "https://s.shopee.com.br/qlGzW2DX9",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbqumjd4g5ehb9_tn",
-      "preco": 35.91,
-      "precoDe": 39.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:46:48.000Z"
-    },
-    {
-      "id": "50495",
-      "loja": "Amazon",
-      "titulo": "Electrolux Aspirador pó vertical 2 em 1 1450W HEPA STK15 Cinza Urban 127V | Com fio, portátil de mão, potente, cabo de 6m e capacidade de 1,6L para limpeza prática, maior alcance e",
-      "link": "https://www.amazon.com.br/dp/B094X2N4HV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21XRLXd49KL._SL400_.jpg",
-      "preco": 164.9,
-      "precoDe": 319,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:45:24.052Z"
-    },
-    {
-      "id": "50494",
-      "loja": "Amazon",
-      "titulo": "Whisky Japonês Yamazaki 12 anos Suntory 700ml",
-      "link": "https://www.amazon.com.br/dp/B00439YNBQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/411j1msPWiL._SL400_.jpg",
-      "preco": 888.25,
-      "precoDe": 1280.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:44:13.252Z"
-    },
-    {
-      "id": "50493",
-      "loja": "Amazon",
-      "titulo": "WOLFF - Prato Duplo de Cristal para Doces Âmbar - Prato Inferior 32cm - Prato Superior 19cm - Altura montado 24cm - Linha Pearl",
-      "link": "https://www.amazon.com.br/dp/B08WLK41F3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41XAZBxqlpL._SL400_.jpg",
-      "preco": 79.9,
-      "precoDe": 114.3,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:42:15.868Z"
-    },
-    {
-      "id": "50492",
-      "loja": "Amazon",
-      "titulo": "Licor de whisky com canela Fireball – 750ml | Fireball Cinnamon Whisky Licor, whisky canadense com canela real, 33% vol, 750ml, marca de shot nº 1 da América! Sirva gelado",
-      "link": "https://www.amazon.com.br/dp/B004CYZ7ZI?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SL400_.jpg",
-      "preco": 67.73,
-      "precoDe": 99.98,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:41:02.594Z"
-    },
-    {
-      "id": "50491",
-      "loja": "Amazon",
-      "titulo": "Ar Condicionado 18000 BTUs Split Hi Wall Inverter TCL Quente e Frio T-Pro 2.0 X 220V",
-      "link": "https://www.amazon.com.br/dp/B0HKP68Z62?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31FQyBGtLFL._SL400_.jpg",
-      "preco": 2749.4,
-      "precoDe": 3499,
-      "desconto": 21,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:39:38.814Z"
-    },
-    {
-      "id": "50488",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 17e de 256 GB — Branco",
-      "link": "https://www.amazon.com.br/dp/B0GTS998HJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31S34xHviXL._SL400_.jpg",
-      "preco": 4098.6,
-      "precoDe": 5799,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:31:05.593Z"
     }
   ]
 }
