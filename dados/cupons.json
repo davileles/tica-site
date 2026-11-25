@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T18:34:03.145Z",
+  "atualizadoEm": "2026-11-25T19:02:17.155Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -423,18 +423,6 @@
       "url": null
     },
     {
-      "codigo": "BFWEEKFARM",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Farmácias",
-      "validadeAte": "2026-11-25T19:00:21.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFWEEKMER",
       "loja": "iFood",
       "tipo": "reais",
@@ -444,6 +432,18 @@
       "limite": null,
       "observacao": "Cupons válidos em Mercados no iFood",
       "validadeAte": "2026-11-26T18:00:20.000Z",
+      "url": null
+    },
+    {
+      "codigo": "FARMASBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para compras em Farmácias pelo iFood",
+      "validadeAte": "2026-11-26T19:00:10.000Z",
       "url": null
     },
     {
@@ -2211,6 +2211,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "LOJASOFICIAIS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2232,6 +2244,30 @@
       "limite": 100,
       "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
       "validadeAte": "2026-12-02T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 89,
+      "maximo": null,
+      "limite": 20,
+      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
+      "validadeAte": "2027-01-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIUZDECOR",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 259,
+      "maximo": null,
+      "limite": 200,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2304,6 +2340,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-26T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LIVREOFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-26T19:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
