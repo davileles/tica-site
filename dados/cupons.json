@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T16:10:57.117Z",
+  "atualizadoEm": "2026-11-25T16:34:03.541Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -573,9 +573,9 @@
       "valor": 300,
       "minimo": 2699,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": "Válido apenas para itens na lista especificada",
-      "validadeAte": "2026-11-26T16:00:07.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2244,18 +2244,6 @@
       "limite": 40,
       "observacao": null,
       "validadeAte": "2026-11-26T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ELETRO2511",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 500,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-26T15:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
