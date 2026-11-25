@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T20:34:03.567Z",
+  "atualizadoEm": "2026-11-25T21:04:03.324Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,18 +435,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BFNOVOMER",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-25T20:42:24.000Z",
-      "url": null
-    },
-    {
       "codigo": "BFWEEKMER",
       "loja": "iFood",
       "tipo": "reais",
@@ -480,18 +468,6 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF",
       "validadeAte": "2026-11-26T18:30:11.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BFNOVOMER",
-      "loja": "iFood Mercado",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Informações de tipo e valor de desconto não especificadas na mensagem",
-      "validadeAte": "2026-11-25T20:41:36.000Z",
       "url": null
     },
     {
@@ -601,6 +577,18 @@
       "observacao": "Cupom válido para primeira compra no WhatsApp da Magalu",
       "validadeAte": "2026-11-25T22:28:31.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PM52MP66",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 1000,
+      "minimo": 3500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido pagando com cartão MP Visa. Aplicável em produtos selecionados conforme lista fornecida.",
+      "validadeAte": "2026-11-26T21:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "MENOSPRATECH",
@@ -2413,6 +2401,30 @@
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-26T13:14:50.000Z",
       "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACK100",
+      "loja": "Mizuno",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
+    },
+    {
+      "codigo": "BLACK60",
+      "loja": "Mizuno",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
     },
     {
       "codigo": "BASQUETE20",
