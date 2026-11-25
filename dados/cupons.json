@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T18:04:01.656Z",
+  "atualizadoEm": "2026-11-25T18:34:03.145Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -447,15 +447,15 @@
       "url": null
     },
     {
-      "codigo": "PREBLACK",
+      "codigo": "BFWEEKFOOD",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
       "minimo": 27,
       "maximo": null,
       "limite": null,
-      "observacao": "Em algumas contas aparece R$ 15 OFF. Cupom válido para restaurantes.",
-      "validadeAte": "2026-11-25T18:30:15.000Z",
+      "observacao": "Em algumas contas aparece R$ 15 OFF",
+      "validadeAte": "2026-11-26T18:30:11.000Z",
       "url": null
     },
     {
@@ -599,18 +599,6 @@
       "maximo": null,
       "limite": 250,
       "observacao": null,
-      "validadeAte": "2026-11-26T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 75,
-      "minimo": 499,
-      "maximo": null,
-      "limite": 75,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2007,6 +1995,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BLACK25BABY",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-26T18:19:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2139,6 +2139,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BLACK20LIMPEZA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons válidos em selecionados",
+      "validadeAte": "2026-11-26T18:19:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2256,18 +2268,6 @@
       "limite": 20,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-26T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAPARAVOCE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
