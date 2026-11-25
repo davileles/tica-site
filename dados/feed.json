@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-24T22:40:56.508Z",
+  "atualizadoEm": "2026-11-25T11:04:01.248Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52329",
+      "loja": "Amazon",
+      "titulo": "Fechadura Eletrônica HDL C90 Premium, RFID | Controle de Acesso, Ajuste de Instalação",
+      "link": "https://www.amazon.com.br/dp/B0H2FV2NGN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zjTt22e3L._SL400_.jpg",
+      "preco": 328.88,
+      "precoDe": 553.59,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:03:18.452Z"
+    },
+    {
+      "id": "52327",
+      "loja": "Shopee",
+      "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
+      "link": "https://s.shopee.com.br/8pncr5DrHk",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mmr759zcedj476_tn",
+      "preco": 11.99,
+      "precoDe": 26.07,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:01:51.258Z"
+    },
+    {
+      "id": "52326",
+      "loja": "Amazon",
+      "titulo": "Licor Cointreau Sabor Licor fino de Laranja 700 ml",
+      "link": "https://www.amazon.com.br/dp/B002VPUPMA?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41zBBr9zMdL._SL400_.jpg",
+      "preco": 92.99,
+      "precoDe": 159.9,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T11:00:23.347Z"
+    },
     {
       "id": "52279",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 19,
       "cupom": "COLORWOW30",
       "enviadoEm": "2026-11-22T16:45:03.048Z"
-    },
-    {
-      "id": "50458",
-      "loja": "Shopee",
-      "titulo": "Escova Removedora Rasqueadeira Tira Pelos Mortos - Pet, Animais, Gato - BNVT",
-      "link": "https://s.shopee.com.br/4LL95cII83",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3dg900h03zsa3_tn",
-      "preco": 14.9,
-      "precoDe": 29.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:42:57.038Z"
-    },
-    {
-      "id": "50457",
-      "loja": "Mercado Livre",
-      "titulo": "Moletom Levi's® Graphic Standard Hoodie Lb00400420042",
-      "link": "https://meli.la/21Ue2jQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728300-MLB86166294602_062025-O-moletom-levis-graphic-standard-hoodie-lb00400420042.webp",
-      "preco": 156.21,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:40:21.146Z"
-    },
-    {
-      "id": "50453",
-      "loja": "Amazon",
-      "titulo": "EUCERIN Dermopure Clinical Gel de Limpeza Gentil 400ml, Redução da oleosidade e acne, Desobstrui os poros",
-      "link": "https://www.amazon.com.br/dp/B0DSJYW1HW?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31+imZdLtrL._SL400_.jpg",
-      "preco": 51.39,
-      "precoDe": 109.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T16:32:09.927Z"
     }
   ]
 }
