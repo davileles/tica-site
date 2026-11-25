@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-25T13:04:01.281Z",
+  "atualizadoEm": "2026-11-25T13:18:14.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52453",
+      "loja": "Shopee",
+      "titulo": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "link": "https://s.shopee.com.br/3LSgRhIIuF",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b_tn",
+      "preco": 29.9,
+      "precoDe": 61.02,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T13:08:14.978Z"
+    },
     {
       "id": "52444",
       "loja": "Mercado Livre",
@@ -5989,18 +6001,6 @@
       "desconto": 53,
       "cupom": "20% DE DESCONTO NO CARRINHO",
       "enviadoEm": "2026-11-22T17:57:32.253Z"
-    },
-    {
-      "id": "50497",
-      "loja": "Mercado Livre",
-      "titulo": "Extensão Elétrica Filtro de Linha 6 Tomadas 1 Universal 4 USB Carregamento Rápido Bivolt Cabo Reforçado 1,5 Metros Régua de Energia com Botão Liga Desliga HW Para Casa Escritório N",
-      "link": "https://meli.la/27Rne45",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_612533-MLA119359383681_102026-F.jpg",
-      "preco": 38.27,
-      "precoDe": 89,
-      "desconto": 57,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:48:04.214Z"
     }
   ]
 }
