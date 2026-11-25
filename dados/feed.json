@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-25T13:18:14.979Z",
+  "atualizadoEm": "2026-11-25T13:34:01.280Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52507",
+      "loja": "Amazon",
+      "titulo": "Old Parr Whisky 12 Anos 1L",
+      "link": "https://www.amazon.com.br/dp/B002BSJLE0?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Qm8F4y46L._SL400_.jpg",
+      "preco": 98.99,
+      "precoDe": 157.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T13:31:53.663Z"
+    },
+    {
+      "id": "52506",
+      "loja": "Amazon",
+      "titulo": "Carrinho Chicco Glee 0m+ até 22kg Fechamento Automático Prático - 8087068730000",
+      "link": "https://www.amazon.com.br/dp/B0C5S8NW3X?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41sXs7ojtGL._SL400_.jpg",
+      "preco": 773.9,
+      "precoDe": 1899,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T13:31:05.638Z"
+    },
+    {
+      "id": "52505",
+      "loja": "Shopee",
+      "titulo": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "link": "https://s.shopee.com.br/3g5Wrlkfx8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrk47ehpkr9j88_tn",
+      "preco": 44.99,
+      "precoDe": 99.98,
+      "desconto": 55,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T13:29:25.860Z"
+    },
+    {
+      "id": "52503",
+      "loja": "Amazon",
+      "titulo": "Fechadura Eletrônica HDL C90 Premium, RFID | Controle de Acesso, Ajuste de Instalação",
+      "link": "https://www.amazon.com.br/dp/B0H2FV2NGN?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31zjTt22e3L._SL400_.jpg",
+      "preco": 328.88,
+      "precoDe": 553.59,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T13:27:09.046Z"
+    },
     {
       "id": "52453",
       "loja": "Shopee",
@@ -325,18 +373,6 @@
       "desconto": null,
       "cupom": null,
       "enviadoEm": "2026-11-25T11:08:24.106Z"
-    },
-    {
-      "id": "52329",
-      "loja": "Amazon",
-      "titulo": "Fechadura Eletrônica HDL C90 Premium, RFID | Controle de Acesso, Ajuste de Instalação",
-      "link": "https://www.amazon.com.br/dp/B0H2FV2NGN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31zjTt22e3L._SL400_.jpg",
-      "preco": 328.88,
-      "precoDe": 553.59,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T11:03:18.452Z"
     },
     {
       "id": "52327",
@@ -5965,42 +6001,6 @@
       "desconto": 42,
       "cupom": null,
       "enviadoEm": "2026-11-22T18:07:44.076Z"
-    },
-    {
-      "id": "50508",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Chaves de Fenda Kraftform Plus Wera 932/918/6 | Conjunto de brocas TX8–TX40 – Clipe resistente ao desgaste para remoção rápida com uma mão",
-      "link": "https://www.amazon.com.br/dp/B01KVLLJ7A?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LW9760kfL._SL400_.jpg",
-      "preco": 237.9,
-      "precoDe": 341.41,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T18:06:12.163Z"
-    },
-    {
-      "id": "50503",
-      "loja": "Amazon",
-      "titulo": "Bold Barra de Proteína Caixa Mista (12 Unid) 40G com 14g de Proteína",
-      "link": "https://www.amazon.com.br/dp/B0GJGLNDYX?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418nSq4umkL._SL400_.jpg",
-      "preco": 75.9,
-      "precoDe": 139,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:58:51.376Z"
-    },
-    {
-      "id": "50502",
-      "loja": "Amazon",
-      "titulo": "Hidratante Corporal Neutrogena Hydro Boost Water Gel, 2 Unidades de 400ml",
-      "link": "https://www.amazon.com.br/dp/B0HFYP1X31?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+CaoCjuFL._SL400_.jpg",
-      "preco": 51.19,
-      "precoDe": 136.5,
-      "desconto": 53,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-22T17:57:32.253Z"
     }
   ]
 }
