@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-25T17:46:12.848Z",
+  "atualizadoEm": "2026-11-25T18:00:20.052Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52801",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Refrigerador Hq Defrost 290 Litros Br Hq-290rdf Branco",
+      "link": "https://meli.la/1tWSfQJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_634484-MLA120489794621_102026-O.webp",
+      "preco": 1315.84,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T17:50:20.049Z"
+    },
+    {
+      "id": "52800",
+      "loja": "Shopee",
+      "titulo": "Kit Waxy Whey 900g + BCAA 4,5g 100g + Power Creatina 100g + Coqueteleira 600ml - Bodybuilders",
+      "link": "https://s.shopee.com.br/80EWJYbOtj",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mldo0o8xvsp0f8_tn",
+      "preco": 59.99,
+      "precoDe": 65.92,
+      "desconto": 9,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T17:49:03.107Z"
+    },
     {
       "id": "52791",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-11-23T12:49:22.009Z"
-    },
-    {
-      "id": "50818",
-      "loja": "Amazon",
-      "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Grey Urban",
-      "link": "https://www.amazon.com.br/dp/B09SP2WJV6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41P5C6lHM7L._SL400_.jpg",
-      "preco": 1257.27,
-      "precoDe": 2299,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T12:40:48.366Z"
-    },
-    {
-      "id": "50815",
-      "loja": "Mercado Livre",
-      "titulo": "Rockstar Games GTA VI PS5 Edição Padrão Física",
-      "link": "https://meli.la/2jMXtuy",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_639067-MLA114816196520_082026-F.jpg",
-      "preco": 261,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFERTAML",
-      "enviadoEm": "2026-11-23T12:39:26.337Z"
     }
   ]
 }
