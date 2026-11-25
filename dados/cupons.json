@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T20:04:03.278Z",
+  "atualizadoEm": "2026-11-25T20:34:03.567Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -207,6 +207,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
+      "codigo": "MAISCOMBO",
+      "loja": "C&A",
+      "tipo": "reais",
+      "valor": 198,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
+    },
+    {
       "codigo": "ESPORTIVO",
       "loja": "C&A",
       "tipo": "reais",
@@ -373,6 +385,18 @@
       "observacao": null,
       "validadeAte": "2026-11-26T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17697&id=1207116"
+    },
+    {
+      "codigo": "CORRE15",
+      "loja": "Decathlon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-12-01T02:59:59.000Z",
+      "url": "https://www.awin1.com/awclick.php?mid=19296&id=1207116"
     },
     {
       "codigo": "CUPOMDESCONTO70",
@@ -2304,6 +2328,18 @@
       "limite": 20,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-26T18:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BELEZABLACK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-26T20:31:52.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
