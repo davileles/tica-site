@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T12:01:09.120Z",
+  "atualizadoEm": "2026-11-25T12:04:01.640Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -601,6 +601,18 @@
       "observacao": "Cupom válido para primeira compra no WhatsApp da Magalu",
       "validadeAte": "2026-11-25T22:28:31.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "LIVREHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "TODO2511SITE",
@@ -2199,6 +2211,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OBRASEGURA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "OFFAUTO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2259,6 +2295,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "VIVERML",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 40,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTAPARAVOCE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2268,6 +2316,30 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIAGORA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ELETROTECHMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-26T12:00:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
