@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-25T12:04:01.640Z",
+  "atualizadoEm": "2026-11-25T12:34:03.348Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "PRIME70OFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 70,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo para membros Prime",
-      "validadeAte": "2026-11-25T12:06:13.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "AMEND35",
       "loja": "BELEZA NA WEB",
@@ -609,21 +597,9 @@
       "valor": 250,
       "minimo": 2499,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODO2511SITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 220,
-      "minimo": 1299,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Último cupom exclusivo para Meli+",
-      "validadeAte": "2026-11-26T12:00:05.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -816,6 +792,18 @@
       "limite": 500,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-06-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2259,18 +2247,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIVIP15",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-25T12:08:27.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ESPORTES15",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2327,7 +2303,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2339,7 +2315,7 @@
       "maximo": null,
       "limite": 200,
       "observacao": null,
-      "validadeAte": "2026-11-26T12:00:22.000Z",
+      "validadeAte": "2026-11-26T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
