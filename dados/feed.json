@@ -1,7 +1,127 @@
 {
-  "atualizadoEm": "2026-11-25T12:01:06.657Z",
+  "atualizadoEm": "2026-11-25T12:34:01.280Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52409",
+      "loja": "Amazon",
+      "titulo": "GLOSS FRAN BY FRANCINY EHLKE FRANBOESA",
+      "link": "https://www.amazon.com.br/dp/B0GQCHRKP2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xl5Em2MEL._SL400_.jpg",
+      "preco": 18.9,
+      "precoDe": 69.9,
+      "desconto": 73,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:27:32.364Z"
+    },
+    {
+      "id": "52408",
+      "loja": "Shopee",
+      "titulo": "Carpete Adesivado Arranhador Premium para Gatos Protetor de Sofá e Cama Box - Alta Qualidade",
+      "link": "https://s.shopee.com.br/2VtZPHWBgn",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkpuwn342ddd3_tn",
+      "preco": 13.9,
+      "precoDe": 34.75,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:26:10.624Z"
+    },
+    {
+      "id": "52406",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor Gamer Aoc 23,8  Full Hd 144hz Agon G50 0,5ms",
+      "link": "https://meli.la/2fCSuD5",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739846-MLB121689431179_112026-O.webp",
+      "preco": 444,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "75MAIS1125MELI",
+      "enviadoEm": "2026-11-25T12:23:25.737Z"
+    },
+    {
+      "id": "52405",
+      "loja": "Mercado Livre",
+      "titulo": "Water Cooler Redragon 360mm Preto com ARGB e Display, para Intel e AMD - R$ 263,86",
+      "link": "https://meli.la/1hTmP6S",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701229-MLA108322060648_032026-P.webp",
+      "preco": 236,
+      "precoDe": 430.36,
+      "desconto": 45,
+      "cupom": "TODOSITE2511",
+      "enviadoEm": "2026-11-25T12:22:13.720Z"
+    },
+    {
+      "id": "52403",
+      "loja": "Amazon",
+      "titulo": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41w8J-90SiL._SL400_.jpg",
+      "preco": 3159.9,
+      "precoDe": 5799,
+      "desconto": 40,
+      "cupom": "NOTE300",
+      "enviadoEm": "2026-11-25T12:20:36.946Z"
+    },
+    {
+      "id": "52402",
+      "loja": "Mercado Livre",
+      "titulo": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
+      "link": "https://meli.la/1TrsZTH",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
+      "preco": 468.15,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "75MAIS1125MELI",
+      "enviadoEm": "2026-11-25T12:19:24.027Z"
+    },
+    {
+      "id": "52398",
+      "loja": "Mercado Livre",
+      "titulo": "Macaco Hidraulico Tipo Jacare Até 2 Toneladas Elevação 125-300mm 510085 Com Caixa Plástica Sparta",
+      "link": "https://meli.la/31FTKbc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_651707-MLA99834339123_112025-O.webp",
+      "preco": 132,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "TODOSITE2511",
+      "enviadoEm": "2026-11-25T12:16:05.587Z"
+    },
+    {
+      "id": "52390",
+      "loja": "Mercado Livre",
+      "titulo": "Volante Logitech G29 Driving Force Para Ps5, Ps4, Ps3 E Pc",
+      "link": "https://meli.la/2ku2xJS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794899-MLU78633345916_092024-O.webp",
+      "preco": 1399,
+      "precoDe": 1833.9,
+      "desconto": 12,
+      "cupom": "TODO2511SITE",
+      "enviadoEm": "2026-11-25T12:11:22.030Z"
+    },
+    {
+      "id": "52379",
+      "loja": "Mercado Livre",
+      "titulo": "Dose Primal Suplemento Masculino 180 Cápsulas 3 Potes - R$ 266",
+      "link": "https://meli.la/2cyAvdb",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_805409-MLA120493834443_102026-P.webp",
+      "preco": 225.98000000000002,
+      "precoDe": 296.99,
+      "desconto": 10,
+      "cupom": "VIVERML",
+      "enviadoEm": "2026-11-25T12:06:32.497Z"
+    },
+    {
+      "id": "52377",
+      "loja": "Shopee",
+      "titulo": "Balde Blocos de Montar 104 Peças Brinquedo Infantil Educativo Desenvolve Coordenação Motora Presente Dia Das Crianças",
+      "link": "https://s.shopee.com.br/6q2YXnq2vP",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mok04mldb951e6_tn",
+      "preco": 31.88,
+      "precoDe": 33.91,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T12:05:10.937Z"
+    },
     {
       "id": "52371",
       "loja": "Amazon",
@@ -3519,18 +3639,6 @@
       "enviadoEm": "2026-11-23T18:45:34.828Z"
     },
     {
-      "id": "51274",
-      "loja": "Mercado Livre",
-      "titulo": "Water Cooler Redragon 360mm Preto com ARGB e Display, para Intel e AMD",
-      "link": "https://meli.la/1hTmP6S",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701229-MLA108322060648_032026-O.webp",
-      "preco": 299.69,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIGARANTE",
-      "enviadoEm": "2026-11-23T18:43:23.537Z"
-    },
-    {
       "id": "51265",
       "loja": "Mercado Livre",
       "titulo": "Watercooler Redragon Gamerstorm LE360 RD ARGB Preto de 360mm",
@@ -5893,114 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-22T17:31:05.593Z"
-    },
-    {
-      "id": "50486",
-      "loja": "Amazon",
-      "titulo": "Whisky Ballantine's American Barrel Blended Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B08VHRNJ3M?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31BFGvu+6hL._SL400_.jpg",
-      "preco": 61.39,
-      "precoDe": 119.9,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:26:33.448Z"
-    },
-    {
-      "id": "50485",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
-      "link": "https://s.shopee.com.br/7Kyki1915V",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85_tn",
-      "preco": 39.99,
-      "precoDe": 99.98,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:25:02.245Z"
-    },
-    {
-      "id": "50483",
-      "loja": "Mercado Livre",
-      "titulo": "Fritadeira sem óleo air fryer 4L Mondial 1500W AFN-40-BFT",
-      "link": "https://meli.la/34feLz8",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_775407-MLA99776749612_122025-F.jpg",
-      "preco": 239.9,
-      "precoDe": 716.9,
-      "desconto": 67,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:23:48.042Z"
-    },
-    {
-      "id": "50479",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Break Start Adidas (38 ao 43)",
-      "link": "https://meli.la/2WsgSpJ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_830614-MLB110045875480_042026-P.webp",
-      "preco": 209.13,
-      "precoDe": 399.99,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:20:01.622Z"
-    },
-    {
-      "id": "50477",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
-      "link": "https://meli.la/2PgPa4c",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-O-tnis-fila-striker-masculino-estilo-esportivo-confortavel.webp",
-      "preco": 169.57,
-      "precoDe": 523.24,
-      "desconto": 62,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:16:06.818Z"
-    },
-    {
-      "id": "50476",
-      "loja": "Amazon",
-      "titulo": "Eudora Siàge Promopack - Kit Nutri Acid.Complex: Shampoo 200ml + Condicionador 125ml + Óleo em Creme 30ml",
-      "link": "https://www.amazon.com.br/dp/B0HFY8X9JD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41fU7Dv0EdL._SL400_.jpg",
-      "preco": 57.95,
-      "precoDe": 81.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:13:54.479Z"
-    },
-    {
-      "id": "50474",
-      "loja": "Mercado Livre",
-      "titulo": "Moletom Essentials Collegiate Adidas",
-      "link": "https://meli.la/1CPj57X",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_721909-MLB110892724822_052026-P.webp",
-      "preco": 180.87,
-      "precoDe": 299.99,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:05:34.339Z"
-    },
-    {
-      "id": "50473",
-      "loja": "Shopee",
-      "titulo": "Jogo de Palhetas Limpador de Parabrisa Palheta Silicone Fiat Palio Uno Mobi Siena Argo Punto Strada",
-      "link": "https://s.shopee.com.br/AAIw3mYaIM",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn26bqurhh50c3_tn",
-      "preco": 19.77,
-      "precoDe": 65.9,
-      "desconto": 70,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:04:01.002Z"
-    },
-    {
-      "id": "50471",
-      "loja": "Amazon",
-      "titulo": "Ar Condicionado Split Hi Wall Inverter Philco 18000 BTU/h Frio PAC18FC – 220 Volts",
-      "link": "https://www.amazon.com.br/dp/B0DW1BTQNN?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31Lh9i7M56L._SL400_.jpg",
-      "preco": 2222.9,
-      "precoDe": 2639,
-      "desconto": 16,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T17:00:26.057Z"
     }
   ]
 }
