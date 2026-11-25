@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-25T15:04:01.306Z",
+  "atualizadoEm": "2026-11-25T15:34:01.306Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "52631",
+      "loja": "Mercado Livre",
+      "titulo": "Bronzer E Contorno Bastão Too Faced Chocolate Soleil",
+      "link": "https://meli.la/2qENhhQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_848571-MLB94363661875_102025-O-bronzer-e-contorno-basto-too-faced-chocolate-soleil.webp",
+      "preco": 186.3,
+      "precoDe": 259,
+      "desconto": 20,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T15:24:50.178Z"
+    },
+    {
+      "id": "52630",
+      "loja": "Mercado Livre",
+      "titulo": "Ar Condicionado Split Gree 9000 BTU Inverter Wi-Fi Frio 220V R32 - R$ 2.099",
+      "link": "https://meli.la/1LEi3N6",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_666738-MLA99367010404_112025-P.webp",
+      "preco": 1899,
+      "precoDe": 2600,
+      "desconto": 19,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T15:20:39.761Z"
+    },
+    {
+      "id": "52628",
+      "loja": "Shopee",
+      "titulo": "Kit 2 Livros Desenhos e Atividades Para Meninas Livro De Pintura Desenhos Para Colorir Rosa",
+      "link": "https://s.shopee.com.br/3g5WzI3dQm",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9xmd8lis5d20_tn",
+      "preco": 25.36,
+      "precoDe": 70.44,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:18:52.180Z"
+    },
+    {
+      "id": "52625",
+      "loja": "Shopee",
+      "titulo": "Motosserra Podador Tesoura Portátil Elétrica 1000w Extensor 3m 2 Makita 21V Baterias Motor Brushless",
+      "link": "https://s.shopee.com.br/3LSgaWmXd9",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mt9c2f3n4i6ac1_tn",
+      "preco": 369.88,
+      "precoDe": 725.25,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:16:01.546Z"
+    },
+    {
+      "id": "52624",
+      "loja": "Mercado Livre",
+      "titulo": "Caixa De Som Jbl Boombox 4 210w Bluetooth Ip68 Bateria 34h",
+      "link": "https://meli.la/1p6dFQE",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_806279-MLB119210334547_102026-O.webp",
+      "preco": 1910,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "ELETRO2511",
+      "enviadoEm": "2026-11-25T15:14:53.541Z"
+    },
+    {
+      "id": "52623",
+      "loja": "Mercado Livre",
+      "titulo": "Tênis Asics Gel Excite 11 Feminino Corrida Caminhada",
+      "link": "https://meli.la/1LonbTN",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_836287-MLB118294150084_102026-O-tnis-asics-gel-excite-11-feminino-corrida-caminhada.webp",
+      "preco": 269.1,
+      "precoDe": 499.9,
+      "desconto": 40,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T15:13:25.810Z"
+    },
+    {
+      "id": "52621",
+      "loja": "Mercado Livre",
+      "titulo": "Smart Tv Aoc Dled 32 Pole Wi-fi Roku Tv Quadcore 32s5155/78g",
+      "link": "https://meli.la/2BhQTDQ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690876-MLB115428765217_082026-O.webp",
+      "preco": 734.3199999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MELIAGORA",
+      "enviadoEm": "2026-11-25T15:09:20.379Z"
+    },
+    {
+      "id": "52618",
+      "loja": "Shopee",
+      "titulo": "Panettone Lindt Gotas de Chocolate 400g",
+      "link": "https://s.shopee.com.br/1gKSajtX8u",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8jc4m971fp4a_tn",
+      "preco": 55.92,
+      "precoDe": 89.62,
+      "desconto": 22,
+      "cupom": null,
+      "enviadoEm": "2026-11-25T15:06:07.845Z"
+    },
     {
       "id": "52612",
       "loja": "Mercado Livre",
@@ -5905,102 +6001,6 @@
       "desconto": 37,
       "cupom": null,
       "enviadoEm": "2026-11-23T11:09:32.224Z"
-    },
-    {
-      "id": "50656",
-      "loja": "Amazon",
-      "titulo": "Licor Seco de Whisky Caramelo & Baunilha Ballantine's Sweet Blend Garrafa 700ml",
-      "link": "https://www.amazon.com.br/dp/B0DZDVTJVZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41yeX2k3zzL._SL400_.jpg",
-      "preco": 49.9,
-      "precoDe": 84.9,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:05:58.942Z"
-    },
-    {
-      "id": "50653",
-      "loja": "Shopee",
-      "titulo": "10 metros Borracha Protetora para Porta de Carro e Bordas Veiculo Universal Carro Preto Fosco",
-      "link": "https://s.shopee.com.br/9zzX3SdKvp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsxtf5ubcdu512_tn",
-      "preco": 22.49,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T11:03:52.460Z"
-    },
-    {
-      "id": "50612",
-      "loja": "Amazon",
-      "titulo": "Jogo de Soquetes Bosch 1/4\" 35 Unidades Bosch",
-      "link": "https://www.amazon.com.br/dp/B0GTBZVJCY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51E0bdl8k9L._SL400_.jpg",
-      "preco": 240.81,
-      "precoDe": 358.99,
-      "desconto": 33,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T22:55:54.729Z"
-    },
-    {
-      "id": "50611",
-      "loja": "Amazon",
-      "titulo": "Conjunto de Chaves de Precisão Wera 2035 6 Peças com Suporte",
-      "link": "https://www.amazon.com.br/dp/B0001P18PA?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41U1VXJEbrL._SL400_.jpg",
-      "preco": 182.32,
-      "precoDe": 308.23,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T22:51:01.660Z"
-    },
-    {
-      "id": "50608",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ooqeyUaeL._SL400_.jpg",
-      "preco": 177.84,
-      "precoDe": 349.99,
-      "desconto": 49,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T22:30:00.887Z"
-    },
-    {
-      "id": "50605",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Hw LG Dual Inverter +ai Voice 18.000 Btus R32 Qf Branco",
-      "link": "https://meli.la/2XPzCQe",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_790343-MLA108403838478_032026-F.jpg",
-      "preco": 3449,
-      "precoDe": 4870,
-      "desconto": 26,
-      "cupom": "SITETODO2211",
-      "enviadoEm": "2026-11-22T22:21:03.841Z"
-    },
-    {
-      "id": "50603",
-      "loja": "Amazon",
-      "titulo": "Chocolate Twix Variedades Minis 165g",
-      "link": "https://www.amazon.com.br/dp/B0GFG14Z7C?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51ARxIGSsoL._SL400_.jpg",
-      "preco": 12.82,
-      "precoDe": 19.99,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T22:17:23.883Z"
-    },
-    {
-      "id": "50598",
-      "loja": "Shopee",
-      "titulo": "Termômetro Digital Infantil Ultra Rápido Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
-      "link": "https://s.shopee.com.br/8fU8bGDOJH",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbxhrlw6bk76e_tn",
-      "preco": 26.99,
-      "precoDe": 45.75,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-22T21:58:38.800Z"
     }
   ]
 }
