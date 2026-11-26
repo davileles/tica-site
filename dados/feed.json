@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-26T16:41:40.700Z",
+  "atualizadoEm": "2026-11-26T16:58:10.455Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53516",
+      "loja": "Magazine Luiza",
+      "titulo": "3",
+      "link": "https://www.magazinevoce.com.br/magazinetudosobremilhas/console-sony-playstation-5-slim-digital-1tb-dualsense-branco/p/bb9gd709ca/ga/otga/",
+      "imagem": null,
+      "preco": 3510.25,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T16:48:10.449Z"
+    },
+    {
+      "id": "53510",
+      "loja": "Amazon",
+      "titulo": "CHANNELLOCK Alicate Bico Papagaio Channellock 420 22 8 Cm",
+      "link": "https://www.amazon.com.br/dp/B00002N5JF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PbgheMezL._SL400_.jpg",
+      "preco": 117.52,
+      "precoDe": 163.6,
+      "desconto": 28,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T16:46:58.501Z"
+    },
+    {
+      "id": "53508",
+      "loja": "Mercado Livre",
+      "titulo": "Perfume Dolce &amp; Gabbana Devotion Edp 100ml Masculino - R$ 289,84",
+      "link": "https://meli.la/1UMDnvL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_908221-MLA107686995620_032026-P.webp",
+      "preco": 260.85999999999996,
+      "precoDe": 1219,
+      "desconto": 76,
+      "cupom": "PROMOAGORA",
+      "enviadoEm": "2026-11-26T16:46:03.891Z"
+    },
     {
       "id": "53500",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "REFORMA50",
       "enviadoEm": "2026-11-23T23:01:00.542Z"
-    },
-    {
-      "id": "51433",
-      "loja": "Amazon",
-      "titulo": "Whisky Buchanan's Pineapple Abacaxi 750ml | Abacaxi, Buchanan's",
-      "link": "https://www.amazon.com.br/dp/B0CWS8GCNM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/319+BQCIKmL._SL400_.jpg",
-      "preco": 541.49,
-      "precoDe": 599.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T22:56:51.147Z"
-    },
-    {
-      "id": "51432",
-      "loja": "Amazon",
-      "titulo": "Vodka Grey Goose Original 750ml",
-      "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31lBOTNpNRL._SL400_.jpg",
-      "preco": 106.52,
-      "precoDe": 174.9,
-      "desconto": 39,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T22:54:03.312Z"
-    },
-    {
-      "id": "51431",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 10 Saquinhos Maternidade Multiuso Organizador Necessaire - R$ 26,91",
-      "link": "https://meli.la/2jhEXDE",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669776-MLB94949090633_102025-P.webp",
-      "preco": 26.91,
-      "precoDe": 29.9,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T22:53:19.400Z"
     }
   ]
 }
