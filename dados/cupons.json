@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T15:41:40.995Z",
+  "atualizadoEm": "2026-11-26T16:11:42.583Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -24,6 +24,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-27T03:29:38.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SONHODEBLACK",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T16:00:53.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -639,6 +651,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PROMOTOP",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T16:00:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -696,6 +720,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T15:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIOFF35",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 35,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido para produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-27T16:10:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2556,6 +2592,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AMLQOGSTENZ",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 79,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T16:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
