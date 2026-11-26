@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-26T19:31:40.643Z",
+  "atualizadoEm": "2026-11-26T19:41:40.979Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53746",
+      "loja": "Amazon",
+      "titulo": "Oxford Aparelho De Jantar 20 Peças Ryo Blue Bay",
+      "link": "https://www.amazon.com.br/dp/B09LWXW88K?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41uN3a-3xxL._SL400_.jpg",
+      "preco": 299.10999999999996,
+      "precoDe": 377.06,
+      "desconto": 7,
+      "cupom": "15% DE DESCONTO NO CARRINHO",
+      "enviadoEm": "2026-11-26T19:39:42.761Z"
+    },
+    {
+      "id": "53744",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira Impacto 20v 230nm 1/4  2 Baterias 4.0ah Sata",
+      "link": "https://meli.la/2xFshJa",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_978455-MLB119169583836_112026-O.webp",
+      "preco": 1320.92,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOAGORA",
+      "enviadoEm": "2026-11-26T19:35:52.617Z"
+    },
     {
       "id": "53734",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": 36,
       "cupom": null,
       "enviadoEm": "2026-11-24T12:37:03.369Z"
-    },
-    {
-      "id": "51617",
-      "loja": "Shopee",
-      "titulo": "Bastão Caminhada Trekking Bengala Trilha Retrátil Alumínio",
-      "link": "https://s.shopee.com.br/30poPtk6Gq",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65g4xp2j8aa6c_tn",
-      "preco": 33.96,
-      "precoDe": 109.55,
-      "desconto": 69,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:35:41.516Z"
-    },
-    {
-      "id": "51616",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd Wd Green 2.5 2tb Sata Iii 545 Mb/s - Wds200t5g0a",
-      "link": "https://meli.la/1QQg29M",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988348-MLA99991838625_112025-O.webp",
-      "preco": 1399.19,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "TECH2411",
-      "enviadoEm": "2026-11-24T12:34:30.622Z"
     }
   ]
 }
