@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T16:11:42.583Z",
+  "atualizadoEm": "2026-11-26T16:41:42.779Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -567,6 +567,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "SQUAD300BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-11-27T16:37:30.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK220",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -591,6 +603,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "SQUAD200BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-11-27T16:37:30.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK150",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -612,6 +636,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T12:10:58.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "SQUAD100BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
+      "validadeAte": "2026-11-27T16:37:30.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -657,21 +693,9 @@
       "valor": 250,
       "minimo": 2499,
       "maximo": null,
-      "limite": null,
+      "limite": 250,
       "observacao": null,
-      "validadeAte": "2026-11-27T16:00:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1099,
-      "maximo": null,
-      "limite": 150,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -708,6 +732,18 @@
       "limite": null,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-11-27T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 399,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-26T18:00:12.577Z",
       "url": "https://meli.la/2xystLt"
     },
     {
