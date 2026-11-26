@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T21:20:45.184Z",
+  "atualizadoEm": "2026-11-26T21:41:43.282Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -459,6 +459,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
+      "codigo": "PM15OFF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em Farmácia Pague Menos",
+      "validadeAte": "2026-11-27T21:39:42.000Z",
+      "url": null
+    },
+    {
       "codigo": "FOMEWEEKBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -843,6 +855,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MOVEIS150",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-11-27T21:26:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PRESENTAOML",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -864,6 +888,30 @@
       "limite": null,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-11-27T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CASA50",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons em selecionados no Mercado Livre",
+      "validadeAte": "2026-11-27T21:26:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TDS50BF26",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 249,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T21:30:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2367,6 +2415,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELISUPERCLUB",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 0,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-12-22T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "SUPERPROMO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2443,7 +2503,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 199,
+      "minimo": 79,
       "maximo": null,
       "limite": 80,
       "observacao": null,
@@ -2575,7 +2635,7 @@
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 18,
-      "minimo": 199,
+      "minimo": 79,
       "maximo": null,
       "limite": 50,
       "observacao": null,
