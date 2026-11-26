@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-26T21:11:40.980Z",
+  "atualizadoEm": "2026-11-26T21:41:41.019Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53871",
+      "loja": "Mercado Livre",
+      "titulo": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB - R$ 652,41",
+      "link": "https://meli.la/1zWiFn3",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_920822-MLA99469912962_112025-P.webp",
+      "preco": 574.12,
+      "precoDe": 987,
+      "desconto": 34,
+      "cupom": "TECHVIP",
+      "enviadoEm": "2026-11-26T21:41:06.125Z"
+    },
+    {
+      "id": "53859",
+      "loja": "Amazon",
+      "titulo": "Pack de Cerveja Estrella Galicia 0,0% LT 330ml - 6 Unidades",
+      "link": "https://www.amazon.com.br/dp/B08DQS7J1G?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41u93O7EYmL._SL400_.jpg",
+      "preco": 30.18,
+      "precoDe": 33.54,
+      "desconto": 10,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T21:34:26.853Z"
+    },
+    {
+      "id": "53858",
+      "loja": "Amazon",
+      "titulo": "Bourbon Whiskey Jim Beam White 1L",
+      "link": "https://www.amazon.com.br/dp/B005HQNCLG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SL400_.jpg",
+      "preco": 57.63,
+      "precoDe": 106.18,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T21:33:47.018Z"
+    },
+    {
+      "id": "53856",
+      "loja": "Shopee",
+      "titulo": "Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46 cm tábua de cozinha",
+      "link": "https://s.shopee.com.br/3B9IOsAr9J",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mmpu5t4d8q9w1d_tn",
+      "preco": 21.98,
+      "precoDe": 46.77,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T21:33:12.912Z"
+    },
+    {
+      "id": "53851",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Ferramentas Cr-v Para Oficina Com 50 Peças - Sata",
+      "link": "https://meli.la/21cy32E",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_701573-MLB90826058110_082025-O.webp",
+      "preco": 1043.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "PROMOAGORA",
+      "enviadoEm": "2026-11-26T21:26:28.908Z"
+    },
+    {
+      "id": "53850",
+      "loja": "Mercado Livre",
+      "titulo": "Fones de ouvido Samsung Galaxy Buds4 Pro Black SM-R640NZKalta Black",
+      "link": "https://meli.la/1YCMBEF",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_984473-MLA107171194006_022026-O.webp",
+      "preco": 991.75,
+      "precoDe": 1199,
+      "desconto": 6,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T21:25:50.480Z"
+    },
     {
       "id": "53837",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 30,
       "cupom": "20BF26PRIME",
       "enviadoEm": "2026-11-24T13:46:29.250Z"
-    },
-    {
-      "id": "51755",
-      "loja": "Amazon",
-      "titulo": "Cerveja Erdinger, Weissbier, Garrafa, 500ml 1un",
-      "link": "https://www.amazon.com.br/dp/B07Y2C5ZY1?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31fw6Asog6L._SL400_.jpg",
-      "preco": 12.530000000000001,
-      "precoDe": 23.92,
-      "desconto": 35,
-      "cupom": "20% DE DESCONTO NO CARRINHO",
-      "enviadoEm": "2026-11-24T13:43:41.397Z"
-    },
-    {
-      "id": "51750",
-      "loja": "Mercado Livre",
-      "titulo": "Baba Eletronica Visão Noturna Vb603 Video Voz Camera S/ Fio Cor Branco 127/220V",
-      "link": "https://meli.la/2o22T1F",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_826486-MLA112994427279_062026-O.webp",
-      "preco": 184.98,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T13:39:08.376Z"
-    },
-    {
-      "id": "51748",
-      "loja": "Amazon",
-      "titulo": "Ralph Lauren, Perfume Masculino, Polo Blue, Eau de Toilette, 200 ml",
-      "link": "https://www.amazon.com.br/dp/B0863GLLFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/418Af7bctQL._SL400_.jpg",
-      "preco": 479.09000000000003,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-24T13:38:32.637Z"
-    },
-    {
-      "id": "51739",
-      "loja": "Shopee",
-      "titulo": "Kit 4 Cafés Torrado E Moído Aromatizados - Todos os Aromas",
-      "link": "https://s.shopee.com.br/5fqZer0UeZ",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msw5940yzax327_tn",
-      "preco": 113.91,
-      "precoDe": 119.91,
-      "desconto": 5,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T13:33:47.314Z"
-    },
-    {
-      "id": "51736",
-      "loja": "Mercado Livre",
-      "titulo": "Combo Makita Parafusadeira Impacto Brushless Bolsa De Lona",
-      "link": "https://meli.la/1kDATf6",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650894-MLB115408505687_072026-O.webp",
-      "preco": 1213.04,
-      "precoDe": 1499.99,
-      "desconto": 10,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T13:31:12.597Z"
-    },
-    {
-      "id": "51729",
-      "loja": "Amazon",
-      "titulo": "Jogo de Panelas Black+Decker Ceramic Line, Antiaderente, 9 Peças | Revestimento Antiaderente em Cerâmica, Compatível com Fogão de Indução, Tampa de Vidro e Utensílios de Silicone",
-      "link": "https://www.amazon.com.br/dp/B0GV63ZK3N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416kA7ZtGjL._SL400_.jpg",
-      "preco": 216.86999999999998,
-      "precoDe": 301.24,
-      "desconto": 10,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-24T13:30:32.347Z"
     }
   ]
 }
