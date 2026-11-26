@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T18:41:42.921Z",
+  "atualizadoEm": "2026-11-26T19:11:42.771Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -423,18 +423,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "FARMASBF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para compras em Farmácias pelo iFood",
-      "validadeAte": "2026-11-26T19:00:10.000Z",
-      "url": null
-    },
-    {
       "codigo": "FOMEWEEKBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -540,6 +528,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T13:06:03.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUBLACK320",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 320,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Magazine Luiza",
+      "validadeAte": "2026-11-27T19:04:08.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -711,6 +711,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PROMOEXTRA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2299,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T19:00:14.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PROMOTOP",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -720,6 +732,18 @@
       "limite": 250,
       "observacao": null,
       "validadeAte": "2026-11-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIEBG",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo para membros Meli+",
+      "validadeAte": "2026-11-27T19:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2688,6 +2712,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T16:00:11.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SAMSUNG10OFF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 900,
+      "maximo": null,
+      "limite": 533,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-27T18:43:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
