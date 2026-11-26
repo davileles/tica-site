@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-26T11:58:37.239Z",
+  "atualizadoEm": "2026-11-26T12:07:05.052Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53120",
+      "loja": "Amazon",
+      "titulo": "Ventilador de Parede Ventisol New, Oscilante, 50cm, Preto, 127V | Classificação A em consumo de energia",
+      "link": "https://www.amazon.com.br/dp/B09Z1FPNR4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qiZUiHYKL._SL400_.jpg",
+      "preco": null,
+      "precoDe": 199,
+      "desconto": 30,
+      "cupom": "BLACK150",
+      "enviadoEm": "2026-11-26T12:06:31.723Z"
+    },
+    {
+      "id": "53119",
+      "loja": "Amazon",
+      "titulo": "Fralda Infantil Personal Baby Protect e Sec G Mega 9x34pads Leve 34 pague 32 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RzLukzVDL._SL400_.jpg",
+      "preco": 23,
+      "precoDe": 37.02,
+      "desconto": 38,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T12:05:13.495Z"
+    },
+    {
+      "id": "53117",
+      "loja": "Amazon",
+      "titulo": "Personal Fralda Baby Premium Protection M, 62 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0C3FS2GXX?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41MSdJEeHsL._SL400_.jpg",
+      "preco": 50,
+      "precoDe": 94.84,
+      "desconto": 47,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T12:04:46.515Z"
+    },
+    {
+      "id": "53116",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
+      "preco": null,
+      "precoDe": 177.9,
+      "desconto": 49,
+      "cupom": "BLACK150",
+      "enviadoEm": "2026-11-26T12:04:19.811Z"
+    },
+    {
+      "id": "53115",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Double Black, 1L",
+      "link": "https://www.amazon.com.br/dp/B008X6TB08?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31+2jx8jqgL._SL400_.jpg",
+      "preco": 29.900000000000006,
+      "precoDe": 266.9,
+      "desconto": 33,
+      "cupom": "BLACK150",
+      "enviadoEm": "2026-11-26T12:01:59.335Z"
+    },
+    {
+      "id": "53107",
+      "loja": "Amazon",
+      "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
+      "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ItOpTbhlL._SL400_.jpg",
+      "preco": 33,
+      "precoDe": 77.99,
+      "desconto": 58,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T11:59:02.254Z"
+    },
     {
       "id": "53098",
       "loja": "Amazon",
@@ -5919,18 +5991,6 @@
       "enviadoEm": "2026-11-23T17:44:51.370Z"
     },
     {
-      "id": "51204",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
-      "preco": 95.99,
-      "precoDe": 177.9,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:37:25.272Z"
-    },
-    {
       "id": "51200",
       "loja": "Amazon",
       "titulo": "OSCA Martelo macio EVO de 30,5 cm com corpo de alumínio, pontas de nylon intercambiáveis e alça de nogueira, 204 g, 095H27",
@@ -5941,66 +6001,6 @@
       "desconto": null,
       "cupom": "BF40",
       "enviadoEm": "2026-11-23T17:31:10.147Z"
-    },
-    {
-      "id": "51199",
-      "loja": "Amazon",
-      "titulo": "Argan Óleo Reparador 50ml , Lola Cosmetics | Fios brilhantes e reparação",
-      "link": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/310h8byMLWL._SL400_.jpg",
-      "preco": 12.8,
-      "precoDe": 44.9,
-      "desconto": 71,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:29:12.423Z"
-    },
-    {
-      "id": "51198",
-      "loja": "Mercado Livre",
-      "titulo": "Kit 12 Cuecas Boxer Reebok Classic Microfibra Sem Costura",
-      "link": "https://meli.la/1PLBAFv",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_670872-MLB118910761195_102026-O.webp",
-      "preco": 89.99,
-      "precoDe": 199.99,
-      "desconto": 50,
-      "cupom": "OFERTAPARAVOCE",
-      "enviadoEm": "2026-11-23T17:27:02.169Z"
-    },
-    {
-      "id": "51194",
-      "loja": "Amazon",
-      "titulo": "Wera - Conjunto Bits e Soquetes Tool Check Plus - Milimétrica",
-      "link": "https://www.amazon.com.br/dp/B00I8MYMT2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41A+26pfeuL._SL400_.jpg",
-      "preco": 676.51,
-      "precoDe": 934.59,
-      "desconto": 28,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:25:41.845Z"
-    },
-    {
-      "id": "51192",
-      "loja": "Amazon",
-      "titulo": "Vinho Verde Bico Amarelo Esporão 750ml",
-      "link": "https://www.amazon.com.br/dp/B07YNQHGWP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21fARRHwWWL._SL400_.jpg",
-      "preco": 47.48,
-      "precoDe": 74,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:24:22.219Z"
-    },
-    {
-      "id": "51191",
-      "loja": "Shopee",
-      "titulo": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "link": "https://s.shopee.com.br/2gCwkF7aMm",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa_tn",
-      "preco": 139.9,
-      "precoDe": 170.61,
-      "desconto": 18,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T17:23:44.487Z"
     }
   ]
 }
