@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T10:07:05.481Z",
+  "atualizadoEm": "2026-11-26T11:07:07.127Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -555,6 +555,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
+      "codigo": "INFLUBLACK220",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 220,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T11:05:09.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK200",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -601,30 +613,6 @@
       "observacao": null,
       "validadeAte": "2026-11-27T10:02:35.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "PM52MP66",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 1000,
-      "minimo": 3500,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido pagando com cartão MP Visa. Aplicável em produtos selecionados conforme lista fornecida.",
-      "validadeAte": "2026-11-26T21:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "S1Y3OJMASUJ",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T03:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "75MAIS1125MELI",
@@ -2026,7 +2014,7 @@
       "minimo": 159,
       "maximo": null,
       "limite": 45,
-      "observacao": "Válido em selecionados conforme lista fornecida",
+      "observacao": "Indisponível para a conta TSP segundo o ML: NOT_IN_TARGET_AUDIENCE: Este cupom não se aplica a você.",
       "validadeAte": "2026-11-27T03:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2175,15 +2163,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIXF9",
+      "codigo": "PROJETOGRANDE",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 20,
-      "minimo": 499,
+      "minimo": 199,
       "maximo": null,
-      "limite": 110,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-27T03:00:07.000Z",
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-27T11:00:20.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOVIP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-27T11:00:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2220,6 +2220,18 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ENERGIAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-27T11:00:20.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2352,18 +2364,6 @@
       "limite": 100,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2026-11-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LIVREOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-26T19:00:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
