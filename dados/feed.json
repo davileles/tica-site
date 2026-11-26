@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-26T16:58:10.455Z",
+  "atualizadoEm": "2026-11-26T17:11:40.777Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53540",
+      "loja": "Amazon",
+      "titulo": "Fralda Personal Baby Protect e Sec XG Mega 9x28pads Leve 28 pague 26 Unidades",
+      "link": "https://www.amazon.com.br/dp/B0BBHFXBTF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41CHTF2lZoL._SL400_.jpg",
+      "preco": 24.77,
+      "precoDe": 37.02,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:11:20.829Z"
+    },
+    {
+      "id": "53524",
+      "loja": "Mercado Livre",
+      "titulo": "Lava E Seca Electrolux 12kg Inverter Água Quente (lsb12 Branco",
+      "link": "https://meli.la/2NZE6He",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794224-MLA115310976011_072026-O.webp",
+      "preco": 2949,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:10:29.989Z"
+    },
+    {
+      "id": "53523",
+      "loja": "Amazon",
+      "titulo": "CAFÉ MELITTA SABOR DA FAZENDA POUCH 500g",
+      "link": "https://www.amazon.com.br/dp/B00G8301DY?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41huPMUjbGL._SL400_.jpg",
+      "preco": 22.99,
+      "precoDe": 29.03,
+      "desconto": 21,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:09:13.705Z"
+    },
+    {
+      "id": "53518",
+      "loja": "Amazon",
+      "titulo": "3 Corações Capsula de Cappuccino Classic TRES - 10 unidades",
+      "link": "https://www.amazon.com.br/dp/B0776TMBHH?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/412UNdAInQL._SL400_.jpg",
+      "preco": 11.99,
+      "precoDe": 24.99,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:08:38.870Z"
+    },
     {
       "id": "53516",
       "loja": "Magazine Luiza",
@@ -5953,54 +6001,6 @@
       "desconto": 10,
       "cupom": null,
       "enviadoEm": "2026-11-24T11:22:57.913Z"
-    },
-    {
-      "id": "51472",
-      "loja": "Amazon",
-      "titulo": "Whisky Chivas Regal 18 anos Escocês - 750 ml",
-      "link": "https://www.amazon.com.br/dp/B001P4WGGQ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/416P1+BDuvL._SL400_.jpg",
-      "preco": 299.9,
-      "precoDe": 664.9,
-      "desconto": 55,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T11:13:17.978Z"
-    },
-    {
-      "id": "51471",
-      "loja": "Amazon",
-      "titulo": "TP-Link Deco X10 (3 un.) Roteador Mesh Wi-Fi 6 AX1500 Dual Band, Cobertura de até 520 m², Conexão para até 120 Dispositivos, 2 Portas Gigabit por Unidade e Mesh Gerenciado por IA",
-      "link": "https://www.amazon.com.br/dp/B0DXN1BRXP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL400_.jpg",
-      "preco": 516.73,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "25BF26PRIME",
-      "enviadoEm": "2026-11-24T11:12:35.154Z"
-    },
-    {
-      "id": "51437",
-      "loja": "Amazon",
-      "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
-      "link": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/315heWNPGOL._SL400_.jpg",
-      "preco": 128,
-      "precoDe": 269.9,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T23:12:18.297Z"
-    },
-    {
-      "id": "51435",
-      "loja": "Amazon",
-      "titulo": "Crescent Conjunto de chaves SAE de 7 peças X6 com estrias de óxido preto - CX6RWS7",
-      "link": "https://www.amazon.com.br/dp/B009L86A7O?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31CSV70uSfS._SL400_.jpg",
-      "preco": 125.63,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "REFORMA50",
-      "enviadoEm": "2026-11-23T23:01:00.542Z"
     }
   ]
 }
