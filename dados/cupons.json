@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T13:32:45.215Z",
+  "atualizadoEm": "2026-11-26T14:11:42.784Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -12,18 +12,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-26T18:02:53.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BLACK75OFF",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 75,
-      "minimo": 499,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo Prime",
-      "validadeAte": "2026-11-26T14:00:21.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -2040,6 +2028,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-27T13:10:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPEROFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 55,
+      "observacao": null,
+      "validadeAte": "2026-11-27T14:00:14.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
