@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-26T14:11:40.663Z",
+  "atualizadoEm": "2026-11-26T14:36:00.593Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53342",
+      "loja": "Amazon",
+      "titulo": "Bosch Furadeira De Impacto Gsb 20-2 Re 800W 127V",
+      "link": "https://www.amazon.com.br/dp/B076YBQQ2C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51Zr5W07htL._SL400_.jpg",
+      "preco": 1036.77,
+      "precoDe": 1377.85,
+      "desconto": 11,
+      "cupom": "BOSCH15",
+      "enviadoEm": "2026-11-26T14:26:00.591Z"
+    },
+    {
+      "id": "53340",
+      "loja": "Amazon",
+      "titulo": "Faca Utilitária Olympia Tools Turboknife X 33-133, Amarelo | Facas utilitárias, facas retráteis, facas de segurança, lâminas de substituição, alumínio, 21 cm, ergonômicas",
+      "link": "https://www.amazon.com.br/dp/B001E69IQ6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41FuOGT+eOL._SL400_.jpg",
+      "preco": 40.85,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTO40",
+      "enviadoEm": "2026-11-26T14:20:53.659Z"
+    },
+    {
+      "id": "53338",
+      "loja": "Amazon",
+      "titulo": "Samsung Galaxy Watch8 Smartwatch 44mm BT, Galaxy AI - Grafite",
+      "link": "https://www.amazon.com.br/dp/B0FDXC3Q9M?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31tSZXCHPdL._SL400_.jpg",
+      "preco": 1099,
+      "precoDe": 3199,
+      "desconto": 56,
+      "cupom": "WATCH300",
+      "enviadoEm": "2026-11-26T14:19:53.530Z"
+    },
+    {
+      "id": "53334",
+      "loja": "Shopee",
+      "titulo": "KY2 Pro Sem Fio Bluetooth 5.3 Fone De Ouvido Único Tampões Ultra Longa Vida Útil Da Bateria Negócios Esportes Fones Com",
+      "link": "https://s.shopee.com.br/30primVcxG",
+      "imagem": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lufrk06tgqr7d8_tn",
+      "preco": 14.55,
+      "precoDe": 21.09,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T14:18:44.980Z"
+    },
+    {
+      "id": "53332",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Chave Torx Cabo Reta 8pçs ST09305SJ Sata Maleta - R$ 168,97",
+      "link": "https://meli.la/1AmaHuS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_951716-MLA99918121975_112025-P.webp",
+      "preco": 126.72999999999999,
+      "precoDe": 177.87,
+      "desconto": 5,
+      "cupom": "SUPEROFERTA",
+      "enviadoEm": "2026-11-26T14:16:54.691Z"
+    },
+    {
+      "id": "53324",
+      "loja": "Mercado Livre",
+      "titulo": "Jogo De Soquetes E Chaves Com 35 Peas St09010sj Sata",
+      "link": "https://meli.la/31QMkRn",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_899354-MLA100035170839_122025-O.webp",
+      "preco": 146.28,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SUPEROFERTA",
+      "enviadoEm": "2026-11-26T14:14:33.913Z"
+    },
+    {
+      "id": "53322",
+      "loja": "Mercado Livre",
+      "titulo": "Parafusadeira e Furadeira de Impacto Wap Wf 12k4.2 com Indicador de Nível de Bateria e Maleta",
+      "link": "https://meli.la/2piY3vX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821967-MLA116028609907_082026-O.webp",
+      "preco": 100.57,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "SUPEROFERTA",
+      "enviadoEm": "2026-11-26T14:13:47.630Z"
+    },
     {
       "id": "53313",
       "loja": "Amazon",
@@ -3003,18 +3087,6 @@
       "enviadoEm": "2026-11-25T11:10:04.302Z"
     },
     {
-      "id": "52337",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira e Furadeira de Impacto Wap Wf 12k4.2 com Indicador de Nível de Bateria e Maleta",
-      "link": "https://meli.la/2piY3vX",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821967-MLA116028609907_082026-O.webp",
-      "preco": 134.1,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T11:08:24.106Z"
-    },
-    {
       "id": "52327",
       "loja": "Shopee",
       "titulo": "1/2/3/4  Peças Mini Máquina Seladora Recarregável Para Embalagens Plásticas - Selagem Rápida/ Alta Qualidade/ Promoção",
@@ -5929,78 +6001,6 @@
       "desconto": 29,
       "cupom": null,
       "enviadoEm": "2026-11-23T21:12:45.588Z"
-    },
-    {
-      "id": "51365",
-      "loja": "Amazon",
-      "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
-      "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51atYNUglzL._SL400_.jpg",
-      "preco": 232.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:11:20.943Z"
-    },
-    {
-      "id": "51363",
-      "loja": "Amazon",
-      "titulo": "Azeite de oliva extra virgem, O-LIVE & Co, Chileno, vidro, 450ml | Blend das azeitonas Arbequina, Arbosana e Koroneiki, com sabor suave e notas frutadas e herbáceas",
-      "link": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/3187i+XeyHL._SL400_.jpg",
-      "preco": 24.9,
-      "precoDe": 52.76,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:08:10.047Z"
-    },
-    {
-      "id": "51360",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo 12 Peças Chaves De Fenda E Phillips Gedore Profissional - R$ 161",
-      "link": "https://meli.la/2Ld9deh",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813739-MLB121221372475_112026-P.webp",
-      "preco": 161,
-      "precoDe": 184,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:05:56.828Z"
-    },
-    {
-      "id": "51359",
-      "loja": "Amazon",
-      "titulo": "AWP Bolsa Organizadora De Ferramentas Preto E Cinza",
-      "link": "https://www.amazon.com.br/dp/B08WJHZKKS?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41mEYHGtqwL._SL400_.jpg",
-      "preco": 64.14000000000001,
-      "precoDe": 160.49,
-      "desconto": 50,
-      "cupom": "BF20",
-      "enviadoEm": "2026-11-23T21:01:01.114Z"
-    },
-    {
-      "id": "51357",
-      "loja": "Amazon",
-      "titulo": "Dubar Aperitivo Fernet 900Ml",
-      "link": "https://www.amazon.com.br/dp/B07XS8BVJ2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hi3gFdaqL._SL400_.jpg",
-      "preco": 38.98,
-      "precoDe": 52,
-      "desconto": 25,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T20:57:43.743Z"
-    },
-    {
-      "id": "51353",
-      "loja": "Amazon",
-      "titulo": "Licor C Cognac Cointreau Noir Cointreau Sabor Casca de Laranja com Cognac 700 ml",
-      "link": "https://www.amazon.com.br/dp/B00XYC27ZM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-KJh4-QTL._SL400_.jpg",
-      "preco": 151.95,
-      "precoDe": 214.7,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T20:54:59.560Z"
     }
   ]
 }
