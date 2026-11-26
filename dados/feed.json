@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-26T14:36:00.593Z",
+  "atualizadoEm": "2026-11-26T14:41:40.669Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53355",
+      "loja": "Shopee",
+      "titulo": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+      "link": "https://s.shopee.com.br/6VPjuhuLcz",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ob-mp7wv1fcnx8rc4_tn",
+      "preco": 19.29,
+      "precoDe": 27.17,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T14:39:53.265Z"
+    },
     {
       "id": "53342",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 20,
       "cupom": null,
       "enviadoEm": "2026-11-23T21:15:16.908Z"
-    },
-    {
-      "id": "51366",
-      "loja": "Amazon",
-      "titulo": "Ar Condicionado Split HW LG AI Smart Inverter Voice 12000 BTUs Frio 220V S3-Q12JA31E",
-      "link": "https://www.amazon.com.br/dp/B0FY6RY66N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31d9ge4lYEL._SL400_.jpg",
-      "preco": 1996.65,
-      "precoDe": 2799,
-      "desconto": 29,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:12:45.588Z"
     }
   ]
 }
