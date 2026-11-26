@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T11:58:39.059Z",
+  "atualizadoEm": "2026-11-26T12:07:06.785Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -615,15 +615,27 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "75MAIS1125MELI",
+      "codigo": "ZHSMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-27T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIOW7",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 75,
       "minimo": 499,
       "maximo": null,
       "limite": null,
-      "observacao": "Último cupom exclusivo para Meli+",
-      "validadeAte": "2026-11-26T12:00:05.000Z",
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-27T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2103,6 +2115,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELISPH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-27T12:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2244,6 +2268,18 @@
       "limite": 35,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-26T20:31:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELID07",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-27T12:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
