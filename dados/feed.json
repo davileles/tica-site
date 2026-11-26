@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-26T22:41:41.039Z",
+  "atualizadoEm": "2026-11-26T23:10:54.835Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53945",
+      "loja": "Amazon",
+      "titulo": "Cafeteira Espresso Oster PrimaLatte Touch - 220V",
+      "link": "https://www.amazon.com.br/dp/B0BXY65689?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41+qsg9jTYL._SL400_.jpg",
+      "preco": 524,
+      "precoDe": 1999,
+      "desconto": 70,
+      "cupom": "BFSICREDI75",
+      "enviadoEm": "2026-11-26T23:00:54.832Z"
+    },
     {
       "id": "53937",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 20,
       "cupom": "20BF26PRIME",
       "enviadoEm": "2026-11-24T14:20:45.126Z"
-    },
-    {
-      "id": "51788",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis Feminino Response Runner 2 adidas",
-      "link": "https://meli.la/2vwqKQD",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_730498-MLB115194811247_072026-O.webp",
-      "preco": 224.99,
-      "precoDe": 399.99,
-      "desconto": 38,
-      "cupom": "OFICIAIS2411",
-      "enviadoEm": "2026-11-24T14:19:25.420Z"
     }
   ]
 }
