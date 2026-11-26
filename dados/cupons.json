@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T09:37:05.358Z",
+  "atualizadoEm": "2026-11-26T10:07:05.481Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -588,6 +588,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T09:07:45.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "INFLUBLACK10",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T10:02:35.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2316,6 +2328,18 @@
       "limite": 250,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-27T03:00:20.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "VIPTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": 250,
+      "observacao": "Válido em selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-27T10:00:18.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
