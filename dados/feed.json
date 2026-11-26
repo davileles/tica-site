@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-26T14:41:40.669Z",
+  "atualizadoEm": "2026-11-26T14:55:42.420Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53360",
+      "loja": "Amazon",
+      "titulo": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
+      "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41e1hNFMEML._SL400_.jpg",
+      "preco": 351.46,
+      "precoDe": 499.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T14:45:42.415Z"
+    },
+    {
+      "id": "53357",
+      "loja": "Amazon",
+      "titulo": "Pack Ração Úmida Whiskas Sachê Carne ao Molho para Gatos Adultos - Leve 20 Pague 16",
+      "link": "https://www.amazon.com.br/dp/B0DPXVL7LK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51XtUKgVZjL._SL400_.jpg",
+      "preco": 35,
+      "precoDe": 54.2,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T14:42:35.092Z"
+    },
     {
       "id": "53355",
       "loja": "Shopee",
@@ -5977,30 +6001,6 @@
       "desconto": null,
       "cupom": "OFFPRATECH",
       "enviadoEm": "2026-11-23T21:28:23.804Z"
-    },
-    {
-      "id": "51373",
-      "loja": "Amazon",
-      "titulo": "Amarula Licor Vanilla Spice 15 5% De Teor Alcoólico Garrafa 750Ml",
-      "link": "https://www.amazon.com.br/dp/B07X6HWRSZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31bju+-mRpL._SL400_.jpg",
-      "preco": 99.86,
-      "precoDe": 141.84,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:19:08.583Z"
-    },
-    {
-      "id": "51368",
-      "loja": "Shopee",
-      "titulo": "Tapete Infantil Emborrachado Tatame de Atividades Dobrável Térmico Impermeável Confortável para Bebê",
-      "link": "https://s.shopee.com.br/30pnOl3eef",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8jmsqjqww1e5_tn",
-      "preco": 99.9,
-      "precoDe": 124.88,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:15:16.908Z"
     }
   ]
 }
