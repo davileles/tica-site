@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-26T19:41:43.800Z",
+  "atualizadoEm": "2026-11-26T20:11:43.631Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
+    {
+      "codigo": "BLACK300",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 2299,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido no app Amazon",
+      "validadeAte": "2026-11-27T20:07:23.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BFSICREDI75",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 75,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para pagamentos com cartão MasterCard",
+      "validadeAte": "2026-11-27T20:00:34.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
     {
       "codigo": "IMPERDIVEL30",
       "loja": "Amazon",
@@ -2187,6 +2211,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "FASHION25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Dois cupons com limites de desconto definidos em reais",
+      "validadeAte": "2026-11-27T20:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2679,6 +2715,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TECHVIP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Dois cupons com limites de desconto definidos em reais",
+      "validadeAte": "2026-11-27T20:00:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -2700,18 +2748,6 @@
       "limite": 100,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2026-11-27T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ESPORTIVO10",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 299,
-      "maximo": null,
-      "limite": 120,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-26T19:48:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
