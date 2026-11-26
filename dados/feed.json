@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-26T14:55:42.420Z",
+  "atualizadoEm": "2026-11-26T15:10:55.173Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53374",
+      "loja": "Shopee",
+      "titulo": "Jogo de Lençol 400 Fios Cama Solteiro Casal Queen King E Berço Micropercal Ponto Palito",
+      "link": "https://s.shopee.com.br/Lp6aohOqX",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8octyvcgm36_tn",
+      "preco": 25.9,
+      "precoDe": 55.11,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T15:00:55.170Z"
+    },
+    {
+      "id": "53367",
+      "loja": "Amazon",
+      "titulo": "Luva VOLK DO BRASIL Overpro Chemtech Cut, Par",
+      "link": "https://www.amazon.com.br/dp/B0CKS2W97T?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41oKMhFNcoL._SL400_.jpg",
+      "preco": 25.48,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T14:55:47.412Z"
+    },
     {
       "id": "53360",
       "loja": "Amazon",
@@ -553,18 +577,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-11-26T12:38:16.441Z"
-    },
-    {
-      "id": "53187",
-      "loja": "Amazon",
-      "titulo": "Luva VOLK DO BRASIL Overpro Chemtech Cut, Par",
-      "link": "https://www.amazon.com.br/dp/B0CKS2W97T?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41oKMhFNcoL._SL400_.jpg",
-      "preco": 25.48,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:36:06.473Z"
     },
     {
       "id": "53182",
@@ -5989,18 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-23T21:31:43.081Z"
-    },
-    {
-      "id": "51376",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado LG Dual Inverter Voice +ai 15.000 Btu Frio 2 Branco 220v - R$ 3.134",
-      "link": "https://meli.la/2ik9yZ2",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_668321-MLB92383218169_092025-P.webp",
-      "preco": 2834,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "OFFPRATECH",
-      "enviadoEm": "2026-11-23T21:28:23.804Z"
     }
   ]
 }
