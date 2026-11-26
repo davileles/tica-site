@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T20:37:50.896Z",
+  "atualizadoEm": "2026-11-26T21:06:05.678Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-27T03:29:38.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "ELETROBLACK",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": null,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Cupom válido para eletrônicos no app Amazon",
+      "validadeAte": "2026-11-27T20:44:57.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -459,6 +471,18 @@
       "url": null
     },
     {
+      "codigo": "BFLIVE",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 0,
+      "minimo": 80,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Valor do desconto não informado na mensagem",
+      "validadeAte": "2026-11-27T20:57:34.000Z",
+      "url": null
+    },
+    {
       "codigo": "ASROCK100",
       "loja": "Kabum",
       "tipo": "reais",
@@ -747,6 +771,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "INFLU10BLACK",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": null,
+      "maximo": 1000,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T21:04:07.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "PROMOEXTRA",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -783,6 +819,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ACHADINHO",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T21:03:10.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "PRESENTAOML",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -816,6 +864,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T15:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "L40FH139H90",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": 139,
+      "maximo": null,
+      "limite": 90,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-27T21:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2784,6 +2844,18 @@
       "limite": 533,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-27T18:43:15.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHOROFERTA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-27T21:03:10.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
