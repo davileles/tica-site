@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T22:11:42.840Z",
+  "atualizadoEm": "2026-11-26T22:15:57.670Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": null,
       "observacao": "Válido para pagamentos com cartão MasterCard",
       "validadeAte": "2026-11-27T20:00:34.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CASAEDECOR50",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T22:15:40.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
