@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T03:07:05.320Z",
+  "atualizadoEm": "2026-11-26T03:37:05.391Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -27,6 +27,18 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
+      "codigo": "IMPERDIVEL30",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-27T03:29:38.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
       "codigo": "BLACKNUPAY25",
       "loja": "Amazon",
       "tipo": "pct",
@@ -48,6 +60,30 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-11-27T03:00:06.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "IMPERDIVEL15",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-27T03:29:38.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "15IMPERDIVEL",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": null,
+      "validadeAte": "2026-11-27T03:29:38.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
