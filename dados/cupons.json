@@ -1,19 +1,7 @@
 {
-  "atualizadoEm": "2026-11-26T17:11:42.654Z",
+  "atualizadoEm": "2026-11-26T18:11:43.863Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
-    {
-      "codigo": "NAAMAZONTEM",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 350,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-26T18:02:53.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
     {
       "codigo": "IMPERDIVEL30",
       "loja": "Amazon",
@@ -435,18 +423,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BFWEEKMER",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons válidos em Mercados no iFood",
-      "validadeAte": "2026-11-26T18:00:20.000Z",
-      "url": null
-    },
-    {
       "codigo": "FARMASBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -579,6 +555,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PELANDO300BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 3000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos no app Magalu com valores mínimos de compra",
+      "validadeAte": "2026-11-27T17:46:37.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK220",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -615,6 +603,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "PELANDO200BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 2000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos no app Magalu com valores mínimos de compra",
+      "validadeAte": "2026-11-27T17:46:37.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK150",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -648,6 +648,18 @@
       "limite": null,
       "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
       "validadeAte": "2026-11-27T16:37:30.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "PELANDO100BF",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 1000,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupons válidos no app Magalu com valores mínimos de compra",
+      "validadeAte": "2026-11-27T17:46:37.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -912,18 +924,6 @@
       "limite": 500,
       "observacao": "Válido para produtos selecionados conforme lista fornecida",
       "validadeAte": "2027-06-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TODOOSITE",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-26T18:00:12.577Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2151,6 +2151,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "IDMMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-27T18:00:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2343,6 +2355,42 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MPODAWSB82GA6",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 35,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-27T18:00:30.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELI8MQ",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 200,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-27T18:00:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "0A9MELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 210,
+      "observacao": "Cupons válidos em produtos selecionados",
+      "validadeAte": "2026-11-27T18:00:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2436,30 +2484,6 @@
       "limite": 200,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFICIAIS2511",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-26T18:00:02.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELI782YHDL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-26T18:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2604,6 +2628,18 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODOTECH",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-27T18:02:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3277,6 +3313,18 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
+    },
+    {
+      "codigo": "C0MEC0UBFNASH010",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T17:58:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
       "codigo": "V3SPERABOA",
