@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-26T13:07:05.052Z",
+  "atualizadoEm": "2026-11-26T13:32:43.073Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53247",
+      "loja": "Amazon",
+      "titulo": "The Black Keys - Delta Kream",
+      "link": "https://www.amazon.com.br/dp/B092G7B3YC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51LpfyxCt2L._SL400_.jpg",
+      "preco": 52.39,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T13:22:43.071Z"
+    },
+    {
+      "id": "53238",
+      "loja": "Amazon",
+      "titulo": "Ypê Amaciante de Roupa e Tecidos Aconchego Ultra Galão 7l",
+      "link": "https://www.amazon.com.br/dp/B07THLZGPF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41kcNh7SvKL._SL400_.jpg",
+      "preco": 23.99,
+      "precoDe": 36.35,
+      "desconto": 34,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T13:17:35.973Z"
+    },
+    {
+      "id": "53237",
+      "loja": "Shopee",
+      "titulo": "Caixa De Ferramentas Stanley Stst33027 De Plástico Com Rodas 375mm X 613mm X 419mm Preta.",
+      "link": "https://s.shopee.com.br/6VPjoz5LSh",
+      "imagem": "https://cf.shopee.com.br/file/br-11134201-820le-mqxcvqwrfocm37_tn",
+      "preco": 339.15,
+      "precoDe": 399,
+      "desconto": 15,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T13:16:19.005Z"
+    },
+    {
+      "id": "53235",
+      "loja": "Amazon",
+      "titulo": "Vinho Argentino Bodega Argento Minimalista Pinot Grigio 750ml",
+      "link": "https://www.amazon.com.br/dp/B0CGPYNVN2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21euzMXYelL._SL400_.jpg",
+      "preco": 39.9,
+      "precoDe": 49,
+      "desconto": 19,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T13:15:47.616Z"
+    },
+    {
+      "id": "53234",
+      "loja": "Shopee",
+      "titulo": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "link": "https://s.shopee.com.br/8KrO0Fo0FU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e_tn",
+      "preco": 49.99,
+      "precoDe": 70.41,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T13:15:09.372Z"
+    },
+    {
+      "id": "53233",
+      "loja": "Amazon",
+      "titulo": "Gato Panda - Lixeira Anti Odor Easy Max 10 Litros – Design Compacto e Higiênico, Fácil de Limpar, Ideal para Quartos de Bebê, Cozinhas",
+      "link": "https://www.amazon.com.br/dp/B0G22K5B2W?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31BGKew6msL._SL400_.jpg",
+      "preco": 79.13,
+      "precoDe": 219,
+      "desconto": 48,
+      "cupom": "IMPERDIVEL30",
+      "enviadoEm": "2026-11-26T13:13:04.121Z"
+    },
     {
       "id": "53222",
       "loja": "Amazon",
@@ -5929,78 +6001,6 @@
       "desconto": 76,
       "cupom": null,
       "enviadoEm": "2026-11-23T19:51:11.370Z"
-    },
-    {
-      "id": "51307",
-      "loja": "Amazon",
-      "titulo": "Whisky Johnnie Walker Black Label 500ml",
-      "link": "https://www.amazon.com.br/dp/B08C7VX6Q6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31iSk1WgnFL._SL400_.jpg",
-      "preco": 65.9,
-      "precoDe": 120.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T19:49:49.416Z"
-    },
-    {
-      "id": "51303",
-      "loja": "Shopee",
-      "titulo": "Esmerilhadeira Angular Einhell TE-AG 125 CE 5 Pol 1100W Corte Desbaste Metal Oficina Serralheria",
-      "link": "https://s.shopee.com.br/9V3H1vhrOE",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-msyhzs7b8l50e2_tn",
-      "preco": 472.87,
-      "precoDe": 583.79,
-      "desconto": 19,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T19:35:54.391Z"
-    },
-    {
-      "id": "51299",
-      "loja": "Shopee",
-      "titulo": "Secador de Cabelo com Difusor Profissional 127V 220V 110V 5 Temperaturas Íons Negativos Secagem Rápida Anti-Frizz LONYAN",
-      "link": "https://s.shopee.com.br/7fbcq4NI8g",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv17eeptn0n69d_tn",
-      "preco": 69,
-      "precoDe": 156.82,
-      "desconto": 56,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T19:29:29.979Z"
-    },
-    {
-      "id": "51295",
-      "loja": "Amazon",
-      "titulo": "Milwaukee Bandeja C/Jogo Soquete Impacto Enc. 1/2\" Longo 16 Pçs - 49-66-6818",
-      "link": "https://www.amazon.com.br/dp/B0BML2FXMG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41US8bRLdOL._SL400_.jpg",
-      "preco": 629.87,
-      "precoDe": 721.04,
-      "desconto": 13,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T19:15:58.235Z"
-    },
-    {
-      "id": "51292",
-      "loja": "Shopee",
-      "titulo": "Rodo de Silicone Cabo 100CM/140CM Para Limpeza de Piso Vidros Com Gancho Secos e Molhados Uso Duplo Vassoura Mágica",
-      "link": "https://s.shopee.com.br/4qHRRQ8QtU",
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h8-meyidaptp5agca_tn",
-      "preco": 19.9,
-      "precoDe": 42.34,
-      "desconto": 53,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T19:08:34.410Z"
-    },
-    {
-      "id": "51278",
-      "loja": "Amazon",
-      "titulo": "Placa Mãe Gigabyte B550M AORUS ELITE (AM4/DDR4/HDMI/M.2(PCIe,NVMe,SATA3)/VRM Solution/USB3.2) - B550M AORUS ELITE",
-      "link": "https://www.amazon.com.br/dp/B08BN8VD23?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51Z2tW83YhL._SL400_.jpg",
-      "preco": 594.15,
-      "precoDe": 871.45,
-      "desconto": 32,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T18:53:47.829Z"
     }
   ]
 }
