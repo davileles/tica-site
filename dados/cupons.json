@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T11:37:07.158Z",
+  "atualizadoEm": "2026-11-26T11:58:39.059Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1251,66 +1251,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRECINHO30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOUVIP30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDODEBOM30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ECONOMIAML30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "QUEROJA30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PEGUEISEU",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1968,30 +1908,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUPOMNOML25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELHORNOML25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados (consultar listas)",
-      "validadeAte": "2026-11-26T11:40:40.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
