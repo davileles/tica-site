@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T21:06:05.678Z",
+  "atualizadoEm": "2026-11-26T21:20:45.184Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -732,6 +732,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-11-27T17:05:05.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "CUPOMINFLU40",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido no app Magalu",
+      "validadeAte": "2026-11-27T21:16:02.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
