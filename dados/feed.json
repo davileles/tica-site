@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-26T15:37:44.950Z",
+  "atualizadoEm": "2026-11-26T15:56:12.296Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53415",
+      "loja": "Amazon",
+      "titulo": "Kit de Chaves de Fenda Isoladas VDE Kraftform 6147",
+      "link": "https://www.amazon.com.br/dp/B000297U4S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Ynu+w6KKL._SL400_.jpg",
+      "preco": 258,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-26T15:46:12.293Z"
+    },
+    {
+      "id": "53413",
+      "loja": "Mercado Livre",
+      "titulo": "Basike Fone De Ouvido Sem Fio Esportivo Bluetooth6.0 Tws, Corrida Gancho, À Prova D'água, Com Gan, Tela Led Dupla, Suporta Chamadas De Voz, Adequadas Para Android E Ios, Cor Preto",
+      "link": "https://meli.la/11BHeiJ",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785284-MLA99986240343_112025-O.webp",
+      "preco": 96.28999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "DESCONTOJUSTO",
+      "enviadoEm": "2026-11-26T15:43:24.487Z"
+    },
+    {
+      "id": "53412",
+      "loja": "Shopee",
+      "titulo": "Kit 10 Lençóis Descartáveis de Papel Hospitalar para Maca 50x50 cm cada rolo",
+      "link": "https://s.shopee.com.br/4fy5nc4LKr",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82620-mky7ry9imkn5d7_tn",
+      "preco": 92.89,
+      "precoDe": 138.64,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T15:42:11.200Z"
+    },
     {
       "id": "53402",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 60,
       "cupom": null,
       "enviadoEm": "2026-11-23T21:57:27.106Z"
-    },
-    {
-      "id": "51397",
-      "loja": "Amazon",
-      "titulo": "SUNEX Tools Sunex 2652 Conjunto De Soquetes De Impacto De 6 Pontos Padrão Métrico De 14 Peças",
-      "link": "https://www.amazon.com.br/dp/B0002SR9CM?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31xbbyF+f8L._SL400_.jpg",
-      "preco": 308.62,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BF30",
-      "enviadoEm": "2026-11-23T21:50:53.459Z"
-    },
-    {
-      "id": "51396",
-      "loja": "Amazon",
-      "titulo": "ADATA SU650 SSD 256GB, SATA III 2,5\", Leitura 450MB/s, Gravação 225MB/s",
-      "link": "https://www.amazon.com.br/dp/B09GRNNY8B?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31gx4m46HOL._SL400_.jpg",
-      "preco": 165,
-      "precoDe": 279,
-      "desconto": 41,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:49:16.037Z"
-    },
-    {
-      "id": "51393",
-      "loja": "Amazon",
-      "titulo": "Whisky Escocês Blended Grain Royal Salute, 21 Anos, 700ml",
-      "link": "https://www.amazon.com.br/dp/B0CYTCQZQC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41RoeMGS7ML._SL400_.jpg",
-      "preco": 748.99,
-      "precoDe": 1364.9,
-      "desconto": 45,
-      "cupom": null,
-      "enviadoEm": "2026-11-23T21:47:36.194Z"
     }
   ]
 }
