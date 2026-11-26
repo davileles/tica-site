@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T18:11:43.863Z",
+  "atualizadoEm": "2026-11-26T18:41:42.921Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -435,7 +435,7 @@
       "url": null
     },
     {
-      "codigo": "BFWEEKFOOD",
+      "codigo": "FOMEWEEKBF",
       "loja": "iFood",
       "tipo": "reais",
       "valor": 12,
@@ -443,7 +443,7 @@
       "maximo": null,
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF",
-      "validadeAte": "2026-11-26T18:30:11.000Z",
+      "validadeAte": "2026-11-27T18:30:11.000Z",
       "url": null
     },
     {
@@ -2091,18 +2091,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BLACK25BABY",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-26T18:19:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FULL2611",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2295,18 +2283,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BLACK20LIMPEZA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons válidos em selecionados",
-      "validadeAte": "2026-11-26T18:19:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROJETOGRANDE",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2388,6 +2364,18 @@
       "limite": 210,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-27T18:00:35.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AMOPADTYQID",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-27T18:40:26.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
