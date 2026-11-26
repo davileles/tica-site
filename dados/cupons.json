@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T13:12:42.727Z",
+  "atualizadoEm": "2026-11-26T13:32:45.215Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -639,15 +639,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "ZHSMELI",
+      "codigo": "PRESENTAOML",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 230,
-      "minimo": 1499,
+      "valor": 80,
+      "minimo": 699,
       "maximo": null,
       "limite": null,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-27T12:00:02.000Z",
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2223,15 +2223,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "LIVROSEJOGOS",
+      "codigo": "MELIREDKEN",
       "loja": "Mercado Livre",
-      "tipo": "pct",
+      "tipo": "reais",
       "valor": 20,
-      "minimo": 200,
+      "minimo": 99,
       "maximo": null,
-      "limite": 80,
+      "limite": null,
       "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
+      "validadeAte": "2026-11-27T13:23:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2292,6 +2292,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-02-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ITENSPARACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2379,6 +2391,66 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GARNIERNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 20,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LOREALNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAYBELLINENOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "15MUSICA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "15LIVROS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 19,
+      "maximo": null,
+      "limite": 15,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODOCASA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2400,6 +2472,30 @@
       "limite": 250,
       "observacao": "Válido em selecionados conforme lista fornecida",
       "validadeAte": "2026-11-27T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NTK12P",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 30,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FUNKO12",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 12,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 30,
+      "observacao": null,
+      "validadeAte": "2026-11-27T13:23:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2435,19 +2531,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": null,
-      "validadeAte": "2026-11-27T13:00:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIYTBF26",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 8,
-      "minimo": 149,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-26T13:14:50.000Z",
+      "validadeAte": "2026-11-27T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
