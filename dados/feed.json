@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-26T19:41:40.979Z",
+  "atualizadoEm": "2026-11-26T20:11:40.980Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53773",
+      "loja": "Amazon",
+      "titulo": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
+      "link": "https://www.amazon.com.br/dp/B0H7H2K9Q8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31wTg7BnGtL._SL400_.jpg",
+      "preco": 2746.47,
+      "precoDe": 5225.6,
+      "desconto": 42,
+      "cupom": "BLACK300",
+      "enviadoEm": "2026-11-26T20:10:30.223Z"
+    },
+    {
+      "id": "53762",
+      "loja": "Shopee",
+      "titulo": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
+      "link": "https://s.shopee.com.br/7AfR4EIiTw",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mt8h0fvkos1tb3_tn",
+      "preco": 28.29,
+      "precoDe": 49.63,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T20:06:52.092Z"
+    },
+    {
+      "id": "53758",
+      "loja": "Amazon",
+      "titulo": "NIVEA Loção Deo-Hidratante Corporal Soft Milk 200ml, 72h de hidratação, Nutrição Profunda",
+      "link": "https://www.amazon.com.br/dp/B07DFYH7Y9?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41T6ZuM0+bL._SL400_.jpg",
+      "preco": 5.76,
+      "precoDe": 13.9,
+      "desconto": 48,
+      "cupom": "NIVEA20",
+      "enviadoEm": "2026-11-26T20:05:36.016Z"
+    },
+    {
+      "id": "53756",
+      "loja": "Amazon",
+      "titulo": "CRESCENT - JOGO DE SOQUETES SEXTAVADOS - 20 PCS",
+      "link": "https://www.amazon.com.br/dp/B07K7616H7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31pJ9Yx5M1L._SL400_.jpg",
+      "preco": 186.89999999999998,
+      "precoDe": 369.54,
+      "desconto": 29,
+      "cupom": "BFSICREDI75",
+      "enviadoEm": "2026-11-26T20:02:32.705Z"
+    },
+    {
+      "id": "53753",
+      "loja": "Amazon",
+      "titulo": "Klein Tools Conjunto de chaves de catraca reversível 68245, feito nos EUA, 5 peças, preto",
+      "link": "https://www.amazon.com.br/dp/B0002RI86O?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41ZLkO+DMWL._SL400_.jpg",
+      "preco": 351.89,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF40",
+      "enviadoEm": "2026-11-26T19:55:49.618Z"
+    },
+    {
+      "id": "53752",
+      "loja": "Mercado Livre",
+      "titulo": "Kit 10 Cuecas Mash Boxer Original Masculino Algodão Atacado",
+      "link": "https://meli.la/2dMLvaC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799427-MLB110007562749_042026-O-kit-10-cuecas-mash-boxer-original-masculino-algodo-atacado.webp",
+      "preco": 113.99000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "MPODAWSB82GA6",
+      "enviadoEm": "2026-11-26T19:49:26.389Z"
+    },
+    {
+      "id": "53750",
+      "loja": "Shopee",
+      "titulo": "INOVA power bank 20000 mah turbo Carregador Portátil Universal Original Com cabo de dados 10000mAh",
+      "link": "https://s.shopee.com.br/7VIHRLfP2y",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf530vlsia6d2a_tn",
+      "preco": 116.6,
+      "precoDe": 212,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T19:43:30.254Z"
+    },
     {
       "id": "53746",
       "loja": "Amazon",
@@ -5917,90 +6001,6 @@
       "desconto": 2,
       "cupom": null,
       "enviadoEm": "2026-11-24T13:08:24.251Z"
-    },
-    {
-      "id": "51665",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira Furadeira De Impacto Profissional Sem Fio 2 Baterias 21v Com Maleta Tb-21yx The Black Tools - R$ 199,90",
-      "link": "https://meli.la/33GsUPp",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA116116104443_082026-P.webp",
-      "preco": 163.92000000000002,
-      "precoDe": 319.9,
-      "desconto": 38,
-      "cupom": "FERRAMENTAMAIS",
-      "enviadoEm": "2026-11-24T13:06:56.062Z"
-    },
-    {
-      "id": "51662",
-      "loja": "Mercado Livre",
-      "titulo": "Bracelete Pandora Pulseira De Prata E Fecho Coracao",
-      "link": "https://meli.la/1u6WyVx",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_707868-MLB115102454623_072026-O.webp",
-      "preco": 389.96000000000004,
-      "precoDe": 619,
-      "desconto": 30,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T13:06:24.764Z"
-    },
-    {
-      "id": "51651",
-      "loja": "Shopee",
-      "titulo": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 taobiju",
-      "link": "https://s.shopee.com.br/W8TSomvSD",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me30svo6rzsz62_tn",
-      "preco": 16.95,
-      "precoDe": 67.8,
-      "desconto": 75,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:56:48.517Z"
-    },
-    {
-      "id": "51648",
-      "loja": "Amazon",
-      "titulo": "Aspirador de Pó Vertical WAP Power Speed Max CZ40, 127V, 1,3L | Reservatório de poeira com capacidade total de 1,3L.",
-      "link": "https://www.amazon.com.br/dp/B0HG3BRBPC?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21TJ72iSkDL._SL400_.jpg",
-      "preco": 186.88,
-      "precoDe": 329.9,
-      "desconto": 29,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-24T12:54:03.552Z"
-    },
-    {
-      "id": "51632",
-      "loja": "Shopee",
-      "titulo": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-      "link": "https://s.shopee.com.br/9pg8ZDNRWi",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6_tn",
-      "preco": 76.29,
-      "precoDe": 136.23,
-      "desconto": 44,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:45:48.140Z"
-    },
-    {
-      "id": "51629",
-      "loja": "Amazon",
-      "titulo": "Stanley Chave Catraca 15 Peças MultiBits, Trabalhos de Fixação Rápidos e Fáceis, Modelo STHT60129-LA",
-      "link": "https://www.amazon.com.br/dp/B0DB638VVF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/312RfXGBWPL._SL400_.jpg",
-      "preco": 56.68,
-      "precoDe": 73.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:40:59.085Z"
-    },
-    {
-      "id": "51618",
-      "loja": "Amazon",
-      "titulo": "Mouse Gamer Sem Fio Logitech G703 LIGHTSPEED com RGB LIGHTSYNC, 6 Botões Programáveis, Sensor HERO 25K e Bateria Recarregável - Compatível com POWERPLAY",
-      "link": "https://www.amazon.com.br/dp/B07W8X4F48?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31QyMaExsWL._SL400_.jpg",
-      "preco": 319.9,
-      "precoDe": 499.9,
-      "desconto": 36,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T12:37:03.369Z"
     }
   ]
 }
