@@ -1,7 +1,55 @@
 {
-  "atualizadoEm": "2026-11-26T17:41:40.846Z",
+  "atualizadoEm": "2026-11-26T18:11:40.864Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53603",
+      "loja": "Amazon",
+      "titulo": "Ninja, Liquidificador Portátil, Blast, Sem Fio, Bivolt | Copo 470ml Fácil de Limpar, Ideal para Vitaminas, Shakes e Bebidas",
+      "link": "https://www.amazon.com.br/dp/B0DHSX6SBL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31bvfI+nZBL._SL400_.jpg",
+      "preco": 359,
+      "precoDe": 549,
+      "desconto": 35,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T18:08:18.012Z"
+    },
+    {
+      "id": "53598",
+      "loja": "Amazon",
+      "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
+      "link": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41HUUt5+o4L._SL400_.jpg",
+      "preco": 409.9,
+      "precoDe": 849.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T18:03:07.254Z"
+    },
+    {
+      "id": "53592",
+      "loja": "Amazon",
+      "titulo": "Clear Men Limpeza Diaria 2 Em 1 - Shampoo Anticaspa 400Ml",
+      "link": "https://www.amazon.com.br/dp/B07DTN9ZCM?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41lARyY9bHL._SL400_.jpg",
+      "preco": 18.97,
+      "precoDe": 31.99,
+      "desconto": 41,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:58:08.121Z"
+    },
+    {
+      "id": "53590",
+      "loja": "Shopee",
+      "titulo": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "link": "https://s.shopee.com.br/8fUEiAimIb",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055_tn",
+      "preco": 41.45,
+      "precoDe": 86.35,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-26T17:56:13.124Z"
+    },
     {
       "id": "53576",
       "loja": "Shopee",
@@ -5953,54 +6001,6 @@
       "desconto": 40,
       "cupom": null,
       "enviadoEm": "2026-11-24T11:55:48.158Z"
-    },
-    {
-      "id": "51515",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un - R$ 93,47",
-      "link": "https://meli.la/1bvNksP",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_789253-MLA111638452273_052026-P.webp",
-      "preco": 93.47,
-      "precoDe": 135.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T11:55:10.243Z"
-    },
-    {
-      "id": "51514",
-      "loja": "Mercado Livre",
-      "titulo": "Fralda Pants Ajuste Total Tamanho G 90 Unidades Pampers - R$ 93,47",
-      "link": "https://meli.la/1GJXjb1",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_645177-MLA110685776176_052026-P.webp",
-      "preco": 93.47,
-      "precoDe": 135.9,
-      "desconto": 31,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T11:54:43.931Z"
-    },
-    {
-      "id": "51505",
-      "loja": "Amazon",
-      "titulo": "Vonder, Chave Ajustável Cabo Emborrachado 6\"",
-      "link": "https://www.amazon.com.br/dp/B078YY8J81?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21LDuetYiCL._SL400_.jpg",
-      "preco": 26.97,
-      "precoDe": 33.6,
-      "desconto": 20,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T11:50:50.207Z"
-    },
-    {
-      "id": "51497",
-      "loja": "Shopee",
-      "titulo": "Casaco Masculino Impermeável Jaqueta Corta Vento Sarja",
-      "link": "https://s.shopee.com.br/7KynWNFf9D",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9u9g2m7zoci98_tn",
-      "preco": 108.9,
-      "precoDe": 320.29,
-      "desconto": 66,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T11:44:36.224Z"
     }
   ]
 }
