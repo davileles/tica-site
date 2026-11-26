@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T14:36:02.847Z",
+  "atualizadoEm": "2026-11-26T15:10:57.277Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -603,6 +603,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "INFLUBLACK20",
+      "loja": "Magazine Luiza",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": 800,
+      "limite": null,
+      "observacao": "Válido no app Magalu",
+      "validadeAte": "2026-11-27T15:06:17.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK15",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -625,6 +637,18 @@
       "observacao": null,
       "validadeAte": "2026-11-27T10:02:35.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "B6HMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 1099,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T15:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
     },
     {
       "codigo": "PRESENTAOML",
@@ -663,15 +687,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DECORNATAL2511",
+      "codigo": "MELIEI8",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 35,
-      "minimo": 119,
+      "valor": 40,
+      "minimo": 399,
       "maximo": null,
       "limite": null,
       "observacao": null,
-      "validadeAte": "2026-11-26T15:00:03.000Z",
+      "validadeAte": "2026-11-27T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1320,6 +1344,18 @@
       "limite": 500,
       "observacao": "Cupons válidos em produtos selecionados",
       "validadeAte": "2026-11-27T13:10:29.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "1BAMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 150,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3121,6 +3157,30 @@
       "observacao": null,
       "validadeAte": "2028-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
+    },
+    {
+      "codigo": "V3SPERABOA",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T15:00:12.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CH1N3L010OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T15:00:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
 }
