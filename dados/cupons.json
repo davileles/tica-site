@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T22:41:42.755Z",
+  "atualizadoEm": "2026-11-26T23:10:56.599Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -663,6 +663,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "INFLUBLACK500",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": 4500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T23:01:41.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLUBLACK350",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -927,6 +939,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "APROVEITA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T22:54:46.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ACHADINHO",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1020,6 +1044,18 @@
       "limite": 90,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-27T21:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "NDCNHS78",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-27T23:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2859,6 +2895,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AGORAMODA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 59,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Válido em selecionados",
+      "validadeAte": "2026-11-27T23:10:06.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MODOCASA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3660,6 +3708,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T17:58:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "3SQU3NT4SH0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 89,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-27T23:00:27.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
