@@ -1,7 +1,79 @@
 {
-  "atualizadoEm": "2026-11-27T17:37:00.176Z",
+  "atualizadoEm": "2026-11-27T18:01:51.833Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55101",
+      "loja": "Amazon",
+      "titulo": "Viña Las Perdices Chac Chac Rose Malbec",
+      "link": "https://www.amazon.com.br/dp/B08V2QNMRL?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21xMFYrPadL._SL400_.jpg",
+      "preco": 36.05,
+      "precoDe": 57.03,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T17:51:51.831Z"
+    },
+    {
+      "id": "55099",
+      "loja": "Amazon",
+      "titulo": "Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades (Embalagem pode variar)",
+      "link": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41aRvYjm3DL._SL400_.jpg",
+      "preco": 26.5,
+      "precoDe": 46.01,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T17:51:17.802Z"
+    },
+    {
+      "id": "55098",
+      "loja": "Amazon",
+      "titulo": "Pack Bebida Mista Alcoólica Absolut Vodka Sprite - 6 unidades de lata 269ml",
+      "link": "https://www.amazon.com.br/dp/B0DSJPGPC7?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51lXtA74MxL._SL400_.jpg",
+      "preco": 39.88,
+      "precoDe": 62.94,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T17:49:54.155Z"
+    },
+    {
+      "id": "55095",
+      "loja": "Shopee",
+      "titulo": "Cordas de Pular Profissionais Ajustáveis PVC 280cm - Versatilidade e Durabilidade！",
+      "link": "https://s.shopee.com.br/7Kysi6NDXl",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqbaxflj67swf3_tn",
+      "preco": 10.8,
+      "precoDe": 27,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T17:49:16.147Z"
+    },
+    {
+      "id": "55092",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker 18 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B07H6CF2P3?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31HQIkYUQ0L._SL400_.jpg",
+      "preco": 480,
+      "precoDe": 637.9,
+      "desconto": 25,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T17:47:13.779Z"
+    },
+    {
+      "id": "55082",
+      "loja": "Amazon",
+      "titulo": "Dewar's, Whisky 25 anos, 750ml",
+      "link": "https://www.amazon.com.br/dp/B07FLXMMV5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hsR4Xd9RL._SL400_.jpg",
+      "preco": 824.9,
+      "precoDe": 1249.9,
+      "desconto": 28,
+      "cupom": "BFSICREDI75",
+      "enviadoEm": "2026-11-27T17:43:23.525Z"
+    },
     {
       "id": "55052",
       "loja": "Shopee",
@@ -5929,78 +6001,6 @@
       "desconto": 2,
       "cupom": null,
       "enviadoEm": "2026-11-25T20:08:12.636Z"
-    },
-    {
-      "id": "52923",
-      "loja": "Amazon",
-      "titulo": "Aperitivo Aperol - Garrafa Magnum 3L",
-      "link": "https://www.amazon.com.br/dp/B00XUG8TOU?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41q-SKb5tbL._SL400_.jpg",
-      "preco": 774.65,
-      "precoDe": 999.9,
-      "desconto": 23,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T20:01:51.942Z"
-    },
-    {
-      "id": "52922",
-      "loja": "Amazon",
-      "titulo": "EKLIND 91112 Chave de fenda sextavada esférica (allen)",
-      "link": "https://www.amazon.com.br/dp/B000189SN6?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/11m4jzU3SdL._SL400_.jpg",
-      "preco": 19.939999999999998,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "BF40",
-      "enviadoEm": "2026-11-25T20:01:20.126Z"
-    },
-    {
-      "id": "52917",
-      "loja": "Amazon",
-      "titulo": "Licor Ballena morango 750ml",
-      "link": "https://www.amazon.com.br/dp/B09SGPQ2J7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31SJzIHS6dL._SL400_.jpg",
-      "preco": 84.99,
-      "precoDe": 129.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T19:55:02.847Z"
-    },
-    {
-      "id": "52910",
-      "loja": "Shopee",
-      "titulo": "Perfume Touti VIP Masculino Feminino 50ml Alta Fixação Fragrâncias Mais Vendidas",
-      "link": "https://s.shopee.com.br/114m6nWWLl",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5_tn",
-      "preco": 38,
-      "precoDe": 44.71,
-      "desconto": 15,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T19:47:07.183Z"
-    },
-    {
-      "id": "52909",
-      "loja": "Amazon",
-      "titulo": "Torquímetro Stanley, Escala de 5-25 Nm",
-      "link": "https://www.amazon.com.br/dp/B079XVBVPY?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31znUJPvanL._SL400_.jpg",
-      "preco": 629.92,
-      "precoDe": 829,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T19:45:49.175Z"
-    },
-    {
-      "id": "52905",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Circular Elétrica Makita Hs7010 185mm 1600w",
-      "link": "https://meli.la/1ubJT2v",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867381-MLA113927657655_062026-O.webp",
-      "preco": 530.99,
-      "precoDe": 822.12,
-      "desconto": 28,
-      "cupom": "LIVREOFF",
-      "enviadoEm": "2026-11-25T19:36:12.666Z"
     }
   ]
 }
