@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T13:07:00.408Z",
+  "atualizadoEm": "2026-11-27T13:37:01.846Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1059,6 +1059,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "GANHEBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": 300,
+      "observacao": "Recusado na inserção pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-11-28T03:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "ELETRO300",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1083,15 +1095,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
+      "codigo": "PRECINHOBLAC",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 180,
-      "minimo": 1199,
+      "valor": 300,
+      "minimo": 1999,
       "maximo": null,
-      "limite": 180,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-29T02:59:00.000Z",
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1107,51 +1119,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELI4Z8",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELI1CL",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 110,
       "minimo": 699,
       "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRESENTAOML",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 80,
-      "minimo": 699,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "K4RMELI",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:00:03.000Z",
+      "limite": 110,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1815,42 +1791,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CUPOMDEHOJE30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-27T13:10:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITANOML30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-27T13:10:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "VALEAPENANOMELI30",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 30,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-27T13:10:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "1BAMELI",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -2511,42 +2451,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VEMPROMELI25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-27T13:10:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TUDODEBOM25",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Cupons válidos em produtos selecionados",
-      "validadeAte": "2026-11-27T13:10:29.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIO7N",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 25,
-      "minimo": 159,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:00:03.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "TUDOPARAOBRA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2715,18 +2619,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIREDKEN",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZAPREMIUM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2739,6 +2631,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "SOHOJEBF",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
+      "validadeAte": "2026-11-28T11:00:07.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "CUIDADOML",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2747,7 +2651,7 @@
       "maximo": null,
       "limite": 50,
       "observacao": null,
-      "validadeAte": "2026-11-28T12:00:11.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2759,7 +2663,7 @@
       "maximo": null,
       "limite": 100,
       "observacao": "Dois cupons válidos para Black Friday no Mercado Livre",
-      "validadeAte": "2026-11-28T13:00:04.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2871,66 +2775,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARNIERNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 20,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "LOREALNOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MAYBELLINENOMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "15MUSICA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "15LIVROS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 19,
-      "maximo": null,
-      "limite": 15,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTAVIP",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2940,42 +2784,6 @@
       "limite": 60,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2026-11-27T17:00:22.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "NTK12P",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 30,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "FUNKO12",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 49,
-      "maximo": null,
-      "limite": 30,
-      "observacao": null,
-      "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SOHOJEBF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-28T11:00:07.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3708,6 +3516,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T03:17:20.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "4M3LH0RBLACKSH0P33",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T13:33:52.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
