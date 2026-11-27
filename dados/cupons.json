@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T21:37:02.160Z",
+  "atualizadoEm": "2026-11-27T22:07:02.122Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -63,18 +63,6 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "ACHADINHO",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:58:33.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
       "codigo": "INFLUPRIME",
       "loja": "Amazon",
       "tipo": "reais",
@@ -123,6 +111,18 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
+      "codigo": "BLACK50",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-28T22:00:04.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
       "codigo": "BLACK25OFF",
       "loja": "Amazon",
       "tipo": "reais",
@@ -156,18 +156,6 @@
       "limite": 800,
       "observacao": "Válido no app Amazon",
       "validadeAte": "2026-11-28T21:01:23.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "MELHOROFERTA",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 200,
-      "observacao": "Cupom válido no app Amazon",
-      "validadeAte": "2026-11-27T22:01:32.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -447,18 +435,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
     },
     {
-      "codigo": "BLACK35",
-      "loja": "C&A",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 0,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom de 35% OFF sem mínimo. A promoção também inclui produtos com até 80% OFF e frete grátis.",
-      "validadeAte": "2026-11-27T21:51:23.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17648&id=1207116"
-    },
-    {
       "codigo": "JEANS30",
       "loja": "C&A",
       "tipo": "pct",
@@ -543,18 +519,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "PREBLACK25",
-      "loja": "Farmácia Pague Menos",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 180,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Um único código (PREBLACK25) com três níveis de desconto conforme valor de compra mínima",
-      "validadeAte": "2026-11-27T21:44:26.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=64086&id=1207116"
-    },
-    {
       "codigo": "BLACKPET",
       "loja": "iFood",
       "tipo": "reais",
@@ -624,18 +588,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T21:11:18.000Z",
-      "url": null
-    },
-    {
-      "codigo": "PM15OFF",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 15,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Farmácia Pague Menos",
-      "validadeAte": "2026-11-27T21:39:42.000Z",
       "url": null
     },
     {
@@ -783,18 +735,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INFLU350BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 350,
-      "minimo": 3000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:55:23.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "LU350",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -804,6 +744,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T02:33:10.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "MAGALU350",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 350,
+      "minimo": 4000,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T21:45:36.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1179,6 +1131,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "OFERTABLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T22:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "DESCONTO199",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1294,7 +1258,7 @@
       "minimo": 350,
       "maximo": null,
       "limite": null,
-      "observacao": "Válido apenas pagando com saldo Mercado Pago. Aplicável em produtos selecionados.",
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-11-28T18:20:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2614,7 +2578,7 @@
       "minimo": 159,
       "maximo": null,
       "limite": null,
-      "observacao": null,
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-11-28T19:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -2859,6 +2823,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELICE8",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 299,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-28T22:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2967,6 +2943,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIZA2",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-28T22:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "BLACK100",
       "loja": "Mizuno",
       "tipo": "reais",
@@ -3025,18 +3013,6 @@
       "observacao": null,
       "validadeAte": "2027-01-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17634&id=1207116"
-    },
-    {
-      "codigo": "BLACK",
-      "loja": "Riachuelo",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:46:17.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=86587&id=1207116"
     },
     {
       "codigo": "GANHE10",
