@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-27T19:26:33.431Z",
+  "atualizadoEm": "2026-11-27T19:37:00.392Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55315",
+      "loja": "Amazon",
+      "titulo": "Spec Ops Chave de fenda para ferramentas, 8 mm x 15 cm, ponta magnética, eixo de aço Cr-Mo, 3% doado a veteranos",
+      "link": "https://www.amazon.com.br/dp/B089RH5NDJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/21sJFBaVM8L._SL400_.jpg",
+      "preco": 24.58,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF30",
+      "enviadoEm": "2026-11-27T19:32:13.331Z"
+    },
+    {
+      "id": "55313",
+      "loja": "Amazon",
+      "titulo": "Hellmann's Pack Maionese Light 2 Unidades de 500g",
+      "link": "https://www.amazon.com.br/dp/B0H1J4HS4Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41DKlLbWr9L._SL400_.jpg",
+      "preco": 15.9,
+      "precoDe": 22.99,
+      "desconto": 31,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T19:31:37.166Z"
+    },
+    {
+      "id": "55309",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Brastemp Duplex 415 L 110v/220v Branca Brm51mb",
+      "link": "https://meli.la/322WG1t",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821077-MLB118310004747_092026-O.webp",
+      "preco": 2199,
+      "precoDe": 2799,
+      "desconto": 11,
+      "cupom": "MEUDESCONTOBLACK",
+      "enviadoEm": "2026-11-27T19:27:58.395Z"
+    },
     {
       "id": "55296",
       "loja": "Mercado Livre",
@@ -5965,42 +6001,6 @@
       "desconto": 49,
       "cupom": null,
       "enviadoEm": "2026-11-25T22:25:54.754Z"
-    },
-    {
-      "id": "52993",
-      "loja": "Amazon",
-      "titulo": "Thérapiste Kérastase Máscara de Tratamento para Cabelos Danificados e Quebradiços com Reconstrução Profunda que Recupera Força e Elasticidade da Fibra Capilar Resistance, 200ml",
-      "link": "https://www.amazon.com.br/dp/B07BWSJN13?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31UotrK+nJL._SL400_.jpg",
-      "preco": 179.25,
-      "precoDe": 339,
-      "desconto": 29,
-      "cupom": "PRO200FF",
-      "enviadoEm": "2026-11-25T22:01:53.475Z"
-    },
-    {
-      "id": "52992",
-      "loja": "Mercado Livre",
-      "titulo": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, ATX 3.1 PCIe 5.1, Full Modular, PFC Ativo - R$ 450,49",
-      "link": "https://meli.la/1wdXqxU",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_884598-MLA108671218237_032026-P.webp",
-      "preco": 405.44,
-      "precoDe": 611.1,
-      "desconto": 26,
-      "cupom": "ELETROTECHMELI",
-      "enviadoEm": "2026-11-25T22:00:33.520Z"
-    },
-    {
-      "id": "52989",
-      "loja": "Mercado Livre",
-      "titulo": "Ar-condicionado Split Inverter 12000 Btus Tcl Breeze In High Wall Só Frio Tac-12ctg3-inv-i/tac-12ctg3-inv-o 220v",
-      "link": "https://meli.la/1Q9WG2D",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_996703-MLA117747679667_092026-O.webp",
-      "preco": 1673.1599999999999,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "ELETROTECHMELI",
-      "enviadoEm": "2026-11-25T21:56:33.189Z"
     }
   ]
 }
