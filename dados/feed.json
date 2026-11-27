@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-27T04:31:07.332Z",
+  "atualizadoEm": "2026-11-27T11:07:00.013Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "54317",
+      "loja": "Shopee",
+      "titulo": "Cerveja Heineken Premium Lager 250ml Long Neck - 24 Unidades",
+      "link": "https://s.shopee.com.br/4fy75Ecexu",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn1j1vty6u4kf4_tn",
+      "preco": 95.9,
+      "precoDe": 194.56,
+      "desconto": 43,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:02:09.609Z"
+    },
     {
       "id": "54276",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 47,
       "cupom": null,
       "enviadoEm": "2026-11-24T19:18:50.470Z"
-    },
-    {
-      "id": "52089",
-      "loja": "Shopee",
-      "titulo": "Ventilador de Teto Ventisol Fênix Branco / Silver 3 Pás CV3 Premium - 127v",
-      "link": "https://s.shopee.com.br/2qWOfEEKLY",
-      "imagem": "https://cf.shopee.com.br/file/581557b11de9b61bd3968356e79fae60_tn",
-      "preco": 279.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T19:17:08.398Z"
     }
   ]
 }
