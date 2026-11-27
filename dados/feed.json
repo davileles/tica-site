@@ -1,7 +1,115 @@
 {
-  "atualizadoEm": "2026-11-27T21:07:00.393Z",
+  "atualizadoEm": "2026-11-27T21:37:00.394Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55594",
+      "loja": "Mercado Livre",
+      "titulo": "Smirnoff Ice Sabor Limão com Vodka, Pack de 6 Garrafas de 275mL",
+      "link": "https://meli.la/21aPn1u",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_988396-MLA99379657394_112025-O.webp",
+      "preco": 19.959999999999997,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "60OFFSMFBCDE",
+      "enviadoEm": "2026-11-27T21:33:36.348Z"
+    },
+    {
+      "id": "55572",
+      "loja": "Amazon",
+      "titulo": "Aptanutri Profutura 3 Fórmula Infantil Promopack com 4 unidades de 800g",
+      "link": "https://www.amazon.com.br/dp/B0F9XFKJMF?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41axF2UsfPL._SL400_.jpg",
+      "preco": 269.9,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T21:27:27.213Z"
+    },
+    {
+      "id": "55571",
+      "loja": "Mercado Livre",
+      "titulo": "Raquete Elétrica Mata Mosquito Mosca Pernilongo Dengue Insetos Bateria Recarregavel Bivolt - Crowley - R$ 9,83",
+      "link": "https://meli.la/32hTsFi",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664953-MLA120722266789_112026-P.webp",
+      "preco": 9.83,
+      "precoDe": 49.9,
+      "desconto": 80,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T21:26:57.093Z"
+    },
+    {
+      "id": "55565",
+      "loja": "Mercado Livre",
+      "titulo": "Volante Logitech G29 Driving Force Para Ps5, Ps4, Ps3 E Pc Preto - R$ 1.619",
+      "link": "https://meli.la/2ku2xJS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794899-MLU78633345916_092024-P.webp",
+      "preco": 1369,
+      "precoDe": 1833,
+      "desconto": 12,
+      "cupom": "BLACKVIP",
+      "enviadoEm": "2026-11-27T21:23:33.902Z"
+    },
+    {
+      "id": "55558",
+      "loja": "Amazon",
+      "titulo": "Protetor Solar Facial Neutrogena Sun Fresh, FPS 70, 40g | Deixa a Pele Aveludada e Macia, Resistente à Água, Alta Proteção UVA/UVB",
+      "link": "https://www.amazon.com.br/dp/B08NVML21R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31SlvljbhjL._SL400_.jpg",
+      "preco": 34.47,
+      "precoDe": 72.99,
+      "desconto": 53,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T21:20:59.478Z"
+    },
+    {
+      "id": "55557",
+      "loja": "Mercado Livre",
+      "titulo": "Pomada Bepantol Baby Kit 5 Unidades 120 Ml Leve Pague 4",
+      "link": "https://meli.la/1ZfhSyk",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_794480-MLB108971633946_032026-O.webp",
+      "preco": 120.00999999999999,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BLACKVIPMELI",
+      "enviadoEm": "2026-11-27T21:18:08.729Z"
+    },
+    {
+      "id": "55556",
+      "loja": "Shopee",
+      "titulo": "Pinça Tupia Haste 6mm 6.35mm(1/4) 8mm Porca Fixação - Compatível Bosch Dewalt Makita Wesco Universal",
+      "link": "https://s.shopee.com.br/70M2Xl5ltN",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq6lwic0yrm47_tn",
+      "preco": 19.16,
+      "precoDe": 39.92,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T21:16:27.241Z"
+    },
+    {
+      "id": "55539",
+      "loja": "Amazon",
+      "titulo": "Makita Broca de energia E-01052 Impact XPS™ #2 Quadrada de 5 cm, pacote com 15",
+      "link": "https://www.amazon.com.br/dp/B085DTY1G5?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41GvXXGJ0sL._SL400_.jpg",
+      "preco": 87.46000000000001,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "BF30",
+      "enviadoEm": "2026-11-27T21:11:28.119Z"
+    },
+    {
+      "id": "55538",
+      "loja": "Amazon",
+      "titulo": "Mochila rodinhas carrinho Escolar Infantil Impermeável com Multiplos Compartimentos, Faixas Refletivas, para 6-13 Anos (Rosa...)",
+      "link": "https://www.amazon.com.br/dp/B0DT1MRDGP?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41XOOOkRbBL._SL400_.jpg",
+      "preco": 128,
+      "precoDe": 159.9,
+      "desconto": 20,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T21:10:49.854Z"
+    },
     {
       "id": "55516",
       "loja": "Shopee",
@@ -4275,18 +4383,6 @@
       "enviadoEm": "2026-11-26T21:10:44.875Z"
     },
     {
-      "id": "53836",
-      "loja": "Amazon",
-      "titulo": "Aptanutri Profutura 3 Fórmula Infantil Promopack com 4 unidades de 800g",
-      "link": "https://www.amazon.com.br/dp/B0F9XFKJMF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41axF2UsfPL._SL400_.jpg",
-      "preco": 269.9,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T21:07:40.765Z"
-    },
-    {
       "id": "53833",
       "loja": "Mercado Livre",
       "titulo": "Relógio masculino Tommy Hilfiger Modern Classic 1710595 Liniers Blue Mesh Blue Bisel Blue Background",
@@ -5905,102 +6001,6 @@
       "desconto": 66,
       "cupom": null,
       "enviadoEm": "2026-11-26T12:38:16.441Z"
-    },
-    {
-      "id": "53182",
-      "loja": "Shopee",
-      "titulo": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "link": "https://s.shopee.com.br/7VIGxlH6Yp",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mlcg8xgpl1ja5c_tn",
-      "preco": 99.9,
-      "precoDe": 199.8,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:32:01.481Z"
-    },
-    {
-      "id": "53177",
-      "loja": "Amazon",
-      "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
-      "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41EIsh0FsjL._SL400_.jpg",
-      "preco": 28.11,
-      "precoDe": 46.7,
-      "desconto": 40,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:28:56.214Z"
-    },
-    {
-      "id": "53176",
-      "loja": "Mercado Livre",
-      "titulo": "Hot Wheels Lava-carros City Lava Jato",
-      "link": "https://meli.la/21ia8Lf",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911618-MLB112583046993_062026-O.webp",
-      "preco": 179.9,
-      "precoDe": 369.99,
-      "desconto": 51,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:28:26.561Z"
-    },
-    {
-      "id": "53173",
-      "loja": "Mercado Livre",
-      "titulo": "Barra Fixa De Parede Pull-up Modelo Externo Interno Completa Preto - R$ 93,72",
-      "link": "https://meli.la/1wkMECV",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_878351-MLB105353920277_012026-P.webp",
-      "preco": 93.72,
-      "precoDe": 235.9,
-      "desconto": 60,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:27:20.833Z"
-    },
-    {
-      "id": "53153",
-      "loja": "Mercado Livre",
-      "titulo": "L'oréal Professionnel Inforcer Kit Shampoo 300ml e Máscara 250ml",
-      "link": "https://meli.la/1Pxri83",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_890250-MLA99419188412_112025-O.webp",
-      "preco": 195,
-      "precoDe": 360.8,
-      "desconto": 46,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T12:23:42.699Z"
-    },
-    {
-      "id": "53150",
-      "loja": "Mercado Livre",
-      "titulo": "Placa-mãe Msi B550m-a Pro Am4 Micro-atx Ddr4",
-      "link": "https://meli.la/2GVG6nw",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674891-MLB121388892837_112026-O.webp",
-      "preco": 456,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "MELIOW7",
-      "enviadoEm": "2026-11-26T12:22:26.080Z"
-    },
-    {
-      "id": "53147",
-      "loja": "Amazon",
-      "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41I0pE6RT5L._SL400_.jpg",
-      "preco": 3449,
-      "precoDe": 4838.9,
-      "desconto": 26,
-      "cupom": "BLACK150",
-      "enviadoEm": "2026-11-26T12:21:11.461Z"
-    },
-    {
-      "id": "53146",
-      "loja": "Amazon",
-      "titulo": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
-      "link": "https://www.amazon.com.br/dp/B0FL4VDVCV?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41zvkunO6-L._SL400_.jpg",
-      "preco": 2783.98,
-      "precoDe": 4099,
-      "desconto": 28,
-      "cupom": "BLACK150",
-      "enviadoEm": "2026-11-26T12:19:54.301Z"
     }
   ]
 }
