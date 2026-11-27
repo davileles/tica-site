@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T16:37:02.051Z",
+  "atualizadoEm": "2026-11-27T17:07:02.006Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -795,18 +795,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "SQUAD300BF",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 3000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
-      "validadeAte": "2026-11-27T16:37:30.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PELANDO300BF",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -864,18 +852,6 @@
       "limite": null,
       "observacao": "Válido no app Magalu",
       "validadeAte": "2026-11-28T10:01:15.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "SQUAD200BF",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
-      "validadeAte": "2026-11-27T16:37:30.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -939,18 +915,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "SQUAD100BF",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons com múltiplas opções de desconto fixo em reais com valores mínimos de compra progressivos",
-      "validadeAte": "2026-11-27T16:37:30.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "PELANDO100BF",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1008,18 +972,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T02:36:00.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLUBLACK40OFF",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido no app Magalu",
-      "validadeAte": "2026-11-27T17:05:05.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1152,6 +1104,18 @@
       "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPEROFF",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T17:00:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2727,6 +2691,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "QEQPLAMDPRASD",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-28T17:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2796,18 +2772,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-02-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "OFERTAVIP",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 60,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-27T17:00:22.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
