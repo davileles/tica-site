@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T20:37:02.216Z",
+  "atualizadoEm": "2026-11-27T21:07:02.094Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -147,15 +147,15 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
-      "codigo": "ELETROBLACK",
+      "codigo": "MOVEISBLACK",
       "loja": "Amazon",
       "tipo": "pct",
-      "valor": 12,
+      "valor": 20,
       "minimo": null,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Cupom válido para eletrônicos no app Amazon",
-      "validadeAte": "2026-11-27T20:44:57.000Z",
+      "limite": 800,
+      "observacao": "Válido no app Amazon",
+      "validadeAte": "2026-11-28T21:01:23.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -615,18 +615,6 @@
       "url": null
     },
     {
-      "codigo": "BFLIVE",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 0,
-      "minimo": 80,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Valor do desconto não informado na mensagem",
-      "validadeAte": "2026-11-27T20:57:34.000Z",
-      "url": null
-    },
-    {
       "codigo": "BLACKPET",
       "loja": "iFood Pet Shop",
       "tipo": "pct",
@@ -903,6 +891,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CUPOM100BLACK",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 200,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T20:41:22.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "CUPOMMAGA99",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1008,18 +1008,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T12:04:10.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "INFLU10BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:04:07.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1176,6 +1164,18 @@
       "limite": 110,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-29T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "80OFFSMFJKLM",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 80,
+      "minimo": null,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-28T20:55:23.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2835,6 +2835,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BLACKVIP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-11-28T21:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2868,6 +2880,18 @@
       "limite": 60,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-28T19:36:08.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MODARELAMPAGO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 69,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "15% OFF em produtos selecionados, com desconto máximo limitado a R$50",
+      "validadeAte": "2026-11-28T20:41:30.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
