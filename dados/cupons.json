@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T16:07:01.983Z",
+  "atualizadoEm": "2026-11-27T16:37:02.051Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -63,6 +63,18 @@
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
+      "codigo": "INFLUPRIME",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 150,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:34:30.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
       "codigo": "ELECTRO80BLK",
       "loja": "Amazon",
       "tipo": "reais",
@@ -108,6 +120,18 @@
       "limite": null,
       "observacao": "Válido para produtos vendidos e entregues pela Amazon",
       "validadeAte": "2026-11-28T13:00:03.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "CASA20BLACK",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:08:17.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1035,6 +1059,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "CUPOMLUBLACK30",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 90,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:35:53.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "INFLU20BLACK",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -1188,18 +1224,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-28T02:28:39.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIOFF35",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 35,
-      "minimo": null,
-      "maximo": null,
-      "limite": 500,
-      "observacao": "Válido para produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-27T16:10:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2676,18 +2700,6 @@
       "limite": 60,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-28T13:01:46.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RELAMPAGO",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
