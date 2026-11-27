@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T19:37:02.255Z",
+  "atualizadoEm": "2026-11-27T20:07:02.197Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -120,18 +120,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T03:31:57.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "BFSICREDI75",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 75,
-      "minimo": 500,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para pagamentos com cartão MasterCard",
-      "validadeAte": "2026-11-27T20:00:34.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1236,6 +1224,18 @@
       "limite": null,
       "observacao": "Válido apenas pagando com saldo Mercado Pago. Aplicável em produtos selecionados.",
       "validadeAte": "2026-11-28T18:20:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "SUPERPETSHOP",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 40,
+      "minimo": 99,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-28T19:49:09.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3648,6 +3648,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T19:00:07.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "20OFFN4BL4CK",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T20:00:19.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
