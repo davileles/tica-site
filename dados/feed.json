@@ -1,7 +1,91 @@
 {
-  "atualizadoEm": "2026-11-27T14:07:00.026Z",
+  "atualizadoEm": "2026-11-27T14:37:00.026Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "54692",
+      "loja": "Amazon",
+      "titulo": "Luva de Polietileno com Banho Nitrílico, Tamanho M, Linha Extreme Hard Work, Danny",
+      "link": "https://www.amazon.com.br/dp/B0B9HKRXK2?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41xmufV7BhL._SL400_.jpg",
+      "preco": 62.44,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T14:30:00.202Z"
+    },
+    {
+      "id": "54691",
+      "loja": "Shopee",
+      "titulo": "Bebê Reborn Boneca Menina Realista Angel Original Corpinho Em Silicone Com Bolsa Maternidade",
+      "link": "https://s.shopee.com.br/AKcU3qHZrv",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-msk8gogff7r921_tn",
+      "preco": 66.9,
+      "precoDe": 185.83,
+      "desconto": 64,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T14:28:12.868Z"
+    },
+    {
+      "id": "54684",
+      "loja": "Amazon",
+      "titulo": "Burigotto Kit Banho Branco",
+      "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31fom31KWKS._SL400_.jpg",
+      "preco": 160,
+      "precoDe": 355.05,
+      "desconto": 48,
+      "cupom": "BLACK25OFF",
+      "enviadoEm": "2026-11-27T14:20:10.058Z"
+    },
+    {
+      "id": "54671",
+      "loja": "Amazon",
+      "titulo": "Gin Beefeater London Dry - 750 ml",
+      "link": "https://www.amazon.com.br/dp/B0090CSENE?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31-tNwQgy8L._SL400_.jpg",
+      "preco": 65,
+      "precoDe": 119.9,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T14:11:54.936Z"
+    },
+    {
+      "id": "54676",
+      "loja": "Amazon",
+      "titulo": "Cadeirinha Único Evo i-Size com Isofix e Top Tether 40–150cm Preto Chicco – 6087030950000",
+      "link": "https://www.amazon.com.br/dp/B0C6KZCY6Z?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41KC8jnJV8L._SL400_.jpg",
+      "preco": 848.78,
+      "precoDe": 2699,
+      "desconto": 68,
+      "cupom": "BLACK25OFF",
+      "enviadoEm": "2026-11-27T14:11:19.863Z"
+    },
+    {
+      "id": "54674",
+      "loja": "Amazon",
+      "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+      "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/511NcjrBTHL._SL400_.jpg",
+      "preco": 68.15,
+      "precoDe": 118.35,
+      "desconto": 42,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T14:10:48.094Z"
+    },
+    {
+      "id": "54666",
+      "loja": "Shopee",
+      "titulo": "Balança Digital De Vidro até 180Kg Portátil Corporal",
+      "link": "https://s.shopee.com.br/9076RvkhA8",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mr092rpnk5j87a_tn",
+      "preco": 30.49,
+      "precoDe": 56.46,
+      "desconto": 46,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T14:07:09.480Z"
+    },
     {
       "id": "54664",
       "loja": "Amazon",
@@ -97,18 +181,6 @@
       "desconto": 24,
       "cupom": null,
       "enviadoEm": "2026-11-27T13:44:34.058Z"
-    },
-    {
-      "id": "54601",
-      "loja": "Amazon",
-      "titulo": "Luva de Polietileno com Banho Nitrílico, Tamanho M, Linha Extreme Hard Work, Danny",
-      "link": "https://www.amazon.com.br/dp/B0B9HKRXK2?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xmufV7BhL._SL400_.jpg",
-      "preco": 62.44,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": null,
-      "enviadoEm": "2026-11-27T13:43:58.972Z"
     },
     {
       "id": "54632",
@@ -5929,78 +6001,6 @@
       "desconto": null,
       "cupom": "MELIAGORA",
       "enviadoEm": "2026-11-25T15:09:20.379Z"
-    },
-    {
-      "id": "52618",
-      "loja": "Shopee",
-      "titulo": "Panettone Lindt Gotas de Chocolate 400g",
-      "link": "https://s.shopee.com.br/1gKSajtX8u",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8jc4m971fp4a_tn",
-      "preco": 55.92,
-      "precoDe": 89.62,
-      "desconto": 22,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T15:06:07.845Z"
-    },
-    {
-      "id": "52612",
-      "loja": "Mercado Livre",
-      "titulo": "Andador Infantil Musical Para Bebê Empurrador Compacto 3 Ajustes de Altura La Bamba Maxi Baby - azul - R$ 199,99",
-      "link": "https://meli.la/1ZTV5eT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_867600-MLA99504966812_112025-P.webp",
-      "preco": 179.99,
-      "precoDe": 275,
-      "desconto": 27,
-      "cupom": "MELIAGORA",
-      "enviadoEm": "2026-11-25T15:02:14.088Z"
-    },
-    {
-      "id": "52608",
-      "loja": "Amazon",
-      "titulo": "Camiseta Puma Palmeiras Torcedor Home Jersey 26, Verde, P, Masculino",
-      "link": "https://www.amazon.com.br/dp/B0G4NG3CTH?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41ECxdk0lbL._SL400_.jpg",
-      "preco": 199.4,
-      "precoDe": 429.99,
-      "desconto": 54,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T15:00:25.651Z"
-    },
-    {
-      "id": "52607",
-      "loja": "Amazon",
-      "titulo": "Fritadeira Elétrica com Forno Electrolux EAF90, 5 em 1, 12L, 220V | Air Fryer Oven 5 em 1 com 12L de capacidade e função Rotisserie",
-      "link": "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31PDhLCBK1L._SL400_.jpg",
-      "preco": 451.21000000000004,
-      "precoDe": 1299,
-      "desconto": 59,
-      "cupom": "BLACK75OFF",
-      "enviadoEm": "2026-11-25T14:59:10.646Z"
-    },
-    {
-      "id": "52596",
-      "loja": "Shopee",
-      "titulo": "kit 2 Escova Dental Elétrica Sonic X-3 USB Carregando IPX7 Vibração Ultra-Sônica À Prova D'água Adulta 6 Modos",
-      "link": "https://s.shopee.com.br/9fMk6bAP9i",
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mnnbdi1v4x6qac_tn",
-      "preco": 20.7,
-      "precoDe": 20.91,
-      "desconto": 1,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T14:57:57.727Z"
-    },
-    {
-      "id": "52601",
-      "loja": "Amazon",
-      "titulo": "Buba, Lavador Nasal Seringa Dino Rosa",
-      "link": "https://www.amazon.com.br/dp/B0CG6N39NT?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31DVdg2I3LL._SL400_.jpg",
-      "preco": 10.4,
-      "precoDe": 20.9,
-      "desconto": 50,
-      "cupom": null,
-      "enviadoEm": "2026-11-25T14:55:23.947Z"
     }
   ]
 }
