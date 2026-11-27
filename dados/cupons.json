@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T14:37:02.009Z",
+  "atualizadoEm": "2026-11-27T15:07:01.438Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -36,6 +36,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Amazon",
       "validadeAte": "2026-11-27T20:07:23.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BLACK199",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 199,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-28T15:00:04.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1023,18 +1035,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INFLUBLACK20",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": 800,
-      "limite": null,
-      "observacao": "Válido no app Magalu",
-      "validadeAte": "2026-11-27T15:06:17.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "INFLU20BLACK",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -1143,6 +1143,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TSKMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 280,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-28T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTO199",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 199,
+      "minimo": 999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Exclusivo Meli+",
+      "validadeAte": "2026-11-28T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MOVEIS150",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1188,18 +1212,6 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados conforme lista fornecida",
       "validadeAte": "2026-11-28T02:28:39.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIEI8",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 399,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1824,18 +1836,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-25T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "1BAMELI",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 150,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T15:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2508,6 +2508,18 @@
       "limite": 80,
       "observacao": null,
       "validadeAte": "2026-11-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACKVIPMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-28T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3636,30 +3648,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T12:49:35.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "V3SPERABOA",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T15:00:12.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CH1N3L010OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T15:00:24.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
