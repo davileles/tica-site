@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T18:37:02.219Z",
+  "atualizadoEm": "2026-11-27T19:07:01.949Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T16:34:30.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BLACK120",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 120,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-28T19:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -807,18 +819,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INFLUBLACK320",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 320,
-      "minimo": 3000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom válido no app Magazine Luiza",
-      "validadeAte": "2026-11-27T19:04:08.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "COMECOU320",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1071,18 +1071,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PROMOEXTRA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2299,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T19:00:14.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "GANHEBLACK",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1128,6 +1116,18 @@
       "limite": null,
       "observacao": "Cupom válido em selecionados",
       "validadeAte": "2026-11-28T18:06:12.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MEUDESCONTOBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T19:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1179,6 +1179,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "AQEYPDSA",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 120,
+      "minimo": 799,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T19:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1188,6 +1200,18 @@
       "limite": 110,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
       "validadeAte": "2026-11-29T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "WEUYRUE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 60,
+      "minimo": 399,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T19:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2511,6 +2535,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PLSPQEWMAD",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 159,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T19:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2820,18 +2856,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-28T15:26:38.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "SAMSUNG10OFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 900,
-      "maximo": null,
-      "limite": 533,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-27T18:43:15.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3624,6 +3648,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T15:16:48.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "N4OAC4B0U",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T19:00:07.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
