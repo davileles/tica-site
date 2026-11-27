@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T22:37:02.246Z",
+  "atualizadoEm": "2026-11-27T23:07:01.971Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -156,6 +156,18 @@
       "limite": 30,
       "observacao": "Cupom exclusivo para Membros Prime",
       "validadeAte": "2026-11-28T15:34:20.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SONHOSBLACK",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 15,
+      "observacao": "Cupom válido em itens selecionados",
+      "validadeAte": "2026-11-28T22:45:19.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -543,6 +555,18 @@
       "url": null
     },
     {
+      "codigo": "30NOIFOOD",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T22:37:49.000Z",
+      "url": null
+    },
+    {
       "codigo": "BLACKRANGEL",
       "loja": "iFood",
       "tipo": "reais",
@@ -723,18 +747,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "INFLUBLACK500",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": 4500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:01:41.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "LU350",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -828,6 +840,18 @@
       "limite": null,
       "observacao": "Cupom válido no app Magalu",
       "validadeAte": "2026-11-28T11:02:39.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
+      "codigo": "MAGALU250",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 250,
+      "minimo": 2500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T22:56:12.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1128,6 +1152,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T19:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELINABLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T23:00:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3651,18 +3687,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "3SQU3NT4SH0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 89,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:00:27.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "3ABL4CKDASH0",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3780,6 +3804,18 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-28T13:52:25.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "ULT1M0D4BL4CK",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 59,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T23:02:47.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
