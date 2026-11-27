@@ -1,7 +1,103 @@
 {
-  "atualizadoEm": "2026-11-27T11:37:00.025Z",
+  "atualizadoEm": "2026-11-27T12:07:00.026Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "54395",
+      "loja": "Amazon",
+      "titulo": "Norske Tools NIBPI660 Broca de chave de fenda de torção de impacto 2,54 cm Nº 2 Ph (20 peças)",
+      "link": "https://www.amazon.com.br/dp/B07GB8PSV8?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qjapB+CHL._SL400_.jpg",
+      "preco": 52.63,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "REFORMA50",
+      "enviadoEm": "2026-11-27T12:05:12.046Z"
+    },
+    {
+      "id": "54393",
+      "loja": "Mercado Livre",
+      "titulo": "Soundbar LG S40T Bluetooth, 300W, Som Imersivo Design Compacto, Conectividade, Ideal para TV e Entretenimento em Casa",
+      "link": "https://meli.la/1XVzPtc",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982600-MLA96151189893_102025-O.webp",
+      "preco": 590.99,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "RENOVACASA",
+      "enviadoEm": "2026-11-27T12:03:19.676Z"
+    },
+    {
+      "id": "54385",
+      "loja": "Shopee",
+      "titulo": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas 500g/1kg /2kg",
+      "link": "https://s.shopee.com.br/5VXE8dZGSg",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j0-medc35ydcm4m9c_tn",
+      "preco": 10,
+      "precoDe": 14.93,
+      "desconto": 33,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:58:09.219Z"
+    },
+    {
+      "id": "54384",
+      "loja": "Amazon",
+      "titulo": "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
+      "link": "https://www.amazon.com.br/dp/B005NEW08S?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41UiNn2omOL._SL400_.jpg",
+      "preco": 618,
+      "precoDe": 751.82,
+      "desconto": 8,
+      "cupom": "BFSICREDI75",
+      "enviadoEm": "2026-11-27T11:56:41.905Z"
+    },
+    {
+      "id": "54380",
+      "loja": "Amazon",
+      "titulo": "Licor Don Cream Dulce de Leche Don Luiz 750ml - Coquetel Alcoólico de Doce de Leite",
+      "link": "https://www.amazon.com.br/dp/B0GZX6YN53?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31ZhCwir3ZL._SL400_.jpg",
+      "preco": 56.9,
+      "precoDe": 89.9,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:54:42.594Z"
+    },
+    {
+      "id": "54379",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Gold Label, 750ml",
+      "link": "https://www.amazon.com.br/dp/B0DVT7GM9C?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/3135lQn9taL._SL400_.jpg",
+      "preco": 189.99,
+      "precoDe": 343.9,
+      "desconto": 45,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:51:30.916Z"
+    },
+    {
+      "id": "54374",
+      "loja": "Amazon",
+      "titulo": "Milka Chocolate Recheado Chips Ahoy! 100G",
+      "link": "https://www.amazon.com.br/dp/B00XA0WILG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41qinEjOY0L._SL400_.jpg",
+      "preco": 13.98,
+      "precoDe": 19.99,
+      "desconto": 30,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:46:58.604Z"
+    },
+    {
+      "id": "54370",
+      "loja": "Amazon",
+      "titulo": "Real Steel Martelo de Ferreiro 0572, Forjado em uma Peça de Aço, 325 ml",
+      "link": "https://www.amazon.com.br/dp/B088BLPJCR?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31b3vxCnBcL._SL400_.jpg",
+      "preco": 55.71,
+      "precoDe": 87.99,
+      "desconto": 37,
+      "cupom": null,
+      "enviadoEm": "2026-11-27T11:40:46.522Z"
+    },
     {
       "id": "54364",
       "loja": "Shopee",
@@ -5905,102 +6001,6 @@
       "desconto": 72,
       "cupom": null,
       "enviadoEm": "2026-11-24T20:38:45.987Z"
-    },
-    {
-      "id": "52187",
-      "loja": "Amazon",
-      "titulo": "Kit de Internet via Satélite Starlink Mini, Branco | Dual Band 3 x 3 Mu-MIMO, Wi-Fi 5, WPA2, Ethernet LAN, Plugue Starlink",
-      "link": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/21TpiYSwTrL._SL400_.jpg",
-      "preco": 379,
-      "precoDe": 430.75,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T20:37:35.906Z"
-    },
-    {
-      "id": "52179",
-      "loja": "Mercado Livre",
-      "titulo": "Ssd 1tb Sata 3 Darkplayer Pro Gamer Alta Performance Preto",
-      "link": "https://meli.la/1FQGrDT",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_849281-MLA118839789493_102026-O.webp",
-      "preco": 449.9,
-      "precoDe": 840,
-      "desconto": 29,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:32:47.207Z"
-    },
-    {
-      "id": "52173",
-      "loja": "Mercado Livre",
-      "titulo": "Acqua Di Giò Giorgio Armani Perfume Eau De Toilette 200ml",
-      "link": "https://meli.la/2F22CE3",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_964165-MLB43461044348_092020-O.webp",
-      "preco": 460,
-      "precoDe": 1100.85,
-      "desconto": 45,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:29:16.599Z"
-    },
-    {
-      "id": "52172",
-      "loja": "Mercado Livre",
-      "titulo": "Parafusadeira e Furadeira Bosch GSR 1000 Smart 12V com Maleta e Kit de 103 Peças",
-      "link": "https://meli.la/2teLh4j",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_828618-MLA99478540728_112025-O.webp",
-      "preco": 399,
-      "precoDe": 899.9,
-      "desconto": 39,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:28:02.500Z"
-    },
-    {
-      "id": "52165",
-      "loja": "Mercado Livre",
-      "titulo": "Coleção Premium Ditto Pokémon 30 Anos Copag",
-      "link": "https://meli.la/11QJhhk",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787498-MLB115889826787_082026-O.webp",
-      "preco": 341.90999999999997,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "CURTAMELI",
-      "enviadoEm": "2026-11-24T20:25:45.737Z"
-    },
-    {
-      "id": "52164",
-      "loja": "Mercado Livre",
-      "titulo": "Tênis adidas Adizero Drive Rc Confortável Treino Rosa-branco 37 Br - R$ 590",
-      "link": "https://meli.la/2smXnWQ",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_777049-MLB119773746759_102026-P.webp",
-      "preco": 440,
-      "precoDe": 899.99,
-      "desconto": 34,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:24:25.599Z"
-    },
-    {
-      "id": "52163",
-      "loja": "Mercado Livre",
-      "titulo": "Perfume Rabanne Invictus Victory Eau De Parfum 200 Ml Masculino",
-      "link": "https://meli.la/1nU8G1x",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755565-MLA100452879404_122025-O.webp",
-      "preco": 513,
-      "precoDe": 1169,
-      "desconto": 43,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:23:08.381Z"
-    },
-    {
-      "id": "52159",
-      "loja": "Mercado Livre",
-      "titulo": "Memória Ram 16gb 3200mhz Pro Gamer Para Pc Desktop - R$ 700,20",
-      "link": "https://meli.la/1TL3E6s",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_879402-MLA120879412115_112026-P.webp",
-      "preco": 550.2,
-      "precoDe": null,
-      "desconto": null,
-      "cupom": "VEMPROMP",
-      "enviadoEm": "2026-11-24T20:20:35.588Z"
     }
   ]
 }
