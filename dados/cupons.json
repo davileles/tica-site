@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T19:26:35.294Z",
+  "atualizadoEm": "2026-11-27T19:37:02.255Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -769,18 +769,6 @@
       "observacao": "Válido apenas em Placas de Vídeo selecionadas",
       "validadeAte": "2026-11-28T03:28:38.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
-    },
-    {
-      "codigo": "CUPOM500SURPRESA",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 500,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom aplicável via WhatsApp da Magalu. Necessário enviar produto e solicitar aplicação do cupom.",
-      "validadeAte": "2026-11-27T19:28:31.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
       "codigo": "INFLUBLACK500",
@@ -2856,6 +2844,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-28T15:26:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELICASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 119,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-28T19:36:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
