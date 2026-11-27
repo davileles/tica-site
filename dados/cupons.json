@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T00:08:00.034Z",
+  "atualizadoEm": "2026-11-27T00:37:00.527Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -996,18 +996,6 @@
       "limite": null,
       "observacao": "Cupons em selecionados no Mercado Livre",
       "validadeAte": "2026-11-27T21:26:15.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TDS100BF26",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 599,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:55:05.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2927,7 +2915,7 @@
       "maximo": null,
       "limite": 10,
       "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-27T01:00:32.418Z",
+      "validadeAte": "2026-11-27T01:00:33.030Z",
       "url": "https://meli.la/2xystLt"
     },
     {
