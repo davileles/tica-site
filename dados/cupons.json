@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T15:37:01.852Z",
+  "atualizadoEm": "2026-11-27T16:07:01.983Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,18 +96,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T22:15:40.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "SONHODEBLACK",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T16:00:53.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1095,18 +1083,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "BFIN2711XX",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 1200,
-      "minimo": 4000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido apenas com cartão MP Visa. Aplicável em produtos selecionados conforme lista fornecida.",
-      "validadeAte": "2026-11-28T14:08:27.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOEXTRA",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1143,18 +1119,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PRECINHOBLAC",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 1999,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "DESCONTO199",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1164,6 +1128,18 @@
       "limite": null,
       "observacao": "Exclusivo Meli+",
       "validadeAte": "2026-11-28T15:00:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TECH",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 199,
+      "minimo": 999,
+      "maximo": null,
+      "limite": 199,
+      "observacao": null,
+      "validadeAte": "2026-11-27T18:00:34.814Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2499,27 +2475,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARAGEMML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 80,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BLACKVIPMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
       "valor": 25,
-      "minimo": 79,
+      "minimo": 0,
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2703,18 +2667,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "HORABLACK",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Dois cupons válidos para Black Friday no Mercado Livre",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FORTUNABLACKNOV",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2748,6 +2700,18 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-28T15:26:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "H55MELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-28T16:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2799,6 +2763,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "TECHONOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2808,30 +2784,6 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2027-02-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "INSTRUMENTOS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 199,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
-      "validadeAte": "2026-12-02T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MODA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 89,
-      "maximo": null,
-      "limite": 20,
-      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
-      "validadeAte": "2027-01-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2856,30 +2808,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-28T15:26:38.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CONECTAML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 599,
-      "maximo": null,
-      "limite": 350,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AMLQOGSTENZ",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
-      "validadeAte": "2026-11-27T16:00:11.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2929,18 +2857,6 @@
       "observacao": "Código fornecido sem contexto de loja ou valor de desconto. Necessário mais informações para validar o cupom completo.",
       "validadeAte": "2026-11-28T11:30:51.000Z",
       "url": null
-    },
-    {
-      "codigo": "NIKE40",
-      "loja": "Nike",
-      "tipo": "pct",
-      "valor": 40,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T15:40:37.000Z",
-      "url": "https://www.awin1.com/awclick.php?mid=17652&id=1207116"
     },
     {
       "codigo": "WELCOME15",
@@ -3555,6 +3471,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "C4RR1NH070",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 70,
+      "minimo": 350,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:00:08.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "AFF30FMCG",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3600,6 +3528,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T12:01:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "VEMGASTAR40AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T16:01:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
