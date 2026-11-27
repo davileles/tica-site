@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T15:07:01.438Z",
+  "atualizadoEm": "2026-11-27T15:37:01.852Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -144,6 +144,18 @@
       "limite": 200,
       "observacao": "Cupom válido no app Amazon",
       "validadeAte": "2026-11-27T22:01:32.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "MODANABLACK",
+      "loja": "Amazon",
+      "tipo": "pct",
+      "valor": 10,
+      "minimo": 80,
+      "maximo": null,
+      "limite": 30,
+      "observacao": "Cupom exclusivo para Membros Prime",
+      "validadeAte": "2026-11-28T15:34:20.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -1140,18 +1152,6 @@
       "limite": 300,
       "observacao": null,
       "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TSKMELI",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 280,
-      "minimo": 1199,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-28T15:00:02.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2519,7 +2519,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-28T15:00:01.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2739,6 +2739,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "EUCERINNOMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 200,
+      "observacao": null,
+      "validadeAte": "2026-11-28T15:26:38.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2832,6 +2844,18 @@
       "limite": 60,
       "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
       "validadeAte": "2026-11-27T17:00:22.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PLANETA15",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 49,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-28T15:26:38.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3636,6 +3660,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T13:00:38.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "CHR4BF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 99,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T15:16:48.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
