@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T11:07:01.833Z",
+  "atualizadoEm": "2026-11-27T11:37:01.867Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1047,75 +1047,27 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "CORREHOJEAGORA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 2299,
-      "maximo": null,
-      "limite": 300,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:30:11.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "ELETRO300",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 300,
       "minimo": 2999,
       "maximo": null,
-      "limite": null,
+      "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
-      "validadeAte": "2026-11-28T03:33:02.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "7CJMELI",
+      "codigo": "TODOOSITE",
       "loja": "Mercado Livre",
       "tipo": "reais",
       "valor": 270,
       "minimo": 1499,
       "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T11:00:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "APROVEITA",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 2499,
-      "maximo": null,
-      "limite": 250,
-      "observacao": null,
-      "validadeAte": "2026-11-27T22:54:46.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "EQRTY07",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 799,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-28T00:00:06.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "ACHADINHO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": 150,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:03:10.000Z",
+      "limite": 270,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-27T12:00:34.219Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1161,9 +1113,9 @@
       "valor": 50,
       "minimo": 350,
       "maximo": null,
-      "limite": null,
+      "limite": 50,
       "observacao": "Cupons em selecionados no Mercado Livre",
-      "validadeAte": "2026-11-27T21:26:15.000Z",
+      "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2703,18 +2655,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SOHOJE",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:23:32.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BELEZAPREMIUM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2895,18 +2835,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "GARANTAJAHJ",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-28T00:02:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "NTK12P",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2928,18 +2856,6 @@
       "limite": 30,
       "observacao": null,
       "validadeAte": "2026-11-27T13:23:04.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "TECHOFF",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 599,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Válido na lista específica do link fornecido",
-      "validadeAte": "2026-11-28T00:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2991,18 +2907,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELHOROFERTA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 200,
-      "observacao": null,
-      "validadeAte": "2026-11-27T21:03:10.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "BLACK100",
       "loja": "Mizuno",
       "tipo": "reais",
@@ -3025,6 +2929,18 @@
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
+    },
+    {
+      "codigo": "C3RV3J410OFF",
+      "loja": "não especificada",
+      "tipo": "pct",
+      "valor": 0,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Código fornecido sem contexto de loja ou valor de desconto. Necessário mais informações para validar o cupom completo.",
+      "validadeAte": "2026-11-28T11:30:51.000Z",
+      "url": null
     },
     {
       "codigo": "NIKE40",
@@ -3720,6 +3636,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T15:00:24.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "C3RV3J410OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-28T11:30:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
