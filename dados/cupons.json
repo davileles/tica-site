@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T18:01:53.403Z",
+  "atualizadoEm": "2026-11-27T18:07:00.833Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -567,6 +567,18 @@
       "url": null
     },
     {
+      "codigo": "HOJETEMBF",
+      "loja": "iFood",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": null,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Desconto em pedidos do Mercado no iFood",
+      "validadeAte": "2026-11-28T18:00:42.000Z",
+      "url": null
+    },
+    {
       "codigo": "PM15OFF",
       "loja": "iFood",
       "tipo": "reais",
@@ -1068,6 +1080,18 @@
       "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "DESCONTABF300",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 301,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Cupom válido em selecionados",
+      "validadeAte": "2026-11-28T18:06:12.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2643,6 +2667,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIUOT",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 70,
+      "observacao": "20% OFF em produtos selecionados com compra mínima de R$249 e desconto máximo limitado a R$70",
+      "validadeAte": "2026-11-28T18:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACKMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 199,
+      "maximo": null,
+      "limite": 60,
+      "observacao": null,
+      "validadeAte": "2026-11-28T18:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3528,6 +3576,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T12:49:35.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "D3SC0NT4SS015",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T18:02:45.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
