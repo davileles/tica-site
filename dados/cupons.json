@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T23:07:01.971Z",
+  "atualizadoEm": "2026-11-27T23:37:00.675Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -168,6 +168,18 @@
       "limite": 15,
       "observacao": "Cupom válido em itens selecionados",
       "validadeAte": "2026-11-28T22:45:19.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "SONHOBLACK10",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T23:30:41.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -2739,18 +2751,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "BELEZAPREMIUM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-27T23:35:05.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "SOHOJEBF",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3600,6 +3600,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T03:01:22.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "BFT41RN",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T23:17:31.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
