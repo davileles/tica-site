@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T12:07:01.819Z",
+  "atualizadoEm": "2026-11-27T12:37:01.619Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -867,18 +867,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INFLUBLACK120",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 120,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T12:10:58.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "SQUAD100BF",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1068,6 +1056,18 @@
       "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 180,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": 180,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2531,7 +2531,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-28T12:00:11.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2543,7 +2543,7 @@
       "maximo": null,
       "limite": 80,
       "observacao": null,
-      "validadeAte": "2026-11-28T12:00:11.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2763,6 +2763,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RENOVACASA",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 599,
+      "maximo": null,
+      "limite": 250,
+      "observacao": null,
+      "validadeAte": "2026-11-28T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2919,18 +2931,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "RENOVACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 12,
-      "minimo": 599,
-      "maximo": null,
-      "limite": 250,
-      "observacao": null,
-      "validadeAte": "2026-11-28T11:00:07.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "PROMOHOJEPRACASA",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2939,7 +2939,7 @@
       "maximo": null,
       "limite": 350,
       "observacao": null,
-      "validadeAte": "2026-11-28T12:00:11.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2951,7 +2951,7 @@
       "maximo": null,
       "limite": 350,
       "observacao": null,
-      "validadeAte": "2026-11-28T12:00:11.000Z",
+      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
