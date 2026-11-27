@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T12:37:01.619Z",
+  "atualizadoEm": "2026-11-27T13:05:17.273Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -96,6 +96,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-27T16:00:53.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "BLACK25OFF",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 159,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
+      "validadeAte": "2026-11-28T13:00:03.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -963,6 +975,18 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
+      "codigo": "BF40INFLU",
+      "loja": "Magazine Luiza",
+      "tipo": "reais",
+      "valor": 40,
+      "minimo": 250,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T13:03:59.000Z",
+      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
+    },
+    {
       "codigo": "LIVEBLACK30",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1056,6 +1080,18 @@
       "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
       "validadeAte": "2026-12-01T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "PRECINHOBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Dois cupons válidos para Black Friday no Mercado Livre",
+      "validadeAte": "2026-11-28T13:00:04.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2727,6 +2763,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "HORABLACK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": "Dois cupons válidos para Black Friday no Mercado Livre",
+      "validadeAte": "2026-11-28T13:00:04.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "FORTUNABLACKNOV",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 10,
+      "maximo": null,
+      "limite": 60,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-28T13:01:46.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3615,6 +3675,18 @@
       "url": "https://www.awin1.com/awclick.php?mid=17668&id=1207116"
     },
     {
+      "codigo": "BF500AF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 500,
+      "minimo": 2700,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T13:00:21.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "3D14D3BL4CK",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3696,6 +3768,42 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T11:00:34.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "H0J3VAL3",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T13:00:06.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "V0U3SV4ZI4R0C4RR1NH0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 60,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T13:00:38.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "4ND4RN0V",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 15,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T12:49:35.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
