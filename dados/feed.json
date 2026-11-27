@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-26T23:10:54.835Z",
+  "atualizadoEm": "2026-11-27T02:06:59.897Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "53994",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Black Inox Look (IF41B) - R$ 2.831",
+      "link": "https://meli.la/1gLP6mD",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_903956-MLA112852661986_072026-P.webp",
+      "preco": 2681,
+      "precoDe": 3609,
+      "desconto": 22,
+      "cupom": "L40EL300BF150",
+      "enviadoEm": "2026-11-27T02:06:42.468Z"
+    },
+    {
+      "id": "53993",
+      "loja": "Mercado Livre",
+      "titulo": "Air Fryer Philco 6,5l Visor Glass E Redstone 1700w Paf65a Preto 127v. - R$ 340",
+      "link": "https://meli.la/1CAp48Q",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-P.webp",
+      "preco": 204,
+      "precoDe": null,
+      "desconto": null,
+      "cupom": "L40EL300BF150",
+      "enviadoEm": "2026-11-27T02:05:27.035Z"
+    },
+    {
+      "id": "53986",
+      "loja": "Mercado Livre",
+      "titulo": "Geladeira Brastemp Frost Free Inverse 500 Litros Inox - BRE66 - R$ 3.899",
+      "link": "https://meli.la/1i3dxeL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_722606-MLA107191675311_022026-P.webp",
+      "preco": 3044,
+      "precoDe": 3472,
+      "desconto": 8,
+      "cupom": "L40EL300BF150",
+      "enviadoEm": "2026-11-27T02:02:48.607Z"
+    },
     {
       "id": "53945",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": null,
       "cupom": "OFICIAIS2411",
       "enviadoEm": "2026-11-24T14:31:42.229Z"
-    },
-    {
-      "id": "51794",
-      "loja": "Amazon",
-      "titulo": "Stanley Copo Quencher Cream 1.18L",
-      "link": "https://www.amazon.com.br/dp/B0BTHPGVWZ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/318Qlj8YEqL._SL400_.jpg",
-      "preco": 128.16,
-      "precoDe": 359,
-      "desconto": 55,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-24T14:28:44.868Z"
-    },
-    {
-      "id": "51789",
-      "loja": "Mercado Livre",
-      "titulo": "Jogo De Panelas Francesas Galya 12 Peças Aço Inoxidável",
-      "link": "https://meli.la/2dvVxL7",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_864102-MLB117753680875_092026-O.webp",
-      "preco": 291.03999999999996,
-      "precoDe": 499.99,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-24T14:24:16.112Z"
-    },
-    {
-      "id": "51787",
-      "loja": "Amazon",
-      "titulo": "Bosch Martelete Perfurador Gbh 2-24 D 820W 220V Com Maleta",
-      "link": "https://www.amazon.com.br/dp/B076KRB8LP?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/51LzUvrPZxL._SL400_.jpg",
-      "preco": 575.99,
-      "precoDe": 899,
-      "desconto": 20,
-      "cupom": "20BF26PRIME",
-      "enviadoEm": "2026-11-24T14:20:45.126Z"
     }
   ]
 }
