@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T13:37:01.846Z",
+  "atualizadoEm": "2026-11-27T14:07:02.277Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2679,6 +2679,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "RELAMPAGO",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 100,
+      "observacao": null,
+      "validadeAte": "2026-11-28T14:00:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -3648,6 +3660,30 @@
       "limite": null,
       "observacao": "Válido em produtos selecionados",
       "validadeAte": "2026-11-28T11:30:14.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "K1TC04L410OFF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 40,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-28T13:52:25.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "5D3D3SC0NT0",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 5,
+      "minimo": 25,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-28T14:00:16.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
