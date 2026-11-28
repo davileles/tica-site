@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-28T15:18:27.472Z",
+  "atualizadoEm": "2026-11-28T15:30:48.435Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "56394",
+      "loja": "Shopee",
+      "titulo": "GL&DD Depilador Eletrico Feminino Recarregável Removedor De Pelos Navalha Dupla- Envio rápido",
+      "link": "https://s.shopee.com.br/9fMov7DfGO",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt96n3tald6rd5_tn",
+      "preco": 29.99,
+      "precoDe": 99.97,
+      "desconto": 70,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T15:20:48.433Z"
+    },
     {
       "id": "56376",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 35,
       "cupom": null,
       "enviadoEm": "2026-11-26T19:06:49.407Z"
-    },
-    {
-      "id": "53721",
-      "loja": "Amazon",
-      "titulo": "KNIPEX 78 03 150 SBA, 15.2 cm Slim Knips | Design fino. Corte o fio trançado apenas até 12 AWG. Aperte e lave os laços de zíper de até 0,6 cm. largo. Feito na Alemanha.",
-      "link": "https://www.amazon.com.br/dp/B0HL9QSLKF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31of31wFYaL._SL400_.jpg",
-      "preco": 279.97,
-      "precoDe": 543.62,
-      "desconto": 48,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T19:06:19.201Z"
     }
   ]
 }
