@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-28T02:07:46.155Z",
+  "atualizadoEm": "2026-11-28T02:37:46.156Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55919",
+      "loja": "Amazon",
+      "titulo": "Glenlivet Caribbean Reserve, 750 ml",
+      "link": "https://www.amazon.com.br/dp/B09851FR7R?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41RccdJkGgL._SL400_.jpg",
+      "preco": 249.9,
+      "precoDe": 349.9,
+      "desconto": 29,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T02:31:28.662Z"
+    },
+    {
+      "id": "55909",
+      "loja": "Amazon",
+      "titulo": "Máquina de lavar Ideal+ Panasonic 15Kg Lavagem Eficiente SmartSense Função Vanish Preta NA-F150B1B 127v",
+      "link": "https://www.amazon.com.br/dp/B0H4MQMYCJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31r9KeEiGIL._SL400_.jpg",
+      "preco": 1899,
+      "precoDe": 2599,
+      "desconto": 27,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T02:28:39.769Z"
+    },
     {
       "id": "55868",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 41,
       "cupom": null,
       "enviadoEm": "2026-11-26T14:08:39.278Z"
-    },
-    {
-      "id": "53312",
-      "loja": "Mercado Livre",
-      "titulo": "Serra Mármore 4100nh2z 220v 1450w 125mm - Makita",
-      "link": "https://meli.la/1MgBpa5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_786133-MLB99478632037_112025-O.webp",
-      "preco": 461.5,
-      "precoDe": 712.5,
-      "desconto": 24,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T14:05:59.207Z"
-    },
-    {
-      "id": "53300",
-      "loja": "Amazon",
-      "titulo": "Milwaukee Caixa Organizadora de Ferramentas Packout Organizador Modular - 48-22-8450",
-      "link": "https://www.amazon.com.br/dp/B07LH3BMZ4?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/413A5AWDkrL._SL400_.jpg",
-      "preco": 594.96,
-      "precoDe": 736.84,
-      "desconto": 9,
-      "cupom": "BLACK75OFF",
-      "enviadoEm": "2026-11-26T14:00:44.771Z"
     }
   ]
 }
