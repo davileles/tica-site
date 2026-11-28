@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T11:07:48.314Z",
+  "atualizadoEm": "2026-11-28T11:37:30.467Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -874,7 +874,7 @@
       "minimo": 2999,
       "maximo": null,
       "limite": 300,
-      "observacao": "Válido apenas para produtos na lista especificada",
+      "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_5: O cupom não está disponível.",
       "validadeAte": "2026-12-01T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
@@ -1008,6 +1008,18 @@
       "limite": null,
       "observacao": "Válido na lista específica fornecida",
       "validadeAte": "2026-11-28T20:26:52.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOPARTES",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 45,
+      "minimo": 130,
+      "maximo": null,
+      "limite": 45,
+      "observacao": null,
+      "validadeAte": "2026-11-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1620,6 +1632,18 @@
       "limite": 500,
       "observacao": null,
       "validadeAte": "2026-12-25T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CORREAQUIML30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons com limite de desconto de R$500 cada",
+      "validadeAte": "2026-11-29T11:22:03.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2295,6 +2319,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "CORREPROAPP25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons com limite de desconto de R$500 cada",
+      "validadeAte": "2026-11-29T11:22:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "CHEGUEIML25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons com limite de desconto de R$500 cada",
+      "validadeAte": "2026-11-29T11:22:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2547,6 +2595,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "PROMOFLASH18",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Cupons com limite de desconto de R$500 cada",
+      "validadeAte": "2026-11-29T11:22:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "OFERTASAQUI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2603,7 +2663,7 @@
       "maximo": null,
       "limite": 60,
       "observacao": null,
-      "validadeAte": "2026-11-30T02:59:00.000Z",
+      "validadeAte": "2026-11-29T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2629,18 +2689,6 @@
       "observacao": null,
       "validadeAte": "2026-12-01T02:59:59.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=51271&id=1207116"
-    },
-    {
-      "codigo": "C3RV3J410OFF",
-      "loja": "não especificada",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Código fornecido sem contexto de loja ou valor de desconto. Necessário mais informações para validar o cupom completo.",
-      "validadeAte": "2026-11-28T11:30:51.000Z",
-      "url": null
     },
     {
       "codigo": "WELCOME15",
@@ -3315,6 +3363,18 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
+      "codigo": "NASCAR2026",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 30,
+      "minimo": 120,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T11:15:51.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
       "codigo": "OLHAHORAAF",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3408,18 +3468,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T18:02:45.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "C3RV3J410OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-28T11:30:14.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
