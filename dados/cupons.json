@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T02:16:21.722Z",
+  "atualizadoEm": "2026-11-28T02:37:47.924Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -771,18 +771,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17729&id=1207116"
     },
     {
-      "codigo": "LU350",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 350,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:33:10.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "MAGALU350",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -915,18 +903,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "LIVEBLACK100",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 100,
-      "minimo": 1000,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons da Black Friday - Magazine Luiza",
-      "validadeAte": "2026-11-28T02:18:11.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "CUPOM100BLACK",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -951,30 +927,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "LIVEBLACK50",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 450,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons da Black Friday - Magazine Luiza",
-      "validadeAte": "2026-11-28T02:18:11.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "MAGALUBLACK50",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:36:00.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "BLACKMAGALU50",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -996,18 +948,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T13:03:59.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "LIVEBLACK30",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 250,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons da Black Friday - Magazine Luiza",
-      "validadeAte": "2026-11-28T02:18:11.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1044,18 +984,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T12:04:10.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "LIVEBLACK10",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 50,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupons da Black Friday - Magazine Luiza",
-      "validadeAte": "2026-11-28T02:18:11.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -1248,18 +1176,6 @@
       "limite": 50,
       "observacao": "Cupons em selecionados no Mercado Livre",
       "validadeAte": "2026-12-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BF50MERCADO",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 299,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados conforme lista fornecida",
-      "validadeAte": "2026-11-28T02:28:39.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
