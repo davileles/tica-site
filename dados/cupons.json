@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T14:31:11.870Z",
+  "atualizadoEm": "2026-11-28T15:07:47.917Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,18 +25,6 @@
       "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
       "validadeAte": "2026-11-28T18:34:40.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
-    },
-    {
-      "codigo": "BLACK199",
-      "loja": "Amazon",
-      "tipo": "reais",
-      "valor": 199,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para produtos vendidos e entregues pela Amazon",
-      "validadeAte": "2026-11-28T15:00:04.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "INFLUPRIME",
@@ -843,15 +831,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "DESCONTO199",
+      "codigo": "MELIT94",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 199,
-      "minimo": 999,
+      "valor": 230,
+      "minimo": 1499,
       "maximo": null,
       "limite": null,
-      "observacao": "Exclusivo Meli+",
-      "validadeAte": "2026-11-28T15:00:02.000Z",
+      "observacao": null,
+      "validadeAte": "2026-11-29T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2472,6 +2460,18 @@
       "limite": 80,
       "observacao": "Cupons em produtos selecionados",
       "validadeAte": "2026-11-28T22:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "ZOQMELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 20,
+      "minimo": 159,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T15:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
