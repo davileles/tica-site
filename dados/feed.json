@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-28T03:19:18.086Z",
+  "atualizadoEm": "2026-11-28T03:37:46.156Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55994",
+      "loja": "Amazon",
+      "titulo": "Gigabyte B650M GAMING WIFI Placa-Mãe Micro-ATX, Socket AM5, DDR5, para AMD Ryzen Série 7000/8000/9000",
+      "link": "https://www.amazon.com.br/dp/B0D5NM5184?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Gwpavw4zL._SL400_.jpg",
+      "preco": 611.99,
+      "precoDe": 799.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T03:29:49.848Z"
+    },
+    {
+      "id": "55993",
+      "loja": "Mercado Livre",
+      "titulo": "Café União Tradicional Pouch 500g - R$ 13,99",
+      "link": "https://meli.la/1agV835",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874566-MLA99442675624_112025-P.webp",
+      "preco": 13.99,
+      "precoDe": 27.24,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T03:25:16.638Z"
+    },
     {
       "id": "55988",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-26T15:27:44.948Z"
-    },
-    {
-      "id": "53401",
-      "loja": "Amazon",
-      "titulo": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/dp/B0DJFSKVZ5?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31dYuiekLvL._SL400_.jpg",
-      "preco": 4399,
-      "precoDe": 7599,
-      "desconto": 36,
-      "cupom": "15IMPERDIVEL",
-      "enviadoEm": "2026-11-26T15:27:03.466Z"
-    },
-    {
-      "id": "53397",
-      "loja": "Amazon",
-      "titulo": "Gin Beg Modern e Tropical, 750ml | Infusionado por 24h, Azul Vibrante que Transforma em Rosa",
-      "link": "https://www.amazon.com.br/dp/B07VFQCF6P?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41OkBSSQ5mL._SL400_.jpg",
-      "preco": 71.16,
-      "precoDe": 114.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T15:19:25.634Z"
     }
   ]
 }
