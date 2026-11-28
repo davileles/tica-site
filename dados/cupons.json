@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T23:37:00.675Z",
+  "atualizadoEm": "2026-11-28T00:07:00.702Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -831,18 +831,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "PRESENTEBLACK250",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 2000,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:45:05.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "250PRAVOCE",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -984,18 +972,6 @@
       "limite": null,
       "observacao": "Promoção Black Friday - Magalu APP",
       "validadeAte": "2026-11-28T21:20:26.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "CUPOMMAGA99",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 99,
-      "minimo": 199,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-27T23:46:07.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2964,6 +2940,18 @@
       "limite": 50,
       "observacao": "Cupons em produtos selecionados",
       "validadeAte": "2026-11-28T22:00:09.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BLACKHOJE",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 1199,
+      "maximo": null,
+      "limite": 350,
+      "observacao": null,
+      "validadeAte": "2026-11-29T00:00:06.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
