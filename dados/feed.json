@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-28T03:07:46.156Z",
+  "atualizadoEm": "2026-11-28T03:19:18.086Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55988",
+      "loja": "Amazon",
+      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/dp/B00861CC7Y?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/31PJAy5NZ3L._SL400_.jpg",
+      "preco": 89.99,
+      "precoDe": 177.9,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T03:09:18.084Z"
+    },
     {
       "id": "55982",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-26T15:19:25.634Z"
-    },
-    {
-      "id": "53392",
-      "loja": "Amazon",
-      "titulo": "CACHAÇA GERMANA 1L CARVALHO",
-      "link": "https://www.amazon.com.br/dp/B07ZJWDKZF?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31kQujtsBpL._SL400_.jpg",
-      "preco": 77.73,
-      "precoDe": 123.3,
-      "desconto": 37,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T15:14:51.715Z"
     }
   ]
 }
