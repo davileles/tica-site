@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-28T15:30:48.435Z",
+  "atualizadoEm": "2026-11-28T15:37:46.163Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "56411",
+      "loja": "Amazon",
+      "titulo": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
+      "link": "https://www.amazon.com.br/dp/B0G22R3QLT?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41Otkwd2mSL._SL400_.jpg",
+      "preco": 3200.07,
+      "precoDe": 4699,
+      "desconto": 27,
+      "cupom": "BLACKSABADO",
+      "enviadoEm": "2026-11-28T15:34:10.132Z"
+    },
     {
       "id": "56394",
       "loja": "Shopee",
@@ -5989,18 +6001,6 @@
       "desconto": 27,
       "cupom": null,
       "enviadoEm": "2026-11-26T19:21:40.640Z"
-    },
-    {
-      "id": "53728",
-      "loja": "Amazon",
-      "titulo": "Klein Tools Alicate de travamento de mandíbula curva 38600 com alças de liberação rápida, botão de polegar intuitivo, alto torque, pegas de toupeira para fixação e aderência, 12 cm",
-      "link": "https://www.amazon.com.br/dp/B0F16F73S3?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41+tcdvFjCL._SL400_.jpg",
-      "preco": 88.72,
-      "precoDe": 135.51,
-      "desconto": 35,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T19:06:49.407Z"
     }
   ]
 }
