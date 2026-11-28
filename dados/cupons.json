@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T15:07:47.917Z",
+  "atualizadoEm": "2026-11-28T15:18:29.374Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -828,6 +828,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T22:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "TODOOSITE",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": 230,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3288,18 +3300,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-29T01:00:28.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "CHR4BF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": 99,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T15:16:48.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
