@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T01:07:46.521Z",
+  "atualizadoEm": "2026-11-28T02:07:48.023Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -1152,6 +1152,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T23:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELHORDABLACK",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 300,
+      "minimo": 1999,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T02:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
