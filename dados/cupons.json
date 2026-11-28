@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T12:04:37.572Z",
+  "atualizadoEm": "2026-11-28T12:17:08.542Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2487,6 +2487,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "ENTREGASFULL",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
+      "validadeAte": "2026-11-30T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "FORTUNABLACKNOV",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2544,6 +2556,18 @@
       "limite": 40,
       "observacao": "Cupons em produtos selecionados",
       "validadeAte": "2026-11-29T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "AUTOEFERAMENTAS",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 55,
+      "observacao": null,
+      "validadeAte": "2026-11-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
