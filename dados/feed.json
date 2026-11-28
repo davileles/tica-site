@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-28T14:07:46.163Z",
+  "atualizadoEm": "2026-11-28T14:31:10.008Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "56312",
+      "loja": "Amazon",
+      "titulo": "Chocottone Bauducco 400G",
+      "link": "https://www.amazon.com.br/dp/B01NCDUZXD?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41n2DPMZMJL._SL400_.jpg",
+      "preco": 18.99,
+      "precoDe": 24.99,
+      "desconto": 24,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T14:21:10.005Z"
+    },
+    {
+      "id": "56307",
+      "loja": "Shopee",
+      "titulo": "coleira e Guia para cachorro nome personalizado coleira peitoral conforto peiteira sistema amortecedor impacto regulagem",
+      "link": "https://s.shopee.com.br/70M3ft4pJ6",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b_tn",
+      "preco": 14.74,
+      "precoDe": 36.85,
+      "desconto": 60,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T14:17:43.263Z"
+    },
+    {
+      "id": "56302",
+      "loja": "Amazon",
+      "titulo": "Apple iPhone 16e de 128 GB — Preto",
+      "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/318Rhf2amVL._SL400_.jpg",
+      "preco": 2933.1,
+      "precoDe": 5799,
+      "desconto": 49,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T14:14:23.142Z"
+    },
     {
       "id": "56283",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 37,
       "cupom": "25IMPERDIVEL",
       "enviadoEm": "2026-11-26T18:49:52.698Z"
-    },
-    {
-      "id": "53684",
-      "loja": "Mercado Livre",
-      "titulo": "Floratta Flores Secretas Desodorante Colônia 75ml",
-      "link": "https://meli.la/1NwxbWS",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_807362-MLB110689743830_052026-O.webp",
-      "preco": 73.86000000000001,
-      "precoDe": 159.9,
-      "desconto": 46,
-      "cupom": "OFERTAVIP",
-      "enviadoEm": "2026-11-26T18:48:38.649Z"
-    },
-    {
-      "id": "53681",
-      "loja": "Mercado Livre",
-      "titulo": "Bateria de Litio Bosch GBA 4Ah 18V - R$ 388,49",
-      "link": "https://meli.la/1xXEhN5",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_610275-MLA99463516678_112025-P.webp",
-      "preco": 348.49,
-      "precoDe": 431.66,
-      "desconto": 10,
-      "cupom": "DESCONTOHOJE",
-      "enviadoEm": "2026-11-26T18:47:20.385Z"
-    },
-    {
-      "id": "53675",
-      "loja": "Mercado Livre",
-      "titulo": "Controle Sony Dualsense Para Playstation 5 Cor Branco Branco - R$ 339,15",
-      "link": "https://meli.la/1yLvZZ4",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995516-MLB120580947252_112026-P.webp",
-      "preco": 288.28,
-      "precoDe": 399,
-      "desconto": 15,
-      "cupom": "OFERTAVIP",
-      "enviadoEm": "2026-11-26T18:46:46.830Z"
     }
   ]
 }
