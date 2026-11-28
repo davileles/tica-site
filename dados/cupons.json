@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T14:07:47.794Z",
+  "atualizadoEm": "2026-11-28T14:31:11.870Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -507,18 +507,6 @@
       "url": "https://www.awin1.com/awclick.php?mid=17858&id=1207116"
     },
     {
-      "codigo": "BLACKPET",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 30,
-      "minimo": 100,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido para Pet Shops",
-      "validadeAte": "2026-11-28T14:23:57.000Z",
-      "url": null
-    },
-    {
       "codigo": "RD30OFF",
       "loja": "iFood",
       "tipo": "reais",
@@ -567,18 +555,6 @@
       "url": null
     },
     {
-      "codigo": "SHOPPINGBR",
-      "loja": "iFood",
-      "tipo": "reais",
-      "valor": 20,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em Shoppings",
-      "validadeAte": "2026-11-28T14:18:09.000Z",
-      "url": null
-    },
-    {
       "codigo": "HOJETEMBF",
       "loja": "iFood",
       "tipo": "reais",
@@ -624,18 +600,6 @@
       "limite": null,
       "observacao": "Em algumas contas aparece R$ 15 OFF. Valor padrão: R$ 12 OFF em compras a partir de R$ 27 em restaurantes.",
       "validadeAte": "2026-11-28T18:30:39.000Z",
-      "url": null
-    },
-    {
-      "codigo": "BLACKPET",
-      "loja": "iFood Pet Shop",
-      "tipo": "pct",
-      "valor": 0,
-      "minimo": null,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Cupom sem informações de valor ou tipo de desconto (percentual ou fixo). Dados insuficientes para classificar corretamente.",
-      "validadeAte": "2026-11-28T14:20:01.000Z",
       "url": null
     },
     {
