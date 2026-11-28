@@ -1,7 +1,31 @@
 {
-  "atualizadoEm": "2026-11-28T14:31:10.008Z",
+  "atualizadoEm": "2026-11-28T14:55:10.589Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "56341",
+      "loja": "Amazon",
+      "titulo": "Caixa de Variedades Favoritos Lacta 250,6g",
+      "link": "https://www.amazon.com.br/dp/B07T3GX8TK?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41hRm8QgTyL._SL400_.jpg",
+      "preco": 9,
+      "precoDe": 18.49,
+      "desconto": 51,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T14:45:10.586Z"
+    },
+    {
+      "id": "56331",
+      "loja": "Shopee",
+      "titulo": "Coleira de Cachorro Peitoral Trela Para Cães Cão Cachorros e Gatos Pet Colete Com Guia Malha de Náilon",
+      "link": "https://s.shopee.com.br/3VmBWthvu2",
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g4-mfbjm2tucjka7d_tn",
+      "preco": 22.9,
+      "precoDe": 49.78,
+      "desconto": 54,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T14:38:43.251Z"
+    },
     {
       "id": "56312",
       "loja": "Amazon",
@@ -5977,30 +6001,6 @@
       "desconto": 52,
       "cupom": "AMOPADTYQID",
       "enviadoEm": "2026-11-26T18:57:45.361Z"
-    },
-    {
-      "id": "53695",
-      "loja": "Amazon",
-      "titulo": "Insider Tech T-Shirt Gola V Masculina, Maple Brown, Tamanho PP",
-      "link": "https://www.amazon.com.br/dp/B0H5MT63SG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31LxF-Of77L._SL400_.jpg",
-      "preco": 79,
-      "precoDe": 89.9,
-      "desconto": 12,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T18:53:01.004Z"
-    },
-    {
-      "id": "53685",
-      "loja": "Amazon",
-      "titulo": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
-      "link": "https://www.amazon.com.br/dp/B0FMFTWHJJ?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/419sgILUuRL._SL400_.jpg",
-      "preco": 1489.0900000000001,
-      "precoDe": 3149,
-      "desconto": 37,
-      "cupom": "25IMPERDIVEL",
-      "enviadoEm": "2026-11-26T18:49:52.698Z"
     }
   ]
 }
