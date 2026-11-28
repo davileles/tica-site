@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T15:30:50.132Z",
+  "atualizadoEm": "2026-11-28T15:37:47.866Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -25,6 +25,18 @@
       "observacao": "Cupons devem ser resgatados no aplicativo AliExpress",
       "validadeAte": "2026-11-28T18:34:40.000Z",
       "url": "https://www.awin1.com/awclick.php?mid=18879&id=1207116"
+    },
+    {
+      "codigo": "BLACKSABADO",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 230,
+      "minimo": 1499,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido em produtos selecionados",
+      "validadeAte": "2026-11-29T15:30:06.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
     },
     {
       "codigo": "INFLUPRIME",
@@ -96,18 +108,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-29T00:30:43.000Z",
-      "url": "https://link.amazon/B0aA3uVrC"
-    },
-    {
-      "codigo": "MODANABLACK",
-      "loja": "Amazon",
-      "tipo": "pct",
-      "valor": 10,
-      "minimo": 80,
-      "maximo": null,
-      "limite": 30,
-      "observacao": "Cupom exclusivo para Membros Prime",
-      "validadeAte": "2026-11-28T15:34:20.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
