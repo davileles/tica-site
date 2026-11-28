@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T00:37:46.804Z",
+  "atualizadoEm": "2026-11-28T01:07:46.521Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -879,18 +879,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "CUPOMCLIPS",
-      "loja": "Magazine Luiza",
-      "tipo": "reais",
-      "valor": 200,
-      "minimo": 500,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T00:52:49.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "BLACK200",
       "loja": "Magazine Luiza",
       "tipo": "reais",
@@ -1215,6 +1203,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BFMP100",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 100,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Válido pagando com cartão MP Visa",
+      "validadeAte": "2026-11-29T01:06:18.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "80OFFSMFJKLM",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -1227,15 +1227,15 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "TODOOSITE",
+      "codigo": "70OFFSMFFGHI",
       "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 60,
-      "minimo": 399,
+      "tipo": "pct",
+      "valor": 70,
+      "minimo": 4.99,
       "maximo": null,
-      "limite": 180,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-28T01:00:35.247Z",
+      "limite": 100,
+      "observacao": "Válido na lista específica de produtos",
+      "validadeAte": "2026-11-29T00:59:47.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2847,6 +2847,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "R3ZMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 139,
+      "maximo": null,
+      "limite": 50,
+      "observacao": null,
+      "validadeAte": "2026-11-29T01:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "JJRMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 79,
+      "maximo": null,
+      "limite": 80,
+      "observacao": null,
+      "validadeAte": "2026-11-29T01:00:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2916,6 +2940,18 @@
       "limite": 250,
       "observacao": null,
       "validadeAte": "2026-11-28T21:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MAISBLACK",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 18,
+      "minimo": 1299,
+      "maximo": null,
+      "limite": 300,
+      "observacao": null,
+      "validadeAte": "2026-11-29T01:01:48.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3732,6 +3768,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T21:17:10.000Z",
+      "url": "https://s.shopee.com.br/30kdYeLY0W"
+    },
+    {
+      "codigo": "OLHAHORAAF",
+      "loja": "Shopee",
+      "tipo": "reais",
+      "valor": 25,
+      "minimo": 75,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T01:00:28.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
