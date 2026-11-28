@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T13:07:47.946Z",
+  "atualizadoEm": "2026-11-28T13:37:48.035Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2331,6 +2331,18 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "BOMDEMAIS25",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 25,
+      "minimo": null,
+      "maximo": null,
+      "limite": 500,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-29T13:30:48.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MAISPORMENOS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2511,30 +2523,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MELIGVN",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 55,
-      "observacao": "Cupons em produtos selecionados",
-      "validadeAte": "2026-11-29T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "M2JMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 159,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Cupons em produtos selecionados",
-      "validadeAte": "2026-11-29T12:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "AUTOEFERAMENTAS",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2676,18 +2664,6 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-29T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIG21",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": 150,
-      "maximo": null,
-      "limite": 50,
-      "observacao": "Cupons em produtos selecionados",
-      "validadeAte": "2026-11-29T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3312,18 +3288,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T16:00:08.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "4M3LH0RBLACKSH0P33",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 50,
-      "minimo": 120,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T13:33:52.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
