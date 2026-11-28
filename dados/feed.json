@@ -1,7 +1,43 @@
 {
-  "atualizadoEm": "2026-11-27T23:07:00.395Z",
+  "atualizadoEm": "2026-11-28T02:07:46.155Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55868",
+      "loja": "Amazon",
+      "titulo": "LEGO Set Technic 42171 Mercedes-AMG F1 W14 E Performance 1642 peças",
+      "link": "https://www.amazon.com.br/dp/B0CGXZQYMV?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/51xWLhj8kAL._SL400_.jpg",
+      "preco": 911.4,
+      "precoDe": 2199.99,
+      "desconto": 59,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T02:06:21.386Z"
+    },
+    {
+      "id": "55863",
+      "loja": "Mercado Livre",
+      "titulo": "Placa De Vídeo Peladn Rtx 4070 Armour, 12gb, Gddr6x, 192-bit - R$ 5.248",
+      "link": "https://meli.la/259b2X8",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_787003-MLB116335765082_092026-P.webp",
+      "preco": 4916.34,
+      "precoDe": 8770,
+      "desconto": 44,
+      "cupom": "MELHORDABLACK",
+      "enviadoEm": "2026-11-28T02:03:41.442Z"
+    },
+    {
+      "id": "55860",
+      "loja": "Amazon",
+      "titulo": "Fireball Whisky Canela Kit com 12 Miniaturas de 50ml | Fireball Cinnamon Whisky Licor, whisky canadense com canela real, 33% vol, 50ml, marca de shot nº 1 da América! Sirva gelado",
+      "link": "https://www.amazon.com.br/dp/B0H7K69QHJ?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/41P5VAQOtwL._SL400_.jpg",
+      "preco": 44.9,
+      "precoDe": 53.88,
+      "desconto": 17,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T02:00:45.299Z"
+    },
     {
       "id": "55769",
       "loja": "Amazon",
@@ -5965,42 +6001,6 @@
       "desconto": 9,
       "cupom": "BLACK75OFF",
       "enviadoEm": "2026-11-26T14:00:44.771Z"
-    },
-    {
-      "id": "53299",
-      "loja": "Amazon",
-      "titulo": "Einhell - Serra Sabre - TE-AP 750 E 220V",
-      "link": "https://www.amazon.com.br/dp/B092RGVHZG?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/31hKJWPmdDL._SL400_.jpg",
-      "preco": 471.15,
-      "precoDe": 647.05,
-      "desconto": 16,
-      "cupom": "BLACK75OFF",
-      "enviadoEm": "2026-11-26T14:00:10.598Z"
-    },
-    {
-      "id": "53298",
-      "loja": "Amazon",
-      "titulo": "Serra Sabre Stanley, Brushless, 20V, 29mm, 2 Velocidades, SBR311B",
-      "link": "https://www.amazon.com.br/dp/B0GMRRSP6N?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41xQ8Q3nGpL._SL400_.jpg",
-      "preco": 689.09,
-      "precoDe": 849,
-      "desconto": 10,
-      "cupom": "BLACK75OFF",
-      "enviadoEm": "2026-11-26T13:59:35.780Z"
-    },
-    {
-      "id": "53294",
-      "loja": "Amazon",
-      "titulo": "STANLEY Parafusadeira e Furadeira Angular à Bateria 10mm, 2 Velocidades, Compacta, Modelo SCD750B, 20V",
-      "link": "https://www.amazon.com.br/dp/B0D482J68V?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41-icJdWkTL._SL400_.jpg",
-      "preco": 500.69000000000005,
-      "precoDe": 659,
-      "desconto": 13,
-      "cupom": "BLACK75OFF",
-      "enviadoEm": "2026-11-26T13:58:57.426Z"
     }
   ]
 }
