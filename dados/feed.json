@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-28T03:37:46.156Z",
+  "atualizadoEm": "2026-11-28T04:28:02.141Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "55998",
+      "loja": "Amazon",
+      "titulo": "Licor 43 700 Ml",
+      "link": "https://www.amazon.com.br/dp/B004EAL5UG?tag=davileles-20",
+      "imagem": "https://m.media-amazon.com/images/I/415RzAq+QiL._SL400_.jpg",
+      "preco": 125.91000000000001,
+      "precoDe": 189.9,
+      "desconto": 26,
+      "cupom": "SONHOSBLACK",
+      "enviadoEm": "2026-11-28T04:18:02.135Z"
+    },
     {
       "id": "55994",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 33,
       "cupom": null,
       "enviadoEm": "2026-11-26T15:42:11.200Z"
-    },
-    {
-      "id": "53402",
-      "loja": "Amazon",
-      "titulo": "GIN HENDRICK'S FLORA ADORA 750ml",
-      "link": "https://www.amazon.com.br/dp/B0CLW69YQ8?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41wz0fEIvKL._SL400_.jpg",
-      "preco": 148.89,
-      "precoDe": 239.9,
-      "desconto": 38,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T15:27:44.948Z"
     }
   ]
 }
