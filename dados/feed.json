@@ -1,7 +1,19 @@
 {
-  "atualizadoEm": "2026-11-28T11:37:28.205Z",
+  "atualizadoEm": "2026-11-28T11:53:40.830Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "ofertas": [
+    {
+      "id": "56059",
+      "loja": "Shopee",
+      "titulo": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+      "link": "https://s.shopee.com.br/1qdxLocMEU",
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8_tn",
+      "preco": 22.99,
+      "precoDe": 47.9,
+      "desconto": 52,
+      "cupom": null,
+      "enviadoEm": "2026-11-28T11:43:40.825Z"
+    },
     {
       "id": "56038",
       "loja": "Amazon",
@@ -5989,18 +6001,6 @@
       "desconto": 38,
       "cupom": null,
       "enviadoEm": "2026-11-26T16:18:55.338Z"
-    },
-    {
-      "id": "53467",
-      "loja": "Amazon",
-      "titulo": "Lysoform Suave Odor, Desinfetante Líquido, Limpeza Casa, 5L",
-      "link": "https://www.amazon.com.br/dp/B09V8GM19R?tag=davileles-20",
-      "imagem": "https://m.media-amazon.com/images/I/41Ku-QQ+GjL._SL400_.jpg",
-      "preco": 36.1,
-      "precoDe": 62.03,
-      "desconto": 42,
-      "cupom": null,
-      "enviadoEm": "2026-11-26T16:16:14.678Z"
     }
   ]
 }
