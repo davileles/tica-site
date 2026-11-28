@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T11:53:42.746Z",
+  "atualizadoEm": "2026-11-28T12:04:37.572Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -156,6 +156,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T23:30:41.000Z",
+      "url": "https://link.amazon/B0aA3uVrC"
+    },
+    {
+      "codigo": "10SONHOBLACK",
+      "loja": "Amazon",
+      "tipo": "reais",
+      "valor": 10,
+      "minimo": 50,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T12:01:04.000Z",
       "url": "https://link.amazon/B0aA3uVrC"
     },
     {
@@ -852,18 +864,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T16:35:53.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
-      "codigo": "BF15INFLU",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 15,
-      "minimo": null,
-      "maximo": 1000,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:04:10.000Z",
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
@@ -2523,6 +2523,30 @@
       "url": "https://meli.la/2xystLt"
     },
     {
+      "codigo": "MELIGVN",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 249,
+      "maximo": null,
+      "limite": 55,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-29T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "M2JMELI",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 20,
+      "minimo": 159,
+      "maximo": null,
+      "limite": 40,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-29T12:00:01.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
       "codigo": "MEGADESCONTO",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2652,6 +2676,18 @@
       "limite": 60,
       "observacao": null,
       "validadeAte": "2026-11-29T02:59:00.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "MELIG21",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 15,
+      "minimo": 150,
+      "maximo": null,
+      "limite": 50,
+      "observacao": "Cupons em produtos selecionados",
+      "validadeAte": "2026-11-29T12:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3312,18 +3348,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T17:59:45.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "400FFN4SH0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 40,
-      "minimo": 200,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T12:01:24.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
