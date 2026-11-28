@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T02:37:47.924Z",
+  "atualizadoEm": "2026-11-28T03:07:48.094Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -963,18 +963,6 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "INFLU20BLACK",
-      "loja": "Magazine Luiza",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": null,
-      "maximo": 1500,
-      "limite": null,
-      "observacao": "Válido no app do Magalu",
-      "validadeAte": "2026-11-28T03:04:09.000Z",
-      "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
-    },
-    {
       "codigo": "BF15INFLU",
       "loja": "Magazine Luiza",
       "tipo": "pct",
@@ -987,15 +975,15 @@
       "url": "https://magazineluiza.onelink.me/589508454/3jdc7bbv"
     },
     {
-      "codigo": "GANHEBLACK",
+      "codigo": "ULTIMACHANCE",
       "loja": "Mercado Livre",
       "tipo": "reais",
-      "valor": 300,
-      "minimo": 1999,
+      "valor": 400,
+      "minimo": 1000,
       "maximo": null,
-      "limite": 300,
-      "observacao": "Recusado na inserção pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-28T03:00:01.000Z",
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T02:46:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1008,18 +996,6 @@
       "limite": 300,
       "observacao": "Válido apenas para produtos na lista especificada",
       "validadeAte": "2026-12-01T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "PRECINHOBLAC",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 1999,
-      "maximo": null,
-      "limite": 300,
-      "observacao": "Código inexistente segundo o ML (reverificação pela extensão)",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1071,18 +1047,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "SUPEROFF",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 250,
-      "minimo": 1499,
-      "maximo": null,
-      "limite": 250,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTABLACK",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1092,6 +1056,18 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T22:00:05.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BFMP200",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 200,
+      "minimo": 500,
+      "maximo": null,
+      "limite": null,
+      "observacao": "Uso exclusivo com cartão Mercado Pago",
+      "validadeAte": "2026-11-29T02:46:08.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -1188,6 +1164,18 @@
       "limite": null,
       "observacao": "Indisponível para a conta TSP segundo o ML: INVALID_3: O cupom não está disponível.",
       "validadeAte": "2026-11-28T18:20:02.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "LF4MELI",
+      "loja": "Mercado Livre",
+      "tipo": "reais",
+      "valor": 50,
+      "minimo": 199,
+      "maximo": null,
+      "limite": null,
+      "observacao": null,
+      "validadeAte": "2026-11-29T03:00:01.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2211,18 +2199,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "VEMDECUPOM",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 25,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 500,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "VANTAGEMMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2655,42 +2631,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "PROMOHOJEPRACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 599,
-      "maximo": null,
-      "limite": 350,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "CUIDADOML",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 50,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "HORABLACK",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 79,
-      "maximo": null,
-      "limite": 100,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "FORTUNABLACKNOV",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2724,18 +2664,6 @@
       "limite": 70,
       "observacao": "20% OFF em produtos selecionados com compra mínima de R$249 e desconto máximo limitado a R$70",
       "validadeAte": "2026-11-28T18:00:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "BLACKMELI",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 60,
-      "observacao": null,
-      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2808,18 +2736,6 @@
       "limite": 500,
       "observacao": "Válido em produtos selecionados conforme lista informada",
       "validadeAte": "2026-12-21T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "RENOVACASA",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 18,
-      "minimo": 0,
-      "maximo": null,
-      "limite": 250,
-      "observacao": "Reverificado pela extensão: O cupom esgotou. Há outros disponíveis na seção \"Cupons\".",
-      "validadeAte": "2026-11-28T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3564,18 +3480,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T13:00:21.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "3D14D3BL4CK",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 150,
-      "minimo": 999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T03:01:22.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
