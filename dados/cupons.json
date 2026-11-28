@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T11:37:30.467Z",
+  "atualizadoEm": "2026-11-28T11:53:42.746Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -891,18 +891,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "MEUDESCONTOBLACK",
-      "loja": "Mercado Livre",
-      "tipo": "reais",
-      "valor": 300,
-      "minimo": 1999,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T19:00:01.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "OFERTABLACK",
       "loja": "Mercado Livre",
       "tipo": "reais",
@@ -1644,6 +1632,18 @@
       "limite": 500,
       "observacao": "Cupons com limite de desconto de R$500 cada",
       "validadeAte": "2026-11-29T11:22:03.000Z",
+      "url": "https://meli.la/2xystLt"
+    },
+    {
+      "codigo": "BOIADEIRA30",
+      "loja": "Mercado Livre",
+      "tipo": "pct",
+      "valor": 30,
+      "minimo": 100,
+      "maximo": null,
+      "limite": 45,
+      "observacao": "Válido em produtos selecionados conforme lista fornecida",
+      "validadeAte": "2026-11-29T11:38:25.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -2508,18 +2508,6 @@
       "limite": 200,
       "observacao": null,
       "validadeAte": "2026-11-28T15:26:38.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "MELIUOT",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 70,
-      "observacao": "20% OFF em produtos selecionados com compra mínima de R$249 e desconto máximo limitado a R$70",
-      "validadeAte": "2026-11-28T18:00:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
