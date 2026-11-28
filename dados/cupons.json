@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-28T13:37:48.035Z",
+  "atualizadoEm": "2026-11-28T14:07:47.794Z",
   "grupoUrl": "https://ir.ticapromos.com.br/geral",
   "cupons": [
     {
@@ -2487,18 +2487,6 @@
       "url": "https://meli.la/2xystLt"
     },
     {
-      "codigo": "ENTREGASFULL",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 159,
-      "maximo": null,
-      "limite": 40,
-      "observacao": "Reverificado pela extensão: O cupom não está mais disponível.",
-      "validadeAte": "2026-11-30T02:59:00.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
       "codigo": "EUCERINNOMELI",
       "loja": "Mercado Livre",
       "tipo": "pct",
@@ -2520,18 +2508,6 @@
       "limite": 80,
       "observacao": "Cupons em produtos selecionados",
       "validadeAte": "2026-11-28T22:00:09.000Z",
-      "url": "https://meli.la/2xystLt"
-    },
-    {
-      "codigo": "AUTOEFERAMENTAS",
-      "loja": "Mercado Livre",
-      "tipo": "pct",
-      "valor": 20,
-      "minimo": 249,
-      "maximo": null,
-      "limite": 55,
-      "observacao": null,
-      "validadeAte": "2026-11-30T02:59:00.000Z",
       "url": "https://meli.la/2xystLt"
     },
     {
@@ -3399,18 +3375,6 @@
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     },
     {
-      "codigo": "K1TC04L410OFF",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 10,
-      "minimo": 40,
-      "maximo": null,
-      "limite": null,
-      "observacao": "Válido em produtos selecionados",
-      "validadeAte": "2026-11-28T13:52:25.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
       "codigo": "ULT1M0D4BL4CK",
       "loja": "Shopee",
       "tipo": "reais",
@@ -3420,18 +3384,6 @@
       "limite": null,
       "observacao": null,
       "validadeAte": "2026-11-28T23:02:47.000Z",
-      "url": "https://s.shopee.com.br/30kdYeLY0W"
-    },
-    {
-      "codigo": "5D3D3SC0NT0",
-      "loja": "Shopee",
-      "tipo": "reais",
-      "valor": 5,
-      "minimo": 25,
-      "maximo": null,
-      "limite": null,
-      "observacao": null,
-      "validadeAte": "2026-11-28T14:00:16.000Z",
       "url": "https://s.shopee.com.br/30kdYeLY0W"
     }
   ]
